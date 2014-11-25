@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>აუდიო და ვიზუალი</Audiovisuals>
+  <GameVolume>თამაშის ხმა</GameVolume>
+  <MusicVolume>მუსიკის ხმა</MusicVolume>
+  <GraphicsQuality>გრაფიკის ხარისხი</GraphicsQuality>
+  <GraphicsQualityNormal>ნორმალური</GraphicsQualityNormal>
+  <GraphicsQualityGreat>დიდებული</GraphicsQualityGreat>
+
+  
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <CustomCursor>Custom cursor</CustomCursor>
+  <ChooseLanguage>აირჩიე ენა</ChooseLanguage>
+  <AdaptiveTutor>Adaptive tutor</AdaptiveTutor>
+  <ResetAdaptiveTutor>Reset adaptive tutor</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Adaptive tutor is reset. He will now teach you from scratch.</AdaptiveTutorIsReset>
+  <RunInBackground>Run in background</RunInBackground>
+  <DevelopmentMode>Development mode</DevelopmentMode>
+  <LogVerbose>Verbose logging</LogVerbose>
+  <OpenSaveGameDataFolder>შენახული მონაცემები</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
+  <ChangeStoryteller>აირჩიე მთხრობელი</ChangeStoryteller>
+  
+  <!-- Resolution -->
+  <Resolution>რეზოლუცია</Resolution>
+  <Fullscreen>სრულ ეკრანზე</Fullscreen>
+  <CurrentRes>ამჟამად {0}</CurrentRes>
+  <ChooseResolution>აირჩიე რეზოლუცია</ChooseResolution>
+
+  
+  <!-- Privacy-->
+  <Privacy>პირადი</Privacy>
+  <UserName>მომხმარებლის სახელი</UserName>
+  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
+  <CurrentHistoryUploadPref>ამჟამად {0}</CurrentHistoryUploadPref>
+  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  
+</LanguageData>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <WorkTagNone>არაფერი</WorkTagNone>
+  <WorkTagIntellectual>ინტელექტუალური აზროვნება</WorkTagIntellectual>
+  <WorkTagManualDumb>ფიზიკური შრომა</WorkTagManualDumb>
+  <WorkTagManualSkilled>სპეციალობით შრომა</WorkTagManualSkilled>
+  <WorkTagViolent>ძალადობა</WorkTagViolent>
+  <WorkTagCaring>ზრუნვა</WorkTagCaring>
+  <WorkTagSocial>სოციალური ურთიერთობები</WorkTagSocial>
+  <WorkTagScary>იყოს საშიში</WorkTagScary>
+  <WorkTagArtistic>არტისტული საქმე</WorkTagArtistic>
+  <WorkTagCrafting>ხელოსნობა</WorkTagCrafting>
+  <WorkTagCooking>მზარეულობა</WorkTagCooking>
+  <WorkTagFirefighting>ხანძრის ჩაქრობა</WorkTagFirefighting>
+  <WorkTagCleaning>დასუფთავება</WorkTagCleaning>
+  <WorkTagHauling>ტვირთის ტარება</WorkTagHauling>
+  <WorkTagPlantWork>მცენარეებთან მუშაობა</WorkTagPlantWork>
+  <WorkTagMining>სამთამადნო საქმე</WorkTagMining>
+
+</LanguageData>

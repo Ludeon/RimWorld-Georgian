@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>დრო</ClockTime>
+  <ClockDate>თარიღი</ClockDate>
+  <ClockYear>წელი</ClockYear>
+  <DateReadoutTip>მოსვლიდან გასულია {0} დღე\nთითოეულ თვეში {1} დღეა.</DateReadoutTip>
+
+
+
+  <FullDate>{0} {1}, წელი {2}</FullDate>
+  <MonthFullDate>{0} {1}</MonthFullDate>
+  
+  <MonthFullJanuary>იანვარი</MonthFullJanuary>
+  <MonthFullFebruary>თებერვალი</MonthFullFebruary>
+  <MonthFullMarch>მარტი</MonthFullMarch>
+  <MonthFullApril>აპრილი</MonthFullApril>
+  <MonthFullMay>მაისი</MonthFullMay>
+  <MonthFullJune>ივნისი</MonthFullJune>
+  <MonthFullJuly>ივლისი</MonthFullJuly>
+  <MonthFullAugust>აგვისტო</MonthFullAugust>
+  <MonthFullSeptember>სექტემბერი</MonthFullSeptember>
+  <MonthFullOctober>ოქტომბერი</MonthFullOctober>
+  <MonthFullNovember>ნოემბერი</MonthFullNovember>
+  <MonthFullDecember>დეკემბერი</MonthFullDecember>
+
+  <MonthShortJanuary>იან</MonthShortJanuary>
+  <MonthShortFebruary>თებ</MonthShortFebruary>
+  <MonthShortMarch>მარ</MonthShortMarch>
+  <MonthShortApril>აპრ</MonthShortApril>
+  <MonthShortMay>მაი</MonthShortMay>
+  <MonthShortJune>ივნ</MonthShortJune>
+  <MonthShortJuly>ივლ</MonthShortJuly>
+  <MonthShortAugust>აგვ</MonthShortAugust>
+  <MonthShortSeptember>სექტ</MonthShortSeptember>
+  <MonthShortOctober>ოქტ</MonthShortOctober>
+  <MonthShortNovember>ნოე</MonthShortNovember>
+  <MonthShortDecember>დეკ</MonthShortDecember>
+    
+    
+</LanguageData>
