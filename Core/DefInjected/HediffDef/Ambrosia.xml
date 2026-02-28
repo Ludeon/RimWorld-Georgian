@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AmbrosiaAddiction.description>ამბროზიაზე ქიმიური დამოკიდებულება. ამბროზიის ხანგრძლივმა ზემოქმედებამ უჯრედულ დონეზე ნევროლოგიური ადაპტაციები გამოიწვია, ამიტომ ტვინი მის გარეშე ვეღარ ფუნქციონირებს ნორმალურად.</AmbrosiaAddiction.description>
+  <AmbrosiaAddiction.label>ამბროზიის დამოკიდებულება</AmbrosiaAddiction.label>
+  <AmbrosiaAddiction.stages.1.label>გაყვანა</AmbrosiaAddiction.stages.1.label>
+  <AmbrosiaHigh.description>ამბროზიის ქიმიკატები სისხლში. ის ამაღლებს განწყობას.</AmbrosiaHigh.description>
+  <AmbrosiaHigh.label>ამბროზიის სითბო</AmbrosiaHigh.label>
+  <AmbrosiaTolerance.description>გაზრდილი ტოლერანტობა ამბროზიის მიმართ. რაც უფრო მკაცრია ეს ტოლერანტობა, მით მეტი ამბროზია სჭირდება იგივე ეფექტის მისაღებად.</AmbrosiaTolerance.description>
+  <AmbrosiaTolerance.label>ამბროზიის ტოლერანტობა</AmbrosiaTolerance.label>
+</LanguageData>

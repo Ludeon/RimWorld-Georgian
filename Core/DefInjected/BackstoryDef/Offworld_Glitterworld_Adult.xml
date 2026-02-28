@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Architect28.description>[PAWN_nameDef]-მა დააპროექტა შენობების მშენებლობა. [PAWN_possessive] ბრჭყვიალა სამყაროს სახლში, არქიტექტურის ტექნიკურ ასპექტს ამუშავებდა ხელოვნური ინტელექტი, ხოლო მუშაობას რობოტები აკეთებდნენ. ამან გაათავისუფლა [PAWN_objective] თავისი ხელობის მხატვრული საზღვრების გადალახვის მიზნით, მაგრამ ასევე ნიშნავდა, რომ [PAWN_pronoun] არასოდეს მოუწევდა [PAWN_possessive] ხელების დაბინძურება.</Architect28.description>
+  <Architect28.title>არქიტექტორი</Architect28.title>
+  <Architect28.titleShort>არქიტექტორი</Architect28.titleShort>
+  <BiosphereManager95.description>[PAWN_nameDef] ცხოვრობდა მშვიდობიან ბრჭყვიალა სამყაროში, სადაც ყველა საწყალი საქმეს რობოტები ასრულებდნენ, ხალხი კი ძირითადად თავის თავს უთმობდა დასვენებას. [PAWN_pronoun] მართავდა ფართო პარკის მცენარეულ და ცხოველურ ცხოვრებას, სადაც მოქალაქეები მოდიოდნენ აღფრთოვანებულიყვნენ ბუნების სილამაზით.</BiosphereManager95.description>
+  <BiosphereManager95.title>ბიოსფეროს მენეჯერი</BiosphereManager95.title>
+  <BiosphereManager95.titleShort>ბოტანიკოსი</BiosphereManager95.titleShort>
+  <CharityWorker36.description>ბრჭყვიალა სამყაროები კომფორტის თავშესაფარია მათთვის, ვინც იღბლიანი იქ ცხოვრობს, მაგრამ [PAWN_nameDef]-ს არ შეეძლო უგულებელყო ახლომდებარე ნაგვის სამყარო, სადაც ხალხი იტანჯებოდა და შიმშილობდა. [PAWN_pronoun] გაატარა [PAWN_possessive] ცხოვრება შემოწირულობების მოთხოვნით და გაჭირვებულთა მხარდაჭერით.</CharityWorker36.description>
+  <CharityWorker36.title>საქველმოქმედო მუშაკი</CharityWorker36.title>
+  <CharityWorker36.titleShort>ალტრუისტი</CharityWorker36.titleShort>
+  <GlitterworldEmpath26.description>[PAWN_nameDef]-ს გაუადვილდა სხვებთან ურთიერთობა და კონფლიქტის შუამავლობა. [PAWN_pronoun] შეირჩა ემპათიად ვარჯიშისთვის. ტრენინგმა გააძლიერა [PAWN_possessive] ბუნებრივი შესაძლებლობები, მაგრამ [PAWN_pronoun] ვერ შეძლო სხვების ტკივილის გამოწვევა.</GlitterworldEmpath26.description>
+  <GlitterworldEmpath26.title>ბრჭყვიალა სამყაროს თანაგრძნობა</GlitterworldEmpath26.title>
+  <GlitterworldEmpath26.titleShort>თანაგრძნობა</GlitterworldEmpath26.titleShort>
+  <GlitterworldOfficer60.description>მიუხედავად იმისა, რომ გლიტერვორლდები მშვიდობიანი ადგილებია, ისინი ხშირად ომისთვის მაინც მზად არიან. [PAWN_nameDef]-ის დანაყოფს ნამდვილი ბრძოლის ნახვა იშვიათად უწევდა.\n\n[PAWN_pronoun] საკუთარ მხატვრულ გატაცებებს მისდევდა, მაგრამ [PAWN_possessive] დაქვემდებარებულებს ჩხუბით გართობა ურჩევნოდათ, ამიტომ [PAWN_nameDef] ჩხუბების დაშლაში დახელოვნდა.</GlitterworldOfficer60.description>
+  <GlitterworldOfficer60.title>ბრჭყვიალა სამყაროს ოფიცერი</GlitterworldOfficer60.title>
+  <GlitterworldOfficer60.titleShort>ოფიცერი</GlitterworldOfficer60.titleShort>
+  <GlitterworldSurgeon15.description>[PAWN_nameDef] ქირურგად მუშაობდა სამყაროში, სადაც დაავადება და ადამიანური ტანჯვა თითქმის არ არსებობდა, ამიტომ [PAWN_possessive] საქმე ძირითადად რთულ და შემოქმედებით კოსმეტიკურ ოპერაციებზე იყო ორიენტირებული.\n\n[PAWN_pronoun] ადამიანის ბიოლოგია ძალიან კარგად ესმის, მაგრამ სიმსივნის - ან ტყვიის - ამოღება არასდროს დასჭირვებია.</GlitterworldSurgeon15.description>
+  <GlitterworldSurgeon15.title>ბრჭყვიალა სამყაროს ქირურგი</GlitterworldSurgeon15.title>
+  <GlitterworldSurgeon15.titleShort>ქირურგი</GlitterworldSurgeon15.titleShort>
+  <NavyScientist52.description>ვარსკვლავთშორის ომს ტექნოლოგია იგებს, ამიტომ გლიტერვორლდის ფლოტები თანამედროვე კვლევის წინა ხაზზე დგანან. უკეთესიც კია - ზოგჯერ ისინი კოსმოსში მცურავ არქოტექურ არტეფაქტებსაც პოულობენ.\n\n[PAWN_nameDef] საზღვაო ლაბორატორიაში მუშაობდა.</NavyScientist52.description>
+  <NavyScientist52.title>საზღვაო ფლოტის მეცნიერი</NavyScientist52.title>
+  <NavyScientist52.titleShort>მეცნიერი</NavyScientist52.titleShort>
+  <Novelist7.description>[PAWN_nameDef] ცხოვრობდა ბრჭყვიალა სამყაროში და წერდა საოცრად წარმატებულ რომანებს. [PAWN_pronoun] ცხოვრობდა უდარდელი ცხოვრების წესით, ატარებდა [PAWN_possessive] დღეებს წერაში და [PAWN_possessive] ღამეებს წვეულებაზე - და არასოდეს გაუკეთებია ერთი დღის ფიზიკური შრომა [PAWN_possessive] ცხოვრებაში.</Novelist7.description>
+  <Novelist7.title>რომანისტი</Novelist7.title>
+  <Novelist7.titleShort>რომანისტი</Novelist7.titleShort>
+  <Sculptor63.description>[PAWN_nameDef]-მა დაიწყო ადამიანის ზომის ნამუშევრების ძერწვა, მაგრამ [PAWN_pronoun] მალევე დაიწყო უფრო დიდი ფიქრი. მაინინგ რობოტების დახმარებით, [PAWN_pronoun] ისწავლა როგორ გამოეკვეთა უზარმაზარი ძეგლები კლდეებიდან. მალე ბრჭყვიალა სამყაროს პარკები, სადაც [PAWN_pronoun] ცხოვრობდა, სავსე იყო გიგანტური ქვის ფიგურებით.</Sculptor63.description>
+  <Sculptor63.title>მოქანდაკე</Sculptor63.title>
+  <Sculptor63.titleShort>მოქანდაკე</Sculptor63.titleShort>
+  <VRDesigner87.description>[PAWN_nameDef]-მა შექმნა ვირტუალური რეალობის სიმულაციები ბრჭყვიალა სამყაროს მოქალაქეებისთვის. [PAWN_pronoun]-მა დიდი ძალისხმევა დახარჯა [PAWN_possessive] ვირტუალური სამყაროების დეტალებში, ისწავლა ყველაფერი, რაც [PAWN_pronoun] შეიძლებოდა მცენარეთა ცხოვრების შესახებ, რათა [PAWN_possessive] პეიზაჟები მაქსიმალურად რეალისტური ყოფილიყო.</VRDesigner87.description>
+  <VRDesigner87.title>VR დიზაინერი</VRDesigner87.title>
+  <VRDesigner87.titleShort>თამაშის დეველოპმენტი</VRDesigner87.titleShort>
+</LanguageData>

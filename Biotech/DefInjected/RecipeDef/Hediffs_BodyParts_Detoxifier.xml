@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallDetoxifierKidney.description>დააინსტალირეთ დეტოქსიკაციის თირკმელი.</InstallDetoxifierKidney.description>
+  <InstallDetoxifierKidney.jobString>თირკმლის დეტოქსიკატორის დაყენება.</InstallDetoxifierKidney.jobString>
+  <InstallDetoxifierKidney.label>დააინსტალირეთ დეტოქსიკაციის თირკმელი</InstallDetoxifierKidney.label>
+  <InstallDetoxifierLung.description>დააინსტალირეთ ფილტვების დეტოქსიკაციის საშუალება.</InstallDetoxifierLung.description>
+  <InstallDetoxifierLung.jobString>ფილტვების დეტოქსიკატორის დაყენება.</InstallDetoxifierLung.jobString>
+  <InstallDetoxifierLung.label>დააინსტალირეთ ფილტვების დეტოქსიკატორი</InstallDetoxifierLung.label>
+</LanguageData>

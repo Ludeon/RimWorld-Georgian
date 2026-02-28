@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Crashlanded.description>თქვენ სამივე იღვიძებთ თქვენს კრიპტოძილს სარკოფაგებში სირენებისა და ლითონის ჭრის ხმაზე. ძლივს მიდიხარ გაქცევის ღობემდე, სანამ გემი დაიშლება. გარკვეული პერიოდის შემდეგ, თქვენ დაეშვით ამ უცნობ საზღვრულ სამყაროზე.</Crashlanded.description>
+  <Crashlanded.label>ავარიული დაშვება</Crashlanded.label>
+  <Crashlanded.scenario.summary>სამი გადარჩენილი ავარიული დაშვების შემდეგ. კლასიკური RimWorld სცენარი.</Crashlanded.scenario.summary>
+  <LostTribe.description>თქვენი ტომი ღმერთების მიერ გამოგზავნილმა დიდმა სისხლის მანქანებმა გაანადგურეს. თქვენგან ხუთმა გაქცევა მოახერხა. ახლა ახალი სახლის აშენების დროა.\n\nშენიშვნა: თამაშს იწყებთ სიღარიბეში და ტექნოლოგიის გარეშე, ამიტომ ეს რთული სცენარია.</LostTribe.description>
+  <LostTribe.label>დაკარგული ტომი</LostTribe.label>
+  <LostTribe.scenario.summary>დაკარგული ტომის ხუთი წევრი ახალი სახლის აშენებას ცდილობს. რთულია.</LostTribe.scenario.summary>
+  <NakedBrutality.description>უმნიშვნელო ოპერაციისთვის ანესთეზია გაგიკეთეს. ახლა კი შორეულ პლანეტაზე ავარიულად დაშვებულ კაფსულაში გაიღვიძე. შიშველი ხარ, მარტო ხარ და საერთოდ მოუმზადებელი. შეძლებ გადარჩენას?\n\nგაფრთხილება: ამ სცენარში არაფერია სამართლიანი - ის უკიდურესად რთულია და სიკვდილი შეიძლება ნებისმიერი მიზეზით დადგეს.</NakedBrutality.description>
+  <NakedBrutality.label>შიშველი სისასტიკე</NakedBrutality.label>
+  <NakedBrutality.scenario.summary>შიშველი, მარტო და სრულიად მოუმზადებელი. შეგიძლია გადარჩე? უკიდურესად რთული და უსამართლო.</NakedBrutality.scenario.summary>
+  <TheRichExplorer.description>ხალხი გიჟს გეძახდა, რადგან ბრჭყვიალა სამყაროში შენი სახლი დატოვე, მაგრამ შენ ყოველთვის ვარსკვლავების ნახვა გსურდა - ნეიროსიმულატორის გარეთ. ახლა შენი ხანგრძლივი კრიპტოძილის მოგზაურობა დასასრულს მიუახლოვდა და უცნობ rimworld-ზე ეშვები, რომ საკუთარი თვალით ნახო, როგორია აქ ცხოვრება.\n\nშენიშვნა: რადგან საწყის პერსონაჟს ზოგი უნარი აკლია, ეს სცენარი განსაკუთრებით რთულია თამაშის დასაწყისში.</TheRichExplorer.description>
+  <TheRichExplorer.label>მდიდარი მკვლევარი</TheRichExplorer.label>
+  <TheRichExplorer.scenario.summary>ერთი მდიდარი მკვლევარი უცნობ rimworld-ს იკვლევს. განსაკუთრებით რთულია.</TheRichExplorer.scenario.summary>
+  <Tutorial.label>სახელმძღვანელო</Tutorial.label>
+</LanguageData>

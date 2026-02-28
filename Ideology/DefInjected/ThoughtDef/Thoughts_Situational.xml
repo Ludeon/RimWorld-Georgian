@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LookChangeDesired.stages.0.description>ჩემი გარეგნობა არ ემთხვევა იმას, ვინც დღეს ვარ. მინდა შევცვალო.</LookChangeDesired.stages.0.description>
+  <LookChangeDesired.stages.0.label>სასურველი გარეგნობის შეცვლა</LookChangeDesired.stages.0.label>
+  <MasochistWearingBodyStrap.stages.0.description>თასმები მჭერს და ამშვიდებს ჩემს სულს.</MasochistWearingBodyStrap.stages.0.description>
+  <MasochistWearingBodyStrap.stages.0.label>მაზოხისტური სხეული თასმიანი</MasochistWearingBodyStrap.stages.0.label>
+  <MasochistWearingCollar.stages.0.description>ასეთი შემზღუდავი დისკომფორტი... ლაღი.</MasochistWearingCollar.stages.0.description>
+  <MasochistWearingCollar.stages.0.label>მაზოხისტმა საყელო</MasochistWearingCollar.stages.0.label>
+  <WearingColor_Favorite.stages.0.description>მე უბრალოდ მიყვარს ეს ფერი.</WearingColor_Favorite.stages.0.description>
+  <WearingColor_Favorite.stages.0.label>საყვარელი ფერის ტარება</WearingColor_Favorite.stages.0.label>
+  <WearingColor_Ideo.stages.0.description>ჩემი ტანსაცმლის შეღებვა სწორად გამოხატავს ჩემს რწმენას.</WearingColor_Ideo.stages.0.description>
+  <WearingColor_Ideo.stages.0.label>იდეოლიგიური ფერის ტარება</WearingColor_Ideo.stages.0.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RelicAtRitual.stages.0.description>{RELICNAME} ესწრებოდა ჩვენს რიტუალს.</RelicAtRitual.stages.0.description>
+  <RelicAtRitual.stages.0.label>{RELICNAME} რიტუალზე</RelicAtRitual.stages.0.label>
+  <RelicAtRitual.stages.1.description>ჩვენი რიტუალის დროს ორი რელიქვია იმყოფებოდა.</RelicAtRitual.stages.1.description>
+  <RelicAtRitual.stages.1.label>ორი რელიქვია რიტუალზე</RelicAtRitual.stages.1.label>
+  <RelicAtRitual.stages.2.description>ჩვენი რიტუალის დროს სამი რელიქვია იმყოფებოდა.</RelicAtRitual.stages.2.description>
+  <RelicAtRitual.stages.2.label>სამი რელიქვია რიტუალზე</RelicAtRitual.stages.2.label>
+  <TrialConvicted.stages.0.description>მე უსამართლოდ დამისაჯეს საშინელი დანაშაულისთვის!</TrialConvicted.stages.0.description>
+  <TrialConvicted.stages.0.label>ნასამართლევი</TrialConvicted.stages.0.label>
+  <TrialExonerated.stages.0.description>მათ ჩემზე არაფერი ჰქონდათ და ვაჩვენე!</TrialExonerated.stages.0.description>
+  <TrialExonerated.stages.0.label>გამართლებული</TrialExonerated.stages.0.label>
+  <TrialFailed.stages.0.description>ბრალდება წავაყენე და ვერც კი გავაჩერე. ეს დამამცირებელია.</TrialFailed.stages.0.description>
+  <TrialFailed.stages.0.label>წარუმატებელი სასამართლო პროცესი</TrialFailed.stages.0.label>
+</LanguageData>

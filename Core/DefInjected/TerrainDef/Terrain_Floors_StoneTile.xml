@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FlagstoneGranite.label>გრანიტის ფლაგმანი</FlagstoneGranite.label>
+  <FlagstoneLimestone.label>კირქვის ფლაგმანი</FlagstoneLimestone.label>
+  <FlagstoneMarble.label>მარმარილოს ფლაგმანი</FlagstoneMarble.label>
+  <FlagstoneSandstone.label>ქვიშაქვის ფლაგმანი</FlagstoneSandstone.label>
+  <FlagstoneSlate.label>ფიქალის ფლაგმანი</FlagstoneSlate.label>
+  <TileGranite.label>გრანიტის ფილა</TileGranite.label>
+  <TileLimestone.label>კირქვის ფილა</TileLimestone.label>
+  <TileMarble.label>მარმარილოს ფილა</TileMarble.label>
+  <TileSandstone.label>ქვიშაქვის ფილა</TileSandstone.label>
+  <TileSlate.label>ფიქალის ფილა</TileSlate.label>
+</LanguageData>

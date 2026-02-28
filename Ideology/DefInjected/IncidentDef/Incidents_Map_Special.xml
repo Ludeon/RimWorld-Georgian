@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GauranlenPodSpawn.label>Gauranlen pod sprout</GauranlenPodSpawn.label>
+  <GauranlenPodSpawn.letterLabel>Gauranlen pod sprout</GauranlenPodSpawn.letterLabel>
+  <GauranlenPodSpawn.letterText>A Gauranlen pod has sprouted nearby!\n\nHarvest it to collect a Gauranlen seed. This special seed can be used to plant the majestic Gauranlen tree.\n\nYour colonists can connect with Gauranlen trees and make them spawn resources and helpful dryads to work or fight for you.</GauranlenPodSpawn.letterText>
+  <GiveQuest_Beggars.label>მოდიან მათხოვრები</GiveQuest_Beggars.label>
+  <GiveQuest_Beggars.letterLabel>მოდიან მათხოვრები</GiveQuest_Beggars.letterLabel>
+  <GiveQuest_ReliquaryPilgrims.label>მომლოცველები ჩამოდიან</GiveQuest_ReliquaryPilgrims.label>
+  <GiveQuest_ReliquaryPilgrims.letterLabel>მომლოცველები ჩამოდიან</GiveQuest_ReliquaryPilgrims.letterLabel>
+  <Infestation_Jelly.label>მწერების ჟელე</Infestation_Jelly.label>
+  <Infestation_Jelly.letterLabel>მწერების ჟელე</Infestation_Jelly.letterLabel>
+  <Infestation_Jelly.letterText>გიგანტურმა მწერებმა ქვემოდან გვირაბი ამოიღეს და ზედაპირზე მწერების ჭარბი ჟელე მოათავსეს.</Infestation_Jelly.letterText>
+  <WanderersSkylantern.label>მოხეტიალეები</WanderersSkylantern.label>
+  <WanderersSkylantern.letterLabel>მეგობრული სტუმრები</WanderersSkylantern.letterLabel>
+  <WanderersSkylantern.letterText>Your skylanterns have attracted some friendly travelers. The travelers were amazed by the spectacle you created and hope they'll get to participate next time.\n\nThey will visit and leave a gift.</WanderersSkylantern.letterText>
+</LanguageData>

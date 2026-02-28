@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AcidSpray.description>დაასხურეთ წებოვანი მჟავა ნივთიერება კისრის ჯირკვლებიდან პირის ღრუში და მთელ სამიზნე ზონაში. მჟავა მიეკრობა სამიზნეებს და დაწვავს მათ.</AcidSpray.description>
+  <AcidSpray.label>მჟავა სპრეი</AcidSpray.label>
+  <AnimalWarcall.description>მძლავრი დარტყმითა და ფსიქიკური კავშირით, დაუძახეთ ცხოველს რამდენიმე საათის განმავლობაში მტრებთან საბრძოლველად.</AnimalWarcall.description>
+  <AnimalWarcall.label>ცხოველთა ზარი</AnimalWarcall.label>
+  <Bloodfeed.description>Bite the target and extract hemogen directly from their blood. The target will lose blood and will be horrified by the interaction, but will be otherwise unharmed. A fast-acting coagulant will seal the wound to prevent bleeding.\n\nCan only target non-hemogenic humans. Hemogen gain is affected by the target's body size.</Bloodfeed.description>
+  <Bloodfeed.label>სისხლის კვება</Bloodfeed.label>
+  <Coagulate.description>გამოიყენეთ სპეციალური ჯირკვლები მაჯებში, რათა სწრაფად დაასხით ვინმეს ჭრილობები.</Coagulate.description>
+  <Coagulate.label>შედედება</Coagulate.label>
+  <FireBurst.description>გამოუშვით დამწვარი საწვავის აფეთქება ყველა მიმართულებით, რათა ჩამოყალიბდეს ანთებული სითხის გუბეები მიწაზე.</FireBurst.description>
+  <FireBurst.label>ცეცხლი ააფეთქეს</FireBurst.label>
+  <FirefoampopMech.description>გამოუშვით ცეცხლგამძლე ქაფი წრიულ ზონაში.</FirefoampopMech.description>
+  <FirefoampopMech.label>firefoam pop</FirefoampopMech.label>
+  <FireSpew.description>Spit a stream of sticky, flammable bile from the mouth. The bile can ignite anything or anyone it hits, and also form flaming pools on the ground.\n\nThe bile is generated and stored by an organ in the neck, along with a separate pouch of hypergolic reactant for ignition.</FireSpew.description>
+  <FireSpew.label>ცეცხლის ნაპერწკალი</FireSpew.label>
+  <FoamSpray.description>დაასხურეთ სქელი ცეცხლგამძლე ქაფი კისრის ჯირკვლებიდან პირის ღრუში. ქაფი დაფარავს მცირე ადგილს და ჩააქრობს ნებისმიერ ცეცხლს, რომელსაც ის შეეხება.</FoamSpray.description>
+  <FoamSpray.label>ქაფის სპრეი</FoamSpray.label>
+  <Longjump.description>გადახტეთ შორეულ ადგილას სუპერ ძლიერი ჰემოგენით მომუშავე ფეხების გამოყენებით.</Longjump.description>
+  <Longjump.label>სიგრძეზე ხტომა</Longjump.label>
+  <LongjumpMech.description>გადახტეთ შორეულ ადგილას სპეციალური ულტრასწრაფი მექანოიდური კუნთების გამოყენებით.</LongjumpMech.description>
+  <LongjumpMech.label>მექანიკური სიგრძის ნახტომი</LongjumpMech.label>
+  <LongjumpMechLauncher.description>გადახტომა შორეულ ადგილას ჩაშენებული ნახტომის გამშვების გამოყენებით.</LongjumpMechLauncher.description>
+  <LongjumpMechLauncher.label>ნახტომის გამშვები</LongjumpMechLauncher.label>
+  <PiercingSpine.description>გამოიყენეთ ჰემოგენური ქიმიური რეაქცია სამიზნეზე ძვლოვანი ხერხემლის გასაშვებად. ხერხემალი კანის მეშვეობით გამოდის საყელოს ძვლებს შორის არსებული ღიობიდან. გაშვების მეთოდის გათვალისწინებით, გასაოცრად ადვილია დამიზნება.</PiercingSpine.description>
+  <PiercingSpine.label>ხერხემლის პირსინგი</PiercingSpine.label>
+  <ReimplantXenogerm.description>Implant this person's xenogenes into a willing subject using a special injector organ. If this person's genes are currently regrowing, they will implant their xenogerm and die in the process.\n\nWhen implanted, a xenogerm will overwrite the target's xenogenes. Germline genes will be unaffected.</ReimplantXenogerm.description>
+  <ReimplantXenogerm.label>იმპლანტაციის გენები</ReimplantXenogerm.label>
+  <Resurrect.description>გამოიყენეთ არქიტები სისხლძარღვში, რათა მიცვალებულის სხეულს ახალი სიცოცხლე შეავსოთ, გადაგვარებული უჯრედული სტრუქტურები აღადგინოთ და სასიცოცხლო ფუნქციები დაიწყოს. რაც უფრო ძველი და უარესად არის შენახული გვამი, მით უფრო სავარაუდოა, რომ ისინი დაბრუნდებიან მეხსიერების დაკარგვით ან ჯანმრთელობის პრობლემებით. როგორც ჩანს, ეს უნარი გარკვეულწილად ამოწურავს არქიტებს, ამიტომ მისი გამოყენება მხოლოდ ძალიან იშვიათად შეიძლება.</Resurrect.description>
+  <Resurrect.label>გაცოცხლება</Resurrect.label>
+  <ResurrectionMech.description>აღადგინეთ ახლახან მოკლული მექანოიდი მისი თვითაღდგენის პროცესების გარეგანი გადატენვით. მექანოიდი დაბრუნდება ზოგიერთი, მაგრამ არა ყველა მისი ჭრილობით შეხორცებული.</ResurrectionMech.description>
+  <ResurrectionMech.label>აღდგომა მექ</ResurrectionMech.label>
+  <SmokepopMech.description>გაათავისუფლეთ შეკუმშული კვამლი ფარული ხვრელებიდან. კვამლი ამცირებს მის მიერ გასროლილი ნებისმიერი გასროლის სიზუსტეს და ხელს უშლის კოშკების მთლიანად ჩაკეტვას.</SmokepopMech.description>
+  <SmokepopMech.label>მექანიკური smokepop</SmokepopMech.label>
+</LanguageData>

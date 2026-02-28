@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_KidHelmet.description>მარტივი ზომის ჩაფხუტი ბავშვებისთვის. ის იძლევა ზომიერ დაცვას მკვეთრი შეტევებისგან. არ არის ეფექტური ბლაგვი იარაღის წინააღმდეგ. ამის თქმით, თუ ეს გამოიყენება ბრძოლაში, რაღაც უკვე ძალიან ცუდად წავიდა.</Apparel_KidHelmet.description>
+  <Apparel_KidHelmet.label>ბავშვის ჩაფხუტი</Apparel_KidHelmet.label>
+  <Apparel_KidPants.description>შარვლის პატარა კომპლექტი, რომელიც განკუთვნილია ბავშვებისთვის.</Apparel_KidPants.description>
+  <Apparel_KidPants.label>ბავშვის შარვალი</Apparel_KidPants.label>
+  <Apparel_KidParka.description>მძიმე ქურთუკი ბავშვის სითბოს შესანარჩუნებლად ცივ ტემპერატურაზე.</Apparel_KidParka.description>
+  <Apparel_KidParka.label>საბავშვო პარკი</Apparel_KidParka.label>
+  <Apparel_KidRomper.description>ბავშვთა ზომის კომბინირებული მაისური და შარვალი, მჭიდროდ ჩაშენებული საცვლებით. პატარებს უყვართ!</Apparel_KidRomper.description>
+  <Apparel_KidRomper.label>საბავშვო როპერი</Apparel_KidRomper.label>
+  <Apparel_KidShirt.description>პატარა, უბრალო მაისური, რომელიც განკუთვნილია ბავშვებისთვის.</Apparel_KidShirt.description>
+  <Apparel_KidShirt.label>ბავშვის პერანგი</Apparel_KidShirt.label>
+  <Apparel_KidTribal.description>ბავშვებისთვის განკუთვნილი ერთი ცალი სამოსი, რომელიც დამზადებულია ნეოლითური ხელსაწყოების გამოყენებით. ის უზრუნველყოფს ეფექტურ იზოლაციას ელემენტების მიმართ.</Apparel_KidTribal.description>
+  <Apparel_KidTribal.label>საბავშვო ტომის ტანსაცმელი</Apparel_KidTribal.label>
+</LanguageData>

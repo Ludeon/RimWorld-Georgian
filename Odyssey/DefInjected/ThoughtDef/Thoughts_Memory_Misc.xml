@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlowingSand.stages.0.description>ყველგან ხვდება! კბილებს შორის ვგრძნობ.</BlowingSand.stages.0.description>
+  <BlowingSand.stages.0.label>ქვიშის აფეთქება</BlowingSand.stages.0.label>
+  <DestroyedMechhive.stages.0.description>ჩვენ დავამარცხეთ ისინი! ჩვენ ახლა მათგან გავთავისუფლდით.</DestroyedMechhive.stages.0.description>
+  <DestroyedMechhive.stages.0.label>დანგრეული მეჩხერი</DestroyedMechhive.stages.0.label>
+  <DestroyedMechhiveMainPawn.stages.0.description>მე გავანადგურე ცერებრექსის ბირთვი. ჩვენ საბოლოოდ გავთავისუფლდით მექანიკური საფრთხისგან.</DestroyedMechhiveMainPawn.stages.0.description>
+  <DestroyedMechhiveMainPawn.stages.0.label>დანგრეული მეჩხერი</DestroyedMechhiveMainPawn.stages.0.label>
+  <HotSpring.stages.0.description>სასიამოვნოა ფეხების თბილ წყალში ჩაყოლა.</HotSpring.stages.0.description>
+  <HotSpring.stages.0.label>ცხელი წყარო</HotSpring.stages.0.label>
+  <ToxWater.stages.0.description>გაჟღენთილი ვარ ამ ამაზრზენი ნივთებით. ქავილი და იწვის.</ToxWater.stages.0.description>
+  <ToxWater.stages.0.label>ტოქსიკური წყალი</ToxWater.stages.0.label>
+</LanguageData>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AcidBurn.description>მჟავა დამწვრობა.</AcidBurn.description>
+  <AcidBurn.label>მჟავა დამწვრობა</AcidBurn.label>
+  <AcidBurn.labelNoun>მჟავა დამწვრობა</AcidBurn.labelNoun>
+  <BeamWound.description>სხივი დამწვრობა.</BeamWound.description>
+  <BeamWound.label>სხივის დამწვრობა</BeamWound.label>
+  <BeamWound.labelNoun>სხივი დამწვრობა</BeamWound.labelNoun>
+  <Bite.description>ნაკბენი ჭრილობა.</Bite.description>
+  <Bite.label>ნაკბენი</Bite.label>
+  <Bite.labelNoun>ნაკბენი ჭრილობა</Bite.labelNoun>
+  <Bruise.description>სისხლჩაქცევა.</Bruise.description>
+  <Bruise.label>სისხლჩაქცევა</Bruise.label>
+  <Bruise.labelNoun>სისხლჩაქცევა</Bruise.labelNoun>
+  <Burn.description>დამწვრობა.</Burn.description>
+  <Burn.label>დამწვრობა</Burn.label>
+  <Burn.labelNoun>დამწვრობა</Burn.labelNoun>
+  <ChemicalBurn.description>ქიმიური დამწვრობა.</ChemicalBurn.description>
+  <ChemicalBurn.label>ქიმიური დამწვრობა</ChemicalBurn.label>
+  <ChemicalBurn.labelNoun>ქიმიური დამწვრობა</ChemicalBurn.labelNoun>
+  <Crack.description>ბზარი.</Crack.description>
+  <Crack.label>ბზარი</Crack.label>
+  <Crack.labelNoun>ნაპრალის ჭრილობა</Crack.labelNoun>
+  <Crush.description>გამანადგურებელი ჭრილობა.</Crush.description>
+  <Crush.label>დამსხვრევა</Crush.label>
+  <Crush.labelNoun>დამსხვრეული ჭრილობა</Crush.labelNoun>
+  <Cut.description>გაჭრა.</Cut.description>
+  <Cut.label>გაჭრა</Cut.label>
+  <Cut.labelNoun>გაჭრა</Cut.labelNoun>
+  <Decayed.description>ეს ორგანო მთლიანად გაფუჭდა.</Decayed.description>
+  <Decayed.label>გაფუჭებული ორგანო</Decayed.label>
+  <Decayed.labelNoun>გაფუჭებული ორგანო</Decayed.labelNoun>
+  <ElectricalBurn.description>ელექტრო დამწვრობა.</ElectricalBurn.description>
+  <ElectricalBurn.label>ელექტრო დამწვრობა</ElectricalBurn.label>
+  <ElectricalBurn.labelNoun>ელექტრო დამწვრობა</ElectricalBurn.labelNoun>
+  <ExecutionCut.description>შესრულების დროს გაკეთებული ჭრილი.</ExecutionCut.description>
+  <ExecutionCut.label>გაჭრა</ExecutionCut.label>
+  <ExecutionCut.labelNoun>გაჭრა</ExecutionCut.labelNoun>
+  <Frostbite.description>გაყინული ქსოვილი გამოწვეული სიცივის ზემოქმედებით ადეკვატური დაცვის გარეშე. მოყინვა ძალიან მტკივნეულია და ხშირად იკარგება ყინვაგამძლე სხეულის ნაწილები.</Frostbite.description>
+  <Frostbite.label>მოყინვა</Frostbite.label>
+  <Gunshot.description>ცეცხლსასროლი ჭრილობა.</Gunshot.description>
+  <Gunshot.label>გასროლა</Gunshot.label>
+  <Gunshot.labelNoun>ცეცხლსასროლი ჭრილობა</Gunshot.labelNoun>
+  <Misc.description>სხვადასხვა სახის დაზიანებები.</Misc.description>
+  <Misc.label>ჭრილობა</Misc.label>
+  <Misc.labelNoun>ტრავმა</Misc.labelNoun>
+  <MissingBodyPart.description>სხეულის ნაწილი მთლიანად აკლია.</MissingBodyPart.description>
+  <MissingBodyPart.label>სხეულის ნაწილი აკლია</MissingBodyPart.label>
+  <MissingBodyPart.labelNoun>სხეულის დაკარგული ნაწილი</MissingBodyPart.labelNoun>
+  <Scratch.description>ნაკაწრი ან ცრემლი.</Scratch.description>
+  <Scratch.label>ნაკაწრი</Scratch.label>
+  <Scratch.labelNoun>ნაკაწრი</Scratch.labelNoun>
+  <Shredded.description>სხეულის ნაწილი გახეხილი და გახეხილია.</Shredded.description>
+  <Shredded.label>გახეხილი</Shredded.label>
+  <Shredded.labelNoun>გახეხილი ჭრილობა</Shredded.labelNoun>
+  <Stab.description>ნაჭრის ჭრილობა.</Stab.description>
+  <Stab.label>დარტყმა</Stab.label>
+  <Stab.labelNoun>დანით ჭრილობა</Stab.labelNoun>
+  <SurgicalCut.description>ოპერაციის დროს გაკეთებული ჭრილობა.</SurgicalCut.description>
+  <SurgicalCut.label>ქირურგიული ჭრა</SurgicalCut.label>
+  <SurgicalCut.labelNoun>ქირურგიული ჭრილობა</SurgicalCut.labelNoun>
+  <Scar.label>ნაწიბური</Scar.label>
+  <Scar.labelNoun>ნაწიბური</Scar.labelNoun>
+</LanguageData>

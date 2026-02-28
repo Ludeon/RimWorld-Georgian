@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Speech_AcceptRole.label>როლის მიღების გამოსვლა</Speech_AcceptRole.label>
+  <Speech_Blinding.label>დამაბრმავებელი მეტყველება</Speech_Blinding.label>
+  <Speech_Conversion.label>კონვერტაციის მეტყველება</Speech_Conversion.label>
+  <Speech_DateRitual.label>სადღესასწაულო გამოსვლა</Speech_DateRitual.label>
+  <Speech_Duel.label>დუელური მეტყველება</Speech_Duel.label>
+  <Speech_Execution.label>აღსრულების გამოსვლა</Speech_Execution.label>
+  <Speech_Funeral.label>დაკრძალვის გამოსვლა</Speech_Funeral.label>
+  <Speech_Leader.label>ლიდერის გამოსვლა</Speech_Leader.label>
+  <Speech_RemoveRole.label>როლის მოხსნა მეტყველება</Speech_RemoveRole.label>
+  <Speech_Sacrifice.label>მსხვერპლშეწირული მეტყველება</Speech_Sacrifice.label>
+  <Speech_Scarification.label>სკარიფიკაციის მეტყველება</Speech_Scarification.label>
+  <Speech_TreeConnection.label>ხის კავშირი მეტყველება</Speech_TreeConnection.label>
+</LanguageData>

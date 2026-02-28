@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChangeRoyalHeir.root.nodes.12.inspectString>დარჩენილი დრო: {0}</ChangeRoyalHeir.root.nodes.12.inspectString>
+  <ChangeRoyalHeir.root.nodes.12.node.nodes.0.label>[titleHolder_nameDef]-ის მემკვიდრე ცვლილება ვერ მოხერხდა</ChangeRoyalHeir.root.nodes.12.node.nodes.0.label>
+  <ChangeRoyalHeir.root.nodes.13.node.nodes.0.label>ტიტულის მფლობელი გარდაიცვალა: {SUBJECT_definite}</ChangeRoyalHeir.root.nodes.13.node.nodes.0.label>
+  <ChangeRoyalHeir.root.nodes.14.node.nodes.0.label>დანიშნული მემკვიდრე გარდაიცვალა: {SUBJECT_definite}</ChangeRoyalHeir.root.nodes.14.node.nodes.0.label>
+  <ChangeRoyalHeir.root.nodes.16.node.nodes.0.label>ძეგლი განადგურებულია</ChangeRoyalHeir.root.nodes.16.node.nodes.0.label>
+  <ChangeRoyalHeir.root.nodes.17.node.nodes.2.label>ახალი მემკვიდრე: [titleHeir_nameDef]</ChangeRoyalHeir.root.nodes.17.node.nodes.2.label>
+  <ChangeRoyalHeir.root.nodes.17.node.nodes.3.inspectString>ძეგლის შენარჩუნება {0}</ChangeRoyalHeir.root.nodes.17.node.nodes.3.inspectString>
+</LanguageData>

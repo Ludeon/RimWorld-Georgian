@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiosculpterPleasure.stages.0.description>ჩემი ყოველი ნაწილი რატომღაც უკეთ გრძნობს თავს კარგად.</BiosculpterPleasure.stages.0.description>
+  <BiosculpterPleasure.stages.0.label>ბიოსკულპტერის სიამოვნების ციკლი</BiosculpterPleasure.stages.0.label>
+  <ConnectedTreeDied.stages.0.description>ჩემი ხე... მისი დამამშვიდებელი ყოფნა წმინდა ტკივილი გახდა, შემდეგ გაჩუმდა. მისი ტანჯვა ჩემს გონებაში მეორდება...</ConnectedTreeDied.stages.0.description>
+  <ConnectedTreeDied.stages.0.label>გაურანლენის სიკვდილი</ConnectedTreeDied.stages.0.label>
+  <DryadDied.stages.0.description>ჩემი ხის ჩირი სამუდამოდ გაქრა. მოგენატრები, პატარავ.</DryadDied.stages.0.description>
+  <DryadDied.stages.0.label>დრიადი გარდაიცვალა</DryadDied.stages.0.label>
+  <RelicsCollected.stages.0.description>ჩვენ ვიპოვეთ ჩვენი წმინდა ნაწილები!</RelicsCollected.stages.0.description>
+  <RelicsCollected.stages.0.label>შეგროვებული ყველა რელიქვია</RelicsCollected.stages.0.label>
+  <SleptInRoomWithSlave.stages.0.description>მონასავით ერთ ოთახში უნდა მეძინა.</SleptInRoomWithSlave.stages.0.description>
+  <SleptInRoomWithSlave.stages.0.label>საერთო ოთახი მონასთან</SleptInRoomWithSlave.stages.0.label>
+  <WasEnslaved.stages.0.description>მონებად შემინახეს. მაიძულებდნენ ტანჯვას!</WasEnslaved.stages.0.description>
+  <WasEnslaved.stages.0.label>იყო დამონებული</WasEnslaved.stages.0.label>
+</LanguageData>

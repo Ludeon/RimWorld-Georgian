@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <StuffPower_Armor_Blunt.description>ჯავშანი ბლაგვი დაზიანების წინააღმდეგ, როგორიცაა კლუბის დარტყმა, კლდეების ვარდნა და აფეთქებები.</StuffPower_Armor_Blunt.description>
+  <StuffPower_Armor_Blunt.label>ჯავშანი - ბლანტი</StuffPower_Armor_Blunt.label>
+  <StuffPower_Armor_Heat.description>ჯავშანი ტემპერატურასთან დაკავშირებული დაზიანების წინააღმდეგ, როგორიცაა დამწვრობა.</StuffPower_Armor_Heat.description>
+  <StuffPower_Armor_Heat.label>ჯავშანი - სითბო</StuffPower_Armor_Heat.label>
+  <StuffPower_Armor_Sharp.description>ჯავშანი მკვეთრი დაზიანების წინააღმდეგ, როგორიცაა ტყვიები, დანით დარტყმები და ცხოველების ნაკბენები.</StuffPower_Armor_Sharp.description>
+  <StuffPower_Armor_Sharp.label>ჯავშანი - ბასრი</StuffPower_Armor_Sharp.label>
+  <StuffPower_Insulation_Cold.description>რამდენად აუმჯობესებს ამ მასალისგან დამზადებული ტანსაცმელი ტარების მინიმალურ კომფორტულ ტემპერატურას.</StuffPower_Insulation_Cold.description>
+  <StuffPower_Insulation_Cold.label>იზოლაცია - ცივი</StuffPower_Insulation_Cold.label>
+  <StuffPower_Insulation_Heat.description>რამდენად ამ მასალისგან დამზადებული სამოსი აუმჯობესებს მომხმარებლის მაქსიმალურ კომფორტულ ტემპერატურას ტარებისას.</StuffPower_Insulation_Heat.description>
+  <StuffPower_Insulation_Heat.label>იზოლაცია - სითბო</StuffPower_Insulation_Heat.label>
+</LanguageData>

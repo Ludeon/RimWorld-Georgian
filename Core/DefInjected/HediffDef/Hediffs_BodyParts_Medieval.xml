@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Denture.description>დაყენებული პროთეზი. იძლევა რამდენიმე ძირითად ფუნქციას, როგორიცაა ჭამა და საუბარი.</Denture.description>
+  <Denture.label>პროთეზი</Denture.label>
+  <Denture.labelNoun>პროთეზი</Denture.labelNoun>
+  <PegLeg.description>დამონტაჟებული სამაგრი ფეხი. საშუალებას აძლევს მომხმარებელს კვლავ სიარული, თუმცა არც ისე კარგად.</PegLeg.description>
+  <PegLeg.label>სამაგრი ფეხი</PegLeg.label>
+  <PegLeg.labelNoun>ჯოხის ფეხი</PegLeg.labelNoun>
+  <WoodenFoot.description>დამონტაჟებული ხის ფეხი. უბრუნებს მომხმარებელს გარკვეულ სტაბილურობას, მაგრამ უფრო დახვეწილი საავტომობილო უნარების გარეშე.</WoodenFoot.description>
+  <WoodenFoot.label>ხის ფეხი</WoodenFoot.label>
+  <WoodenFoot.labelNoun>ხის ფეხი</WoodenFoot.labelNoun>
+  <WoodenHand.description>დამონტაჟებული ხის ხელი. ღეროზე უკეთესია, მაგრამ დიდად არა.</WoodenHand.description>
+  <WoodenHand.label>ხის ხელი</WoodenHand.label>
+  <WoodenHand.labelNoun>ხის ხელი</WoodenHand.labelNoun>
+</LanguageData>

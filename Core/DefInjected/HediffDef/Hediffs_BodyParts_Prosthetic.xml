@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CochlearImplant.description>დაყენებული კოხლეარული იმპლანტი. გარე მიკროფონი ხმოვან სიგნალს გადასცემს ელექტროდებს, რომლებიც შემოხვეულია შიდა ყურის სმენის სენსორული ნერვების გარშემო. ელექტროდები ხმის მიხედვით ასტიმულირებენ ნერვებს, ქმნიან სმენის შეგრძნებას. ეს არ არის ისეთი კარგი, როგორც ბუნებრივი ყური, მაგრამ ბევრად უკეთესია, ვიდრე ყრუ.</CochlearImplant.description>
+  <CochlearImplant.label>კოხლეარული იმპლანტი</CochlearImplant.label>
+  <CochlearImplant.labelNoun>კოხლეარული იმპლანტი</CochlearImplant.labelNoun>
+  <Joywire.description>დამონტაჟებული Joywire იმპლანტი. მიუხედავად იმისა, რომ ის მკვეთრად აუმჯობესებს მომხმარებლის განწყობას, ბედნიერების საბანი ართულებს რაიმე რეალურზე კონცენტრირებას. Joywires არალეგალურია ბევრ სამყაროში და ცნობილია მთელი კულტურების განადგურებით.</Joywire.description>
+  <Joywire.label>ჯოივაირი</Joywire.label>
+  <Joywire.labelNoun>მხიარული მავთული</Joywire.labelNoun>
+  <Painstopper.description>დამონტაჟებული ტკივილგამაყუჩებელი იმპლანტი. მიუხედავად იმისა, რომ ის მომხმარებელს საშუალებას აძლევს მეტი მიაღწიოს, აღმოჩნდება, რომ ტკივილს აქვს მიზანი. როცა ამას არ გრძნობ, შეიძლება ძალიან ადვილად დაზარალდე.</Painstopper.description>
+  <Painstopper.label>ტკივილგამაყუჩებელი</Painstopper.label>
+  <Painstopper.labelNoun>ტკივილგამაყუჩებელი</Painstopper.labelNoun>
+  <PowerClaw.description>დამონტაჟებული დენის კლანჭი, რომელიც შედგება მექანიკური ხელისგან, თითოეულ თითზე დამაგრებული კლანჭით. ის ღრმად ჭრის და საკმარისად ძლიერია იმისთვის, რომ დაამტვრიოს თავის ქალა, როგორც ხელი კვერცხს. კლანჭების უკან დახევა შესაძლებელია, რაც მას ისეთივე სასარგებლოს ხდის, როგორც ბუნებრივი ხელი არასაბრძოლო ამოცანების შესასრულებლად, თუმცა მისი მთლიანი უხერხულობა ოდნავ ანელებს მოძრაობას.</PowerClaw.description>
+  <PowerClaw.label>დენის კლანჭა</PowerClaw.label>
+  <PowerClaw.labelNoun>ძალაუფლების კლანჭა</PowerClaw.labelNoun>
+  <SimpleProstheticArm.description>დაყენებული პროთეზიური ხელი. მიუხედავად იმისა, რომ მას არ გააჩნია ნერვული ინტერფეისი, მისი შიდა სახსრების რთული მოწყობა საშუალებას აძლევს მას საკმაოდ დამაჯერებლად მიბაძოს ბუნებრივი მოძრაობა. მიუხედავად ამისა, ის ჩამოუვარდება ნამდვილ მკლავს.</SimpleProstheticArm.description>
+  <SimpleProstheticArm.label>პროთეზირებადი ხელი</SimpleProstheticArm.label>
+  <SimpleProstheticArm.labelNoun>პროთეზირებული ხელი</SimpleProstheticArm.labelNoun>
+  <SimpleProstheticHeart.description>დაყენებული პროთეზირებადი გული. იგი შეიცავს ელექტროძრავას, რომელიც შეუფერხებლად ტუმბოს სისხლს სხეულში. მომხმარებლები ხშირად აღნიშნავენ დაღლილობის გრძნობას, მაგრამ ეს უკეთესია, ვიდრე ალტერნატივა.</SimpleProstheticHeart.description>
+  <SimpleProstheticHeart.label>პროთეზირებადი გული</SimpleProstheticHeart.label>
+  <SimpleProstheticHeart.labelNoun>პროთეზირებული გული</SimpleProstheticHeart.labelNoun>
+  <SimpleProstheticLeg.description>დამონტაჟებული ფეხის პროთეზი. მიუხედავად იმისა, რომ მას არ გააჩნია ნერვული ინტერფეისი, მისი შიდა სახსრების რთული მოწყობა საშუალებას აძლევს მას საკმაოდ დამაჯერებლად მიბაძოს ბუნებრივი მოძრაობა. მიუხედავად ამისა, ის ნამდვილ ფეხს ჩამოუვარდება.</SimpleProstheticLeg.description>
+  <SimpleProstheticLeg.label>ფეხის პროთეზი</SimpleProstheticLeg.label>
+  <SimpleProstheticLeg.labelNoun>ფეხის პროთეზი</SimpleProstheticLeg.labelNoun>
+</LanguageData>

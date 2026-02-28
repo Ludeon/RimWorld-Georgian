@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DrugDesireFascination.stages.0.description>გატაცებული ვარ ნარკოტიკებით. მინდა უფრო მეტად განვიცადო ისინი.</DrugDesireFascination.stages.0.description>
+  <DrugDesireFascination.stages.0.label>ქიმიური სურვილი</DrugDesireFascination.stages.0.label>
+  <DrugDesireFascination.stages.1.description>გატაცებული ვარ ნარკოტიკებით. მსურს მათ უფრო რთულად განვიცადო.</DrugDesireFascination.stages.1.description>
+  <DrugDesireFascination.stages.1.label>ქიმიური შიმშილი</DrugDesireFascination.stages.1.label>
+  <DrugDesireFascination.stages.2.description>გატაცებული ვარ ნარკოტიკებით. მე მინდა ისინი! მეტი ინტენსივობა!</DrugDesireFascination.stages.2.description>
+  <DrugDesireFascination.stages.2.label>ქიმიური შიმშილი</DrugDesireFascination.stages.2.label>
+  <DrugDesireFascinationSatisfied.stages.0.description>გატაცებული ვარ ნარკოტიკებით და მიყვარს ჩემი სურვილების დაკმაყოფილება.</DrugDesireFascinationSatisfied.stages.0.description>
+  <DrugDesireFascinationSatisfied.stages.0.label>ქიმიური კომფორტი</DrugDesireFascinationSatisfied.stages.0.label>
+  <DrugDesireFascinationSatisfied.stages.1.description>გატაცებული ვარ ნარკოტიკებით და სრულად კმაყოფილი ვარ ჩემი ნარკოტიკების მოხმარებით.</DrugDesireFascinationSatisfied.stages.1.description>
+  <DrugDesireFascinationSatisfied.stages.1.label>ქიმიური კმაყოფილება</DrugDesireFascinationSatisfied.stages.1.label>
+  <DrugDesireInterest.stages.0.description>ნარკოტიკები მაინტერესებს. მეტი მინდა ვცადო.</DrugDesireInterest.stages.0.description>
+  <DrugDesireInterest.stages.0.label>ქიმიური სურვილი</DrugDesireInterest.stages.0.label>
+  <DrugDesireInterest.stages.1.description>ნარკოტიკები მაინტერესებს. მინდა კიდევ ბევრი განვიცადო.</DrugDesireInterest.stages.1.description>
+  <DrugDesireInterest.stages.1.label>ქიმიური შიმშილი</DrugDesireInterest.stages.1.label>
+  <DrugDesireInterest.stages.2.description>ნარკოტიკები მაინტერესებს. ძალიან მინდა ნარკოტიკების მოხმარება.</DrugDesireInterest.stages.2.description>
+  <DrugDesireInterest.stages.2.label>ქიმიური შიმშილი</DrugDesireInterest.stages.2.label>
+  <DrugDesireInterestSatisfied.stages.0.description>ნარკოტიკები მაინტერესებს. მსიამოვნებდა ჩემი სურვილის დაკმაყოფილება.</DrugDesireInterestSatisfied.stages.0.description>
+  <DrugDesireInterestSatisfied.stages.0.label>ქიმიური კომფორტი</DrugDesireInterestSatisfied.stages.0.label>
+  <DrugDesireInterestSatisfied.stages.1.description>ნარკოტიკები მაინტერესებს. მე ნამდვილად კმაყოფილი ვარ ყველა იმ წამლით, რაც ბოლო დროს მივიღე.</DrugDesireInterestSatisfied.stages.1.description>
+  <DrugDesireInterestSatisfied.stages.1.label>ქიმიური კმაყოფილება</DrugDesireInterestSatisfied.stages.1.label>
+  <NeedBeauty.stages.0.description>ეს ადგილი აუტანელი გროტესკულია. ამას უკვე ვეღარ ვუყურებ.</NeedBeauty.stages.0.description>
+  <NeedBeauty.stages.0.label>საშინელი გარემო</NeedBeauty.stages.0.label>
+  <NeedBeauty.stages.1.description>ეს ადგილი მართლაც მახინჯია. ვისურვებდი, რომ ამის ყურება აღარ მომიწია.</NeedBeauty.stages.1.description>
+  <NeedBeauty.stages.1.label>მახინჯი გარემო</NeedBeauty.stages.1.label>
+  <NeedBeauty.stages.2.description>ეს ადგილი რაღაც უსიამოვნოა. ვისურვებდი, რომ არ მომიწიოს ამ ყველაფრის ყურება.</NeedBeauty.stages.2.description>
+  <NeedBeauty.stages.2.label>უსიამოვნო გარემო</NeedBeauty.stages.2.label>
+  <NeedBeauty.stages.3.description>ეს ადგილი ლამაზად გამოიყურება.</NeedBeauty.stages.3.description>
+  <NeedBeauty.stages.3.label>ლამაზი გარემო</NeedBeauty.stages.3.label>
+  <NeedBeauty.stages.4.description>მე ნამდვილად მომწონს ეს ადგილი. მშვენიერია.</NeedBeauty.stages.4.description>
+  <NeedBeauty.stages.4.label>ლამაზი გარემო</NeedBeauty.stages.4.label>
+  <NeedBeauty.stages.5.description>ეს ადგილი მშვენიერია. ის მამაღლებს და მაიძულებს ცხოვრებას.</NeedBeauty.stages.5.description>
+  <NeedBeauty.stages.5.label>ულამაზესი გარემო</NeedBeauty.stages.5.label>
+  <NeedComfort.stages.0.description>ცოტა ხნის წინ რაღაც უხერხული ვიყავი. ჩვენ უნდა მივიღოთ რაღაც რბილი, რომ აქ დავჯდეთ.</NeedComfort.stages.0.description>
+  <NeedComfort.stages.0.label>არასასიამოვნო</NeedComfort.stages.0.label>
+  <NeedComfort.stages.1.description>ახლახანს კომფორტულად ვგრძნობდი თავს.</NeedComfort.stages.1.description>
+  <NeedComfort.stages.1.label>კომფორტული</NeedComfort.stages.1.label>
+  <NeedComfort.stages.2.description>ბოლო დროს ძალიან კომფორტულად ვარ.</NeedComfort.stages.2.description>
+  <NeedComfort.stages.2.label>საკმაოდ კომფორტული</NeedComfort.stages.2.label>
+  <NeedComfort.stages.3.description>ბოლო დროს ძალიან კომფორტული ვარ. ეს ადგილი ძალიან მყუდროა!</NeedComfort.stages.3.description>
+  <NeedComfort.stages.3.label>უკიდურესად კომფორტული</NeedComfort.stages.3.label>
+  <NeedComfort.stages.4.description>მე ვისვენებ ცის ღრუბლებზე.</NeedComfort.stages.4.description>
+  <NeedComfort.stages.4.label>მდიდრულად კომფორტული</NeedComfort.stages.4.label>
+  <NeedFood.stages.0.description>მართლა მშია.</NeedFood.stages.0.description>
+  <NeedFood.stages.0.label>მშიერი</NeedFood.stages.0.label>
+  <NeedFood.stages.1.description>ამ შიმშილის ტკივილების იგნორირება ძნელია.</NeedFood.stages.1.description>
+  <NeedFood.stages.1.label>სასტიკად მშიერი</NeedFood.stages.1.label>
+  <NeedFood.stages.2.description>დიდი ხანია რაც არ ვჭამ. სულ ბუნდოვანი ვარ და მიჭირს ფოკუსირება. ჩემი სხეული იწყებს გაფუჭებას.</NeedFood.stages.2.description>
+  <NeedFood.stages.2.label>ცუდად იკვებება</NeedFood.stages.2.label>
+  <NeedFood.stages.3.description>ვგრძნობ, როგორ იკარგება სხეული. მუცელი ისე მტკივა, როგორც არასდროს.</NeedFood.stages.3.description>
+  <NeedFood.stages.3.label>ცუდად იკვებება</NeedFood.stages.3.label>
+  <NeedFood.stages.4.description>ძლივს ვფიქრობ არაფერზე, გარდა საკვებისა. ჩემი კანი ძვლებზეა გადაჭიმული. ვაპირებ სიკვდილს?</NeedFood.stages.4.description>
+  <NeedFood.stages.4.label>მშიერი</NeedFood.stages.4.label>
+  <NeedFood.stages.5.description>ძლივს ვმოძრაობ ან ვფიქრობ არაფერზე საკვების გარდა. მუცელი ისე მტკივა, როგორც არასდროს. ისეთი შეგრძნება მაქვს, თითქოს უგუნებოდ ვიქცევი.</NeedFood.stages.5.description>
+  <NeedFood.stages.5.label>მოწინავე შიმშილი</NeedFood.stages.5.label>
+  <NeedFood.stages.6.description>საჭმელი... საჭმელი... ყველაფერი... გთხოვთ...</NeedFood.stages.6.description>
+  <NeedFood.stages.6.label>უკიდურესი შიმშილი</NeedFood.stages.6.label>
+  <NeedIndoors.stages.0.description>არ უნდა ვიყო გარეთ.</NeedIndoors.stages.0.description>
+  <NeedIndoors.stages.0.label>უბრალოდ გარეთ</NeedIndoors.stages.0.label>
+  <NeedIndoors.stages.1.description>ამ ბოლო დროს ძალიან ბევრი ვიყავი გარეთ.</NeedIndoors.stages.1.description>
+  <NeedIndoors.stages.1.label>გარეთ</NeedIndoors.stages.1.label>
+  <NeedIndoors.stages.2.description>ამდენი გარეთ ყოფნა ჩემთვის არასწორია.</NeedIndoors.stages.2.description>
+  <NeedIndoors.stages.2.label>დიდხანს გარეთ</NeedIndoors.stages.2.label>
+  <NeedIndoors.stages.3.description>ამ ბოლო დროს ძალიან ბევრი ვიყავი გარეთ. ეს ღია სივრცე ძალიან შემაშფოთებელია.</NeedIndoors.stages.3.description>
+  <NeedIndoors.stages.3.label>ძალიან გრძელი გარეთ</NeedIndoors.stages.3.label>
+  <NeedIndoors.stages.4.description>ეს ღია სივრცეები სიგიჟემდე მიყავს!</NeedIndoors.stages.4.description>
+  <NeedIndoors.stages.4.label>სასტიკი გარეთ</NeedIndoors.stages.4.label>
+  <NeedJoy.stages.0.description>ამდენი ხანი გავიდა, რაც თავის დროზე გასართობად არაფერს ვაკეთებდი.</NeedJoy.stages.0.description>
+  <NeedJoy.stages.0.label>დასვენება-შიმშილი</NeedJoy.stages.0.label>
+  <NeedJoy.stages.1.description>ჩვენ გვჭირდება მეტი ვარიაცია რეკრეაციულ აქტივობებში და დრო მჭირდება მათით სიამოვნებისთვის. ეს ადგილი ნამდვილად მოსაწყენია.</NeedJoy.stages.1.description>
+  <NeedJoy.stages.1.label>დასვენება-მოკლებული</NeedJoy.stages.1.label>
+  <NeedJoy.stages.2.description>ჩვენ გვჭირდება მეტი ვარიაცია რეკრეაციულ აქტივობებში და დრო მჭირდება მათით სიამოვნებისთვის.</NeedJoy.stages.2.description>
+  <NeedJoy.stages.2.label>დასვენება შეუსრულებელი</NeedJoy.stages.2.label>
+  <NeedJoy.stages.3.description>მშვენივრად ვატარებდი სხვადასხვა საქმის კეთებას, რაც მომწონს.</NeedJoy.stages.3.description>
+  <NeedJoy.stages.3.label>დასვენება კმაყოფილი</NeedJoy.stages.3.label>
+  <NeedJoy.stages.4.description>ძალიან ვხალისობდი, მიყვარს!</NeedJoy.stages.4.description>
+  <NeedJoy.stages.4.label>დასვენება სრულად კმაყოფილი</NeedJoy.stages.4.label>
+  <NeedOutdoors.stages.0.description>ძალიან დიდი ხანია მიწისქვეშეთში ვარ. ვგრძნობ, რომ ამ მთის სიმძიმე მანადგურებს. მე უნდა ვნახო ცა და ვიგრძნო ქარი.</NeedOutdoors.stages.0.description>
+  <NeedOutdoors.stages.0.label>მიწისქვეშ ჩაფლული</NeedOutdoors.stages.0.label>
+  <NeedOutdoors.stages.1.description>რამდენი ხანია მიწისქვეშეთში ვარ? სუფთა ჰაერზე უნდა გავიდე და ცოტა დრო ცის ქვეშ გავატარო.</NeedOutdoors.stages.1.description>
+  <NeedOutdoors.stages.1.label>მიწისქვეშ ჩარჩენილი</NeedOutdoors.stages.1.label>
+  <NeedOutdoors.stages.2.description>მე იმდენი ხანი გავატარე შენობაში, ვგრძნობ, რომ სახურავი იჭრება. უნდა გავიდე და ცა დავინახო.</NeedOutdoors.stages.2.description>
+  <NeedOutdoors.stages.2.label>სალონის ცხელება</NeedOutdoors.stages.2.label>
+  <NeedOutdoors.stages.3.description>უკვე დიდი ხანია რაც ცა არ მინახავს.</NeedOutdoors.stages.3.description>
+  <NeedOutdoors.stages.3.label>ჩაკეტილი შენობაში</NeedOutdoors.stages.3.label>
+  <NeedOutdoors.stages.4.description>მინდა გარეთ გასვლა და სუფთა ჰაერის მიღება.</NeedOutdoors.stages.4.description>
+  <NeedOutdoors.stages.4.label>ჩაკეტილი შენობაში</NeedOutdoors.stages.4.label>
+  <NeedRest.stages.0.description>დიდი ხანია არ მიძინია. ძნელია ყურადღების შენარჩუნება.</NeedRest.stages.0.description>
+  <NeedRest.stages.0.label>ძილიანი</NeedRest.stages.0.label>
+  <NeedRest.stages.1.description>ძალიან დავიღალე. უბრალოდ მინდა დავწექი და დავისვენო რამდენიმე წუთი...</NeedRest.stages.1.description>
+  <NeedRest.stages.1.label>დაღლილი</NeedRest.stages.1.label>
+  <NeedRest.stages.2.description>ისეთი დაღლილი ვარ, ძლივს ვდგავარ. ჩემს ქუთუთოებს აქვს ტყვიის სიმძიმეები. ნება მომეცით დავიძინო...</NeedRest.stages.2.description>
+  <NeedRest.stages.2.label>დაქანცული</NeedRest.stages.2.label>
+  <NeedRoomSize.stages.0.description>ეს სივრცე ძალიან პატარაა. გალიაში ვირთხავით ვგრძნობ თავს.</NeedRoomSize.stages.0.description>
+  <NeedRoomSize.stages.0.label>შეზღუდული ინტერიერი</NeedRoomSize.stages.0.label>
+  <NeedRoomSize.stages.1.description>ეს ოთახი ძალიან პატარაა. ვისურვებდი, რომ მეტი ადგილი მქონოდა გადაადგილებისთვის და სუნთქვისთვის.</NeedRoomSize.stages.1.description>
+  <NeedRoomSize.stages.1.label>ვიწრო ინტერიერი</NeedRoomSize.stages.1.label>
+  <NeedRoomSize.stages.2.description>ეს ოთახი იმდენად ფართოა, თავს თავისუფლად ვგრძნობ.</NeedRoomSize.stages.2.description>
+  <NeedRoomSize.stages.2.label>ფართო ინტერიერი</NeedRoomSize.stages.2.label>
+</LanguageData>

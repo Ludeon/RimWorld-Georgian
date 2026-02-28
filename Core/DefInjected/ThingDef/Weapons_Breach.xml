@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_ThumpCannon.label>დარტყმის ბომბი</Bullet_ThumpCannon.label>
+  <Gun_ThumpCannon.description>გამანადგურებელი ასაფეთქებელი გამშვები, რომელსაც იყენებენ მექანოიდები. ის ისვრის ტვინის შერყევის ბომბს, რომელიც ძალზე ეფექტურია კედლებისა და სტრუქტურების წინააღმდეგ, მაგრამ გაცილებით ნაკლებ ზიანს აყენებს მცირე სამიზნეებს.</Gun_ThumpCannon.description>
+  <Gun_ThumpCannon.label>თოფიანი ქვემეხი</Gun_ThumpCannon.label>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttackedMember.label>თავს დაესხნენ წევრს</AttackedMember.label>
+  <FriendlyExitedMapTended.label>მიდრეკილია წევრისკენ</FriendlyExitedMapTended.label>
+  <GuiltyPrisonerDied.label>დამნაშავე პატიმარი გარდაიცვალა</GuiltyPrisonerDied.label>
+  <InnocentPrisonerDied.label>უდანაშაულო პატიმარი გარდაიცვალა</InnocentPrisonerDied.label>
+  <MemberCaptured.label>წევრი დაიჭირეს</MemberCaptured.label>
+  <MemberCrushed.label>წევრი გაანადგურა</MemberCrushed.label>
+  <MemberExitedMapHealthy.label>წევრი გავიდა რუქიდან ჯანმრთელად</MemberExitedMapHealthy.label>
+  <MemberKilled.label>წევრი მოკლეს</MemberKilled.label>
+  <MemberNeutrallyDied.label>წევრი გარდაიცვალა</MemberNeutrallyDied.label>
+  <MemberSold.label>წევრი გაიყიდა</MemberSold.label>
+  <MemberStripped.label>წევრი გაშიშვლებულია</MemberStripped.label>
+  <PerformedHarmfulSurgery.label>მავნე ოპერაცია წევრზე</PerformedHarmfulSurgery.label>
+  <PrisonerDied.label>პატიმარი გარდაიცვალა</PrisonerDied.label>
+  <UsedHarmfulItem.label>დაზიანებული წევრი</UsedHarmfulItem.label>
+  <XenogermAbsorbed.label>წევრის ქსენოგერმა შეიწოვება</XenogermAbsorbed.label>
+</LanguageData>

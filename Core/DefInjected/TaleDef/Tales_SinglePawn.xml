@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteRawHumanlikeMeat.label>ადამიანის მსგავსი უმი ხორცი შეჭამეს</AteRawHumanlikeMeat.label>
+  <ButcheredHumanlikeCorpse.label>ადამიანის მსგავსი გვამი დახოცეს</ButcheredHumanlikeCorpse.label>
+  <CraftedArt.label>ხელოვნება შემუშავებული</CraftedArt.label>
+  <Drunk.label>მთვრალი</Drunk.label>
+  <FinishedResearchProject.label>კვლევითი პროექტი დასრულდა</FinishedResearchProject.label>
+  <LandedInPod.label>დაეშვა პოდში</LandedInPod.label>
+  <MentalStateBerserk.label>გაბრაზებული გაბრაზება</MentalStateBerserk.label>
+  <MentalStateGaveUp.label>დათმო</MentalStateGaveUp.label>
+  <ReadBook.label>წაიკითხეთ წიგნი</ReadBook.label>
+  <StruckMineable.label>დაარტყა mineable</StruckMineable.label>
+  <Vomited.label>ღებინება</Vomited.label>
+  <WalkedNaked.label>შიშველი დადიოდა</WalkedNaked.label>
+  <WasOnFire.label>ცეცხლზე</WasOnFire.label>
+</LanguageData>

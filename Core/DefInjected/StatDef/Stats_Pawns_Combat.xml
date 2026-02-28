@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AimingDelayFactor.description>რამდენი დრო სჭირდება სროლას სამიზნის არჩევის შემდეგ.</AimingDelayFactor.description>
+  <AimingDelayFactor.label>დამიზნების დრო</AimingDelayFactor.label>
+  <IncomingDamageFactor.description>მულტიპლიკატორი ყველა შემოსულ დაზიანებაზე.</IncomingDamageFactor.description>
+  <IncomingDamageFactor.label>შემომავალი ზიანის მულტიპლიკატორი</IncomingDamageFactor.label>
+  <MeleeArmorPenetration.description>ახლო ბრძოლაში ყველა შეტევის საშუალო ჯავშანგამტარობა.\n\nეს სტატისტიკა ითვალისწინებს ამჟამად გამოყენებულ იარაღს.</MeleeArmorPenetration.description>
+  <MeleeArmorPenetration.label>ჯავშანტექნიკის შეღწევა</MeleeArmorPenetration.label>
+  <MeleeCooldownFactor.description>მულტიპლიკატორი იმ დროის განმავლობაში, რაც ამ არსებას სჭირდება, რათა გამოჯანმრთელდეს მელეული შეტევის განხორციელების შემდეგ.</MeleeCooldownFactor.description>
+  <MeleeCooldownFactor.label>ახლო ბრძოლის დაყოვნება</MeleeCooldownFactor.label>
+  <MeleeDamageFactor.description>მულტიპლიკატორი ამ ადამიანის მიერ მიყენებული მელეის ზარალის ოდენობაზე.</MeleeDamageFactor.description>
+  <MeleeDamageFactor.label>melee დაზიანების ფაქტორი</MeleeDamageFactor.label>
+  <MeleeDodgeChance.description>შანსი, რომ ახლო ბრძოლის შეტევას აარიდოს თავი, რომელიც სხვა შემთხვევაში მოხვდებოდა.\n\nპერსონაჟები ვერ აირიდებენ დარტყმას, თუ ამ დროს დისტანციურ იარაღს უმიზნებენ ან ისვრიან.</MeleeDodgeChance.description>
+  <MeleeDodgeChance.label>melee Dodge შანსი</MeleeDodgeChance.label>
+  <MeleeDPS.description>ახლო ბრძოლაში საშუალო ზიანი წამში.\n\nეს მაჩვენებელი არ ითვალისწინებს სამიზნის დაცვას, როგორიცაა აცილება ან ჯავშანი.</MeleeDPS.description>
+  <MeleeDPS.label>ახლო ბრძოლის ზიანი/წმ</MeleeDPS.label>
+  <MeleeHitChance.description>ახლო ბრძოლაში სამიზნეზე მოხვედრის შანსი.\n\nთუნდაც დარტყმა თეორიულად მოხვდეს, სამიზნემ მაინც შეიძლება აირიდოს.</MeleeHitChance.description>
+  <MeleeHitChance.label>melee დარტყმის შანსი</MeleeHitChance.label>
+  <MortarMissRadiusFactor.description>ამ პიროვნების მიერ გამოყენებული ნაღმტყორცნების გამოტოვების რადიუსზე მულტიპლიკატორი. მცირე რაოდენობა ნიშნავს ნაღმტყორცნების უფრო ზუსტ ჭურვებს.</MortarMissRadiusFactor.description>
+  <MortarMissRadiusFactor.label>ნაღმტყორცნების გამოტოვების რადიუსის გამრავლება</MortarMissRadiusFactor.label>
+  <PawnTrapSpringChance.description>ხაფანგში გაჩენის შანსი პერსონაჟმა არ იცის.</PawnTrapSpringChance.description>
+  <PawnTrapSpringChance.label>ხაფანგში გაზაფხულის შანსი</PawnTrapSpringChance.label>
+  <RangedCooldownFactor.description>მულტიპლიკატორი გაცივებაზე აფეთქებებს შორის სროლის იარაღის გამოყენებისას.</RangedCooldownFactor.description>
+  <RangedCooldownFactor.label>დიაპაზონის გაგრილების მულტიპლიკატორი</RangedCooldownFactor.label>
+  <ShootingAccuracyFactor_Long.description>სიზუსტის მულტიპლიკატორი 40 ან მეტი უჯრედის მანძილზე.</ShootingAccuracyFactor_Long.description>
+  <ShootingAccuracyFactor_Long.label>სიზუსტის ფაქტორი (გრძელი)</ShootingAccuracyFactor_Long.label>
+  <ShootingAccuracyFactor_Medium.description>სიზუსტის მულტიპლიკატორი 25 უჯრედის მანძილზე.</ShootingAccuracyFactor_Medium.description>
+  <ShootingAccuracyFactor_Medium.label>სიზუსტის ფაქტორი (საშუალო)</ShootingAccuracyFactor_Medium.label>
+  <ShootingAccuracyFactor_Short.description>სიზუსტის მულტიპლიკატორი 12 უჯრედის მანძილზე.</ShootingAccuracyFactor_Short.description>
+  <ShootingAccuracyFactor_Short.label>სიზუსტის ფაქტორი (მოკლე)</ShootingAccuracyFactor_Short.label>
+  <ShootingAccuracyFactor_Touch.description>სიზუსტის მულტიპლიკატორი 3 უჯრედზე ან ნაკლებ მანძილზე.</ShootingAccuracyFactor_Touch.description>
+  <ShootingAccuracyFactor_Touch.label>სიზუსტის ფაქტორი (დაახლოება)</ShootingAccuracyFactor_Touch.label>
+  <ShootingAccuracyPawn.description>საბაზისო შანსი, რომ გასროლა თითო უჯრედ მანძილზე არ აცდეს.\n\nმოხვედრის შანსზე ბევრი სხვა ფაქტორიც მოქმედებს.\n\nნებისმიერი გასროლის ზუსტი ახსნა ჩანს მსროლელის მონიშვნისა და სამიზნეზე მაუსის გაჩერებისას.</ShootingAccuracyPawn.description>
+  <ShootingAccuracyPawn.label>სროლის სიზუსტე</ShootingAccuracyPawn.label>
+  <StaggerDurationFactor.description>მულტიპლიკატორი შეფერხების შენელების ხანგრძლივობის შესახებ, რომელიც ხდება დაზიანების მიღებისას.</StaggerDurationFactor.description>
+  <StaggerDurationFactor.label>შემაძრწუნებელი დროის მულტიპლიკატორი</StaggerDurationFactor.label>
+</LanguageData>

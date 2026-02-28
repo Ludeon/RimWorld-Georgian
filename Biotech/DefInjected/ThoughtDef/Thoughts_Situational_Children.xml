@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BabySick.stages.0.description>ჩემი ბავშვი ავად არის. მეშინია, რომ ჩემს პატარას რამე ცუდი დაემართოს.</BabySick.stages.0.description>
+  <BabySick.stages.0.label>ჩემი ბავშვი {BABY_nameDef} ავად არის</BabySick.stages.0.label>
+  <BabySick.stages.1.description>ჩემი ჩვილები ავად არიან. მეშინია, რომ მათ რაიმე ცუდი დაემართოს.</BabySick.stages.1.description>
+  <BabySick.stages.1.label>ჩემი ჩვილები ავად არიან</BabySick.stages.1.label>
+  <ChildInGrowthVat.stages.0.description>მენატრება ჩემი შვილი. ძნელია იმის ცოდნა, რომ ისინი ცურავდნენ ამ მანქანაში, გვერდის ავლით თავიანთ ბავშვობას.</ChildInGrowthVat.stages.0.description>
+  <ChildInGrowthVat.stages.0.label>ჩემი შვილი ზრდის ქვაბშია</ChildInGrowthVat.stages.0.label>
+  <CribQuality.stages.3.description>ეს საწოლი არის კომფორტული.</CribQuality.stages.3.description>
+  <CribQuality.stages.3.label>კარგი საწოლი</CribQuality.stages.3.label>
+  <CribQuality.stages.4.description>ეს საწოლი ძალიან კომფორტულია.</CribQuality.stages.4.description>
+  <CribQuality.stages.4.label>შესანიშნავი საწოლი</CribQuality.stages.4.label>
+  <CribQuality.stages.5.description>ეს საწოლი საოცარია. ასე კომფორტული.</CribQuality.stages.5.description>
+  <CribQuality.stages.5.label>შედევრის საწოლი</CribQuality.stages.5.label>
+  <CribQuality.stages.6.description>ეს საწოლი მშვენიერია. ასე რომ ძალიან კომფორტული. იდეალურია ძილისთვის.</CribQuality.stages.6.description>
+  <CribQuality.stages.6.label>ლეგენდარული საწოლი</CribQuality.stages.6.label>
+  <EnslavedChild.stages.0.description>გული მწყდება იმის დანახვა, რომ ჩემი შვილი იძულებულია ემსახუროს სხვებს.</EnslavedChild.stages.0.description>
+  <EnslavedChild.stages.0.label>დამონებული ბავშვი</EnslavedChild.stages.0.label>
+  <MyChildHappy.stages.0.description>არაფერი მაძლევს თავს იმაზე კარგად, ვიდრე ჩემი შვილი ბედნიერია.</MyChildHappy.stages.0.description>
+  <MyChildHappy.stages.0.label>ჩემი შვილი {CHILD_nameDef} ბედნიერია</MyChildHappy.stages.0.label>
+  <MyChildrenHappy.stages.0.description>არაფერი მაძლევს თავს იმაზე კარგად, ვიდრე ჩემი შვილები ბედნიერები არიან.</MyChildrenHappy.stages.0.description>
+  <MyChildrenHappy.stages.0.label>ჩემი შვილები ბედნიერები არიან</MyChildrenHappy.stages.0.label>
+  <MyChildrenSad.stages.0.description>შვილებზე ვღელავ. თუ ისინი არ არიან ბედნიერი, მე არ ვარ ბედნიერი.</MyChildrenSad.stages.0.description>
+  <MyChildrenSad.stages.0.label>ჩემი შვილები უბედურები არიან</MyChildrenSad.stages.0.label>
+  <MyChildSad.stages.0.description>ვღელავ ჩემს შვილზე. თუ ისინი არ არიან ბედნიერი, მე არ ვარ ბედნიერი.</MyChildSad.stages.0.description>
+  <MyChildSad.stages.0.label>ჩემი შვილი {CHILD_nameDef} უკმაყოფილოა</MyChildSad.stages.0.label>
+  <MyParentHappy.stages.0.description>ბედნიერი ვარ, როცა ჩემი მშობლები ბედნიერები არიან.</MyParentHappy.stages.0.description>
+  <MyParentHappy.stages.0.label>მშობელი ბედნიერია</MyParentHappy.stages.0.label>
+  <MyParentsHappy.stages.0.description>ბედნიერი ვარ, როცა ჩემი მშობლები ბედნიერები არიან.</MyParentsHappy.stages.0.description>
+  <MyParentsHappy.stages.0.label>მშობლები ბედნიერები არიან</MyParentsHappy.stages.0.label>
+  <YoungstersHappy.stages.0.description>სასიამოვნოა იმის დანახვა, რომ ახალგაზრდები კარგად არიან.</YoungstersHappy.stages.0.description>
+  <YoungstersHappy.stages.0.label>ბედნიერი ახალგაზრდები</YoungstersHappy.stages.0.label>
+  <YoungstersSad.stages.0.description>სამწუხაროა იმის დანახვა, რომ ახალგაზრდები იბრძვიან.</YoungstersSad.stages.0.description>
+  <YoungstersSad.stages.0.label>სევდიანი ახალგაზრდები</YoungstersSad.stages.0.label>
+</LanguageData>

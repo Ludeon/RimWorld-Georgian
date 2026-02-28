@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientAmmoStack.description>უძველესი საბრძოლო მასალის კონტეინერი. ის ცარიელია და დარჩენილი რაუნდები დაზიანებულია უსარგებლობამდე.</AncientAmmoStack.description>
+  <AncientAmmoStack.label>უძველესი საბრძოლო ყუთი</AncientAmmoStack.label>
+  <AncientAntenna.description>ჟანგიანი ანტენა, რომელიც გამოიყენება დიდი ხნის დავიწყებული კომუნიკაციების გადასაცემად.</AncientAntenna.description>
+  <AncientAntenna.label>უძველესი ანტენა</AncientAntenna.label>
+  <AncientArmchair.description>გაცვეთილი და დახეული სავარძელი. ის გამოუსადეგარია ამჟამინდელ მდგომარეობაში.</AncientArmchair.description>
+  <AncientArmchair.label>უძველესი სავარძელი</AncientArmchair.label>
+  <AncientAutocannonTurret.description>ავტოქვემეხის კოშკი დამსხვრეული ლულით. დამიზნების სისტემა აკლია და ყველა კომპონენტი დაჟანგულია და უსარგებლოდ არის მოხრილი.</AncientAutocannonTurret.description>
+  <AncientAutocannonTurret.label>გატეხილი ავტოქვემეხის კოშკი</AncientAutocannonTurret.label>
+  <AncientBarrierLong.description>ბეტონის ბარიერი, რომელიც გამოიყენება მანქანების გზის გადასაკეტად.</AncientBarrierLong.description>
+  <AncientBarrierLong.label>დიდი ბეტონის ბარიერი</AncientBarrierLong.label>
+  <AncientBathtub.description>აბაზანა ღრმა ბზარებითა და ჟანგის ლაქებით. სრულიად გამოუსადეგარია.</AncientBathtub.description>
+  <AncientBathtub.label>დაბზარული აბაზანა</AncientBathtub.label>
+  <AncientCardboardBox.description>სველი მუყაოს ყუთი სავსე ძველი ნარჩენებით.</AncientCardboardBox.description>
+  <AncientCardboardBox.label>ძველი მუყაოს ყუთი</AncientCardboardBox.label>
+  <AncientChembarrel.description>ჟანგიანი ლულა, რომელიც ოდესღაც ქიმიურ საწვავს ინახავდა. ცარიელია და დაზიანებულია.</AncientChembarrel.description>
+  <AncientChembarrel.label>უძველესი კემბარელი</AncientChembarrel.label>
+  <AncientChembarrelPallet.description>დაჟანგული კასრების დასტა გაფუჭებულ პლატაზე. ნებისმიერი ძვირფასი საწვავი დიდი ხნის წინ გაჟონა.</AncientChembarrelPallet.description>
+  <AncientChembarrelPallet.label>უძველესი შამბარელის პლატა</AncientChembarrelPallet.label>
+  <AncientChemtruck.description>მიტოვებული ქიმიური საწვავის სატვირთო მანქანა. ნებისმიერი გამოსაყენებელი ნაწილი დიდი ხნის წინ გაძარცვეს.</AncientChemtruck.description>
+  <AncientChemtruck.label>უძველესი ქიმიური მანქანა</AncientChemtruck.label>
+  <AncientColdStorage.description>ძველი სამაცივრო განყოფილება, ახლა ჟანგიანი დაკეტილი. ნებისმიერი შიგთავსი დიდი ხანია მტვერად ქცეულა.</AncientColdStorage.description>
+  <AncientColdStorage.label>უძველესი ცივი საცავი</AncientColdStorage.label>
+  <AncientCraneArm.description>ჟანგიანი ამწე მკლავი, დაგრეხილი და გატეხილი.</AncientCraneArm.description>
+  <AncientCraneArm.label>დანგრეული ამწის მკლავი</AncientCraneArm.label>
+  <AncientCraneArmSmall.description>ამწის მკლავის უფრო პატარა ნაჭერი, გატეხილი და დაჟანგული.</AncientCraneArmSmall.description>
+  <AncientCraneArmSmall.label>დანგრეული ამწის მკლავი</AncientCraneArmSmall.label>
+  <AncientCraneBase.description>დიდი სამრეწველო ამწის საფუძველი.</AncientCraneBase.description>
+  <AncientCraneBase.label>დანგრეული ამწე ბაზა</AncientCraneBase.label>
+  <AncientCraneColumn.description>ვერტიკალური საყრდენი სვეტი დანგრეული ამწედან. ის დაჟანგულია და აღარ არის სტაბილური.</AncientCraneColumn.description>
+  <AncientCraneColumn.label>დანგრეული ამწის სვეტი</AncientCraneColumn.label>
+  <AncientCratePallet.description>პლატა ყუთების დასაწყობად და გადასატანად. შიგთავსი დიდი ხნის წინ ამოწურულია.</AncientCratePallet.description>
+  <AncientCratePallet.label>უძველესი კრატის პლატა</AncientCratePallet.label>
+  <AncientDestroyedConsole.description>დანგრეული კონსოლი. ახლა ის სრულიად უმოქმედოა. მისი გამოსაყენებელი ნაწილები დიდი ხნის წინ დაამტვრიეს ან გაძარცვეს.</AncientDestroyedConsole.description>
+  <AncientDestroyedConsole.label>უძველესი განადგურებული კონსოლი</AncientDestroyedConsole.label>
+  <AncientDestroyedConsoleLarge.description>დანგრეული კონსოლი. ახლა ის სრულიად უმოქმედოა. მისი გამოსაყენებელი ნაწილები დიდი ხნის წინ დაამტვრიეს ან გაძარცვეს.</AncientDestroyedConsoleLarge.description>
+  <AncientDestroyedConsoleLarge.label>უძველესი განადგურებული კონსოლი</AncientDestroyedConsoleLarge.label>
+  <AncientDoubleBed.description>ორადგილიანი საწოლი ჩამოკიდებული, დაჟანგული ჩარჩოთი. მიწაზე ძილი ჯობია, მაგრამ ძლივს.</AncientDoubleBed.description>
+  <AncientDoubleBed.label>დაჟანგული ორადგილიანი საწოლი</AncientDoubleBed.label>
+  <AncientDrillPlatform.description>მოწყობილობა, რომელიც განკუთვნილია დედამიწის სიღრმეში ბურღვისთვის. ნებისმიერი ღირებული ნაწილი დიდი ხნის წინ გაძარცვეს.</AncientDrillPlatform.description>
+  <AncientDrillPlatform.label>უძველესი საბურღი მოწყობილობა</AncientDrillPlatform.label>
+  <AncientExcavator.description>სამთო მანქანის ნაშთები. ძვირფასი ნაწილები დიდი ხნის წინ გაძარცვეს.</AncientExcavator.description>
+  <AncientExcavator.label>უძველესი ექსკავატორი</AncientExcavator.label>
+  <AncientFilingCabinet.description>კოროზირებული შესანახი კარადა. შიგნით არაფერია სასარგებლო.</AncientFilingCabinet.description>
+  <AncientFilingCabinet.label>დაჟანგული საქაღალდე</AncientFilingCabinet.label>
+  <AncientForklift.description>გატეხილი სატვირთო მანქანა, დაჟანგული და დაკარგული ნაწილები. ზედმეტად დაზიანებულია შესაკეთებლად.</AncientForklift.description>
+  <AncientForklift.label>დანგრეული სატვირთო მანქანა</AncientForklift.label>
+  <AncientIndustrialShelf.description>სამრეწველო თარო დაფარული ჟანგით. ის არაფერს გვთავაზობს ღირებულს.</AncientIndustrialShelf.description>
+  <AncientIndustrialShelf.label>უძველესი ინდუსტრიული თარო</AncientIndustrialShelf.label>
+  <AncientIndustrialTruck.description>სამრეწველო სატვირთო მანქანა, ძლიერ ჟანგიანი და მიტოვებული. ძრავი შეკეთების გარეშეა.</AncientIndustrialTruck.description>
+  <AncientIndustrialTruck.label>დაჟანგული სამრეწველო სატვირთო მანქანა</AncientIndustrialTruck.label>
+  <AncientLockers.description>ლითონის კარადების ნაკრები, ძლიერ ჟანგიანი და მოხრილი. ისინი საფუძვლიანად გაძარცვეს.</AncientLockers.description>
+  <AncientLockers.label>დაჟანგული კარადები</AncientLockers.label>
+  <AncientMediumContainer.description>დაჟანგული გადაზიდვის კონტეინერი. სრულიად ცარიელია.</AncientMediumContainer.description>
+  <AncientMediumContainer.label>უძველესი კონტეინერი</AncientMediumContainer.label>
+  <AncientMetalCrate.description>ლითონის ყუთი, ახლა ჟანგიანი დაკეტილი. ცარიელი და უსარგებლოა.</AncientMetalCrate.description>
+  <AncientMetalCrate.label>დაჟანგული ლითონის ყუთი</AncientMetalCrate.label>
+  <AncientMilitaryBarrier.description>ბეტონის ბარიერი, რომელიც ოდესღაც გამოიყენებოდა სამხედრო გზებზე.</AncientMilitaryBarrier.description>
+  <AncientMilitaryBarrier.label>უძველესი სამხედრო ბარიერი</AncientMilitaryBarrier.label>
+  <AncientMilitaryGeneratorSmall.description>პატარა დაჟანგული გენერატორი. საწვავის ავზი ცარიელია და ძრავა შეკეთების გარეშეა.</AncientMilitaryGeneratorSmall.description>
+  <AncientMilitaryGeneratorSmall.label>უძველესი სამხედრო გენერატორი</AncientMilitaryGeneratorSmall.label>
+  <AncientMortar.description>დამსხვრეული ნაღმტყორცნებიდან. ის დამტვრეულია და აღარასოდეს იმუშავებს.</AncientMortar.description>
+  <AncientMortar.label>დამტვრეული ნაღმტყორცნები</AncientMortar.label>
+  <AncientOpenContainer.description>დაჟანგული გადაზიდვის კონტეინერი. მისი შინაარსი უსარგებლოა.</AncientOpenContainer.description>
+  <AncientOpenContainer.label>დაჟანგული ღია კონტეინერი</AncientOpenContainer.label>
+  <AncientPipe.description>ძველი კოროზიული მილების სეგმენტი.</AncientPipe.description>
+  <AncientPipe.label>უძველესი მილი</AncientPipe.label>
+  <AncientPlantPot.description>დიდი დაბზარული ქოთანი მკვდარი მიწით. აქ აღარაფერი იზრდება.</AncientPlantPot.description>
+  <AncientPlantPot.label>უძველესი მცენარეული ქოთანი</AncientPlantPot.label>
+  <AncientRustedMicrowave.description>უძველესი მიკროტალღური ჟანგი დაფარული. ის რემონტის მიღმაა.</AncientRustedMicrowave.description>
+  <AncientRustedMicrowave.label>დაჟანგული მიკროტალღური</AncientRustedMicrowave.label>
+  <AncientShelf.description>უძველესი თარო. არაფერში არ არის საინტერესო.</AncientShelf.description>
+  <AncientShelf.label>უძველესი თარო</AncientShelf.label>
+  <AncientShower.description>გატეხილი საშხაპე სადგომი. სანტექნიკა დაზიანებულია და კერამიკა დამსხვრეულია.</AncientShower.description>
+  <AncientShower.label>დაბზარული შხაპი</AncientShower.label>
+  <AncientSimpleResearchBench.description>ძველი, ელემენტარული კვლევითი სკამი კოროზიული ხელსაწყოებით და გაცვეთილი ნოტებით. ღირებული არაფერი რჩება.</AncientSimpleResearchBench.description>
+  <AncientSimpleResearchBench.label>უძველესი კვლევის სკამი</AncientSimpleResearchBench.label>
+  <AncientSingleBed.description>ერთი საწოლის ჩარჩო დაჟანგული ლითონისა და დახეული ლეიბით. მიწაზე ძილი ჯობია, მაგრამ ძლივს.</AncientSingleBed.description>
+  <AncientSingleBed.label>დაჟანგული საწოლი</AncientSingleBed.label>
+  <AncientSmallContainer.description>დაჟანგული გადაზიდვის კონტეინერი. სრულიად ცარიელია.</AncientSmallContainer.description>
+  <AncientSmallContainer.label>უძველესი კონტეინერი</AncientSmallContainer.label>
+  <AncientSmallShelf.description>უძველესი თარო. მასზე სასარგებლო არაფერია დარჩენილი.</AncientSmallShelf.description>
+  <AncientSmallShelf.label>უძველესი პატარა თარო</AncientSmallShelf.label>
+  <AncientTableBrewery.description>დანგრეული ლუდის მაგიდა ოდესღაც დუღილისთვის გამოიყენებოდა. მოწყობილობა დაჟანგულია გამოყენების გარეშე.</AncientTableBrewery.description>
+  <AncientTableBrewery.label>უძველესი ლუდსახარში</AncientTableBrewery.label>
+  <AncientTableButcher.description>გატეხილი ჯალათის მაგიდა სავსეა ძველი ლაქებით.</AncientTableButcher.description>
+  <AncientTableButcher.label>უძველესი ჯალათის მაგიდა</AncientTableButcher.label>
+  <AncientTableDrugLab.description>დანგრეული ლაბორატორიის მაგიდა დამსხვრეული მინის ჭურჭლით. აღჭურვილობა უსარგებლო და დაბინძურებულია.</AncientTableDrugLab.description>
+  <AncientTableDrugLab.label>უძველესი ნარკოტიკების ლაბორატორია</AncientTableDrugLab.label>
+  <AncientTableMachining.description>ჟანგიანი დამუშავების მაგიდა ნამსხვრევებით დაფარული. ყველა სასარგებლო ნაწილი გაფუჭებულია.</AncientTableMachining.description>
+  <AncientTableMachining.label>უძველესი დამუშავების მაგიდა</AncientTableMachining.label>
+  <AncientTableSmithingElectric.description>დანგრეული ელექტრო სამჭედლო გაფუჭებული მავთულებითა და დამწვარი ზედაპირით. ის რემონტის მიღმაა.</AncientTableSmithingElectric.description>
+  <AncientTableSmithingElectric.label>უძველესი ელექტრო სამჭედლო</AncientTableSmithingElectric.label>
+  <AncientTableSmithingFueled.description>უძველესი სამჭედლო, რომელიც ოდესღაც წვავდა საწვავს ხელოსნობისთვის. ახლა ის ჭვარტლითა და ჟანგით არის დაფარული.</AncientTableSmithingFueled.description>
+  <AncientTableSmithingFueled.label>უძველესი საწვავი სამჭედლო</AncientTableSmithingFueled.label>
+  <AncientTableStoveElectric.description>ძველი ელექტრო ღუმელი დამსხვრეული გათბობის ელემენტებით. ის ძალიან დაზიანებულია გამოსაყენებლად.</AncientTableStoveElectric.description>
+  <AncientTableStoveElectric.label>უძველესი ელექტრო ღუმელი</AncientTableStoveElectric.label>
+  <AncientTableStoveFueled.description>დაჟანგული სამზარეულოს ღუმელი. ის გამოუსადეგარია.</AncientTableStoveFueled.description>
+  <AncientTableStoveFueled.label>უძველესი საწვავის ღუმელი</AncientTableStoveFueled.label>
+  <AncientTableTailorElectric.description>დანგრეული მკერავის სკამი დახეული ქსოვილით და დამტვრეული ხელსაწყოებით. ეს გადარჩენის მიღმაა.</AncientTableTailorElectric.description>
+  <AncientTableTailorElectric.label>უძველესი ელექტრო მკერავი სკამი</AncientTableTailorElectric.label>
+  <AncientTableTailorHand.description>უბრალო სამკერვალო სკამი ნატეხი ხის და დაჟანგული ნემსებით. არაფერი სასარგებლო არ რჩება.</AncientTableTailorHand.description>
+  <AncientTableTailorHand.label>უძველესი ხელის მკერავი სკამი</AncientTableTailorHand.label>
+  <AncientTunnelerClaw.description>უძველესი სამთო მექანოიდის კლანჭები. ყველა ნაწილი დეგრადირებულია უსარგებლოდ.</AncientTunnelerClaw.description>
+  <AncientTunnelerClaw.label>უძველესი გვირაბების კლანჭი</AncientTunnelerClaw.label>
+  <AncientTunnelerHusk.description>უძველესი სამთო მექანიკის ნაშთები. მისი რთული ნაწილები ყველა დეგრადირებულია უსარგებლობამდე.</AncientTunnelerHusk.description>
+  <AncientTunnelerHusk.label>უძველესი გვირაბების გარსი</AncientTunnelerHusk.label>
+  <AncientTV.description>დამსხვრეული ტელევიზორი. ეკრანი გატეხილია და ელექტრონიკა ამოღებული.</AncientTV.description>
+  <AncientTV.label>გაანადგურეს ტელევიზია</AncientTV.label>
+  <AncientUraniumSlugTurret.description>მძიმე კოშკი, რომელიც შექმნილია ურანის შლაკების გასასროლად. მექანიზმი დამსხვრეულია და საბრძოლო მასალა ამოწურულია.</AncientUraniumSlugTurret.description>
+  <AncientUraniumSlugTurret.label>გატეხილი ურანის შლაპა კოშკი</AncientUraniumSlugTurret.label>
+  <AncientWindTurbineBody.description>ჩამოგდებული ქარის ტურბინა გატეხილი პირებით. ის დიდი ხნის წინ არის გასუფთავებული ნაწილებისთვის.</AncientWindTurbineBody.description>
+  <AncientWindTurbineBody.label>უძველესი ქარის ტურბინა</AncientWindTurbineBody.label>
+  <AncientWoodenCrate.description>გაფუჭებული ხის ყუთი. ცარიელია, ხე კი მტვრევადი.</AncientWoodenCrate.description>
+  <AncientWoodenCrate.label>ძველი ხის ყუთი</AncientWoodenCrate.label>
+  <RubblePile.description>უძველესი სტრუქტურის დანგრეული ნაშთები.</RubblePile.description>
+  <RubblePile.label>ნანგრევების გროვა</RubblePile.label>
+</LanguageData>

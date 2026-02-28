@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NerveSpiker.description>არბალეტის მსგავსი მოწყობილობა, რომელიც ისვრის უხეშ წვეტებს, რომლებიც ჩაშენებულია პარალიზური ბიოტოქსინით. დაბალი დაზიანება, მაგრამ ის აჩერებს არამექანოიდულ სამიზნეებს. დიდი სამიზნეები უფრო მდგრადია ბიოტოქსინის მიმართ და გაოგნებული იქნებიან ნაკლებ დროში.</NerveSpiker.description>
+  <NerveSpiker.label>ნერვის სპიკერი</NerveSpiker.label>
+  <NerveSpiker_Spike.label>ნერვის მწვერვალი</NerveSpiker_Spike.label>
+</LanguageData>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChangeTreeMode.gerund>იცვლება დრიად კასტასთვის</ChangeTreeMode.gerund>
+  <ChangeTreeMode.label>დრიადის ტიპების შეცვლა</ChangeTreeMode.label>
+  <ChangeTreeMode.verb>დრიად კასტას შეცვლა</ChangeTreeMode.verb>
+  <ConvertPrisoner.gerund>კონვერტაცია</ConvertPrisoner.gerund>
+  <ConvertPrisoner.label>მოაქცია პატიმრები</ConvertPrisoner.label>
+  <ConvertPrisoner.verb>გარდაქმნის</ConvertPrisoner.verb>
+  <EmancipateSlave.gerund>ემანსიპირებადი</EmancipateSlave.gerund>
+  <EmancipateSlave.label>მონების განთავისუფლება</EmancipateSlave.label>
+  <EmancipateSlave.verb>ემანსიპაცია</EmancipateSlave.verb>
+  <EnslavePrisoner.gerund>დამონება</EnslavePrisoner.gerund>
+  <EnslavePrisoner.label>ტყვეების დამონება</EnslavePrisoner.label>
+  <EnslavePrisoner.verb>დამონება</EnslavePrisoner.verb>
+  <ExecuteSlave.gerund>აღსრულება</ExecuteSlave.gerund>
+  <ExecuteSlave.label>დაისაჯონ პატიმრები</ExecuteSlave.label>
+  <ExecuteSlave.verb>შეასრულოს</ExecuteSlave.verb>
+  <HaulToBiosculpterPod.gerund>შევსება</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.label>გადაიტანეთ ბიოსკულპტერის პოდზე</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.verb>შევსება</HaulToBiosculpterPod.verb>
+  <ImprisonSlave.gerund>დაპატიმრება</ImprisonSlave.gerund>
+  <ImprisonSlave.label>მონების დაპატიმრება</ImprisonSlave.label>
+  <ImprisonSlave.verb>ციხეში</ImprisonSlave.verb>
+  <PruneGauranlenTree.gerund>გასხვლა</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.label>გაურანლენის ხეების გასხვლა</PruneGauranlenTree.label>
+  <PruneGauranlenTree.verb>გახეხვა</PruneGauranlenTree.verb>
+  <SuppressSlave.gerund>ჩახშობა</SuppressSlave.gerund>
+  <SuppressSlave.label>მონების დათრგუნვა</SuppressSlave.label>
+  <SuppressSlave.verb>ჩაახშო</SuppressSlave.verb>
+</LanguageData>

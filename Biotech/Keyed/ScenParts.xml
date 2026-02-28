@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <ScenPart_StartingMech>დაიწყე მექანიკით</ScenPart_StartingMech>
+  <Mechanoid>მექანოიდი</Mechanoid>
+  <RandomMech>შემთხვევითი მექანიკა</RandomMech>
+  <StartOverseenChance>მეთვალყურეობის შანსი</StartOverseenChance>
+
+</LanguageData>

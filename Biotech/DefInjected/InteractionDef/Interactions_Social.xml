@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BabyPlay.label>თამაში</BabyPlay.label>
+  <LessonAnimals.label>ცხოველების გაკვეთილი</LessonAnimals.label>
+  <LessonArtistic.label>ხელოვნების გაკვეთილი</LessonArtistic.label>
+  <LessonConstruction.label>სამშენებლო გაკვეთილი</LessonConstruction.label>
+  <LessonCooking.label>სამზარეულოს გაკვეთილი</LessonCooking.label>
+  <LessonCrafting.label>ხელოსნობის გაკვეთილი</LessonCrafting.label>
+  <LessonGeneric.label>გაკვეთილი</LessonGeneric.label>
+  <LessonIntellectual.label>ინტელექტუალური გაკვეთილი</LessonIntellectual.label>
+  <LessonMedicine.label>სამედიცინო გაკვეთილი</LessonMedicine.label>
+  <LessonMelee.label>მელეის გაკვეთილი</LessonMelee.label>
+  <LessonMining.label>სამთო გაკვეთილი</LessonMining.label>
+  <LessonPlants.label>მებაღეობის გაკვეთილი</LessonPlants.label>
+  <LessonShooting.label>სროლის გაკვეთილი</LessonShooting.label>
+  <LessonSocial.label>სოციალური გაკვეთილი</LessonSocial.label>
+  <SanguophageChat.label>სანგუოფაგის ჩატი</SanguophageChat.label>
+</LanguageData>

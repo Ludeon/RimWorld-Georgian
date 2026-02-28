@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <StatsReport_Genes>შესაბამისი გენები</StatsReport_Genes>
+  <StatsReport_InSunlight>მზის შუქზე</StatsReport_InSunlight>
+  <StatsReport_Clothed>ჩაცმული</StatsReport_Clothed>
+  <StatsReport_Unclothed>გახდილი</StatsReport_Unclothed>
+  <StatsReport_InSpace>სივრცეში</StatsReport_InSpace>
+  <StatsReport_NotInSpace>პლანეტაზე</StatsReport_NotInSpace>
+  
+  <StatsReport_AgeRateMultiplier>ასაკობრივი მაჩვენებლის მულტიპლიკატორი</StatsReport_AgeRateMultiplier>
+  <StatsReport_AgeRateMultiplier_Desc>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად ბერდება ეს ადამიანი ბიოლოგიურად მისი ამჟამინდელი ასაკის მიხედვით.</StatsReport_AgeRateMultiplier_Desc>
+
+  <StatsReport_RechargerWeightClass>საჭირო წონით კატეგორიაში</StatsReport_RechargerWeightClass>
+  <StatsReport_RechargerWeightClass_Desc>მექანოიდის წონითი კლასი, რომელსაც შეუძლია გამოიყენოს ეს დამტენი. შემდეგი მექანოიდები თავსებადია</StatsReport_RechargerWeightClass_Desc>
+
+  <StatsReport_RechargerNeeded>საჭიროა დამტენი</StatsReport_RechargerNeeded>
+  <StatsReport_RechargerNeeded_Desc>დამტენის ტიპი, რომელიც ამ მექანოიდს შეუძლია გამოიყენოს ენერგიის აღსადგენად. ეს ემყარება მექანოიდის წონით კლასს.</StatsReport_RechargerNeeded_Desc>
+
+  <StatsReport_DeathrestEffectiveness>სიკვდილის ეფექტურობა</StatsReport_DeathrestEffectiveness>
+  <StatsReport_DeathrestEffectiveness_Desc>მულტიპლიკატორი იმის შესახებ, თუ რამდენად ეფექტურია ეს სიკვდილის დასასრულებლად გამოყენებისას. რაც უფრო მაღალია ეს, მით ნაკლები დრო სჭირდება მომხმარებელს აქ სიკვდილისთვის.</StatsReport_DeathrestEffectiveness_Desc>
+
+  <StatsReport_DeathrestConnectionLimit>Deathres კავშირის ლიმიტი</StatsReport_DeathrestConnectionLimit>
+  <StatsReport_DeathrestConnectionLimit_Desc>ამ შენობათაგან რამდენს შეუძლია დაუკავშირდეს სიკვდილის დამღუპველს სიკვდილის დასვენების დროს. ეს რიცხვი ასევე შეზღუდულია ადამიანის სიკვდილის შესაძლებლობით.</StatsReport_DeathrestConnectionLimit_Desc>
+
+  <StatsReport_GrowthTier>ზრდის იარუსი</StatsReport_GrowthTier>
+  <StatsReport_GrowthTierDesc>დროთა განმავლობაში ბავშვები პროგრესირებენ ზრდის საფეხურებში. რაც უფრო მაღალია სწავლის საჭიროება, მით უფრო სწრაფია პროგრესი. როდესაც მოდის ზრდის მომენტი (7, 10 და 13 წლის ასაკში), ბავშვის ზრდის დონე განსაზღვრავს, თუ რამდენი თვისებისა და ვნების ვარიანტებიდან შეგიძლიათ აირჩიოთ. ზრდის იარუსი აღდგება ყოველი ზრდის მომენტის შემდეგ.</StatsReport_GrowthTierDesc>
+
+  <StatsReport_DevelopmentStage>ცხოვრების ეტაპი</StatsReport_DevelopmentStage>
+  <StatsReport_DevelopmentStageDesc_Baby>ბავშვი. ბავშვებს არ შეუძლიათ დამოუკიდებლად გადაადგილება. მათი ცხოვრება ტრიალებს საკვების, ძილისა და თამაშის მარტივ საჭიროებებზე. როდესაც ისინი ხითხითებენ, ახლომახლო უფროსებს განწყობა ეცემათ და როცა ტირიან, ახლომახლო უფროსები ღიზიანდებიან.\n\n3 წლის ასაკში ადამიანები ბავშვები ხდებიან.</StatsReport_DevelopmentStageDesc_Baby>
+  <StatsReport_DevelopmentStageDesc_ChildPart1>ბავშვი. ზოგადად, ბავშვები უფრო ნელი და ნაკლებად დახელოვნებულები არიან ვიდრე მოზრდილები. თუმცა ბავშვებს ბუნებრივი ოპტიმიზმი აქვთ. როდესაც მათი განწყობა მაღალია, ამ ოპტიმიზმს შეუძლია ზრდასრული კოლონისტების განწყობა აამაღლოს.\n\nბავშვებს ასაკის მიხედვით შეუძლიათ სხვადასხვა სახის სამუშაოს შესრულება.</StatsReport_DevelopmentStageDesc_ChildPart1>
+  <StatsReport_DevelopmentStageDesc_ChildPart2>ასაკის მატებასთან ერთად, ისინი შეიძენენ დამატებით ვნებებს და თვისებებს.\n\nბავშვებს აქვთ ბავშვისთვის დამახასიათებელი სწავლის სხვადასხვა საჭიროება და საჭიროებენ ბავშვის ზომის სპეციალურ ტანსაცმელს.\n\n8 წლამდე ასაკის ბავშვები არ დაცოცავენ ტრავმის დროს.\n\n13 წლის ასაკში ადამიანები ზრდასრულები ხდებიან.</StatsReport_DevelopmentStageDesc_ChildPart2> 
+  <StatsReport_DevelopmentStageDesc_Adult>ზრდასრული. ზრდასრული ადამიანები სრულად მწიფდებიან 18 წლის ასაკში.</StatsReport_DevelopmentStageDesc_Adult>
+
+  <StatsReport_Pollution>მულტიპლიკატორი დაბინძურებისთვის</StatsReport_Pollution>
+
+  <StatsReport_FertilityAgeFactor>ასაკობრივი ფაქტორი</StatsReport_FertilityAgeFactor>
+  <StatsReport_HasGene>აქვს {0_label} გენი</StatsReport_HasGene>
+  <StatsReport_NonBaselinerDescription>{0} ქსენოტიპის ადამიანი.\n\n{0}-ების შესახებ:</StatsReport_NonBaselinerDescription>
+  
+  <Stat_Thing_Apparel_ValidLifestage>სიცოცხლის ეტაპი</Stat_Thing_Apparel_ValidLifestage>
+  <Stat_Thing_Apparel_ValidLifestage_Desc>გარკვეული ტანსაცმელი მოითხოვს, რომ მატარებელი იყოს გარკვეული ასაკის ფარგლებში.</Stat_Thing_Apparel_ValidLifestage_Desc>
+
+  <StatsReport_Connected>დაკავშირებულია {0}</StatsReport_Connected>
+
+  <Effects>ეფექტები</Effects>
+  <StatsReport_MissingGeneRomanceChance>მულტიპლიკატორი რომანტიკული ურთიერთობის შესაძლებლობის მქონე ადამიანთან, რომელსაც არ აქვს ეს გენი.</StatsReport_MissingGeneRomanceChance>
+  <ImmuneTo>იმუნური</ImmuneTo>
+  <SocialFightChanceFactor>სოციალური ბრძოლის შანსის ფაქტორი</SocialFightChanceFactor>
+  <AggroMentalBreakSelectionChanceFactor>ფსიქიკური შესვენების შანსი ძალადობრივია</AggroMentalBreakSelectionChanceFactor>
+  <PrisonBreakIntervalFactor>ციხის შესვენების ინტერვალის ფაქტორი</PrisonBreakIntervalFactor>
+  <WillNeverPrisonBreak>ციხე არასოდეს გატყდება.</WillNeverPrisonBreak>
+  <AlwaysAggroMentalBreak>გონებრივი შესვენებები ყოველთვის ძალადობრივია.</AlwaysAggroMentalBreak>
+  <NeverAggroMentalBreak>გონებრივი შესვენებები არასოდეს არის ძალადობრივი.</NeverAggroMentalBreak>
+  <AddictionChanceFactor>{0_label} დამოკიდებულების შანსის ფაქტორი</AddictionChanceFactor>
+  <OverdoseChanceFactor>{0_label} დოზის გადაჭარბების შანსის ფაქტორი</OverdoseChanceFactor>
+  <ToleranceBuildupFactor>{0_label} ტოლერანტობის დაგროვების ფაქტორი</ToleranceBuildupFactor>
+  <AddictionImmune>იმუნიტეტი {0_label} დამოკიდებულების მიმართ.</AddictionImmune>
+  <FoodPoisoningImmune>იმუნური საკვები მოწამვლის მიმართ.</FoodPoisoningImmune>
+  <WillNeverSocialFight>არასოდეს აწყობს სოციალურ ჩხუბს.</WillNeverSocialFight>
+  <AgeFactors>დაბერების ფაქტორები</AgeFactors>
+  <UnaffectedByDarkness>მუშაობის სიჩქარეზე გავლენას არ ახდენს სიბნელე.</UnaffectedByDarkness>
+  <PassionModAdd>ამატებს ვნების ერთ დონეს {0_label}-ში.</PassionModAdd>
+  <PassionModDrop>შლის ყოველგვარ ვნებას {0_label}-ში.</PassionModDrop>
+  <GivesAbility>აძლევს უნარს</GivesAbility>
+  <GivesAbilities>აძლევს შესაძლებლობებს</GivesAbilities>
+  <ResourceLossPerDay>{RESOURCE}: {OFFSET} დღეში.</ResourceLossPerDay>
+  <Removes>შლის</Removes>
+  <DevelopmentStage_Baby>ჩვილი</DevelopmentStage_Baby>
+  <DevelopmentStage_Child>ბავშვი</DevelopmentStage_Child>
+  <DevelopmentStage_Adult>ზრდასრული</DevelopmentStage_Adult>
+
+  <StatsReport_GrowthVatSpeedFactor>ზრდის დღიური სიჩქარე</StatsReport_GrowthVatSpeedFactor>
+
+  <GeneToleranceBuildupImmune>ოპერატორებს არ შეუძლიათ {0_label}-ის მიმართ ტოლერანტობის შექმნა.</GeneToleranceBuildupImmune>
+  <GeneToleranceBuildupFactor>მატარებლები აყალიბებენ ტოლერანტობას {0_label} {1}-ის მიმართ რაც შეიძლება სწრაფად.</GeneToleranceBuildupFactor>
+  <GeneOverdoseImmune>გადამზიდველებს არ შეუძლიათ {0_label}-ის დოზის გადაჭარბება.</GeneOverdoseImmune>
+  <GeneOverdoseFactor>{1}-ის გადამტანები არიან {0_label}-ის დოზის გადაჭარბების ალბათობა.</GeneOverdoseFactor>
+
+</LanguageData>

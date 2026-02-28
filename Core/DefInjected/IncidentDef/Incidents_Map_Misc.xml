@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Alphabeavers.label>ანბანისტები</Alphabeavers.label>
+  <AmbrosiaSprout.label>ამბროზიის ყლორტი</AmbrosiaSprout.label>
+  <AmbrosiaSprout.letterLabel>ამბროზიის ყლორტი</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterText>იდუმალი ამბროზიის ბუჩქის კორომი ამოიზარდა იქვე! თუ დაელოდებით მცენარეების ზრდას, შეძლებთ მიიღოთ გემრიელი, სასიამოვნო და ოდნავ ნარკოტიკული ხილი.</AmbrosiaSprout.letterText>
+  <ColdSnap.label>ცივი ნაკადი</ColdSnap.label>
+  <ColdSnap.letterLabel>გაციება</ColdSnap.letterLabel>
+  <CropBlight.label>მოსავლის სიბრმავე</CropBlight.label>
+  <FarmAnimalsWanderIn.label>ფერმის ცხოველები დახეტიალობენ</FarmAnimalsWanderIn.label>
+  <Flashstorm.label>შტორმი</Flashstorm.label>
+  <Flashstorm.letterLabel>ფლეშტორმი</Flashstorm.letterLabel>
+  <HeatWave.label>სითბოს ტალღა</HeatWave.label>
+  <HeatWave.letterLabel>სითბოს ტალღა</HeatWave.letterLabel>
+  <HerdMigration.label>ნახირის მიგრაცია</HerdMigration.label>
+  <HerdMigration.letterLabel>ცხოველთა მიგრაცია: {0}</HerdMigration.letterLabel>
+  <HerdMigration.letterText>{0}-ების ჯგუფი ამ ტერიტორიაზე გადის.\n\nისინი თავს არ დაგესხმიან, თუ არ გააღიზიანებთ.</HerdMigration.letterText>
+  <MeteoriteImpact.label>მეტეორიტის ზემოქმედება</MeteoriteImpact.label>
+  <MeteoriteImpact.letterLabel>მეტეორიტი</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterText>ადგილზე დიდი მეტეორიტი მოხვდა. მან დატოვა {0} ერთია.</MeteoriteImpact.letterText>
+  <PsychicDrone.label>ფსიქიკური დრონი</PsychicDrone.label>
+  <PsychicSoothe.label>ფსიქიკური ამშვიდებს</PsychicSoothe.label>
+  <RansomDemand.label>გამოსასყიდის მოთხოვნა</RansomDemand.label>
+  <RansomDemand.letterLabel>გამოსასყიდის მოთხოვნა</RansomDemand.letterLabel>
+  <RefugeePodCrash.label>სატრანსპორტო პოდის ავარია</RefugeePodCrash.label>
+  <ResourcePodCrash.label>რესურსის პოდის ავარია</ResourcePodCrash.label>
+  <SelfTame.label>თავის მოთვინიერება</SelfTame.label>
+  <ShortCircuit.label>მოკლე ჩართვა</ShortCircuit.label>
+  <ThrumboPasses.label>თრომბოს უღელტეხილი</ThrumboPasses.label>
+  <ToxicFallout.label>ტოქსიკური გამონადენი</ToxicFallout.label>
+  <ToxicFallout.letterLabel>ტოქსიკური გამონადენი</ToxicFallout.letterLabel>
+  <VolcanicWinter.label>ვულკანური ზამთარი</VolcanicWinter.label>
+  <VolcanicWinter.letterLabel>ვულკანური ზამთარი</VolcanicWinter.letterLabel>
+  <WandererJoin.label>მოხეტიალე შეუერთდი</WandererJoin.label>
+  <WildManWandersIn.label>ველური ადამიანი დახეტიალობს</WildManWandersIn.label>
+  <WildManWandersIn.letterLabel>{0} შემოდის</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterText>{1}, რომელიც ველურ ცხოველებთან ცხოვრობდა, ამ ტერიტორიაზე შემოვიდა. [PAWN_pronoun]-ს {0} ჰქვია.\n\nშეგიძლიათ სცადოთ [PAWN_objective]-ის მოშინაურება.</WildManWandersIn.letterText>
+</LanguageData>

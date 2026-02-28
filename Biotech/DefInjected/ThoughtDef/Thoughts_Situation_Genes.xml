@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MoodOffsetHappy.stages.0.description>ბუნებრივი ბონუსი "ბედნიერი" გენისგან.</MoodOffsetHappy.stages.0.description>
+  <MoodOffsetHappy.stages.0.label>გენეტიკური ოპტიმიზმი</MoodOffsetHappy.stages.0.label>
+  <MoodOffsetUnhappy.stages.0.description>ბუნებრივი ჯარიმა "უბედური" გენიდან.</MoodOffsetUnhappy.stages.0.description>
+  <MoodOffsetUnhappy.stages.0.label>გენეტიკური პესიმიზმი</MoodOffsetUnhappy.stages.0.label>
+  <MoodOffsetVeryHappy.stages.0.description>ბუნებრივი ბონუსი "ძალიან ბედნიერი" გენისგან.</MoodOffsetVeryHappy.stages.0.description>
+  <MoodOffsetVeryHappy.stages.0.label>გენეტიკური სიხარული</MoodOffsetVeryHappy.stages.0.label>
+  <MoodOffsetVeryUnhappy.stages.0.description>ბუნებრივი ჯარიმა "ძალიან უბედური" გენიდან.</MoodOffsetVeryUnhappy.stages.0.description>
+  <MoodOffsetVeryUnhappy.stages.0.label>გენეტიკური დეპრესია</MoodOffsetVeryUnhappy.stages.0.label>
+</LanguageData>

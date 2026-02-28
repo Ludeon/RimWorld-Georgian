@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalHabitat.description>ბუნებრივი ჰაბიტატი {ANIMALKIND_labelPlural}-ისთვის. ისინი აქ უფრო დიდი რაოდენობით ჩნდებიან.</AnimalHabitat.description>
+  <AnimalHabitat.label>ცხოველთა ჰაბიტატი</AnimalHabitat.label>
+  <AnimalLife_Decreased.description>აქ ცხოველები ჩვეულებრივზე ნაკლებია.</AnimalLife_Decreased.description>
+  <AnimalLife_Decreased.label>შემცირდა ცხოველთა სიცოცხლე</AnimalLife_Decreased.label>
+  <AnimalLife_Increased.description>აქ ცხოველები უფრო მრავლადაა.</AnimalLife_Increased.description>
+  <AnimalLife_Increased.label>გაიზარდა ცხოველთა სიცოცხლე</AnimalLife_Increased.label>
+  <ArcheanTrees.description>ეს ტერიტორია შეიცავს უძველეს არქეულ ხეებს. ეს ხეები თავის ფესვებში მასპინძლობს სპეციალურ მიკრობული საზოგადოებას, რომელიც ახლომდებარე რელიეფს მდიდარ ნიადაგად გარდაქმნის. მათი დახვეწილი ფესვთა სისტემა შეუძლებელს ხდის მათ ხელახლა დარგვას.</ArcheanTrees.description>
+  <ArcheanTrees.label>არქეული ხეები</ArcheanTrees.label>
+  <DryGround.description>ამ მხარეში მიწა ჩვეულებრივზე მშრალია. არ არის პატარა აუზები ან წყლის ობიექტები.</DryGround.description>
+  <DryGround.label>მშრალი მიწა</DryGround.label>
+  <Fish_Decreased.description>ამ ტერიტორიაზე ჩვეულებრივზე ნაკლები თევზია.</Fish_Decreased.description>
+  <Fish_Decreased.label>შემცირდა თევზი</Fish_Decreased.label>
+  <Fish_Increased.description>ამ მხარეში ჩვეულებრივზე მეტი თევზია.</Fish_Increased.description>
+  <Fish_Increased.label>გაიზარდა თევზი</Fish_Increased.label>
+  <FoggyMutator.description>ამ მხარეში ხშირია ნისლი.</FoggyMutator.description>
+  <FoggyMutator.label>ნისლიანი</FoggyMutator.label>
+  <Junkyard.description>ძველი ნაგავსაყრელი სხვადასხვა სახის ნაგავი.</Junkyard.description>
+  <Junkyard.label>ნაგავსაყრელი</Junkyard.label>
+  <MineralRich.label>მინერალებით მდიდარი</MineralRich.label>
+  <ObsidianDeposits.description>ამ ტერიტორიაზე არის ვულკანური ობსიდიანის საბადოები, რომელთა მოპოვება შესაძლებელია ობსიდიანის შუშისთვის.</ObsidianDeposits.description>
+  <ObsidianDeposits.label>ობსიდიანის საბადოები</ObsidianDeposits.label>
+  <PlantGrove.description>ეს ტერიტორია შეიცავს {0}-ის დიდ რაოდენობას.</PlantGrove.description>
+  <PlantGrove.label>მცენარეთა კორომი</PlantGrove.label>
+  <PlantLife_Decreased.description>მცენარეთა სიცოცხლე აქ ნაკლებად უხვადაა.</PlantLife_Decreased.description>
+  <PlantLife_Decreased.label>შემცირდა მცენარის სიცოცხლე</PlantLife_Decreased.label>
+  <PlantLife_Increased.description>მცენარეთა სიცოცხლე აქ უფრო უხვადაა.</PlantLife_Increased.description>
+  <PlantLife_Increased.label>გაიზარდა მცენარის სიცოცხლე</PlantLife_Increased.label>
+  <Pollution_Increased.description>ეს ტერიტორია დაბინძურებულია ტოქსიკური დამაბინძურებლებით.</Pollution_Increased.description>
+  <Pollution_Increased.label>გაზრდილი დაბინძურება</Pollution_Increased.label>
+  <SteamGeysers_Increased.description>ორთქლის გეიზერები უფრო გავრცელებულია ამ მხარეში.</SteamGeysers_Increased.description>
+  <SteamGeysers_Increased.label>მაღალი გეოთერმული აქტივობა</SteamGeysers_Increased.label>
+  <SunnyMutator.description>აქ ბევრად უფრო ხშირია წმინდა ამინდი.</SunnyMutator.description>
+  <SunnyMutator.label>მზიანი</SunnyMutator.label>
+  <WetClimate.description>აქ ნალექი გაცილებით ხშირია.</WetClimate.description>
+  <WetClimate.label>სველი კლიმატი</WetClimate.label>
+  <WildPlants.description>როდესაც საკმარისად თბილია, ეს ტერიტორია შეიძლება გაიზარდოს დიდი რაოდენობით {0}.</WildPlants.description>
+  <WildTropicalPlants.description>ამ ტერიტორიას შეუძლია გაიზარდოს {0}-ის დიდი რაოდენობა.</WildTropicalPlants.description>
+  <WindyMutator.description>ამ მხარეში ქარი გაცილებით ძლიერია.</WindyMutator.description>
+  <WindyMutator.label>ქარიანი</WindyMutator.label>
+</LanguageData>

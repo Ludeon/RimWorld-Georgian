@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArtificialMetabolism.description>შექმენით ბიონიკა, რომელიც ამუშავებს საკვებს უფრო უსაფრთხოდ ან ეფექტურად, ვიდრე ბიოლოგიური კუჭი.</ArtificialMetabolism.description>
+  <ArtificialMetabolism.label>ხელოვნური მეტაბოლიზმი</ArtificialMetabolism.label>
+  <BrainWiring.description>ხელნაკეთი ტვინის იმპლანტანტები, რომლებიც იწვევენ ან ხელს უშლიან ბლაგვი შეგრძნებებს, როგორიცაა სიხარული ან ტკივილი.</BrainWiring.description>
+  <BrainWiring.label>ტვინის გაყვანილობა</BrainWiring.label>
+  <CircadianInfluence.description>ხელნაკეთი ტვინის იმპლანტანტები, რომლებიც ქიმიურად მანიპულირებენ ცირკადულ რიტმზე, ამცირებს ან ცვლის ძილის მოთხოვნილებას.</CircadianInfluence.description>
+  <CircadianInfluence.label>ცირკადული გავლენა</CircadianInfluence.label>
+  <CompactWeaponry.description>ხელნაკეთი კომპაქტური, დამალული ბიონიკური იარაღი, რომელიც შეიძლება ჩამონტაჟდეს სხეულის სხვადასხვა ნაწილებში.</CompactWeaponry.description>
+  <CompactWeaponry.label>კომპაქტური იარაღი</CompactWeaponry.label>
+  <FleshShaping.description>ხელოსნობის ბიონიკა, რომელიც იწვევს ბუნებრივი ხორცის ფორმირებას, როგორც წესი, ესთეტიკური გაუმჯობესების ან პირადი სიამოვნების მიზნებისთვის.</FleshShaping.description>
+  <FleshShaping.label>ხორცის ფორმირება</FleshShaping.label>
+  <HealingFactors.description>ხელოსნობის ბიონიკა, რომელიც აძლიერებს ბუნებრივ სამკურნალო პროცესებს.</HealingFactors.description>
+  <HealingFactors.label>სამკურნალო ფაქტორები</HealingFactors.label>
+  <MolecularAnalysis.description>შექმენით ბიონიკა მოლეკულური ანალიზატორებით იმუნური სისტემის დასახმარებლად ან საკვების გასაანალიზებლად.</MolecularAnalysis.description>
+  <MolecularAnalysis.label>მოლეკულური ანალიზი</MolecularAnalysis.label>
+  <NeuralComputation.description>ხელნაკეთი ტვინის იმპლანტანტები, რომლებიც ხელს უწყობენ აზროვნებას და სწავლას ტვინი-კომპიუტერის პირდაპირი, ზედაპირული ინტერფეისის გამოყენებით.</NeuralComputation.description>
+  <NeuralComputation.label>ნერვული გამოთვლა</NeuralComputation.label>
+  <SkinHardening.description>შექმენით ბიონიკური იმპლანტები, რომლებიც იწვევენ ბუნებრივი კანის გამკაცრებას, აწარმოებენ ჯავშნის მსგავს ეფექტს.</SkinHardening.description>
+  <SkinHardening.label>კანის გამკვრივება</SkinHardening.label>
+  <SpecializedLimbs.description>სპეციალიზებული ბიონიკური კიდურების ხელნაკეთობა, რომლებიც აშენებულია კონკრეტული მიზნებისთვის - როგორც საბრძოლო, ასევე შრომით.</SpecializedLimbs.description>
+  <SpecializedLimbs.label>სპეციალიზებული კიდურები</SpecializedLimbs.label>
+  <VenomSynthesis.description>ხელნაკეთი ბიონიკა, რომელიც სინთეზირებს შხამს შიდა ქიმიური რეაქტორებიდან ტოქსიკური შეტევების გამოსაყენებლად.</VenomSynthesis.description>
+  <VenomSynthesis.label>შხამის სინთეზი</VenomSynthesis.label>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <Zone_Fishing>სათევზაო ზონა</Zone_Fishing>
+  <FishingGroup>თევზაობა</FishingGroup>
+  <DesignatorFishingZoneDesc>შექმენით ტერიტორია, სადაც თქვენი მონადირეები თევზაობენ. უნდა მოათავსოთ თევზის შემცველ წყალზე. უფრო დიდი წყლის მოცულობა ზოგადად უკეთესია თევზაობისთვის.</DesignatorFishingZoneDesc>
+
+  
+  <DesignatorAreaSnowOrSandClearExpand>თოვლისა და ქვიშის მოსაშორებელი ტერიტორია</DesignatorAreaSnowOrSandClearExpand>
+  <DesignatorAreaSnowOrSandClearExpandDesc>შექმენით ტერიტორია, სადაც კოლონისტები შეეცდებიან თოვლისა და ქვიშისგან თავის დაღწევას.</DesignatorAreaSnowOrSandClearExpandDesc>
+  <DesignatorAreaSnowOrSandClearClear>თოვლისა და ქვიშის მოცილების ადგილი</DesignatorAreaSnowOrSandClearClear>
+  <DesignatorAreaSnowOrSandClearClearDesc>აშორებს თოვლისა და ქვიშის მოცილების ადგილს. კოლონისტები აღარ შეეცდებიან ამ ტერიტორიის თოვლისა და ქვიშისგან გაწმენდას.</DesignatorAreaSnowOrSandClearClearDesc>
+
+  <DesignatorRemoveFoundation>ამოიღეთ საფუძველი</DesignatorRemoveFoundation>
+  <DesignatorRemoveFoundationDesc>ამოიღეთ ხიდები ან საფლავის ქვედანაყოფები, რათა გამოავლინოთ რელიეფის ქვეშ.</DesignatorRemoveFoundationDesc>
+
+  <DesignatorMoveGravship>სადესანტო ზონის გადატანა</DesignatorMoveGravship>
+  <DesignatorMoveGravshipDesc>გადააყენეთ გემის სადესანტო ადგილი.</DesignatorMoveGravshipDesc>
+</LanguageData>

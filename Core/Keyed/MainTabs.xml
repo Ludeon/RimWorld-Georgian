@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <ManualPriorities>სახელმძღვანელო პრიორიტეტები</ManualPriorities>
+  <HigherPriority>უმაღლესი პრიორიტეტი</HigherPriority>
+  <LowerPriority>ქვედა პრიორიტეტი</LowerPriority>
+  <RelevantSkills>შესაბამისი უნარები: {0}\nშესაბამისი უნარების საშუალო საშუალო: {1}</RelevantSkills>
+  <ClickToJumpTo>დააწკაპუნეთ გადასასვლელად:</ClickToJumpTo>
+  <CannotDoThisWork>{1_labelShort} არ შეუძლია ამ ტიპის სამუშაოს შესრულება.</CannotDoThisWork>
+  <NoneBrackets>(არცერთი)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>ეს კოლონისტი ჯანმრთელობის მდგომარეობის გამო ვერ ახერხებს ამ ტიპის სამუშაოს შესრულებას.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <SelectedWorkTypeWithVeryBadSkill>გაფრთხილება: შესაბამისი უნარების საშუალო მაჩვენებელი ძალიან დაბალია.</SelectedWorkTypeWithVeryBadSkill>
+  <PriorityOneDoneFirst>პრიორიტეტი 1 ჯერ კეთდება. პრიორიტეტი 4 კეთდება ბოლოს.</PriorityOneDoneFirst>
+  <Priority0>არ გააკეთებს</Priority0>
+  <Priority1>მთავარი პრიორიტეტი</Priority1>
+  <Priority2>მაღალი პრიორიტეტი</Priority2>
+  <Priority3>ნორმალური პრიორიტეტი</Priority3>
+  <Priority4>დაბალი პრიორიტეტი</Priority4>
+  <PawnFactionInfo>{0}\n\nფრაქცია {1_nameDef} ამჟამად ეკუთვნის.\n\nდააწკაპუნეთ ფრაქციის სანახავად.</PawnFactionInfo>
+  <WorkDisabledByBackstory>გამორთულია {0} backstory-ით</WorkDisabledByBackstory>
+  <WorkDisabledByTrait>გამორთულია {0} თვისებით</WorkDisabledByTrait>
+  <WorkDisabledByQuest>გამორთულია ქვესტის "{0}" მიერ</WorkDisabledByQuest>
+  
+  
+  <Unchangeable>შეუცვლელი</Unchangeable>
+  <ClearForcedApparel>Clr. იძულებული</ClearForcedApparel>
+  <ApparelForcedLower>სავალდებულო</ApparelForcedLower>
+  <ApparelLockedLower>ჩაკეტილი</ApparelLockedLower>
+  <ForcedApparel>იძულებითი ტანსაცმელი</ForcedApparel>
+  <AssignTabEdit>რედაქტირება</AssignTabEdit>
+  <ManageApparelPolicies>ტანსაცმლის პოლიტიკის მართვა</ManageApparelPolicies>
+  <ManageDrugPolicies>ნარკოპოლიტიკის მართვა</ManageDrugPolicies>
+  <ManageFoodPolicies>მართეთ კვების პოლიტიკა</ManageFoodPolicies>
+  <ManageReadingPolicies>მართეთ კითხვის წესები</ManageReadingPolicies>
+  
+  
+  <Copy>კოპირება</Copy>
+  <Paste>ჩასმა</Paste>
+  <AllowedArea>ნებადართული ტერიტორია</AllowedArea>
+  
+  
+  <Master>ოსტატი</Master>
+  <PregnantIconDesc>ორსული ({0} / {1})</PregnantIconDesc>
+  <BondedTo>მიბმული</BondedTo>
+  <SterilizeAnimal>ცხოველის სტერილიზაცია.</SterilizeAnimal>
+  <AnimalAlreadySterile>ცხოველი სტერილური.</AnimalAlreadySterile>
+  
+  
+  <IsPredator>ეს არსება მტაცებელია. როდესაც მშიერია, ის ნადირობს პატარა არსებებზე - შესაძლოა ადამიანებზეც.</IsPredator>
+  <IsInMentalState>ეს არსება ამჟამად ფსიქიკურ მდგომარეობაშია: {0}</IsInMentalState>
+  
+  
+  <Hostile>მტრული</Hostile>
+  <Ally>მოკავშირე</Ally>
+  <HostileLower>მტრული</HostileLower>
+  <AllyLower>მოკავშირე</AllyLower>
+  <DefeatedLower>დამარცხებული</DefeatedLower>
+  <HostileTo>{0}-ის მტერი</HostileTo>
+  <EnemyOf>მტერი:</EnemyOf>
+  <RecentEvents>ბოლო მოვლენები</RecentEvents>
+  <OngoingEvents>მიმდინარე მოვლენები</OngoingEvents>
+  <CurrentGoodwillTip_PermanentEnemy>ეს ფრაქცია მუდმივად მტრულია. ისინი დაარბიებენ თქვენს დასახლებებსა და ქარავნებს. მათთან ურთიერთობა არასოდეს გაუმჯობესდება რაიმე მიზეზით.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_Ally>ეს ფრაქცია მოკავშირეა. ისინი გამოგიგზავნიან მებრძოლებს დასახმარებლად, როცა შეძლებენ. თუ ურთიერთობები {0}-ზე დაბლა დაეცემა, ისინი ნეიტრალური გახდება.</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Neutral>ეს ფრაქცია ნეიტრალურია. თავისუფლად ივაჭრებენ და გელაპარაკებიან. თუ ურთიერთობები {0}-ზე დაბლა დაეცემა, ისინი მტრულად განწყობილნი იქნებიან. თუ ურთიერთობები {1}-ზე მაღლა აიწევს, ისინი გახდებიან მოკავშირეები და დაიწყებენ აქტიურ მუშაობას თქვენს დასახმარებლად.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Hostile>ეს ფრაქცია მტრულად განწყობილია. ისინი დაარბიებენ თქვენს დასახლებებსა და ქარავნებს. თუ ურთიერთობები {0}-ზე მაღლა აიწევს, ისინი ნეიტრალური გახდება.</CurrentGoodwillTip_Hostile>
+
+  
+  <Friend>მეგობარი</Friend>
+  <Rival>მეტოქე</Rival>
+  <Acquaintance>ნაცნობი</Acquaintance>
+  
+  
+  <Graph>გრაფიკი</Graph>
+  <Messages>შეტყობინებები</Messages>
+  <Statistics>სტატისტიკა</Statistics>
+  
+  
+  <SelectGraph>აირჩიეთ გრაფიკი</SelectGraph>
+  <Last30Days>ბოლო 30 დღე</Last30Days>
+  <Last100Days>ბოლო 100 დღე</Last100Days>
+  <Last300Days>ბოლო 300 დღე</Last300Days>
+  <AllDays>ყველა</AllDays>
+  <Value>ღირებულება</Value>
+  <External>გარე</External>
+
+  
+  <ShowLetters>ასოების ჩვენება</ShowLetters>
+  <ShowMessages>შეტყობინებების ჩვენება</ShowMessages>
+  <PinArchivableTip>ამ შეტყობინების ჩამაგრება ან ჩამაგრების მოხსნა.\n\nუძველესი ჩამაგრებული შეტყობინებები ავტომატურად წაიშლება სიიდან {0} შეტყობინებების ლიმიტის მიღწევის შემდეგ.</PinArchivableTip>
+  <NoMessages>არანაირი შეტყობინებები</NoMessages>
+
+  
+  <Playtime>თამაშის დრო</Playtime>
+  <Storyteller>მთხრობელი</Storyteller>
+  <ThisMapColonyWealthTotal>კოლონიის სიმდიდრე (ეს რუკა)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>კოლონიის სიმდიდრე (ერთეულები) (ეს რუკა)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>კოლონიის სიმდიდრე (შენობები) (ეს რუკა)</ThisMapColonyWealthBuildings>
+  <ThisMapColonyWealthColonistsAndTameAnimals>კოლონიის სიმდიდრე (ადამიანები და ცხოველები) (ეს რუკა)</ThisMapColonyWealthColonistsAndTameAnimals>
+  <NumThreatBigs>ძირითადი საფრთხეები</NumThreatBigs>
+  <NumEnemyRaids>მტრის რეიდები</NumEnemyRaids>
+  <ThisMapDamageTaken>მიღებული დაზიანება (ეს რუკა)</ThisMapDamageTaken>
+  <ColonistsKilled>კოლონისტები მოკლეს</ColonistsKilled>
+  <ColonistsLaunched>კოლონისტები კოსმოსში გაფრინდნენ</ColonistsLaunched>
+
+  
+  <Research>კვლევა</Research>
+  <Study>შესწავლა</Study>
+  <StudyThing>შეისწავლეთ {0}</StudyThing>
+  <Unresearched>გამოუკვლეველი</Unresearched>
+  <Finished>დასრულებული</Finished>
+  <InProgress>მიმდინარეობს</InProgress>
+  <Locked>დაბლოკილი</Locked>
+  <Prerequisites>წინაპირობები</Prerequisites>
+  <ResearchTechprintRequirement>ტექპრინტები საჭიროა {0} / {1}</ResearchTechprintRequirement>
+  <InsufficientTechprintsApplied>გამოყენებულია არასაკმარისი ტექნიკური ანაბეჭდები ({0} / {1})</InsufficientTechprintsApplied>
+  <PrerequisitesNotCompleted>წინაპირობა(ები) არ არის დასრულებული</PrerequisitesNotCompleted>
+  <NoProjectSelected>არ არის აქტიური პროექტი.</NoProjectSelected>
+  <ActiveProjectPlural>აქტიური პროექტები</ActiveProjectPlural>
+  <ActiveProject>აქტიური პროექტი</ActiveProject>
+  <StopResearch>შეაჩერე კვლევა</StopResearch>
+  <MissingRequiredResearchFacilities>საჭირო კვლევითი საშუალებების ნაკლებობა</MissingRequiredResearchFacilities>
+  <RequiredResearchBench>საჭირო კვლევის სკამი</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>საჭირო კვლევითი სკამების ობიექტები</RequiredResearchBenchFacilities>
+  <ResearchCostComparison>პროექტის საბაზისო ღირებულება {0} ხდება თქვენთვის {1} თქვენი ტექნიკური დონის გამო.</ResearchCostComparison>
+  <ResearchTechprintsFromFactions>Techprints ხელმისაწვდომია ამ ფრაქციებიდან ვაჭრობისა და ქვესტების საშუალებით:</ResearchTechprintsFromFactions>
+  <TechLevelTooLow>თქვენი ფრაქციის ტექნიკური დონეა {0}, მაგრამ ამ პროექტის ტექნიკური დონეა {1}. კვლევის სიჩქარე გამრავლდება {2}-ზე.</TechLevelTooLow>
+  <UnlockedWith>ერთად განბლოკილია</UnlockedWith>
+  <UnknownResearchDescription>გამოიკვლიეთ ამ პროექტის ერთი ან რამდენიმე წინაპირობა მის აღმოსაჩენად.</UnknownResearchDescription>
+  <UnknownResearch>უცნობი</UnknownResearch>
+
+  
+  <FactionsTab>ფრაქციები</FactionsTab>
+  <NoFactions>ცნობილი ფრაქციები არ არის</NoFactions>
+
+  
+  <AvailableQuests>ხელმისაწვდომი</AvailableQuests>
+  <ActiveQuests>აქტიური</ActiveQuests>
+  <HistoricalQuests>ისტორიული</HistoricalQuests>
+  <NoQuestSelected>არჩეული ქვესტი</NoQuestSelected>
+  <AppearedDaysAgo>{0} დღის წინ გამოჩნდა</AppearedDaysAgo>
+  <AppearedOn>გამოჩნდა {0}-ზე</AppearedOn>
+  <AcceptedAgo>მიღებულია {0} წინ</AcceptedAgo>
+  <AcceptedOn>მიღებულია {0}-ზე</AcceptedOn>
+  <AcceptedAgoBy>მიღებულია {0} წინ {1}-ის მიერ</AcceptedAgoBy>
+  <AcceptedOnBy>მიღებულია {0}-ზე {1}-ის მიერ</AcceptedOnBy>
+  <QuestExpiresIn>ვადა იწურება {0}-ში</QuestExpiresIn>
+  <QuestExpiresOn>ვადა იწურება {0}-ზე</QuestExpiresOn>
+  <QuestAveragePawnMood>სტუმრის საშუალო განწყობა (წინა {0}): {1}</QuestAveragePawnMood>
+  <QuestAveragePawnMoodTargets>{0}-ის საშუალო განწყობა წინა {1}-თან შედარებით</QuestAveragePawnMoodTargets>
+  <ShuttleArrivesIn>შატლი ჩამოდის {0}-ში</ShuttleArrivesIn>
+  <ShuttleArrivesOn>შატლი ჩამოდის {0}-ზე</ShuttleArrivesOn>
+  <ShuttleDepartsIn>შატლი მიემგზავრება {0}-ში</ShuttleDepartsIn>
+  <ShuttleDepartsOn>შატლი მიემგზავრება {0}-ზე</ShuttleDepartsOn>
+  <GuestsDepartsIn>სტუმრები გაემგზავრებიან {0}-ში</GuestsDepartsIn>
+  <GuestsDepartsOn>სტუმრები გაემგზავრებიან {0}-ზე</GuestsDepartsOn>
+  <QuestFinishedAgo>დასრულდა {0} წინ</QuestFinishedAgo>
+  <AcceptQuest>მიიღეთ ქვესტი</AcceptQuest>
+  <AcceptWith>მიიღე {0_labelShort}-ით</AcceptWith>
+  <AcceptQuestFor>მიღება</AcceptQuestFor>
+  <AcceptQuestForTip>დააწკაპუნეთ, რომ მიიღოთ ეს მოთხოვნა ამ ჯილდოსთვის.</AcceptQuestForTip>
+  <QuestOutcomeInfo_OfferExpired>შეთავაზებას ვადა გაუვიდა.</QuestOutcomeInfo_OfferExpired>
+  <QuestOutcomeInfo_UnknownOrSuccess>თქვენ დაასრულეთ ეს ქვესტი.</QuestOutcomeInfo_UnknownOrSuccess>
+  <QuestOutcomeInfo_Failed>თქვენ ვერ მოხერხდა ეს ძიება.</QuestOutcomeInfo_Failed>
+  <QuestOutcomeInfo_Invalid>ეს ქვესტი არასწორი გახდა მის მიღებამდე.</QuestOutcomeInfo_Invalid>
+  <JumpToTargetCustom>გადასვლა {0}-ზე</JumpToTargetCustom>
+  <SelectHiveTargets>აირჩიეთ ჭინჭრის ციება</SelectHiveTargets>
+  <QuestChallengeRatingTip>გამოწვევის რეიტინგი. ეს არის ზოგადი რეიტინგი იმისა, თუ რამდენად რთული იქნება ქვესტი თქვენს ამჟამინდელ ძალასთან შედარებით. უფრო რთული ქვესტები უფრო მეტ ჯილდოს იძლევა.\n\n1: ნორმალური\n2: მძიმე\n3: ექსტრემალური\n4: საბოლოო</QuestChallengeRatingTip>
+  <QuestAcceptanceRequirementsDescription>იმისათვის, რომ მიიღოთ ეს ქვესტი, გჭირდებათ</QuestAcceptanceRequirementsDescription>
+  <QuestBedroomRequirementsUnsatisfied>უფასო საძინებლები, რომლებიც აკმაყოფილებენ სათაურის მოთხოვნებს</QuestBedroomRequirementsUnsatisfied>
+  <QuestBedroomRequirementsUnsatisfiedSingle>უფასო საძინებელი, რომელიც აკმაყოფილებს სათაურის მოთხოვნებს</QuestBedroomRequirementsUnsatisfiedSingle>
+  <QuestThroneRoomRequirementsUnsatisfied>ტახტის ოთახი, რომელიც აკმაყოფილებს {PAWN_definite}-ის {TITLE} ტიტულის მოთხოვნებს</QuestThroneRoomRequirementsUnsatisfied>
+  <QuestNoThroneRoom>მიანიჭეთ ტახტი {PAWN_definite}-ს</QuestNoThroneRoom>
+  <QuestNoColonistWithTitle>კოლონისტი {0}-ის ტიტულით</QuestNoColonistWithTitle>
+  <QuestPawnNotOnColonyMap>{PAWN_definite} იყოს თქვენი სახლის კოლონიაში</QuestPawnNotOnColonyMap>
+  <QuestRequiresNoDangerOnMap>რუქა გასუფთავებულია გამცემის ფრაქციის მტრებისგან</QuestRequiresNoDangerOnMap>
+  <QuestRequiresResearch>რომ {PROJECT_label} გამოკვლეულია.</QuestRequiresResearch>
+  <QuestCanNotStartUntilBestowingCeremonyFinished>მინიჭების ცერემონიის მიმდინარე ქვესტი დასრულება</QuestCanNotStartUntilBestowingCeremonyFinished>
+  <ChooseRewards>ჯილდოს პრეფერენციები</ChooseRewards>
+  <ChooseRewardsDesc>უთხარით სხვა ფრაქციებს, თუ რა სახის ჯილდოები გსურთ მომავალ ქვესტებში. ეს არ იმოქმედებს ქვესტებზე, რომლებიც უკვე იყო შემოთავაზებული.</ChooseRewardsDesc>
+  <AcceptRoyalFavor>მიიღეთ {FACTION_royalFavorLabel}</AcceptRoyalFavor>
+  <AcceptRoyalFavorDesc>გსურთ თუ არა დაჯილდოვდეთ {FACTION_royalFavorLabel}-ით {FACTION_name}-დან.\n\nთუ ეს გამორთულია, {FACTION_name} შემოგთავაზებთ სხვა ტიპის ჯილდოებს.\n\nეს პარამეტრი მოქმედებს მხოლოდ ახლად ჩამოსულ ქვესტებზე.</AcceptRoyalFavorDesc>
+  <AcceptGoodwill>მიიღეთ კეთილგანწყობა</AcceptGoodwill>
+  <AcceptGoodwillDesc>გსურთ თუ არა დაჯილდოება {FACTION_name}-თან ფრაქციული ურთიერთობების გაუმჯობესებით.\n\nთუ ეს გამორთულია, {FACTION_name} სანაცვლოდ სხვა ტიპის ჯილდოებს შემოგთავაზებთ.\n\nეს პარამეტრი მოქმედებს მხოლოდ ახლად გენერირებულ ქვესტებზე.</AcceptGoodwillDesc>
+  <RoyalFavorOn>თქვენ ამჟამად ირჩევთ {FACTION_royalFavorLabel}-ის მიღებას.</RoyalFavorOn>
+  <RoyalFavorOff>თქვენ ამჟამად უარს იტყვით {FACTION_royalFavorLabel}-ის მიღებაზე.</RoyalFavorOff>
+  <GoodwillTip>თქვენი კეთილგანწყობა {0_name}-თან ერთად გაუმჯობესდება {1}-ით.\n\nამჟამინდელი გუდვილი: {4} ({5}).\n\nგუდვილი ზომავს ზოგად ურთიერთობას ფრაქციებს შორის. თუ ის {2}-ზე დაბლა დაეცემა, ფრაქცია მტრულად განწყობილია და დაარბიებს თქვენს დასახლებებსა და ქარავნებს. თუ ის {3}-ზე მაღლა აიწევს, ფრაქცია გახდება თქვენი მოკავშირე და გამოგიგზავნით მებრძოლებს დასახმარებლად, როცა მათ შეუძლიათ. წინააღმდეგ შემთხვევაში, ფრაქცია ნეიტრალური რჩება და თავისუფლად ივაჭრებს და გელაპარაკება.</GoodwillTip>
+  <PawnQuestReward>{0_labelShort} უერთდება</PawnQuestReward>
+  <QuestBetrayalOffer>ღალატის შეთავაზება: {0} სამიზნეები რჩება</QuestBetrayalOffer>
+  <QuestBetrayalOfferTip>{0} მოგცემთ ჯილდოს {1}-ის ყველა წევრის მკვლელობისთვის.</QuestBetrayalOfferTip>
+  <QuestRequiredPlayerWealth>კოლონიის სიმდიდრე მინიმუმ {0}</QuestRequiredPlayerWealth>
+  <QuestAlliedTo>ალიანსი {0}-თან</QuestAlliedTo>
+  <QuestHostileTo>მტრულად განწყობილი {0}-ის მიმართ</QuestHostileTo>
+  <QuestNeutralTo>ნეიტრალური {0}-მდე</QuestNeutralTo>
+  <QuestRequiredThingStudied>შეისწავლა {0_labelShort}</QuestRequiredThingStudied>
+  <QuestRequiredLayer>ვერ მიიღებს {GERUND} {LAYER}-ს</QuestRequiredLayer>
+  <QuestNotSpace>არ შეუძლია კოსმოსში მიღება</QuestNotSpace>
+
+  
+  <CreatesNeed>ქმნის საჭიროებას</CreatesNeed>
+  <ChangeDefaults>ნაგულისხმევი პარამეტრების შეცვლა...</ChangeDefaults>
+
+  
+  <ClickToEdit>დააწკაპუნეთ რედაქტირებისთვის</ClickToEdit>
+  <AssignButton>მინიჭება</AssignButton>
+  <UnassignButton>გაუქმება</UnassignButton>
+  
+  
+  <BookMentalBreakChance>გონებრივი შესვენების შანსი</BookMentalBreakChance>
+  
+  <BookJoyFactor>დასვენების მოგების მულტიპლიკატორი</BookJoyFactor>
+  
+</LanguageData>

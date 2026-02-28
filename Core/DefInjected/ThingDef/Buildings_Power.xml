@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Battery.description>ინახავს ელექტროენერგიას შემდგომი გამოყენებისთვის. დამუხტული ბატარეები აფეთქებენ წვიმის ან ხანძრის ზემოქმედებისას.</Battery.description>
+  <Battery.label>ბატარეა</Battery.label>
+  <ChemfuelPoweredGenerator.description>გამოიმუშავებს ენერგიას ქიმიური საწვავის მოხმარებით. პერიოდულად უნდა შეივსოს ხელით.</ChemfuelPoweredGenerator.description>
+  <ChemfuelPoweredGenerator.label>ქიმიური საწვავის გენერატორი</ChemfuelPoweredGenerator.label>
+  <GeothermalGenerator.description>ელექტროენერგიას გამოიმუშავებს გეოთერმული ორთქლის გეიზერებიდან. უნდა განთავსდეს ორთქლის გეიზერზე.</GeothermalGenerator.description>
+  <GeothermalGenerator.label>გეოთერმული გენერატორი</GeothermalGenerator.label>
+  <HiddenConduit.description>დამალული ელექტრული კაბელები დენის გადაადგილებისთვის. ისინი უფრო მკაცრია, ვიდრე ჩვეულებრივი მილები, მაგრამ ასევე უფრო ნელი აშენებული და უფრო ძვირი.</HiddenConduit.description>
+  <HiddenConduit.label>ფარული მილსადენი</HiddenConduit.label>
+  <PowerConduit.description>ელექტრული კაბელების შეკვრა დენის გადასაადგილებლად. შეიძლება განთავსდეს კედლებისა და სხვა შენობების ქვეშ.</PowerConduit.description>
+  <PowerConduit.label>ელექტროგადამცემი</PowerConduit.label>
+  <PowerSwitch.description>რთავს/თიშავს ენერგიას.</PowerSwitch.description>
+  <PowerSwitch.label>დენის შეცვლა</PowerSwitch.label>
+  <SolarGenerator.description>აწარმოებს ელექტროენერგიას მზისგან. არ მუშაობს სიბნელეში ან ხელოვნურ შუქზე.</SolarGenerator.description>
+  <SolarGenerator.label>მზის გენერატორი</SolarGenerator.label>
+  <WatermillGenerator.description>ელექტროენერგიას აწარმოებს მდინარიდან. უნდა მოთავსდეს თავის ბორბალთან ერთად მოძრავ წყალში. თუ წყლის წისქვილები ერთმანეთთან ძალიან ახლოს არის განთავსებული, მათ მიერ წარმოქმნილი ტურბულენტობა ხელს შეუშლის და შეამცირებს ელექტროენერგიის გამომუშავებას.</WatermillGenerator.description>
+  <WatermillGenerator.label>წყლის წისქვილის გენერატორი</WatermillGenerator.label>
+  <WaterproofConduit.description>იზოლირებული ელექტრული კაბელები არაღრმა წყლის ან ტალახის მეშვეობით ენერგიის გადაცემისთვის.</WaterproofConduit.description>
+  <WaterproofConduit.label>წყალგაუმტარი მილი</WaterproofConduit.label>
+  <WindTurbine.description>ქარის ელექტრო გენერატორი. საჭიროა დიდი სუფთა სივრცე წინ და უკან ჰაერის ოპტიმალური ნაკადისთვის.</WindTurbine.description>
+  <WindTurbine.label>ქარის ტურბინა</WindTurbine.label>
+  <WoodFiredGenerator.description>აწარმოებს ძალას ხის მოხმარებით. პერიოდულად უნდა დაიტვირთოს ხის საწვავი ხელით.</WoodFiredGenerator.description>
+  <WoodFiredGenerator.label>ხეზე მომუშავე გენერატორი</WoodFiredGenerator.label>
+</LanguageData>

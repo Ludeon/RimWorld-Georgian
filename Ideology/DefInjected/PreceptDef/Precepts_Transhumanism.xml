@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AgeReversal_Demanded.description>რატომ დაბერდება? თუ 25 წელზე უფროსია, წელიწადში ერთხელ უნდა გაიაროს ასაკის შეცვლა ბიოსკულპტერის ჯირკვალში.</AgeReversal_Demanded.description>
+  <AgeReversal_Demanded.label>მოითხოვდა</AgeReversal_Demanded.label>
+  <BioSculpter_Despised.description>Biosculpter pods არღვევს ადამიანის ხორცის სისუფთავეს და არ უნდა იქნას გამოყენებული.</BioSculpter_Despised.description>
+  <BioSculpter_Despised.label>სძულდა</BioSculpter_Despised.label>
+  <Biosculpting_Accelerated.description>ბიოსკულპტურის ყველა ციკლს ჩვეულებრივი დროის ნახევარი სჭირდება.</Biosculpting_Accelerated.description>
+  <Biosculpting_Accelerated.label>აჩქარდა</Biosculpting_Accelerated.label>
+  <NeuralSupercharge_Preferred.description>ახალი სტანდარტია ნერვული სუპერჩამუხტის ქონა. ამის გარეშე მოძველებული ხარ.</NeuralSupercharge_Preferred.description>
+  <NeuralSupercharge_Preferred.label>სასურველია</NeuralSupercharge_Preferred.label>
+  <SleepAccelerator_Preferred.description>ყოველთვის უნდა გამოიყენოთ ძილის ამაჩქარებელი. ნელი ძილი უბრალოდ სულელურად კარგავს თქვენს პოტენციალს.</SleepAccelerator_Preferred.description>
+  <SleepAccelerator_Preferred.label>სასურველია</SleepAccelerator_Preferred.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ParticipatedInRaid_Required.stages.0.description>მე მივიღე მონაწილეობა დარბევაში! ახლა ისინი ყველა მიცნობენ!</ParticipatedInRaid_Required.stages.0.description>
+  <ParticipatedInRaid_Required.stages.0.label>დარბევაში მონაწილეობდა</ParticipatedInRaid_Required.stages.0.label>
+  <ParticipatedInRaid_Respected.stages.0.description>მე მივიღე მონაწილეობა დარბევაში! ასე ვაკეთებთ!</ParticipatedInRaid_Respected.stages.0.description>
+  <ParticipatedInRaid_Respected.stages.0.label>დარბევაში მონაწილეობდა</ParticipatedInRaid_Respected.stages.0.label>
+  <RecentConquest_Required.stages.0.description>ცოტა ხნის წინ კიდევ ერთი ფრაქცია დაარბიეთ. მათი ტანჯვა მათი მასწავლებელი იქნება.</RecentConquest_Required.stages.0.description>
+  <RecentConquest_Required.stages.0.label>ბოლო დაპყრობა</RecentConquest_Required.stages.0.label>
+  <RecentConquest_Required.stages.1.description>ამდენი ხანია არავის დავარბივარ. ჩვენ საზიზღარნი ვართ - უმწეო ჭიები, როგორც დანარჩენები.</RecentConquest_Required.stages.1.description>
+  <RecentConquest_Required.stages.1.label>არცერთი ბოლო დაპყრობა</RecentConquest_Required.stages.1.label>
+  <RecentConquest_Respected.stages.0.description>ცოტა ხნის წინ კიდევ ერთი ფრაქცია დაარბიეთ. ეს აჩვენებს მათ ვინ არის ბოსი.</RecentConquest_Respected.stages.0.description>
+  <RecentConquest_Respected.stages.0.label>ბოლო დაპყრობა</RecentConquest_Respected.stages.0.label>
+  <RecentConquest_Respected.stages.1.description>ძალიან დიდი დრო გავიდა მას შემდეგ, რაც ვინმეს დარბევა გვქონდა. მათ შეიძლება შეწყვიტონ ჩვენი შიში და პატივისცემა.</RecentConquest_Respected.stages.1.description>
+  <RecentConquest_Respected.stages.1.label>არცერთი ბოლო დაპყრობა</RecentConquest_Respected.stages.1.label>
+</LanguageData>

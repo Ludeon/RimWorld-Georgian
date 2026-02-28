@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Emancipate.description>მცველი გაათავისუფლებს ამ მონას.</Emancipate.description>
+  <Emancipate.label>ემანსიპაცია</Emancipate.label>
+  <Execute.description>მცველი ამ მონას ადგილზე დაჭრით აღასრულებს.</Execute.description>
+  <Execute.label>შეასრულოს</Execute.label>
+  <Imprison.description>მცველი ამ მონას დააპატიმრებს. დაპატიმრების შემდეგ, მათი დაქირავება, ან კიდევ ერთხელ დამონება შეიძლება.</Imprison.description>
+  <Imprison.label>ციხეში</Imprison.label>
+  <NoInteraction.description>მცველები არ ურთიერთობენ ამ მონასთან.</NoInteraction.description>
+  <NoInteraction.label>არანაირი ურთიერთქმედება</NoInteraction.label>
+  <Suppress.description>მცველები პერიოდულად აშინებენ მონას, რათა გაზარდონ მათი ჩახშობის დონე და შეამცირონ აჯანყების შანსი.</Suppress.description>
+  <Suppress.label>ჩაახშო</Suppress.label>
+</LanguageData>

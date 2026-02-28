@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BerserkWarcall.baseInspectLine>ფსიქიკური მდგომარეობა: უორკოლი გაბრაზებული</BerserkWarcall.baseInspectLine>
+  <BerserkWarcall.beginLetter>{0} has been roused by a warcall.\n\n[PAWN_pronoun] will attack any enemy of the colony.</BerserkWarcall.beginLetter>
+  <BerserkWarcall.label>უორკოლი გაბრაზებული</BerserkWarcall.label>
+  <PanicFleeFire.baseInspectLine>ფსიქიკური მდგომარეობა: გაქცეული ცეცხლი</PanicFleeFire.baseInspectLine>
+  <PanicFleeFire.beginLetter>{0} გაურბის ხანძარს.</PanicFleeFire.beginLetter>
+  <PanicFleeFire.beginLetterLabel>გაქცეული ცეცხლი</PanicFleeFire.beginLetterLabel>
+  <PanicFleeFire.label>პანიკისგან გაქცეული ცეცხლი</PanicFleeFire.label>
+</LanguageData>

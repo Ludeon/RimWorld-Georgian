@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MaxInstallCount.description>რამდენჯერ შეიძლება დამონტაჟდეს ეს. ყოველი დამატებითი ინსტალაცია ზრდის ან განაახლებს ბაზის ეფექტს.</MaxInstallCount.description>
+  <MaxInstallCount.label>ინსტალაციის მაქსიმალური რაოდენობა</MaxInstallCount.label>
+</LanguageData>

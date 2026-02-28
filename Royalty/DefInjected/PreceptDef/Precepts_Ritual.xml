@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimaTreeLinking.description>ერთი ადამიანი დაუკავშირდება ანიმა ხეს. დამაკავშირებელი მედიტაციას ჩაატარებს ანიმას ხის წინ, აყალიბებს ფსიქიკურ კავშირს. სხვები იკრიბებიან წრეში, რათა უყურონ და რიტუალს ფსიქიკური ძალა შესძინონ.</AnimaTreeLinking.description>
+  <AnimaTreeLinking.label>ანიმა ხის დაკავშირება</AnimaTreeLinking.label>
+  <ThroneSpeech.description>ტახტიდან სიტყვის წამოწყება. {ORGANIZER_labelShort} წავა {ORGANIZER_possessive} ტახტზე და მოუწოდებს ყველა კოლონისტს იქ სიტყვის მოსასმენად. თუ ყველაფერი კარგად წავა, მსმენელები შთაგონებულნი იქნებიან და პატივისცემას მოიპოვებენ {ORGANIZER_labelShort}-ის მიმართ. თუ ის ცუდად წავა, მეტყველება სოციალურ ზიანს აყენებს. შედეგი დამოკიდებულია {ORGANIZER_labelShort}-ის სოციალურ შესაძლებლობებზე.</ThroneSpeech.description>
+  <ThroneSpeech.label>ტახტის გამოსვლა</ThroneSpeech.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mech_Agrihand.label>სასოფლო-სამეურნეო</Mech_Agrihand.label>
+  <Mech_Cleansweeper.label>გამწმენდი</Mech_Cleansweeper.label>
+  <Mech_Constructoid.label>კონსტრუქოიდი</Mech_Constructoid.label>
+  <Mech_Fabricor.label>ფაბრიკატორი</Mech_Fabricor.label>
+  <Mech_Lifter.label>ამწევი</Mech_Lifter.label>
+  <Mech_Militor.label>მილიტორი</Mech_Militor.label>
+  <Mech_Paramedic.label>პარამედიკოსი</Mech_Paramedic.label>
+  <Mech_WarUrchin.label>ომის ზღარბი</Mech_WarUrchin.label>
+</LanguageData>

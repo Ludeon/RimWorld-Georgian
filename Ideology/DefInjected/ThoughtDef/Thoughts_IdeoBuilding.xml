@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeoBuildingDisrespected.stages.0.description>ჩვენ გვაქვს {BUILDING_labelIndef}, მაგრამ ის უნდა განთავსდეს ოთახში, რომელიც აკმაყოფილებს შესაბამის მოთხოვნებს.</IdeoBuildingDisrespected.stages.0.description>
+  <IdeoBuildingDisrespected.stages.0.label>{BUILDING_labelCap} უპატივცემულო</IdeoBuildingDisrespected.stages.0.label>
+  <IdeoBuildingMissing.stages.0.description>ჩვენ უნდა გვქონდეს {BUILDING_labelIndef}.</IdeoBuildingMissing.stages.0.description>
+  <IdeoBuildingMissing.stages.0.label>აკლია {BUILDING_label}</IdeoBuildingMissing.stages.0.label>
+</LanguageData>

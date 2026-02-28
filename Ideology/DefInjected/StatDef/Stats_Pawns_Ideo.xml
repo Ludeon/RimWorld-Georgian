@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiosculpterOccupantSpeed.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად დაასრულებს ეს ადამიანი ბიოსკულპტერის პოდის ციკლს.</BiosculpterOccupantSpeed.description>
+  <BiosculpterOccupantSpeed.label>ბიოსკულპტერის ოკუპანტის სიჩქარე</BiosculpterOccupantSpeed.label>
+  <CertaintyLossFactor.description>მულტიპლიკატორი იმის შესახებ, თუ რამხელა დარწმუნებულობას კარგავს ეს ადამიანი, როდესაც ვინმე ცდილობს მის გადაქცევას იდეოლიგიისგან.</CertaintyLossFactor.description>
+  <CertaintyLossFactor.label>გლობალური დაკარგვის ფაქტორი</CertaintyLossFactor.label>
+  <ConversionPower.description>რამდენად ეფექტურია ეს ადამიანი სხვების საკუთარ იდეოლიგიაზე გადაქცევაში. როდესაც ეს ადამიანი ცდილობს სხვისი კონვერტაციას, ეს მნიშვნელობა ამრავლებს დარწმუნებულობის რაოდენობას, რომელიც სხვა ადამიანს კარგავს.</ConversionPower.description>
+  <ConversionPower.label>კონვერტაციის ძალა</ConversionPower.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>ოფსეტური მელეის ავუარე შანსზე, თუ სამიზნე შენობაშია სიბნელეში.</MeleeDodgeChanceIndoorsDarkOffset.description>
+  <MeleeDodgeChanceIndoorsDarkOffset.label>Melee Dodge შანსი შენობაში სიბნელეში</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.description>ოფსეტური მელეის ავუარე შანსზე, თუ სამიზნე შენობაშია და განათებულია.</MeleeDodgeChanceIndoorsLitOffset.description>
+  <MeleeDodgeChanceIndoorsLitOffset.label>melee Dodge შანსი შენობაში განათებული</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>ოფსეტური მელეის ავუარე შანსზე, თუ სამიზნე ღამით არის გარეთ.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>melee Dodge შანსი გარეთ ღამით</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>ოფსეტური მელეის ავუარე შანსზე, თუ სამიზნე დღის განმავლობაში არის გარეთ.</MeleeDodgeChanceOutdoorsLitOffset.description>
+  <MeleeDodgeChanceOutdoorsLitOffset.label>melee Dodge შანსი გარეთ დღე</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.description>ოფსეტური მელეის დარტყმის შანსზე, თუ სამიზნე შენობაშია სიბნელეში.</MeleeHitChanceIndoorsDarkOffset.description>
+  <MeleeHitChanceIndoorsDarkOffset.label>melee დარტყმის შანსი შენობაში ბნელ</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.description>ოფსეტური მელეის დარტყმის შანსი, თუ სამიზნე შენობაშია და განათებულია.</MeleeHitChanceIndoorsLitOffset.description>
+  <MeleeHitChanceIndoorsLitOffset.label>melee hit შანსი შენობაში განათებული</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.description>ოფსეტური მელეის დარტყმის შანსზე, თუ სამიზნე ღამით არის გარეთ.</MeleeHitChanceOutdoorsDarkOffset.description>
+  <MeleeHitChanceOutdoorsDarkOffset.label>melee მოხვდა შანსი გარეთ ბნელ</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.description>ოფსეტური მელეის დარტყმის შანსზე, თუ სამიზნე დღის განმავლობაში არის გარეთ.</MeleeHitChanceOutdoorsLitOffset.description>
+  <MeleeHitChanceOutdoorsLitOffset.label>melee მოხვდა შანსი outdoors განათებული</MeleeHitChanceOutdoorsLitOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.description>ოფსეტური სროლის სიზუსტეზე, თუ სამიზნე შენობაშია სიბნელეში.</ShootingAccuracyIndoorsDarkOffset.description>
+  <ShootingAccuracyIndoorsDarkOffset.label>სროლის სიზუსტე ბნელ შენობაში</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.description>ოფსეტი სროლის სიზუსტეზე, თუ სამიზნე შენობაშია და განათებულია.</ShootingAccuracyIndoorsLitOffset.description>
+  <ShootingAccuracyIndoorsLitOffset.label>სროლის სიზუსტე შენობაში განათებულია</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.description>ოფსეტური სროლის სიზუსტეზე, თუ სამიზნე ღამით არის გარეთ.</ShootingAccuracyOutdoorsDarkOffset.description>
+  <ShootingAccuracyOutdoorsDarkOffset.label>სროლის სიზუსტე ბნელ გარეთ</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.description>ოფსეტური სროლის სიზუსტეზე, თუ სამიზნე დღის განმავლობაში არის გარეთ.</ShootingAccuracyOutdoorsLitOffset.description>
+  <ShootingAccuracyOutdoorsLitOffset.label>სროლის სიზუსტე ღია ცის ქვეშ განათებულია</ShootingAccuracyOutdoorsLitOffset.label>
+  <SocialIdeoSpreadFrequencyFactor.description>მულტიპლიკატორი იმის შანსზე, რომ ეს ადამიანი შეეცდება სხვა ადამიანების საკუთარ იდეოლიგიად გადაქცევას.</SocialIdeoSpreadFrequencyFactor.description>
+  <SocialIdeoSpreadFrequencyFactor.label>იდეოლიგიის გავრცელების შანსი</SocialIdeoSpreadFrequencyFactor.label>
+</LanguageData>

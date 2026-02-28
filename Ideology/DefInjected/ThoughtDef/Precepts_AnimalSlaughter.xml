@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SlaughteredAnimal_Disapproved.stages.0.description>მომიწია ცხოველის დაკვლა. მახინჯი საქმე იყო.</SlaughteredAnimal_Disapproved.stages.0.description>
+  <SlaughteredAnimal_Disapproved.stages.0.label>დაკლული ცხოველი</SlaughteredAnimal_Disapproved.stages.0.label>
+  <SlaughteredAnimal_Horrible.stages.0.description>ცხოველი უნდა დამეკლა! საშინელება იყო ასეთი გონების ჩახშობა.</SlaughteredAnimal_Horrible.stages.0.description>
+  <SlaughteredAnimal_Horrible.stages.0.label>დაკლული ცხოველი</SlaughteredAnimal_Horrible.stages.0.label>
+  <SlaughteredAnimal_Know_Disapproved.stages.0.label>დაკლული ცხოველი</SlaughteredAnimal_Know_Disapproved.stages.0.label>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.0.description>ვიღაცამ ცხოველი დაკლა. სამწუხარო ამბავია.</SlaughteredAnimal_Know_Disapproved_Mood.stages.0.description>
+  <SlaughteredAnimal_Know_Disapproved_Mood.stages.0.label>მოკლული ცხოველი</SlaughteredAnimal_Know_Disapproved_Mood.stages.0.label>
+  <SlaughteredAnimal_Know_Horrible.stages.0.label>დაკლული ცხოველი</SlaughteredAnimal_Know_Horrible.stages.0.label>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.0.description>ვიღაცამ ცხოველი დაკლა! რა საშინელებაა, ასე გონების ჩახშობა.</SlaughteredAnimal_Know_Horrible_Mood.stages.0.description>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.0.label>მოკლული ცხოველი</SlaughteredAnimal_Know_Horrible_Mood.stages.0.label>
+  <SlaughteredAnimal_Know_Prohibited.stages.0.label>დაკლული ცხოველი</SlaughteredAnimal_Know_Prohibited.stages.0.label>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.0.description>ვიღაცამ ცხოველი დაკლა! უნიკალური ცხოვრების ტრაგიკული დაკარგვა.</SlaughteredAnimal_Know_Prohibited_Mood.stages.0.description>
+  <SlaughteredAnimal_Know_Prohibited_Mood.stages.0.label>მოკლული ცხოველი</SlaughteredAnimal_Know_Prohibited_Mood.stages.0.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BuildSnowman.reportString>აშენებს თოვლის კაცი.</BuildSnowman.reportString>
+  <GoForWalk.reportString>სასეირნოდ მიდის.</GoForWalk.reportString>
+  <Meditate.reportString>მედიტირებს.</Meditate.reportString>
+  <Play_Billiards.reportString>ბილიარდის თამაში.</Play_Billiards.reportString>
+  <Play_Chess.reportString>ჭადრაკის თამაში.</Play_Chess.reportString>
+  <Play_GameOfUr.reportString>თამაშობს ურ თამაშს.</Play_GameOfUr.reportString>
+  <Play_Hoopstone.reportString>ჰოპსტონის თამაში.</Play_Hoopstone.reportString>
+  <Play_Horseshoes.reportString>ცხენებზე თამაში.</Play_Horseshoes.reportString>
+  <Play_MusicalInstrument.reportString>თამაშობს TargetA.</Play_MusicalInstrument.reportString>
+  <Play_Poker.reportString>პოკერის თამაში.</Play_Poker.reportString>
+  <Pray.reportString>ლოცულობს.</Pray.reportString>
+  <Skygaze.reportString>ცას აკვირდება.</Skygaze.reportString>
+  <SocialRelax.reportString>სოციალურად დასვენება.</SocialRelax.reportString>
+  <UseTelescope.reportString>ტელესკოპის გამოყენებით.</UseTelescope.reportString>
+  <ViewArt.reportString>ხელოვნების დათვალიერება.</ViewArt.reportString>
+  <VisitGrave.reportString>საფლავის მონახულება.</VisitGrave.reportString>
+  <VisitSickPawn.reportString>გაამხნევა პაციენტი TargetA.</VisitSickPawn.reportString>
+  <WatchTelevision.reportString>ტელევიზორის ყურება.</WatchTelevision.reportString>
+</LanguageData>

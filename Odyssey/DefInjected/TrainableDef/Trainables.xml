@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttackTarget.description>უბრძანე ცხოველს შეტევა კონკრეტულ სამიზნეზე.</AttackTarget.description>
+  <AttackTarget.label>თავდასხმის სამიზნე</AttackTarget.label>
+  <Comfort.description>ცხოველი ემოციურად უფრო მხარდამჭერი იქნება. ის უფრო ხშირად იწუწუნება და თქვენს კოლონისტებს უფრო გაახარებს, როცა ამას აკეთებს.</Comfort.description>
+  <Comfort.label>კომფორტს</Comfort.label>
+  <Dig.description>ცხოველი მოიპოვებს კლდეებს, რომლებიც განკუთვნილია სამთო სამუშაოებისთვის. ცხოველები ზოგადად ნელი და არაეფექტურია მაინინგში.</Dig.description>
+  <Dig.label>გათხრა</Dig.label>
+  <EggSpew.description>უბრძანე დედოფალს კვერცხის ტომარა და მჟავე შლამის შესხურება სამიზნე ზონაში. გაწვრთნის შემდეგ, დედოფალი კვერცხებს მხოლოდ ბრძანების შემთხვევაში გამოიმუშავებს.</EggSpew.description>
+  <EggSpew.label>კვერცხის ნახარში</EggSpew.label>
+  <Forage.description>ცხოველი ზოგჯერ პოულობს კენკრას, სოკოს ან საკვებს. ცხოველები უფრო მეტ საკვებს იპოვიან ბიომებში, რომლებსაც აქვთ საკვების მაღალი უნარი. საკვების მოპოვება შესაძლებელია მხოლოდ ნაყოფიერ რელიეფზე.</Forage.description>
+  <Forage.label>საკვები</Forage.label>
+  <SludgeSpew.description>უბრძანე ლარვას დაასხუროს მჟავე შლამი მთელ სამიზნე ზონაში. გაწვრთნის შემდეგ, ლარვა მხოლოდ ბრძანების შემთხვევაში ამოფრქვევს შლამს.</SludgeSpew.description>
+  <SludgeSpew.label>შლამის ნაღვლიანი</SludgeSpew.label>
+  <TerrorRoar.description>უბრძანე ალფა თრომბოს, რომ გაათავისუფლოს ყრუ ღრიალი. მას აქვს შანსი, რომ ახლომდებარე მტრულად განწყობილი ადამიანები და ცხოველები შიშით გაიქცნენ.</TerrorRoar.description>
+  <TerrorRoar.label>ტერორის ღრიალი</TerrorRoar.label>
+  <ThrumboRoar.description>უბრძანე თრომბოს, რომ გაათავისუფლოს ყრუ ღრიალი. ამან შეიძლება გამოიწვიოს მტრულად განწყობილი ადამიანებისა და ცხოველების შიშის კანკალი, შეამციროს მათი მოძრაობის სიჩქარე და მანიპულირება.</ThrumboRoar.description>
+  <ThrumboRoar.label>თრომბო ღრიალი</ThrumboRoar.label>
+  <WarTrumpet.description>უბრძანე ცხოველს გაათავისუფლოს ძლიერი ღრიალი. ამან შეიძლება გამოიწვიოს მტრულად განწყობილი ადამიანებისა და ცხოველების შიშის კანკალი, შეამციროს მათი მოძრაობის სიჩქარე და მანიპულირება.</WarTrumpet.description>
+  <WarTrumpet.label>ომის საყვირი</WarTrumpet.label>
+</LanguageData>

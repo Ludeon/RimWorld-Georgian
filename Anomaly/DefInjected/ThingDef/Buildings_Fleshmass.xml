@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_Shell_AcidSpit.label>მჟავა შამფურზე</Bullet_Shell_AcidSpit.label>
+  <Fleshbulb.description>ხორცის ბოლქვოვანი მასა. ეს მხეცური ორგანოები ინახავს და აუმჯობესებს საკვებ ნივთიერებებს მიმდებარე ხორცის მასისთვის. ქიმიური პროცესი წარმოქმნის რბილ ბიოლუმინესცენტურ ბზინვარებას.</Fleshbulb.description>
+  <Fleshbulb.label>ხორცის ბოლქვი</Fleshbulb.label>
+  <Fleshmass.description>გრეხილი ხორცის მყარი მასა. თრთოლდება და კანკალებს საშინელი ცხოვრებით.</Fleshmass.description>
+  <Fleshmass.label>ხორცის მასა</Fleshmass.label>
+  <FleshmassHeart.description>The primary organ of a fleshmass infestation. The heart gathers material through roots extended into the ground. Once it has collected enough, it spreads fleshmass around itself in a spurt of cancer-like growth. It will keep growing until it consumes everything.\n\nThe heart grows fleshmass spitters. These defensive organs can spit acid long distances. The heart will also generate fleshbeast defenders to protect itself.\n\nUltra-rapid regeneration makes the heart nearly invulnerable. It can only be killed by analyzing samples taken from the nerve bundles that form within its growing mass.</FleshmassHeart.description>
+  <FleshmassHeart.label>ხორცის გული</FleshmassHeart.label>
+  <FleshmassHeartSpawner.description>აქ რაღაც მიწიდან ამოდის.</FleshmassHeartSpawner.description>
+  <FleshmassHeartSpawner.label>მიწისქვეშა გაჩენა</FleshmassHeartSpawner.label>
+  <FleshmassSpitter.description>ხორცის მასის თავდაცვითი ორგანო, რომელსაც შეუძლია მჟავას შორ მანძილზე გადაფურთხება. მჟავა არის ტოქსინების ბუნებრივი ქვეპროდუქტი, რომელიც გაფილტრულია მიმდებარე ბიომასისგან.</FleshmassSpitter.description>
+  <FleshmassSpitter.label>ხორცის მასის ნამწვი</FleshmassSpitter.label>
+  <FleshSack.description>ადიდებულმა რბილობი შიგნიდან რაღაცით. ეს სტაციონარული ხორცის ცხოველები მოქმედებენ როგორც საჭმლის მომნელებელი ორგანოები, რომლებიც ამარაგებენ მიმდებარე ხორცის მასას საკვები ნივთიერებებით. თუმცა, მათ არ შეუძლიათ არაორგანული ნივთიერების დაშლა, რაც იმას ნიშნავს, რომ ძვირფასი ნივთები შეიძლება ზოგჯერ მოიძებნოს შიგნით.</FleshSack.description>
+  <FleshSack.label>ხორცის ტომარა</FleshSack.label>
+  <NerveBundle.description>შეერთების წერტილი ხორცის ნერვულ სისტემაში. განადგურებისას ის ტოვებს ნერვულ ქსოვილს, რომლის შესწავლაც შეგიძლიათ. შეისწავლეთ საკმარისად განსხვავებული ნერვული სიმსივნეები და შეგიძლიათ გახსნათ გზა, რომ მოკლათ ხორცის გული.</NerveBundle.description>
+  <NerveBundle.label>ნერვის შეკვრა</NerveBundle.label>
+</LanguageData>

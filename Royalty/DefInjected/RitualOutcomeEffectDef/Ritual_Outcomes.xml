@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestowingCeremony.description>რიტუალის ხარისხიდან გამომდინარე, ჯილდოს მფლობელი იღებს 3-მდე ბონუს ჯილდოს. სხვა მონაწილეები იღებენ +6-მდე განწყობის ამაღლებას 6 დღის განმავლობაში.</BestowingCeremony.description>
+  <BestowingCeremony.outcomeChances.0.label>საშინელება</BestowingCeremony.outcomeChances.0.label>
+  <BestowingCeremony.outcomeChances.1.label>არაშთამბეჭდავი</BestowingCeremony.outcomeChances.1.label>
+  <BestowingCeremony.outcomeChances.2.label>საპატიო</BestowingCeremony.outcomeChances.2.label>
+  <BestowingCeremony.outcomeChances.3.label>გრანდიოზული</BestowingCeremony.outcomeChances.3.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Structure_OriginBuddhist.description>ეს იდეოლიგია ძველი ბუდიზმის შთამომავალია. მას შეიძლება ჰქონდეს ძალიან განსხვავებული მცნებები, ვიდრე ათასობით წლის წინანდელი, მაგრამ მისი სიმბოლოები მსგავსია.</Structure_OriginBuddhist.description>
+  <Structure_OriginBuddhist.label>ბუდისტური წარმოშობა</Structure_OriginBuddhist.label>
+  <Structure_OriginChristian.description>ეს არის აბსტრაქტული თეისტური სტრუქტურის ვარიანტი. ეს იდეოლიგია ძველი ქრისტიანობის შთამომავალია. მას შეიძლება ჰქონდეს ძალიან განსხვავებული მცნებები, ვიდრე ათასობით წლის წინანდელი, მაგრამ მისი სიმბოლოები მსგავსია.</Structure_OriginChristian.description>
+  <Structure_OriginChristian.label>ქრისტიანული წარმოშობა</Structure_OriginChristian.label>
+  <Structure_OriginHindu.description>ეს არის განსახიერებული თეისტური სტრუქტურის ვარიანტი. ეს იდეოლიგია ძველი ინდუიზმის შთამომავალია. მას შეიძლება ჰქონდეს ძალიან განსხვავებული მცნებები, ვიდრე ათასობით წლის წინანდელი, მაგრამ მისი სიმბოლოები მსგავსია.</Structure_OriginHindu.description>
+  <Structure_OriginHindu.label>ინდუისტური წარმოშობა</Structure_OriginHindu.label>
+  <Structure_OriginIslamic.description>ეს არის აბსტრაქტული თეისტური სტრუქტურის ვარიანტი. ეს იდეოლიგია ძველი ისლამის შთამომავალია. მას შეიძლება ჰქონდეს ძალიან განსხვავებული მცნებები, ვიდრე ათასობით წლის წინანდელი, მაგრამ მისი სიმბოლოები მსგავსია.</Structure_OriginIslamic.description>
+  <Structure_OriginIslamic.label>ისლამური წარმოშობა</Structure_OriginIslamic.label>
+</LanguageData>

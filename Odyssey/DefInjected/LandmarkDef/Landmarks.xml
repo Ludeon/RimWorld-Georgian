@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientChemfuelRefinery.label>უძველესი ქიმიური საწვავის ქარხანა</AncientChemfuelRefinery.label>
+  <AncientGarrison.label>უძველესი გარნიზონი</AncientGarrison.label>
+  <AncientInfestedSettlement.label>დაზიანებული დასახლება</AncientInfestedSettlement.label>
+  <AncientLaunchSite.label>უძველესი გაშვების ადგილი</AncientLaunchSite.label>
+  <AncientQuarry.label>უძველესი კარიერი</AncientQuarry.label>
+  <AncientWarehouse.label>უძველესი საწყობი</AncientWarehouse.label>
+  <Archipelago.label>არქიპელაგი</Archipelago.label>
+  <Basin.label>აუზი</Basin.label>
+  <Cavern.label>გამოქვაბული</Cavern.label>
+  <Chasm.label>უფსკრული</Chasm.label>
+  <Cliffs.label>კლდეები</Cliffs.label>
+  <CoastalAtoll.label>სანაპირო ატოლი</CoastalAtoll.label>
+  <CoastalIsland.label>სანაპირო კუნძული</CoastalIsland.label>
+  <Crevasse.label>ნაპრალი</Crevasse.label>
+  <DryLake.label>მშრალი ტბა</DryLake.label>
+  <Dunes.label>დიუნები</Dunes.label>
+  <Fjord.label>ფიორდი</Fjord.label>
+  <FrozenRuins.label>გაყინული ნანგრევები</FrozenRuins.label>
+  <Harbor.label>ნავსადგური</Harbor.label>
+  <Hollow.label>ღრუ</Hollow.label>
+  <HotSprings.label>ცხელი წყაროები</HotSprings.label>
+  <Iceberg.label>აისბერგი</Iceberg.label>
+  <IceDunes.label>ყინულის დიუნები</IceDunes.label>
+  <LavaFlow.label>ლავის ნაკადი</LavaFlow.label>
+  <Oasis.label>ოაზისი</Oasis.label>
+  <Peninsula.label>ნახევარკუნძული</Peninsula.label>
+  <Plateau.label>პლატო</Plateau.label>
+  <Ruins.label>ნანგრევები</Ruins.label>
+  <TerraformingScar.label>ტერაფორმირებადი ნაწიბური</TerraformingScar.label>
+  <ToxicLake.label>ტოქსიკური ტბა</ToxicLake.label>
+  <Valley.label>ხეობა</Valley.label>
+  <Wetland.label>ჭარბტენიანი</Wetland.label>
+</LanguageData>

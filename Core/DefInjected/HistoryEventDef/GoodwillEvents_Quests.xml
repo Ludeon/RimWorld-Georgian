@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AcceptedDeserter.label>მიღებული დეზერტირი</AcceptedDeserter.label>
+  <FailedToKeepLodgersHappy.label>ვერ გაახარა სტუმრები</FailedToKeepLodgersHappy.label>
+  <MemberMissedShuttle.label>წევრმა გამოტოვა შატლი</MemberMissedShuttle.label>
+  <MonumentConstructionExpired.label>ძეგლის მშენებლობას ვადა გაუვიდა</MonumentConstructionExpired.label>
+  <MonumentConstructionMapRemoved.label>ძეგლის მშენებლობა მიტოვებული</MonumentConstructionMapRemoved.label>
+  <MonumentDestroyed.label>დანგრეული ძეგლი</MonumentDestroyed.label>
+  <QuestGoodwillReward.label>ქვესტი დასრულდა</QuestGoodwillReward.label>
+  <QuestPawnArrested.label>წევრი დააკავეს</QuestPawnArrested.label>
+  <QuestPawnLost.label>წევრი დაკარგული კოლონიაში</QuestPawnLost.label>
+  <QuestPrisonerEnslaved.label>დამონებული ნასესხები პატიმარი</QuestPrisonerEnslaved.label>
+  <QuestPrisonerRecruited.label>აყვანილი ნასესხები პატიმარი</QuestPrisonerRecruited.label>
+  <ShuttleCommanderMissedShuttle.label>შატლის მეთაურმა შატლი გაუშვა</ShuttleCommanderMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>შატლის მცველებმა შატლი გამოტოვეს</ShuttleGuardsMissedShuttle.label>
+</LanguageData>

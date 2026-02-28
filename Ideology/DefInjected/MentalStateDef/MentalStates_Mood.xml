@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeoChange.baseInspectLine>ფსიქიკური მდგომარეობა: რწმენის კრიზისი</IdeoChange.baseInspectLine>
+  <IdeoChange.beginLetter>{PAWN_nameDef}-ს სული გაუტეხა. შედეგად, {PAWN_pronoun} იძულებული გახდა, ყველაფერი გამოეკითხა.</IdeoChange.beginLetter>
+  <IdeoChange.label>რწმენის კრიზისი</IdeoChange.label>
+  <Rebellion.baseInspectLine>ფსიქიკური მდგომარეობა: აჯანყება</Rebellion.baseInspectLine>
+  <Rebellion.beginLetter>{0} მიაღწია ფსიქოლოგიურ ზღვარს და აპირებს სხვა მონების აჯანყებას.</Rebellion.beginLetter>
+  <Rebellion.beginLetterLabel>მეამბოხე</Rebellion.beginLetterLabel>
+  <Rebellion.label>მეამბოხე</Rebellion.label>
+</LanguageData>

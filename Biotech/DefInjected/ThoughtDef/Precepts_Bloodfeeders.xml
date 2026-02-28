@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bloodfeeder_ReveredBloodfeeder.stages.0.description>დაე, თაყვანს მცემდნენ. მათით კვება მათ ჩემზე ქვემოთ აყენებს, როგორც ცხოველები ადამიანებზე დაბლა არიან.</Bloodfeeder_ReveredBloodfeeder.stages.0.description>
+  <Bloodfeeder_ReveredBloodfeeder.stages.0.label>პატივცემული სისხლის მიმწოდებელი</Bloodfeeder_ReveredBloodfeeder.stages.0.label>
+  <Bloodfeeder_ReviledBloodfeeder.stages.0.description>მე ის ვარ რაც მძულს. მე უნდა გავთავისუფლდე ამ წყევლისგან.</Bloodfeeder_ReviledBloodfeeder.stages.0.description>
+  <Bloodfeeder_ReviledBloodfeeder.stages.0.label>სისხლის მიმწოდებელი საკუთარი თავის სიძულვილი</Bloodfeeder_ReviledBloodfeeder.stages.0.label>
+  <BloodfeederColonist_Revered.stages.0.description>სისხლისმჭამელი ოსტატის გარეშე ჩვენ უმართავები და დაკარგული ვართ. ჩვენ უნდა გავხადოთ სისხლისმჭამელი ჩვენი ლიდერი.</BloodfeederColonist_Revered.stages.0.description>
+  <BloodfeederColonist_Revered.stages.0.label>სისხლის მიმწოდებლების გარეშე</BloodfeederColonist_Revered.stages.0.label>
+  <BloodfeederColonist_Revered.stages.1.description>სისხლის მიმწოდებლის გარეშე, ჩვენ გვაკლია სათანადო მიმართულება. ჩვენ უნდა გავხადოთ სისხლისმჭამელი ჩვენი ლიდერი.</BloodfeederColonist_Revered.stages.1.description>
+  <BloodfeederColonist_Revered.stages.1.label>არ არის სისხლის მიმწოდებელი ოსტატი</BloodfeederColonist_Revered.stages.1.label>
+  <BloodfeederColonist_Revered.stages.2.description>სისხლმჭამელის ყოფნა დიდი პატივია. იცოცხლონ სამუდამოდ.</BloodfeederColonist_Revered.stages.2.description>
+  <BloodfeederColonist_Revered.stages.2.label>სისხლისმჭამელი ოსტატი</BloodfeederColonist_Revered.stages.2.label>
+  <BloodfeederColonist_Reviled.stages.0.description>ერთ-ერთი მათგანი ჩვენ შორის დადის. ჩვენ უნდა განვდევნოთ სისხლის მიმწოდებელი სახლიდან.</BloodfeederColonist_Reviled.stages.0.description>
+  <BloodfeederColonist_Reviled.stages.0.label>სისხლმჭამელი ჩვენს შორის</BloodfeederColonist_Reviled.stages.0.label>
+  <BloodfeederDied_Revered.stages.0.description>ჩვენზე მაღლა დგანან სისხლის მიმწოდებლები, მაგრამ აქ ერთი მოკვდა. ამის გამო აუცილებლად დავისჯებით.</BloodfeederDied_Revered.stages.0.description>
+  <BloodfeederDied_Revered.stages.0.label>სისხლიანი მოკვდა</BloodfeederDied_Revered.stages.0.label>
+  <BloodfeederDied_Reviled.stages.0.description>ერთადერთი კარგი სისხლი მკვდარია.</BloodfeederDied_Reviled.stages.0.description>
+  <BloodfeederDied_Reviled.stages.0.label>სისხლიანი მოკვდა</BloodfeederDied_Reviled.stages.0.label>
+  <Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.0.label>სისხლის მიმწოდებელი</Bloodfeeders_Revered_Opinion_Bloodfeeder.stages.0.label>
+  <Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.0.label>სისხლის მიმწოდებელი</Bloodfeeders_Reviled_Opinion_Bloodfeeder.stages.0.label>
+</LanguageData>

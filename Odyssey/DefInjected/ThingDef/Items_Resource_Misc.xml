@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gravcore.description>ულტრატექნიკური მოწყობილობა, რომელიც წარმოქმნის არასტრუქტურირებული გრავიტონის ველს. ის თავისთავად გამოუსადეგარია, მაგრამ მისი გამოყენება შესაძლებელია გრავტექს შენობების ასაგებად.</Gravcore.description>
+  <Gravcore.label>გრავკორი</Gravcore.label>
+  <GravlitePanel.description>A sheet of advanced polymer used in the construction of gravships. It's lightweight and has a high graviton conductance, making it ideal for gravtech structures.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.</GravlitePanel.description>
+  <GravlitePanel.label>გრავიტის პანელი</GravlitePanel.label>
+  <ShuttleEngine.description>ძრავა, რომელსაც შეუძლია პატარა შატლის ენერგია. შატლის ძრავების დამზადება შესაძლებელია მხოლოდ დიდ სპეციალიზებულ ქარხნებში, რაც მათ იშვიათს ხდის რგოლზე.</ShuttleEngine.description>
+  <ShuttleEngine.label>შატლის ძრავა</ShuttleEngine.label>
+</LanguageData>

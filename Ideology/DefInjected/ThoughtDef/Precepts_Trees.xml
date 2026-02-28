@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GauranlenConnectionDesired.stages.0.description>ბედნიერად ვარ დაკავშირებული გაურანლენის ხესთან.</GauranlenConnectionDesired.stages.0.description>
+  <GauranlenConnectionDesired.stages.0.label>გაურანლენის კავშირი</GauranlenConnectionDesired.stages.0.label>
+  <GauranlenConnectionDesired.stages.1.description>გაურანლენის ხესთან კავშირის გარეშე, ბუნებისგან მოწყვეტილი ვგრძნობ თავს.</GauranlenConnectionDesired.stages.1.description>
+  <GauranlenConnectionDesired.stages.1.label>მინდა Gauranlen კავშირი</GauranlenConnectionDesired.stages.1.label>
+  <GauranlenConnectionDesired.stages.2.description>გაურანლენის ხესთან კავშირის გარეშე, ბუნებისგან მოწყვეტილი ვგრძნობ თავს.</GauranlenConnectionDesired.stages.2.description>
+  <GauranlenConnectionDesired.stages.2.label>მინდა Gauranlen კავშირი</GauranlenConnectionDesired.stages.2.label>
+  <GauranlenConnectionDesired.stages.3.description>გაურანლენის ხესთან კავშირის გარეშე, ბუნებისგან მოწყვეტილი ვგრძნობ თავს.</GauranlenConnectionDesired.stages.3.description>
+  <GauranlenConnectionDesired.stages.3.label>მინდა Gauranlen კავშირი</GauranlenConnectionDesired.stages.3.label>
+  <GauranlenConnectionDesired.stages.4.description>გაურანლენის ხესთან კავშირის გარეშე, ბუნებისგან მოწყვეტილი ვგრძნობ თავს.</GauranlenConnectionDesired.stages.4.description>
+  <GauranlenConnectionDesired.stages.4.label>მინდა Gauranlen კავშირი</GauranlenConnectionDesired.stages.4.label>
+  <GauranlenConnectionDesired.stages.5.description>გაურანლენის ხესთან კავშირის გარეშე, ბუნებისგან მოწყვეტილი ვგრძნობ თავს.</GauranlenConnectionDesired.stages.5.description>
+  <GauranlenConnectionDesired.stages.5.label>მინდა Gauranlen კავშირი</GauranlenConnectionDesired.stages.5.label>
+  <TreeDensityReduced.stages.0.description>წარსულში კვადრუმში ბევრი ხე საერთოდ არ დაგვინგრია. ხეებთან ჰარმონია კარგი ცხოვრების ძირითადი საფუძველია.</TreeDensityReduced.stages.0.description>
+  <TreeDensityReduced.stages.0.label>ჯანსაღი ხეები</TreeDensityReduced.stages.0.label>
+  <TreeDensityReduced.stages.1.description>წარსულ კვადრატში ჩვენ გავანადგურეთ ხეები, რომლებიც არ უნდა გვქონოდა. შეიძლება საჭიროც იყო, მაგრამ მაინც მწუხარების მიზეზია.</TreeDensityReduced.stages.1.description>
+  <TreeDensityReduced.stages.1.label>შეწუხებული ხეები</TreeDensityReduced.stages.1.label>
+  <TreeDensityReduced.stages.2.description>წარსულ კვადრუმში ბევრი ხე გავანადგურეთ, რაც არ უნდა გვქონოდა. არა მგონია ეს აუცილებელი იყო.</TreeDensityReduced.stages.2.description>
+  <TreeDensityReduced.stages.2.label>დაზიანებული ხეები</TreeDensityReduced.stages.2.label>
+  <TreeDensityReduced.stages.3.description>წარსულში კვადრუმში ბევრი ხე გავანადგურეთ, რაც არ უნდა გვქონოდა. ეს დანაშაული საჭირო არ იყო, მაგრამ მაინც გავაკეთეთ.</TreeDensityReduced.stages.3.description>
+  <TreeDensityReduced.stages.3.label>დაზიანებულია ხეები</TreeDensityReduced.stages.3.label>
+  <TreeDensityReduced.stages.4.description>წარსულ კვადრუმში ჩვენ გავანადგურეთ ხეების დაუსაბუთებელი რაოდენობა. ჩვენ უნდა გავაკეთოთ ბევრად უკეთესი.</TreeDensityReduced.stages.4.description>
+  <TreeDensityReduced.stages.4.label>დაზიანდა ხეები</TreeDensityReduced.stages.4.label>
+  <TreeDensityReduced.stages.5.description>წარსულ კვადრუმში ჩვენ გავანადგურეთ დაუსაბუთებლად დიდი რაოდენობით ხეები. დანაშაულის გრძნობა მძიმეა ჩვენზე.</TreeDensityReduced.stages.5.description>
+  <TreeDensityReduced.stages.5.label>შებილწული ხეები</TreeDensityReduced.stages.5.label>
+  <TreeDensityReduced.stages.6.description>წარსულ კვადრუმში ძალიან დიდი რაოდენობით ხეები გავანადგურეთ. ფოთლოვანი ყვირილი ახლაც მესმის.</TreeDensityReduced.stages.6.description>
+  <TreeDensityReduced.stages.6.label>დანგრეული ხეები</TreeDensityReduced.stages.6.label>
+  <TreeDensityReduced.stages.7.description>წარსულ კვადრუმში, ჩვენ გავანადგურეთ საშინელი რაოდენობის ხეები. ჩვენ ვართ ამ სამყაროს დაზიანებები.</TreeDensityReduced.stages.7.description>
+  <TreeDensityReduced.stages.7.label>დანგრეული ხეები</TreeDensityReduced.stages.7.label>
+  <TreesDesired.stages.0.description>მე გარშემორტყმული ვარ რამდენიმე მასიური, ლამაზი ხეებით. ბუნების დიდება მაოცებს!</TreesDesired.stages.0.description>
+  <TreesDesired.stages.0.label>საოცარი ხეები</TreesDesired.stages.0.label>
+  <TreesDesired.stages.1.description>სულ ახლახანს შევხვდი მასიურ, ლამაზ ხეს - მორალის ფიზიკურ ადგილს!</TreesDesired.stages.1.description>
+  <TreesDesired.stages.1.label>საოცარი ხე</TreesDesired.stages.1.label>
+  <TreesDesired.stages.10.description>დიდი ხანია არცერთ ხეზე არ ვყოფილვარ.</TreesDesired.stages.10.description>
+  <TreesDesired.stages.10.label>არა ხე</TreesDesired.stages.10.label>
+  <TreesDesired.stages.11.description>მენატრება ხეები ჩემს ირგვლივ.</TreesDesired.stages.11.description>
+  <TreesDesired.stages.11.label>არა ხე</TreesDesired.stages.11.label>
+  <TreesDesired.stages.12.description>უკვე დიდი ხანია, რაც ხესთან ვარ.</TreesDesired.stages.12.description>
+  <TreesDesired.stages.12.label>ხეები გამოტოვა</TreesDesired.stages.12.label>
+  <TreesDesired.stages.13.description>უკვე დიდი ხანია, რაც ხესთან ახლოს ვარ.</TreesDesired.stages.13.description>
+  <TreesDesired.stages.13.label>ხეები გამოტოვა</TreesDesired.stages.13.label>
+  <TreesDesired.stages.14.description>უკვე დიდი ხანია, რაც ხესთან ახლოს ვარ!</TreesDesired.stages.14.description>
+  <TreesDesired.stages.14.label>ხეები ძალიან ენატრებოდა</TreesDesired.stages.14.label>
+  <TreesDesired.stages.2.description>მე აყვავებულ ტყეს აკრავს.</TreesDesired.stages.2.description>
+  <TreesDesired.stages.2.label>ღირსშესანიშნავი ხეები</TreesDesired.stages.2.label>
+  <TreesDesired.stages.3.description>ახლახან შევხვდი მასიურ, ლამაზ ხეს.</TreesDesired.stages.3.description>
+  <TreesDesired.stages.3.label>საოცარი ხე</TreesDesired.stages.3.label>
+  <TreesDesired.stages.4.description>ცოტა ხნის წინ აყვავებულ ტყით ვიყავი გარშემორტყმული.</TreesDesired.stages.4.description>
+  <TreesDesired.stages.4.label>მდიდარი ტყე</TreesDesired.stages.4.label>
+  <TreesDesired.stages.5.description>ცოტა ხნის წინ ბევრ სავსე ხეებს შორის ვიარე.</TreesDesired.stages.5.description>
+  <TreesDesired.stages.5.label>სავსე ხეები</TreesDesired.stages.5.label>
+  <TreesDesired.stages.6.description>ცოტა ხნის წინ დავდიოდი მრავალფეროვან ხეებს შორის.</TreesDesired.stages.6.description>
+  <TreesDesired.stages.6.label>შერეული ხეები</TreesDesired.stages.6.label>
+  <TreesDesired.stages.7.description>ახლახან შევხვდი სავსე ხეს.</TreesDesired.stages.7.description>
+  <TreesDesired.stages.7.label>სავსე ხე</TreesDesired.stages.7.label>
+  <TreesDesired.stages.8.description>მე ცოტა ხნის წინ გარშემორტყმული ვიყავი მინიატურული ხეებით.</TreesDesired.stages.8.description>
+  <TreesDesired.stages.8.label>მინი ხეები</TreesDesired.stages.8.label>
+  <TreesDesired.stages.9.description>ცოტა ხნის წინ მივიღე სიამოვნება მინიატურული ხის კომპანიაში.</TreesDesired.stages.9.description>
+  <TreesDesired.stages.9.label>მინი ხე</TreesDesired.stages.9.label>
+</LanguageData>

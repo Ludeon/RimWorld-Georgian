@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ExtremelyLow.label>უკიდურესად დაბალი</ExtremelyLow.label>
+  <High.label>მაღალი</High.label>
+  <Low.label>დაბალი</Low.label>
+  <Moderate.label>ზომიერი</Moderate.label>
+  <Noble.label>კეთილშობილი</Noble.label>
+  <Royal.label>სამეფო</Royal.label>
+  <SkyHigh.label>ცის მაღალი</SkyHigh.label>
+  <VeryLow.label>ძალიან დაბალი</VeryLow.label>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InfantIllness.description>Effects of various birth complications. If the baby can survive for 10 days, they will be strong enough to recover on their own.\n\nThe illness will wax and wane in strength over time, requiring different levels of tending and medicine to recover.</InfantIllness.description>
+  <InfantIllness.label>ჩვილის დაავადება</InfantIllness.label>
+  <InfantIllness.stages.0.label>მცირეწლოვანი</InfantIllness.stages.0.label>
+  <InfantIllness.stages.1.label>მაიორი</InfantIllness.stages.1.label>
+  <InfantIllness.stages.2.label>უკიდურესი</InfantIllness.stages.2.label>
+  <InfantIllness.stages.3.label>უკიდურესი</InfantIllness.stages.3.label>
+  <Lactating.description>The condition of being able to breastfeed a baby. The breasts are actively producing and storing milk. The lactating state begins when a mother gives birth, and continues indefinitely as long as she breastfeeds a baby at least once every 10 days.\n\nPeople who are lactating will have a harder time becoming pregnant.</Lactating.description>
+  <Lactating.label>მეძუძური</Lactating.label>
+  <MorningSickness.description>ეს ორსულობის ხშირი გვერდითი მოვლენაა და მიუხედავად სახელისა, არ შემოიფარგლება მხოლოდ დილაობით. სანამ ეს გრძელდება, ადამიანს აწუხებს გულისრევა, თავბრუსხვევა და ბუნდოვანი აზროვნება.</MorningSickness.description>
+  <MorningSickness.label>დილის ავადმყოფობა</MorningSickness.label>
+  <OvumExtracted.description>ამ ქალმა ცოტა ხნის წინ გაიარა კვერცხუჯრედის ამოღების პროცედურა. მეტი კვერცხუჯრედის ამოღება არ შეიძლება, სანამ გარკვეული დრო არ გავა.</OvumExtracted.description>
+  <OvumExtracted.label>ამოღებულია კვერცხუჯრედი</OvumExtracted.label>
+  <PollutionStimulus.description>This creature has been energized by exposure to pollution.\n\nThe pollution-stimulus response was originally engineered to help giant insects in their role as anti-mechanoid bioweapons. However, the gene has since been used to help people function in polluted areas as well.</PollutionStimulus.description>
+  <PollutionStimulus.label>დაბინძურების სტიმული</PollutionStimulus.label>
+  <PollutionStimulus.stages.0.label>მცირეწლოვანი</PollutionStimulus.stages.0.label>
+  <PollutionStimulus.stages.1.label>ზომიერი</PollutionStimulus.stages.1.label>
+  <PollutionStimulus.stages.2.label>მაქსიმუმ</PollutionStimulus.stages.2.label>
+  <PostpartumExhaustion.description>მშობიარობის ზოგადი შემდგომი ეფექტები. ამ დედას გარკვეული დრო სჭირდება ფიზიკურად გამოჯანმრთელებისთვის.</PostpartumExhaustion.description>
+  <PostpartumExhaustion.label>მშობიარობის შემდგომი დაღლილობა</PostpartumExhaustion.label>
+  <PregnancyLabor.description>მშობიარობის პირობა. მშობიარობა გადის რამდენიმე ეტაპს სხვადასხვა დონის ტკივილითა და შეკუმშვით. ყოველი მშობიარობა განსხვავებულია და ტკივილი შეიძლება დროთა განმავლობაში არაპროგნოზირებად მოიმატოს და დაიკლოს. მშობიარობა მთავრდება, როდესაც ბავშვი დაიბადება.</PregnancyLabor.description>
+  <PregnancyLabor.label>მშობიარობა (დილაცია)</PregnancyLabor.label>
+  <PregnancyLabor.stages.0.label>რბილი</PregnancyLabor.stages.0.label>
+  <PregnancyLabor.stages.1.label>ინტენსიური</PregnancyLabor.stages.1.label>
+  <PregnancyLabor.stages.2.label>დამამცირებელი</PregnancyLabor.stages.2.label>
+  <PregnancyLaborPushing.description>ბავშვი ეშვება სამშობიარო არხზე და დედას უბიძგებს ძლიერი სურვილი. დაბადება გარდაუვალია.</PregnancyLaborPushing.description>
+  <PregnancyLaborPushing.label>შრომა (ბიძგი)</PregnancyLaborPushing.label>
+  <PregnancyMood.description>ორსულობის ეს საერთო გვერდითი მოვლენა წარმოადგენს განწყობის ამაღლებას და დაცემას, რომელიც გამოწვეულია დაუბალანსებელი ჰორმონებით.</PregnancyMood.description>
+  <PregnancyMood.label>ორსულობის განწყობა</PregnancyMood.label>
+  <PregnantHuman.description>ბავშვი იზრდება ქალის შიგნით და ემზადება დაბადებისთვის. ადამიანებში ორსულობა გრძელდება 18 დღე და იყოფა 3 ტრიმესტრად. როგორც ორსულობა იზრდება, ეს შეამცირებს დედის მობილურობას. ზოგიერთი დედისთვის ორსულობამ შეიძლება გამოიწვიოს გულისრევა ან განწყობის ცვალებადობა, რომელთა მოგვარებაც რთულია.</PregnantHuman.description>
+  <PregnantHuman.label>ორსული</PregnantHuman.label>
+  <PregnantHuman.labelNoun>ორსულობა</PregnantHuman.labelNoun>
+  <PregnantHuman.stages.0.label>პირველი ტრიმესტრი</PregnantHuman.stages.0.label>
+  <PregnantHuman.stages.1.label>მეორე ტრიმესტრი</PregnantHuman.stages.1.label>
+  <PregnantHuman.stages.2.label>მესამე ტრიმესტრი</PregnantHuman.stages.2.label>
+  <Stillborn.description>ეს ბავშვი ორსულობის დროს არასპეციფიკური გართულებების გამო გარდაიცვალა.</Stillborn.description>
+  <Stillborn.label>მკვდარი დაბადებული</Stillborn.label>
+</LanguageData>

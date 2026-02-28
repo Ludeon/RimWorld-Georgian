@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chemfuel.description>აქროლადი თხევადი ქიმიური ნივთიერება. გამოიყენება ძრავებისა და რაკეტების საწვავად, ან ჭურვების საწვავად გადასატანად, ან ცეცხლგამჩენ იარაღად.</Chemfuel.description>
+  <Chemfuel.label>ქიმიური საწვავი</Chemfuel.label>
+  <ComponentIndustrial.description>სხვადასხვა გადაცემათა კოლოფი, კონდენსატორები, მიკროსქემის დაფები, მილები, ბორბლები, სენსორები, მავთულები, ჩიპები, პროცესორები და სხვა ელექტრონული და სამრეწველო ნაწილები. აუცილებელია რთული მანქანების ან ელექტრონიკის ასაწყობად.</ComponentIndustrial.description>
+  <ComponentIndustrial.label>კომპონენტი</ComponentIndustrial.label>
+  <ComponentSpacer.description>მოწინავე გამოთვლითი და ენერგიის მიმართული მანქანები, მინიატურული და გამაგრებული ყველაზე მოთხოვნადი აპლიკაციებისთვის.</ComponentSpacer.description>
+  <ComponentSpacer.label>მოწინავე კომპონენტი</ComponentSpacer.label>
+  <MedicineHerbal.description>სამკურნალო მცენარეებიდან მოპოვებული მცენარეული კულტურების შეკვრა. ის ნაკლებად ძლიერია, ვიდრე სამრეწველო ფარმაცევტული საშუალებები, მაგრამ ბევრად უკეთესია, ვიდრე არაფერი.</MedicineHerbal.description>
+  <MedicineHerbal.label>მცენარეული წამალი</MedicineHerbal.label>
+  <MedicineIndustrial.description>ინდუსტრიული ეპოქის სამედიცინო აღჭურვილობის ნაკრები. იგი შეიცავს ძირითად წამლებს, ნაკერების და ძვლის დასამაგრებელ საშუალებებს, სადიაგნოსტიკო ხელსაწყოებს და სხვადასხვა ბალიშებსა და სითხეებს.</MedicineIndustrial.description>
+  <MedicineIndustrial.label>წამალი</MedicineIndustrial.label>
+  <MedicineUltratech.description>მოწინავე ულტრატექნოლოგიური სამედიცინო საშუალებების ნაკრები, რომელიც სავარაუდოდ დამზადებულია შორეულ ბრჭყვიალა სამყაროში. იგი შეიცავს მოწინავე პოლიმორფულ პრეპარატებს, ნანიტის სადიაგნოსტიკო და სამკურნალო დამხმარეებს, მინი გამოსახულებას და მრავალჯერადი გამოყენების ხელსაწყოებს.</MedicineUltratech.description>
+  <MedicineUltratech.label>ბრჭყვიალა სამყაროს მედიცინა</MedicineUltratech.label>
+  <Neutroamine.description>სინთეზური წინამორბედი ქიმიკატი. მიუხედავად იმისა, რომ ის თავისთავად უსარგებლოა, ბევრი პრეპარატი საჭიროებს ნეიტროამინს, როგორც ინგრედიენტს.</Neutroamine.description>
+  <Neutroamine.label>ნეიტროამინი</Neutroamine.label>
+  <ReinforcedBarrel.description>დიდი ლულა ჭურვიზე დაფუძნებული იარაღისთვის, როგორიცაა ნაღმტყორცნები. გაშვების მაღალი წნევის შესანარჩუნებლად, ის სპეციალურად არის გამაგრებული და არ შეიძლება დამზადდეს მცირე მასშტაბით.</ReinforcedBarrel.description>
+  <ReinforcedBarrel.label>გამაგრებული ლულა</ReinforcedBarrel.label>
+</LanguageData>

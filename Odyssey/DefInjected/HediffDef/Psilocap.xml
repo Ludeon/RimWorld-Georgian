@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsilocapHigh.description>ქიმიკატები ფსილოკაპის სპორებიდან, რომლებიც შესაძლოა ჰაერიდან არის ჩასუნთქული, იწვევს ამ ადამიანს დახვეწილი ჰალუცინაციების განცდას, რაც ამახინჯებს მის აღქმას რეალობის შესახებ.</PsilocapHigh.description>
+  <PsilocapHigh.label>ფსილოკაპის ჰალუცინაციები</PsilocapHigh.label>
+  <PsilocapHigh.stages.0.label>მცირეწლოვანი</PsilocapHigh.stages.0.label>
+  <PsilocapHigh.stages.1.label>ზომიერი</PsilocapHigh.stages.1.label>
+  <PsilocapHigh.stages.2.label>უკიდურესი</PsilocapHigh.stages.2.label>
+  <PsilocapTolerance.description>შეძენილი ტოლერანტობა ფსილოკაპის მიმართ. რაც უფრო მკაცრია ეს ტოლერანტობა, მით მეტი ფსილოკაპი სჭირდება იგივე ეფექტის მისაღებად.</PsilocapTolerance.description>
+  <PsilocapTolerance.label>ფსილოკაპის ტოლერანტობა</PsilocapTolerance.label>
+</LanguageData>

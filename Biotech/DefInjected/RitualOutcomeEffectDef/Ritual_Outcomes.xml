@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChildBirth.description>ყველა ხარისხის ფაქტორი განსაზღვრავს რამდენად ჯანმრთელები იქნებიან დედა და ბავშვი.</ChildBirth.description>
+  <ChildBirth.extraOutcomeDescriptions.0.description>გარდა ამისა, დედას ექნება {0_percentage} შანსი, რომ მოკვდეს დაბადებისას.</ChildBirth.extraOutcomeDescriptions.0.description>
+  <ChildBirth.outcomeChances.0.description>{MOTHER_labelShort}-ს ბავშვი მკვდარი დაიბადა.</ChildBirth.outcomeChances.0.description>
+  <ChildBirth.outcomeChances.0.label>მაინც</ChildBirth.outcomeChances.0.label>
+  <ChildBirth.outcomeChances.1.description>{MOTHER_labelShort}-მა გააჩინა ბავშვი. სამწუხაროდ, ბავშვი ავად არის.</ChildBirth.outcomeChances.1.description>
+  <ChildBirth.outcomeChances.1.label>ავადმყოფი</ChildBirth.outcomeChances.1.label>
+  <ChildBirth.outcomeChances.2.description>{MOTHER_labelShort}-მა გააჩინა ჯანმრთელი ბავშვი!</ChildBirth.outcomeChances.2.description>
+  <ChildBirth.outcomeChances.2.label>ჯანსაღი</ChildBirth.outcomeChances.2.label>
+</LanguageData>

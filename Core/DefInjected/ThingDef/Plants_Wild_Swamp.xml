@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Plant_Chokevine.description>ჩახლართული ძაფების მაგვარი ვაზის მასები, რომლებიც დიდი მასებით ტრიალებენ მიწის გასწვრივ. Chokevine მნიშვნელოვნად ანელებს ნებისმიერს, ვინც მასზე მოძრაობს. მრავალმა ტომმა დამოუკიდებლად შექმნა ისტორიები იმის შესახებ, თუ როგორ ახრჩობდნენ ბავშვებს ღამით და ახრჩობდნენ ბავშვებს, რათა შეაშინონ ბავშვები სახლში დაბნელებამდე.</Plant_Chokevine.description>
+  <Plant_Chokevine.label>ჩოკეინი</Plant_Chokevine.label>
+  <Plant_TreeCypress.description>მაღალი წიწვოვანი ხე ხშირად გვხვდება ჭაობებში. მიუხედავად მისი ნელი ზრდისა, ამ ხეების დარგვა შეიძლება იყოს მომგებიანი, როგორც დაბალი ძალისხმევის, გრძელვადიანი ინვესტიცია, რადგან ისინი აძლევენ ბევრ გამოსაყენებელ ხეს.</Plant_TreeCypress.description>
+  <Plant_TreeCypress.label>კვიპაროსის ხე</Plant_TreeCypress.label>
+  <Plant_TreeMaple.description>ჩვეულებრივი საშუალო ზომის ხე, ადვილად ამოსაცნობი მისი მკაფიო სამქიმიანი ფოთლით.</Plant_TreeMaple.description>
+  <Plant_TreeMaple.label>ნეკერჩხლის ხე</Plant_TreeMaple.label>
+  <Plant_TreeWillow.description>ერთ-ერთი ყველაზე სწრაფად მზარდი ჩრდილის ხე, ტირიფი უზრუნველყოფს ლამაზ, ფოთლოვან ტილოებს. ის არ იძლევა ბევრ გამოსაყენებელ ხეს.</Plant_TreeWillow.description>
+  <Plant_TreeWillow.label>ტირიფის ხე</Plant_TreeWillow.label>
+</LanguageData>

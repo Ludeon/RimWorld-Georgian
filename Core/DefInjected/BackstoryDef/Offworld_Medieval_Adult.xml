@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Blacksmith72.description>როგორც შუასაუკუნეების სამყაროს მჭედელმა, [PAWN_nameDef]-მა მოიპოვა რეპუტაცია [PAWN_possessive] სამუშაოს მაღალი ხარისხის გამო. [PAWN_pronoun] ასევე არ იყო ცუდი ხმლების გამოყენებაში [PAWN_pronoun] გაყალბებული.</Blacksmith72.description>
+  <Blacksmith72.title>მჭედელი</Blacksmith72.title>
+  <Blacksmith72.titleShort>მჭედელი</Blacksmith72.titleShort>
+  <Herbalist54.description>[PAWN_nameDef] ცხოვრობდა სოფლის მახლობლად ტყეში. მიუხედავად იმისა, რომ ბევრს სოფლის მაცხოვრებელს ეშინოდა [PAWN_objective], ავადმყოფი სოფლის მოსახლეობა მოდიოდა [PAWN_objective]-ში, რათა ეყიდათ სალათები და ნაწნავები [PAWN_pronoun], რომლებიც გაიზარდა [PAWN_possessive] ბაღში. [PAWN_pronoun] სიამოვნებით დაეხმარა მათ — ფასის ფასად.</Herbalist54.description>
+  <Herbalist54.title>ჰერბალისტი</Herbalist54.title>
+  <Herbalist54.titleShort>ჰერბალისტი</Herbalist54.titleShort>
+  <MedievalDoctor40.description>[PAWN_nameDef] შუასაუკუნეობრივ პლანეტაზე ექიმად მუშაობდა. [PAWN_pronoun] მტკიცედ სჯეროდა, რომ თითქმის ყველა ავადმყოფობა ცოტაოდენი სისხლის გამოშვებით იკურნებოდა.\n\n[PAWN_pronoun] ასევე შესანიშნავი ანესთეზიოლოგი იყო და განსაკუთრებული მეთოდი ჰქონდა, რომელიც თავში ძლიერ დარტყმას მოიცავდა.</MedievalDoctor40.description>
+  <MedievalDoctor40.title>შუა საუკუნეების ექიმი</MedievalDoctor40.title>
+  <MedievalDoctor40.titleShort>ყაჩაღი</MedievalDoctor40.titleShort>
+  <MedievalFarmOaf58.description>ხვნა, თოხნა, ხარების ურემის გაძღოლა, ხელურიკის წაწევა. თხრილების გაჭრა, თესლის დათესვა, მოსავლის გამოცნობა.\n\nშუასაუკუნეობრივი ფერმერები ჩვეულებრივი გაგებით განათლებულები არ არიან, მაგრამ ტექნოლოგიის გარეშე მცენარეების მოყვანა კარგად იციან. ასეთმა ცხოვრებამ კი შეიძლება ტექნოლოგიურ საქმიანობაში სრულიად გამოუყენებელი გაგხადოს.</MedievalFarmOaf58.description>
+  <MedievalFarmOaf58.title>შუა საუკუნეების ფერმა ოფი</MedievalFarmOaf58.title>
+  <MedievalFarmOaf58.titleShort>ოაფ</MedievalFarmOaf58.titleShort>
+  <MedievalLord57.description>[PAWN_nameDef] წინაინდუსტრიულ პლანეტაზე ლორდი იყო. [PAWN_pronoun] ესწრებოდა ნადიმებს, მართავდა ქვეშევრდომებს და ცოტაოდენ ხმალაობასაც სწავლობდა.\n\nიმ წლებში [PAWN_possessive] რბილ ხელებს ერთხელაც არ დაუჭერია სამუშაო იარაღი. ახლა [PAWN_pronoun] ხელსაქმეს საკუთარ ღირსებაზე დაბლად მიიჩნევს.</MedievalLord57.description>
+  <MedievalLord57.title>შუა საუკუნეების მბრძანებელი</MedievalLord57.title>
+  <MedievalLord57.titleShort>კეთილშობილი</MedievalLord57.titleShort>
+  <MedievalMinstrel95.description>[PAWN_nameDef] შუასაუკუნეების სამყაროში მოხეტიალე არტისტი იყო და [PAWN_pronoun] თითქმის ყოველთვის ამბების მოყოლაში ან სიმღერაში ნახავდით.\n\nგზები სახიფათო იყო, ამიტომ [PAWN_pronoun] საკუთარი თავის დაცვაც შეუძლია. თუმცა როგორც კი მძიმე შრომის დრო დგებოდა, [PAWN_pronoun] ყოველთვის გზას აგრძელებდა.</MedievalMinstrel95.description>
+  <MedievalMinstrel95.title>შუა საუკუნეების მეწამული</MedievalMinstrel95.title>
+  <MedievalMinstrel95.titleShort>მენისტრელი</MedievalMinstrel95.titleShort>
+  <MedievalSailor97.description>[PAWN_nameDef] იკვლევდა ოკეანეებს ხის გემზე, ეძებდა მცენარეთა და ცხოველთა ნიმუშებს ეგზოტიკური ადგილებიდან და ზოგჯერ ებრძოდა მეკობრეებს. [PAWN_pronoun] ძალიან უყვარდა ზღვა [PAWN_pronoun] უარი თქვა ყველა სამუშაოს შესრულებაზე, გარდა მინიმალური სამუშაოს ხმელეთზე, გარდა იმისა, რომ გაეყიდა [PAWN_pronoun] შეგროვებული საგანძური.</MedievalSailor97.description>
+  <MedievalSailor97.title>შუა საუკუნეების მეზღვაური</MedievalSailor97.title>
+  <MedievalSailor97.titleShort>მეზღვაური</MedievalSailor97.titleShort>
+  <MessageCarrier77.description>შუასაუკუნეების სამყაროში შეტყობინების გაგზავნის ყველაზე სწრაფი გზა არის ცხენზე ამხედრებულის მიცემა და იმედი, რომ გადარჩება მოგზაურობაში. [PAWN_nameDef] ის ვიღაც იყო.</MessageCarrier77.description>
+  <MessageCarrier77.title>შეტყობინების გადამზიდავი</MessageCarrier77.title>
+  <MessageCarrier77.titleShort>მესინჯერი</MessageCarrier77.titleShort>
+  <Taster16.description>როგორც შუა საუკუნეების მეფის საჭმლის დეგუსტატორი, [PAWN_nameDef] ამოწმებდა სამეფო მაგიდასთან მიტანილ ნებისმიერ კერძს. [PAWN_pronoun] სასამართლოში დეკადენტური ცხოვრების წესით ცხოვრობდა, მსუქდებოდა და ძალიან ცოტა რეალურ საქმეს აკეთებდა.</Taster16.description>
+  <Taster16.title>დეგუსტატორი</Taster16.title>
+  <Taster16.titleShort>დეგუსტატორი</Taster16.titleShort>
+</LanguageData>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Devourer.corePart.parts.10.customLabel>მარჯვენა ფარფლი</Devourer.corePart.parts.10.customLabel>
+  <Devourer.corePart.parts.3.customLabel>მარცხენა ფილტვი</Devourer.corePart.parts.3.customLabel>
+  <Devourer.corePart.parts.4.customLabel>მარჯვენა ფილტვი</Devourer.corePart.parts.4.customLabel>
+  <Devourer.corePart.parts.5.customLabel>მარცხენა თირკმელი</Devourer.corePart.parts.5.customLabel>
+  <Devourer.corePart.parts.6.customLabel>მარჯვენა თირკმელი</Devourer.corePart.parts.6.customLabel>
+  <Devourer.corePart.parts.8.parts.0.parts.1.customLabel>მარცხენა თვალი</Devourer.corePart.parts.8.parts.0.parts.1.customLabel>
+  <Devourer.corePart.parts.8.parts.0.parts.2.customLabel>მარჯვენა თვალი</Devourer.corePart.parts.8.parts.0.parts.2.customLabel>
+  <Devourer.corePart.parts.8.parts.0.parts.3.customLabel>მარცხენა ყური</Devourer.corePart.parts.8.parts.0.parts.3.customLabel>
+  <Devourer.corePart.parts.8.parts.0.parts.4.customLabel>მარჯვენა ყური</Devourer.corePart.parts.8.parts.0.parts.4.customLabel>
+  <Devourer.corePart.parts.9.customLabel>მარცხენა ფარფლი</Devourer.corePart.parts.9.customLabel>
+  <Devourer.label>მჭამელი</Devourer.label>
+  <FleshmassNucleus.label>ხორცის მასის ბირთვი</FleshmassNucleus.label>
+  <Gorehulk.corePart.parts.0.customLabel>გულმკერდის ხერხემლის მტევანი</Gorehulk.corePart.parts.0.customLabel>
+  <Gorehulk.corePart.parts.10.customLabel>მარჯვენა თირკმელი</Gorehulk.corePart.parts.10.customLabel>
+  <Gorehulk.corePart.parts.12.parts.0.parts.1.customLabel>მარცხენა თვალი</Gorehulk.corePart.parts.12.parts.0.parts.1.customLabel>
+  <Gorehulk.corePart.parts.12.parts.0.parts.2.customLabel>მარჯვენა თვალი</Gorehulk.corePart.parts.12.parts.0.parts.2.customLabel>
+  <Gorehulk.corePart.parts.13.customLabel>მარცხენა მხრის</Gorehulk.corePart.parts.13.customLabel>
+  <Gorehulk.corePart.parts.13.parts.0.customLabel>მარცხენა კლავიკულა</Gorehulk.corePart.parts.13.parts.0.customLabel>
+  <Gorehulk.corePart.parts.13.parts.1.customLabel>მარცხენა ხორცი კლუბი</Gorehulk.corePart.parts.13.parts.1.customLabel>
+  <Gorehulk.corePart.parts.13.parts.2.customLabel>მარცხენა ხერხემლის მტევანი</Gorehulk.corePart.parts.13.parts.2.customLabel>
+  <Gorehulk.corePart.parts.14.customLabel>მარჯვენა მხრის</Gorehulk.corePart.parts.14.customLabel>
+  <Gorehulk.corePart.parts.14.parts.0.customLabel>მარჯვენა კლავიკულა</Gorehulk.corePart.parts.14.parts.0.customLabel>
+  <Gorehulk.corePart.parts.14.parts.1.customLabel>მარჯვენა ხორცის კლუბი</Gorehulk.corePart.parts.14.parts.1.customLabel>
+  <Gorehulk.corePart.parts.14.parts.2.customLabel>მარჯვენა ხერხემლის მტევანი</Gorehulk.corePart.parts.14.parts.2.customLabel>
+  <Gorehulk.corePart.parts.16.customLabel>მარცხენა ფეხი</Gorehulk.corePart.parts.16.customLabel>
+  <Gorehulk.corePart.parts.16.parts.0.customLabel>მარცხენა ბარძაყის ძვალი</Gorehulk.corePart.parts.16.parts.0.customLabel>
+  <Gorehulk.corePart.parts.16.parts.1.customLabel>მარცხენა წვივის</Gorehulk.corePart.parts.16.parts.1.customLabel>
+  <Gorehulk.corePart.parts.16.parts.2.customLabel>მარცხენა ფეხი</Gorehulk.corePart.parts.16.parts.2.customLabel>
+  <Gorehulk.corePart.parts.16.parts.2.parts.0.customLabel>მარცხენა პატარა ფეხის თითი</Gorehulk.corePart.parts.16.parts.2.parts.0.customLabel>
+  <Gorehulk.corePart.parts.16.parts.2.parts.1.customLabel>მარცხენა მეოთხე თითი</Gorehulk.corePart.parts.16.parts.2.parts.1.customLabel>
+  <Gorehulk.corePart.parts.16.parts.2.parts.2.customLabel>მარცხენა შუა თითი</Gorehulk.corePart.parts.16.parts.2.parts.2.customLabel>
+  <Gorehulk.corePart.parts.16.parts.2.parts.3.customLabel>მარცხენა მეორე თითი</Gorehulk.corePart.parts.16.parts.2.parts.3.customLabel>
+  <Gorehulk.corePart.parts.16.parts.2.parts.4.customLabel>მარცხენა დიდი თითი</Gorehulk.corePart.parts.16.parts.2.parts.4.customLabel>
+  <Gorehulk.corePart.parts.17.customLabel>მარჯვენა ფეხი</Gorehulk.corePart.parts.17.customLabel>
+  <Gorehulk.corePart.parts.17.parts.0.customLabel>მარჯვენა ბარძაყის ძვალი</Gorehulk.corePart.parts.17.parts.0.customLabel>
+  <Gorehulk.corePart.parts.17.parts.1.customLabel>მარჯვენა წვივის</Gorehulk.corePart.parts.17.parts.1.customLabel>
+  <Gorehulk.corePart.parts.17.parts.2.customLabel>მარჯვენა ფეხი</Gorehulk.corePart.parts.17.parts.2.customLabel>
+  <Gorehulk.corePart.parts.17.parts.2.parts.0.customLabel>მარჯვენა ფეხის თითი</Gorehulk.corePart.parts.17.parts.2.parts.0.customLabel>
+  <Gorehulk.corePart.parts.17.parts.2.parts.1.customLabel>მარჯვენა მეოთხე თითი</Gorehulk.corePart.parts.17.parts.2.parts.1.customLabel>
+  <Gorehulk.corePart.parts.17.parts.2.parts.2.customLabel>მარჯვენა შუა თითი</Gorehulk.corePart.parts.17.parts.2.parts.2.customLabel>
+  <Gorehulk.corePart.parts.17.parts.2.parts.3.customLabel>მარჯვენა მეორე თითი</Gorehulk.corePart.parts.17.parts.2.parts.3.customLabel>
+  <Gorehulk.corePart.parts.17.parts.2.parts.4.customLabel>მარჯვენა დიდი თითი</Gorehulk.corePart.parts.17.parts.2.parts.4.customLabel>
+  <Gorehulk.corePart.parts.7.customLabel>მარცხენა ფილტვი</Gorehulk.corePart.parts.7.customLabel>
+  <Gorehulk.corePart.parts.8.customLabel>მარჯვენა ფილტვი</Gorehulk.corePart.parts.8.customLabel>
+  <Gorehulk.corePart.parts.9.customLabel>მარცხენა თირკმელი</Gorehulk.corePart.parts.9.customLabel>
+  <Gorehulk.label>გორჰულკი</Gorehulk.label>
+  <Metalhorror.corePart.parts.1.parts.0.parts.1.customLabel>მარცხენა თვალი</Metalhorror.corePart.parts.1.parts.0.parts.1.customLabel>
+  <Metalhorror.corePart.parts.1.parts.0.parts.2.customLabel>მარჯვენა თვალი</Metalhorror.corePart.parts.1.parts.0.parts.2.customLabel>
+  <Metalhorror.corePart.parts.2.customLabel>მარჯვენა მხრის</Metalhorror.corePart.parts.2.customLabel>
+  <Metalhorror.corePart.parts.2.parts.0.customLabel>მარჯვენა მკლავი</Metalhorror.corePart.parts.2.parts.0.customLabel>
+  <Metalhorror.corePart.parts.2.parts.0.parts.0.customLabel>მარჯვენა დანა</Metalhorror.corePart.parts.2.parts.0.parts.0.customLabel>
+  <Metalhorror.corePart.parts.3.customLabel>მარცხენა მხრის</Metalhorror.corePart.parts.3.customLabel>
+  <Metalhorror.corePart.parts.3.parts.0.customLabel>მარცხენა მკლავი</Metalhorror.corePart.parts.3.parts.0.customLabel>
+  <Metalhorror.corePart.parts.3.parts.0.parts.0.customLabel>მარცხენა დანა</Metalhorror.corePart.parts.3.parts.0.parts.0.customLabel>
+  <Metalhorror.corePart.parts.4.customLabel>მარცხენა ფეხი</Metalhorror.corePart.parts.4.customLabel>
+  <Metalhorror.corePart.parts.4.parts.0.customLabel>მარცხენა ფეხი</Metalhorror.corePart.parts.4.parts.0.customLabel>
+  <Metalhorror.corePart.parts.5.customLabel>მარჯვენა ფეხი</Metalhorror.corePart.parts.5.customLabel>
+  <Metalhorror.corePart.parts.5.parts.0.customLabel>მარჯვენა ფეხი</Metalhorror.corePart.parts.5.parts.0.customLabel>
+  <Metalhorror.label>მეტალჰორორი</Metalhorror.label>
+  <Nociosphere.label>ნოციოსფერო</Nociosphere.label>
+  <Noctol.corePart.parts.10.customLabel>წინა მარჯვენა ფეხი</Noctol.corePart.parts.10.customLabel>
+  <Noctol.corePart.parts.10.parts.0.customLabel>წინა მარჯვენა კლანჭი</Noctol.corePart.parts.10.parts.0.customLabel>
+  <Noctol.corePart.parts.11.customLabel>უკანა მარცხენა ფეხი</Noctol.corePart.parts.11.customLabel>
+  <Noctol.corePart.parts.11.parts.0.customLabel>უკანა მარცხენა კლანჭი</Noctol.corePart.parts.11.parts.0.customLabel>
+  <Noctol.corePart.parts.12.customLabel>უკანა მარჯვენა ფეხი</Noctol.corePart.parts.12.customLabel>
+  <Noctol.corePart.parts.12.parts.0.customLabel>უკანა მარჯვენა კლანჭი</Noctol.corePart.parts.12.parts.0.customLabel>
+  <Noctol.corePart.parts.3.customLabel>მარცხენა ფილტვი</Noctol.corePart.parts.3.customLabel>
+  <Noctol.corePart.parts.4.customLabel>მარჯვენა ფილტვი</Noctol.corePart.parts.4.customLabel>
+  <Noctol.corePart.parts.5.customLabel>მარცხენა თირკმელი</Noctol.corePart.parts.5.customLabel>
+  <Noctol.corePart.parts.6.customLabel>მარჯვენა თირკმელი</Noctol.corePart.parts.6.customLabel>
+  <Noctol.corePart.parts.8.parts.0.parts.1.customLabel>მარცხენა თვალი</Noctol.corePart.parts.8.parts.0.parts.1.customLabel>
+  <Noctol.corePart.parts.8.parts.0.parts.2.customLabel>მარჯვენა თვალი</Noctol.corePart.parts.8.parts.0.parts.2.customLabel>
+  <Noctol.corePart.parts.8.parts.0.parts.3.customLabel>მარცხენა ყური</Noctol.corePart.parts.8.parts.0.parts.3.customLabel>
+  <Noctol.corePart.parts.8.parts.0.parts.4.customLabel>მარჯვენა ყური</Noctol.corePart.parts.8.parts.0.parts.4.customLabel>
+  <Noctol.corePart.parts.9.customLabel>წინა მარცხენა ფეხი</Noctol.corePart.parts.9.customLabel>
+  <Noctol.corePart.parts.9.parts.0.customLabel>წინა მარცხენა კლანჭი</Noctol.corePart.parts.9.parts.0.customLabel>
+  <Noctol.label>ნოქტოლი</Noctol.label>
+</LanguageData>

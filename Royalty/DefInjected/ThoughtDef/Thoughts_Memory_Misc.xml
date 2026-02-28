@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OtherTravelerArrested.stages.0.description>ჩვენი ერთ-ერთი თანამგზავრი ტყვედ აიყვანეს!</OtherTravelerArrested.stages.0.description>
+  <OtherTravelerArrested.stages.0.label>მოგზაური დააკავეს</OtherTravelerArrested.stages.0.label>
+  <OtherTravelerLeftBehind.stages.0.description>ერთი ჩვენი თანამგზავრი დარჩა.</OtherTravelerLeftBehind.stages.0.description>
+  <OtherTravelerLeftBehind.stages.0.label>დარჩენილი მოგზაური</OtherTravelerLeftBehind.stages.0.label>
+  <OtherTravelerSurgicallyViolated.stages.0.description>ჩვენს ერთ-ერთ თანამგზავრს ოპერაცია გაუსწორდა. ამას ვერაფერი გაამართლებდა.</OtherTravelerSurgicallyViolated.stages.0.description>
+  <OtherTravelerSurgicallyViolated.stages.0.label>მოგზაური ქირურგიულად დაარღვია</OtherTravelerSurgicallyViolated.stages.0.label>
+</LanguageData>

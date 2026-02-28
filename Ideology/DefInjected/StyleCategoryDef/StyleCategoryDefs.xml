@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Animalist.label>ცხოველმყოფელი</Animalist.label>
+  <Buddhist.label>ბუდისტი</Buddhist.label>
+  <Christian.label>კრისტიანი</Christian.label>
+  <Hindu.label>ინდუსური</Hindu.label>
+  <Islamic.label>ისლამური</Islamic.label>
+  <Morbid.label>ავადმყოფური</Morbid.label>
+  <Rustic.label>rustic</Rustic.label>
+  <Spikecore.label>spikecore</Spikecore.label>
+  <Techist.label>ტექნიკოსი</Techist.label>
+  <Totemic.label>ტოტემური</Totemic.label>
+</LanguageData>

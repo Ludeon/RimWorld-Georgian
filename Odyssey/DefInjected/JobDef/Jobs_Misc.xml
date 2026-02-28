@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Deactivated.reportString>deactivated.</Deactivated.reportString>
+  <Fish.reportString>fishing.</Fish.reportString>
+  <FishAnimal.reportString>fishing.</FishAnimal.reportString>
+  <Forage.reportString>საკვების ძებნა.</Forage.reportString>
+  <GotoOxygenatedArea.reportString>ეძებს ჟანგბადს.</GotoOxygenatedArea.reportString>
+  <GotoPatrolDest.reportString>patrolling.</GotoPatrolDest.reportString>
+  <GotoShip.reportString>გაგზავნას აპირებს.</GotoShip.reportString>
+  <InspectGravEngine.reportString>TargetA-ს შემოწმება.</InspectGravEngine.reportString>
+  <LeaveShip.reportString>გემის დატოვება.</LeaveShip.reportString>
+  <PilotConsole.reportString>მოქმედი TargetA.</PilotConsole.reportString>
+  <PutApparelOnOutfitStand.reportString>TargetA-ს TargetB-ზე დაყენება.</PutApparelOnOutfitStand.reportString>
+  <Seal.reportString>დალუქვა TargetA.</Seal.reportString>
+  <UseOutfitStand.reportString>სამოსის შეცვლა TargetA-სთან.</UseOutfitStand.reportString>
+</LanguageData>

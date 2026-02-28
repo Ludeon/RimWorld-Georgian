@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CharityFulfilled_Essential_Beggars.stages.0.description>გაჭირვებულ მათხოვრებს ვეხმარებოდით. მე ნამდვილად კარგი ადამიანი ვარ!</CharityFulfilled_Essential_Beggars.stages.0.description>
+  <CharityFulfilled_Essential_Beggars.stages.0.label>მათხოვრები დაეხმარნენ</CharityFulfilled_Essential_Beggars.stages.0.label>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.0.description>ჩვენ დავეხმარეთ ლტოლვილებს. მე ნამდვილად კარგი ადამიანი ვარ!</CharityFulfilled_Essential_HospitalityRefugees.stages.0.description>
+  <CharityFulfilled_Essential_HospitalityRefugees.stages.0.label>ლტოლვილებს უმასპინძლეს</CharityFulfilled_Essential_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Essential_IntroWimp.stages.0.description>ჩვენ ვეხმარებოდით გაჭირვებულ სამეფოს. ჩვენ ნამდვილად კარგი ხალხი ვართ!</CharityFulfilled_Essential_IntroWimp.stages.0.description>
+  <CharityFulfilled_Essential_IntroWimp.stages.0.label>კეთილშობილი დაეხმარა</CharityFulfilled_Essential_IntroWimp.stages.0.label>
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.0.description>ჩვენ დავეხმარეთ ავარიულ ლტოლვილს გადარჩენაში. მე ნამდვილად კარგი ადამიანი ვარ!</CharityFulfilled_Essential_RefugeePodCrash.stages.0.description>
+  <CharityFulfilled_Essential_RefugeePodCrash.stages.0.label>pod ლტოლვილი დაეხმარა</CharityFulfilled_Essential_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.description>ჩვენ ვეხმარებოდით შატლის ავარიაში გადარჩენილებს. მე ნამდვილად კარგი ადამიანი ვარ!</CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.description>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.label>შატლის გადარჩენილები დაეხმარნენ</CharityFulfilled_Essential_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.description>ვიღაცას დავეხმარეთ მუქარის ქვეშ. ჩვენ ნამდვილად კარგი ხალხი ვართ!</CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.description>
+  <CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.label>მიიღო ვინმე საფრთხის ქვეშ</CharityFulfilled_Essential_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Essential_WandererJoins.stages.0.description>ჩვენ დავეხმარეთ სასოწარკვეთილ მოხეტიალეს გადარჩენაში. მე ნამდვილად კარგი ადამიანი ვარ!</CharityFulfilled_Essential_WandererJoins.stages.0.description>
+  <CharityFulfilled_Essential_WandererJoins.stages.0.label>მოხეტიალე დაეხმარა</CharityFulfilled_Essential_WandererJoins.stages.0.label>
+  <CharityFulfilled_Important_Beggars.stages.0.description>გაჭირვებულ მათხოვრებს ვეხმარებოდით. ეს იყო სწორი საქმე.</CharityFulfilled_Important_Beggars.stages.0.description>
+  <CharityFulfilled_Important_Beggars.stages.0.label>მათხოვრები დაეხმარნენ</CharityFulfilled_Important_Beggars.stages.0.label>
+  <CharityFulfilled_Important_HospitalityRefugees.stages.0.description>ჩვენ დავეხმარეთ ლტოლვილებს. სხვების დახმარება მნიშვნელოვანია.</CharityFulfilled_Important_HospitalityRefugees.stages.0.description>
+  <CharityFulfilled_Important_HospitalityRefugees.stages.0.label>ლტოლვილებს უმასპინძლეს</CharityFulfilled_Important_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Important_IntroWimp.stages.0.description>ჩვენ ვეხმარებოდით გაჭირვებულ სამეფოს. სხვების დახმარება მნიშვნელოვანია.</CharityFulfilled_Important_IntroWimp.stages.0.description>
+  <CharityFulfilled_Important_IntroWimp.stages.0.label>კეთილშობილი დაეხმარა</CharityFulfilled_Important_IntroWimp.stages.0.label>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.0.description>ჩვენ დავეხმარეთ ავარიულ ლტოლვილს გადარჩენაში. სხვების დახმარება მნიშვნელოვანია.</CharityFulfilled_Important_RefugeePodCrash.stages.0.description>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.0.label>pod ლტოლვილი დაეხმარა</CharityFulfilled_Important_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.0.description>ჩვენ ვეხმარებოდით შატლის ავარიაში გადარჩენილებს. აშკარად სწორი იყო.</CharityFulfilled_Important_ShuttleCrashRescue.stages.0.description>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.0.label>შატლის გადარჩენილები დაეხმარნენ</CharityFulfilled_Important_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.0.description>ვიღაცას დავეხმარეთ მუქარის ქვეშ. ეს იყო სწორი საქმე.</CharityFulfilled_Important_ThreatReward_Joiner.stages.0.description>
+  <CharityFulfilled_Important_ThreatReward_Joiner.stages.0.label>მიიღო ვინმე საფრთხის ქვეშ</CharityFulfilled_Important_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Important_WandererJoins.stages.0.description>ჩვენ დავეხმარეთ სასოწარკვეთილ მოხეტიალეს გადარჩენაში. სხვების დახმარება სწორია.</CharityFulfilled_Important_WandererJoins.stages.0.description>
+  <CharityFulfilled_Important_WandererJoins.stages.0.label>მოხეტიალე დაეხმარა</CharityFulfilled_Important_WandererJoins.stages.0.label>
+  <CharityFulfilled_Worthwhile_Beggars.stages.0.description>გაჭირვებულ მათხოვრებს ვეხმარებოდით. კარგია, რომ კარგი იყო ხალხის მიმართ.</CharityFulfilled_Worthwhile_Beggars.stages.0.description>
+  <CharityFulfilled_Worthwhile_Beggars.stages.0.label>მათხოვრები დაეხმარნენ</CharityFulfilled_Worthwhile_Beggars.stages.0.label>
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.description>ჩვენ დავეხმარეთ ლტოლვილებს. ჩვენგან კარგი იყო.</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.description>
+  <CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.label>ლტოლვილებს უმასპინძლეს</CharityFulfilled_Worthwhile_HospitalityRefugees.stages.0.label>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.0.description>ჩვენ ვეხმარებოდით გაჭირვებულ სამეფოს. ჩვენგან კარგი იყო.</CharityFulfilled_Worthwhile_IntroWimp.stages.0.description>
+  <CharityFulfilled_Worthwhile_IntroWimp.stages.0.label>კეთილშობილი დაეხმარა</CharityFulfilled_Worthwhile_IntroWimp.stages.0.label>
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.description>ჩვენ დავეხმარეთ ავარიულ ლტოლვილს გადარჩენაში. ჩემგან კარგი იყო.</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.description>
+  <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.label>pod ლტოლვილი დაეხმარა</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.0.label>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.description>ჩვენ ვეხმარებოდით შატლის ავარიაში გადარჩენილებს. კარგი რამ იყო.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.description>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.label>შატლის გადარჩენილები დაეხმარნენ</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.0.label>
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.description>ვიღაცას დავეხმარეთ მუქარის ქვეშ. ეს საკმაოდ კარგი იყო.</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.description>
+  <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.label>მიიღო ვინმე საფრთხის ქვეშ</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.0.label>
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.0.description>ჩვენ დავეხმარეთ სასოწარკვეთილ მოხეტიალეს გადარჩენაში. ეს კარგია.</CharityFulfilled_Worthwhile_WandererJoins.stages.0.description>
+  <CharityFulfilled_Worthwhile_WandererJoins.stages.0.label>მოხეტიალე დაეხმარა</CharityFulfilled_Worthwhile_WandererJoins.stages.0.label>
+  <CharityRefused_Essential_Beggars.stages.0.description>ისინი დახმარებას ითხოვდნენ, მაგრამ ჩვენ უარი ვთქვით. რა დარღვევაა - მე ხომ უკვე ადამიანი ვარ?</CharityRefused_Essential_Beggars.stages.0.description>
+  <CharityRefused_Essential_Beggars.stages.0.label>მათხოვრები არ დაეხმარნენ</CharityRefused_Essential_Beggars.stages.0.label>
+  <CharityRefused_Essential_Beggars_Betrayed.stages.0.description>ისინი დახმარებას სთხოვდნენ და ჩვენ მათ ვუღალატეთ. ოდესმე ვაპატიებ ჩემს თავს?</CharityRefused_Essential_Beggars_Betrayed.stages.0.description>
+  <CharityRefused_Essential_Beggars_Betrayed.stages.0.label>მათხოვრებმა უღალატეს</CharityRefused_Essential_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Essential_HospitalityRefugees.stages.0.description>ისინი სასოწარკვეთილნი იყვნენ და ჩვენ არ დავეხმარეთ. როგორ შემიძლია ვიყო ასეთი არაადამიანური?</CharityRefused_Essential_HospitalityRefugees.stages.0.description>
+  <CharityRefused_Essential_HospitalityRefugees.stages.0.label>ლტოლვილები არ დაეხმარნენ</CharityRefused_Essential_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Essential_IntroWimp.stages.0.description>ჩვენ უარი ვთქვით სასოწარკვეთილ დიდებულს დახმარებაზე. ეს იყო ღრმად ამორალური.</CharityRefused_Essential_IntroWimp.stages.0.description>
+  <CharityRefused_Essential_IntroWimp.stages.0.label>კეთილშობილი არ დაეხმარა</CharityRefused_Essential_IntroWimp.stages.0.label>
+  <CharityRefused_Essential_Pilgrims.stages.0.description>მათ მოითხოვეს ჩვენი წმინდა ნაწილების დათვალიერება და ჩვენ უარი ვთქვით. როგორ შეიძლება ვიყოთ ასეთი ეგოისტები?</CharityRefused_Essential_Pilgrims.stages.0.description>
+  <CharityRefused_Essential_Pilgrims.stages.0.label>მომლოცველები არ დაეხმარნენ</CharityRefused_Essential_Pilgrims.stages.0.label>
+  <CharityRefused_Essential_Pilgrims_Betrayed.stages.0.description>ისინი მოვიდნენ ჩვენი წმინდა ნაწილების დასათვალიერებლად და ჩვენ მათ ვუღალატეთ. როგორ მივიღეთ ეს გარყვნილი?</CharityRefused_Essential_Pilgrims_Betrayed.stages.0.description>
+  <CharityRefused_Essential_Pilgrims_Betrayed.stages.0.label>მომლოცველებმა უღალატეს</CharityRefused_Essential_Pilgrims_Betrayed.stages.0.label>
+  <CharityRefused_Essential_RefugeePodCrash.stages.0.description>ისინი დაზარალდნენ და დახმარება სჭირდებოდათ, ჩვენ კი არ ვეხმარებოდით. როგორ ვიცხოვრო ამით?</CharityRefused_Essential_RefugeePodCrash.stages.0.description>
+  <CharityRefused_Essential_RefugeePodCrash.stages.0.label>ჩამოვარდნილი ლტოლვილი არ დაეხმარა</CharityRefused_Essential_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.0.description>ისინი აჯანყდნენ, სასოწარკვეთილი დახმარება სთხოვდნენ და ჩვენ ვუთხარით არა. როგორ ვიცხოვრო ამით?</CharityRefused_Essential_ShuttleCrashRescue.stages.0.description>
+  <CharityRefused_Essential_ShuttleCrashRescue.stages.0.label>ავარიული შატლი იგნორირებულია</CharityRefused_Essential_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.0.description>ჩვენ უარი ვთქვით ვინმეს დახმარებაზე, რომელიც რეალურ საფრთხეშია. მე ღრმად დავარღვიე ჩემი რწმენა.</CharityRefused_Essential_ThreatReward_Joiner.stages.0.description>
+  <CharityRefused_Essential_ThreatReward_Joiner.stages.0.label>უარყოფილი სადურგლო საფრთხე ემუქრება</CharityRefused_Essential_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Essential_WandererJoins.stages.0.description>ვიღაც მოვიდა დახმარების სათხოვნელად და ჩვენ უარვყავით. რაც ჩვენ გავაკეთეთ არაადამიანური იყო.</CharityRefused_Essential_WandererJoins.stages.0.description>
+  <CharityRefused_Essential_WandererJoins.stages.0.label>მოხეტიალე უარყო</CharityRefused_Essential_WandererJoins.stages.0.label>
+  <CharityRefused_Important_Beggars.stages.0.description>შველას ითხოვდნენ, მაგრამ ჩვენ არაფერი გავაკეთეთ. ღრმად არასწორი იყო.</CharityRefused_Important_Beggars.stages.0.description>
+  <CharityRefused_Important_Beggars.stages.0.label>მათხოვრები არ დაეხმარნენ</CharityRefused_Important_Beggars.stages.0.label>
+  <CharityRefused_Important_Beggars_Betrayed.stages.0.description>ისინი დახმარებას სთხოვდნენ და ჩვენ მათ ვუღალატეთ. საზარელი იყო.</CharityRefused_Important_Beggars_Betrayed.stages.0.description>
+  <CharityRefused_Important_Beggars_Betrayed.stages.0.label>მათხოვრებმა უღალატეს</CharityRefused_Important_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Important_HospitalityRefugees.stages.0.description>ისინი სასოწარკვეთილნი იყვნენ და ჩვენ არ დავეხმარეთ. ვალდებული ვიყავით დაგვეხმარა.</CharityRefused_Important_HospitalityRefugees.stages.0.description>
+  <CharityRefused_Important_HospitalityRefugees.stages.0.label>ლტოლვილები არ დაეხმარნენ</CharityRefused_Important_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Important_IntroWimp.stages.0.description>ჩვენ უარი ვთქვით სასოწარკვეთილ დიდებულს დახმარებაზე. მეტი უნდა ვეცადოთ.</CharityRefused_Important_IntroWimp.stages.0.description>
+  <CharityRefused_Important_IntroWimp.stages.0.label>კეთილშობილი არ დაეხმარა</CharityRefused_Important_IntroWimp.stages.0.label>
+  <CharityRefused_Important_Pilgrims.stages.0.description>მათ მოითხოვეს ჩვენი წმინდა ნაწილების დათვალიერება და ჩვენ უარი ვთქვით. ჩვენ უნდა შევცვალოთ გზები.</CharityRefused_Important_Pilgrims.stages.0.description>
+  <CharityRefused_Important_Pilgrims.stages.0.label>მომლოცველები არ დაეხმარნენ</CharityRefused_Important_Pilgrims.stages.0.label>
+  <CharityRefused_Important_Pilgrims_Betrayed.stages.0.description>ისინი მოვიდნენ ჩვენი წმინდა ნაწილების დასათვალიერებლად და ჩვენ მათ ვუღალატეთ. რა ამაზრზენი საქციელია.</CharityRefused_Important_Pilgrims_Betrayed.stages.0.description>
+  <CharityRefused_Important_Pilgrims_Betrayed.stages.0.label>მომლოცველებმა უღალატეს</CharityRefused_Important_Pilgrims_Betrayed.stages.0.label>
+  <CharityRefused_Important_RefugeePodCrash.stages.0.description>ისინი დაზარალდნენ და დახმარება სჭირდებოდათ, ჩვენ კი არ ვეხმარებოდით. მე კი კარგი ადამიანი ვარ?</CharityRefused_Important_RefugeePodCrash.stages.0.description>
+  <CharityRefused_Important_RefugeePodCrash.stages.0.label>ჩამოვარდნილი ლტოლვილი არ დაეხმარა</CharityRefused_Important_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Important_ShuttleCrashRescue.stages.0.description>ისინი აჯანყდნენ, სასოწარკვეთილი დახმარება სთხოვდნენ და ჩვენ ვუთხარით არა. ძალიან არასწორი იყო.</CharityRefused_Important_ShuttleCrashRescue.stages.0.description>
+  <CharityRefused_Important_ShuttleCrashRescue.stages.0.label>ავარიული შატლი იგნორირებულია</CharityRefused_Important_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Important_ThreatReward_Joiner.stages.0.description>ჩვენ უარი ვთქვით ვინმეს დახმარებაზე, რომელიც რეალურ საფრთხეშია. ეს დიდხანს დამრჩება.</CharityRefused_Important_ThreatReward_Joiner.stages.0.description>
+  <CharityRefused_Important_ThreatReward_Joiner.stages.0.label>უარყოფილი სადურგლო საფრთხე ემუქრება</CharityRefused_Important_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Important_WandererJoins.stages.0.description>მათ გაჭირვებულიყვნენ და ჩვენ უარვყავით. ამას მხოლოდ საშინელი ადამიანი აკეთებს.</CharityRefused_Important_WandererJoins.stages.0.description>
+  <CharityRefused_Important_WandererJoins.stages.0.label>მოხეტიალე უარყო</CharityRefused_Important_WandererJoins.stages.0.label>
+  <CharityRefused_Worthwhile_Beggars.stages.0.description>მათ დახმარება სთხოვეს და ჩვენ არაფერი გავაკეთეთ. უფრო მეტად უნდა ვეცადოთ.</CharityRefused_Worthwhile_Beggars.stages.0.description>
+  <CharityRefused_Worthwhile_Beggars.stages.0.label>მათხოვრები არ დაეხმარნენ</CharityRefused_Worthwhile_Beggars.stages.0.label>
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.description>ისინი დახმარებას სთხოვდნენ და ჩვენ მათ ვუღალატეთ. ჩვენ არ შეგვიძლია ამის გამეორება.</CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.description>
+  <CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.label>მათხოვრებმა უღალატეს</CharityRefused_Worthwhile_Beggars_Betrayed.stages.0.label>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.0.description>ისინი სასოწარკვეთილნი იყვნენ და ჩვენ არ დავეხმარეთ. ეს არ იყო დიდი.</CharityRefused_Worthwhile_HospitalityRefugees.stages.0.description>
+  <CharityRefused_Worthwhile_HospitalityRefugees.stages.0.label>ლტოლვილები არ დაეხმარნენ</CharityRefused_Worthwhile_HospitalityRefugees.stages.0.label>
+  <CharityRefused_Worthwhile_IntroWimp.stages.0.description>ჩვენ უარი ვთქვით სასოწარკვეთილ დიდებულს დახმარებაზე. ალბათ არც ისეთი ქველმოქმედი ვარ, როგორც მეგონა.</CharityRefused_Worthwhile_IntroWimp.stages.0.description>
+  <CharityRefused_Worthwhile_IntroWimp.stages.0.label>კეთილშობილი არ დაეხმარა</CharityRefused_Worthwhile_IntroWimp.stages.0.label>
+  <CharityRefused_Worthwhile_Pilgrims.stages.0.description>მათ მოითხოვეს ჩვენი წმინდა ნაწილების დათვალიერება და ჩვენ უარი ვთქვით. უფრო მეტად უნდა ვეცადოთ.</CharityRefused_Worthwhile_Pilgrims.stages.0.description>
+  <CharityRefused_Worthwhile_Pilgrims.stages.0.label>მომლოცველები არ დაეხმარნენ</CharityRefused_Worthwhile_Pilgrims.stages.0.label>
+  <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.0.description>ისინი მოვიდნენ ჩვენი წმინდა ნაწილების დასათვალიერებლად და ჩვენ მათ ვუღალატეთ. ჩვენ უკეთ უნდა ვიმოქმედოთ.</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.0.description>
+  <CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.0.label>მომლოცველებმა უღალატეს</CharityRefused_Worthwhile_Pilgrims_Betrayed.stages.0.label>
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.0.description>ისინი დაზარალდნენ და დახმარება სჭირდებოდათ, ჩვენ კი არ ვეხმარებოდით. ეს არ იყო საუკეთესო.</CharityRefused_Worthwhile_RefugeePodCrash.stages.0.description>
+  <CharityRefused_Worthwhile_RefugeePodCrash.stages.0.label>ჩამოვარდნილი ლტოლვილი არ დაეხმარა</CharityRefused_Worthwhile_RefugeePodCrash.stages.0.label>
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.description>ისინი აჯანყდნენ, სასოწარკვეთილი დახმარება სთხოვდნენ და ჩვენ ვუთხარით არა. ეს არ იყო კარგი.</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.description>
+  <CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.label>ავარიული შატლი იგნორირებულია</CharityRefused_Worthwhile_ShuttleCrashRescue.stages.0.label>
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.description>ჩვენ უარი ვთქვით ვინმეს დახმარებაზე, რომელიც რეალურ საფრთხეშია. ეს არ იყო დიდი.</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.description>
+  <CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.label>უარყოფილი სადურგლო საფრთხე ემუქრება</CharityRefused_Worthwhile_ThreatReward_Joiner.stages.0.label>
+  <CharityRefused_Worthwhile_WandererJoins.stages.0.description>მათ გაჭირვებაში მყოფნი იყვნენ და ჩვენ მათ გვერდი ავუარეთ. უკეთესად უნდა გაგვეკეთებინა.</CharityRefused_Worthwhile_WandererJoins.stages.0.description>
+  <CharityRefused_Worthwhile_WandererJoins.stages.0.label>მოხეტიალე უარყო</CharityRefused_Worthwhile_WandererJoins.stages.0.label>
+</LanguageData>

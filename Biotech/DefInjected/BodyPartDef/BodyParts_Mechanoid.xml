@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BulbTurret.label>ბოლქვის კოშკი</BulbTurret.label>
+  <DiabolusCapacitor.label>ჰიპერკონდენსატორი</DiabolusCapacitor.label>
+  <MechanicalDiabolusBodyFifthRing.label>სხეულის მეხუთე ბეჭედი</MechanicalDiabolusBodyFifthRing.label>
+  <MechanicalDiabolusBodyFirstRing.label>სხეულის პირველი ბეჭედი</MechanicalDiabolusBodyFirstRing.label>
+  <MechanicalDiabolusBodyFourthRing.label>სხეულის მეოთხე ბეჭედი</MechanicalDiabolusBodyFourthRing.label>
+  <MechanicalDiabolusBodySecondRing.label>სხეულის მეორე ბეჭედი</MechanicalDiabolusBodySecondRing.label>
+  <MechanicalDiabolusBodySixthRing.label>სხეულის მეექვსე ბეჭედი</MechanicalDiabolusBodySixthRing.label>
+  <MechanicalDiabolusBodyThirdRing.label>სხეულის მესამე ბეჭედი</MechanicalDiabolusBodyThirdRing.label>
+  <MechanicalWarqueenBodyFifthRing.label>სხეულის მეხუთე ბეჭედი</MechanicalWarqueenBodyFifthRing.label>
+  <MechanicalWarqueenBodyFirstRing.label>სხეულის პირველი ბეჭედი</MechanicalWarqueenBodyFirstRing.label>
+  <MechanicalWarqueenBodyFourthRing.label>სხეულის მეოთხე ბეჭედი</MechanicalWarqueenBodyFourthRing.label>
+  <MechanicalWarqueenBodySecondRing.label>სხეულის მეორე ბეჭედი</MechanicalWarqueenBodySecondRing.label>
+  <MechanicalWarqueenBodyThirdRing.label>სხეულის მესამე ბეჭედი</MechanicalWarqueenBodyThirdRing.label>
+  <MechanicalWarqueenFormingPod.label>ტომრის ფორმირება</MechanicalWarqueenFormingPod.label>
+  <PowerClaw.label>დენის კლანჭა</PowerClaw.label>
+  <SmallMechanicalFoot.label>პატარა ფეხი</SmallMechanicalFoot.label>
+  <SmallMechanicalLeg.label>პატარა ფეხი</SmallMechanicalLeg.label>
+</LanguageData>

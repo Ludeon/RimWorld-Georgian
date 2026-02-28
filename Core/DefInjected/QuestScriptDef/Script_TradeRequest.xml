@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</TradeRequest.root.nodes.12.nodeIfChosenPawnSignalUsed.label>
+  <TradeRequest.root.nodes.3.label>ქვესტი ვერ მოხერხდა: [resolvedQuestName]</TradeRequest.root.nodes.3.label>
+</LanguageData>

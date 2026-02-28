@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Aggressive.label>აგრესიული</Aggressive.label>
+  <Aggressive.letterLabel>{PAWN_nameDef} მტრულად განწყობილი</Aggressive.letterLabel>
+  <CrumblingMind.label>დამსხვრეული გონება</CrumblingMind.label>
+  <Disturbing.label>შემაშფოთებელი</Disturbing.label>
+  <EntityJailbreaker.label>ერთეული jailbreaker</EntityJailbreaker.label>
+  <Leaves.label>ტოვებს</Leaves.label>
+  <Leaves.letterLabel>{PAWN_nameDef} გამგზავრება</Leaves.letterLabel>
+  <Metalhorror.label>მეტალჰორორი</Metalhorror.label>
+  <Nothing.label>არაფერი</Nothing.label>
+  <OrganDecay.label>ორგანოს დაშლა</OrganDecay.label>
+  <PsychicAgony.label>ფსიქიკური აგონია</PsychicAgony.label>
+  <PsychicAgony.letterLabel>ფსიქიკური აგონია</PsychicAgony.letterLabel>
+</LanguageData>

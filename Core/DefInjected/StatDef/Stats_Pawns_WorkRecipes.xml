@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ButcheryFleshEfficiency.description>რამდენ ხორცს მიიღებთ ხორციანი არსების დაკვლისას.\n\nრეალური რაოდენობა ასევე დამოკიდებულია არსების ზომაზე.</ButcheryFleshEfficiency.description>
+  <ButcheryFleshEfficiency.label>ჯალათობის ეფექტურობა</ButcheryFleshEfficiency.label>
+  <ButcheryFleshSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი კლავს ხორციელ არსებებს.</ButcheryFleshSpeed.description>
+  <ButcheryFleshSpeed.label>ჯალათობის სიჩქარე</ButcheryFleshSpeed.label>
+  <ButcheryMechanoidEfficiency.description>რამდენ მასალას მიიღებს ეს ადამიანი მკვდარი მექანოიდის ნაწილებად დაშლისას.\n\nრეალური რაოდენობა მექანოიდის ზომაზეც არის დამოკიდებული.</ButcheryMechanoidEfficiency.description>
+  <ButcheryMechanoidEfficiency.label>მექანიკური დაქუცმაცების ეფექტურობა</ButcheryMechanoidEfficiency.label>
+  <ButcheryMechanoidSpeed.description>სიჩქარე, რომლითაც ამ ადამიანს შეუძლია რესურსების გამოდევნის მექანიზმი.</ButcheryMechanoidSpeed.description>
+  <ButcheryMechanoidSpeed.label>მექანიკური დაქუცმაცების სიჩქარე</ButcheryMechanoidSpeed.label>
+  <CookSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი საჭმელს ამზადებს.</CookSpeed.description>
+  <CookSpeed.label>სამზარეულოს სიჩქარე</CookSpeed.label>
+  <DrugCookingSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი ადუღებს ლუდს და ჩაის, ან ამზადებს მარტივ წამლებს, როგორიცაა კვამლის ფოთლის სახსრები.</DrugCookingSpeed.description>
+  <DrugCookingSpeed.label>წამლის მომზადების სიჩქარე</DrugCookingSpeed.label>
+  <DrugSynthesisSpeed.description>რამდენად სწრაფად ასინთეზებს ეს პერსონაჟი კომპლექსურ ქიმიურ წამლებს.</DrugSynthesisSpeed.description>
+  <DrugSynthesisSpeed.label>წამლის სინთეზის სიჩქარე</DrugSynthesisSpeed.label>
+  <FoodPoisonChance.description>ალბათობა, რომ ეს პერსონაჟი მომზადებულ საჭმელს შემთხვევით მოწამლავს.\n\nასეთი საჭმლის მჭამელი დროებით დასუსტდება ტკივილით, სისუსტით და ღებინებით.</FoodPoisonChance.description>
+  <FoodPoisonChance.label>საკვები მოწამვლის შანსი</FoodPoisonChance.label>
+  <GeneralLaborSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი ახორციელებს ზოგად შრომას, როგორიცაა ქვის ბლოკების დამზადება, ქარხანაში ქიმიური საწვავის დამზადება, ნივთების წვა, ტანსაცმლის შეკერვა, ხელოვნების შექმნა, ჯავშნისა და იარაღის სამჭედლო ან წიდის დნობა. ეს სტატისტიკა ეხება როგორც საქმიანობას, რომელიც არ შეიცავს უნარს, ასევე იმ აქტივობებს, სადაც ეს უნარი გავლენას ახდენს პროდუქტის ხარისხზე და არა წარმოების სიჩქარეზე.</GeneralLaborSpeed.description>
+  <GeneralLaborSpeed.label>ზოგადი შრომის სიჩქარე</GeneralLaborSpeed.label>
+  <SmeltingSpeed.description>რა სიჩქარით გადადნობს ეს ადამიანი ნივთებს.\n\nგადნობა უბრალო შრომად ითვლება, ამიტომ სიჩქარეზე არც ერთი უნარი არ მოქმედებს.</SmeltingSpeed.description>
+  <SmeltingSpeed.label>დნობის სიჩქარე</SmeltingSpeed.label>
+</LanguageData>

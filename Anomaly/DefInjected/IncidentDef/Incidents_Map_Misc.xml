@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodRain.label>სისხლის წვიმა</BloodRain.label>
+  <BloodRain.letterLabel>სისხლის წვიმა</BloodRain.letterLabel>
+  <CreepJoinerJoin.label>creepjoiner შეერთება</CreepJoinerJoin.label>
+  <CreepJoinerJoin_Metalhorror.label>creepjoiner შეერთება</CreepJoinerJoin_Metalhorror.label>
+  <DeathPall.label>სიკვდილის პალი</DeathPall.label>
+  <DeathPall.letterLabel>სასიკვდილო პალატა</DeathPall.letterLabel>
+  <FleshmassHeart.label>ხორცის გული</FleshmassHeart.label>
+  <FleshmassHeart.letterLabel>რაღაც ქვემოდან</FleshmassHeart.letterLabel>
+  <FleshmassHeart.letterText>რელიეფის მცირე წრემ დაიწყო გადაადგილება და დაშლა. რაღაც იჭრება ზედაპირისკენ. რიტმული პულსაციები მიწას ქვემოდან არყევს.</FleshmassHeart.letterText>
+  <GiveQuest_DistressCall.label>უბედურების სიგნალი</GiveQuest_DistressCall.label>
+  <GiveQuest_DistressCall.letterLabel>უბედურების სიგნალი</GiveQuest_DistressCall.letterLabel>
+  <GoldenCubeArrival.label>ოქროს კუბის ჩამოსვლა</GoldenCubeArrival.label>
+  <HarbingerTreeProvoked.label>საწინდარი ხე</HarbingerTreeProvoked.label>
+  <HarbingerTreeProvoked.letterLabel>ხის ამონაყარი</HarbingerTreeProvoked.letterLabel>
+  <HarbingerTreeProvoked.letterText>A harbinger tree has sprouted nearby. These gnarled trees grow flesh-like coverings, and can feed on corpses and raw meat placed nearby. If well fed, the grove will continue to grow.\n\nIn a tribal myth, these trees are the emissaries of a shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky.</HarbingerTreeProvoked.letterText>
+  <MetalhorrorImplantation.label>მეტჰორორის იმპლანტაცია</MetalhorrorImplantation.label>
+  <MysteriousCargoCube.label>იდუმალი ტვირთის კუბი</MysteriousCargoCube.label>
+  <MysteriousCargoRevenantSpine.label>იდუმალი ტვირთის გამობრუნებული ხერხემალი</MysteriousCargoRevenantSpine.label>
+  <MysteriousCargoUnnaturalCorpse.label>იდუმალი ტვირთის გვამი</MysteriousCargoUnnaturalCorpse.label>
+  <Nociosphere.label>ნოციოსფერო</Nociosphere.label>
+  <Nociosphere.letterLabel>ნოციოსფერო</Nociosphere.letterLabel>
+  <Nociosphere.letterText>A strange metallic sphere has appeared. It hurts to be near it.\n\nYou could attack it, though you're not sure how it might defend itself. Or, you could capture it using a holding platform and learn to make use of its power.\n\nIt seems quiet for now, but it is gaining energy over time. You can suppress the sphere when it is captured to a holding platform, reducing its energy.</Nociosphere.letterText>
+  <PitGate.label>ორმოს კარიბჭე</PitGate.label>
+  <PitGate.letterLabel>ორმოს კარიბჭის გახსნა</PitGate.letterLabel>
+  <PitGate.letterText>A wide piece of terrain has begun sinking into the depths, forming a deepening hole. At this rate, it will deepen out of sight within a day. You can hear inhuman shrieks rising from the depths.\n\nMove buildings and items away from the emergence point.</PitGate.letterText>
+  <RevenantEmergence.label>გამობრუნებული გაჩენა</RevenantEmergence.label>
+  <RevenantEmergence.letterLabel>გამობრუნებული ხერხემალი გუგუნებს</RevenantEmergence.letterLabel>
+  <RevenantEmergence.letterText>გამობრუნებული ხერხემალი უფრო აქტიური ხდება და ავისმომასწავებელ გუგუნს გამოსცემს. გაანადგურეთ იგი ან შეიკავეთ იგი საყრდენ პლატფორმაზე, სანამ ძალიან გვიან არ არის.</RevenantEmergence.letterText>
+  <UnnaturalCorpseArrival.label>არაბუნებრივი გვამის ჩამოსვლა</UnnaturalCorpseArrival.label>
+  <UnnaturalDarkness.label>არაბუნებრივი სიბნელე</UnnaturalDarkness.label>
+  <WarpedObelisk_Abductor.label>დახრილი ობელისკი</WarpedObelisk_Abductor.label>
+  <WarpedObelisk_Abductor.letterLabel>დახრილი ობელისკი</WarpedObelisk_Abductor.letterLabel>
+  <WarpedObelisk_Duplicator.label>დაზიანებული ობელისკი</WarpedObelisk_Duplicator.label>
+  <WarpedObelisk_Duplicator.letterLabel>დაზიანებული ობელისკი</WarpedObelisk_Duplicator.letterLabel>
+  <WarpedObelisk_Mutator.label>გრეხილი ობელისკი</WarpedObelisk_Mutator.label>
+  <WarpedObelisk_Mutator.letterLabel>გრეხილი ობელისკი</WarpedObelisk_Mutator.letterLabel>
+</LanguageData>

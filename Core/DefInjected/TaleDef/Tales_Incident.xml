@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Aurora.label>ავრორა</Aurora.label>
+  <CaravanAmbushedByHumanlike.label>ქარავანი ჩასაფრებული</CaravanAmbushedByHumanlike.label>
+  <CaravanAmbushedByManhunter.label>ქარავანი ჩასაფრებული კაცის მონადირის მიერ</CaravanAmbushedByManhunter.label>
+  <CaravanDemand.label>ქარავნის მოთხოვნა</CaravanDemand.label>
+  <CaravanMeeting.label>საქარავნო შეხვედრა</CaravanMeeting.label>
+  <Eclipse.label>დაბნელება</Eclipse.label>
+  <EndGame_ShipEscape.label>მოგზაურობის შეთავაზება</EndGame_ShipEscape.label>
+  <Flashstorm.label>შტორმი</Flashstorm.label>
+  <Infestation.label>ინვაზია</Infestation.label>
+  <ManhunterPack.label>კაცის მონადირეთა შეკვრა</ManhunterPack.label>
+  <MeteoriteImpact.label>მეტეორიტის ზემოქმედება</MeteoriteImpact.label>
+  <Raid.label>დარბევა</Raid.label>
+  <ShipPartCrash.label>გემის ნაწილის ავარია</ShipPartCrash.label>
+  <Tornado.label>ტორნადო</Tornado.label>
+  <TornadoFromItem.label>ტორნადო</TornadoFromItem.label>
+  <ToxicFallout.label>ტოქსიკური გამონადენი</ToxicFallout.label>
+  <VolcanicWinter.label>ვულკანური ზამთარი</VolcanicWinter.label>
+</LanguageData>

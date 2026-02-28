@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteTwistedMeat.stages.0.description>ეს იყო ისეთი სქელი და მძაფრი - როგორც კიბოს ჭამა. მინდა გადავაგდო.</AteTwistedMeat.stages.0.description>
+  <AteTwistedMeat.stages.0.label>შეჭამა გრეხილი ხორცი</AteTwistedMeat.stages.0.label>
+  <BecameGhoul.stages.0.description>ეს ცარიელი მზერა... უკვე იქ არიან?</BecameGhoul.stages.0.description>
+  <BecameGhoul.stages.0.label>{0} ღრიალი გახდა</BecameGhoul.stages.0.label>
+  <BlissLobotomy.stages.0.description>ბედნიერი ... კარგი ... ბედნიერი ... თბილი ...</BlissLobotomy.stages.0.description>
+  <BlissLobotomy.stages.0.label>ბლის ლობოტომია</BlissLobotomy.stages.0.label>
+  <Chimera.stages.0.description>ეს უხერხული არსება, გაბზარული ბურღული ხორცი... შემზარავი.</Chimera.stages.0.description>
+  <Chimera.stages.0.label>დაფიქსირდა ქიმერა</Chimera.stages.0.label>
+  <ClosedTheVoid.stages.0.description>არ მჯერა, რომ ეს საბოლოოდ დასრულდა.</ClosedTheVoid.stages.0.description>
+  <ClosedTheVoid.stages.0.label>დახურა სიცარიელე</ClosedTheVoid.stages.0.label>
+  <ClosedTheVoidOpinion.stages.0.label>დახურა სიცარიელე</ClosedTheVoidOpinion.stages.0.label>
+  <DarknessLifted.stages.0.description>საბოლოოდ გაქრა! ისევ შემიძლია სუნთქვა.</DarknessLifted.stages.0.description>
+  <DarknessLifted.stages.0.label>არაბუნებრივი სიბნელე მოიხსნა</DarknessLifted.stages.0.label>
+  <EmbracedTheVoid.stages.0.description>ეს მხოლოდ დასაწყისია.</EmbracedTheVoid.stages.0.description>
+  <EmbracedTheVoid.stages.0.label>მოიცვა სიცარიელე</EmbracedTheVoid.stages.0.label>
+  <HealedMe.stages.0.label>განმკურნა</HealedMe.stages.0.label>
+  <HeardInhumanRambling.stages.0.description>{OTHERPAWN_nameDef} სისულელეს ლაპარაკობს. {OTHERPAWN_pronoun} გიჟია?</HeardInhumanRambling.stages.0.description>
+  <HeardInhumanRambling.stages.0.label>{0} რბოლა</HeardInhumanRambling.stages.0.label>
+  <MutatedMyArm.stages.0.label>მკლავი მომაქცია</MutatedMyArm.stages.0.label>
+  <ObeliskAbduction.stages.0.description>იმ საშინელებამ დამაპატიმრა!</ObeliskAbduction.stages.0.description>
+  <ObeliskAbduction.stages.0.label>ობელისკის გატაცება</ObeliskAbduction.stages.0.label>
+  <ObeliskAbduction.stages.1.description>წმინდა ობელისკმა ამირჩია!</ObeliskAbduction.stages.1.description>
+  <ObeliskAbduction.stages.1.label>ობელისკის გატაცება</ObeliskAbduction.stages.1.label>
+  <PlayedWithCube.stages.0.description>ჩემი მშვენიერი კუბი. ჩემი ძვირფასი კუბი. მე მიყვარს. ძალიან ლამაზია.</PlayedWithCube.stages.0.description>
+  <PlayedWithCube.stages.0.label>კუბის სიხარული</PlayedWithCube.stages.0.label>
+  <PsychicRitualGuilt.stages.0.description>არასწორად მიმაჩნია ამ რიტუალში მონაწილეობა.</PsychicRitualGuilt.stages.0.description>
+  <PsychicRitualGuilt.stages.0.label>{RITUAL} დანაშაული</PsychicRitualGuilt.stages.0.label>
+  <PsychicRitualGuilt.stages.1.description>ეს რიტუალი დანაშაული იყო მისი მსხვერპლის წინააღმდეგ. იქ არ უნდა ვყოფილიყავი.</PsychicRitualGuilt.stages.1.description>
+  <PsychicRitualGuilt.stages.1.label>{RITUAL} დანაშაული</PsychicRitualGuilt.stages.1.label>
+  <PsychicRitualGuilt.stages.2.description>ეს რიტუალი წამების გარდა არაფერი იყო. ეს ბოროტებაა!</PsychicRitualGuilt.stages.2.description>
+  <PsychicRitualGuilt.stages.2.label>{RITUAL} დანაშაული</PsychicRitualGuilt.stages.2.label>
+  <PsychicRitualVictim.stages.0.description>მათ გამომიყენეს თავიანთი გრეხილი ცერემონიისთვის. არასოდეს დამავიწყდება ეს საშინელი გალობა.</PsychicRitualVictim.stages.0.description>
+  <PsychicRitualVictim.stages.0.label>ფსიქიკური რიტუალის მსხვერპლი</PsychicRitualVictim.stages.0.label>
+  <UnnaturalCorpseDestroyed.stages.0.description>ცხედარს ახლაც ვგრძნობ. გარეთ არის. ჩემზე ფიქრობს. მძულს.</UnnaturalCorpseDestroyed.stages.0.description>
+  <UnnaturalCorpseDestroyed.stages.0.label>არაბუნებრივი გვამი გაბრაზებულია</UnnaturalCorpseDestroyed.stages.0.label>
+  <VoidCatharsis.stages.0.description>ჩემს გონებაში სიგიჟის შენობა იყო. წავიდა, ჯერ-ჯერობით.</VoidCatharsis.stages.0.description>
+  <VoidCatharsis.stages.0.label>ბათილი კათარზისი</VoidCatharsis.stages.0.label>
+  <VoidClosed.stages.0.description>ახლა შეგვიძლია უფრო ადვილად დავიძინოთ. ეს ყველაფერი მალე არ დაბრუნდება.</VoidClosed.stages.0.description>
+  <VoidClosed.stages.0.label>სიცარიელე დახურულია</VoidClosed.stages.0.label>
+  <VoidCuriosity.stages.0.description>ჩვენ უნდა ჩავატაროთ ბათილი პროვოკაციული რიტუალი. ვინ იცის, რა ფენომენები შეიძლება აღმოვაჩინოთ?</VoidCuriosity.stages.0.description>
+  <VoidCuriosity.stages.0.label>უქმად ცნობისმოყვარეობა</VoidCuriosity.stages.0.label>
+  <VoidCuriositySatisfied.stages.0.description>არაფერს ვნანობ.</VoidCuriositySatisfied.stages.0.description>
+  <VoidCuriositySatisfied.stages.0.label>დაკმაყოფილებულია ცნობისმოყვარეობა</VoidCuriositySatisfied.stages.0.label>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <AlertVacuumExposure>ვაკუუმის ექსპოზიცია</AlertVacuumExposure>
+  <AlertVacuumExposureDesc>ეს ადამიანები და ცხოველები განიცდიან სივრცის ვაკუუმის ზემოქმედებას:\n{0}\n\nმიიყვანეთ ისინი ზეწოლის ქვეშ, სანამ მოკვდებიან.</AlertVacuumExposureDesc>
+
+  <AlertMechanoidThreat>მექანიკური საფრთხე</AlertMechanoidThreat>
+  <AlertMechanoidThreatDesc>Mechhive ატარებს სკანირებას თქვენი მდებარეობის დასადგენად. ის გამოგიგზავნით მტრულად განწყობილი მექანოიდების მასიურ რეიდს, როდესაც ის დაგიძებნის.\n\nგაექეცით რუკას, სანამ მექანოიდები ჩამოვა!</AlertMechanoidThreatDesc>
+  <AlertMechanoidThreatCritical>შემომავალი მექანოიდები</AlertMechanoidThreatCritical>
+  <AlertMechanoidThreatCriticalDesc>მეხიმ აღმოაჩინა თქვენი მდებარეობა. ის გამოგიგზავნის მტრულად განწყობილი მექანოიდების მრავალ ტალღას.\n\nგაექეცით რუკას, სანამ მექანოიდები ჩამოვა!</AlertMechanoidThreatCriticalDesc>
+
+  
+  <StabilizersRemainingAlertLabel>დარჩენილია სტაბილიზატორები</StabilizersRemainingAlertLabel>
+  <StabilizersRemainingAlertDescription>ცერებრექსის ბირთვი ამჟამად დაუცველია. იპოვნეთ და გაანადგურეთ მისი სტაბილიზატორები, რათა მიიღოთ წვდომა ბირთვზე.</StabilizersRemainingAlertDescription>
+
+  
+  <RelayStabilizersRemainingAlertLabel>დარჩენილია სტაბილიზატორები</RelayStabilizersRemainingAlertLabel>
+  <RelayStabilizersRemainingAlertDescription>რელე ამჟამად დაცულია მიმდებარე სტაბილიზატორებით. გაანადგურეთ ან გატეხეთ ისინი დესტაბილიზაციისთვის.</RelayStabilizersRemainingAlertDescription>
+
+  
+  <SurveyScannerAlertLabel>დაიცავით სკანერი</SurveyScannerAlertLabel>
+  <SurveyScannerAlertDescription>დაიცავით სკანერი კვლევის დასრულებამდე.</SurveyScannerAlertDescription>
+  
+</LanguageData>

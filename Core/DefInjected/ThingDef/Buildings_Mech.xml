@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_MiniSlug.label>მინი-slug</Bullet_MiniSlug.label>
+  <BurningPowerCell.description>დაზიანებული მექანიკური ელექტროენერგიის გამომუშავების ბლოკი. უჯრედი დესტაბილიზებულია მექანოიდის სიკვდილით და წამებში იწვის. როდესაც კრიტიკულად დაზიანდება, ეს უჯრედი აფეთქდება.</BurningPowerCell.description>
+  <BurningPowerCell.label>იწვის დენის უჯრედი</BurningPowerCell.label>
+  <Gloomlight.description>უცნობი ფუნქციის თვითმმართველობით მომუშავე მექანოიდური კვანძი. მექანიკური კვანძების დეკონსტრუქცია შესაძლებელია ღირებული რესურსების მისაღებად - მაგრამ მხოლოდ იმ შემთხვევაში, თუ ისინი ხელუხლებელი იქნება დაჭერილი. შიდა მიკრო დენის ელემენტი აალდება და გააფუჭებს მასალებს, თუ მოწყობილობა ძალიან დიდ დაზიანებას მიიღებს.</Gloomlight.description>
+  <Gloomlight.label>მექანიკური კვანძი</Gloomlight.label>
+  <Gun_MiniTurretMech.description>ავტომატური კოშკზე დამაგრებული შლაგ-მსროლელი.</Gun_MiniTurretMech.description>
+  <Gun_MiniTurretMech.label>მინი-სლაგერი</Gun_MiniTurretMech.label>
+  <Turret_AutoMiniTurret.description>თვითმმართველობის მოძრავი თავდაცვითი კოშკი, რომელიც დამონტაჟებულია სუსტი, მაგრამ შორი მანძილის სლაგ-სროლით. დაზიანებისას შეიძლება აფეთქდეს.</Turret_AutoMiniTurret.description>
+  <Turret_AutoMiniTurret.label>მინი-slugger კოშკი</Turret_AutoMiniTurret.label>
+</LanguageData>

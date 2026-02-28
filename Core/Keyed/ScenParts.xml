@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+
+  <ScenarioTitle>სათაური</ScenarioTitle>
+  <ScenPart_PlayerFaction>თქვენი ფრაქცია იქნება {0}.</ScenPart_PlayerFaction>
+
+  <ScenPart_StartWithPawn>დაიწყეთ 1 ადამიანით.</ScenPart_StartWithPawn>
+  <ScenPart_StartWithPawns>დაიწყეთ {0} ადამიანებით.</ScenPart_StartWithPawns>
+  <ScenPart_StartWithPawns_OutOf>არჩეული</ScenPart_StartWithPawns_OutOf>
+  <RandomPet>შემთხვევითი შინაური ცხოველი</RandomPet>
+
+  <ScenPart_StartingResearchFinished>დაიწყეთ კვლევა: {0}</ScenPart_StartingResearchFinished>
+  
+  <ScenPart_ArriveInDropPods>ჩამოსვლა წვეთოვანი ტოტებით.</ScenPart_ArriveInDropPods>
+
+  <ScenPart_StatFactor>სტატისტიკა "{0}" საყოველთაოდ გამრავლდება {1}-ზე.</ScenPart_StatFactor>
+  
+  <ScenPart_SelectQuestDef>არჩევა</ScenPart_SelectQuestDef>
+
+  
+  <ScenPart_PawnsHaveHediff>{0}-ს აქვს {1} შანსი, დაიწყოს {2}-ით.</ScenPart_PawnsHaveHediff>
+  <ConfigurableSeverity>სიმძიმე: {0}</ConfigurableSeverity>
+
+  <ScenPart_SetNeed>{0}-ს აქვს {1} შანსი, დააყენოს თავისი {2} {3}-სა და {4}-ს შორის.</ScenPart_SetNeed>
+  <ConfigurableLevel>დონე: {0}</ConfigurableLevel>
+
+  <ScenPart_PawnsHaveTrait>{0}-ს აქვს {1} შანსი, დაიწყოს ნიშან-თვისებით: {2}</ScenPart_PawnsHaveTrait>
+  <ScenPart_OnPawnDeathExplode>პერსონაჟები და არსებები ფეთქდებიან სიკვდილზე ({0}, {1} რადიუსი).</ScenPart_OnPawnDeathExplode>
+  <ScenPart_PawnsAreNaked>{0}-ს აქვს {1} შანსი, დაიწყო შიშველი.</ScenPart_PawnsAreNaked>
+  
+  
+  <ScenPart_StartingPawnAgeMin>თქვენი ხალხი იქნება მინიმუმ {0} წლის.</ScenPart_StartingPawnAgeMin>
+  <ScenPart_StartingPawnAgeMax>თქვენი ხალხი მაქსიმუმ {0} წლის იქნება.</ScenPart_StartingPawnAgeMax>
+  <ScenPart_StartingPawnAgeRange>თქვენი ხალხი იქნება {0}-დან {1} წლამდე.</ScenPart_StartingPawnAgeRange>
+
+  <ScenPart_StartWithSpecificColonists>დაიწყეთ {0}-ით.</ScenPart_StartWithSpecificColonists>
+  <PawnCount>{COUNT} {KINDLABEL}</PawnCount>
+  
+  <ScenPart_Error>ამ სცენარში ერთი ან მეტი ნაწილის ჩატვირთვა ვერ მოხერხდა მოდიფიცირებული კონტენტის გამოტოვების გამო.\n\nშეგიძლიათ ჩატვირთოთ სცენარი ყველა საჭირო მოდიფიკაციით, ან ჩატვირთოთ ის მაინც, სცენარის ნაწილების გამოტოვების გარეშე.</ScenPart_Error>
+
+  
+
+  <ScenPart_StartWith>დაიწყეთ</ScenPart_StartWith>
+  <ScenPart_MapScatteredWith>რუკა გაფანტულია</ScenPart_MapScatteredWith>
+  <ScenPart_PermaGameCondition>მუდმივი თამაშის პირობები</ScenPart_PermaGameCondition>
+  <ScenPart_DisableIncident>ინციდენ(ებ)ი გამორთულია</ScenPart_DisableIncident>
+  <ScenPart_CreateIncident>ინციდენტი შეიქმნა</ScenPart_CreateIncident>
+  <ScenPart_DisallowBuilding>ვერასდროს აშენებ</ScenPart_DisallowBuilding>
+
+  
+  
+  <ScenPart_PlanetLayerTag>ტეგი</ScenPart_PlanetLayerTag>
+  <ScenPart_PlanetLayerTag_Error>უნდა ჰქონდეს უნიკალური ტეგი</ScenPart_PlanetLayerTag_Error>
+  
+  <ScenPart_PlanetLayerSettings>პარამეტრები</ScenPart_PlanetLayerSettings>
+  <ScenPart_PlanetLayerSettings_UseDef>გამოიყენეთ პარამეტრების def</ScenPart_PlanetLayerSettings_UseDef>
+  <ScenPart_PlanetLayerSettings_SelectDef>არჩევა</ScenPart_PlanetLayerSettings_SelectDef>
+  <ScenPart_PlanetLayerSettings_Position>პოზიცია</ScenPart_PlanetLayerSettings_Position>
+  <ScenPart_PlanetLayerSettings_Radius>რადიუსი</ScenPart_PlanetLayerSettings_Radius>
+  <ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>გამოიყენეთ ზედაპირის ხედვის კუთხე</ScenPart_PlanetLayerSettings_UseSurfaceViewAngle>
+  <ScenPart_PlanetLayerSettings_ViewAngle>ხედვის კუთხე</ScenPart_PlanetLayerSettings_ViewAngle>
+  <ScenPart_PlanetLayerSettings_ExtraCameraAltitude>კამერის დამატებითი სიმაღლე</ScenPart_PlanetLayerSettings_ExtraCameraAltitude>
+  <ScenPart_PlanetLayerSettings_Subdivisions>დაყოფა</ScenPart_PlanetLayerSettings_Subdivisions>
+  <ScenPart_PlanetLayerSettings_BackgroundOffset>ფონური კამერის ოფსეტური</ScenPart_PlanetLayerSettings_BackgroundOffset>
+  <ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>ფონის პარალაქსი 100 უჯრედზე</ScenPart_PlanetLayerSettings_BackgroundParallaxPerHundred>
+  
+  <ScenPart_PlanetLayerConnections>კავშირები</ScenPart_PlanetLayerConnections>
+  <ScenPart_PlanetLayerConnections_Add>კავშირის დამატება</ScenPart_PlanetLayerConnections_Add>
+  <ScenPart_PlanetLayerConnections_Zoom>არ არის მასშტაბირება</ScenPart_PlanetLayerConnections_Zoom>
+  <ScenPart_PlanetLayerConnections_ZoomIn>მასშტაბირება</ScenPart_PlanetLayerConnections_ZoomIn>
+  <ScenPart_PlanetLayerConnections_ZoomOut>მასშტაბირება</ScenPart_PlanetLayerConnections_ZoomOut>
+  <ScenPart_PlanetLayerConnections_Fuel>საწვავის ღირებულება</ScenPart_PlanetLayerConnections_Fuel>
+  
+  <ScenPart_ForcedMapPlanetLayer>პლანეტის ფენა</ScenPart_ForcedMapPlanetLayer>
+
+</LanguageData>

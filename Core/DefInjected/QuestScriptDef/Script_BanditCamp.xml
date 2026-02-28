@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>ქვესტს ვადა გაუვიდა: [resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.12.node.nodes.0.label>
+  <OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>ქვესტი ვერ მოხერხდა: [resolvedQuestName]</OpportunitySite_BanditCamp.root.nodes.13.node.nodes.0.label>
+  <OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.root.nodes.14.node.nodes.1.nodeIfChosenPawnSignalUsed.label>
+</LanguageData>

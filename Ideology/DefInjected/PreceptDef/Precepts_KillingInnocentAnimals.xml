@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KillingInnocentAnimals_Abhorrent.description>უდანაშაულო ცხოველის მოკვლა საშინლად არაადამიანური ქმედებაა. უდანაშაულო ცხოველები არიან ისინი, ვინც არ ესხმიან თავს, ან ვისაც მხოლოდ ადამიანის პროვოკაცია უბიძგებს თავდასხმაზე.</KillingInnocentAnimals_Abhorrent.description>
+  <KillingInnocentAnimals_Abhorrent.label>საზიზღარი</KillingInnocentAnimals_Abhorrent.label>
+  <KillingInnocentAnimals_Disapproved.description>უდანაშაულო ცხოველის მოკვლა მახინჯი საქციელია. უდანაშაულო ცხოველები არიან ისინი, ვინც არ ესხმიან თავს, ან ვისაც მხოლოდ ადამიანის პროვოკაცია უბიძგებს თავდასხმაზე.</KillingInnocentAnimals_Disapproved.description>
+  <KillingInnocentAnimals_Disapproved.label>არ მოიწონა</KillingInnocentAnimals_Disapproved.label>
+  <KillingInnocentAnimals_Horrible.description>უდანაშაულო ცხოველის მოკვლა საშინელი საქციელია. უდანაშაულო ცხოველები არიან ისინი, ვინც არ ესხმიან თავს, ან ვისაც მხოლოდ ადამიანის პროვოკაცია უბიძგებს თავდასხმაზე.</KillingInnocentAnimals_Horrible.description>
+  <KillingInnocentAnimals_Horrible.label>საზარელი</KillingInnocentAnimals_Horrible.label>
+</LanguageData>

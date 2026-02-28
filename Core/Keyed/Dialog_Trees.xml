@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <FactionGreetingHostile>{0} რამდენიმე ეპითეტს აყრის მიკროფონში და ითიშება.</FactionGreetingHostile>
+  <FactionGreetingHostileAppreciative>{0} მოითხოვს კეთილი ნების გამოხატვის ჟესტს, როგორიცაა საჩუქრების მიტანა {0_possessive} დასახლებაში ან {0_possessive} ფრაქციის პატიმრების უვნებლად გათავისუფლება. მანამდე, {0_pronoun}-ს არ სურს ლაპარაკი.\n\nშეურაცხყოფის მთქმით, {0_pronoun} გათიშულია.</FactionGreetingHostileAppreciative>
+  <FactionGreetingWary>{0} მიესალმება {NEGOTIATOR_labelShort}-ს და ეკითხება, თუ რა ბიზნესს გსურთ გაუმკლავდეთ.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} თბილად მიესალმება {NEGOTIATOR_labelShort}-ს და გეკითხებათ, რისი გაკეთება შეუძლია {LEADER_pronoun}-ს თქვენს დასახმარებლად.</FactionGreetingWarm>
+
+  <WorkTypeDisablesOption>არ გააკეთებს {0}-ს</WorkTypeDisablesOption>
+  <Disconnect>გათიშვა</Disconnect>
+
+  
+  <OfferGift>საჩუქრის შეთავაზება</OfferGift>
+  <MustBeAlly>მოკავშირე უნდა იყოს</MustBeAlly>
+  <NeedGoodwill>გვჭირდება {0} გუდვილი</NeedGoodwill>
+  <NeedSilverLaunchable>გვჭირდება {0} ვერცხლი სავაჭრო შუქურებთან ახლოს</NeedSilverLaunchable>
+  <NotEnoughSilver>არ არის საკმარისი ვერცხლი</NotEnoughSilver>
+  <SilverForGoodwill>{0} ვერცხლი {1} გუდვილისთვის</SilverForGoodwill>
+  <SilverGiftSent>{0} გმადლობთ.\n\n(გუდვილი გაუმჯობესდა {1}-ით)</SilverGiftSent>
+
+  
+  <RequestTrader>მოითხოვეთ სავაჭრო ქარავანი (ღირებულება: {0} გუდვილი)</RequestTrader>
+  <ChooseTraderKind>{0} კითხულობს, როგორი სავაჭრო ქარავანი გინდა.</ChooseTraderKind>
+  <TraderSent>{0} თანახმაა გამოგიგზავნოთ სავაჭრო ქარავანი. რამდენიმე დღეში ჩამოვა.</TraderSent>
+  <WaitTime>დაელოდეთ {0}</WaitTime>
+
+  
+  <RequestOrbitalTrader>მოითხოვეთ ორბიტალური ტრეიდერი (ღირებულება: {0} გუდვილი)</RequestOrbitalTrader>
+  <ChooseOrbitalTraderKind>{0} გეკითხებათ როგორი ორბიტალური ტრეიდერი გსურთ.</ChooseOrbitalTraderKind>
+  <OrbitalTraderSent>{0} მოგთხოვთ ორბიტალურ ტრეიდერს თქვენთან სტუმრობას. რამდენიმე საათში ჩამოვა.</OrbitalTraderSent>
+  
+  
+  <RequestAICoreInformation>მოითხოვეთ {0}-ის მდებარეობა (ღირებულება: {1} ვერცხლი)</RequestAICoreInformation>
+  <RequestAICoreInformationResult>{0} აგზავნის მოთხოვნილ ინფორმაციას და გისურვებთ წარმატებებს.</RequestAICoreInformationResult>
+  <NoKnownAICore>მეტი ლოკაცია ცნობილი არ არის</NoKnownAICore>  
+  
+  
+  <RequestMilitaryAid>მოითხოვეთ სასწრაფო სამხედრო დახმარება (ღირებულება: {0} გუდვილი)</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} არ დაგეხმარებათ სხვა ფრაქციების წინააღმდეგ ბრძოლაში, რომლებიც არ არიან მათი მტრები. ეს მოიცავს ზოგიერთს, ვინც ამჟამად გემუქრებათ, {1}. კიდევ გინდა დახმარების გამოძახება?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>დიახ, მაინც დაურეკეთ მათ.</CallConfirm>
+  <CallCancel>არა, არაუშავს.</CallCancel>
+  <MilitaryAidSent>{0} თანახმაა გამოაგზავნოს მებრძოლები თქვენს დასახმარებლად.</MilitaryAidSent>
+  <CantSendMilitaryAidInTime>{0} ბოდიშს იხდის და ამბობს, რომ ვერ შეძლებენ დროულად მისვლას.\n\n(ამ ფრაქციის ტექნოლოგიის დონე ძალიან დაბალია სატრანსპორტო რგოლებისთვის)</CantSendMilitaryAidInTime>
+  <HostileVisitorsPresent>მტრულად განწყობილი სტუმრები</HostileVisitorsPresent>
+
+</LanguageData>

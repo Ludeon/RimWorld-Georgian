@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Brewing.description>ააშენეთ ლუდსახარში და დუღილის ჭურჭელი, რომ სვია გემრიელ, გემრიელ ლუდად გადააქციოთ.</Brewing.description>
+  <Brewing.label>ლუდის ხარშვა</Brewing.label>
+  <CarpetMaking.description>ქსოვილისგან ლამაზი ხალიჩების ქსოვა.</CarpetMaking.description>
+  <CarpetMaking.label>ხალიჩების დამზადება</CarpetMaking.label>
+  <Cocoa.description>დათესეთ კაკაოს ხეები, რომ შექმნათ თქვენი საკუთარი გემრიელი შოკოლადი. შოკოლადის ჭამა აკმაყოფილებს დასვენების მოთხოვნილებას და ის ასევე ღირებული სავაჭრო პროდუქტია.</Cocoa.description>
+  <Cocoa.label>კაკაოს</Cocoa.label>
+  <ComplexClothing.description>შეკერეთ რთული ტანსაცმელი, როგორიცაა შარვალი, მტვერი და კოვბოის ქუდები.</ComplexClothing.description>
+  <ComplexClothing.label>რთული ტანსაცმელი</ComplexClothing.label>
+  <ComplexFurniture.description>შექმენით რთული ავეჯი, როგორიცაა საწოლები, ბოლო მაგიდები, სასადილო სკამები, სავარძლები, კომოდები, ხელსაწყოების კარადები, ბილიარდის მაგიდები და პოკერის მაგიდები, ვენტილატორები, სარკოფაგები და სხვა.</ComplexFurniture.description>
+  <ComplexFurniture.label>კომპლექსური ავეჯი</ComplexFurniture.label>
+  <Devilstrand.description>დარგე Devilstrand, ნელა მზარდი სოკო, რომელიც იძლევა განსაკუთრებულად გამძლე, სითბოს მდგრად მცენარეულ ბოჭკოს.</Devilstrand.description>
+  <Devilstrand.label>ეშმაკი</Devilstrand.label>
+  <DrugProduction.description>ავაშენოთ წამლების ლაბორატორია ძირითადი წამლების სინთეზისთვის. დამატებითი გამოკვლევაა საჭირო კონკრეტული წამლების დასამზადებლად.</DrugProduction.description>
+  <DrugProduction.label>ნარკოტიკების წარმოება</DrugProduction.label>
+  <GoJuiceProduction.description>აწარმოეთ გო-წვენი, სინთეზური საბრძოლო მოქმედების გამაძლიერებელი პრეპარატი, რომელიც აუმჯობესებს სროლას, აჯანყებას და მოძრაობის უნარს და აქრობს ტკივილს.</GoJuiceProduction.description>
+  <GoJuiceProduction.label>გო-წვენების წარმოება</GoJuiceProduction.label>
+  <Greatbow.description>შექმენით მშვილდოსნები მტრების დიდი მანძილიდან მოსაკლავად.</Greatbow.description>
+  <Greatbow.label>დიდი მშვილდი</Greatbow.label>
+  <LongBlades.description>შექმენით გრძელი ხმლები და შუბები.</LongBlades.description>
+  <LongBlades.label>გრძელი პირები</LongBlades.label>
+  <PassiveCooler.description>გააკეთეთ პასიური გამაგრილებლები, რათა გააციოთ შიდა სივრცეები ელექტროენერგიის გამოყენების გარეშე.</PassiveCooler.description>
+  <PassiveCooler.label>პასიური ქულერი</PassiveCooler.label>
+  <Pemmican.description>გააკეთეთ პემიკანი, ხორცისა და მცენარეული ნივთიერებების შენახული ნაზავი, რომელიც დიდხანს არ ცდება. შესანიშნავია მოგზაურობისთვის.</Pemmican.description>
+  <Pemmican.label>პემიკანი</Pemmican.label>
+  <PenoxycylineProduction.description>აწარმოეთ პენოქსიცილინი, დაავადების პრევენციული პრეპარატი, რომელიც ბლოკავს ჭირის, მალარიის და სხვა მათ დაწყებამდე.</PenoxycylineProduction.description>
+  <PenoxycylineProduction.label>პენოქსიცილინის წარმოება</PenoxycylineProduction.label>
+  <PlateArmor.description>სმიტის ლუქსი ლითონის ან ხისგან დამზადებული ფირფიტის ჯავშანი. ეს მძიმე ჯავშანი შესამჩნევად ანელებს მოძრაობას, მაგრამ იცავს ძალიან ეფექტურად.</PlateArmor.description>
+  <PlateArmor.label>ფირფიტის ჯავშანი</PlateArmor.label>
+  <PsychiteRefining.description>დახვეწეთ ფსიქოიდური ფოთლები ფანტელებად და იაიოებად, ეიფორიული ფსიქიტის წამლის სხვადასხვა ფორმებად.</PsychiteRefining.description>
+  <PsychiteRefining.label>ფსიქიტის დახვეწა</PsychiteRefining.label>
+  <PsychoidBrewing.description>მოამზადეთ ფსიქოიდური ფოთლები მსუბუქად ეიფორიის გამომწვევ და ნარკოტიკულ ჩაის ცეცხლზე ან გაზქურაზე.</PsychoidBrewing.description>
+  <PsychoidBrewing.label>ფსიქოიდების დუღილი</PsychoidBrewing.label>
+  <RecurveBow.description>შექმენით მობრუნებული მშვილდი, ეფექტური და იაფი სროლის იარაღი.</RecurveBow.description>
+  <RecurveBow.label>მობრუნებული მშვილდი</RecurveBow.label>
+  <Smithing.description>შექმენით სამჭედლოები ლითონის იარაღის დასამზადებლად, როგორიცაა დანები, გლადიები და მაკები. დაამუშავეთ ლითონი სუფთა, ლამაზი იატაკის ფილებზე.</Smithing.description>
+  <Smithing.label>სამჭედლო</Smithing.label>
+  <Stonecutting.description>კლდის ნატეხები დაჭერით ქვის ბლოკებად, სამშენებლო სამუშაოებში გამოსაყენებლად. ააშენეთ ლამაზი ქვის ფილა იატაკი ან მახინჯი ბეტონის ბილიკები.</Stonecutting.description>
+  <Stonecutting.label>ქვის ჭრა</Stonecutting.label>
+  <TreeSowing.description>დათესეთ ადგილობრივი ბიომის ბუნებრივი ხეები თქვენს მინდვრებში.</TreeSowing.description>
+  <TreeSowing.label>ხეების თესვა</TreeSowing.label>
+  <WakeUpProduction.description>Synthesize wake-up, სამუშაო შესრულების გამაძლიერებელი პრეპარატი, რომელიც ანაცვლებს ძილის მოთხოვნილებას.</WakeUpProduction.description>
+  <WakeUpProduction.label>გაღვიძების წარმოება</WakeUpProduction.label>
+</LanguageData>

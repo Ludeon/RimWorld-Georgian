@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Beard_Always.description>ამ გენის მატარებლებს ყოველთვის აქვთ სახის სქელი თმა, ქალებსაც კი.</Beard_Always.description>
+  <Beard_Always.label>უნისექსის წვერები</Beard_Always.label>
+  <Beard_BushyOnly.description>ამ გენის მამრობითი სქესის მატარებლები განიცდიან წვერის სწრაფ ზრდას და არასასიამოვნოა წვერის მოჭრა.</Beard_BushyOnly.description>
+  <Beard_BushyOnly.label>მხოლოდ ბუჩქოვანი წვერი</Beard_BushyOnly.label>
+  <Beard_NoBeardOnly.description>ამ გენის მატარებლებს სახეზე თმა არ ეზრდებათ.</Beard_NoBeardOnly.description>
+  <Beard_NoBeardOnly.label>წვერი</Beard_NoBeardOnly.label>
+  <Brow_Heavy.description>ამ გენის მატარებლებს აქვთ გამოჩენილი წარბი.</Brow_Heavy.description>
+  <Brow_Heavy.label>მძიმე წარბი</Brow_Heavy.label>
+  <Eyes_Gray.description>ამ გენის მატარებლებს აქვთ ღია თეთრ-ნაცრისფერი თვალები.</Eyes_Gray.description>
+  <Eyes_Gray.label>ნაცრისფერი თვალები</Eyes_Gray.label>
+  <Eyes_Red.description>ამ გენის მატარებლებს აქვთ ღრმად წითელი პიგმენტური თვალები.</Eyes_Red.description>
+  <Eyes_Red.label>წითელი თვალები</Eyes_Red.label>
+  <FacialRidges.description>ამ გენის მატარებლებს სახეზე კანის აწეული ქედები უჩნდებათ.</FacialRidges.description>
+  <FacialRidges.label>სახის ქედები</FacialRidges.label>
+  <Furskin.description>ამ გენის მატარებლებს მთელ სხეულზე სქელი ბეწვი ზრდიან, რაც მათ ცივი ტემპერატურისგან იცავს.</Furskin.description>
+  <Furskin.label>ბეწვის კანი</Furskin.label>
+  <Hair_BaldOnly.description>ამ გენის მატარებლებს თავზე თმა არ ეზრდებათ.</Hair_BaldOnly.description>
+  <Hair_BaldOnly.label>თმის გარეშე</Hair_BaldOnly.label>
+  <Hair_Grayless.description>ამ გენის მატარებლები ასაკთან ერთად ინარჩუნებენ თმის ბუნებრივ ფერს.</Hair_Grayless.description>
+  <Hair_Grayless.label>ნაცრისფერი თმა</Hair_Grayless.label>
+  <Hair_LongOnly.description>ამ გენის მატარებლებს თავზე თმა ძალიან სწრაფად ეზრდებათ.</Hair_LongOnly.description>
+  <Hair_LongOnly.label>გრძელთმიანი</Hair_LongOnly.label>
+  <Hair_ShortOnly.description>ამ გენის მატარებლებს მხოლოდ მოკლე თმა შეუძლიათ.</Hair_ShortOnly.description>
+  <Hair_ShortOnly.label>მოკლებეწვიანი</Hair_ShortOnly.label>
+  <Skin_Blue.description>ამ გენის მატარებლები წარმოქმნიან პიგმენტს, რომელიც მათ კანს ლურჯ ფერს აქცევს.</Skin_Blue.description>
+  <Skin_Blue.label>ლურჯი კანი</Skin_Blue.label>
+  <Skin_DeepRed.description>ამ გენის მატარებლები აწარმოებენ ღრმა წითელ პიგმენტს, რომელიც მათ კანს თითქმის სისხლიან იერს აძლევს.</Skin_DeepRed.description>
+  <Skin_DeepRed.label>ღრმა წითელი კანი</Skin_DeepRed.label>
+  <Skin_DeepYellow.description>ამ გენის მატარებლები აწარმოებენ პიგმენტს, რომელიც ანიჭებს მათ კანს ღრმა ყვითელ ფერს.</Skin_DeepYellow.description>
+  <Skin_DeepYellow.label>ღრმა ყვითელი კანი</Skin_DeepYellow.label>
+  <Skin_Green.description>ამ გენის მატარებლები წარმოქმნიან პიგმენტს, რომელიც ანიჭებს მათ კანს მწვანე ფერს.</Skin_Green.description>
+  <Skin_Green.label>მწვანე კანი</Skin_Green.label>
+  <Skin_InkBlack.description>ამ გენის მატარებლები აწარმოებენ პიგმენტს, რომელიც მათ კანს ფერმკრთალ შავ ფერს აქცევს თითქმის მუქად, როგორც მელანი.</Skin_InkBlack.description>
+  <Skin_InkBlack.label>მელნის შავი კანი</Skin_InkBlack.label>
+  <Skin_LightGray.description>ამის მატარებლები კანში აწარმოებენ ღია ნაცრისფერ პიგმენტს.</Skin_LightGray.description>
+  <Skin_LightGray.label>ღია ნაცრისფერი კანი</Skin_LightGray.label>
+  <Skin_Orange.description>ამ გენის მატარებლები აწარმოებენ პიგმენტს, რომელიც მათ კანს ნარინჯისფერ ფერს აძლევს.</Skin_Orange.description>
+  <Skin_Orange.label>ფორთოხლის კანი</Skin_Orange.label>
+  <Skin_PaleRed.description>ამ გენის მატარებლები აწარმოებენ პიგმენტს, რომელიც აქცევს მათ კანს ზომიერ წითელ ფერს.</Skin_PaleRed.description>
+  <Skin_PaleRed.label>ღია წითელი კანი</Skin_PaleRed.label>
+  <Skin_PaleYellow.description>ამ გენის მატარებლები წარმოქმნიან პიგმენტს, რომელიც აქცევს მათ კანს ნაცრისფერ ყვითელ ფერს.</Skin_PaleYellow.description>
+  <Skin_PaleYellow.label>ღია ყვითელი კანი</Skin_PaleYellow.label>
+  <Skin_Purple.description>ამ გენის მატარებლები წარმოქმნიან პიგმენტს, რომელიც ანიჭებს მათ კანს მეწამულ ფერს.</Skin_Purple.description>
+  <Skin_Purple.label>მეწამული კანი</Skin_Purple.label>
+  <Skin_SheerWhite.description>ამ გენის მატარებლებს აქვთ გამჭვირვალე თეთრი კანი, კანის ბუნებრივი ტონებისგან განსხვავებით, სპეციალური ინჟინერირებული ამრეკლავი უჯრედის საფარის გამო.</Skin_SheerWhite.description>
+  <Skin_SheerWhite.label>გამჭვირვალე თეთრი კანი</Skin_SheerWhite.label>
+  <Skin_SlateGray.description>ამ გენის მატარებლები აწარმოებენ პიგმენტს, რომელიც მათ კანს ნაცრისფერს აქცევს.</Skin_SlateGray.description>
+  <Skin_SlateGray.label>ფიქალის ნაცრისფერი კანი</Skin_SlateGray.label>
+  <Tail_Furry.description>ამ გენის მატარებლებს უვითარდებათ ფუმფულა კუდი, რომელიც ნაწილობრივ იცავს მათ ცივი ტემპერატურისგან.</Tail_Furry.description>
+  <Tail_Furry.label>ბეწვიანი კუდი</Tail_Furry.label>
+  <Tail_Smooth.description>ამ გენის მატარებლებს ზრდიან წვრილი კუდი, რომელსაც შეუძლია მოხერხებული მეხუთე კიდურის როლი.</Tail_Smooth.description>
+  <Tail_Smooth.label>გლუვი კუდი</Tail_Smooth.label>
+</LanguageData>

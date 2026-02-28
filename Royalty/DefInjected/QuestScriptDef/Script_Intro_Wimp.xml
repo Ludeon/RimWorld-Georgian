@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Intro_Wimp.root.nodes.11.node.nodes.1.inspectString>უნდა წავიდეს შატლით</Intro_Wimp.root.nodes.11.node.nodes.1.inspectString>
+  <Intro_Wimp.root.nodes.11.node.nodes.2.label>შატლი ჩამოვიდა</Intro_Wimp.root.nodes.11.node.nodes.2.label>
+  <Intro_Wimp.root.nodes.15.node.nodes.0.label>სტუმარი გარდაიცვალა: {SUBJECT_definite}</Intro_Wimp.root.nodes.15.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.16.node.nodes.0.label>სტუმარი დარჩა: {SUBJECT_definite}</Intro_Wimp.root.nodes.16.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.17.node.nodes.0.label>არასანქცირებული ოპერაცია: {SUBJECT_definite}</Intro_Wimp.root.nodes.17.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.18.node.nodes.0.label>შეიწოვება ქსენოგერმი: {SUBJECT_definite}</Intro_Wimp.root.nodes.18.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.19.node.nodes.0.label>გადაღებული: {SUBJECT_definite}</Intro_Wimp.root.nodes.19.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.2.title>იეომანი</Intro_Wimp.root.nodes.2.title>
+  <Intro_Wimp.root.nodes.20.node.nodes.0.label>სტუმარი წააგო: {SUBJECT_definite}</Intro_Wimp.root.nodes.20.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.21.node.nodes.0.label>სტუმარი წააგო: {SUBJECT_definite}</Intro_Wimp.root.nodes.21.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.22.node.nodes.0.label>შატლი განადგურდა</Intro_Wimp.root.nodes.22.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.23.node.nodes.0.label>შატლი დარჩა</Intro_Wimp.root.nodes.23.node.nodes.0.label>
+  <Intro_Wimp.root.nodes.26.node.nodes.0.label>ქვესტი ვერ მოხერხდა: [resolvedQuestName]</Intro_Wimp.root.nodes.26.node.nodes.0.label>
+</LanguageData>

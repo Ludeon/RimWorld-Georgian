@@ -1,0 +1,786 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <Confirm>დადასტურება</Confirm>
+  <GoBack>დაბრუნდი</GoBack>
+  <WantToContinue>გსურთ გაგრძელება?</WantToContinue>
+  <OK>OK</OK>
+  <Close>დახურვა</Close>
+  <Accept>მიღება</Accept>
+  <Cancel>გაუქმება</Cancel>
+  <Reset>გადაყენება</Reset>
+  <ResetAll>გადატვირთეთ ყველა</ResetAll>
+  <Disable>გამორთვა</Disable>
+  <Modify>შეცვლა</Modify>
+  <ConfirmSettle>მაინც აქ დასახლდი?</ConfirmSettle>
+  <Add>დამატება</Add>
+  <CannotShoot>სროლა არ შეიძლება</CannotShoot>
+  
+  
+  <GameUpdatedToNewVersionInitial>RimWorld განახლდა {0} ვერსიიდან {1} ვერსიამდე.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>ამან შეიძლება გამოიწვიოს ძველი ვერსიიდან შენახული თამაშებისა და მოდების მუშაობის შეწყვეტა.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>ძველი ვერსიიდან შენახული თამაშები თავსებადი უნდა იყოს, თუმცა ზოგიერთმა მოდმა შეიძლება შეწყვიტოს მუშაობა.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionNonSteam>ვინაიდან ეს არის DRM-ის გარეშე ასლი, შეგიძლიათ ორჯერ დააინსტალიროთ თამაში ორ სხვადასხვა საქაღალდეში, რათა შეძლოთ როგორც ძველი, ასევე ახალი ვერსიების თამაში.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>თუ გსურთ გააგრძელოთ ძველი ვერსია, შეგიძლიათ აირჩიოთ Steam-ის "ბეტას" ფუნქციის გამოყენება.\n\n 1. Steam ბიბლიოთეკაში დააწკაპუნეთ მარჯვენა ღილაკით RimWorld.\n 2. დააწკაპუნეთ Properties.\n 3. დააწკაპუნეთ Betas ჩანართზე.\n 4. აირჩიეთ თქვენთვის სასურველი ვერსია ჩამოსაშლელი მენიუდან.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionSteamController>თუ გსურთ გააგრძელოთ ძველი ვერსია, შეგიძლიათ აირჩიოთ Steam-ის „ბეტას“ ფუნქციის გამოყენება.</GameUpdatedToNewVersionSteamController>
+  
+  
+  <RecoveredFromErrorsDialogTitle>აღდგენილია არათავსებადი ან დაზიანებული რეჟიმის შეცდომებისგან</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>როგორც ჩანს, ზოგიერთი აქტიური რეჟიმი იწვევდა შეცდომებს.\n\nისინი შეუთავსებელი იყო ერთმანეთთან, შექმნილია RimWorld-ის სხვა ვერსიისთვის, ან დაზიანებულია.\n\nყველა რეჟიმი გამორთულია და მათი ხელახლა გააქტიურება შესაძლებელია mods დიალოგში.</RecoveredFromErrorsText>
+  
+  
+  <ErrorWhileLoadingAssetsTitle>შეცდომა აქტივების ჩატვირთვისას</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>თამაშის აქტივების ჩატვირთვისას მოხდა შეცდომა. დამატებითი ინფორმაციისთვის იხილეთ შეცდომების ჟურნალი.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>თამაში ამჟამად მუშაობს პერსონალური მოდიფიკაციებით - მათ შეიძლება გამოიწვიოს ეს პრობლემები ან არ გამოიწვიოს.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>შეცდომა რუკის გენერირებისას</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>ახალი რუკის გენერირებისას მოხდა შეცდომა. დამატებითი ინფორმაციისთვის იხილეთ შეცდომების ჟურნალი.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>შეცდომა რუკის ჩატვირთვისას</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>რუკის ჩატვირთვისას მოხდა შეცდომა. დამატებითი ინფორმაციისთვის იხილეთ შეცდომების ჟურნალი.</ErrorWhileLoadingMap>
+  
+  
+  <ModsChanged>მოდების სია შეიცვალა. თამაში ახლა ავტომატურად გადაიტვირთება.</ModsChanged>
+  <FailedToRestart>რაღაც შეცდომა მოხდა თამაშის გადატვირთვისას. თამაშს არ შეუძლია სრულად განიტვირთოს შეცვლილი კოდი დეაქტივირებული მოდებიდან, ამიტომ დეაქტივირებული მოდებიდან კოდი შეიძლება კვლავ აქტიური იყოს.\n\nრეკომენდებულია გამოტოვოთ და გადატვირთოთ თამაში ახლავე, რომ ყველა რეჟიმი სუფთად ჩაიტვირთოთ.</FailedToRestart>
+  <Restarting>გადატვირთვა</Restarting>
+  
+  
+  <SteamClientMissing>Steam API-ის ინიციალიზაცია ვერ მოხერხდა. შესაძლო მიზეზები:\n\n-Steam არ მუშაობს.\n-გაშვებულია Steam-ის გარედან, steam_appid.txt-ის გარეშე.\n- მუშაობს Steam-ის კლიენტისგან განსხვავებული პრივილეგიებით (მაგ. „ადმინისტრატორის“ სახით).\n\nუმეტეს შემთხვევაში, თქვენი კომპიუტერის გადატვირთვა მოაგვარებს ამ პრობლემას.\n\nთქვენ ვერ შეძლებთ Steam-ის ფუნქციების დაკვრას. ხელმისაწვდომი იყოს.</SteamClientMissing>
+  
+  
+  <InitializingInterface>ინტერფეისის ინიციალიზაცია</InitializingInterface>
+  <UnloadingUnusedAssets>გამოუყენებელი აქტივების გადმოტვირთვა</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>იტვირთება ყველა აქტიური რეჟიმი</LoadingAllActiveMods>
+  <LoadingDefs>დეფსების ჩატვირთვა</LoadingDefs>
+  <LoadingAssets>იტვირთება აქტივები</LoadingAssets>
+  <Initializing>ინიციალიზაცია</Initializing>
+  <LoadingWorld>იტვირთება სამყარო</LoadingWorld>
+  <LoadingMap>რუკის ჩატვირთვა</LoadingMap>
+  <InitializingGame>თამაშის ინიცირება</InitializingGame>
+  <SpawningAllThings>ქვირითის ნივთები</SpawningAllThings>
+  <SpawningColonists>ქვირითის კოლონისტები</SpawningColonists>
+  
+  
+  <SaveGameButton>შენახვა</SaveGameButton>
+  <LoadGameButton>ჩატვირთვა</LoadGameButton>
+  <OverwriteButton>გადაწერა</OverwriteButton>
+  <ConfirmDelete>მართლა წაშალე {0}?</ConfirmDelete>
+  <DeleteThisSavegame>წაშალეთ ეს შენახული თამაში.</DeleteThisSavegame>
+  <SavedAs>შენახულია როგორც {0}.</SavedAs>
+  <NeedAName>გთხოვთ შეიყვანოთ სახელი.</NeedAName>
+  <LoadingLongEvent>ჩატვირთვა</LoadingLongEvent>
+  <SavingLongEvent>შენახვა</SavingLongEvent>
+  <PermadeathModeSaveSuffix>(პერმადეატი)</PermadeathModeSaveSuffix>
+  <SaveIsFromDifferentGameVersion>ჩვენ გაშვებული გვაქვს ვერსია {0}, მაგრამ შენახული მონაცემები არის {1}-დან, რომელიც სრულიად განსხვავებული ვერსიაა.\n\nამ მონაცემების ჩატვირთვის მცდელობა, სავარაუდოდ, არ იმუშავებს.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>ჩვენ გაშვებული გვაქვს ვერსია {0}, მაგრამ შენახული მონაცემები არის {1}-დან, რომელიც სხვა კონსტრუქციაა.\n\nამ მონაცემების ჩატვირთვის მცდელობამ მაინც უნდა იმუშაოს.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>მონაცემების შენახვა შენახულია ჩვენი თამაშის ვერსიით და უნდა იმუშაოს უპრობლემოდ.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>მონაცემების შენახვა უცნობი ფორმატშია და თითქმის არ ჩაიტვირთება სწორად.</SaveIsUnknownFormat>
+  <ProblemSavingFile>{0} ფაილის შენახვისას წარმოიშვა პრობლემა:\n\n{1}\n\nდამატებითი ინფორმაციისთვის იხილეთ შეცდომების ჟურნალი.</ProblemSavingFile>
+  <LoadAnyway>ჩატვირთე მაინც</LoadAnyway>
+  <ChangeLoadedMods>ჩატვირთეთ მოდების სია შენახვიდან</ChangeLoadedMods>
+  <MissingMods>ზოგიერთი რეჟიმი მიუწვდომელია და საჭიროებს ინსტალაციას</MissingMods>
+  <OfficialContent>ოფიციალური შინაარსი</OfficialContent>
+  <ContentActive>აქტიური</ContentActive>
+  <ContentInstalledButNotActive>დაინსტალირებულია, მაგრამ არა აქტიური</ContentInstalledButNotActive>
+  <ContentNotInstalled>არ არის დაინსტალირებული</ContentNotInstalled>
+  
+  
+  <NamePlayerFactionMessage>ვინაიდან, როგორც ჩანს, ცოტა ხნით აქ იქნებით, {0} ფიქრობს, რომ თქვენს ფრაქციას სახელი უნდა მისცეთ. რა უნდა ერქვას თქვენს ფრაქციას?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>თქვენი ფრაქცია ახლა ცნობილია როგორც {0}.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>ეს სახელი არასწორია.</PlayerFactionNameIsInvalid>
+
+  
+  <NamePlayerFactionBaseMessage>{0} ფიქრობს, რომ ამ დასახლებას სახელი უნდა მისცეთ. რა უნდა ერქვას ადგილობრივ დასახლებას?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>ეს საზოგადოება ახლა ცნობილია როგორც {0}.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>ეს სახელი არასწორია.</PlayerFactionBaseNameIsInvalid>
+  
+  
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>{0} ასევე ფიქრობს, რომ ამ დასახლებას სახელი უნდა მისცეთ. რა უნდა ერქვას ამ ადგილობრივ დასახლებას?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>თქვენი ფრაქცია ახლა ცნობილია როგორც {0} და ეს საზოგადოება ახლა ცნობილია როგორც {1}.</PlayerFactionAndBaseGainsName>
+  
+  
+  <NameIsInvalid>გთხოვთ, შეიყვანოთ სწორი სახელი.</NameIsInvalid>
+  <NameIsInUse>სახელი უკვე გამოიყენება.</NameIsInUse>
+  <ZoneGainsName>ზონას ახლა {0} ჰქვია.</ZoneGainsName>
+  
+  
+  <NameInvalid>არჩეული სახელი არასწორია.</NameInvalid>
+  <PawnGainsName>ამ ადამიანის მეტსახელი ახლა არის {0}. {PAWN_possessive} სათაურია {PAWN_title}.</PawnGainsName>
+  <AnimalGainsName>ცხოველს ახლა {0} ჰქვია.</AnimalGainsName>
+  <RenamePerson>პირის სახელის გადარქმევა</RenamePerson>
+  <Mother>დედა</Mother>
+  <Father>მამა</Father>
+  <Unknown>უცნობი</Unknown>
+  <FirstName>სახელი</FirstName>
+  <NickName>მეტსახელი</NickName>
+  <LastName>გვარი</LastName>
+  <Suggested>შემოთავაზებული</Suggested>
+  
+  
+  <ChooseNewWanderers>აირჩიეთ ახალი მოხეტიალეები</ChooseNewWanderers>
+
+  
+  <VersionMismatch>ვერსიის შეუსაბამობა</VersionMismatch>
+  <SaveGameIncompatibleWarningText>ეს თამაში შენახულია თამაშის {0} ვერსიით\nჩვენ გაშვებული გვაქვს თამაშის ვერსია {1}\n\nამ შენახვის ჩატვირთვამ შეიძლება გამოიწვიოს შეცდომები და ავარია.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>World ფაილი გენერირებულია თამაშის {0} ვერსიით\nჩვენ გაშვებული გვაქვს თამაშის ვერსია {1}\n\nამ სამყაროს ჩატვირთვამ შეიძლება გამოიწვიოს შეცდომები და ავარია. თქვენ ალბათ უნდა შექმნათ ახალი სამყარო ნულიდან.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>ეს ფაილი შენახულია თამაშის {0} ვერსიით\nჩვენ გაშვებული გვაქვს თამაშის ვერსია {1}\n\nამ ფაილის ჩატვირთვამ შეიძლება გამოიწვიოს შეცდომები და ავარია.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>მოდიფიკაციების შეუსაბამობა</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>ეს ფაილი შენახული იყო მოდიფიკაციების სხვა კომპლექტით, რომლებიც ამჟამად გაშვებულია. ამან შეიძლება გამოიწვიოს ან არ გამოიწვიოს პრობლემები, ეს დამოკიდებულია იმაზე, თუ რას აკეთებენ ეს მოდელები.</ModsMismatchWarningText>
+  <ModsMismatchOrderChanged>არცერთი მოდიფიკაცია არ არის დამატებული ან წაშლილი, მაგრამ თქვენი მოდების სიის თანმიმდევრობა შეიცვალა.</ModsMismatchOrderChanged>
+  <ConfirmLoadSaveList>დარწმუნებული ხართ, რომ გსურთ ჩატვირთოთ მოდების სია ამ შენახვის ფაილიდან?</ConfirmLoadSaveList>
+
+  
+  <ConfirmResolutionChange>თქვენ შეცვალეთ თქვენი ეკრანის პარამეტრები. ახლები კარგად მუშაობს?\n\nავტომატური დაბრუნება {0}-ში...</ConfirmResolutionChange>
+  <ResolutionKeep>დატოვება</ResolutionKeep>
+  <ResolutionRevert>დაბრუნება</ResolutionRevert>
+
+  
+  <ConfirmPermanentlyDisableDevMode>ნამდვილად გსურთ ამ კომპიუტერზე განვითარების რეჟიმის სამუდამოდ გამორთვა?\n\nეს ვარიანტი განკუთვნილია მათთვის, ვისაც სურს სუფთა თამაშის გამოცდილება, ცდუნების გარეშე გამოიყენოს განვითარების ხელსაწყოები უპირატესობის მოსაპოვებლად ნორმალურ თამაშში.\n\nგანვითარების რეჟიმის ხელახლა ჩართვა შესაძლებელია, მაგრამ ამისათვის საჭიროა კონფიგურაციის ფაილების ხელით რედაქტირება. თქვენ უნდა მოძებნოთ ინტერნეტი, რათა გაიგოთ როგორ.</ConfirmPermanentlyDisableDevMode>
+
+  
+  <ConfirmResetLearningHelper>დარწმუნებული ხართ, რომ გსურთ სწავლის დამხმარის გადატვირთვა?\n\nყველა ჩანაწერი, რომლის შესახებაც ისწავლეს კონცეფციები, წაიშლება და სისტემა ყველაფერს ნულიდან გასწავლის.</ConfirmResetLearningHelper>
+
+  
+  <RestartAfterImportingLegacyBackstoryTanslations>Backstories ახლა დანერგილია როგორც def და ყველა მემკვიდრეობითი backstory თარგმანი უკვე იმპორტირებულია def თარგმანებში. ფაილი {0} იმპორტირებულია და გადატანილია {1}-ში. ახლა მისი წაშლა შესაძლებელია.\n\nგადატვირთეთ თამაში ცვლილებების ძალაში შესვლისთვის.</RestartAfterImportingLegacyBackstoryTanslations>
+
+  
+  <SelectedCharactersMustInclude>უნდა შეიცავდეს ზუსტად {SUMMARY}</SelectedCharactersMustInclude>
+  <SelectedCharactersMustBeOfAllowedDevelopmentalStages>ყველა კოლონისტი უნდა იყოს {0}</SelectedCharactersMustBeOfAllowedDevelopmentalStages>
+  <SelectedCharacterMustBeCapableOf>მინიმუმ ერთი კოლონისტი უნდა ქონდეს {0}</SelectedCharacterMustBeCapableOf>
+
+  
+  <MapWinterWarning>გაფრთხილება: ზამთარში ჩამოხვალთ. შეიძლება რთული ან თითქმის შეუძლებელი იყოს გადარჩენა. თუ არ აპირებთ ექსტრემალურ გამოწვევას, აირჩიეთ სხვა სეზონი.</MapWinterWarning>
+  <MapSizePerformanceWarning>თამაში შექმნილია საშუალო ზომის რუქებზე სათამაშოდ. ეს ზომები იძლევა უამრავ სივრცეს!\n\nდიდი რუქების ზომები უბრალოდ არ ამცირებს შესრულებას - ისინი რეალურად არღვევს თამაშის დიზაინს. ხელოვნური ინტელექტი მიიღებს სულელურ გადაწყვეტილებებს და თამაშის ბალანსი სხვადასხვა გზით ცუდად იმოქმედებს. ეს ზომები შედის მხოლოდ ტრადიციისა და ტესტირების მიზეზების გამო, გთხოვთ, არ გამოიყენოთ ისინი კონკრეტული მიზეზის გარეშე.</MapSizePerformanceWarning>
+  <MapSize>რუკის ზომა</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} უჯრედები)</MapSizeDesc>
+  <MapSizeSmall>პატარა</MapSizeSmall>
+  <MapSizeMedium>საშუალო</MapSizeMedium>
+  <MapSizeLarge>დიდი</MapSizeLarge>
+  <MapSizeExtreme>ექსტრემალური (ტესტი)</MapSizeExtreme>
+  <MapStartSeason>საწყისი სეზონი</MapStartSeason>
+  <MapStartSeasonDefault>ავტო</MapStartSeasonDefault>
+  <Notice>შენიშვნა</Notice>
+
+  
+  <Suspended>შეჩერებული</Suspended>
+  <NotSuspended>არ არის შეჩერებული</NotSuspended>
+  <SuspendedAllCaps>შეჩერებულია</SuspendedAllCaps>
+  <RepeatCount>გამეორება:</RepeatCount>
+  <Forever>სამუდამოდ</Forever>
+  <Details>დეტალები</Details>
+  <IngredientSearchRadius>ინგრედიენტის რადიუსი</IngredientSearchRadius>
+  <CurrentlyHave>ამჟამად აქვს</CurrentlyHave>
+  <CountingProducts>დათვლა</CountingProducts>
+  <Infinite>უსასრულო</Infinite>
+  <AllowedSkillRange>დაშვებული {0} უნარი</AllowedSkillRange>
+  <IncompatibleLower>შეუთავსებელი</IncompatibleLower>
+  <AnyWorker>ნებისმიერი მუშაკი</AnyWorker>
+  <Unlimited>შეუზღუდავი</Unlimited>
+  
+  <RecipeCannotHaveTargetCount>(ამ რეცეპტს არ შეიძლება ჰქონდეს სამიზნე რაოდენობა, რადგან მას აქვს მრავალი ან არაპროგნოზირებადი პროდუქტი.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>სამუშაო თანხა</WorkAmount>
+  <MinimumSkills>მინიმალური უნარები:</MinimumSkills>
+  <BillRequires>საჭიროა</BillRequires>
+  <BillNutrition>კვება</BillNutrition>
+  <BillRequiresMayVary>შენიშვნა: მცირე მოცულობის ინგრედიენტები, როგორიცაა ოქრო, საჭიროებს {0}x-ს.</BillRequiresMayVary>
+  <ThisIsSmallVolume>ეს არის მცირე მოცულობის ინგრედიენტი. ეს ნიშნავს, რომ თითოეული "ერთეული" არის მხოლოდ 1/{0}, რამდენიც ნორმალური მოცულობის ინგრედიენტია. ასე რომ, ინგრედიენტების იგივე მოთხოვნის შესავსებად, დაგჭირდებათ {0}x, როგორც ყოველთვის.</ThisIsSmallVolume>
+  <UsableIngredients>ინგრედიენტები</UsableIngredients>
+  <BillRepeatTargetCountShort>{0}-მდე</BillRepeatTargetCountShort>
+
+  <PauseWhenSatisfied>შეაჩერე, როცა კმაყოფილი ხარ</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>პაუზის გაუქმება ზე</UnpauseWhenYouHave>
+  <Paused>შეჩერებული</Paused>
+  <Unpause>გაგრძელება</Unpause>
+
+  <IncludeEquipped>დათვლა აღჭურვილია</IncludeEquipped>
+  <IncludeTainted>გრაფი დაბინძურებული</IncludeTainted>
+  <LimitToAllowedStuff>მხოლოდ ნებადართული ინგრედიენტები</LimitToAllowedStuff>
+  <IncludeFromAll>ყველგან შეხედე</IncludeFromAll>
+  <IncludeSpecific>შეხედე {0}-ში</IncludeSpecific>
+  <StockpilePlural>საწყობები</StockpilePlural>
+  <ShelfPlural>თაროები</ShelfPlural>
+  <GroupPlural>ჯგუფები</GroupPlural>
+  
+  
+  <Damage>დაზიანება</Damage>
+  <ArmorPenetration>ჯავშანტექნიკის შეღწევა</ArmorPenetration>
+  <ArmorPenetrationExplanation>ჯავშანტექნიკის შეღწევა არის ჯავშნის რაოდენობა, რომელსაც ეს იარაღი უგულებელყოფს ყოველ ჯერზე, როცა სამიზნეს დაარტყამს.\n\nთუ ჯავშანტექნიკის შეღწევა სამიზნის ჯავშანზე მეტია, თითქოს სამიზნე შეუიარაღებელია. წინააღმდეგ შემთხვევაში, ჯავშნის შეღწევა კლდება სამიზნის ჯავშანს.</ArmorPenetrationExplanation>
+  <BuildingDamageFactor>შენობის დაზიანების ფაქტორი</BuildingDamageFactor>
+  <BuildingDamageFactorExplanation>ყველა შენობის დაზიანება მრავლდება ამ მნიშვნელობაზე.</BuildingDamageFactorExplanation>
+  <BuildingDamageFactorImpassable>შენობის დაზიანების ფაქტორი (გაუვალი)</BuildingDamageFactorImpassable>
+  <BuildingDamageFactorImpassableExplanation>ყველა გაუვალი შენობის დაზიანება მრავლდება ამ მნიშვნელობაზე.</BuildingDamageFactorImpassableExplanation>
+  <BuildingDamageFactorPassable>შენობის დაზიანების ფაქტორი (გამტარი)</BuildingDamageFactorPassable>
+  <BuildingDamageFactorPassableExplanation>ყველა გასავლელი შენობის დაზიანება მრავლდება ამ მნიშვნელობაზე.</BuildingDamageFactorPassableExplanation>
+  <Accuracy>სიზუსტე</Accuracy>
+  <BurstShotCount>ადიდებული დარტყმების რაოდენობა</BurstShotCount>
+  <WarmupTime>მზადება</WarmupTime>
+  <MeleeWarmupTime>Melee დათბობა</MeleeWarmupTime>
+  <RangedWarmupTime>დამიზნების დრო</RangedWarmupTime>
+  <CooldownTime>გამოყენების დრო</CooldownTime>
+  <DisarmedTime>განიარაღება</DisarmedTime>
+  <ChargingTime>დამუხტვა</ChargingTime>
+  <ChargingNext>შემდეგი დატენვა ({1}-ისთვის) {0}-ში\nდამუხტვის ციკლი: {2}</ChargingNext>
+  <ShutDown>გათიშეთ</ShutDown>
+  <BurstShotFireRate>ხანძრის სიჩქარე</BurstShotFireRate>
+  <Range>სროლის დიაპაზონი</Range>
+  <StoppingPower>ძალაუფლების შეჩერება</StoppingPower>
+  <StoppingPowerExplanation>ამ იარაღის დარტყმები შეაძრწუნებს სამიზნეებს, ანელებს მათ მოძრაობას რამდენიმე წამით.\n\nსამიზნეები, რომელთა სხეულის ზომა აღემატება გაჩერების ძალას, არ იმოქმედებს.</StoppingPowerExplanation>
+  <DirectHitChance>პირდაპირი დარტყმის შანსი</DirectHitChance>
+  <MissRadius>მის რადიუსი</MissRadius>
+  <GrowsWild>ველურად იზრდება</GrowsWild>
+  <Harvestable>მოსაკრეფი</Harvestable>
+  <LimitedLifespan>შეზღუდული სიცოცხლის ხანგრძლივობა</LimitedLifespan>
+  <GrowingTime>მზარდი დრო</GrowingTime>
+  <HarvestYield>მოსავლის მოსავალი</HarvestYield>
+  <MinGrowthTemperature>მინიმალური ზრდის ტემპერატურა</MinGrowthTemperature>
+  <MaxGrowthTemperature>ზრდის მაქსიმალური ტემპერატურა</MaxGrowthTemperature>
+  <GrowingTimeDesc>მცენარეები იზრდება მხოლოდ დღის ნაწილის განმავლობაში და მხოლოდ მაშინ, როცა განათებულია.\n\nეს სტატისტიკა ზომავს იმ დროს, რომელიც მცენარეს რეალურად სჭირდება ზრდას, რათა მიაღწიოს სრულ ზომას.\n\nრეალური ზრდის დრო ზოგადად დაახლოებით ორჯერ მეტი იქნება.\nდაბალი ტემპერატურა ასევე ანელებს მცენარის ზრდას.</GrowingTimeDesc>
+  <Days>დღეები</Days>
+  <MinGrowingSkillToSow>თესვის მინიმალური მზარდი უნარი</MinGrowingSkillToSow>
+  <FertilityRequirement>ნაყოფიერების მოთხოვნა</FertilityRequirement>
+  <FertilitySensitivity>ნაყოფიერების მგრძნობელობა</FertilitySensitivity>
+  <LightRequirement>სინათლის მოთხოვნა</LightRequirement>
+  <Attributes>ატრიბუტები</Attributes>
+  <LifeSpan>სიცოცხლის ხანგრძლივობა</LifeSpan>
+  <Nutrition>კვება</Nutrition>
+  <Joy>გართობა</Joy>
+  <FoodQuality>კვების ხარისხი</FoodQuality>
+  <WalkSpeedProperty>სიარული სიჩქარე</WalkSpeedProperty>
+  <MinFoodQuality>მინ. საკვების ხარისხი</MinFoodQuality>
+  <Diet>დიეტა</Diet>
+  <NutritationEatenPerDay>კვების საჭიროება დღეში</NutritationEatenPerDay>
+  <LeatherType>ტყავის ტიპი</LeatherType>
+  <BodySize>სხეულის ზომა</BodySize>
+  <Growth>ზრდა</Growth>
+  <RecruitDifficulty>რეკრუტირების სირთულე</RecruitDifficulty>
+  <MarketValue>საბაზისო ფასი</MarketValue>
+  <Covers>ფარავს</Covers>
+  <CreatedAt>შექმნილია</CreatedAt>
+  <Layer>ფენა</Layer>
+  <CoverEffectiveness>საფარის ეფექტურობა</CoverEffectiveness>
+  <CoverEffectivenessExplanation>რამდენად ეფექტურია ეს, როდესაც გამოიყენება როგორც საფარველი იარაღის ჩხუბში.\n\nუფრო მაღალი პროცენტები დაბლოკავს მეტ გასროლას.</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>გამოცდილების მიღების ფაქტორი</MedicineXpGainFactor>
+  <MoodChange>განწყობის ცვლილება</MoodChange>
+  <Wildness>გარეულობა</Wildness>
+  <WildnessExplanation>ველური არსებების მოთვინიერება, გაწვრთნა და მართვა ბუნებრივად უფრო რთულია.</WildnessExplanation>
+  <TrainingDecayInterval>ვარჯიშის დაშლის ინტერვალი</TrainingDecayInterval>
+  <TamenessWillNotDecay>ძალიან დაბალი ველური ცხოველებისთვის თავმდაბლობა არასოდეს გაფუჭდება.</TamenessWillNotDecay>
+  <TamenessWillNotDecayFenceBlocked>თავმდაბლობა არასოდეს გაფუჭდება იმ ცხოველებისთვის, რომლებიც შეიძლება ინახებოდეს ღობეებს მიღმა.</TamenessWillNotDecayFenceBlocked>
+  <TimeRecordsCategory>დრო</TimeRecordsCategory>
+  <MiscRecordsCategory>სხვადასხვა</MiscRecordsCategory>
+  <Chemical>ქიმიური</Chemical>
+  <HighGain>მაღალი მოგება თითო დოზაზე</HighGain>
+  <HighFallRate>დაცემის მაღალი მაჩვენებელი</HighFallRate>
+  <HighDuration>მაღალი ხანგრძლივობა თითო დოზაზე</HighDuration>
+  <ToleranceGain>ტოლერანტობის მომატება დოზაზე</ToleranceGain>
+  <ToleranceFallRate>ტოლერანტობის დაცემის მაჩვენებელი</ToleranceFallRate>
+  <MinimumToleranceForAddiction>ახალი დამოკიდებულების მინიმალური ტოლერანტობა</MinimumToleranceForAddiction>
+  <SafeDoseInterval>უსაფრთხო დოზების ინტერვალი მოზრდილებისთვის</SafeDoseInterval>
+  <AgeXToY>ასაკი {0}-{1}</AgeXToY>
+  <AgePlus>ასაკი {0}+</AgePlus>
+  <Addictiveness>დამოკიდებულების ახალი შანსი</Addictiveness>
+  <AddictionSeverityInitial>დამოკიდებულების საწყისი სიმძიმე</AddictionSeverityInitial>
+  <AddictionSeverityPerDose>დამოკიდებულების სიმძიმე დოზაზე</AddictionSeverityPerDose>
+  <AddictionNeedOffset>დამოკიდებულების შევსება საჭიროა თითო დოზაზე</AddictionNeedOffset>
+  <AddictionNeedFallRate>ნარკომანიას სჭირდება დაცემის მაჩვენებელი</AddictionNeedFallRate>
+  <AddictionNeedDoseInterval>დამოკიდებულებისთვის საჭიროა დოზების ინტერვალი</AddictionNeedDoseInterval>
+  <AddictionRecoveryTime>დამოკიდებულების აღდგენის დრო</AddictionRecoveryTime>
+  <AddictionCost>დამოკიდებულების ღირებულება</AddictionCost>
+  <RandomODChance>შემთხვევითი დოზის გადაჭარბების შანსი</RandomODChance>
+  <AlwaysSafe>ყოველთვის უსაფრთხოდ</AlwaysSafe>
+  <NeverSafe>არასოდეს უსაფრთხო</NeverSafe>
+  <PerDay>{0} / დღეში</PerDay>
+  <PerHour>{0} / საათში</PerHour>
+  <XpPerHour>{0} XP / საათში</XpPerHour>
+  <PackAnimal>შეკვრა ცხოველი</PackAnimal>
+  <PackAnimalExplanation>მიზანშეწონილია თუ არა ამ ცხოველის გამოყენება ქარავანის შორ მანძილზე ნივთების გადასატანად.</PackAnimalExplanation>
+  <Skill>უნარი</Skill>
+  <SurgerySuccessChanceFactor>წარმატების მაჩვენებლის მულტიპლიკატორი</SurgerySuccessChanceFactor>
+  <SurgeryDeathOnFailChance>სიკვდილის შანსი წარუმატებლობის შემთხვევაში</SurgeryDeathOnFailChance>
+  <WorkSpeedStat>მუშაობის სიჩქარე რეგულირდება</WorkSpeedStat>
+  <EfficiencyStat>გამომავალი რაოდენობა რეგულირდება</EfficiencyStat>
+  <SkillRequiredToBuild>საჭიროა {0} უნარი</SkillRequiredToBuild>
+  <SkillRequiredToBuildExplanation>ასაშენებლად საჭიროა {0}-ის ეს დონე.</SkillRequiredToBuildExplanation>
+  <NuzzleInterval>ნუზლის ინტერვალი</NuzzleInterval>
+  <NuzzleIntervalExplanation>საშუალოდ რამდენად ხშირად აჭიანურებს ცხოველი მეგობარ კოლონისტებს.\n\nდაბუჟება არის ქცევა, რომელსაც იზიარებს ცხოველთა მრავალი სახეობა, როდესაც ცხოველი აჭერს თავის ცხვირს ან მუწუკს მეგობარს სიყვარულის ნიშნად.\nადამიანთა უმეტესობას ეს მიმზიდველია და ის გარკვეული პერიოდის განმავლობაში მათ კარგ ხასიათზე დატოვებს.</NuzzleIntervalExplanation>
+  <HarmedRevengeChance>შურისძიების შანსი ზიანის მიყენებაზე</HarmedRevengeChance>
+  <HarmedRevengeChanceExplanation>შანსი, რომ ეს არსება თავს დაესხმის, როცა ზიანი მიადგება.\n\nეს შანსი იზრდება სამჯერ, თუ თავდამსხმელი უფრო ახლოს არის.\n\nეს შანსი გამოიყენება ყოველი დაზიანების მიყენებისას. ეს ნიშნავს, რომ უფრო ნელი სროლის, უფრო დიდი ზიანის მქონე იარაღები ნაკლებად სავარაუდოა, რომ ამოქმედდეს მას ნადირობის დროს.</HarmedRevengeChanceExplanation>
+  <TameFailedRevengeChance>შურისძიების შანსი მოთვინიერების მარცხი</TameFailedRevengeChance>
+  <TerrainRequirement>რელიეფის მოთხოვნა</TerrainRequirement>
+  <Supports>მხარდაჭერა</Supports>
+  <TrapArmorPenetration>ხაფანგის ჯავშნის შეღწევა</TrapArmorPenetration>
+  <RearmCost>გადაიარაღების ღირებულება</RearmCost>
+  <RearmCostExplanation>საჭირო რესურსები ამ კოშკის გადაიარაღებისთვის</RearmCostExplanation>
+  <RearmCostExplanationDifficulty>გავლენას ახდენს სირთულეზე</RearmCostExplanationDifficulty>
+  <ShotsBeforeRearm>დარტყმები ხელახალი იარაღის წინ</ShotsBeforeRearm>
+  <ShotsBeforeRearmExplanation>რამდენი გასროლა შეუძლია ამ კოშკურას, სანამ ხელახლა შეიარაღდება.</ShotsBeforeRearmExplanation>
+  <PowerConsumption>ენერგიის მოხმარება</PowerConsumption>
+  <Target>სამიზნე</Target>
+  <AbilityTargetDesc>სამიზნეების ტიპები, რომლებზეც შესაძლებელია ამ უნარის გამოყენება.</AbilityTargetDesc>
+  <TargetHuman>ადამიანი</TargetHuman>
+  <TargetAnimal>ცხოველი</TargetAnimal>
+  <TargetSelf>საკუთარი თავი</TargetSelf>
+  <TargetGround>მიწა</TargetGround>
+  <ClickToLearnMore>დააწკაპუნეთ მეტის გასაგებად.</ClickToLearnMore>
+  <ClickToViewFactions>დააწკაპუნეთ ფრაქციების სანახავად.</ClickToViewFactions>
+  <MeditationFocuses>მედიტაციის ფოკუსის ტიპები</MeditationFocuses>
+  <MeditationFocusesUnlocked>ხსნის მედიტაციის ფოკუსის ტიპებს</MeditationFocusesUnlocked>
+  <MeditationFocusesPawnDesc>მედიტაციის ფოკუსის ტიპები ამ ადამიანს შეუძლია გამოიყენოს. მედიტაციის დროს ადამიანს შეუძლია ფოკუსირება მოახდინოს ობიექტზე, რათა გაზარდოს ფსიქოკუსის მომატება - მაგრამ მხოლოდ იმ შემთხვევაში, თუ ეს ობიექტი გთავაზობთ ფოკუსის ტიპს, რომლის გამოყენებაც შეუძლიათ. თითოეული ადამიანის მედიტაციის ტიპები განისაზღვრება მისი წარმოშობის, თვისებების, სოციალური პოზიციის და ა.შ.</MeditationFocusesPawnDesc>
+  <MeditationFocusesDesc>მედიტაციის ფოკუსის ტიპებს გთავაზობთ ეს ობიექტი. მედიტაციურ ადამიანს შეუძლია ფოკუსირება მოახდინოს ამ ობიექტზე ფსიქოკუსის გაძლიერების მიზნით, მაგრამ მხოლოდ იმ შემთხვევაში, თუ შეძლებს გამოიყენოს მისი მედიტაციის ერთ-ერთი სახეობა. თითოეულ ადამიანს შეუძლია გამოიყენოს მედიტაციის სხვადასხვა ტიპები, მათი წარმოშობის, თვისებების, სოციალური პოზიციის და ა.შ.</MeditationFocusesDesc>
+  <MeditationFocusCanUse>შეუძლია {0} ფოკუსის ტიპის გამოყენება, რადგან</MeditationFocusCanUse>
+  <MeditationFocusObjects>{0} ფოკუსირებული ობიექტები</MeditationFocusObjects>
+  <MeditationFocusEnabledByTitle>ფლობს სათაურს: {TITLE} ({FACTION_name}).</MeditationFocusEnabledByTitle>
+  <MeditationFocusEnabledByChildhood>აქვს ბავშვობა</MeditationFocusEnabledByChildhood>
+  <MeditationFocusEnabledByAdulthood>სრულწლოვანება აქვს</MeditationFocusEnabledByAdulthood>
+  <MeditationFocusEnabledByTrait>აქვს თვისება</MeditationFocusEnabledByTrait>
+  <MeditationFocusEnabledByHediff>აქვს ჯანმრთელობის მდგომარეობა</MeditationFocusEnabledByHediff> 
+  <MeditationFocusDisabledByTrait>თვისება არ აქვს</MeditationFocusDisabledByTrait>
+  <EnablesMeditationFocusType>რთავს მედიტაციის ფოკუსის ტიპებს</EnablesMeditationFocusType>
+  
+  
+  <PositiveBuysNegativeSells>პოზიტიური ნომრები იყიდე.\nუარყოფითი ნომრები იყიდება.</PositiveBuysNegativeSells>
+  <BuyPriceDesc>ფასი, რომელსაც იხდით ამის შესაძენად.</BuyPriceDesc>
+  <SellPriceDesc>ფასი, რომელსაც მიიღებთ ამის გაყიდვისთვის.</SellPriceDesc>
+  <PriceTypeDesc>ამ ნივთისთვის ეს ფასია {0}.</PriceTypeDesc>
+  <ColonyCount>ამ ნივთიდან რამდენი აქვს კოლონიას ვაჭრობისთვის მზად.\n\nშეგიძლიათ მიჰყიდოთ საქონელი ორბიტალური ტრეიდერებისთვის, თუ ისინი ორბიტალური სავაჭრო შუქურის მახლობლად არიან.</ColonyCount>
+  <TraderCount>ამ ნივთიდან რამდენი უნდა ივაჭროს ტრეიდერმა.</TraderCount>
+  <AcceptButton>მიღება</AcceptButton>
+  <LoadSelected>არჩეულია ჩატვირთვა</LoadSelected>
+  <ResetButton>გადაყენება</ResetButton>
+  <CancelButton>გაუქმება</CancelButton>
+  <CloseButton>დახურვა</CloseButton>
+  <YourTradeableSilver>თქვენი ვაჭრობადი ვერცხლი: {0}</YourTradeableSilver>
+  <YourTradeableSilverTip>თქვენ შეგიძლიათ ვაჭრობა მხოლოდ ვერცხლით, რომელიც მდებარეობს ორბიტალური სავაჭრო შუქურის მახლობლად და არა სახურავის ქვეშ.</YourTradeableSilverTip>
+  <TraderHasNoMore>ტრეიდერს მეტი არ აქვს.</TraderHasNoMore>
+  <ColonyHasNoMore>აღარ იყიდება.</ColonyHasNoMore>
+  <TraderWillNotTrade>ტრეიდერს არ სურს ამის ყიდვა.</TraderWillNotTrade>
+  <Negotiator>მოლაპარაკე</Negotiator>
+  <NegotiatorTradeDialogInfo>მომლაპარაკებელი: {0} (+{1})</NegotiatorTradeDialogInfo>
+  <NegotiatorTalkingImpaired>თქვენი მომლაპარაკებელი {1_labelShort} არ შეუძლია სწორად ისაუბროს ცუდი ჯანმრთელობის გამო.</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>თქვენი მომლაპარაკებელი {1_labelShort} ვერ უსმენს სათანადოდ ცუდი ჯანმრთელობის გამო.</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>ეს გავლენას მოახდენს ვაჭრობის ფასებზე.\n\nგანიხილეთ უფრო ჯანსაღი მომლაპარაკებლის გამოყენება.</NegotiatorCapacityImpaired>
+  <ConfirmTraderShortFunds>ტრეიდერს აქვს არასაკმარისი ვერცხლი ამ ტრანზაქციის სრულად დასაფარად.  მაინც გააგრძელო?</ConfirmTraderShortFunds>
+  <SortBy>დალაგება</SortBy>
+  <TraderTypePrice>ტრეიდერის ტიპი</TraderTypePrice>
+  <Selling>გაყიდვა</Selling>
+  <Buying>ყიდვა</Buying>
+  <ItemSellPriceFactor>საქონლის გაყიდვის ფასის მულტიპლიკატორი</ItemSellPriceFactor>
+  <DifficultyLevel>სირთულის დონე</DifficultyLevel>
+  <PostCurve>გლობალური პროცესის შემდგომი მრუდი</PostCurve>
+  <YourNegotiatorBonus>თქვენი მოლაპარაკების ბონუსი</YourNegotiatorBonus>
+  <TradeWithFactionBaseBonus>ვაჭრობა ფრაქციის ბაზის ბონუსით</TradeWithFactionBaseBonus>
+  <JoinsAsSlave>უერთდება როგორც მონა</JoinsAsSlave>
+  <JoinsAsColonist>უერთდება როგორც კოლონისტი</JoinsAsColonist>
+  <JoinsAsSlaveDesc>შეძენის შემთხვევაში, ეს ადამიანი შემოუერთდება თქვენს კოლონიას, როგორც მონა.</JoinsAsSlaveDesc> 
+  <JoinsAsColonistDesc>შეძენის შემთხვევაში, ეს ადამიანი შეუერთდება თქვენს კოლონიას, როგორც კოლონისტი.</JoinsAsColonistDesc>
+  <TradingDrugsBonus>ნარკოტიკებით ვაჭრობის ბონუსი</TradingDrugsBonus>
+  <minimum>მინიმუმი</minimum>
+  <FinalPrice>საბოლოო ფასი</FinalPrice>
+  <GiftModeTip>საჩუქრის რეჟიმი - შესთავაზეთ საჩუქრები {0}-ს.</GiftModeTip>
+  <TradeModeTip>ვაჭრობის რეჟიმში დაბრუნება.</TradeModeTip>
+  <TradeCaravanRequestDeniedDueTitle>{FACTION_name}-ს არ სურს ქარავანი გაგზავნოს, რადგან {NEGOTIATOR_nameDef}-ს აკლია {TITLE}-ის საჭირო სათაური.</TradeCaravanRequestDeniedDueTitle>
+  <OrbitalTradeRequestDeniedDueTitle>{FACTION_name}-ს არ სურს ორბიტალური ტრეიდერის გაგზავნა, რადგან {NEGOTIATOR_nameDef}-ს აკლია {TITLE}-ის საჭირო სათაური.</OrbitalTradeRequestDeniedDueTitle>
+
+  
+  <SellableItemsTitle>ნივთებს ეს ტრეიდერი იყიდის</SellableItemsTitle>
+  <TraderNotVisitedYet>არასოდეს ეწვია - მარაგი უცნობია</TraderNotVisitedYet>
+  <TraderRestockedSinceLastVisit>განახლებულია თქვენი ბოლო ვიზიტის შემდეგ</TraderRestockedSinceLastVisit>
+  <NextTraderRestock>შემდეგი მარაგი: {0} დღე</NextTraderRestock>
+  <PawnsTabShort>არსებები</PawnsTabShort>
+  
+  
+  <SelectCaravanOrigin>აირჩიეთ კოლონია ქარავნის გასაგზავნად</SelectCaravanOrigin> 
+  <SelectCaravanDesc>გაგზავნეთ ქარავანი {0}-დან.</SelectCaravanDesc> 
+  <SelectCaravanColonists>კოლონისტები</SelectCaravanColonists>
+  
+  
+  <FormCaravan>ჩამოაყალიბეთ ქარავანი</FormCaravan>
+  <Send>გაგზავნა</Send>
+  <FormCaravanColonyThingCountTip>ნომერი ხელმისაწვდომია ქარავანთან გასაგზავნად.</FormCaravanColonyThingCountTip>
+  <TransporterColonyThingCountTip>ტრანსპორტირებისთვის ხელმისაწვდომი ნომერი.</TransporterColonyThingCountTip>
+  <TransferMapPortalColonyThingCountTip>ნომერი ხელმისაწვდომია გადასატანად.</TransferMapPortalColonyThingCountTip>
+  <PawnsTab>ადამიანები და ცხოველები</PawnsTab>
+  <ItemsTab>ნივთები</ItemsTab>
+  <TravelSupplies>სამოგზაურო მარაგი</TravelSupplies>
+  <CaravanMustHaveAtLeastOneColonist>თქვენ უნდა დანიშნოთ მინიმუმ ერთი არადაგდებული კოლონისტი.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>არჩეული გასასვლელი მდებარეობა ({0}) მიუწვდომელია.</CaravanCouldNotFindExitSpot>
+  <CaravanCouldNotFindPackingSpot>ვერ ვიპოვე მოქმედი შესაფუთი ადგილი. დარწმუნდით, რომ არჩეული გასასვლელი ადგილი ({0}) ხელმისაწვდომია.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindReachableExitSpot>გაფრთხილება: ზოგიერთი მინიჭებული კოლონისტი ვერ აღწევს გასასვლელ ადგილს ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanRoamerCannotReachSpots>{1_labelShort}-ს არ შეუძლია მიაღწიოს შეფუთვის ადგილზე ან გასასვლელის ადგილს, როდესაც მას ხელმძღვანელობს რომელიმე დანიშნული კოლონისტი.</CaravanRoamerCannotReachSpots>
+  <CaravanItemIsUnreachableSingle>ვერც ერთი დანიშნული კოლონისტი ვერ აღწევს {0}-ს.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>ვერც ერთი დანიშნული კოლონისტი ვერ აღწევს {0}x {1}-ს.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>ქარავანი ამდენს ვერ იტანს.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>მოიცავს გადასატან ნივთებს და აღჭურვილ ნივთებს. მაქსიმუმზე ნაკლების ტარება იძლევა სიჩქარის ბონუსს.</CaravanMassUsageTooltip>
+  <CaravanVisibilityTip>ხილვადობა არის ის, თუ რამდენად ადვილი შესამჩნევია თქვენი ქარავანი.\n\nეს ამრავლებს შანსს, რომ თქვენი ქარავანი მტრებმა გადააგდონ.\n\nხილვადობა არ მოქმედებს თქვენს უნარზე, იპოვოთ თქვენთვის სასურველი ნივთები.\n\nხილვადობა ეფუძნება ქარავანში მყოფი ყველა ადამიანისა და ცხოველის სხეულის მთლიან ზომას.</CaravanVisibilityTip>
+  <DaysWorthOfFood>კვების დღეები</DaysWorthOfFood>
+  <DaysWorthOfFoodInfoRot>ლპება {0}-ში</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>შეუზღუდავი</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>დღეების სავარაუდო რაოდენობა, სანამ მინიმუმ ერთი ადამიანი ან ცხოველი იქნება საკვების გარეშე. სხვადასხვა სახეობას განსხვავებული დიეტა აქვს, ამიტომ შეიძლება სხვებზე ადრე ამოიწუროს საკვები. ეს მნიშვნელობა უფრო ზუსტად გამოითვლება მარშრუტის არჩევის შემდეგ.\n\nგავლენას ახდენს:\n - ლომბარდის ამჟამინდელი ინვენტარი\n - გადატანილი საკვების ტიპი და რაოდენობა\n - ქარავანის წევრები და მათი დიეტა\n - საკვების მოპოვების მაჩვენებელი\n - შეუძლიათ თუ არა ცხოველებს ძოვება\n - დრო, სანამ საკვები არ გაფუჭდება\n - ცხელი ამინდი უფრო სწრაფად აფუჭებს საკვებს</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_OnlyFirstWaypoint>(მხედველობაში მიიღება მხოლოდ პირველი გზა)</DaysWorthOfFoodTooltip_OnlyFirstWaypoint>
+  <DaysWorthOfFoodWarningDialog>თქვენს ქარავანს აქვს მხოლოდ {0} დღის საკვები და სწრაფად მოშივდება.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodDietWarningDialog>ზოგიერთი ადამიანის დიეტა არ იძლევა თქვენს ქარავანში საკვების უმეტესობას. თუ შიმშილის გამო აიძულებენ მის ჭამას, უბედურები გახდებიან.</DaysWorthOfFoodDietWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>თქვენს ქარავანს საჭმელი არ აქვს და ძალიან მალე მოშივდება.</DaysWorthOfFoodWarningDialog_NoFood>
+  <ForagedFoodPerDayTip>საკვების საშუალო რაოდენობა დღეში, რომელსაც თქვენი ხალხი მოიპოვებს. ეს მნიშვნელობა შეიცვლება, როდესაც მოგზაურობთ ბიომებში საკვების მოსავლიანობის სხვადასხვა მაჩვენებლით.</ForagedFoodPerDayTip>
+  <ForagedFoodPerDay>საკვების მიღება დღეში</ForagedFoodPerDay>
+  <CaravanFoodWillRotSoonWarningDialog>ქარავნის საკვების დიდი ნაწილი მალე ლპება.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanIncapableOfSocial>თქვენ არ გყავთ ქარავანის წევრები, რომლებსაც შეუძლიათ დიპლომატიის ან ვაჭრობის უნარი.</CaravanIncapableOfSocial>
+  <CaravanAreYouSure>დარწმუნებული ხართ, რომ გსურთ შექმნათ ეს ქარავანი?</CaravanAreYouSure>
+  <MessageMustChooseRouteFirst>ჯერ უნდა აირჩიოთ მარშრუტი ქარავანისთვის.</MessageMustChooseRouteFirst>
+  <MessageNoValidExitTile>თქვენი ქარავანი ვერ ახერხებს ტერიტორიის დატოვებას. დარწმუნდით, რომ მინიმუმ ერთი მხარე მიუწვდომელია.</MessageNoValidExitTile>
+  <ItemWeightTip>ამ ნივთის წონა.</ItemWeightTip>
+  <MarketValueTip>საბაზრო ღირებულება</MarketValueTip>
+  <DaysUntilRotTip>დღეების რაოდენობა, სანამ ეს ელემენტი დაიწყებს ლპობას, ამ ზონის საშუალო ტემპერატურის მიხედვით.</DaysUntilRotTip>
+  <ItemNutritionTip>რამდენ საკვებს იძლევა ეს საკვები.\n\nცნობისთვის: ზრდასრულ ადამიანს სჭირდება {0} კვება დღეში.</ItemNutritionTip>
+  <AnimalCanGrazeTip>ამ ცხოველს შეუძლია საკვების ძოვება გარემოდან გადატანილი საკვების ნაცვლად. ძოვება შესაძლებელია მხოლოდ ზოგიერთ ბიომში და ტემპერატურის დიაპაზონში.</AnimalCanGrazeTip>
+  <NutritionForagedPerDayTip>საკვების მიღება დღეში. მიღებული საკვების ფაქტობრივ რაოდენობაზე ასევე გავლენას ახდენს ბიომის საკვების მიღება.\n\n{0}</NutritionForagedPerDayTip>
+  <NutritionEatenPerDayTip>საკვების მიღება დღეში. ცნობისთვის, მარტივ კვებას აქვს {0} კვება.</NutritionEatenPerDayTip>
+  <CanEat>შეუძლია ჭამა</CanEat>
+  <Legend>ლეგენდა</Legend>
+  <MassCarriedSimple>მასა გადაიტანეს</MassCarriedSimple>
+  <MassCapacity>მასობრივი ტევადობა</MassCapacity>
+  <Mass>მასა</Mass>
+  <CaravanMass>საქარავნო მასა</CaravanMass>
+  <EquipmentAndApparelMass>აღჭურვილობისა და ტანსაცმლის მასა</EquipmentAndApparelMass>
+  <InventoryMass>ინვენტარის მასა</InventoryMass>
+  <CaravanFormationProcessStarted>თქვენი კოლონისტები ახლა შეაგროვებენ ნივთებს და დატოვებენ ტერიტორიას.</CaravanFormationProcessStarted>
+  <ReformCaravan>რეფორმის ქარავანი</ReformCaravan>
+  <ColonistsSection>კოლონისტები</ColonistsSection>
+  <PrisonersSection>პატიმრები</PrisonersSection>
+  <CaptureSection>დატყვევება</CaptureSection>
+  <AnimalsSection>ცხოველები</AnimalsSection>
+  <ChooseRouteButton>აირჩიეთ მარშრუტი</ChooseRouteButton>
+  <ChangeRouteButton>მარშრუტის შეცვლა</ChangeRouteButton>
+  <AbandonButton>მიტოვება</AbandonButton>
+  <CaravanMovementSpeed>მოძრაობის სიჩქარე</CaravanMovementSpeed>
+  <TilesPerDay>ფილა/დღე</TilesPerDay>
+  <TilesPerDayImmobile>არცერთი - ძალიან მძიმე</TilesPerDayImmobile>
+  <TilesPerDayImmobileShort>არ მოძრაობს</TilesPerDayImmobileShort>
+  <CaravanMovementSpeedTip>მოძრაობის სიჩქარე დამოკიდებულია გადატანილ მასაზე, ცხენოსნობაზე და რელიეფის გადაადგილების სირთულეზე.</CaravanMovementSpeedTip>
+  <AnimalsWillBeAbleToGraze>ცხოველები შეძლებენ ძოვებას</AnimalsWillBeAbleToGraze>
+  <AnimalsCanGraze>ცხოველებს შეუძლიათ ძოვება</AnimalsCanGraze>
+  <PossibleToGrazeFor>({0} მეტი დღით)</PossibleToGrazeFor>
+  <PossibleToGrazeForever>(სამუდამოდ)</PossibleToGrazeForever>
+  <CantGrazeBecauseOfBiome>({0})</CantGrazeBecauseOfBiome>
+  <CantGrazeBecauseOfTemp>(ძალიან ცივი {0} მეტი დღის განმავლობაში)</CantGrazeBecauseOfTemp>
+  <TotalNutrition>სულ კვება</TotalNutrition>
+  <CaravanNotMoving>არ მოძრაობს</CaravanNotMoving>
+  <ForagedNutritionPerDay>საკვები საკვები დღეში</ForagedNutritionPerDay>
+  <FactionType>ფრაქციის ტიპი</FactionType>
+  <TotalBodySize>სხეულის მთლიანი ზომა</TotalBodySize>
+  <AutomaticallySelectTravelSupplies>სამოგზაურო მარაგების ავტომატური არჩევა</AutomaticallySelectTravelSupplies>
+  <CaravanAnimalSick>ეს ცხოველი ავად არის. მას აწუხებს შემდეგი დაავადებები</CaravanAnimalSick>
+
+  
+  <SplitCaravan>გაყოფილი ქარავანი</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>თქვენ უნდა დატოვოთ მინიმუმ ერთი არადაგდებული კოლონისტი.</SourceCaravanMustHaveAtLeastOneColonist>
+  <SplitCaravanThingCountTip>რამდენი ამ ნივთიდან აქვს ქარავანი მზად ახალ ქარავანს მისცეს.</SplitCaravanThingCountTip>
+  
+  
+  <ConfirmAttackFriendlyFaction>დარწმუნებული ხართ, რომ გსურთ {0}-ზე თავდასხმა?\n\nეს {1}-ს თქვენს მიმართ მტრულად აგდებს და ისინი საბოლოოდ დაიწყებენ დარბევას თქვენს კოლონიაში!</ConfirmAttackFriendlyFaction>
+  
+  
+  <LoadTransporters>ჩატვირთეთ {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>მინიჭებული ხალხი და ნივთები ძალიან მძიმეა სატრანსპორტო რგოლებისთვის.</TooBigTransportersMassUsage>
+  <TooBigTransporterSingleMassUsage>დანიშნული ხალხი და ნივთები ძალიან მძიმეა შატლისთვის.</TooBigTransporterSingleMassUsage>
+  <CantSendEmptyTransportPods>თქვენ არ შეგიძლიათ გაგზავნოთ ცარიელი სატრანსპორტო საშუალებები.</CantSendEmptyTransportPods>
+  <CantSendEmptyTransporterSingle>თქვენ არ შეგიძლიათ ცარიელი შატლის გაგზავნა.</CantSendEmptyTransporterSingle>
+  <PawnCantReachTransporters>{1_labelShort} ვერ აღწევს სატრანსპორტო რგოლებს.</PawnCantReachTransporters>
+  <PawnCantReachTransporterSingle>{1_labelShort} ვერ აღწევს შატლს.</PawnCantReachTransporterSingle>
+  <TransporterItemIsUnreachableSingle>არ არსებობს გზა სატრანსპორტო რგოლებსა და {0}-ს შორის.</TransporterItemIsUnreachableSingle>
+  <TransporterSingleItemIsUnreachableSingle>არ არსებობს გზა შატლსა და {0}-ს შორის.</TransporterSingleItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>არ არის გზა სატრანსპორტო რგოლებსა და {0}x {1}-ს შორის.</TransporterItemIsUnreachableMulti>
+  <TransporterSingleItemIsUnreachableMulti>არ არის გზა შატლსა და {0}x {1}-ს შორის.</TransporterSingleItemIsUnreachableMulti>
+  <TransporterSingleTooManyColonists>მაქსიმალური დასაშვებია მხოლოდ {0} კოლონისტები.</TransporterSingleTooManyColonists>
+  
+  
+  <SocialSkillIs>სოციალური უნარი: {0}</SocialSkillIs>
+  
+  
+  <ResearchFinished>კვლევა დასრულდა: {0}</ResearchFinished>
+  <ResearchScreen>კვლევის ეკრანი</ResearchScreen>
+  <ResearchUnknownProjectRevealed>{0}-ის გამოკვლევით თქვენ აღმოაჩინეთ {1} კვლევითი პროექტი.</ResearchUnknownProjectRevealed>
+  
+  
+  <HistoryUploadMessage>გსურთ ატვირთოთ თქვენი თამაშის მონაცემების ჩანაწერები RimWorld სერვერზე, რათა დაეხმაროთ დეველოპერებს თამაშის დაბალანსებაში? თუ თანახმა ხართ, თქვენი მონაცემები აიტვირთება ყოველ {0} დღეში (და ზოგიერთ სხვა იშვიათ შემთხვევებში, როგორიცაა თამაშის დასასრული). კონფიდენციალურობის პარამეტრები შეიძლება შეიცვალოს მოგვიანებით პარამეტრების მენიუში.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>მიუხედავად იმისა, რომ ისტორია ანონიმურად იგზავნება, შეგიძლიათ დაურთოთ თქვენი სახელი.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>თამაშის მონაცემების ატვირთვის დაშვება</HistoryUploadYes>
+  <HistoryUploadNo>არ დაუშვას თამაშის მონაცემების ატვირთვა</HistoryUploadNo>
+  <HistoryUploadYesOnce>ატვირთეთ მხოლოდ ამჯერად</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>ამჯერად არ ატვირთოთ, მოგვიანებით მკითხეთ</HistoryUploadNoOnce>
+  
+  
+  <AvailablePolicies>ხელმისაწვდომი პოლიტიკა</AvailablePolicies>
+  <UnnamedPolicy>უსახელო</UnnamedPolicy>
+  <NewPolicy>ახალი...</NewPolicy>
+  <InvalidName>პოლიტიკის სახელი არასწორია</InvalidName>
+  <DeletePolicyTip>წაშალეთ არჩეული პოლიტიკა.</DeletePolicyTip>
+  <DuplicatePolicyTip>შექმენით არჩეული პოლიტიკის დუბლიკატი.</DuplicatePolicyTip>
+  <RenamePolicyTip>გადარქმევა ეს პოლიტიკა.</RenamePolicyTip>
+  <DefaultPolicyTip>გახადეთ ეს პოლიტიკა ნაგულისხმევ პოლიტიკად, რომელიც მოცემულია ახალ კოლონისტებს.</DefaultPolicyTip>
+  <DeletePolicyConfirm>დარწმუნებული ხართ, რომ გსურთ წაშალოთ პოლიტიკა: {0}?</DeletePolicyConfirm>
+  <DeletePolicyConfirmButton>წაშლა</DeletePolicyConfirmButton>
+  <NoPolicySelected>პოლიტიკა არჩეული არ არის</NoPolicySelected>
+  
+  
+  <ApparelPolicyTitle>ტანსაცმლის პოლიტიკა</ApparelPolicyTitle>
+  <ApparelPolicyTip>შექმენით და მართეთ შაბლონები, რათა აკონტროლოთ, რა ტანსაცმლის ნივთები შეუძლიათ ატარონ კოლონიის წევრებმა.</ApparelPolicyTip>
+  <ApparelPolicy>ტანსაცმლის პოლიტიკა</ApparelPolicy>
+  <OutfitInUse>ტანსაცმლის პოლიტიკა გამოიყენება {0}-ის მიერ.</OutfitInUse>
+  
+  
+  <DrugPolicyTitle>ნარკოტიკების პოლიტიკა</DrugPolicyTitle>
+  <DrugPolicyTip>შექმენით და მართეთ შაბლონები იმის გასაკონტროლებლად, თუ რომელი ნარკოტიკების მოხმარების უფლება აქვთ თქვენს კოლონისტებს.</DrugPolicyTip>
+  <DrugPolicy>ნარკოპოლიტიკა</DrugPolicy>
+  <DrugPolicyInUse>ნარკოტიკების პოლიტიკა გამოიყენება {0}-ის მიერ.</DrugPolicyInUse>
+  <FoodRestrictionInUse>საკვების შეზღუდვა გამოიყენება {0}-ის მიერ.</FoodRestrictionInUse>
+  <AddDrug>წამლის დამატება...</AddDrug>
+  <DrugColumnLabel>პრეპარატი</DrugColumnLabel>
+  <FrequencyColumnLabel>სიხშირე</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>მხოლოდ იმ შემთხვევაში, თუ განწყობა ქვემოთ</MoodThresholdColumnLabel>
+  <JoyThresholdColumnLabel>მხოლოდ იმ შემთხვევაში, თუ დასვენება ქვემოთ</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>შეინახეთ ინვენტარში</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(არა ნარკოტიკი)</NoDrugsBrackets>
+  <EveryDay>ყოველ დღე</EveryDay>
+  <TimesPerDay>{0}-ჯერ დღეში</TimesPerDay>
+  <EveryDays>ყოველ {0} დღეში</EveryDays>
+  <NoDrugUseRequirement>ნებისმიერი</NoDrugUseRequirement>
+  <DeleteDrugTooltip>წაშალეთ ეს პრეპარატი.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>წამლის სახელწოდება.</DrugNameColumnDesc>
+  <FrequencyColumnDesc>რამდენად ხშირად უნდა ეცადონ კოლონისტებმა ამ პრეპარატის მიღება.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>კოლონისტები მიიღებენ ამ პრეპარატს მხოლოდ იმ შემთხვევაში, თუ მათი განწყობის დონე ამ ზღურბლზე დაბალია.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>კოლონისტები მიიღებენ ამ პრეპარატს მხოლოდ იმ შემთხვევაში, თუ მათი რეკრეაციული დონე ამ ზღურბლზე დაბალია.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>წამლის ოდენობა, რომელიც დამატებით უნდა აიღოთ მოხმარებისთვის მისი შეგროვებისას, რათა თავიდან აიცილოთ წამლის მარაგის ყოველ ჯერზე მონახულება.</TakeToInventoryColumnDesc>
+  <DrugUsageTipForAddiction>დამოკიდებულების დროს\n\nგამოიყენეთ ეს წამალი უკვე დამკვიდრებული დამოკიდებულების მოთხოვნილებების დასაკმაყოფილებლად.\n\nინვალიდობის შემთხვევაშიც კი, ზოგიერთი პერსონაჟი, რომელსაც აქვს კონკრეტული თვისებები ან გონებრივი შესვენების დროს, შეუძლია გამოიყენოს ნარკოტიკი მაინც.</DrugUsageTipForAddiction>
+  <DrugUsageTipForJoy>რეკრეაციისთვის\n\nგამოიყენეთ ეს წამალი რეკრეაციისთვის და სოციალური მიზნებისთვის.\n\nინვალიდობის შემთხვევაშიც კი, ზოგიერთ პერსონაჟს, რომელსაც აქვს კონკრეტული თვისებები ან გონებრივი შესვენების დროს, შეუძლია გამოიყენოს ნარკოტიკი მაინც.</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>დაგეგმილია\n\nგამოიყენეთ ეს წამალი განსაზღვრული გრაფიკით, როდესაც დაკმაყოფილებულია კონკრეტული პირობები.</DrugUsageTipScheduled>
+
+  
+  <FoodPolicyTitle>კვების პოლიტიკა</FoodPolicyTitle>
+  <FoodPolicyTip>შექმენით და მართეთ შაბლონები, რომ აკონტროლოთ რა საკვები პროდუქტების ჭამა შეუძლიათ კოლონიის წევრებს.</FoodPolicyTip>
+  <FoodPolicy>კვების პოლიტიკა</FoodPolicy>
+  <AllowFood>საკვების დაშვება</AllowFood>
+  <FoodRestrictionLavish>ფუფუნება</FoodRestrictionLavish>
+  <FoodRestrictionFine>კარგი</FoodRestrictionFine>
+  <FoodRestrictionSimple>მარტივი</FoodRestrictionSimple>
+  <FoodRestrictionPaste>პასტა</FoodRestrictionPaste>
+  <FoodRestrictionRaw>ნედლი</FoodRestrictionRaw>
+  <FoodRestrictionNothing>არაფერი</FoodRestrictionNothing>
+  
+  
+  <ReadingPolicyTitle>კითხულობს პოლიტიკას</ReadingPolicyTitle>
+  <ReadingPolicyTip>შექმენით და მართეთ შაბლონები, რომ აკონტროლოთ რომელი წიგნების წაკითხვის უფლება აქვთ კოლონიის წევრებს.</ReadingPolicyTip>
+  <ReadingPolicy>კითხვის პოლიტიკა</ReadingPolicy>
+  <ReadingPolicyInUse>კითხვის პოლიტიკა გამოიყენება.</ReadingPolicyInUse>
+
+  <AllReadingPolicy>ყველაფერი</AllReadingPolicy>
+  <NoneReadingPolicy>არ არის</NoneReadingPolicy>
+  <TextbookPolicy>სახელმძღვანელოები</TextbookPolicy>
+  <SchematicPolicy>სქემები</SchematicPolicy>
+  <NovelPolicy>რომანები</NovelPolicy>
+  <MapPolicy>რუქები</MapPolicy>
+
+  
+  <DefaultMedicineSettings>მედიცინის ნაგულისხმევი პარამეტრები</DefaultMedicineSettings>
+  <DefaultMedicineSettingsDesc>ეს სამედიცინო პარამეტრები ენიჭება არსებებს, როდესაც ისინი პირველად შეუერთდებიან მოცემულ ჯგუფს. თქვენ შეგიძლიათ ხელით მიანიჭოთ პარამეტრი ინდივიდს მის ჯანმრთელობის ჩანართში.\n\nშენიშვნა: თუ არსება შეუერთდება ახალ ჯგუფს, ის ყოველთვის მიიღებს ამ ჯგუფის პარამეტრებს, მაშინაც კი, თუ თქვენ ადრე მიანიჭეთ მას პარამეტრი.</DefaultMedicineSettingsDesc>
+  
+  <MedGroupDefaults>ნაგულისხმევი</MedGroupDefaults>
+  
+  <MedGroupColonists>კოლონისტები</MedGroupColonists>
+  <MedGroupColonistsDesc>გაათავისუფლე შენი კოლონიის წევრები</MedGroupColonistsDesc>
+  
+  <MedGroupPrisoners>პატიმრები</MedGroupPrisoners>
+  <MedGroupPrisonersDesc>პატიმრები თქვენს კოლონიაში, განურჩევლად ფრაქციისა.</MedGroupPrisonersDesc>
+
+  <MedGroupTamedAnimals>მოთვინიერებული ცხოველები</MedGroupTamedAnimals>
+  <MedGroupTamedAnimalsDesc>თქვენი კოლონიის მიერ მოთვინიერებული ცხოველები.</MedGroupTamedAnimalsDesc>
+
+  <MedGroupFriendlyFaction>მეგობრული ფრაქციის წევრები</MedGroupFriendlyFaction>
+  <MedGroupFriendlyFactionDesc>ადამიანები ან ცხოველები, რომლებიც არიან იმ ფრაქციის ნაწილი, რომელიც მეგობრობს თქვენს ფრაქციასთან (კეთილგანწყობა 75-ზე მეტი).</MedGroupFriendlyFactionDesc>
+  
+  <MedGroupNeutralFaction>ნეიტრალური ფრაქციის წევრები</MedGroupNeutralFaction>
+  <MedGroupNeutralFactionDesc>ადამიანები ან ცხოველები, რომლებიც არიან იმ ფრაქციის ნაწილი, რომელიც ნეიტრალურია თქვენი ფრაქციის მიმართ (-75-დან 75-მდე გუდვილი).</MedGroupNeutralFactionDesc>
+
+  <MedGroupHostileFaction>მტრული ფრაქციის წევრები</MedGroupHostileFaction>
+  <MedGroupHostileFactionDesc>ადამიანები ან ცხოველები, რომლებიც არიან იმ ფრაქციის ნაწილი, რომელიც მტრულად არის განწყობილი თქვენი ფრაქციის მიმართ (კეთილგანწყობა -75 ქვემოთ).</MedGroupHostileFactionDesc>
+
+  <MedGroupNoFaction>სხვა ადამიანები</MedGroupNoFaction>
+  <MedGroupNoFactionDesc>ადამიანები, რომლებიც არ არიან რომელიმე ფრაქციის წევრები.</MedGroupNoFactionDesc>
+  
+  <MedGroupWildlife>ველური ცხოველები</MedGroupWildlife>
+  <MedGroupWildlifeDesc>ცხოველები და სხვა არსებები, რომლებიც არ არიან რომელიმე ფრაქციის წევრები.</MedGroupWildlifeDesc>
+
+  
+  <NoGrowerCanPlant>{0} თესვისთვის საჭიროებს {1} გაფართოების უნარს.\n\nარც ერთ თქვენს არდაკარგულ მწარმოებელს არ აქვს ეს უნარი, ამიტომ ეს მცენარე არ დაითესება.</NoGrowerCanPlant>
+
+  
+  <ConfirmAbandonHomeWithColonyPawns>ზოგიერთი თქვენი კოლონისტი ან ცხოველი ამ მხარეშია. დარწმუნებული ხართ, რომ გსურთ მისი მიტოვება?\n\nშემდეგი ადამიანები და ცხოველები დარჩებიან უკან:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>{0}-ის მიტოვება გამოიწვევს შემდეგ ადამიანებს შემდეგი აზრების გაჩენას:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>ყველა:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  
+  
+  <ConfirmMoveAutoJoinableCaravan>ზოგიერთი ცხოველი ან პატიმარი ცდილობს შეუერთდეს ამ ქარავანს. თუ გადაიტანეთ, ისინი ვეღარ შეძლებენ.\n\nდაგდებული კოლონისტების გარეშე რუკაზე დატოვებული ცხოველები, ტყვეები და ჩამოგდებული კოლონისტები მიტოვებულად ითვლებიან და მტრებმა შეიძლება დაიპყრონ.\n\nდარწმუნებული ხართ, რომ გსურთ თქვენი ქარავნის გადაადგილება?</ConfirmMoveAutoJoinableCaravan>
+  
+  
+  <ConfirmBanishPawnDialog>ნამდვილად გსურთ {1_label}-ის განდევნა?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} დიდი ალბათობით მოკვდება.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>{1_labelShort} მიიღებს შემდეგ ელემენტებს {1_objective}-ით:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>ყველა კოლონისტი მიიღებს შემდეგ აზრებს:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{1_labelShort}-ის განდევნა გამოიწვევს შემდეგ ადამიანებს შემდეგი აზრების გაჩენას:</ConfirmBanishPawnDialog_IndividualThoughts>
+
+  
+  <ConfirmSendNotCompletelyLoadedLaunchable>შემდეგი ჯერ კიდევ უნდა ჩაიტვირთოს</ConfirmSendNotCompletelyLoadedLaunchable>
+  <ConfirmSendLaunchAnyway>გაშვება მაინც?</ConfirmSendLaunchAnyway>
+
+  
+  <ConfirmSettleNearFactionBase>ვინაიდან ეს მდებარეობა {0} ფილების ფარგლებშია სხვა ფრაქციის ბაზაზე, ისინი იგრძნობენ, რომ თქვენ ხელყოფთ მათ მიწას და ამ ფრაქციებთან ურთიერთობა გაუარესდება ყოველ {1} დღეში.</ConfirmSettleNearFactionBase>
+  
+  
+  <ConfirmCleanupTranslationFiles>დარწმუნებული ხართ, რომ გსურთ გაასუფთავოთ ყველა თარგმანის ფაილი {0} ენისთვის?\n\nეს:\n - დაამატებს ჩანაცვლების ველებს გამოტოვებული თარგმანების, დეფინიქციის თარგმანებისთვის და ისტორიებისთვის\n - დაამატეთ ან განაახლეთ კომენტარები, რომლებიც შეიცავს ორიგინალურ, გადაუთარგმნელ ტექსტს\n - გადაიტანეთ ყველა კლავიშიანი და შეყვანილი თარგმანი - გადაიტანეთ ყველა კლავიშიანი და შეყვანილი თარგმანი შესაბამის XML ფორმატში - ყველა ავტომატურ XML ფაილში\n back-compatible def names\n - წაშალეთ ყველა არსებული XML კომენტარი (გარდა სრული სიის ინექციებისა)\n\nარა-XML ფაილები არ წაიშლება და არ შეიცვლება.\n\nდაიმახსოვრეთ, რომ გადატვირთოთ თამაში ენის ფაილების შეცვლის შემდეგ ამ ხელსაწყოს გაშვებამდე, რათა ხელახლა ჩატვირთოთ ყველა მონაცემი.\n\n დარწმუნდით, რომ ამ ხელსაწყოს გამოყენებამდე შექმენით ყველა თარგმანის ფაილის სარეზერვო ასლი.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles_Confirm>დიახ, მე მაქვს სარეზერვო</ConfirmCleanupTranslationFiles_Confirm>
+
+  
+  <TransportersCaravanWillBeImmobile>ქარავანი უმოძრაო იქნება, თუ ცარიელ ფილაზე გადახვალთ. მაინც გავაგრძელო?</TransportersCaravanWillBeImmobile>
+
+  
+  <ConfirmCancelMonumentMarker>ნამდვილად გსურთ ამ ძეგლის მარკერის ამოღება?</ConfirmCancelMonumentMarker>
+
+  
+  <CannotUseAbility>არ შეიძლება {0}-ის გამოყენება</CannotUseAbility>
+  <AbilityRequiresLOS>საჭიროა ხედვის ხაზი</AbilityRequiresLOS>
+  <AbilityEntropyGain>ნერვული სითბოს მომატება</AbilityEntropyGain>
+  <AbilityPsyfocusCost>ფსიფოკუსის ღირებულება</AbilityPsyfocusCost>
+  <AbilityDuration>ეფექტის ხანგრძლივობა</AbilityDuration>
+  <AbilityEffectRadius>ეფექტის რადიუსი</AbilityEffectRadius>
+  <AbilityCastingTime>ჩამოსხმის დრო</AbilityCastingTime>
+  <AbilityCannotHitTarget>არ არის მხედველობის ხაზი სამიზნე.</AbilityCannotHitTarget>
+  <AbilityOutOfRange>სამიზნე დიაპაზონს სცილდება.</AbilityOutOfRange>
+  <AbilityCannotReachTarget>ვერ აღწევს მიზანს.</AbilityCannotReachTarget>
+  <AbilityNotEnoughFreeSpace>არ არის საკმარისი თავისუფალი ადგილი.</AbilityNotEnoughFreeSpace>
+  <AbilityOccupiedCells>უნდა მიზანმიმართული იყოს ცარიელი ადგილი.</AbilityOccupiedCells>
+  <AbilityUnwalkable>უნდა მიზანმიმართული იყოს ფეხით გასავლელი ადგილი.</AbilityUnwalkable>
+  <AbilityRoofed>მიზნად ისახავს გადახურულ ადგილს.</AbilityRoofed>
+  <AbilityCantApplyToMentallyBroken>{0_labelShort} ფსიქიკურად გატეხილია.</AbilityCantApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} არ არის გონებრივად გატეხილი.</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToManhunter>{0_labelShort} არ არის შეშლილი.</AbilityCanOnlyApplyToManhunter>
+  <AbilityCantApplyToScaria>{0_labelShort}-ს აქვს სკარია, რომლის მკურნალობა მხოლოდ სამედიცინო გზით არის შესაძლებელი.</AbilityCantApplyToScaria>
+  <AbilityDoesntWorkOnMentalState>{0} არ მუშაობს '{1}' ფსიქიკურ მდგომარეობაზე.</AbilityDoesntWorkOnMentalState>
+  <AbilityCantApplyNoResistance>{0_labelShort}-ს აქვს ნულოვანი წინააღმდეგობა.</AbilityCantApplyNoResistance>
+  <AbilityCantApplyDowned>{0_labelShort} ჩამოშლილია.</AbilityCantApplyDowned>
+  <AbilityCantApplyOnAsexual>შეუძლებელია გამოყენება: {0} არის ასექსუალური.</AbilityCantApplyOnAsexual>
+  <AbilityCannotCastNoHealableInjury>{PAWN_labelShort}-ს არ აქვს სამკურნალო დაზიანებები.</AbilityCannotCastNoHealableInjury>
+  <AbilityCantApplyWrongAttractionGender>{1_labelShort} არის არასწორი სქესი {0_labelShort}-ისთვის.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyTooYoung>{0_labelShort} ძალიან ახალგაზრდაა.</AbilityCantApplyTooYoung>
+  <AbilityCantApplyOnBaby>არ შეიძლება ბავშვის დამიზნება.</AbilityCantApplyOnBaby>
+  <PsyfocusCostPerMentalBreakIntensity>ფსიქოკუსის ღირებულება გონებრივი შესვენების ინტენსივობისთვის</PsyfocusCostPerMentalBreakIntensity>
+  <AbilityAlreadyInspired>{0_labelShort} უკვე შთაგონებულია.</AbilityAlreadyInspired>
+  <AbilityCantGetInspiredNow>{0_labelShort} ვერ მიიღებს შთაგონებას ახლა.</AbilityCantGetInspiredNow>
+  <AbilityMustBeNotSameIdeo>{0_labelShort} უნდა იყოს განსხვავებული იდეოლიგიისა, ვიდრე {1_labelShort}.</AbilityMustBeNotSameIdeo>
+  <AbilityMustBeSameIdeo>{0_labelShort} უნდა იყოს იგივე იდეოლიგიისა, როგორც {1_labelShort}.</AbilityMustBeSameIdeo>
+  <AbilityMustBeSickOrInjured>{0_labelShort} უნდა იყოს ავად ან დაშავებული.</AbilityMustBeSickOrInjured>
+  <AbilityMustBeSameIdeoCounsel>{0}-ს შეუძლია მხოლოდ {1}-ების რჩევა.</AbilityMustBeSameIdeoCounsel>
+  <AbilityMustBeNotGuilty>{0_labelShort} უკვე ითვლება დამნაშავედ.</AbilityMustBeNotGuilty>
+  <AbilityMustBeHuman>ადამიანზე უნდა იყოს მიზანმიმართული.</AbilityMustBeHuman>
+  <AbilityMustBeHumanNonWild>სამიზნე უნდა იყოს არა ველური ადამიანი.</AbilityMustBeHumanNonWild>
+  <AbilityMustBeAnimal>ცხოველს უნდა დაუმიზნო.</AbilityMustBeAnimal>
+  <AbilityCantApplyUnconscious>{0_labelShort} უგონო მდგომარეობაშია.</AbilityCantApplyUnconscious>
+  <AbilityCantApplyAsleep>{0_labelShort}-ს სძინავს.</AbilityCantApplyAsleep>
+  <AbilityWorldTileImpassable>ეს ფილა გაუვალია.</AbilityWorldTileImpassable>
+  <AbilitySkipToRandomAlly>შემთხვევით მოკავშირეზე გადასვლა</AbilitySkipToRandomAlly>
+  <AbilitySkipToJoinCaravan>გამოტოვეთ ქარავანთან შესაერთებლად</AbilitySkipToJoinCaravan>
+  <AbilityNeedAllyToSkip>საჭიროა მოკავშირე სამიზნე ნავიგაციისთვის</AbilityNeedAllyToSkip>
+  <AbilityNoChunkToSkip>არ არის გამოტოვებული ნაწილი.</AbilityNoChunkToSkip>
+  <PsychicLoveInduceIn>გამოიწვიეთ ფსიქიკური სიყვარული</PsychicLoveInduceIn>
+  <PsychicLoveFor>ფსიქიკური სიყვარული</PsychicLoveFor>
+  <FarskipConfirmTeleportingLodger>თუ {PAWN_labelShort}-ს სხვა რუკაზე ან ქარავანზე გამოტოვებთ, ასოცირებული ქვესტი წარუმატებელი იქნება და {PAWN_pronoun} დაუყოვნებლივ წავა.\n\nნამდვილად გსურთ {PAWN_labelShort}-ის შორს გამოტოვება?</FarskipConfirmTeleportingLodger>
+  
+  <MentalBreakIntensityMinor>მსუბუქი</MentalBreakIntensityMinor>
+  <MentalBreakIntensityMajor>მძიმე</MentalBreakIntensityMajor>
+  <MentalBreakIntensityExtreme>ექსტრემალური</MentalBreakIntensityExtreme>
+
+  
+  <AutoSlaugtherHeaderColLabel>ცხოველი</AutoSlaugtherHeaderColLabel>
+  <AutoSlaugtherHeaderColCurrent>ახლანდელი</AutoSlaugtherHeaderColCurrent>
+  <AutoSlaugtherHeaderColMax>მაქს</AutoSlaugtherHeaderColMax>
+  <AutoSlaugtherHeaderColTotal>სულ</AutoSlaugtherHeaderColTotal>
+  <AutoSlaugtherHeaderColOther>სხვა</AutoSlaugtherHeaderColOther> 
+  <AutoSlaugtherTip>კოლონისტები ჯერ კლავენ არაორსულ ცხოველებს ასაკიდან უმცროსამდე, შემდეგ ფეხმძიმე ცხოველებს უახლესი ორსულობამდე.</AutoSlaugtherTip>
+  <AnimalMaleAdult>ზრდასრული მამაკაცი</AnimalMaleAdult>
+  <AnimalMaleYoung>ახალგაზრდა მამაკაცი</AnimalMaleYoung>
+  <AnimalFemaleAdult>ზრდასრული ქალი</AnimalFemaleAdult>
+  <AnimalFemaleYoung>ახალგაზრდა ქალი</AnimalFemaleYoung>
+  <AnimalPregnant>ფეხმძიმე</AnimalPregnant>
+  <AnimalBonded>შეკავშირებული</AnimalBonded>
+  <AllowSlaughter>დაკვლა</AllowSlaughter>
+
+  <AutoSlaugtherHeaderTooltipLabel>ცხოველი ავტომატურად დაიკვლება.</AutoSlaugtherHeaderTooltipLabel>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>კოლონიაში ცხოველთა ამჟამინდელი რაოდენობა, როგორც მამრი, ასევე მდედრი.</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>ცხოველების მაქსიმალური რაოდენობა კოლონიაში, როგორც მამრს, ასევე მდედრს.\n\nდამმუშავებლები ავტომატურად დაკლავენ ნებისმიერ დამატებით ნივთს.</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipCurrentMales>კოლონიაში გამრავლების ასაკის მამრების ამჟამინდელი რაოდენობა.</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>ახალშობილთა და არასრულწლოვან მამაკაცთა ამჟამინდელი რაოდენობა კოლონიაში.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <AutoSlaugtherHeaderTooltipMaxMales>კოლონიაში გამრავლების ასაკის მამრების მაქსიმალური რაოდენობა.\n\nდამმუშავებლები ავტომატურად დაკლავენ ნებისმიერ დამატებით ნივთს.</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>კოლონიაში ჩვილი და არასრულწლოვანი მამრობითი სქესის მაქსიმალური რაოდენობა.\n\nდამმუშავებლები ავტომატურად მოკლავენ ნებისმიერ დამატებით ნივთს.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>კოლონიაში გამრავლების ასაკის მდედრების ამჟამინდელი რაოდენობა.</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>ახალშობილთა და არასრულწლოვან მდედრთა რაოდენობა კოლონიაში.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <AutoSlaugtherHeaderTooltipMaxFemales>კოლონიაში მდედრობითი სქესის მაქსიმალური რაოდენობა.\n\nდამმუშავებლები ავტომატურად კლავენ ნებისმიერ დამატებით ნივთს.</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>კოლონიაში ჩვილი და არასრულწლოვანი მდედრობითი სქესის მაქსიმალური რაოდენობა.\n\nდამმუშავებლები ავტომატურად მოკლავენ ნებისმიერ დამატებით ნივთს.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <AutoSlaughterHeaderTooltipCurrentPregnant>ორსული ცხოველების ამჟამინდელი რაოდენობა კოლონიაში.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>ნება მიეცით ორსული ცხოველები დაიკლას იმავე სახეობის სხვა მდედრებთან ერთად.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipCurrentBonded>შეკრული ცხოველების ამჟამინდელი რაოდენობა კოლონიაში.</AutoSlaughterHeaderTooltipCurrentBonded>
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>ნება მიეცით შეკრული ცხოველების დაკვლა.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+
+  <AutoSlaughterTooltipSetLimit>დააწკაპუნეთ ცხოველების რაოდენობის ლიმიტის დასაყენებლად.</AutoSlaughterTooltipSetLimit>
+
+  
+  <RoomRequirementNoBeds>არ არის დაშვებული საწოლები</RoomRequirementNoBeds>
+  <RoomRequirementArea>ოთახის ფართი: {0} ფილები</RoomRequirementArea>
+  <RoomRequirementImpressiveness>ოთახის შთამბეჭდავი</RoomRequirementImpressiveness>
+  <RoomRequirementAllFloored>ყველა სართულიანი</RoomRequirementAllFloored>
+  <RoomRequirementAllBraziersMustBeLit>ყველა ბრაზილი უნდა იყოს განათებული</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllFineFloored>ყველა კარგად იატაკით</RoomRequirementAllFineFloored>
+  <RoomRequirementNoProductionFacilities>არ არის დაშვებული სამუშაო ადგილები</RoomRequirementNoProductionFacilities>
+  <RoomRequirementNoAltars>არ არის დაშვებული სამსხვერპლოები</RoomRequirementNoAltars>
+
+  <LifeStageMaxFood>სიცოცხლის მაქსიმალური კვების ფაქტორი</LifeStageMaxFood>
+
+  <ExpandAllCategories>გააფართოვეთ ყველა</ExpandAllCategories>
+  <CollapseAllCategories>ყველა ჩაშალე</CollapseAllCategories>
+
+  <TooltipDyeExplanation>საღებავის მოყვანა შესაძლებელია ტინქტორიისგან ან შეძენილი მოვაჭრეებისგან.</TooltipDyeExplanation>
+
+  <ZoomRange>მასშტაბირების დიაპაზონი {0}</ZoomRange>
+
+  
+  <ColorTemperature>ფერის ტემპერატურა</ColorTemperature>
+  <ChooseAColor>აირჩიეთ ფერი</ChooseAColor>
+  <Red>წით</Red>
+  <Green>მწვანე</Green>
+  <Blue>ლურჯი</Blue>
+  <Hue>ტონი</Hue>
+  <Saturation>გაჯ.</Saturation>
+  <ColorValue>სიკაშკაშე</ColorValue>
+  <Darklight>ბნელი შუქი</Darklight>
+  <NotDarklight>არა მუქი სინათლე</NotDarklight>
+  <CurrentColor>მიმდინარე ფერი</CurrentColor>
+  <OldColor>ძველი ფერი</OldColor>
+  <CommandCopyColorLabel>დააკოპირეთ ფერი</CommandCopyColorLabel>
+  <CommandCopyColorDesc>დააკოპირეთ მიმდინარე ფერი ბუფერში.</CommandCopyColorDesc>
+  <CommandPasteColorLabel>პასტის ფერი</CommandPasteColorLabel>
+  <CommandPasteColorDesc>გადაწერეთ ფერი ბუფერში ფერით.</CommandPasteColorDesc>
+  <ClipboardInvalidColor>ბუფერში არ არის მოქმედი ფერი.</ClipboardInvalidColor>
+  <ColorCopiedSuccessfully>ფერი კოპირებულია ბუფერში.</ColorCopiedSuccessfully>
+  <ColorPastedSuccessfully>განახლებულია ფერი ბუფერიდან.</ColorPastedSuccessfully>
+  <ToggleDarklightOff>შეცვლა ნორმალურ განათებაზე</ToggleDarklightOff>
+  <ToggleDarklightOffDesc>შეცვალეთ ღია ფერი მის ნორმალურ ფერზე.</ToggleDarklightOffDesc>
+  <ToggleDarklightOn>შეცვლა მუქი განათებით</ToggleDarklightOn>
+  <ToggleDarklightOnDesc>შეცვალეთ ღია ფერი მუქ შუქზე.</ToggleDarklightOnDesc>
+  <ColorTemperatureTooltip>აირჩიეთ ფერი ფერის ტემპერატურის დაყენებით. შენიშვნა: ეს გავლენას ახდენს მხოლოდ ვიზუალურ ფერზე და არა სითბოს გამომუშავებაზე.</ColorTemperatureTooltip>
+
+  <CannotShootPawnIsPsychicallyDeaf>{0_labelShort} ფსიქიკურად ყრუა.</CannotShootPawnIsPsychicallyDeaf>
+
+  <SearchTheMap>მოძებნეთ მიმდინარე რუკა.</SearchTheMap>
+  <SearchTheMapDesc>მოძებნეთ მიმდინარე რუკაზე ნივთები, შენობები, ადამიანები, ცხოველები, მცენარეები და სხვა.</SearchTheMapDesc>
+  <SearchTheWorld>მოძებნე სამყარო</SearchTheWorld>
+  <SearchTheWorldDesc>მოძებნეთ მსოფლიოში კონკრეტული ფუნქციები, ღირშესანიშნაობები, ქვესტები ან დასახლებები.</SearchTheWorldDesc>
+  <MapSearchResults>ნაპოვნია {0} შედეგები</MapSearchResults>
+  <MapSearchResultSingular>ნაპოვნია 1 შედეგი</MapSearchResultSingular>
+  <Searching>ძებნა</Searching>
+
+</LanguageData>

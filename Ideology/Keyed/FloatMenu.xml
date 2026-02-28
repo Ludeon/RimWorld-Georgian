@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <IdeoligionForbids>იდეოლიგია კრძალავს</IdeoligionForbids>
+  <OnlyMembersCanBuild>მხოლოდ {0}-ს შეუძლია შექმნა</OnlyMembersCanBuild>
+  <CantStartRitualAlreadyInProgress>{0} უკვე მიმდინარეობს.</CantStartRitualAlreadyInProgress>
+  <CantStartRitualLayer>{RITUAL} ვერ შესრულდება {GERUND} {LAYER}.</CantStartRitualLayer>
+  <CantJoinRitualInExtremeWeather>ერთი ან მეტი მონაწილე ვერ შეუერთდება ექსტრემალური ტემპერატურის გამო.</CantJoinRitualInExtremeWeather>
+  <CantStartRitualTargetIsAlreadyInRitual>{0} უკვე მონაწილეობს რიტუალში.</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualRoleNotAssigned>თქვენ უნდა მიანიჭოთ {0}-ის როლი ამ რიტუალის დასაწყებად.</CantStartRitualRoleNotAssigned>
+  <CantStartRitualNoConvertee>{0}-ზე გადასაყვანი არავინ არის. გჭირდება კოლონისტი, პატიმარი ან სხვა იდეოლიგიის მონა.</CantStartRitualNoConvertee>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} არ შეიძლება იყოს {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} უნდა იყოს {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} ფსიქიკურად ყრუა.</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <CantStartNotEnoughSpaceDuelSpectators>არ არის საკმარისი ადგილი მაყურებლისთვის. უნდა იყოს {MINRADIUS} რადიუსის მკაფიო წრე. საჭიროა მინიმუმ {1} მდგრადი ლაქები ამ რადიუსში.</CantStartNotEnoughSpaceDuelSpectators>
+  <CantStartNotEnoughSpaceDuelDuelists>არ არის საკმარისი ადგილი დუელისტებისთვის. უნდა იყოს {MINRADIUS} რადიუსის მკაფიო წრე. საჭიროა მინიმუმ {1} მდგრადი ლაქები ამ რადიუსში.</CantStartNotEnoughSpaceDuelDuelists>
+  <CantStartNotEnoughSpaceDuelSpeaker>არ არის საკმარისი ადგილი დინამიკისთვის. უნდა იყოს {MINRADIUS} რადიუსის მკაფიო წრე.</CantStartNotEnoughSpaceDuelSpeaker>
+  <CantStartFuneralForSlave>{0_labelShort} არის მონა. მონები არ იღებენ დაკრძალვას.</CantStartFuneralForSlave>
+  <NoSlaveBed>გჭირდებათ მონების საწოლი, რომელიც ხელმისაწვდომია, არ არის დაცული და უსაფრთხო ტემპერატურაზე.</NoSlaveBed>
+  <ReturnToSlaveBed>დაბრუნდი მონის საწოლში</ReturnToSlaveBed>
+  <NotAllowedForFaction>არ დაიშვება ფრაქციაში</NotAllowedForFaction>
+
+  <RemovePrecept>წაშალეთ მითითება</RemovePrecept>
+  <Regenerate>რეგენერაცია</Regenerate>
+  <CannotEdit>რედაქტირება შეუძლებელია</CannotEdit>
+  <NoChoicesAvailable>არჩევანი არ არის ხელმისაწვდომი</NoChoicesAvailable>
+  <RequiredByMeme>მოთხოვნილია მემის {0}-ის მიერ</RequiredByMeme>
+  <Required>სავალდებულო</Required>
+  <StyleCategory>სტილის კატეგორია</StyleCategory>
+  <AddStyleCategory>სტილის კატეგორიის დამატება</AddStyleCategory>
+  <MaxRitualCount>{0}-ზე მეტი რიტუალების დამატება შეუძლებელია.</MaxRitualCount>
+  <MaxRelicCount>{0}-ზე მეტი რელიქვიის დამატება შეუძლებელია.</MaxRelicCount>
+  <MaxMultiRolesCount>არ შეიძლება იყოს {0}-ზე მეტი სპეციალისტი.</MaxMultiRolesCount>
+  <MaxPreceptCount>მაქსიმუმ {0}</MaxPreceptCount>
+  <SetTargetGender>დააყენეთ სქესი</SetTargetGender>
+  <RoleApparelRequirementIncompatibleFaction>უნდა იყოს {0} ფრაქცია</RoleApparelRequirementIncompatibleFaction>
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>ტომი</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>არა-ტომი</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>მოითხოვს რომელიმე ამ მემეს</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <BodyPartAlreadyCovered>არ შეიძლება ჩაიცვას დანიშნულ ტანსაცმელთან ერთად</BodyPartAlreadyCovered>
+  <NoteRoleApparelRequirementEffects>ხალხი კმაყოფილია, როდესაც მათი ტანსაცმლის მოთხოვნები სრულდება და უკმაყოფილოა, როცა მათ არღვევენ.</NoteRoleApparelRequirementEffects>
+  <NeuralSuperchargeNotReady>სუპერჩამუხტი მზად არ არის</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeAlreadyGetting>უკვე მიღების</NeuralSuperchargeAlreadyGetting>
+  <SetApparelType>დააყენეთ ტიპი</SetApparelType>
+
+  <ChangeStyle>სტილის შეცვლა</ChangeStyle>
+  <DeitiesRequired>საჭიროა {0} {DEITYNOUN}</DeitiesRequired>
+  <Deity>ღვთაება</Deity>
+  <RequiresMeme>მემეს მოითხოვს</RequiresMeme>
+  <RequiresOneOfMemes>მოითხოვს ერთ-ერთს</RequiresOneOfMemes>
+  <ConflictsWithMeme>კონფლიქტი მემთან</ConflictsWithMeme>
+  <ConflictsWithMemes>კონფლიქტები მემებთან</ConflictsWithMemes>
+  <IdeoAlreadyHasAltar>შეიძლება ჰქონდეს მხოლოდ ერთი საკურთხეველი/იდეოგრამა</IdeoAlreadyHasAltar>
+  <RecolorApparel>ტანსაცმლის გადაღება</RecolorApparel>
+
+  <InstallRelic>დააინსტალირეთ {0}</InstallRelic>
+  <ExtractRelic>ამონაწერი {0}</ExtractRelic>
+  <ExtractRelicToInventory>ამოიღეთ {0} ინვენტარში ({1})</ExtractRelicToInventory>
+  <NoRelicToInstall>რელიქვია არ არის დასაყენებელი</NoRelicToInstall>
+  <InstallInReliquary>დააინსტალირეთ რელიქვიაში</InstallInReliquary>
+  <NoEmptyReliquary>არ არის ცარიელი ხელმისაწვდომი რელიქვიარი</NoEmptyReliquary>
+
+  <NoWardenOfIdeo>არ არის {MEMBERNAME} მეურვე</NoWardenOfIdeo>
+
+  <RemoveCurrentRole>წაშალეთ მიმდინარე როლი</RemoveCurrentRole>
+
+  <EnterBiosculpterPod>შეიყვანეთ biosculpter pod {0} ციკლისთვის ({1})</EnterBiosculpterPod>
+  <BiosculpterBiotunedToAnother>სხვასთან ბიოტინირდება.</BiosculpterBiotunedToAnother>
+  <UnderMinBiosculpterAgeReversalAge>ასაკის შეცვლისთვის უნდა იყოს {0} წლის.</UnderMinBiosculpterAgeReversalAge>
+  <CarryToBiosculpterPod>გადაიტანეთ {PAWN_labelShort} ბიოსკულპტორზე ({CYCLE} ციკლი)</CarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>ბიოსკულპტერის პოდზე გადატანა შეუძლებელია</CannotCarryToBiosculpterPod>
+  <NoBiosculpterPod>არ არის ხელმისაწვდომი ბიოსკულპტერის პოდი.</NoBiosculpterPod>
+  <BiosculpterNutritionNotLoaded>კვება არ არის დატვირთული</BiosculpterNutritionNotLoaded>
+  <BiosculpterOccupied>დაკავებული</BiosculpterOccupied>
+  <CannotEnter>შესვლა არ შეიძლება</CannotEnter>
+  <BiosculpterCannotStartCycle>{0} ციკლის დაწყება შეუძლებელია</BiosculpterCannotStartCycle>
+  <BiosculpterMissingIngredients>ციკლის ინგრედიენტების პოვნა ვერ ხერხდება ({INGREDIENTS})</BiosculpterMissingIngredients>
+  <BiosculpterNoEligiblePawns>ირგვლივ ვერავინ გამოიყენებს ამას</BiosculpterNoEligiblePawns>
+  <BiosculpterNoEligiblePawnsBiotuned>Biotuned {PAWN_labelShort}-ზე და {PAWN_pronoun} არ არის გარშემო</BiosculpterNoEligiblePawnsBiotuned>
+  <BiosculpterAutoLoadNutritionLabel>ავტომატური დატვირთვის კვება</BiosculpterAutoLoadNutritionLabel>
+  <BiosculpterAutoLoadNutritionDescription>ციკლის გასატარებლად საჭირო საკვების ავტომატურად ჩატვირთვა</BiosculpterAutoLoadNutritionDescription>
+  <BiosculpterAutoAgeReversalLabel>ავტომატური ასაკის შეცვლა {PAWN_labelShort}-ისთვის</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalDescription>ავტომატურად დააკმაყოფილეთ {PAWN_labelShort}-ის სურვილი, ჩაატაროს წლიური ასაკობრივი რევერსიული მკურნალობა ამ პოდში, {PAWN_possessive} რწმენის შესაბამისად. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescriptionFuture>თუ ჩართულია, {PAWN_labelShort} ავტომატურად ჩაატარებს {PAWN_possessive}-ს შემდეგ მკურნალობას {TIME}-ში, თუ პოდი მზად არის.</BiosculpterAutoAgeReversalDescriptionFuture>
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort}-ს უკვე სურს {PAWN_possessive}-ის შემდეგი მკურნალობა და ავტომატურად დაიწყებს მას, თუ ეს ჩართულია.</BiosculpterAutoAgeReversalDescriptionNow>
+  <BiosculpterJobReportCollectIngredients>ინგრედიენტების შეგროვება ბიოსკულპტერის ციკლისთვის</BiosculpterJobReportCollectIngredients>
+</LanguageData>

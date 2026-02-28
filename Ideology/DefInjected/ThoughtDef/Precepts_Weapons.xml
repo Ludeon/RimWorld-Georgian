@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KillWithNobleWeapon.stages.0.description>მე მოვიპოვე გამარჯვება კეთილშობილური იარაღის ტარების დროს!</KillWithNobleWeapon.stages.0.description>
+  <KillWithNobleWeapon.stages.0.label>გამარჯვება კეთილშობილური იარაღით</KillWithNobleWeapon.stages.0.label>
+  <UsedDespisedWeapon.stages.0.description>მე გამოვიყენე ბინძური იარაღი, რომელიც არასოდეს უნდა გამომეყენებინა. როგორ დამამცირებელი.</UsedDespisedWeapon.stages.0.description>
+  <UsedDespisedWeapon.stages.0.label>გამოიყენა საზიზღარი იარაღი</UsedDespisedWeapon.stages.0.label>
+  <WieldingNobleOrDespisedWeapon.stages.0.description>მე ვატარებ {WEAPON_indefinite}. ასეთი კეთილშობილური იარაღი!</WieldingNobleOrDespisedWeapon.stages.0.description>
+  <WieldingNobleOrDespisedWeapon.stages.0.label>ფლობს {WEAPON}</WieldingNobleOrDespisedWeapon.stages.0.label>
+  <WieldingNobleOrDespisedWeapon.stages.1.description>მე ვატარებ {WEAPON_indefinite}. ასეთი საზიზღარი იარაღი!</WieldingNobleOrDespisedWeapon.stages.1.description>
+  <WieldingNobleOrDespisedWeapon.stages.1.label>ფლობს {WEAPON}</WieldingNobleOrDespisedWeapon.stages.1.label>
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientCryptosleepCasket.description>ეს კრიპტოძილის კუბო თითქოს დიდი ხანია აქ არის. ვინ იცის რას შეიძლება შეიცავდეს?</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.label>უძველესი კრიპტოძილის ყუთი</AncientCryptosleepCasket.label>
+  <CaravanPackingSpot.description>განსაზღვრავს ადგილს ცხოველების დასაჭერად და ქარავნების ფორმირებისთვის. კოლონისტები ქარავანის ჩატვირთვისას აქ ცხოველებს დააჭერენ. თქვენ ასევე შეგიძლიათ გამოიყენოთ ისინი სახლიდან შორს შეხვედრების დროს, რათა თავიდან აიცილოთ ცხოველები ხეტიალისგან.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.label>ქარავნის დაჯახების ადგილი</CaravanPackingSpot.label>
+  <CaveExit.description>საბაგირო ხაზი, რომელიც უკავშირდება ზედა ზედაპირს.</CaveExit.description>
+  <CaveExit.label>გამოქვაბულის გასასვლელი</CaveExit.label>
+  <CommsConsole.description>საშუალებას აძლევს რადიო კონტაქტს სხვა ფრაქციებთან და ორბიტალურ ტრეიდერებთან.</CommsConsole.description>
+  <CommsConsole.label>კომისიის კონსოლი</CommsConsole.label>
+  <CryptosleepCasket.description>თვითმოძრავი სარკოფაგი შექმნილია იმისთვის, რომ ადამიანი მრავალი წლის განმავლობაში შეჩერებული ანიმაციის მდგომარეობაში იყოს.</CryptosleepCasket.description>
+  <CryptosleepCasket.label>კრიპტოძილის ყუთი</CryptosleepCasket.label>
+  <DelayedEffecterSpawner.label>დაგვიანებული ეფექტიანი ქვირითი</DelayedEffecterSpawner.label>
+  <EggBox.description>ყუთი რბილი მასალისგან დამზადებული კვერცხების შესანახად. კვერცხების დამდებელი ცხოველები კვერცხებს კვერცხების ყუთებში დადებენ, თუ შეუძლიათ. თქვენი მატარებლები ამოიღებენ ყველა კვერცხს მხოლოდ მაშინ, როდესაც ყუთი სავსეა, დროის დაზოგვის მიზნით. ყუთი ასევე იცავს კვერცხებს გარეთ გაფუჭებისგან, თუმცა არ იცავს ტემპერატურის დაზიანებისგან.</EggBox.description>
+  <EggBox.label>კვერცხის ყუთი</EggBox.label>
+  <FirefoamPopper.description>როდესაც ის აღმოაჩენს ხანძარს, ეს დამცავი მოწყობილობა იფეთქებს და ასხურებს ცეცხლგამძლე ქაფს თავის გარშემო წრიულ ველში. ასევე შესაძლებელია ხელით გააქტიურება.</FirefoamPopper.description>
+  <FirefoamPopper.label>ცეცხლგამძლე პოპერი</FirefoamPopper.label>
+  <Grave.description>ღირსეული საბოლოო დასასვენებელი ადგილი. კოლონისტები მოინახულებენ სრულ საფლავებს მედიტაციური სიხარულის მოსაპოვებლად.</Grave.description>
+  <Grave.label>საფლავი</Grave.label>
+  <GroundPenetratingScanner.description>სენსორული ერთეული, რომელსაც მკვლევარები იყენებენ ჩამარხული რესურსების მოსაძებნად. რესურსის პოვნის შანსი დამოკიდებულია ოპერატორის კვლევის შესაძლებლობებზე. ის ბევრ ელექტროენერგიას მოიხმარს. თუ დამარხულ რესურსს იპოვით, მისი ამოსაღებად ღრმა საბურღი უნდა გამოიყენოთ. სახურავის ქვეშ არ მუშაობს.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.label>მიწაში შეღწევის სკანერი</GroundPenetratingScanner.label>
+  <LongRangeMineralScanner.description>გვერდითი სენსორული ერთეული, რომელსაც მკვლევარები იყენებენ პლანეტაზე კონკრეტული ტიპის მინერალის გამოსავლენად. რესურსის პოვნის შანსი დამოკიდებულია ოპერატორის კვლევის შესაძლებლობებზე. ეს სენსორი შეიძლება მორგებული იყოს კონკრეტული რესურსის ტიპზე. ის ბევრ ელექტროენერგიას მოიხმარს. თუ იპოვით რესურსს, მოგიწევთ იმოგზაუროთ მის შესაგროვებლად.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.label>გრძელვადიანი მინერალური სკანერი</LongRangeMineralScanner.label>
+  <MarriageSpot.description>განსაზღვრავს ადგილს, სადაც გაიმართება ქორწინების ცერემონიები. მაყურებელს შეუძლია ყურება ორივე მხრიდან.</MarriageSpot.description>
+  <MarriageSpot.label>ქორწინების ადგილი</MarriageSpot.label>
+  <MoisturePump.description>ძალიან ნელა ათანაბრებს ტენიანობას მიმდებარე რელიეფში, გარდაქმნის ჭაობებს ან ზედაპირულ წყალს მშრალ მიწად, ხოლო რბილი ქვიშა ჩვეულებრივ ქვიშად. არ მოქმედებს ღრმა წყალზე.</MoisturePump.description>
+  <MoisturePump.label>ტენიანობის ტუმბო</MoisturePump.label>
+  <MultiAnalyzer.description>ზრდის კვლევის სიჩქარეს მაღალტექნოლოგიური კვლევის სკამთან მოთავსებისას და ხსნის ახალ კვლევით პროექტებს. თითოეულ კვლევით სკამს შეუძლია გამოიყენოს მხოლოდ ერთი მრავალ ანალიზატორი.</MultiAnalyzer.description>
+  <MultiAnalyzer.label>მრავალ ანალიზატორი</MultiAnalyzer.label>
+  <OrbitalTradeBeacon.description>საჭიროა ორბიტალური ვაჭრობისთვის. თქვენ შეგიძლიათ მიყიდოთ საქონელი ორბიტალური ტრეიდერებისთვის, თუ ისინი ორბიტალური სავაჭრო შუქურის მახლობლად არიან. შეიძლება განთავსდეს შენობაში.</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.label>ორბიტალური სავაჭრო შუქურა</OrbitalTradeBeacon.label>
+  <PartySpot.description>განსაზღვრავს ადგილს წვეულების მოსაწყობად.</PartySpot.description>
+  <PartySpot.label>წვეულების ადგილი</PartySpot.label>
+  <PenMarker.description>პოსტი ცხოველის კალმის აღმნიშვნელი ნიშნით. ის უნდა განთავსდეს ღობეებით, ბარიკადებით, კედლებითა და კარებით შემოსაზღვრულ ადგილას. თქვენ შეგიძლიათ თითოეულ კალმის მარკერს მიანიჭოთ ცხოველების კომპლექტი, რომლებიც უნდა მიიღონ, ხოლო დამმუშავებლები მიიყვანენ ცხოველებს შესაბამის კალამზე.</PenMarker.description>
+  <PenMarker.label>კალმის მარკერი</PenMarker.label>
+  <PodLauncher.description>საწვავის პორტი ერთი სატრანსპორტო პოდის გასაშვებად. პოდ გამშვებებს შეუძლიათ ჯგუფურად გაშვება - მაგრამ გამშვები უნდა განთავსდეს ერთმანეთის გვერდით.</PodLauncher.description>
+  <PodLauncher.label>pod გამშვები</PodLauncher.label>
+  <Sarcophagus.description>საპატიო მიცვალებულთა ორნამენტირებული სამარხი.</Sarcophagus.description>
+  <Sarcophagus.label>სარკოფაგი</Sarcophagus.label>
+  <SteleGrand.description>კოშკიანი ფილა გვერდებზე ვრცელი გრავიურებით. სტელს უძველესი დროიდან იყენებდნენ პიროვნებების, ბრძოლების და სხვა მნიშვნელოვანი მოვლენების მემორიალიზაციისთვის.</SteleGrand.description>
+  <SteleGrand.label>გრანდიოზული სტელა</SteleGrand.label>
+  <SteleLarge.description>მაღალი, სქელი ფილა გვერდებზე გრავიურებით. სტელს უძველესი დროიდან იყენებდნენ პიროვნებების, ბრძოლების და სხვა მნიშვნელოვანი მოვლენების მემორიალიზაციისთვის.</SteleLarge.description>
+  <SteleLarge.label>დიდი სტელა</SteleLarge.label>
+  <ToolCabinet.description>ზრდის სამუშაო სიჩქარეს სამუშაო მაგიდასთან მოთავსებისას. ერთ სამუშაო მაგიდას შეუძლია გამოიყენოს ორი ხელსაწყოს კარადა.</ToolCabinet.description>
+  <ToolCabinet.label>ხელსაწყოების კარადა</ToolCabinet.label>
+  <TransportPod.description>გასაშვები სატვირთო ყუთი, რომელსაც შეუძლია ხალხის, ნივთების ან ცხოველების გადატანა. შეიძლება გამოყენებულ იქნას საჩუქრების გაგზავნისთვის, ხალხის ან მარაგების ტრანსპორტირებისთვის, მოულოდნელი თავდასხმებისთვის ან ბრძოლების გასაძლიერებლად.</TransportPod.description>
+  <TransportPod.label>სატრანსპორტო საყრდენი</TransportPod.label>
+  <VitalsMonitor.description>ზრდის სამედიცინო მიდრეკილებების ხარისხს, ოპერაციის წარმატების შანსს და იმუნიტეტის ამაღლების სიჩქარეს საავადმყოფოს საწოლთან უშუალოდ მოთავსებისას. მუშაობს მხოლოდ საავადმყოფოს საწოლებზე - ნორმალური საწოლები არ ისარგებლებს. ერთსა და იმავე საწოლზე ერთზე მეტი vitals მონიტორის მიმაგრება არანაირ ეფექტს არ მოიტანს.</VitalsMonitor.description>
+  <VitalsMonitor.label>სასიცოცხლო მნიშვნელობის მონიტორი</VitalsMonitor.label>
+</LanguageData>

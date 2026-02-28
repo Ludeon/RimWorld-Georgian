@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WearingDesiredApparel_Soft.stages.0.description>კარგია, რომ ეცვა {APPAREL} ჩემი რწმენის შესაბამისად.</WearingDesiredApparel_Soft.stages.0.description>
+  <WearingDesiredApparel_Soft.stages.0.label>ტარება {APPAREL}</WearingDesiredApparel_Soft.stages.0.label>
+  <WearingDesiredApparel_Strong.stages.0.description>მშვენიერია {APPAREL} ტარება ჩემი რწმენის შესაბამისად.</WearingDesiredApparel_Strong.stages.0.description>
+  <WearingDesiredApparel_Strong.stages.0.label>ტარება {APPAREL}</WearingDesiredApparel_Strong.stages.0.label>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DeepDrilling.description>ააშენეთ ღრმა წვრთნები მიწისქვეშა რესურსების მოპოვებისთვის. რესურსების მოსაძებნად დაგჭირდებათ მიწაში შეღწევის სკანერი.</DeepDrilling.description>
+  <DeepDrilling.label>ღრმა ბურღვა</DeepDrilling.label>
+  <FlatscreenTelevision.description>შექმენით მაღალი გარჩევადობის ბრტყელი ეკრანის ტელევიზორები მეტი სიამოვნებისთვის.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.label>ბრტყელეკრანიანი ტელევიზორი</FlatscreenTelevision.label>
+  <GroundPenetratingScanner.description>შექმენით მიწაში შეღწევადი სკანერები, რომლებსაც შეუძლიათ ამოიცნონ საბურღი რესურსები ზედაპირის ქვეშ. კონსტრუირებისთვის საჭიროა მოწინავე კომპონენტი.</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.label>მიწაში შეღწევის სკანერი</GroundPenetratingScanner.label>
+  <HeavyTurrets.description>აწარმოე მძიმე ავტოქვემეხის კოშკი.</HeavyTurrets.description>
+  <HeavyTurrets.label>ავტოქვემეხის კოშკი</HeavyTurrets.label>
+  <HospitalBed.description>საავადმყოფოს საწოლის აშენება, რომელიც აუმჯობესებს სამედიცინო შედეგებს.</HospitalBed.description>
+  <HospitalBed.label>საავადმყოფოს საწოლი</HospitalBed.label>
+  <LongRangeMineralScanner.description>შექმენით გრძელვადიანი მინერალური სკანერები, რომლებსაც თქვენი მკვლევარები გამოიყენებენ პლანეტაზე ძვირფასი მინერალების გამოსავლენად. შეიძლება მორგებული იყოს კონკრეტული მინერალის მოსაძებნად. მშენებლობისთვის საჭიროა მოწინავე კომპონენტები.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.label>გრძელვადიანი მინერალური სკანერი</LongRangeMineralScanner.label>
+  <MedicineProduction.description>აწარმოეთ სტანდარტული სამრეწველო-ტექნოლოგიური წამალი მცენარეული მედიცინის, ნეიტროამინისა და ქსოვილის კომბინაციით.</MedicineProduction.description>
+  <MedicineProduction.label>მედიკამენტების წარმოება</MedicineProduction.label>
+  <MicroelectronicsBasics.description>მუშაობა რთულ მიკროელექტრონიკასთან. ეს ხსნის მაღალტექნოლოგიური კვლევის სკამს და კომისიის კონსოლს.</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.label>მიკროელექტრონიკა</MicroelectronicsBasics.label>
+  <MoisturePump.description>ააშენეთ ტენიანობის ტუმბოები, რომლებიც ძალიან ნელა ახდენენ ტენიანობის ნორმალიზებას მათ გარშემო მიწაში. მათ შეუძლიათ სველი ნიადაგი მშრალი გახადონ და რბილი ქვიშა ჩვეულებრივ ქვიშად გადააქციონ.</MoisturePump.description>
+  <MoisturePump.label>ტენიანობის ტუმბო</MoisturePump.label>
+  <MultibarrelWeapons.description>აკრიფეთ მინი იარაღი.</MultibarrelWeapons.description>
+  <MultibarrelWeapons.label>მრავალლულიანი იარაღი</MultibarrelWeapons.label>
+  <PrecisionRifling.description>შექმენით ზუსტად დამუშავებული იარაღები, როგორიცაა თავდასხმის თოფები და სნაიპერული თოფები.</PrecisionRifling.description>
+  <PrecisionRifling.label>ზუსტი თოფი</PrecisionRifling.label>
+  <ShieldBelt.description>შექმენით ტარებადი ფარი. ფარები იყენებენ იმპულს-მოგერიების ტექნოლოგიას, რათა თავიდან აიცილონ ჭურვები ველის საზღვრის გადაკვეთაზე.</ShieldBelt.description>
+  <ShieldBelt.label>ფარები</ShieldBelt.label>
+  <TransportPod.description>შექმენით გასაშვები სატრანსპორტო რგოლები, რომლებიც შეგიძლიათ გამოიყენოთ პლანეტის ზედაპირზე დიდ მანძილზე ხალხის გასაგზავნად და მარაგებისთვის. შეიძლება გამოყენებულ იქნას დარბევისთვის, მოგზაურობისთვის, საჩუქრების გაგზავნისთვის და სხვა.</TransportPod.description>
+  <TransportPod.label>სატრანსპორტო საყრდენი</TransportPod.label>
+</LanguageData>

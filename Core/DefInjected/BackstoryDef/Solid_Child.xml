@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AbandonedChild30.description>[PAWN_nameDef] სწრაფი გონიერი, მხიარული ბავშვი იყო. ერთ დღეს, [PAWN_pronoun] გაიქცა [PAWN_possessive] მდიდარ მშობლებზე და საბოლოოდ დაიკარგა სავარაუდოდ გამოუყენებელ მადნის საწყობში. კლონირების ტექნოლოგიის გამო, [PAWN_possessive] მშობლებმა გადაწყვიტეს, რომ [PAWN_objective]-ის ძიების დრო უკეთესად დახარჯულიყო მხოლოდ უკეთესი შვილის კლონირებაზე.</AbandonedChild30.description>
+  <AbandonedChild30.title>მიტოვებული ბავშვი</AbandonedChild30.title>
+  <AbandonedChild30.titleShort>მიტოვებული</AbandonedChild30.titleShort>
+  <AbandonedOrphan61.description>დაბადებისას მიტოვებულმა ახალგაზრდამ [PAWN_nameDef] დაიწყო [PAWN_possessive] ცხოვრება ბავშვთა სახლში.
+
+აჟიოტაჟი და ნაძირალა, [PAWN_pronoun] გახდა ჭკვიანი აშლილი.</AbandonedOrphan61.description>
+  <AbandonedOrphan61.title>მიტოვებული ობოლი</AbandonedOrphan61.title>
+  <AbandonedOrphan61.titleShort>ობოლი</AbandonedOrphan61.titleShort>
+  <Abductee43.description>[PAWN_nameDef] გაიტაცეს ახალგაზრდა ასაკში და აიძულეს მეკობრეების გემზე შრომისმოყვარეობა.</Abductee43.description>
+  <Abductee43.title>გატაცებული</Abductee43.title>
+  <Abductee43.titleShort>გატაცებული</Abductee43.titleShort>
+  <Abductee7.description>[PAWN_nameDef] გაიტაცეს ქსენოადამიანებმა, როდესაც [PAWN_pronoun] ჯერ კიდევ ბავშვი იყო. მათ ჩაატარეს ექსპერიმენტები [PAWN_objective], რათა გაეგოთ [PAWN_possessive] გენეტიკური სტრუქტურა.
+
+როდესაც [PAWN_pronoun] გაიზარდა, [PAWN_nameDef] ოდნავ დიდი და ძლიერი გახდა [PAWN_possessive] დამპყრობლებისთვის და გაიქცა.</Abductee7.description>
+  <Abductee7.title>გატაცებული</Abductee7.title>
+  <Abductee7.titleShort>გატაცებული</Abductee7.titleShort>
+  <AcademyStudent58.description>[PAWN_nameDef] ისე წავიდა სკოლაში, როგორც კარგი კოსმოსური იუნკერი. [PAWN_pronoun] იყო ძალიან მაღალი და ცნობილი იყო [PAWN_possessive] კარგი გარეგნობით.
+
+მიუხედავად იმისა, რომ [PAWN_pronoun] უფრო მეტად აწუხებდა [PAWN_possessive] ვარცხნილობა, ვიდრე [PAWN_possessive] კლასები, [PAWN_pronoun] მაინც ჩააბარა საბოლოო გამოცდები.</AcademyStudent58.description>
+  <AcademyStudent58.title>აკადემიის სტუდენტი</AcademyStudent58.title>
+  <AcademyStudent58.titleShort>სტუდენტი</AcademyStudent58.titleShort>
+  <AccursedChild88.description>[PAWN_nameDef] დაიბადა მთვარის დაბნელების პიკზე. უხუცესებმა [PAWN_objective] სიბნელის შვილად გამოაცხადეს და [PAWN_objective] თავიანთი ზრუნვის ქვეშ მოიყვანეს.
+
+[PAWN_possessive] მთელი ბავშვობა გაატარა [PAWN_possessive] ადამიანების სწავლებისა და რიტუალების შესწავლაში - გამოძახების დღემდე.</AccursedChild88.description>
+  <AccursedChild88.title>დაწყევლილი ბავშვი</AccursedChild88.title>
+  <AccursedChild88.titleShort>დაწყევლილი</AccursedChild88.titleShort>
+  <AdventuringChild30.description>[PAWN_nameDef] გაიზარდა ინჟინრად. წლების განმავლობაში, [PAWN_pronoun] გეგმავდა სატვირთო გემზე ჩაჯდომას და ახალი, უფრო თავგადასავლებით სავსე ცხოვრების დაწყებას.
+
+ერთ ღამეს, მას შემდეგ, რაც [PAWN_possessive] მშობლებს ჩაეძინათ, [PAWN_pronoun] მოახერხა შემოპარულიყო სატვირთო გემზე, სანამ ის პორტს გაემგზავრებოდა.</AdventuringChild30.description>
+  <AdventuringChild30.title>თავგადასავლების მოყვარული ბავშვი</AdventuringChild30.title>
+  <AdventuringChild30.titleShort>ავანტიურისტი</AdventuringChild30.titleShort>
+  <AdventurousYouth70.description>[PAWN_nameDef]-მა გამოიკვლია [PAWN_possessive] ოჯახის დიდი ქონება, აღმოაჩინა პატარა ბუნებრივი საოცრებები, რომლებიც დამალული იყო ახლომდებარე კატაკომბებში, მდინარეებსა და გამოქვაბულებში.
+
+[PAWN_possessive] თინეიჯერობის წლებში [PAWN_nameDef]-მა მრავალი მტერი გააჩინა</AdventurousYouth70.description>
+  <AdventurousYouth70.title>თავგადასავლების მოყვარული ახალგაზრდობა</AdventurousYouth70.title>
+  <AdventurousYouth70.titleShort>ავანტიურისტი</AdventurousYouth70.titleShort>
+  <AmateurAstronomer77.description>[PAWN_nameDef] გატაცებული იყო ასტრონომიით. [PAWN_pronoun] საათობით ათვალიერებდა პლანეტებსა და ნისლეულებს [PAWN_possessive] ტელესკოპით.
+
+[PAWN_pronoun] მიეწერება პატარა კომეტას აღმოჩენას, რომელიც წლების შემდეგ ახლომდებარე მთვარეს დაარტყამდა და იქ სამთო ოპერაციებს შეაფერხებდა.</AmateurAstronomer77.description>
+  <AmateurAstronomer77.title>მოყვარული ასტრონომი</AmateurAstronomer77.title>
+  <AmateurAstronomer77.titleShort>ასტრონომი</AmateurAstronomer77.titleShort>
+  <AmateurBotanist79.description>მრავალი ზაფხულის გატარება ჭუჭყში ცოცვისას, [PAWN_nameDef]-მა აღმოაჩინა, რომ [PAWN_pronoun] საკმაოდ მწვანე ცერა თითი ჰქონდა. იმის ნაცვლად, რომ ესწავლა საჭმლის მომზადება [PAWN_pronoun] გაიზარდა, [PAWN_pronoun] სულ უფრო და უფრო იზრდებოდა.</AmateurBotanist79.description>
+  <AmateurBotanist79.title>მოყვარული ბოტანიკოსი</AmateurBotanist79.title>
+  <AmateurBotanist79.titleShort>ბოტანიკოსი</AmateurBotanist79.titleShort>
+  <AmateurEngineer3.description>[PAWN_nameDef] გაიზარდა სამხედრო და ინჟინერიის ოჯახში. [PAWN_pronoun] სურდა ჯარში გაწევრიანება, მაგრამ [PAWN_possessive] მამას არ მოეწონა ეს იდეა, ამიტომ [PAWN_possessive] ინტერესი დიდებული მფრინავი მანქანებისა და საინჟინრო სამუშაოებისკენ იყო მიმართული. [PAWN_pronoun] ფარულად იმედოვნებდა, რომ ეს ერთ მშვენიერ დღეს მიიყვანდა [PAWN_objective] გალაქტიკის ძიების ცხოვრებაში.</AmateurEngineer3.description>
+  <AmateurEngineer3.title>მოყვარული ინჟინერი</AmateurEngineer3.title>
+  <AmateurEngineer3.titleShort>ინჟინერი</AmateurEngineer3.titleShort>
+  <AngryStudent88.description>[PAWN_nameDef] გაწვრთნილი იყო [PAWN_possessive] ოცნებისკენ, რომ იმუშაოს [PAWN_possessive] მშობლიურ ქალაქის ადგილობრივ საკრებულოში.
+
+იმ მიზეზების გამო, რომ [PAWN_pronoun] ბოლომდე ვერ გავიგე, [PAWN_pronoun] დაუნდობლად აბუჩად იგდებდნენ [PAWN_possessive] თანაკლასელებს. [PAWN_pronoun]-მა არჩია [PAWN_possessive] ბრაზის დათრგუნვა.</AngryStudent88.description>
+  <AngryStudent88.title>გაბრაზებული სტუდენტი</AngryStudent88.title>
+  <AngryStudent88.titleShort>სტუდენტი</AngryStudent88.titleShort>
+  <AnimalCaretaker20.description>შუასაუკუნეების ფერმაში დაბადებულს [PAWN_nameDef] დაევალა შინაური ცხოველების მოვლა. [PAWN_pronoun] შეიყვარა ისინი.
+
+დროთა განმავლობაში, [PAWN_pronoun] ისწავლა გარეული ცხოველების მოთვინიერება. [PAWN_pronoun] ოცნებობდა ერთ დღეს თრომბოსთან შეხვედრაზე და მისი მოთვინიერებაზე.</AnimalCaretaker20.description>
+  <AnimalCaretaker20.title>ცხოველების მომვლელი</AnimalCaretaker20.title>
+  <AnimalCaretaker20.titleShort>მზრუნველი</AnimalCaretaker20.titleShort>
+  <AnimalLabTech39.description>[PAWN_nameDef] მუშაობდა ტექნიკოსად ლაბორატორიაში, რომელიც სწავლობდა ცხოველებს.
+
+[PAWN_pronoun] დახარჯა [PAWN_possessive] დღე ცხოველებზე ზრუნვასა და მათ შემდგომ გაწმენდაში. [PAWN_pronoun] ოცნებობდა, რომ ერთ დღეს ჰქონოდა [PAWN_possessive] საკუთარი ლაბორატორია.</AnimalLabTech39.description>
+  <AnimalLabTech39.title>ცხოველთა ლაბორატორიის ტექნიკა</AnimalLabTech39.title>
+  <AnimalLabTech39.titleShort>ლაბორატორიის ტექ</AnimalLabTech39.titleShort>
+  <AntisocialChild83.description>[PAWN_nameDef]-ს არ გააჩნდა ტიპიური სოციალური უნარები და თავს არიდებდა სოციალურ ინტერაქციას.
+
+[PAWN_pronoun] კმაყოფილება მხოლოდ სტაბილური მუშაობით მოიპოვა. [PAWN_pronoun] განსაკუთრებით არ მოსწონდა ზედმეტად კრეატიულ ან გამავალ ადამიანებთან საუბარი.</AntisocialChild83.description>
+  <AntisocialChild83.title>ანტისოციალური ბავშვი</AntisocialChild83.title>
+  <AntisocialChild83.titleShort>ანტისოციალური</AntisocialChild83.titleShort>
+  <ApocalypseChild23.description>[PAWN_nameDef]-მა გაატარა [PAWN_possessive] ბავშვობა პოსტ-აპოკალიფსურ სამყაროში. [PAWN_pronoun] იბრძოდა გადარჩენისთვის პატარა ასაკიდან, პლანეტაზე, სადაც ნდობა არ არსებობდა.
+
+[PAWN_pronoun]-მა ყველას უთხრა, რომ [PAWN_pronoun]-ს არ გაუმართლა.</ApocalypseChild23.description>
+  <ApocalypseChild23.title>აპოკალიფსის ბავშვი</ApocalypseChild23.title>
+  <ApocalypseChild23.titleShort>აპოკალიფსი</ApocalypseChild23.titleShort>
+  <ApprenticeOracle83.description>[PAWN_nameDef] სოფლის უხუცესებმა ადრეულ ასაკში აირჩიეს ორაკულის წმინდა რიტუალების შესანარჩუნებლად.
+
+გამოუსწორებლად ცნობისმოყვარე ბავშვმა, [PAWN_nameDef]-მა რელიგიური კრიზისი გამოიწვია [PAWN_possessive] ტომს, როდესაც [PAWN_pronoun] შემთხვევით გადაატრიალა გადამრთველი ღმერთების „სამარხების“ გასახსნელად - კრიპტოძილის ყუთები, რომლებშიც ცხოვრობდნენ ძალიან დაბნეული წინაპრები.</ApprenticeOracle83.description>
+  <ApprenticeOracle83.title>შეგირდის ორაკული</ApprenticeOracle83.title>
+  <ApprenticeOracle83.titleShort>ორაკული</ApprenticeOracle83.titleShort>
+  <ApprenticeSmith37.description>[PAWN_nameDef] გაიზარდა და ეხმარებოდა [PAWN_possessive] მამის სამჭედლოში.
+
+ისინი იყვნენ პლანეტის ბოლო მჭედლები, რომლებმაც გამოიყენეს ტრადიციული სამჭედლო მეთოდები. რაღაც მასალას თვითონაც აგროვებენ.
+
+ხანდახან, მუშაობის შემდეგ, [PAWN_nameDef] ვარჯიშობდა გაყალბებული [PAWN_pronoun] ხმლების გამოყენებით.</ApprenticeSmith37.description>
+  <ApprenticeSmith37.title>შეგირდი სმიტი</ApprenticeSmith37.title>
+  <ApprenticeSmith37.titleShort>შეგირდი</ApprenticeSmith37.titleShort>
+  <ArtfulDodger78.description>[PAWN_nameDef] გაიზარდა ერთ-ერთ ურბსამყაროზე და მოუწია [PAWN_objective] საკუთარი თავისთვის მთელი [PAWN_possessive] ცხოვრება. [PAWN_pronoun] არასოდეს არავის ენდობოდა, გადარჩენისთვის ეყრდნობოდა [PAWN_possessive] დამაჯერებლობას და ეშმაკობას.
+
+[PAWN_pronoun] მალევე დაეუფლა ცეცხლსასროლ იარაღს და დანებს, ასევე სიტყვებს.</ArtfulDodger78.description>
+  <ArtfulDodger78.title>ხელოვანი მაძღარი</ArtfulDodger78.title>
+  <ArtfulDodger78.titleShort>დოჯერი</ArtfulDodger78.titleShort>
+  <ArtisanFarmer23.description>[PAWN_nameDef] გაიზარდა [PAWN_possessive] ოჯახის ბრჭყვიალა სამყაროს ფერმაში. ისინი იყვნენ პლანეტის ერთ-ერთი ბოლო ფერმა, რომელმაც ამჯობინა ტრადიციული მეურნეობის მეთოდები ბრჭყვიალა სამყაროს ტექნოლოგიაზე.</ArtisanFarmer23.description>
+  <ArtisanFarmer23.title>ხელოსანი ფერმერი</ArtisanFarmer23.title>
+  <ArtisanFarmer23.titleShort>ფერმერი</ArtisanFarmer23.titleShort>
+  <ArtisticWeirdo56.description>[PAWN_nameDef] გაიზარდა შუა სამყაროს მეტროპოლიის მახლობლად მდებარე სახლში.
+
+[PAWN_pronoun] ნიჭიერი იყო ხელოვნებაში და შემოქმედებით საქმიანობაში, მაგრამ ხშირად უცნაურად იქცეოდა და ამიტომ ცოტა მეგობარი ჰყავდა.</ArtisticWeirdo56.description>
+  <ArtisticWeirdo56.title>მხატვრული უცნაურობა</ArtisticWeirdo56.title>
+  <ArtisticWeirdo56.titleShort>უცნაური</ArtisticWeirdo56.titleShort>
+  <AspergersRebel13.description>[PAWN_nameDef] გაიზარდა, როგორც მეამბოხე ომისგან განადგურებულ ადრე განვითარებულ სამყაროში.
+
+[PAWN_possessive] ასპერგერის სინდრომი ნიშნავდა [PAWN_pronoun] ებრძოდა სოციალურ სიტუაციებს და არ შეეძლო ზრუნვა, მაგრამ [PAWN_pronoun] ისწავლა რთული უნარები, როგორიცაა კვლევა და სროლა.</AspergersRebel13.description>
+  <AspergersRebel13.title>ასპერგერები აჯანყდებიან</AspergersRebel13.title>
+  <AspergersRebel13.titleShort>მეამბოხე</AspergersRebel13.titleShort>
+  <AspiringEngineer58.description>[PAWN_nameDef] გატაცებული იყო გაჯეტებითა და გიზმოებით. [PAWN_pronoun] დაშორდა და შეაერთა თითქმის ყველაფერი, რაც [PAWN_pronoun] იპოვა.
+
+[PAWN_pronoun] მიეჩვია სხვა ბავშვების მიერ [PAWN_objective]-ში მიტანილი სათამაშოების შეკეთებას და [PAWN_possessive] უფროსებისგან რამდენიმე მოწყობილობაც კი დააფიქსირა.</AspiringEngineer58.description>
+  <AspiringEngineer58.title>დამწყები ინჟინერი</AspiringEngineer58.title>
+  <AspiringEngineer58.titleShort>მეჭეჭა</AspiringEngineer58.titleShort>
+  <AspiringPhysicist47.description>ინჟინრისა და ექიმის ქალიშვილი, [PAWN_nameDef]-ის ადრეული ცხოვრება ინტელექტუალურად მდიდარი იყო. ფიზიკის ლაბორატორიის მონახულების შემდეგ, [PAWN_pronoun] გადაწყვიტა [PAWN_pronoun] სურდა კვანტური ფიზიკოსი ყოფილიყო.
+
+აქლემმა დაკბინა, ცხენი გააგდო და ძაღლები გამოედევნენ, [PAWN_nameDef] ცხოველების შიში გაუჩნდა.</AspiringPhysicist47.description>
+  <AspiringPhysicist47.title>დამწყები ფიზიკოსი</AspiringPhysicist47.title>
+  <AspiringPhysicist47.titleShort>სტუდენტი</AspiringPhysicist47.titleShort>
+  <AspiringPopIdol28.description>[PAWN_nameDef] სწავლობდა სიმღერასა და ცეკვაში, რათა გახდეს შემდეგი დიდი პოპ კერპი. [PAWN_pronoun] გაიზარდა კომპანიის დამმუშავებლების ზრუნვით.
+
+[PAWN_pronoun] არასოდეს იცოდა ხელით შრომა, მაგრამ ბევრი რამ ისწავლა მუსიკისა და სოციალური ეტიკეტის შესახებ.</AspiringPopIdol28.description>
+  <AspiringPopIdol28.title>მისწრაფებული პოპ კერპი</AspiringPopIdol28.title>
+  <AspiringPopIdol28.titleShort>პოპ კერპი</AspiringPopIdol28.titleShort>
+  <Athlete47.description>[PAWN_nameDef] ადრეულ ასაკში იყო პროფესიონალი სპორტსმენი. [PAWN_possessive] უნარების წყალობით, [PAWN_pronoun]-მა შეძლო დაეტოვებინა [PAWN_possessive] საშინაო სამყარო და ჩაეწერა ბრჭყვიალა სამყაროს მეცნიერებისა და ტექნოლოგიების უნივერსიტეტში.
+
+[PAWN_possessive] მომთხოვნი გრაფიკისა და ინტროვერტული ბუნების გამო, [PAWN_pronoun] გახდა სოციალურად არაკომპეტენტური.</Athlete47.description>
+  <Athlete47.title>სპორტსმენი</Athlete47.title>
+  <Athlete47.titleShort>სპორტსმენი</Athlete47.titleShort>
+  <AwkwardNerd48.description>მანქანებით ყოველთვის მოხიბლული, [PAWN_nameDef] [PAWN_possessive] დროს ატარებდა რობოტიკისა და ჰოლოგრაფიის შესწავლაზე. [PAWN_pronoun] ამჯობინა [PAWN_possessive] სამეცნიერო შემოქმედების კომპანია სხვა ადამიანების კომპანიას.</AwkwardNerd48.description>
+  <AwkwardNerd48.title>უხერხული ნაბიჭვარი</AwkwardNerd48.title>
+  <AwkwardNerd48.titleShort>ნაბიჭვარი</AwkwardNerd48.titleShort>
+  <BlackjackPlayer76.description>ერთადერთი სასარგებლო უნარი, რომელიც [PAWN_nameDef] ისწავლა [PAWN_possessive] მკაცრი სამხედრო სკოლიდან, იყო ბარათების დათვლა. [PAWN_pronoun]-მა შეკრიბა მრავალი მტერი კაზინოებში მოტყუებით, რაც შურისძიების საფრთხის მატებასთან ერთად სულ უფრო დაძაბული და ძალადობრივი გახდა.
+
+როდესაც [PAWN_pronoun] საბოლოოდ დაიჭირეს, მათ დაწვეს კანის ნახევარი [PAWN_possessive]. [PAWN_pronoun] აღარასოდეს შეექმნა ცეცხლი ან ძალადობა.</BlackjackPlayer76.description>
+  <BlackjackPlayer76.title>ბლექჯეკის მოთამაშე</BlackjackPlayer76.title>
+  <BlackjackPlayer76.titleShort>აზარტული მოთამაშე</BlackjackPlayer76.titleShort>
+  <BlacksmithsSon73.description>[PAWN_nameDef]-ის მამა ფლობდა მჭედლის მაღაზიას ქალაქის დანგრეულ ძველ უბანში. [PAWN_nameDef] დაეხმარებოდა [PAWN_possessive] მამას, როცა [PAWN_pronoun] შეეძლო.
+
+მოგვიანებით, [PAWN_possessive] მამამ [PAWN_objective] მჭედლის შეგირდად აიყვანა და [PAWN_objective] კაცად გაზარდა. [PAWN_nameDef] ასევე აიღო სროლა, როგორც ჰობი.</BlacksmithsSon73.description>
+  <BlacksmithsSon73.title>მჭედლის შვილი</BlacksmithsSon73.title>
+  <BlacksmithsSon73.titleShort>მჭედელი</BlacksmithsSon73.titleShort>
+  <BlessedChild46.description>[PAWN_nameDef] დაიბადა სახარბიელო ვითარებაში, შუა სამყაროს სულიერ ჯგუფში და პატივისცემით გამოირჩეოდა მთელი [PAWN_possessive] ბავშვობაში.
+
+[PAWN_pronoun] ადრეული ასაკიდანვე ისწავლა ღარიბებზე ზრუნვა და მორწმუნეების დახმარება.</BlessedChild46.description>
+  <BlessedChild46.title>დალოცვილი ბავშვი</BlessedChild46.title>
+  <BlessedChild46.titleShort>დალოცვილი</BlessedChild46.titleShort>
+  <BodyguardTrainee54.description>[PAWN_nameDef] დაიბადა მცველების ცნობილ კვალიფიციურ ოჯახში. [PAWN_possessive] დედებმა, ელენამ და ვიქტორიამ აიძულეს [PAWN_objective] მრავალ სახიფათო სიტუაციაში, ავარჯიშეს [PAWN_objective], რათა დაეყენებინა [PAWN_possessive] კლიენტის კეთილდღეობა [PAWN_possessive] საკუთარზე.
+
+[PAWN_nameDef]-ს ასწავლიდნენ მრავალი ბალახისა და ბუნებრივი შხამის შესახებ, რათა დაეხმარონ [PAWN_objective] კლიენტების მოწამვლისგან.</BodyguardTrainee54.description>
+  <BodyguardTrainee54.title>დაცვის სტაჟიორი</BodyguardTrainee54.title>
+  <BodyguardTrainee54.titleShort>მცველი</BodyguardTrainee54.titleShort>
+  <BoneCollector14.description>ბედის მონადირეების ოჯახში დაბადებული [PAWN_nameDef] ყოველთვის გატაცებული იყო უძველესი ისტორიით.
+
+მიუხედავად იმისა, რომ არასოდეს ყოფილა მკაცრი ან სოციალური ბიჭი, [PAWN_pronoun] უყვარდა ისტორიის წიგნების გათხრა და ჭუჭყის გროვის გათხრა.</BoneCollector14.description>
+  <BoneCollector14.title>ძვლის შემგროვებელი</BoneCollector14.title>
+  <BoneCollector14.titleShort>მოსწავლე</BoneCollector14.titleShort>
+  <Bookworm3.description>[PAWN_nameDef] გაატარა [PAWN_possessive] ახალგაზრდობა ბიბლიოთეკაში, კითხულობდა ყველა წიგნს [PAWN_pronoun], რომელიც შეიძლებოდა კოსმოსური მოგზაურობის ტექნიკური საოცრებების, კოსმოსური მოგზაურობის პიონერების საინჟინრო გამოგონებაზე და მექანოიდური ომების შემზარავი, მაგრამ მომხიბლავი ზღაპრების შესახებ. [PAWN_pronoun] პირობა დადო, რომ ერთ დღეს, [PAWN_pronoun] დაინახავდა ამ ყველაფერს [PAWN_objective] საკუთარი თავისთვის.</Bookworm3.description>
+  <Bookworm3.title>წიგნის ჭია</Bookworm3.title>
+  <Bookworm3.titleShort>წიგნის ჭია</Bookworm3.titleShort>
+  <BoyScout42.description>[PAWN_nameDef] იყო ბიჭების სკაუტთა ჯგუფში შუა სამყაროში.
+
+[PAWN_pronoun] ისწავლა გადარჩენის მრავალი უნარი, მათ შორის, თუ როგორ უნდა აყვავდე გარეთ და როგორ მოექცე ძირითადი ჭრილობების მოშორებას.</BoyScout42.description>
+  <BoyScout42.title>ბიჭის მზვერავი</BoyScout42.title>
+  <BoyScout42.titleShort>მზვერავი</BoyScout42.titleShort>
+  <BoySoldier14.description>ომი შეიძლება არასოდეს შეიცვალოს - მაგრამ გმირების შემადგენლობა იცვლება.
+
+ძალადობრივ ქალაქურ სამყაროში დაბადებული [PAWN_nameDef] პატარა ასაკიდან ივარჯიშებდა სხვების ომებთან ბრძოლაში და საკმაოდ კარგი გახდა ამაში.</BoySoldier14.description>
+  <BoySoldier14.title>ბიჭი ჯარისკაცი</BoySoldier14.title>
+  <BoySoldier14.titleShort>ჯარისკაცი</BoySoldier14.titleShort>
+  <BrothelGofer84.description>ორთქლზე მომუშავე შუა სამყაროში დაბადებული, რომელიც საუკუნოვანი ეკონომიკური კრიზისით იყო გაფუჭებული, [PAWN_nameDef] ახალგაზრდა ასაკში წავიდა სამუშაოდ. სკრინინგი, ფეხსაცმლის გაპრიალება, კერვა - [PAWN_pronoun] ეს ყველაფერი გააკეთა. მაგრამ [PAWN_pronoun] ყველაზე მეტად ცნობილი იყო, როგორც ბორდელის გოფერი, რომელიც გოგონების ოთახებში აწვდიდა ყველანაირ აფროდიზიაკს და ქიმიურ ნივთიერებას.</BrothelGofer84.description>
+  <BrothelGofer84.title>ბორდელის გოფერი</BrothelGofer84.title>
+  <BrothelGofer84.titleShort>გოფერი</BrothelGofer84.titleShort>
+  <BrutalThief59.description>ბანდაში გაზრდილმა [PAWN_nameDef]-მა შეიტყო ქუჩების სისასტიკე.
+
+იმის ცოდნა, რომ სისუსტის გამოვლენა შეიძლება ფატალური იყოს, [PAWN_pronoun] დაიხურა [PAWN_objective] საკუთარი თავი სხვებისგან.</BrutalThief59.description>
+  <BrutalThief59.title>სასტიკი ქურდი</BrutalThief59.title>
+  <BrutalThief59.titleShort>ქურდი</BrutalThief59.titleShort>
+  <BunkerKid41.description>[PAWN_nameDef] გაიზარდა მიწისქვეშა თავშესაფარში და ელოდა რადიოაქტიური ნაკადის ჩაქრობას. [PAWN_possessive] მდიდარმა ოჯახმა მიაღწია წვდომას მდიდრულ ბუნკერულ ქალაქში, მაშინ როცა მილიარდები დაიღუპნენ ზედაპირზე.
+
+გადაწყვეტილი იყო ერთ დღეს ეძია შურისძიება საძულველ მტერზე, [PAWN_nameDef] დროის უმეტეს ნაწილს [PAWN_possessive] ატარებდა სროლის ვარჯიშზე [PAWN_possessive] კერძო სასწავლო დაწესებულებაში.</BunkerKid41.description>
+  <BunkerKid41.title>ბუნკერის ბავშვი</BunkerKid41.title>
+  <BunkerKid41.titleShort>ბუნკერის ბავშვი</BunkerKid41.titleShort>
+  <Cadet96.description>პლანეტა ახალ ჩინეთში დაბადებული [PAWN_nameDef]-ის მამა პოლიციის უფროსი იყო და უკიდურესად მკაცრად აკონტროლებდა [PAWN_possessive] შვილს.
+
+[PAWN_nameDef]-ს უწევდა ყოველ დღე სამხედრო სტილის სავარჯიშოების გაკეთება და [PAWN_possessive] ოთახი უნაკლოდ სუფთა, ყოველთვის მზად შესამოწმებლად. [PAWN_pronoun] ძალადობას ეზიზღებოდა.</Cadet96.description>
+  <Cadet96.title>იუნკერი</Cadet96.title>
+  <Cadet96.titleShort>იუნკერი</Cadet96.titleShort>
+  <CaravanChild53.description>[PAWN_nameDef] დაიბადა urbworld სავაჭრო გემზე მეწარმე დედისა და არმყოფი მამის ოჯახში. მამრად დაბადებულს, [PAWN_pronoun] არ მოსწონდა ბიჭის ნივთები და მუდმივად ეხებოდა [PAWN_possessive] დედის საქმეებს.
+
+საბოლოოდ, [PAWN_pronoun] გაემგზავრა [PAWN_possessive] დედასთან ერთად ბრჭყვიალა სამყაროში და დახარჯა [PAWN_possessive] დანაზოგი სხეულზე, რომლითაც კმაყოფილი იყო [PAWN_pronoun].</CaravanChild53.description>
+  <CaravanChild53.title>ქარავნის ბავშვი</CaravanChild53.title>
+  <CaravanChild53.titleShort>ბავშვი</CaravanChild53.titleShort>
+  <CaravanTraveler6.description>მოგზაური ვაჭრების ოჯახში დაბადებული [PAWN_nameDef] მამა [PAWN_possessive] ასწავლიდა ვაჭრობას. [PAWN_pronoun] ხშირად ევალებოდა პატრონი ცხოველების მოვლას. [PAWN_possessive] მომთაბარე ცხოვრების წესის გამო, [PAWN_pronoun] ნადირობდა და ცვლიდა [PAWN_possessive] საკვებს.</CaravanTraveler6.description>
+  <CaravanTraveler6.title>ქარავნის მოგზაური</CaravanTraveler6.title>
+  <CaravanTraveler6.titleShort>მოგზაური</CaravanTraveler6.titleShort>
+  <CatHerder4.description>[PAWN_nameDef] დაეხმარა [PAWN_possessive] მამის კატების მოშენების ბიზნესში, სოციალიზაციაში, მწყემსებაში და ასობით კატის კვებაში.
+
+როდესაც [PAWN_pronoun] უარი თქვა კატების შემდეგ გაწმენდაზე, [PAWN_pronoun] გადაიყვანეს მეცხოველეობის მეცნიერების განყოფილებაში.</CatHerder4.description>
+  <CatHerder4.title>კატის მწყემსი</CatHerder4.title>
+  <CatHerder4.titleShort>მწყემსი</CatHerder4.titleShort>
+  <CaveChild17.description>[PAWN_nameDef] გაიზარდა გამოქვაბულში ტუნდრას პლანეტაზე და იშვილა მოგზაურთა ჯგუფმა, რომელიც ცნობილია მხოლოდ ჯადოქრების სახელით. ერთხელ ვარსკვლავთმხედველობის ეკიპაჟმა, ჯადოქრებმა უამბეს [PAWN_objective] საოცარი ისტორიები სამყაროს შესახებ.
+
+ერთ დღეს, ჯადოქრები არ დაბრუნებულან აურზაურიდან. წლების ლოდინის შემდეგ, [PAWN_nameDef] კოსმოსში გაემგზავრა მათ საპოვნელად.</CaveChild17.description>
+  <CaveChild17.title>გამოქვაბულის ბავშვი</CaveChild17.title>
+  <CaveChild17.titleShort>გამოქვაბულის ბავშვი</CaveChild17.titleShort>
+  <ChessMaster67.description>[PAWN_nameDef]-ს უყვარდა ჭადრაკის თამაში. [PAWN_pronoun]-მა მოიპოვა მეტსახელიც კი [PAWN_nameDef] ზოგიერთი [PAWN_possessive] უფრო მზაკვრული სვლისთვის.
+
+[PAWN_pronoun] არასოდეს შექმნილა უბედურებაში - ძირითადად იმიტომ, რომ [PAWN_pronoun] კარგად იყო დაჭერილი.</ChessMaster67.description>
+  <ChessMaster67.title>ჭადრაკის ოსტატი</ChessMaster67.title>
+  <ChessMaster67.titleShort>ჭადრაკი</ChessMaster67.titleShort>
+  <ChildKnave69.description>[PAWN_nameDef] იყო მეფე ლოტერიკის შვილი. [PAWN_pronoun] სიამოვნებით ვარჯიშობდა ხის ჯოხებით და სხვების ჩართვით ახლო ბრძოლაში. [PAWN_pronoun] სწრაფად შეეგუა ბრძოლის სიცხეს და კარგად ავრცელებდა ცეცხლს.
+
+[PAWN_pronoun] კარგად ემსახურებოდა [PAWN_possessive] უფლისწულს, სანამ მეფე არ გარდაიცვალა უბედურ შემთხვევის დროს.</ChildKnave69.description>
+  <ChildKnave69.title>ბავშვურ-კნავა</ChildKnave69.title>
+  <ChildKnave69.titleShort>ნანავი</ChildKnave69.titleShort>
+  <ChildOfDrifters18.description>მას შემდეგ, რაც [PAWN_pronoun] ძალიან პატარა იყო, [PAWN_nameDef] არასოდეს იცოდა სახლი [PAWN_possessive] მშობლის გემის მიღმა. მათი მომთაბარე მეანდერაცია განაპირობებდა დეკორაციის მუდმივ ცვლილებას. [PAWN_possessive] ცხოვრება ხშირად სახიფათო იყო, მაგრამ არასდროს მოსაწყენი და [PAWN_pronoun] მემკვიდრეობით მიიღო [PAWN_possessive] მშობლების მოხეტიალე ლტოლვა.</ChildOfDrifters18.description>
+  <ChildOfDrifters18.title>დრიფტერების შვილი</ChildOfDrifters18.title>
+  <ChildOfDrifters18.titleShort>დრიფტერი</ChildOfDrifters18.titleShort>
+  <ChildOfGlass61.description>[PAWN_nameDef] მიწისქვეშ გაშენდა "მარმარილოს" პლანეტაზე - რადიოაქტიური ასფალტისა და ტოქსიკური ნალექის უდაბნოში.
+
+სიცოცხლისგან დაცლილ პლანეტაზე გადარჩენისთვის, [PAWN_pronoun] უნდა ესწავლა მიწისქვეშა მეურნეობა და როგორ ებრძოლა ტყვიების დახარჯვის გარეშე.</ChildOfGlass61.description>
+  <ChildOfGlass61.title>შუშის ბავშვი</ChildOfGlass61.title>
+  <ChildOfGlass61.titleShort>გადარჩენილი</ChildOfGlass61.titleShort>
+  <ChildProdigy76.description>კოლეჯის დამთავრების შემდეგ, თორმეტი წლის ასაკში, [PAWN_nameDef] მიუძღვნა [PAWN_possessive] სიცოცხლე უკვდავებას. თუმცა [PAWN_possessive] კვლევამ გადალახა ზღვარი, როდესაც [PAWN_pronoun] ცდილობდა შეეცვალა [PAWN_possessive] სხეული გენური თერაპიისა და მექანიკური გაზრდის გამოყენებით. [PAWN_pronoun] დააპატიმრეს და გაასამართლეს ციხის პლანეტაზე.</ChildProdigy76.description>
+  <ChildProdigy76.title>ბავშვის საოცრება</ChildProdigy76.title>
+  <ChildProdigy76.titleShort>საოცრება</ChildProdigy76.titleShort>
+  <ChildResearcher32.description>საშინლად ინტელექტუალური ბავშვი, [PAWN_nameDef] გაიტაცეს ბრჭყვიალა სამყაროს კორპორაციამ და აიძულა გამოეკვლია ტექნოლოგიები ანტიმატერიის შეიარაღებისთვის.
+
+[PAWN_pronoun] პირობა დადო, რომ აღარასოდეს გამოიგონებს არაფერს.</ChildResearcher32.description>
+  <ChildResearcher32.title>ბავშვთა მკვლევარი</ChildResearcher32.title>
+  <ChildResearcher32.titleShort>მკვლევარი</ChildResearcher32.titleShort>
+  <ChildScientist30.description>კოლეჯის დამთავრების შემდეგ, ძალიან ახალგაზრდა, [PAWN_nameDef] მიუძღვნა [PAWN_possessive] ცხოვრება უკვდავებას. [PAWN_pronoun] დააკავეს [PAWN_objective]საკუთარი თავის გენეტიკური მოდიფიკაციის მცდელობისთვის.
+
+ხელისუფლებამ გაათავისუფლა [PAWN_objective] იმ პირობით, რომ [PAWN_pronoun] იმუშავებდა კოსმოსური ხომალდების ტექნოლოგიების სამთავრობო ლაბორატორიაში. [PAWN_pronoun]-ს მიეცა უფლება გაეგრძელებინა [PAWN_possessive] პირადი კვლევა [PAWN_possessive] თავისუფალ დროს.</ChildScientist30.description>
+  <ChildScientist30.title>ბავშვთა მეცნიერი</ChildScientist30.title>
+  <ChildScientist30.titleShort>მეცნიერი</ChildScientist30.titleShort>
+  <ChildSlave58.description>[PAWN_nameDef] დაიბადა ღარიბ ოჯახში, რიგგარეშე სამყაროში. [PAWN_possessive] მამამ გაყიდა [PAWN_objective] მონობაში ახალგაზრდა ასაკში. [PAWN_pronoun] ბევრჯერ იქნა ვაჭრობა. ერთმა მაგნატმა იყიდა [PAWN_objective] და გაგზავნა [PAWN_objective] მაღაროებში მანქანების მოვლისა და მათთან ერთად მუშაობისთვის.</ChildSlave58.description>
+  <ChildSlave58.title>შვილი მონა</ChildSlave58.title>
+  <ChildSlave58.titleShort>მონა</ChildSlave58.titleShort>
+  <ChildSpy84.description>ბავშვებს ხშირად უდანაშაულოდ მიიჩნევენ და ამიტომ ქმნიან იდეალურ ჯაშუშებს. [PAWN_nameDef] გაწვრთნილი იყო ინფილტრაციისა და ინფორმაციის შეგროვების ხელოვნებაში, როდესაც [PAWN_pronoun] ძალიან ახალგაზრდა იყო.
+
+[PAWN_possessive] წლები გაატარა მტრის ხაზს მიღმა, აგროვებდა ინფორმაციას სასტიკ ომში. ამ დროის განმავლობაში, [PAWN_pronoun]-ს ჰქონდა განათლების შეზღუდული შესაძლებლობა.</ChildSpy84.description>
+  <ChildSpy84.title>ბავშვი ჯაშუში</ChildSpy84.title>
+  <ChildSpy84.titleShort>ჯაშუში</ChildSpy84.titleShort>
+  <CircusPerformer37.description>ცირკში გაზრდილმა [PAWN_nameDef]-მა ბევრი საინტერესო რამ ისწავლა. [PAWN_pronoun] ჟონგლირებულ ბურთებზე უფრო საინტერესო იყო შოუებს შორის შერჩეული ჯიბეები [PAWN_pronoun].
+
+დაშვებულმა შეცდომებმა ხანძრის ცეცხლზე მომაკვდინებელი შიში გამოიწვია [PAWN_objective].</CircusPerformer37.description>
+  <CircusPerformer37.title>ცირკის შემსრულებელი</CircusPerformer37.title>
+  <CircusPerformer37.titleShort>შემსრულებელი</CircusPerformer37.titleShort>
+  <ClassClown96.description>[PAWN_possessive] ბრჭყვიალა სამყაროს სკოლის ულტრაკონკურენტულ გარემოში, [PAWN_nameDef] ყოველთვის სთავაზობდა კლასის მასხარის როლს დაძაბულობის გასაფანტად.
+
+[PAWN_pronoun] ამისგან სოციალური სასოწარკვეთის განცდა განუვითარდა, ისევე როგორც კომედიის მხატვრული მხარის დაფასება.</ClassClown96.description>
+  <ClassClown96.title>კლასის მასხარა</ClassClown96.title>
+  <ClassClown96.titleShort>კლოუნი ბავშვი</ClassClown96.titleShort>
+  <CloneFarmed21.description>კლონირებული ბავშვები დათესეს საკვები ნივთიერებებით მდიდარ საშვილოსნოში და სწრაფად იზრდებიან შერეულ სამყაროში. მათ იღებენ მოგვიანებით, ხან საკვებისთვის, ხან ორგანოებისთვის, ხან მუშებისთვის - მაგრამ ისინი ყოველთვის ერთჯერადია.</CloneFarmed21.description>
+  <CloneFarmed21.title>კლონებით მოყვანილი</CloneFarmed21.title>
+  <CloneFarmed21.titleShort>ერთჯერადი</CloneFarmed21.titleShort>
+  <ColiseumCleaner54.description>"შინაგანი დესტრიანი ომის" დროს, [PAWN_მფლობელი] მშობლები ტყვედ ჩავარდა და [PAWN_pronoun] დაიბადა მონობაში. ფულის გამო სისხლიანი ბრძოლების შემდეგ იძულებული გახდა კოლიზეუმების გაწმენდა. ყურება, ლოდინი და სწავლა. კოლიზეუმები იყო ერთადერთი, რაც [PAWN_pronoun] ოდესმე იცოდა. ერთ ღამეს კოლიზეუმის დასუფთავებისას [PAWN_possessive] ოჯახი მოკლეს.</ColiseumCleaner54.description>
+  <ColiseumCleaner54.title>კოლიზეუმის გამწმენდი</ColiseumCleaner54.title>
+  <ColiseumCleaner54.titleShort>გამწმენდი</ColiseumCleaner54.titleShort>
+  <Colonist22.description>ბავშვობაში [PAWN_pronoun] კოსმოსში გაუშვეს ვარსკვლავთშორისი კოლონიზაციის პროგრამის ფარგლებში.</Colonist22.description>
+  <Colonist22.title>კოლონისტი</Colonist22.title>
+  <Colonist22.titleShort>კოლონისტი</Colonist22.titleShort>
+  <ColonyKid47.description>[PAWN_nameDef] დაიბადა ორი ექიმის შვილი პატარა კოლონიაში. [PAWN_possessive] მშობლების გამო, [PAWN_pronoun] ყოველთვის იყო დაინტერესებული მეცნიერებითა და მედიცინაში.
+
+[PAWN_nameDef] სხვა ბავშვებთან ნამდვილად არასდროს ერწყმოდა და შედეგად გახდა თავშეკავებული და არასოციალური.</ColonyKid47.description>
+  <ColonyKid47.title>კოლონიის ბავშვი</ColonyKid47.title>
+  <ColonyKid47.titleShort>კოლონიის ბავშვი</ColonyKid47.titleShort>
+  <CommonerHeir5.description>[PAWN_nameDef] იყო ქუჩის ზღარბი ფეოდალურ ორთქლის სამყაროში.
+
+        მას შემდეგ, რაც [PAWN_pronoun] ცდილობდა სასახლიდან საკვების მოპარვას, იმპერატორი, რომელიც სასოწარკვეთილი იყო მემკვიდრის უზრუნველყოფის მიზნით, აიღო [PAWN_objective] და მოწესრიგებული [PAWN_objective] იყო ტახტის შემდეგი რიგი.</CommonerHeir5.description>
+  <CommonerHeir5.title>საერთო მემკვიდრე</CommonerHeir5.title>
+  <CommonerHeir5.titleShort>მემკვიდრე</CommonerHeir5.titleShort>
+  <Computer80.description>ბავშვობაში [PAWN_nameDef] ქმნიდა რთულ ალგორითმებს. [PAWN_pronoun] გამოიყენებოდა როგორც "ადამიანის კომპიუტერი" [PAWN_possessive] ბავშვობის უმეტესობისთვის. ამან [PAWN_objective] სოციალურად უხერხული და საკმაოდ მახინჯი დატოვა.
+
+        სამარტოო საკანში ყოფნის მიუხედავად, [PAWN_nameDef]-მა განავითარა დიდი ფანტაზია [PAWN_possessive] უსაქმური დროის დასაკავებლად.</Computer80.description>
+  <Computer80.title>კომპიუტერი</Computer80.title>
+  <Computer80.titleShort>კომპიუტერი</Computer80.titleShort>
+  <ComputerGeek62.description>[PAWN_nameDef]-მა [PAWN_possessive] ბავშვობის უმეტესი ნაწილი გაატარა [PAWN_possessive] კომპიუტერზე, აკრეფდა, არასოდეს იცოდა როდის ადგე და ეჭამა.
+
+[PAWN_pronoun] იყო ძალიან ვიწრო ინტერესი: კრიპტოძილის უსაფრთხოების პროტოკოლების გატეხვა.</ComputerGeek62.description>
+  <ComputerGeek62.title>კომპიუტერის მცოდნე</ComputerGeek62.title>
+  <ComputerGeek62.titleShort>გიკი</ComputerGeek62.titleShort>
+  <ConstructionGrunt84.description>[PAWN_possessive] მამის ლაბორატორიაში გაზრდილი, [PAWN_nameDef] ინტელექტუალური ელიტის ცხოვრებას მიეცა. [PAWN_pronoun] მიიღო ყველაფერი [PAWN_pronoun] სასურველი და ფასი არასოდეს ყოფილა ობიექტი.
+
+თუმცა [PAWN_nameDef] არ მონაწილეობდა მისთვის მინიჭებულ ფუფუნებაში. სამაგიეროდ, [PAWN_pronoun] უფრო ფიზიკურს ატარებდა და - [PAWN_possessive] მამის თვალში - დაბალი კლასის სამუშაოებს.</ConstructionGrunt84.description>
+  <ConstructionGrunt84.title>სამშენებლო გრუხუნი</ConstructionGrunt84.title>
+  <ConstructionGrunt84.titleShort>მშენებელი</ConstructionGrunt84.titleShort>
+  <CoreDilettante33.description>[PAWN_nameDef]-მა გაატარა [PAWN_possessive] ჩამოყალიბების წლები მთავარ რეგიონში, ბრწყინვალე სამყაროში, სადაც [PAWN_pronoun] და [PAWN_possessive] მეგობრები უსაქმურ სიამოვნებას მისდევდნენ.
+
+როდესაც [PAWN_pronoun] გაიზარდა, [PAWN_pronoun] დაიწყო მარტივი ცხოვრების შეუსრულებლობის პოვნა. [PAWN_pronoun] გადაწყვიტა ეძია უფრო რთული გზა.</CoreDilettante33.description>
+  <CoreDilettante33.title>ძირითადი დილეტანტი</CoreDilettante33.title>
+  <CoreDilettante33.titleShort>დილეტანტი</CoreDilettante33.titleShort>
+  <CoreworldStudent50.description>დაბადებული მამაკაცი, სახელად ალექსი, [PAWN_nameDef] კარგად არ ჯდებოდა სხვა ბიჭებთან. როდესაც ძალიან პატარა იყო, [PAWN_pronoun] უპირატესობას ანიჭებდა შემოქმედებით საქმიანობას, როგორიცაა სამკაულების დამზადება, ვიდრე სპორტი. [PAWN_pronoun] გრძნობდა, რომ [PAWN_pronoun] არასწორი სხეული ჰქონდა. საბედნიეროდ, [PAWN_possessive] ოჯახმა და მეგობრებმა მხარი დაუჭირეს [PAWN_possessive] სქესის შეცვლას; როგორც მოზარდი, [PAWN_pronoun] გაიკეთა ოპერაცია, რათა გამხდარიყო ქალი.</CoreworldStudent50.description>
+  <CoreworldStudent50.title>მსოფლიო სტუდენტი</CoreworldStudent50.title>
+  <CoreworldStudent50.titleShort>სტუდენტი</CoreworldStudent50.titleShort>
+  <CorpBredStudent54.description>[PAWN_nameDef] შეიქმნა იმისათვის, რომ გამხდარიყო აღმასრულებელი კოსმოსური საძიებო კორპორაციისთვის, რომელიც ფლობდა [PAWN_possessive] მშობლიურ პლანეტას. [PAWN_possessive] ოჯახი მუშაობდა ამ კორპორაციაში ოთხი თაობის განმავლობაში.
+
+ხუთი წლის ასაკში [PAWN_pronoun] ჩაირიცხა კორპორატიულ აკადემიაში, სადაც [PAWN_pronoun] ისწავლა ლოიალობა და დაუნდობლობა. [PAWN_nameDef] გამოირჩეოდა დიპლომატიური გადაწყვეტილებების პოვნაში, სადაც სხვებს დასჭირდებოდათ ძალადობა.</CorpBredStudent54.description>
+  <CorpBredStudent54.title>კორპუსში გამოყვანილი სტუდენტი</CorpBredStudent54.title>
+  <CorpBredStudent54.titleShort>სტუდენტი</CorpBredStudent54.titleShort>
+  <CorporateSlave22.description>[PAWN_nameDef] გაიზარდა კოლონიაში, რომელსაც ფლობს დიდი ბრჭყვიალა სამყაროს კორპორაცია. ყველა ბავშვს ძალის გამოყენებით ჰქონდა მიმაგრებული ვირტუალური რეალობის მოწყობილობები და გაიზარდა სასტიკ ციფრულ სამყაროში.
+
+მუდმივად იძულებული იყო ებრძოლა სხვებს მდიდრების გასართობად, იარაღი და ტაქტიკა გახდა [PAWN_nameDef] სამყაროს ცენტრი.</CorporateSlave22.description>
+  <CorporateSlave22.title>კორპორატიული მონა</CorporateSlave22.title>
+  <CorporateSlave22.titleShort>ჯარისკაცი</CorporateSlave22.titleShort>
+  <CorpStudent95.description>დე დიონი იყო გამოყვანილი, რათა გამხდარიყო აღმასრულებელი ოფიცერი დიდი კოსმოსური სავაჭრო კორპორაციისთვის, რომელიც ფლობდა [PAWN_possessive] მშობლიურ პლანეტას. [PAWN_possessive] ოჯახი მუშაობდა ამ კორპორაციაში შვიდი თაობის განმავლობაში.
+
+ექვსი წლის ასაკში [PAWN_pronoun] დაიწყო სწავლა კორპორატიულ აკადემიაში, სადაც [PAWN_pronoun] გახდა ერთგული მიმდევარი და დაუნდობელი აღმასრულებელი.</CorpStudent95.description>
+  <CorpStudent95.title>კორპუსის სტუდენტი</CorpStudent95.title>
+  <CorpStudent95.titleShort>სტუდენტი</CorpStudent95.titleShort>
+  <CountryChild95.description>[PAWN_nameDef] აღიზარდა ღვთის შიშით და [PAWN_მფლობელი] ქვეყნის სიყვარულით. [PAWN_pronoun] ნამდვილი ტყის ბავშვი იყო. [PAWN_pronoun] ყოველთვის ბევრს მუშაობდა პატივისცემის მოსაპოვებლად, ვიდრე მოეთხოვა.</CountryChild95.description>
+  <CountryChild95.title>სოფლის ბავშვი</CountryChild95.title>
+  <CountryChild95.titleShort>ჰკი ბავშვი</CountryChild95.titleShort>
+  <CowFarmer39.description>[PAWN_nameDef] გაიზარდა საზღვრულ სამყაროში, მამის [PAWN_possessive] ტირანიის ქვეშ, რომელიც აიძულებდა [PAWN_objective] ემუშავა ყოველდღე ფერმაში. [PAWN_pronoun] ოცნებობდა გაქცეულიყო [PAWN_მფლობელი] მამისგან და სამყაროს შესწავლა.
+
+ერთ დღეს, როდესაც სავაჭრო გემი თავზე იდგა, [PAWN_pronoun] საქონელს შორის ჩაყარა გაშვების ღობეებში და გაიქცა კოსმოსში.</CowFarmer39.description>
+  <CowFarmer39.title>ძროხის ფერმერი</CowFarmer39.title>
+  <CowFarmer39.titleShort>ფერმერი</CowFarmer39.titleShort>
+  <CrimeBossChild39.description>[PAWN_nameDef] ცნობილი კრიმინალური ავტორიტეტის ნაშვილები იყო. [PAWN_pronoun] ასწავლიდნენ ოჯახური ბიზნესის ყველა ასპექტს, კონტრაბანდისგან დაწყებული მკვლელობის გამომგონებლ გზებამდე.
+
+როდესაც ოჯახს თავს დაესხნენ, [PAWN_possessive] მამამ უბრძანა [PAWN_objective] დამალულიყო საიდუმლო კრიპტოძილის სარდაფში.</CrimeBossChild39.description>
+  <CrimeBossChild39.title>კრიმინალის ავტორის შვილი</CrimeBossChild39.title>
+  <CrimeBossChild39.titleShort>დამნაშავე ბავშვი</CrimeBossChild39.titleShort>
+  <CuriousChild33.description>[PAWN_nameDef] უფრო მეტად აინტერესებდა სამყაროს სისტემები და ნიმუშები, ვიდრე მისი მოსახლეობა. [PAWN_possessive] სოციალური უნარები დაზარალდა.
+
+[PAWN_nameDef] მიხვდა, რომ ყველაფერი მთლიანის ნაწილია და ნაწილის განადგურება იქნება ყველაფრის განადგურება.</CuriousChild33.description>
+  <CuriousChild33.title>ცნობისმოყვარე ბავშვი</CuriousChild33.title>
+  <CuriousChild33.titleShort>ცნობისმოყვარე</CuriousChild33.titleShort>
+  <DataDecoder39.description>ბრჭყვიალა სამყაროში დაბადებულ [PAWN_nameDef]-ს ინფორმაციის დოკუმენტირების პროცესი ძალიან აინტერესებდა და მალევე უფროსი გლიტერპედიის ჩამწერი გახდა.
+
+[PAWN_pronoun] თვითსწავლებაში ძლიერი იყო, მაგრამ სოციალური გამოცდილება აკლდა.</DataDecoder39.description>
+  <DataDecoder39.title>მონაცემთა დეკოდერი</DataDecoder39.title>
+  <DataDecoder39.titleShort>დეკოდერი</DataDecoder39.titleShort>
+  <DedicatedStudent12.description>მდიდარი მწარმოებლის, [PAWN_nameDef] შვილი ადრეული ასაკიდან იყო განებივრებული. [PAWN_pronoun]-მ განუვითარდა მიდრეკილება კითხვისა და ხელოვნების მიმართ და ზიზღი აზარტული სამუშაოს მიმართ.
+
+რევოლუციამ [PAWN_possessive] მამის ბიზნესი სახელმწიფო კონტროლის ქვეშ მოექცა. უსახსროდ, [PAWN_nameDef] ბევრს მუშაობდა [PAWN_possessive] განათლების დასასრულებლად.</DedicatedStudent12.description>
+  <DedicatedStudent12.title>თავდადებული სტუდენტი</DedicatedStudent12.title>
+  <DedicatedStudent12.titleShort>სტუდენტი</DedicatedStudent12.titleShort>
+  <DesertRat47.description>[PAWN_nameDef] დაიბადა უდაბნოს ასკეტების ტომში, რომლებიც დახეტიალობდნენ გაუთავებელ ნარჩენებში.
+
+ისინი ეძებდნენ მითურ სუბსტანციას, რომელიც მათ სჯეროდათ, რომ ფსიქოდელიური გამოცხადების საშუალებით გაათავისუფლებდა მათ იგნორირებას - და ვარსკვლავთშორისი მშვიდობის ახალ პერიოდს.</DesertRat47.description>
+  <DesertRat47.title>უდაბნოს ვირთხა</DesertRat47.title>
+  <DesertRat47.titleShort>უდაბნოს ვირთხა</DesertRat47.titleShort>
+  <DiplomatsChild97.description>[PAWN_nameDef] დაიბადა დიპლომატიურ ოჯახში.
+
+ხშირად მოგზაურობდა, [PAWN_pronoun] სწავლობდა სახლში და სამყაროს ძირითადად კომპიუტერის საშუალებით ხედავდა.</DiplomatsChild97.description>
+  <DiplomatsChild97.title>დიპლომატის შვილი</DiplomatsChild97.title>
+  <DiplomatsChild97.titleShort>დიპლომატი</DiplomatsChild97.titleShort>
+  <DisasterSurvivor29.description>[PAWN_nameDef]-ის პლანეტა პატარა მთვარეს შეეჯახა. ყველაფერი, რაც [PAWN_pronoun] იცოდა, როგორც სახლი, განადგურდა და [PAWN_possessive] მთელი ოჯახი დაიღუპა. [PAWN_pronoun] დარჩა ნანგრევებში, რათა თავი დაეცვა [PAWN_objective].</DisasterSurvivor29.description>
+  <DisasterSurvivor29.title>კატასტროფის გადარჩენილი</DisasterSurvivor29.title>
+  <DisasterSurvivor29.titleShort>გადარჩენილი</DisasterSurvivor29.titleShort>
+  <DisasterSurvivor65.description>[PAWN_nameDef] ამოძირკვული იყო, როდესაც მარაუდები თავს დაესხნენ [PAWN_possessive] საოჯახო ფერმას, გაანადგურეს მანქანები და დახოცეს ფერმის ხელები და მხეცები.
+
+ყველა იცოდა [PAWN_pronoun]-ის სიკვდილის შემდეგ, [PAWN_pronoun] დარჩა ნანგრევებში, რათა თავი დაეცვა [PAWN_objective].</DisasterSurvivor65.description>
+  <DisasterSurvivor65.title>კატასტროფის გადარჩენილი</DisasterSurvivor65.title>
+  <DisasterSurvivor65.titleShort>გადარჩენილი</DisasterSurvivor65.titleShort>
+  <DiscardedYouth93.description>[PAWN_nameDef] გაიზარდა იზოლირებულად ნაგვის პლანეტაზე. ნაგავსაყრელი ირგვლივ ბრჭყვიალა სამყაროებისთვის, ეს იყო მკაცრი სახლი. ბავშვობაში [PAWN_pronoun] კომფორტისთვის იწოვა გადაყრილი მკვებავი პასტის ონკანი.
+
+ამ სასოწარკვეთილ გარემოებებში, ყოველგვარი შანსების საწინააღმდეგოდ, [PAWN_pronoun] გადარჩა - და აყვავდა.</DiscardedYouth93.description>
+  <DiscardedYouth93.title>განდევნილი ახალგაზრდობა</DiscardedYouth93.title>
+  <DiscardedYouth93.titleShort>გადაყრილი</DiscardedYouth93.titleShort>
+  <DisciplinedFarmer28.description>[PAWN_nameDef] ორი ვაჟიდან უმცროსი იყო საოჯახო ფერმაში, სასაზღვრო ნაკვეთზე, რომელიც ცდილობდა მოგების მოპოვებას. [PAWN_nameDef]-ის მამა მკაცრი დისციპლინატორი იყო, გამუდმებით [PAWN_possessive] შვილებთან, რათა უფრო მეტად ემუშავა და გაჩუმებულიყო. [PAWN_nameDef]-მა დაწვა [PAWN_possessive] ხელით საუზმის მომზადება და დაიფიცა, რომ მოემზადებოდა მხოლოდ მაშინ, როდესაც [PAWN_possessive] სიცოცხლეს საფრთხე ემუქრებოდა.</DisciplinedFarmer28.description>
+  <DisciplinedFarmer28.title>დისციპლინირებული ფერმერი</DisciplinedFarmer28.title>
+  <DisciplinedFarmer28.titleShort>ფერმერი</DisciplinedFarmer28.titleShort>
+  <DisplacedNoble67.description>დაბადებული ქალაქის სამყაროში სამი მეგაქალაქის მმართველის ოჯახში, [PAWN_nameDef]-ის პერსპექტივები კარგი ჩანდა - მანამ, სანამ ძალადობრივმა აჯანყებამ დაამხო [PAWN_possessive] ოჯახი. გადასახლებამ [PAWN_nameDef] გააცნო შრომისმოყვარეობასა და ბრძოლაში, მაგრამ გარკვეული მაღალი სიბრაზე რჩება.</DisplacedNoble67.description>
+  <DisplacedNoble67.title>დევნილი კეთილშობილი</DisplacedNoble67.title>
+  <DisplacedNoble67.titleShort>კეთილშობილი</DisplacedNoble67.titleShort>
+  <DreadedBaby56.description>[PAWN_nameDef] იპოვეს როგორც ბავშვი ჩამოვარდნილ კოსმოსურ ხომალდში. გემის ჩანაწერების მიხედვით, [PAWN_pronoun]-მა გამოიგონა ბირთვული მოწყობილობა, რომელიც კვებავდა [PAWN_possessive] გემს. როგორც ჩანს, [PAWN_pronoun]-მაც გამოიგონა ცა და ჰამბურგერი და, როგორც ამბობენ, უგემრიელესი ოქროს კნუტების რასის მამა იყო.</DreadedBaby56.description>
+  <DreadedBaby56.title>შეშინებული ბავშვი</DreadedBaby56.title>
+  <DreadedBaby56.titleShort>პატარა ძმაკაცი</DreadedBaby56.titleShort>
+  <Dreamer79.description>[PAWN_nameDef] ექსპრესიული ბავშვი იყო. [PAWN_pronoun] ხშირად მღეროდა და ძალიან ადვილად მეგობრობდა, ახალგაზრდები იყვნენ თუ მოხუცები, კაცი თუ ქალი.
+
+[PAWN_pronoun] სძულდა ჩხუბი, მაგრამ როცა გაბრაზდნენ, [PAWN_pronoun] შეიძლება საშიში იყოს. [PAWN_possessive] ტემპერამენტი სწრაფი იყო.</Dreamer79.description>
+  <Dreamer79.title>მეოცნებე</Dreamer79.title>
+  <Dreamer79.titleShort>მეოცნებე</Dreamer79.titleShort>
+  <Drudge9.description>[PAWN_nameDef] არასოდეს იყო დარწმუნებული, რისი გაკეთება სურდა [PAWN_pronoun] [PAWN_possessive] ცხოვრებასთან. [PAWN_pronoun] დროის უმეტეს ნაწილს [PAWN_possessive] ხარჯავდა დაბალანაზღაურებადი სამუშაოების შესრულებაში და აინტერესებდა, როგორი იქნებოდა [PAWN_possessive] მომავალი.
+
+[PAWN_pronoun] ართობდა [PAWN_objective] თავს კოსმოსური სიმებით და გადარჩენის თამაშებით, ოცნებობდა ერთ დღეს ყოფილიყო სადმე უფრო საინტერესო ადგილი.</Drudge9.description>
+  <Drudge9.title>დრტვინვა</Drudge9.title>
+  <Drudge9.titleShort>დრტვინვა</Drudge9.titleShort>
+  <DrugMule80.description>ბავშვთა სახლში გაზრდილი [PAWN_nameDef] ათი წლის ასაკში მიუბრუნდა ბანდის ცხოვრებას.
+
+[PAWN_pronoun] გამოიყენა ადგილობრივმა ბანდამ, როგორც ნარკომანიის ჯორი, რათა გადაეტანა "სუბსტანცია F" მეტოქე ბანდის ტერიტორიაზე. [PAWN_pronoun] აიღო ერთი-ორი ტყვია.</DrugMule80.description>
+  <DrugMule80.title>ნარკოტიკების ჯორი</DrugMule80.title>
+  <DrugMule80.titleShort>ჯორი</DrugMule80.titleShort>
+  <DustyFarmHand75.description>მას შემდეგ, რაც [PAWN_nameDef]-ს შეეძლო სიარული, [PAWN_pronoun] ეხმარებოდა ცხოველებისა და ნათესების მოვლაში, რომლებსაც [PAWN_მფლობელები] ადამიანები უვლიდნენ თავიანთ მშრალ სამშობლოში.
+
+მუშაობა გამკაცრდა [PAWN_objective], მაგრამ ცოტა დრო დატოვა ინტელექტუალური საქმიანობისთვის.</DustyFarmHand75.description>
+  <DustyFarmHand75.title>მტვრიანი ფერმის ხელი</DustyFarmHand75.title>
+  <DustyFarmHand75.titleShort>ფერმის ხელი</DustyFarmHand75.titleShort>
+  <Empath47.description>[PAWN_nameDef] წარმოუდგენლად თანამგრძნობი ბავშვი იყო, იმდენად, რომ [PAWN_pronoun] სრულიად გადატვირთული იყო მარტივი სოციალური ურთიერთქმედებით. ერთხელ, [PAWN_pronoun] დაარტყა შეცდომას და თავი დამნაშავედ იგრძნო [PAWN_pronoun] ერთი საათის განმავლობაში ტიროდა.
+
+[PAWN_nameDef]-მა ერთხელ სცადა იარაღის გამოყენება, მაგრამ ის ძალიან ცუდად წავიდა, რადგან ძლიერმა ხმაურმა [PAWN_objective] უკონტროლოდ აფრინდა.</Empath47.description>
+  <Empath47.title>თანაგრძნობა</Empath47.title>
+  <Empath47.titleShort>თანაგრძნობა</Empath47.titleShort>
+  <EnergeticPopIdol61.description>[PAWN_nameDef] გაიზარდა ბრჭყვიალა სამყაროში, ვარჯიშობდა რაპერის ხელოვნებაში და სიმღერაში. [PAWN_pronoun] რამდენიმე წელი გაატარა, როგორც ენერგიული თინეიჯერული პოპ კერპი.
+
+თუმცა, [PAWN_pronoun]-მა გადაწყვიტა, რომ მუსიკისა და სამოდელო ინდუსტრია არ აქცევდა საკმარის ყურადღებას [PAWN_objective], ამიტომ [PAWN_pronoun] დატოვა.</EnergeticPopIdol61.description>
+  <EnergeticPopIdol61.title>ენერგიული პოპ კერპი</EnergeticPopIdol61.title>
+  <EnergeticPopIdol61.titleShort>პოპ კერპი</EnergeticPopIdol61.titleShort>
+  <ExiledPrince58.description>სამეფო ოჯახის წევრი, [PAWN_nameDef] გადაასახლეს [PAWN_possessive] ოჯახის შერცხვენის გამო.
+
+ცხოვრობდა უცხო ქვეყანაში, ძირითადად მარტო, [PAWN_pronoun] დროის უმეტეს ნაწილს [PAWN_possessive] ატარებდა საცხოვრებლად ქოხებისა და სახლების კეთებაში. [PAWN_pronoun] საშუალოდ დღეში ცოტა დროს პოულობდა სიამოვნებისთვის და დაკარგა ყველა [PAWN_possessive] მეგობარი და ოჯახი.</ExiledPrince58.description>
+  <ExiledPrince58.title>გადასახლებული პრინცი</ExiledPrince58.title>
+  <ExiledPrince58.titleShort>პრინცი</ExiledPrince58.titleShort>
+  <FactoryDrone58.description>[PAWN_nameDef] გაიზარდა დიდ ქარხნულ ქალაქში ინდუსტრიულ სამყაროში.
+
+იმის გამო, რომ სიღარიბე მძვინვარებდა და საკვები მწირი იყო, [PAWN_pronoun] მუშაობდა იმ ხელფასით, რასაც [PAWN_pronoun] შეეძლო მიეღო. ეს არ იყო ადვილი ცხოვრება, მაგრამ [PAWN_nameDef] არასოდეს ერიდებოდა მძიმე სამუშაოს.</FactoryDrone58.description>
+  <FactoryDrone58.title>ქარხნული დრონი</FactoryDrone58.title>
+  <FactoryDrone58.titleShort>მუშაკი</FactoryDrone58.titleShort>
+  <FallenProdigy40.description>[PAWN_nameDef] დაიბადა ბრჭყვიალა სამყაროში, რომელიც ქაოსში ვარდება. [PAWN_possessive] მამა მოკლეს მოქმედებაში.
+
+[PAWN_pronoun] იბრძოდა Utmaior Academy-ში სტიპენდიისთვის და უნდა დაემტკიცებინა, რომ [PAWN_possessive] იყო იქ ყოფნის უფლება. ბავშვი გენიოსი, [PAWN_pronoun] ბულინგი იყო საქველმოქმედო საქმის გამო და ვერ მეგობრობდა სხვა ბავშვებთან.</FallenProdigy40.description>
+  <FallenProdigy40.title>დაცემული საოცრება</FallenProdigy40.title>
+  <FallenProdigy40.titleShort>საოცრება</FallenProdigy40.titleShort>
+  <FarmBoy64.description>[PAWN_nameDef] მუშაობდა [PAWN_possessive] ოჯახის ფერმაში, უვლიდა ცხოველებს და მკურნალობდა მათ, როცა ისინი დაშავდნენ. უპირატესობას ანიჭებდა პრაქტიკულ დავალებებს და გარეთ, [PAWN_pronoun] მოერიდა უფრო რბილ სამუშაოებს, რამაც შესაძლოა [PAWN_objective] შენახულიყო შიგნით.
+
+[PAWN_pronoun] სიამოვნებდა ამ მარტოხელა შრომით და მიდრეკილი რჩებოდა ხალხის გზაზე და აკეთებდა [PAWN_possessive] საკუთარ საქმეს.</FarmBoy64.description>
+  <FarmBoy64.title>ფერმის ბიჭი</FarmBoy64.title>
+  <FarmBoy64.titleShort>ფერმის ბიჭი</FarmBoy64.titleShort>
+  <FarmerBoy88.description>[PAWN_nameDef]-ის მშობლები დაიღუპნენ ხანძრის შედეგად, როდესაც [PAWN_pronoun] შვიდი წლის იყო. [PAWN_pronoun] გაიზარდა [PAWN_possessive] ბიძის ფერმაში, ხვნას მინდვრებს და აკეთებს ხელით შრომას.
+
+[PAWN_pronoun]-მა ვერ გაუძლო [PAWN_მფლობელი] მშობლების შესახებ კითხვებზე პასუხის გაცემას, ამიტომ [PAWN_pronoun]-მა სოციალური კონტაქტი მძიმე შრომით შეცვალა.</FarmerBoy88.description>
+  <FarmerBoy88.title>ფერმერი ბიჭი</FarmerBoy88.title>
+  <FarmerBoy88.titleShort>ფერმერი</FarmerBoy88.titleShort>
+  <FarmersDaughter81.description>[PAWN_nameDef] გაიზარდა [PAWN_possessive] მშობლების ვენახზე. [PAWN_pronoun] გაატარა [PAWN_possessive] ახალგაზრდობა მიწის შესწავლაში და მეგობრობდა სხვადასხვა ბუზებსა და მწერებთან.
+
+მას შემდეგ, რაც მოისმინა ისტორიები სამყაროში არსებული ყველა მომხიბლავი რამის შესახებ, [PAWN_pronoun] ყოველთვის ოცნებობდა გასულიყო, რომ ენახა ის [PAWN_objective] საკუთარი თავისთვის.</FarmersDaughter81.description>
+  <FarmersDaughter81.title>ფერმერის ქალიშვილი</FarmersDaughter81.title>
+  <FarmersDaughter81.titleShort>ფერმის გოგონა</FarmersDaughter81.titleShort>
+  <FarmersSon20.description>[PAWN_nameDef] ბავშვობაში [PAWN_possessive]-ის დიდი ნაწილი დახარჯა ბიომური მეურნეობის შესწავლაში. [PAWN_possessive] ბიომში ისინი ატარებდნენ ცხოველებს, რათა გამოეკვლიათ, რომელი უმკლავდებოდა ყველაზე უკეთ უცხო გარემოს.
+
+ამის გამო, მოგზაურობის შეზღუდვები და ჟანგბადის რაციონირების სისტემა, [PAWN_pronoun] იშვიათად შეხვედროდა ვინმეს [PAWN_possessive] ოჯახის გარეთ.</FarmersSon20.description>
+  <FarmersSon20.title>ფერმერის შვილი</FarmersSon20.title>
+  <FarmersSon20.titleShort>ფერმერი</FarmersSon20.titleShort>
+  <FarmHand2.description>[PAWN_nameDef] დაიბადა ფერმაში, რიყის სამყაროში.
+
+ყველაფერზე ზრუნავდა ფერმის რამდენიმე წევრი, მათ შორის [PAWN_nameDef]. ეს დაეხმარა [PAWN_objective] დამოუკიდებლობის, სულისკვეთების და კარგად მომრგვალებული ხასიათის ჩამოყალიბებაში.</FarmHand2.description>
+  <FarmHand2.title>ფერმის ხელი</FarmHand2.title>
+  <FarmHand2.titleShort>ფერმის ხელი</FarmHand2.titleShort>
+  <FarmKid60.description>[PAWN_nameDef] გაიზარდა [PAWN_possessive] ოჯახის ძროხის ფერმაში. [PAWN_pronoun] სიამოვნებით მუშაობდა მინდვრებზე და ზრუნავდა ცხოველებზე.</FarmKid60.description>
+  <FarmKid60.title>ფერმის ბავშვი</FarmKid60.title>
+  <FarmKid60.titleShort>ფერმის ბავშვი</FarmKid60.titleShort>
+  <FarmMechanic1.description>ფერმერულ პლანეტაზე გაზრდილი, [PAWN_nameDef] დახარჯა [PAWN_possessive] დრო იმ ავტომატური ტექნიკის შესწავლაზე, რომელიც იზრდებოდა და აგროვებდა უამრავ მოსავალს.</FarmMechanic1.description>
+  <FarmMechanic1.title>ფერმის მექანიკოსი</FarmMechanic1.title>
+  <FarmMechanic1.titleShort>მექანიკოსი</FarmMechanic1.titleShort>
+  <FeralChild85.description>[PAWN_nameDef] და [PAWN_possessive] ოჯახები ცხოვრობდნენ მძიმე, მაგრამ აყვავებული ცხოვრებით თანამემამულე კოლონისტებთან ერთად გარე სამყაროში.
+
+ერთ დღეს მექანოიდების ჯგუფი თავს დაესხა და ყველა მოკლა [PAWN_nameDef]-ის გარდა. [PAWN_pronoun] შემდეგ მარტო ცხოვრობდა უდაბნოში მანამ, სანამ თავდამსხმელთა ჯგუფმა იპოვა იგი.</FeralChild85.description>
+  <FeralChild85.title>ველური ბავშვი</FeralChild85.title>
+  <FeralChild85.titleShort>გადარჩენილი</FeralChild85.titleShort>
+  <FeralChild96.description>მიატოვეს ცხოველურ პლანეტაზე, როგორც პატარა ბავშვმა, არაფერი, გარდა საბანისა, რომელზეც სახელი იყო ამოქარგული, [PAWN_nameDef] გახდა [PAWN_objective] ერთიანი უდაბნოსთან.
+
+როდესაც [PAWN_pronoun] 13 წლის იყო, [PAWN_pronoun] შეხვდა მინერალების ამზომველთა გუნდს, რომლებმაც „შეთავაზეს“ [PAWN_objective] გავლა პლანეტიდან.</FeralChild96.description>
+  <FeralChild96.title>ველური ბავშვი</FeralChild96.title>
+  <FeralChild96.titleShort>ველური</FeralChild96.titleShort>
+  <FeudalFarmBoy0.description>[PAWN_nameDef] იყო შუა საუკუნეების ფერმერის ვაჟი და მოსალოდნელი იყო, რომ გაჰყოლოდა [PAWN_possessive] კვალს. [PAWN_pronoun] აღიზარდა კეთილ, კარგად გაწვრთნილ ფერმერ ბიჭად.
+
+[PAWN_pronoun] ცხოვრობდა უჩვეულო ფეოდალურ სამეფოში, რომელიც თანაარსებობდა შუა სამყაროს საზოგადოებასთან, რომელიც თავად იყო ცნობილი გენეტიკური მანიპულაციებით.</FeudalFarmBoy0.description>
+  <FeudalFarmBoy0.title>ფეოდალური მეურნე ბიჭი</FeudalFarmBoy0.title>
+  <FeudalFarmBoy0.titleShort>მონა</FeudalFarmBoy0.titleShort>
+  <FeudalLordling56.description>[PAWN_nameDef] გაიზარდა ფეოდალურ სამყაროში, რომელიც მრავალპლანეტიანი იმპერიის ნაწილი იყო. როგორც მაღალი ბატონის შვილი, [PAWN_pronoun] მრავალი პრივილეგიით სარგებლობდა.
+
+[PAWN_pronoun] ისწავლა მანევრირება როგორც პოლიტიკურ ლანდშაფტში, ასევე ახლო ბრძოლებში.</FeudalLordling56.description>
+  <FeudalLordling56.title>ფეოდალი</FeudalLordling56.title>
+  <FeudalLordling56.titleShort>ბატონიშვილი</FeudalLordling56.titleShort>
+  <FireScarredChild1.description>[PAWN_nameDef] იყო აქტიური ბავშვი, რომელიც ცხოვრობდა ბავშვობაში უმოკლეს დროში, სანამ [PAWN_pronoun] ცეცხლში არ ჩავარდა და არ მიიღო საშინელი დამწვრობა [PAWN_possessive] ხელებსა და მკლავებში. მიუხედავად იმისა, რომ ნაწიბურები გაცვეთილია, [PAWN_pronoun] ვერ იტანს ცეცხლთან ახლოს ყოფნას.</FireScarredChild1.description>
+  <FireScarredChild1.title>ცეცხლმოკიდებული ბავშვი</FireScarredChild1.title>
+  <FireScarredChild1.titleShort>შრამიანი</FireScarredChild1.titleShort>
+  <ForestChild83.description>როდესაც [PAWN_pronoun] ბავშვი იყო, [PAWN_nameDef]-ის დედა გაგიჟდა და დატოვა [PAWN_objective] ტყეში.
+
+ველური ადამიანების მიერ გაზრდილი [PAWN_nameDef] ცნობილი იყო როგორც ცხოველების სიყვარულით, ასევე მკვლელობით.</ForestChild83.description>
+  <ForestChild83.title>ტყის ბავშვი</ForestChild83.title>
+  <ForestChild83.titleShort>ტყის ბავშვი</ForestChild83.titleShort>
+  <FoundryApprentice76.description>[PAWN_nameDef] გაიზარდა როგორც შეგირდად ინდუსტრიული სამყაროს სამსხმელოში. ამ გამოცდილებამ მისცა [PAWN_objective] ლითონის დამუშავების უნარები და ძლიერი კუნთები, მაგრამ შეაფერხა [PAWN_possessive] მხატვრული განვითარება.</FoundryApprentice76.description>
+  <FoundryApprentice76.title>სამსხმელო შეგირდი</FoundryApprentice76.title>
+  <FoundryApprentice76.titleShort>სამსხმელო</FoundryApprentice76.titleShort>
+  <Freethinker38.description>[PAWN_nameDef] გაიზარდა ტოქსიკურ სამყაროში ტირან ლიდერებთან ერთად. მიუხედავად იმისა, რომ დანარჩენი მოსახლეობა პლანეტის ნარკოტიკების ექსპორტზე მაღალი იყო, [PAWN_pronoun] შეუერთდა მეამბოხე მილიციას.
+
+მას შემდეგ, რაც რეჟიმის წინააღმდეგ სარისკო ოპერაცია ჩაიშალა, [PAWN_pronoun] გაიქცა პლანეტიდან და ცოცხალი დარჩა პლანეტკრეკერის ანტიმატერიის ბომბით ურთიერთ განადგურების მუქარით.</Freethinker38.description>
+  <Freethinker38.title>თავისუფალი მოაზროვნე</Freethinker38.title>
+  <Freethinker38.titleShort>მოაზროვნე</Freethinker38.titleShort>
+  <FrontierMarshal54.description>[PAWN_nameDef]-მა მემკვიდრეობით მიიღო მოვალეობის გრძნობა [PAWN_possessive] მამისგან და დაიწყო სამართალდამცავი კარიერა [PAWN_possessive] სასაზღვრო საშინაო სამყაროში.
+
+[PAWN_pronoun] ცდილობდა კანონის პატივისცემით დაცვას, მაგრამ ადგილობრივი ხელისუფლების წარმომადგენლების კორუფცია და სიხარბე ხშირად იმედგაცრუებდა მას.</FrontierMarshal54.description>
+  <FrontierMarshal54.title>მესაზღვრე მარშალი</FrontierMarshal54.title>
+  <FrontierMarshal54.titleShort>მარშალი</FrontierMarshal54.titleShort>
+  <GalacticPage37.description>[PAWN_nameDef] ემსახურებოდა კოსმოსური ფლოტის მაღალ ადმირალს. [PAWN_pronoun] ისწავლა სასამართლოს გზები, მათ შორის ეტიკეტი და მეტყველება.
+
+[PAWN_possessive] ფეოდალურ საზოგადოებაში დიდ პატივად ითვლებოდა ასეთი პრესტიჟის მქონე ადამიანის მომსახურება.</GalacticPage37.description>
+  <GalacticPage37.title>გალაქტიკური გვერდი</GalacticPage37.title>
+  <GalacticPage37.titleShort>გვერდი</GalacticPage37.titleShort>
+  <GameFanatic86.description>[PAWN_nameDef] იყო ფანატიკური მოთამაშე, რომელმაც ისწავლა გადარჩენა ვირტუალური რეალობის თამაშებში.
+
+ერთხელ, როდესაც ცდილობდა დაემტკიცებინა [PAWN_possessive] უნარები რეალურ სამყაროში, [PAWN_pronoun] გაიტაცა კრიმინალურმა მეცნიერმა და ჩაატარა ექსპერიმენტები. [PAWN_pronoun] გაიქცა, მაგრამ გამოცდილება მას დარჩა.</GameFanatic86.description>
+  <GameFanatic86.title>თამაშის ფანატიკოსი</GameFanatic86.title>
+  <GameFanatic86.titleShort>გეიმერი</GameFanatic86.titleShort>
+  <GangMember16.description>[PAWN_nameDef] გაიზარდა მშობლების გარეშე. [PAWN_possessive] მთელი ცხოვრება მარტომ გაატარა, იბრძოდა გადარჩენისთვის ქუჩებში.
+
+რაც არ უნდა რთული გამხდარიყო გადარჩენა, [PAWN_pronoun] არასოდეს დანებდა.</GangMember16.description>
+  <GangMember16.title>ბანდის წევრი</GangMember16.title>
+  <GangMember16.titleShort>ბანდის ბავშვი</GangMember16.titleShort>
+  <GangMember83.description>[PAWN_nameDef] უსახლკაროდ გაიზარდა ქალაქურ სამყაროში. [PAWN_pronoun] იძულებული გახდა ებრძოლა და ებრძოლა ყველაფრისთვის, რაც [PAWN_objective] მძიმე და დაუნდობელი გახადა სრულწლოვანებამდე დიდი ხნით ადრე.
+
+[PAWN_nameDef] დარჩებოდა ამ ქუჩებში, [PAWN_pronoun] რომ არ დაშავებულიყო სროლის დროს და [PAWN_possessive] ცხედარი ჩამორთმეული ყოფილიყო მსოფლიოს ერთ-ერთი მმართველი კორპორაციის გამოსაყენებლად.</GangMember83.description>
+  <GangMember83.title>ბანდის წევრი</GangMember83.title>
+  <GangMember83.titleShort>განჯერი</GangMember83.titleShort>
+  <GlitterworldKid85.description>ბრჭყვიალა სამყაროს გავლენის შემქმნელის და მისი გენეტიკურად შემუშავებული „იდეალური მეუღლის“ ქალიშვილი, [PAWN_nameDef] გაიზარდა და სწავლობდა მხრებზე ნაღების კრემს - თუმცა [PAWN_pronoun] ყოველთვის ამჯობინებდა [PAWN_possessive] პირად სივრცეს, წიგნების კითხვას და ტექნიკის შეხებას.</GlitterworldKid85.description>
+  <GlitterworldKid85.title>ბრჭყვიალა სამყაროს ბავშვი</GlitterworldKid85.title>
+  <GlitterworldKid85.titleShort>ბრჭყვიალა ბავშვი</GlitterworldKid85.titleShort>
+  <GlitterworldNerd20.description>[PAWN_nameDef]-ს უყვარდა ტექნოლოგია [PAWN_pronoun]-ის დაბადების დღიდან. [PAWN_pronoun]-ს ჰყავდა მექანოიდი კომპანიონი, რომლის შეცვლაც [PAWN_pronoun] ცდილობდა.
+
+[PAWN_possessive] ტექნოლოგიით გატაცება ნიშნავს, რომ [PAWN_pronoun] არასოდეს აფასებდა ხელოვნებას ან კულტურას.</GlitterworldNerd20.description>
+  <GlitterworldNerd20.title>ბრჭყვიალა სამყაროს ნერდი</GlitterworldNerd20.title>
+  <GlitterworldNerd20.titleShort>ნაბიჭვარი</GlitterworldNerd20.titleShort>
+  <GlitterworldRoyal24.description>[PAWN_nameDef] გაიზარდა ბრჭყვიალა სამყაროს სამეფო ოჯახში. [PAWN_pronoun] პატარა ასაკიდან იყო მოწესრიგებული, რათა დაქორწინებულიყო სხვა პლანეტის სამეფო ოჯახში.
+
+სამწუხაროდ, [PAWN_possessive] დახრილმა კბილებმა [PAWN_objective] არასასურველი გახადა მოსარჩელეებისთვის, ამიტომ [PAWN_pronoun] გახდა მწარე და უკმაყოფილო.</GlitterworldRoyal24.description>
+  <GlitterworldRoyal24.title>ბრჭყვიალა სამყარო სამეფო</GlitterworldRoyal24.title>
+  <GlitterworldRoyal24.titleShort>ჰონორარი</GlitterworldRoyal24.titleShort>
+  <GNomeSculptor34.description>[PAWN_nameDef] შეიქმნა ლაბორატორიაში G-nome პროექტის ფარგლებში. [PAWN_pronoun] ჩაენერგა დაბადებისთანავე ქსენობიოლოგიის ყველა ასპექტის ენციკლოპედიური ცოდნით.
+
+G-ნომის მეცნიერებმა მეტსახელად [PAWN_objective] [PAWN_nameDef] შეარქვეს და [PAWN_objective] დაკავდნენ ქანდაკებით. [PAWN_pronoun]-ს განუვითარდა სიყვარული ჯუჯების ძერწვისა და ჯუჯების აქსესუარების მიმართ.</GNomeSculptor34.description>
+  <GNomeSculptor34.title>გ-ნომის მოქანდაკე</GNomeSculptor34.title>
+  <GNomeSculptor34.titleShort>მოქანდაკე</GNomeSculptor34.titleShort>
+  <GunKid30.description>ურბსამყაროში გაზრდილი, [PAWN_nameDef] არასოდეს ყოფილა ადვილი. ყოველი დღე იყო ბრძოლა და დაბინძურება, შიმშილი და უფროსი ბავშვების ბანდები.
+
+იმ პატარა სივრცეში, სადაც [PAWN_pronoun] იძულებული იყო [PAWN_objective]საკუთარი თავი, [PAWN_pronoun] შეისწავლა [PAWN_possessive] ვნება - იარაღი, საბრძოლო ტაქტიკა და ომის ისტორია.</GunKid30.description>
+  <GunKid30.title>იარაღიანი ბავშვი</GunKid30.title>
+  <GunKid30.titleShort>იარაღიანი ბავშვი</GunKid30.titleShort>
+  <Gymnast48.description>[PAWN_nameDef] ადრეულ ასაკში პროფესიონალი ტანმოვარჯიშე იყო. [PAWN_possessive] უნარების წყალობით, [PAWN_pronoun] შეძლო ჩაებარებინა ბრჭყვიალა სამყაროს უნივერსიტეტში.
+
+ტანვარჯიშის კარიერული შესაძლებლობების ნაკლებობის გამო, [PAWN_pronoun] დატოვა უნივერსიტეტი უმუშევარი და უზარმაზარი დავალიანება.</Gymnast48.description>
+  <Gymnast48.title>ტანმოვარჯიშე</Gymnast48.title>
+  <Gymnast48.titleShort>ტანმოვარჯიშე</Gymnast48.titleShort>
+  <HackerKid98.description>მაღალტექნოლოგიურ სამყაროში დაბადებულმა [PAWN_nameDef]-მა კომპიუტერების გატეხვა ახალგაზრდა ასაკში ისწავლა. 
+
+მრავალი საათის დახარჯვამ მარტოობამ [PAWN_objective] ძალიან კარგი გახადა მანქანებთან, მაგრამ ძალიან ცუდი ადამიანებისთვის.</HackerKid98.description>
+  <HackerKid98.title>ჰაკერი ბავშვი</HackerKid98.title>
+  <HackerKid98.titleShort>ჰაკერი</HackerKid98.titleShort>
+  <HackerProdigy84.description>[PAWN_nameDef] გაიზარდა, როგორც მდიდარი ქირურგების ერთადერთი შვილი. მას შემდეგ, რაც ზეწოლა მოახდინეს სამედიცინო სტაჟირების მიღებაზე, [PAWN_pronoun] გატეხა. [PAWN_pronoun] წაართვა [PAWN_possessive] მემკვიდრეობა და წავიდა მიწისქვეშეთში, რათა ესწავლა კომპიუტერული ქსელების გამოყენება. [PAWN_pronoun] სწრაფად გახდა ერთ-ერთი ყველაზე საშინელი ჰაკერი [PAWN_possessive] მშობლიურ პლანეტაზე.</HackerProdigy84.description>
+  <HackerProdigy84.title>ჰაკერი საოცრება</HackerProdigy84.title>
+  <HackerProdigy84.titleShort>ჰაკერი</HackerProdigy84.titleShort>
+  <HeadjackAddict4.description>კომპიუტერში შეყვანილი ჯეკის საშუალებით რამდენიმე დღის განმავლობაში, [PAWN_nameDef] აღმოაჩინა, რომ [PAWN_pronoun] ამჯობინებდა კომპიუტერების კომპანიას, ვიდრე ადამიანებისა და შინაური ცხოველების კომპანიას.</HeadjackAddict4.description>
+  <HeadjackAddict4.title>თავდამსხმელი ნარკომანი</HeadjackAddict4.title>
+  <HeadjackAddict4.titleShort>თავდამსხმელი</HeadjackAddict4.titleShort>
+  <HelpDeskWorker31.description>[PAWN_possessive] ტექნოლოგიისადმი მიდრეკილების და სხვების დახმარების სურვილის გამო, [PAWN_nameDef]-მა მიაღწია შესაძლებლობას დაეხმარა სამუშაო მაგიდაზე.
+
+სამწუხაროდ, სამუშაოს სულის გამანადგურებელი შემდგომი ეფექტი უფრო დიდხანს გაგრძელდა, ვიდრე [PAWN_possessive] ენთუზიაზმი.</HelpDeskWorker31.description>
+  <HelpDeskWorker31.title>დამხმარე მაგიდის თანამშრომელი</HelpDeskWorker31.title>
+  <HelpDeskWorker31.titleShort>დახმარების მაგიდა</HelpDeskWorker31.titleShort>
+  <HexCellArtist91.description>[PAWN_nameDef]-მ დახარჯული თექვსმეტი უჯრედებიდან დაამზადა სკულპტურები და ადგილობრივ მუზეუმში გადასცა საკვებისთვის.
+
+მას შემდეგ, რაც [PAWN_possessive] პოპულარობა გაიზარდა, [PAWN_pronoun] მიუახლოვდა მეკობრემ და გაიტაცა. მეკობრემ შეინახა [PAWN_objective] პატიმარი და აიძულა [PAWN_objective] შეექმნა გასაყიდი ქანდაკებები.</HexCellArtist91.description>
+  <HexCellArtist91.title>ექვსუჯრედიანი მხატვარი</HexCellArtist91.title>
+  <HexCellArtist91.titleShort>მხატვარი</HexCellArtist91.titleShort>
+  <HighBaroness37.description>[PAWN_nameDef] დაიბადა, როგორც დაბალი რანგის ჰონორარი დიდ იმპერიულ ოჯახში.
+
+[PAWN_pronoun] ადრეული ასაკიდანვე იყო პასუხისმგებელი [PAWN_possessive] მშობლიური პლანეტის მართვაზე და ისწავლა მნიშვნელოვანი პოლიტიკური და კულტურული უნარები ამ როლში.</HighBaroness37.description>
+  <HighBaroness37.title>მაღალი ბარონესა</HighBaroness37.title>
+  <HighBaroness37.titleShort>კეთილშობილი</HighBaroness37.titleShort>
+  <HillbillyProdigy60.description>[PAWN_nameDef] ცივ სამყაროში დაბადებული, ძირითადად ბეწვიანი ქსენოადამიანებით დასახლებული, გაიზარდა ბარში ჩხუბისა და სროლების ხმაზე. მიუხედავად იმისა, რომ [PAWN_possessive] ბავშვობა გაატარა ბანჯოზე დაკვრასა და მექანიკოსად მუშაობაში, [PAWN_possessive] არანორმალურმა ინტელექტმა აიძულა [PAWN_objective] მოისურვოს რაღაც მეტი; [PAWN_pronoun] ახალგაზრდა ასაკში ჩაირიცხა სამედიცინო სკოლაში.</HillbillyProdigy60.description>
+  <HillbillyProdigy60.title>ბორცვიანი საოცრება</HillbillyProdigy60.title>
+  <HillbillyProdigy60.titleShort>ბორცვი</HillbillyProdigy60.titleShort>
+  <HistoryStudent12.description>ბავშვობაში [PAWN_nameDef] ისწავლა მრავალი მხატვრული ფორმა, მათ შორის მუსიკა და რომანების წერა. როდესაც [PAWN_pronoun] გაიზარდა, [PAWN_pronoun] დაიწყო ლეგენდების შესწავლა [PAWN_possessive] მშობლიური სამყაროდან - ლეგენდები ხვლიკის მსგავსი არსებების შესახებ, რომლებიც მდებარეობენ [PAWN_possessive] კულტურის ფოლკლორის ცენტრში.</HistoryStudent12.description>
+  <HistoryStudent12.title>ისტორიის სტუდენტი</HistoryStudent12.title>
+  <HistoryStudent12.titleShort>სტუდენტი</HistoryStudent12.titleShort>
+  <HunterScavenger64.description>[PAWN_nameDef], ვინას მთიანეთში, თავდამსხმელთა ოჯახში დაიბადა, [PAWN_nameDef] გადარჩა ახლომდებარე დასახლებებიდან საკვებისა და რესურსების მოპოვებით [PAWN_possessive] ბანდასთან ერთად. [PAWN_pronoun] იყო ყველაზე სასტიკი თაიგულიდან.</HunterScavenger64.description>
+  <HunterScavenger64.title>მონადირე გამწმენდი</HunterScavenger64.title>
+  <HunterScavenger64.titleShort>გამწმენდი</HunterScavenger64.titleShort>
+  <IcePlanetChild95.description>ოკეანის მთვარის გაყინულ ნარჩენებზე გაზრდილი [PAWN_nameDef]-ს მხოლოდ ცხოველები და რამდენიმე მძიმედ დაკბენილი მეზღვაური ჰყავდა თანმხლები.
+
+სოციალური ურთიერთქმედების ნაკლებობამ [PAWN_objective] გამოიწვია ინჟინერიისადმი ინტერესის განვითარება - მაგრამ [PAWN_pronoun] არასოდეს განუვითარებია დიდი სიყვარული ადამიანების მიმართ.</IcePlanetChild95.description>
+  <IcePlanetChild95.title>ყინულის პლანეტის ბავშვი</IcePlanetChild95.title>
+  <IcePlanetChild95.titleShort>ყინულის ბავშვი</IcePlanetChild95.titleShort>
+  <IceworldSurvivor75.description>[PAWN_nameDef] დაიბადა ყინულის სამყაროზე. Survival depended on staying together and building with nothing.
+
+[PAWN_pronoun] მიეჩვია სიცივეს. [PAWN_pronoun] never got used to dealing with those strange green things called plants.</IceworldSurvivor75.description>
+  <IceworldSurvivor75.title>ყინულის სამყაროს გადარჩენილი</IceworldSurvivor75.title>
+  <IceworldSurvivor75.titleShort>ყინულის დაბადებული</IceworldSurvivor75.titleShort>
+  <IdealisticCadet64.description>[PAWN_possessive] წინაპრების სამხედრო ტრადიციებით აღზრდილი, [PAWN_nameDef] პატარა ასაკიდანვე ასწავლიდნენ, რომ [PAWN_pronoun] იქნებოდა შესანიშნავი ლიდერი და [PAWN_მფლობელი] ოჯახის გმირი.
+
+[PAWN_pronoun] წარჩინებული იყო [PAWN_possessive] სწავლაში და წარჩინებით დაამთავრა აკადემია.</IdealisticCadet64.description>
+  <IdealisticCadet64.title>იდეალისტი იუნკერი</IdealisticCadet64.title>
+  <IdealisticCadet64.titleShort>იუნკერი</IdealisticCadet64.titleShort>
+  <ImperialStudent49.description>[PAWN_nameDef] სწავლობდა იმპერიულ შუა სამყაროში, სადაც იარაღი აკრძალული იყო და თავდაცვითი შესწავლა წახალისებული იყო. შედარებით უსაფრთხოებამ [PAWN_objective]-ს საშუალება მისცა ფოკუსირება [PAWN_possessive] ბოტანიკურ კვლევაზე.</ImperialStudent49.description>
+  <ImperialStudent49.title>იმპერიული სტუდენტი</ImperialStudent49.title>
+  <ImperialStudent49.titleShort>სტუდენტი</ImperialStudent49.titleShort>
+  <IndworldUrchin73.description>[PAWN_nameDef] გაიზარდა მსოფლიოს ქუჩებში მისი ინდუსტრიული რევოლუციის ადრეულ ეტაპზე. [PAWN_pronoun] გავიდა [PAWN_possessive] დღეები ქურდობაში, ხვეწნაში და გადაყრილი მანქანების ნარჩენებით, ყოველთვის ეძებდა გზას სიღარიბისგან თავის დასაღწევად.</IndworldUrchin73.description>
+  <IndworldUrchin73.title>შიდა სამყაროს ზღარბი</IndworldUrchin73.title>
+  <IndworldUrchin73.titleShort>ჭინჭრის ციება</IndworldUrchin73.titleShort>
+  <Infantry99.description>[PAWN_nameDef] გაიზარდა ომით განადგურებულ სამყაროში.
+
+ადრეულ ასაკში, [PAWN_pronoun] აჩვენეს, თუ როგორ უნდა გამოეყენებინათ იარაღი და სისასტიკით [PAWN_possessive] ნების წარმოჩენისთვის. [PAWN_pronoun] მოგვიანებით გამოირჩეოდა [PAWN_objective]თავი იმით, რომ სისასტიკეს სჩადიოდა მეტი ენთუზიაზმით, ვიდრე ვინმე სხვა.</Infantry99.description>
+  <Infantry99.title>ქვეითი</Infantry99.title>
+  <Infantry99.titleShort>ქვეითი</Infantry99.titleShort>
+  <JoywireAddict76.description>[PAWN_nameDef]-ის მდიდარმა მშობლებმა მიაწოდეს ყველაფერი [PAWN_pronoun], რაც კი ოდესმე სურდა. Joywires-ის აღმოჩენის შემდეგ, [PAWN_pronoun] შეპყრობილი გახდა. როგორც კი [PAWN_possessive] მშობლებმა გააცნობიერეს რა მოხდა, მათ შეწყვიტეს [PAWN_objective].
+
+უყურადღებო და ხშირად მოძალადე, [PAWN_pronoun] ცდილობდა [PAWN_possessive] შემდგომი გამოსწორება ნებისმიერი საშუალებით.</JoywireAddict76.description>
+  <JoywireAddict76.title>Joywire ნარკომანი</JoywireAddict76.title>
+  <JoywireAddict76.titleShort>ნარკომანი</JoywireAddict76.titleShort>
+  <JungleKid35.description>[PAWN_nameDef] მიატოვეს ახალშობილში და გაიზარდა [PAWN_possessive] სახლის მკვრივი ჯუნგლების ცხოველებში.
+
+როდესაც [PAWN_pronoun] თინეიჯერი იყო, მოგზაურმა ექიმმა იპოვა [PAWN_objective] დაშავებული გზის მახლობლად, ჩურჩულებდა და მეოვებოდა. [PAWN_pronoun] გადაარჩინა [PAWN_objective] და მიიღო [PAWN_objective] შეგირდად.</JungleKid35.description>
+  <JungleKid35.title>ჯუნგლების ბავშვი</JungleKid35.title>
+  <JungleKid35.titleShort>ჯუნგლების ბავშვი</JungleKid35.titleShort>
+  <JunkyardMechanic51.description>ახალგაზრდა ასაკში მკვდრად დატოვებული [PAWN_nameDef] გადაარჩინა მოხუცმა კაცმა, რომელიც მართავდა ურბსამყაროს ნაგავსაყრელს. მოხუცმა აიძულა [PAWN_nameDef] სახიფათო, მომთხოვნი სამუშაო გაეკეთებინა.
+
+[PAWN_nameDef] კარგად იცნობდა მანქანებს, მაგრამ [PAWN_pronoun] გაიზარდა თითქმის სხვა გამოცდილების გარეშე.</JunkyardMechanic51.description>
+  <JunkyardMechanic51.title>ნაგვის მექანიკოსი</JunkyardMechanic51.title>
+  <JunkyardMechanic51.titleShort>მექანიკოსი</JunkyardMechanic51.titleShort>
+  <KidScientist53.description>გავლენიან ოჯახში დაბადებულმა [PAWN_nameDef]-მა მიიღო საუკეთესო განათლება, რომელსაც ფულის ყიდვა შეეძლო. [PAWN_possessive] ინტელექტი მალე ბევრს აღემატება. თუმცა, [PAWN_possessive] თანაგრძნობის ნაკლებობამ სწრაფად დააყენა [PAWN_objective] წინააღმდეგობა [PAWN_possessive] მასწავლებლებთან და [PAWN_possessive] მშობლებთან.</KidScientist53.description>
+  <KidScientist53.title>ბავშვი მეცნიერი</KidScientist53.title>
+  <KidScientist53.titleShort>მეცნიერი</KidScientist53.titleShort>
+  <Killer41.description>[PAWN_nameDef] სისხლიანი ბავშვი იყო. სოფლის მოსახლეობა ფიქრობდა, რომ [PAWN_objective] გველის დემონისა და ადამიანის შეერთების პროდუქტი იყო.
+
+ნახვის შემდეგ, თუ როგორ უღალატა [PAWN_possessive] ადამიანის მამამ და მოკლა [PAWN_possessive] დედა, [PAWN_pronoun] სურდა ენახა კიდევ რამდენი ადამიანი [PAWN_pronoun] მოხვდებოდა [PAWN_possessive] ხელში.</Killer41.description>
+  <Killer41.title>მკვლელი</Killer41.title>
+  <Killer41.titleShort>მკვლელი</Killer41.titleShort>
+  <LabGrownChild22.description>[PAWN_nameDef] დაიბადა ლაბორატორიაში, როგორც ადამიანის ახალი კლასის შექმნის ალტრუისტული, მაგრამ წარუმატებელი მცდელობის ნაწილი.
+
+[PAWN_possessive] ბავშვობა სავსე იყო წიგნებით და ცალ-ცალკე სწავლებით. [PAWN_pronoun] იყო უხერხული, მორცხვი და გულუბრყვილო კაცობრიობის ნამდვილი ბუნების მიმართ.</LabGrownChild22.description>
+  <LabGrownChild22.title>ლაბორატორიაში გაზრდილი ბავშვი</LabGrownChild22.title>
+  <LabGrownChild22.titleShort>ლაბორატორიულად გაზრდილი</LabGrownChild22.titleShort>
+  <LaborCampOrphan91.description>[PAWN_nameDef]-მა დაკარგა [PAWN_possessive] მშობლები სამრეწველო ავარიაში და გაიზარდა ობლების შრომით ბანაკში. ბანაკის ზედამხედველები უმოწყალოდ ასრულებდნენ თავის ბრალდებას - მაგრამ მაინც [PAWN_pronoun] იყო ჩაცმული და იკვებებოდა.</LaborCampOrphan91.description>
+  <LaborCampOrphan91.title>შრომითი ბანაკის ობოლი</LaborCampOrphan91.title>
+  <LaborCampOrphan91.titleShort>ობოლი</LaborCampOrphan91.titleShort>
+  <LogicalChild2.description>[PAWN_pronoun] უპირატესობას ანიჭებდა ლოგიკურ აქტივობებს, როგორიცაა კომპიუტერები და სრულიად უსარგებლო იყო ხელოვნებაში.
+
+სოციალურ სიტუაციებში უხერხულნი იყვნენ, [PAWN_possessive] მეგობრები ცოტანი იყვნენ, მაგრამ ახლობლები.</LogicalChild2.description>
+  <LogicalChild2.title>ლოგიკური ბავშვი</LogicalChild2.title>
+  <LogicalChild2.titleShort>ლოგიკური ბავშვი</LogicalChild2.titleShort>
+  <MadScientist47.description>[PAWN_nameDef] უბედურად გაიზარდა რიგგარეშე სამყაროს დაბლობზე. [PAWN_pronoun] იპოვა ძალა ებრძოლა ძველი, გატეხილი მეცნიერის სწავლებით.
+
+[PAWN_pronoun] სწრაფად ისწავლა ხალხის შიშებთან თამაში და მეტსახელად "შეშლილი მეცნიერი" შეარქვეს.</MadScientist47.description>
+  <MadScientist47.title>შეშლილი მეცნიერი</MadScientist47.title>
+  <MadScientist47.titleShort>მეცნიერი</MadScientist47.titleShort>
+  <MarineCadet73.description>[PAWN_nameDef] იყო პლანეტარული საზღვაო კადეტთა პროგრამაში.
+
+[PAWN_pronoun] გააძევეს ოფიცრის სროლის გამო. არასოდეს დადგინდა იყო თუ არა ეს უბედური შემთხვევა.</MarineCadet73.description>
+  <MarineCadet73.title>საზღვაო იუნკერი</MarineCadet73.title>
+  <MarineCadet73.titleShort>იუნკერი</MarineCadet73.titleShort>
+  <MechanoidHacker93.description>პატივცემული მექანოიდის გამომგონებლის ერთადერთ ვაჟს, [PAWN_nameDef]-ს ჰქონდა წვდომა მასალებზე, რათა დაემხო და შეცვალოს [PAWN_possessive] მამის შემოქმედება.
+
+[PAWN_pronoun] იყენებდა წამლებს [PAWN_possessive] პროდუქტიულობის გასაზრდელად. სამწუხაროდ, გვერდითი მოვლენები მოიცავდა მექანიზების მუდმივ ილუზიებს, რაც ზღუდავდა [PAWN_მფლობელობაში] სოციალურ ცხოვრებას.</MechanoidHacker93.description>
+  <MechanoidHacker93.title>მექანიკური ჰაკერი</MechanoidHacker93.title>
+  <MechanoidHacker93.titleShort>მეჩაკერი</MechanoidHacker93.titleShort>
+  <MechanoidNerd10.description>[PAWN_nameDef] გაიზარდა ურბსამყაროში, როგორც მექანოიდული დიზაინერის წყვილის ერთადერთი შვილი.
+მათ წაახალისეს [PAWN_possessive] ინტერესი მანქანების მიმართ. საბოლოოდ, [PAWN_pronoun] შეპყრობილი გახდა საკუთარი [PAWN_possessive] აშენებით.
+
+სამწუხაროდ, ამან ასევე გამოიწვია [PAWN_objective] მარტოხელა, რადგან [PAWN_pronoun] ამჯობინებდა ტექნიკურ წიგნებს მეგობრებთან შედარებით.</MechanoidNerd10.description>
+  <MechanoidNerd10.title>მექანოიდი ნერდი</MechanoidNerd10.title>
+  <MechanoidNerd10.titleShort>მექანიზებელი</MechanoidNerd10.titleShort>
+  <MedicalHelper27.description>[PAWN_nameDef] ოჯახთან ერთად ერთი ზღვრული სამყაროდან მეორეზე მოგზაურობდა. [PAWN_nameDef]-ის დედა, სახელგანთქმული ექიმი, ხშირად ლექციებს კითხულობდა მათი გადაკეთებული სატვირთო-სამედიცინო ხომალდის კორპუსიდან.
+
+ზოგჯერ ოჯახი განსაკუთრებით გაჭირვებულ პაციენტებთან რთულ, ხანგრძლივ სამედიცინო საქმესაც იღებდა, და [PAWN_nameDef] შეძლებისდაგვარად ეხმარებოდა.</MedicalHelper27.description>
+  <MedicalHelper27.title>სამედიცინო დამხმარე</MedicalHelper27.title>
+  <MedicalHelper27.titleShort>მედიცინის დამხმარე</MedicalHelper27.titleShort>
+  <MedicalStudent38.description>ექიმების ხანგრძლივი ხაზით დაბადებული [PAWN_nameDef] სწავლობდა მედიცინის ყველა დარგში, მცენარეული მალამოებიდან დაწყებული თანამედროვე სინთეზური წამლებით დამთავრებული. [PAWN_pronoun] ასევე გამოირჩეოდა ჯანსაღი ზიზღით დაბალი კლასის მუშაობის მიმართ.</MedicalStudent38.description>
+  <MedicalStudent38.title>სამედიცინო სტუდენტი</MedicalStudent38.title>
+  <MedicalStudent38.titleShort>სტუდენტი</MedicalStudent38.titleShort>
+  <MedicalStudent96.description>[PAWN_nameDef] გაიზარდა ბრჭყვიალა სამყაროში ექიმების ოჯახში და არჩია შეენარჩუნებინა ტრადიცია.
+
+[PAWN_pronoun]-ს ცოტა მეგობარი ჰყავდა, მაგრამ [PAWN_possessive] და-ძმებთან ძალიან კარგად იყო.</MedicalStudent96.description>
+  <MedicalStudent96.title>სამედიცინო სტუდენტი</MedicalStudent96.title>
+  <MedicalStudent96.titleShort>სტუდენტი</MedicalStudent96.titleShort>
+  <MedievalNomad12.description>ფეოდალურ საზოგადოებაში მომთაბარე ოჯახში დაბადებული [PAWN_nameDef] სწავლობდა მეტყველების ხელოვნებაში, ხელის ჭკუაზე, ცხენოსნობაში.
+
+        [PAWN_pronoun] ყოველთვის დარბოდა ბანაკში და აკეთებდა უცნაურ სამუშაოებს, რათა დახმარებოდა [PAWN_possessive] გაფართოებულ ოჯახს.</MedievalNomad12.description>
+  <MedievalNomad12.title>შუა საუკუნეების მომთაბარე</MedievalNomad12.title>
+  <MedievalNomad12.titleShort>მომთაბარე</MedievalNomad12.titleShort>
+  <MedievalPlower14.description>[PAWN_nameDef] ცხოვრობდა პლანეტაზე, სადაც მეფეები და დედოფლები მართავდნენ მათ ქვეშ მყოფი გლეხების მიმართ. [PAWN_possessive] ოჯახი ფლობდა დიდ ფერმას, მაგრამ მეფემ მიიღო მისი წარმოებული საკვების უმეტესი ნაწილი. ამან [PAWN_nameDef]-ის ოჯახი ღარიბი დატოვა და ვერ შეძლო [PAWN_possessive] განათლების გადახდა. სამაგიეროდ, [PAWN_pronoun]-ს მოეთხოვებოდა ემუშავა მინდვრებში [PAWN_possessive] მშობლებთან და არასდროს ჰქონია დრო კრეატიულობისთვის.</MedievalPlower14.description>
+  <MedievalPlower14.title>შუა საუკუნეების გუთანი</MedievalPlower14.title>
+  <MedievalPlower14.titleShort>გუთანი</MedievalPlower14.titleShort>
+  <MedievalSlave50.description>მონობაში დაბადებული [PAWN_nameDef] არასოდეს იცნობდა [PAWN_მფლობელობაში] მშობლებს. [PAWN_pronoun] საბოლოოდ გაიქცა [PAWN_possessive] ოსტატებისგან და ჩაჯდა სამხედრო სატვირთო გემზე, სადაც [PAWN_pronoun] სამხედრო სამსახურში გადაიყვანეს.</MedievalSlave50.description>
+  <MedievalSlave50.title>შუა საუკუნეების მონა</MedievalSlave50.title>
+  <MedievalSlave50.titleShort>მონა</MedievalSlave50.titleShort>
+  <MedievalSquire5.description>[PAWN_nameDef] გაიზარდა შუა საუკუნეების პლანეტაზე, როგორც რაინდი ვარჯიშზე. [PAWN_ნაცვალსახელი] ვარჯიშობდა უშუალოდ მეფის ომის მრჩეველის ქვეშ [PAWN_მფლობელობაში] ახალგაზრდების უმეტესობისთვის და ისწავლა ბრძოლა ხმლითა და ფარით.</MedievalSquire5.description>
+  <MedievalSquire5.title>შუასაუკუნეების სკვერი</MedievalSquire5.title>
+  <MedievalSquire5.titleShort>სკივერი</MedievalSquire5.titleShort>
+  <MedievalThief74.description>[PAWN_nameDef] ღარიბი და მშიერი გაიზარდა შუა საუკუნეების პლანეტაზე, ისწავლა საკუთარი თავის დაცვა.
+
+თავდაპირველად, [PAWN_pronoun] აიღო მხოლოდ ის, რაც [PAWN_pronoun] სჭირდებოდა. შემდეგ [PAWN_pronoun] ისწავლა იმის აღება, რაც [PAWN_pronoun] სურდა.</MedievalThief74.description>
+  <MedievalThief74.title>შუა საუკუნეების ქურდი</MedievalThief74.title>
+  <MedievalThief74.titleShort>ქურდი</MedievalThief74.titleShort>
+  <MercenaryRecruit18.description>[PAWN_nameDef] დაქირავებული დაქირავებული მებრძოლების გრძელ რიგში დაბადებული, დატვირთულ სავაჭრო ცენტრში გაიზარდა. ახალგაზრდა ასაკში [PAWN_pronoun] მიიყვანეს ერთ-ერთ დაქირავებულ ეკიპაჟში.</MercenaryRecruit18.description>
+  <MercenaryRecruit18.title>დაქირავებული რეკრუტი</MercenaryRecruit18.title>
+  <MercenaryRecruit18.titleShort>რეკრუტირება</MercenaryRecruit18.titleShort>
+  <MercenaryRecruit36.description>[PAWN_nameDef] დაქირავებული ჯარისკაცების გრძელი ხაზის შთამომავალი გაიზარდა დატვირთულ სავაჭრო ცენტრში.
+
+[PAWN_possessive] ინტერესი ბაზარზე არსებული უცხოური საქონლის მიმართ ხშირად აშორებდა [PAWN_objective] [PAWN_possessive] სამუშაოსა და ტრენინგს.</MercenaryRecruit36.description>
+  <MercenaryRecruit36.title>დაქირავებული რეკრუტი</MercenaryRecruit36.title>
+  <MercenaryRecruit36.titleShort>დაქირავებული</MercenaryRecruit36.titleShort>
+  <MidworldCadet83.description>[PAWN_nameDef]-ში გაზრდილი მაღალტექნოლოგიური შუა სამყაროში აყვავებული კოსმოსური სატრანზიტო ინდუსტრიით, სურდა ვარსკვლავებისკენ წასვლა და მზარდი სპეისერების კლასში ცხოვრება.
+
+[PAWN_pronoun] გამოირჩეოდა [PAWN_possessive] კვლევებში და მიიღო ჩაბარება [PAWN_possessive] საშინაო სამყაროს ყველაზე პრესტიჟულ საზღვაო აკადემიაში.</MidworldCadet83.description>
+  <MidworldCadet83.title>შუა სამყაროს კადეტი</MidworldCadet83.title>
+  <MidworldCadet83.titleShort>იუნკერი</MidworldCadet83.titleShort>
+  <MidworldGeek18.description>[PAWN_nameDef] გაიზარდა წყნარ გარეუბნულ უბანში. [PAWN_pronoun] არასოდეს ყოფილა სოციალური ინტერაქციის ოსტატი, მაგრამ [PAWN_possessive] კომპიუტერებისადმი ინტერესი ადრეულ ასაკში აყვავდა ნამდვილ ნიჭს.</MidworldGeek18.description>
+  <MidworldGeek18.title>შუა სამყაროს გიკი</MidworldGeek18.title>
+  <MidworldGeek18.titleShort>გიკი</MidworldGeek18.titleShort>
+  <MidworldLoner80.description>[PAWN_nameDef] დაიბადა მშვიდობიან, უმნიშვნელო შუა სამყაროში.
+
+მიუხედავად იმისა, რომ [PAWN_pronoun]-ს რამდენიმე მეგობარი ჰყავდა, [PAWN_pronoun] ამჯობინებდა [PAWN_possessive] დროის გატარებას მარტოობაში, აინტერესებდა [PAWN_possessive] ავტოციკლს, როცა უსმენდა ქსელებს, ან პლასტმასის ჯარისკაცებს ათამაშებდა ახალი შაშხანით [PAWN_pronoun], რომელიც ახლახან შედგა.</MidworldLoner80.description>
+  <MidworldLoner80.title>შუა სამყაროს მარტოხელა</MidworldLoner80.title>
+  <MidworldLoner80.titleShort>მარტოხელა</MidworldLoner80.titleShort>
+  <MidworldSketcher71.description>[PAWN_nameDef] დაიბადა მოსიყვარულე, მაგრამ ღარიბ ოჯახში.
+
+[PAWN_pronoun] აღმოაჩინა [PAWN_pronoun] ჰქონდა მხატვრული ნიჭი, რომელიც [PAWN_pronoun] მემკვიდრეობით მიიღო [PAWN_possessive] მამისგან. [PAWN_possessive] დედამ ასწავლა [PAWN_objective] შრომისმოყვარეობისა და მონდომების სარგებელი. [PAWN_pronoun] ასაკის მატებასთან ერთად, [PAWN_nameDef] მოიხიბლა ტექნოლოგიებით და სამხედრო ისტორიით.</MidworldSketcher71.description>
+  <MidworldSketcher71.title>შუა სამყაროს ჩანახატი</MidworldSketcher71.title>
+  <MidworldSketcher71.titleShort>ჩანახატი</MidworldSketcher71.titleShort>
+  <MilitantChild49.description>[PAWN_nameDef]-ის სამხედრო ოჯახმა აიძულა [PAWN_objective] გაწვრთნა ხელჩართულ ბრძოლაში და საბრძოლო ტაქტიკაში.
+
+[PAWN_possessive] თავის დროზე, [PAWN_pronoun] ააშენა მცირე გამოგონებები. ამან გამკაცრდა [PAWN_possessive] გონება.</MilitantChild49.description>
+  <MilitantChild49.title>მებრძოლი ბავშვი</MilitantChild49.title>
+  <MilitantChild49.titleShort>ჯარისკაცი</MilitantChild49.titleShort>
+  <MilitaryCadet16.description>ბავშვობაში ობოლი [PAWN_nameDef] გაგზავნეს საიდუმლო სამხედრო სკოლაში მკაცრი მკვდარი სამყაროში.
+
+სწრაფად გადავიდა ცეცხლსასროლი იარაღისა და გადარჩენის სწავლებაზე, [PAWN_pronoun] დაამთავრა პატივით, გადავიდა ხელმძღვანელ პოზიციაზე ფარულ ოპერაციებში.</MilitaryCadet16.description>
+  <MilitaryCadet16.title>სამხედრო იუნკერი</MilitaryCadet16.title>
+  <MilitaryCadet16.titleShort>იუნკერი</MilitaryCadet16.titleShort>
+  <MilitaryChild82.description>[PAWN_nameDef] გაიზარდა ოჯახში მდიდარი სამხედრო წარმომავლობით. [PAWN_possessive] თინეიჯერობის წლები იხარჯებოდა სისტემაში მოგზაურობის დროს, სადაც [PAWN_possessive] მშობლები იყვნენ განლაგებული.
+
+[PAWN_possessive] ოჯახის ტრადიციის მიხედვით, [PAWN_pronoun] დარეგისტრირდა ყველაზე ადრეულ ასაკში.</MilitaryChild82.description>
+  <MilitaryChild82.title>სამხედრო ბავშვი</MilitaryChild82.title>
+  <MilitaryChild82.titleShort>სამხედრო</MilitaryChild82.titleShort>
+  <MilitaryRecruit49.description>[PAWN_nameDef] დაიბადა შუა სამყაროში, რომელსაც მართავს ინტენსიურად მილიტარისტული დიქტატურა.
+
+პატარა ასაკიდან [PAWN_pronoun] გაწვრთნილი იყო კარგი ჯარისკაცისთვის. მათ ასწავლეს [PAWN_objective] იარაღის გამოყენება და საბრძოლო იარაღით ბრძოლა.</MilitaryRecruit49.description>
+  <MilitaryRecruit49.title>სამხედრო რეკრუტი</MilitaryRecruit49.title>
+  <MilitaryRecruit49.titleShort>რეკრუტირება</MilitaryRecruit49.titleShort>
+  <MilitaryTrainee20.description>[PAWN_nameDef] გაიზარდა ქსენოას სისტემაში სამხედრო ბაზაზე. [PAWN_pronoun] ექვემდებარებოდა სხვადასხვა დაძაბულ აქტივობას და გაძლიერდა ადრეულ ასაკში. [PAWN_pronoun] ასევე ისწავლა მოლაპარაკების, სამედიცინო და სამხედრო ტაქტიკა.</MilitaryTrainee20.description>
+  <MilitaryTrainee20.title>სამხედრო სტაჟიორი</MilitaryTrainee20.title>
+  <MilitaryTrainee20.titleShort>სტაჟიორი</MilitaryTrainee20.titleShort>
+  <MonkeyChild67.description>როდესაც [PAWN_pronoun] ბავშვი იყო, [PAWN_nameDef]-ის მშობლებმა თავიანთი შვილი მაიმუნების ჯგუფში გაცვალეს. პრიმატებს შორის [PAWN_possessive] სიცოცხლის შესახებ ცოტა რამ არის ცნობილი.</MonkeyChild67.description>
+  <MonkeyChild67.title>მაიმუნი ბავშვი</MonkeyChild67.title>
+  <MonkeyChild67.titleShort>მაიმუნი ბავშვი</MonkeyChild67.titleShort>
+  <MusicalKid14.description>[PAWN_nameDef] დაიბადა თითქმის ჯადოსნური ხმით. [PAWN_pronoun] ისწავლა სიმღერა ბავშვობაში. [PAWN_possessive] ხმას ასევე ჰქონდა განსაკუთრებული ტემბრი, რომელიც ამშვიდებდა ყველას, ვინც მას უსმენდა.</MusicalKid14.description>
+  <MusicalKid14.title>მუსიკალური ბავშვი</MusicalKid14.title>
+  <MusicalKid14.titleShort>მუსიკის ბავშვი</MusicalKid14.titleShort>
+  <MusicIdol50.description>[PAWN_nameDef] იყო ძლიერი კომპანიის პრეზიდენტის ერთადერთი შვილი. [PAWN_possessive] ლამაზმა გარეგნობამ გამოიწვია მუსიკალური კერპის კარიერა.
+
+როდესაც [PAWN_possessive] დედა გარდაიცვალა, [PAWN_nameDef] ვერ გაუძლო [PAWN_possessive] მამის მარტოობას და გახდა მისი სექსუალური თანამგზავრი.</MusicIdol50.description>
+  <MusicIdol50.title>მუსიკალური კერპი</MusicIdol50.title>
+  <MusicIdol50.titleShort>მუსიკალური კერპი</MusicIdol50.titleShort>
+  <Naturalist14.description>[PAWN_nameDef] გაიზარდა წყალქვეშა პლანეტაზე მინიმალური განათლებით. [PAWN_pronoun] იძულებული იყო ნადირობა და საკვების მოყვანა გადარჩენისთვის.
+
+[PAWN_possessive] ოჯახის სახლს ხშირად დარბევდნენ მტაცებლები საკვების მისაღებად. ამან [PAWN_nameDef] ძალიან საეჭვო გახადა და ნელნელა ენდობოდა ყველას, ვინც [PAWN_pronoun] არ იცის.</Naturalist14.description>
+  <Naturalist14.title>ნატურალისტი</Naturalist14.title>
+  <Naturalist14.titleShort>ნატურალისტი</Naturalist14.titleShort>
+  <NavyPathfinder53.description>[PAWN_nameDef] აღიზარდა და გაწვრთნა სამხედრო მკვლევართა ჯგუფის მიერ, რომლებიც ეძღვნებოდნენ ბილიკის დიაგრამას ღრმა სივრცეში და შორეულ პლანეტებზე.</NavyPathfinder53.description>
+  <NavyPathfinder53.title>საზღვაო ფლოტის გზამკვლევი</NavyPathfinder53.title>
+  <NavyPathfinder53.titleShort>გზამკვლევი</NavyPathfinder53.titleShort>
+  <Nerd92.description>[PAWN_nameDef] აინტერესებდა ყველაფერი. სანამ სხვა ბავშვები თავიანთი ინდუსტრიული ქალაქის გარეუბნებში თამაშობდნენ ტეგს, [PAWN_nameDef] კითხულობდა ყველა წიგნს, რომელიც [PAWN_pronoun] იპოვა ტექნოლოგიების, რობოტებისა და იარაღის შესახებ - რაც ყველაზე მაგარი ჩანდა.
+
+[PAWN_possessive] ძლიერი ფრანგული აქცენტი ხელს უშლის [PAWN_objective] ნამდვილი მეგობრების შექმნას.</Nerd92.description>
+  <Nerd92.title>ნაბიჭვარი</Nerd92.title>
+  <Nerd92.titleShort>ნაბიჭვარი</Nerd92.titleShort>
+  <NewAgeDuelist27.description>[PAWN_nameDef] გატაცებული იყო ბრძოლით. [PAWN_possessive] მშობლები ხშირად მოგზაურობდნენ, ამიტომ [PAWN_pronoun] ახერხებდა აეღო მრავალი განსხვავებული საბრძოლო სტილი, დაწყებული 76-ე ტალღის ჯუჯუცუდან დაწყებული სამარცხვინო "urbworld-ის სტილის" კარატამდე.
+
+თავაზიანი ბავშვი, მებრძოლების უმეტესობამ მიიღო [PAWN_possessive] მოთხოვნები ვარჯიშის შესახებ - მაგრამ ხშირად გადაადგილება მეურვეობის დამთავრების გარეშე აზარმაცებდა [PAWN_objective].</NewAgeDuelist27.description>
+  <NewAgeDuelist27.title>ახალი ასაკის დუელისტი</NewAgeDuelist27.title>
+  <NewAgeDuelist27.titleShort>დუელისტი</NewAgeDuelist27.titleShort>
+  <NobleWard61.description>[PAWN_nameDef] იშვილა გამოჩენილმა დიდგვაროვანმა ოჯახმა მას შემდეგ, რაც [PAWN_possessive] დედამ კარზე დატოვა.
+
+[PAWN_pronoun] სწრაფად შეიტყო საიდუმლოებები, რომლებიც გადიოდა დიდებულებს შორის, როგორიცაა იაფფასიანი ღვინო - სამყაროების მიღმა, ენების, კულტურებისა და ტექნოლოგიების, როგორც ახალი, ისე ძველი.</NobleWard61.description>
+  <NobleWard61.title>კეთილშობილური პალატა</NobleWard61.title>
+  <NobleWard61.titleShort>პალატა</NobleWard61.titleShort>
+  <OfficerCadet25.description>პატარა ასაკიდან [PAWN_nameDef] სწავლობდა მამაკაცების ლიდერად. [PAWN_pronoun] ჩაირიცხა ვანუს თავდაცვის კოლეჯში, როდესაც [PAWN_pronoun] ბიჭი იყო და დაეუფლა სხვადასხვა იარაღს და გადარჩენის ტექნიკას.</OfficerCadet25.description>
+  <OfficerCadet25.title>ოფიცერი იუნკერი</OfficerCadet25.title>
+  <OfficerCadet25.titleShort>იუნკერი</OfficerCadet25.titleShort>
+  <OffworldRecruit91.description>[PAWN_nameDef] დაიბადა საზღვარგარეთული ჯარისკაცების ზრდის დაწესებულებაში გაზრდილი. ძალიან პატარა ასაკიდან [PAWN_pronoun] ასწავლიდნენ ახლო კვარტალში საბრძოლო ტაქტიკას, აგრესიას და შორეულ პლანეტებზე გადარჩენას.
+
+ერთ-ერთი საუკეთესო, [PAWN_nameDef] საბოლოოდ აირჩიეს ორბიტალური განლაგების დარტყმის ჯარების კორპუსში შესასვლელად.</OffworldRecruit91.description>
+  <OffworldRecruit91.title>მსოფლიოს გარე რეკრუტირება</OffworldRecruit91.title>
+  <OffworldRecruit91.titleShort>რეკრუტირება</OffworldRecruit91.titleShort>
+  <OldMoneyHeir46.description>[PAWN_nameDef] გაიზარდა თავშესაფარი და განებივრებული ბავშვი [PAWN_possessive] ძველი ფულის მრეწველის ოჯახის ერთ-ერთ მრავალ საკუთრებაში.
+
+ელიტარულ კერძო სკოლაში სწავლისას, [PAWN_nameDef]-მა მიიღო ფართო განათლება ხელოვნებასა და მეცნიერებებში, მაგრამ არასოდეს უნახავს რეალური სამყაროს საშინელებები.</OldMoneyHeir46.description>
+  <OldMoneyHeir46.title>ძველი ფულის მემკვიდრე</OldMoneyHeir46.title>
+  <OldMoneyHeir46.titleShort>მემკვიდრე</OldMoneyHeir46.titleShort>
+  <OptimisticChild30.description>[PAWN_nameDef] დალოცვილი იყო მოსიყვარულე მშობლებით და სასიამოვნო შუა სამყაროს ცხოვრებით. [PAWN_pronoun] იყო ოპტიმისტი და კომუნიკაბელური ბავშვი, რომელსაც უყვარდა მეგობრების შექმნა და მათი ისტორიების მოსმენა. [PAWN_possessive] ფანტაზია აფუჭებდა იდეებსა და კითხვებს.</OptimisticChild30.description>
+  <OptimisticChild30.title>ოპტიმისტი ბავშვი</OptimisticChild30.title>
+  <OptimisticChild30.titleShort>ოპტიმისტური</OptimisticChild30.titleShort>
+  <Orphan11.description>[PAWN_nameDef] ბორდელში დაბადებულ სასტიკ სამყაროში, ბავშვობა ნამდვილად არ ჰქონია. [PAWN_pronoun] უცნაურ საქმეებს აკეთებდა გადარჩენისთვის და დაშორდა სხვებს.</Orphan11.description>
+  <Orphan11.title>ობოლი</Orphan11.title>
+  <Orphan11.titleShort>ობოლი</Orphan11.titleShort>
+  <Orphan15.description>ღრმა კოსმოსურ სადგურზე დაბადებული [PAWN_nameDef] პატარა ასაკში ობოლი დარჩა. ბავშვთა სახლში [PAWN_pronoun] დადგა სუსტი ბავშვების მხარდასაჭერად და ებრძოდა მოძალადეებს.</Orphan15.description>
+  <Orphan15.title>ობოლი</Orphan15.title>
+  <Orphan15.titleShort>ობოლი</Orphan15.titleShort>
+  <Orphan25.description>მშობლების გარეშე მარტო დარჩენილმა [PAWN_nameDef]-მა ყველაფერი გააკეთა [PAWN_pronoun] ადაპტაციისთვის.
+
+ბავშვთა სახლის [PAWN_objective] საკუთარ თავზე და უმცროს ბავშვებზე ზრუნვის შემდეგ, [PAWN_pronoun] ბევრი რამ ისწავლა ადამიანებისა და მათთან ურთიერთობის შესახებ.</Orphan25.description>
+  <Orphan25.title>ობოლი</Orphan25.title>
+  <Orphan25.titleShort>ობოლი</Orphan25.titleShort>
+  <OrphanedAcrobat84.description>დაბადებული ურბსამყაროს წყნარ ობლად, [PAWN_nameDef] მიიწვიეს მოგზაურ ცირკში გასაწევრიანებლად. [PAWN_possessive] მცირე ზომამ და დაკვირვებულმა ბუნებამ დაეხმარა [PAWN_nameDef] გახდეს ცნობილი აკრობატი.
+
+სამწუხაროდ, [PAWN_possessive] ძალადობრივმა ტენდენციებმა ადრე დაასრულა [PAWN_possessive] აკრობატული კარიერა.</OrphanedAcrobat84.description>
+  <OrphanedAcrobat84.title>ობოლი აკრობატი</OrphanedAcrobat84.title>
+  <OrphanedAcrobat84.titleShort>აკრობატი</OrphanedAcrobat84.titleShort>
+  <OrphanOfWar60.description>[PAWN_nameDef]-მა დაკარგა [PAWN_possessive] ოჯახი და სახლი ადრეულ ასაკში. [PAWN_possessive] ცხოვრება გახდა ემოციურად ღრუ, მაგრამ [PAWN_possessive] მტკივნეულმა მოგონებებმა აიძულა [PAWN_objective] გადარჩენილიყო.
+
+[PAWN_pronoun] დაიკავა რამდენიმე სამუშაო, მაგრამ ვერ მიაღწია საბაზისო განათლებაზე მეტს.</OrphanOfWar60.description>
+  <OrphanOfWar60.title>ომის ობოლი</OrphanOfWar60.title>
+  <OrphanOfWar60.titleShort>ობოლი</OrphanOfWar60.titleShort>
+  <Pampered87.description>დეკადენტურ ბრჭყვიალა სამყაროში დაბადებულ [PAWN_nameDef]-ს ყველა ძვირადღირებული სათამაშო გადაეცა.
+
+ამ განებივრებულმა ცხოვრების წესმა გამოიწვია [PAWN_objective] გამოტოვა ცხოვრების მრავალი ძირითადი გაკვეთილი. [PAWN_pronoun] ავითარებდა განსაკუთრებულ ზიზღს სამზარეულოსადმი და ყოველთვის უბრძანებდა თანამშრომლებს სამზარეულოს სამუშაოს შესრულებას.</Pampered87.description>
+  <Pampered87.title>განებივრებული</Pampered87.title>
+  <Pampered87.titleShort>განებივრებული</Pampered87.titleShort>
+  <PetKeeper7.description>[PAWN_nameDef]-მა [PAWN_possessive] ბავშვობის უმეტესი ნაწილი გაატარა იმ ცხოველებზე, რომლებიც [PAWN_pronoun] იყიდა ან გადაარჩინა.
+
+[PAWN_ნაცვალსახელი] ხედავდა სილამაზეს ბუნებრივ ნივთებში უფრო მეტად, ვიდრე შეთითხნილ ობიექტებში, და აირჩია [PAWN_possessive] ცხოველების კომპანია [PAWN_possessive] თანატოლებთან შედარებით.</PetKeeper7.description>
+  <PetKeeper7.title>შინაური ცხოველების მცველი</PetKeeper7.title>
+  <PetKeeper7.titleShort>შინაური ცხოველების მცველი</PetKeeper7.titleShort>
+  <Philosopher82.description>[PAWN_nameDef] იყო სტუდენტი ბრჭყვიალა სამყაროში. [PAWN_pronoun] გაუჭირდა სკოლაში, რადგან სხვა ბავშვებს [PAWN_objective] საკმაოდ უცნაურად მიაჩნდათ.
+
+[PAWN_pronoun] ყოველთვის ინარჩუნებდა დისტანციას ამ მოვლენებთან და მუდმივად გაკვირვებული იყო იმ მრავალი საინტერესო და უხერხული გზით, რომელსაც შეუძლია ცხოვრება.</Philosopher82.description>
+  <Philosopher82.title>ფილოსოფოსი</Philosopher82.title>
+  <Philosopher82.titleShort>მოაზროვნე</Philosopher82.titleShort>
+  <Pickpocket61.description>ახალგაზრდა ასაკში, [PAWN_nameDef] შეესწრო [PAWN_possessive] მშობლების მკვლელობას. ყოველგვარი ხელმძღვანელობის გარეშე, [PAWN_pronoun] იძულებული გახდა, თავი დაეცვა [PAWN_objective]. შეუერთდა შეუფერებელთა მცირე ჯგუფს, [PAWN_pronoun] გააკეთა ყველაფერი, რაც საჭირო იყო გადარჩენისთვის.</Pickpocket61.description>
+  <Pickpocket61.title>ჯიბის ქურდობა</Pickpocket61.title>
+  <Pickpocket61.titleShort>ქურდი</Pickpocket61.titleShort>
+  <Pickpocket82.description>ობოლი და მიტოვებული [PAWN_possessive] დაბინძურებული, სავსე სახლის სამყაროს ხმაურიან ქუჩებში, [PAWN_nameDef] გადარჩა მოხერხებული ხელითა და ფლოტის ფეხით. ბუნებრივი დაბადებული ქურდი და თაღლითი, [PAWN_pronoun] ცნობილი გახდა ადრეულ პერიოდში, მართავდა ყბადაღებულ და მოძალადე ეკლების ბანდა 'Doomben Rats'.</Pickpocket82.description>
+  <Pickpocket82.title>ჯიბის ქურდობა</Pickpocket82.title>
+  <Pickpocket82.titleShort>ჯიბის ქურდობა</Pickpocket82.titleShort>
+  <PilotFan16.description>[PAWN_nameDef]-ის მამა ვარსკვლავური მებრძოლის მფრინავი იყო და [PAWN_pronoun] ყოველთვის კერპებად აქცევდა მოხუცს.
+
+პატარა ასაკიდან [PAWN_pronoun] აგროვებდა პილოტის სამახსოვრო ნივთებს და სწავლობდა პილოტის წიგნებს, ემზადებოდა ღრმა კოსმოსური ფლოტის გასაწევრიანებლად და [PAWN_possessive] მამის კვალდაკვალ.</PilotFan16.description>
+  <PilotFan16.title>პილოტის ფანი</PilotFan16.title>
+  <PilotFan16.titleShort>პილოტის ფანი</PilotFan16.titleShort>
+  <PitGladiator19.description>[PAWN_nameDef] ბავშვობაში დამონებული იყო და იძულებული გახდა შეებრძოლა არსებებს და სხვა ადამიანებს მიწისქვეშა საბრძოლო არენაზე.
+
+[PAWN_pronoun] აჩვენა მიდრეკილება სპორტის მიმართ და საბოლოოდ იყიდა [PAWN_possessive] საკუთარი თავისუფლება. თუმცა, ორმოებში [PAWN_possessive] დროს არასდროს მოუტანია [PAWN_objective] დიდი ინტელექტუალური სტიმულაცია.</PitGladiator19.description>
+  <PitGladiator19.title>ორმოს გლადიატორი</PitGladiator19.title>
+  <PitGladiator19.titleShort>გლადიატორი</PitGladiator19.titleShort>
+  <PizzaLover94.description>[PAWN_nameDef]-ს ძალიან უყვარდა ბუმრატის პიცა. იშვიათად ჭამდა სხვა რამეს, [PAWN_pronoun] იყო მიდრეკილი ცუდი ჯანმრთელობისა და ჟანგბადის დაბალი ათვისებისკენ.
+
+[PAWN_pronoun] უყვარდა შემთხვევითი არსებების თავის ქალებში ჩხუბი, რათა დაენახა რა იყო შიგნით.</PizzaLover94.description>
+  <PizzaLover94.title>პიცის მოყვარული</PizzaLover94.title>
+  <PizzaLover94.titleShort>პიცის ბავშვი</PizzaLover94.titleShort>
+  <PlagueChild44.description>ჭირით დანგრეულ სამყაროში დაბადებული [PAWN_nameDef]-ის ორივე მშობელი ექიმი იყო. 
+
+[PAWN_nameDef] გაიზარდა საპირისპირო კარანტინში, ჰიპოკრატეს ფიცის ქვეშ. [PAWN_pronoun] განიცდიდა მცირე სოციალურ ინტერაქციას. თუმცა, [PAWN_pronoun]-მა მოიპოვა დიდი სამედიცინო გამოცდილება მკურნალობაში დასახმარებლად.</PlagueChild44.description>
+  <PlagueChild44.title>ჭირის ბავშვი</PlagueChild44.title>
+  <PlagueChild44.titleShort>ბავშვი</PlagueChild44.titleShort>
+  <PlagueProdigy12.description>[PAWN_nameDef]-ის ბავშვობა შეწყდა, როდესაც იდუმალი ჭირი დაატყდა თავს [PAWN_possessive] საშინაო სამყაროში.
+
+[PAWN_pronoun] უყურებდა [PAWN_possessive] მეგობრების სიკვდილს და [PAWN_possessive] თანაგრძნობა კაცობრიობისადმი მათთან ერთად გარდაიცვალა. მის ადგილას ცოდნის ახალი წყურვილი გაჩნდა.</PlagueProdigy12.description>
+  <PlagueProdigy12.title>ჭირის საოცრება</PlagueProdigy12.title>
+  <PlagueProdigy12.titleShort>საოცრება</PlagueProdigy12.titleShort>
+  <PlagueSurvivor39.description>[PAWN_nameDef] უყურებდა, როგორ გავრცელდა იდუმალი ჭირი [PAWN_possessive] ქალაქში და მოკლა [PAWN_possessive] ოჯახი და მეგობრები.
+
+[PAWN_pronoun] გარკვეული წამალი ისწავლა ჭირის ექიმების ყურებით, მაგრამ განსაცდელმა ფსიქიკურად გაანადგურა.</PlagueSurvivor39.description>
+  <PlagueSurvivor39.title>ჭირის გადარჩენილი</PlagueSurvivor39.title>
+  <PlagueSurvivor39.titleShort>გადარჩენილი</PlagueSurvivor39.titleShort>
+  <PoorKid18.description>[PAWN_possessive] მშობლების მიერ მიტოვებულმა, [PAWN_nameDef] ისწავლა როგორ გადარჩენილიყო [PAWN_objective]თვითონ, სანამ [PAWN_pronoun] ათი წლის გახდებოდა.</PoorKid18.description>
+  <PoorKid18.title>საწყალი ბავშვი</PoorKid18.title>
+  <PoorKid18.titleShort>საწყალი ბავშვი</PoorKid18.titleShort>
+  <PowerMadScholar30.description>"ცოდნა არის ძალა". ამ სიტყვებმა რაღაც გამოიწვია [PAWN_nameDef]-ში და ჩამოაყალიბა [PAWN_possessive] core drive. როდესაც ბიბლიოთეკებში არ იყო ჩაფლული, [PAWN_pronoun] აშორებდა საგნებს, რათა თავიდანვე დაენახა, როგორ მუშაობდნენ ისინი, მექანიკურსა და ორგანულს შორის საზღვრის გარეშე.</PowerMadScholar30.description>
+  <PowerMadScholar30.title>ძალაუფლებით შეშლილი მეცნიერი</PowerMadScholar30.title>
+  <PowerMadScholar30.titleShort>მეცნიერი</PowerMadScholar30.titleShort>
+  <PrivilegedChild86.description>უმაღლესი კლასის ოჯახში დაბადებული [PAWN_nameDef] გაიზარდა ყველა საუკეთესო ნივთით - საუკეთესო განათლებით, საუკეთესო სოციალური კონტაქტებით და, რა თქმა უნდა, საუკეთესო ტექნოლოგიის ყიდვით.
+
+სამწუხაროდ, ასეთ დეკადანსში ცხოვრებამ [PAWN_nameDef] საკმაოდ გააფუჭა, როცა საქმე შრომას ეხებოდა.</PrivilegedChild86.description>
+  <PrivilegedChild86.title>პრივილეგირებული ბავშვი</PrivilegedChild86.title>
+  <PrivilegedChild86.titleShort>პრივილეგირებული</PrivilegedChild86.titleShort>
+  <PrivilegedProdigy70.description>[PAWN_nameDef] ნიჭიერად აღიარებული იყო [PAWN_possessive] ბრჭყვიალა სამყაროს აღზრდის დასაწყისში. საბედნიეროდ, [PAWN_possessive] ოჯახს შეეძლო დაემუშავებინა ეს გენიოსი უმაღლესი განათლების მეშვეობით. [PAWN_possessive] ტრენინგი მოიცავდა მეცნიერებას, ლიდერობას და ხელოვნებას.</PrivilegedProdigy70.description>
+  <PrivilegedProdigy70.title>პრივილეგირებული საოცრება</PrivilegedProdigy70.title>
+  <PrivilegedProdigy70.titleShort>საოცრება</PrivilegedProdigy70.titleShort>
+  <ProdigalStudent67.description>[PAWN_nameDef] იყო ერთგული სტუდენტი და ეძღვნებოდა ყველაფრის და ყველაფრის სწავლას [PAWN_nameDef] კაცობრიობის და მისი შემოქმედების შესახებ.
+
+მიუხედავად იმისა, რომ [PAWN_pronoun] ერიდებოდნენ როგორც ნერდს, [PAWN_pronoun] არ იყო წინააღმდეგი. [PAWN_pronoun] იმედოვნებდა უფრო ნათელ მომავალს.</ProdigalStudent67.description>
+  <ProdigalStudent67.title>უძღები სტუდენტი</ProdigalStudent67.title>
+  <ProdigalStudent67.titleShort>სტუდენტი</ProdigalStudent67.titleShort>
+  <ProfessionalGamer76.description>[PAWN_nameDef] გატაცებული იყო ვიდეო თამაშებით, რადგან [PAWN_possessive] ხელები საკმარისად დიდი იყო ჯოისტიკის დასაჭერად.
+
+[PAWN_pronoun]-მა მიაღწია საშუალო დასრულებას რამდენიმე ადგილობრივ ტურნირში 16-ბიტიანი ეპოქის განმავლობაში. ვერავინ შეამჩნია, როდესაც [PAWN_pronoun] პენსიაზე ადრე გავიდა [PAWN_possessive] თინეიჯერობის წლებში.</ProfessionalGamer76.description>
+  <ProfessionalGamer76.title>პროფესიონალი მოთამაშე</ProfessionalGamer76.title>
+  <ProfessionalGamer76.titleShort>პროფესიონალი მოთამაშე</ProfessionalGamer76.titleShort>
+  <ProjectSubject99.description>[PAWN_nameDef] აირჩიეს მთავრობის აგენტებმა იდუმალი "Frame Project"-ისთვის.
+
+თუმცა, მეხსიერების დაბლოკვის გამო, [PAWN_pronoun] ძალიან ცოტას ახსოვს ამ პროექტის ან მისი ჭეშმარიტი დღის წესრიგის შესახებ - მხოლოდ ის, რომ რამდენიმე გადარჩენილი იყო.</ProjectSubject99.description>
+  <ProjectSubject99.title>პროექტის საგანი</ProjectSubject99.title>
+  <ProjectSubject99.titleShort>საგანი</ProjectSubject99.titleShort>
+  <PsychologyStudent15.description>[PAWN_nameDef] იკვლევდა ახალ რელიგიებსა და ტრადიციებს და ხშირად ოცნებობდა შორეულ ვარსკვლავებზე. 
+
+[PAWN_possessive] სიზმრებმა აიძულა [PAWN_objective] ეკითხა, რა იყო ცაში შუქების მიღმა.</PsychologyStudent15.description>
+  <PsychologyStudent15.title>ფსიქოლოგიის სტუდენტი</PsychologyStudent15.title>
+  <PsychologyStudent15.titleShort>სტუდენტი</PsychologyStudent15.titleShort>
+  <Punk30.description>[PAWN_nameDef]-მა გაატარა [PAWN_possessive] ბავშვობა 15 წლის ასაკის ბავშვებისთვის ნაკელი სიგარეტის გაყიდვაში. სიგარეტი ხშირად სავსე იყო ბალახის ნაჭრებით.</Punk30.description>
+  <Punk30.title>პანკი</Punk30.title>
+  <Punk30.titleShort>პანკი</Punk30.titleShort>
+  <PyroAssistant82.description>ინდუსტრიულ სამყაროში [PAWN_nameDef]-მა ადრევე შეიტყო, რომ თუ [PAWN_pronoun] სურდა ჭამა, [PAWN_pronoun] უნდა ემუშავა. ასე რომ, სამუშაო [PAWN_pronoun] გააკეთა. ბავშვები ჯდებიან ისეთ ადგილებში, სადაც უფროსებს არ შეუძლიათ და სადაც [PAWN_pronoun] იყო, უსაფრთხოების კანონები საკმაოდ მოქნილი იყო.
+
+[PAWN_pronoun] ყოველთვის ცოტა პირომანი იყო და სამწუხარო ინციდენტის შემდეგ აკრძალეს სამზარეულოში.</PyroAssistant82.description>
+  <PyroAssistant82.title>პირო ასისტენტი</PyroAssistant82.title>
+  <PyroAssistant82.titleShort>ასისტენტი</PyroAssistant82.titleShort>
+  <QuietNerd97.description>[PAWN_nameDef] მზრუნველმა მშობლებმა აღზარდეს შუასამყაროზე. სხვა ბავშვებთან თამაშის ნაცვლად [PAWN_pronoun] წიგნებს გაუმაძღარი სიხარბით კითხულობდა.
+
+[PAWN_pronoun] ფიზიკურად გამძლე არ იყო და მძიმე შრომა უჭირდა.</QuietNerd97.description>
+  <QuietNerd97.title>მშვიდი ნერდი</QuietNerd97.title>
+  <QuietNerd97.titleShort>ნაბიჭვარი</QuietNerd97.titleShort>
+  <RangerChild57.description>[PAWN_nameDef] გაიზარდა ტყეში. [PAWN_possessive] მამამ ასწავლა [PAWN_objective] ნადირობა და ცხოვრება მიწის გარეთ, რათა [PAWN_pronoun] შეეძლო ეცხოვრა სხვების საჭიროების გარეშე, როდესაც მამა გარდაიცვალა.
+
+ხელით შრომას მიჩვეული და ინტუიციური გონებით, [PAWN_nameDef]-ს შეეძლო მარტო კვირებით გადარჩენა.</RangerChild57.description>
+  <RangerChild57.title>რეინჯერი ბავშვი</RangerChild57.title>
+  <RangerChild57.titleShort>რეინჯერი ბავშვი</RangerChild57.titleShort>
+  <RebelChild8.description>[PAWN_nameDef] დაიბადა ავტორიტარული მმართველობის ქვეშ. ოჯახისა და საზოგადოების მხრიდან ინტენსიური ჩაგვრის მიუხედავად, [PAWN_pronoun] არასოდეს წყვეტდა ბრძოლას [PAWN_possessive] ღირსებისა და [PAWN_possessive] თავისუფლებისთვის.
+
+[PAWN_pronoun] ხშირად ხვდებოდა გამოუვალ სიტუაციებში, როდესაც ოჯახიც კი ცდილობდა ტერორს [PAWN_objective] მართებულობისკენ. [PAWN_pronoun] ისწავლა არავის ნდობა.</RebelChild8.description>
+  <RebelChild8.title>მეამბოხე ბავშვი</RebelChild8.title>
+  <RebelChild8.titleShort>მეამბოხე</RebelChild8.titleShort>
+  <RebelliousStudent74.description>[PAWN_nameDef]-მა მიიღო სროლა განათლებაზე, მაგრამ [PAWN_pronoun] აუჯანყდა უსამართლობას, რომელიც [PAWN_pronoun] ნახა და გარიცხეს სამი სკოლიდან. ამან [PAWN_objective] დატოვა მთლიანობის გრძნობა, მაგრამ სოციალური უნარების ნაკლებობა.
+
+        [PAWN_nameDef] ცდილობდა თვითრეალიზაციას. [PAWN_pronoun] გაატარა [PAWN_possessive] დღეები მედიტაციაში და კატანისა და პერსონალის საბრძოლო ტექნიკის პრაქტიკაში.</RebelliousStudent74.description>
+  <RebelliousStudent74.title>მეამბოხე სტუდენტი</RebelliousStudent74.title>
+  <RebelliousStudent74.titleShort>სტუდენტი</RebelliousStudent74.titleShort>
+  <RebelSlave14.description>[PAWN_nameDef] დაიბადა კორპორატიულ მონობაში და გაიზარდა უმწეო ამოცანების შესასრულებლად მინიმალური ანაზღაურებით. [PAWN_pronoun] იყო კიდევ ერთი სამაგრი მანქანაში. 
+
+[PAWN_nameDef]-მა იპოვა [PAWN_possessive] თავისუფლება მეამბოხე ორგანიზაციაში შეერთებით, რომლის მიზანი იყო გათავისუფლებულიყო მათი კორპორატიული ბატონებისგან.</RebelSlave14.description>
+  <RebelSlave14.title>მეამბოხე მონა</RebelSlave14.title>
+  <RebelSlave14.titleShort>მეამბოხე</RebelSlave14.titleShort>
+  <RebelStudent14.description>[PAWN_nameDef] გაიზარდა მოკრძალებულ, მაგრამ პრივილეგირებულ ოჯახში, რომელმაც წაახალისა [PAWN_objective] ჭადრაკის თამაში და სკეტის სროლა ახალგაზრდა ასაკში.
+
+როგორც მოწყენილმა სტუდენტმა, [PAWN_pronoun] სიამოვნებით გამოწვევდა [PAWN_possessive] მასწავლებლებს წინააღმდეგობების შესახებ [PAWN_possessive] პლანეტის ოფიციალურ ღირებულებებსა და მათი მთავრობის პოლიტიკას შორის.</RebelStudent14.description>
+  <RebelStudent14.title>მეამბოხე სტუდენტი</RebelStudent14.title>
+  <RebelStudent14.titleShort>სტუდენტი</RebelStudent14.titleShort>
+  <RebelWriter82.description>ადრეულ პერიოდში [PAWN_nameDef]-მა განუვითარდა წერის ნიჭი. [PAWN_pronoun] მალე წერდა პოპულარულ ონლაინ ჟურნალს - ანონიმურად, [PAWN_possessive] ასაკის დასამალად - თემებზე დაწყებული ბიოეთიკიდან პოლიტიკურ თეორიამდე და ქსენოსოციოლოგიამდე.</RebelWriter82.description>
+  <RebelWriter82.title>მეამბოხე მწერალი</RebelWriter82.title>
+  <RebelWriter82.titleShort>მწერალი</RebelWriter82.titleShort>
+  <ReclusiveProdigy96.description>აყვავებულ ბრჭყვიალა სამყაროში ზრდამ მისცა [PAWN_nameDef] შანსი, სრულად მიეძღვნა [PAWN_objective] საკუთარი თავი [PAWN_possessive] კვლევებისთვის.
+
+ბავშვობიდანვე დაინტერესებული გენეტიკური მოდიფიკაციისა და ნერვული გაძლიერებისადმი, [PAWN_pronoun]-ს ცოტა დრო (ან სურვილი) ჰქონდა რეგულარული ბავშვობისთვის.</ReclusiveProdigy96.description>
+  <ReclusiveProdigy96.title>განმარტოებული საოცრება</ReclusiveProdigy96.title>
+  <ReclusiveProdigy96.titleShort>საოცრება</ReclusiveProdigy96.titleShort>
+  <ReEducatedYouth23.description>[PAWN_nameDef] ცხოვრობდა შუა სამყაროში, სადაც მთავრობა ზრუნავდა ახალგაზრდებზე. 
+
+[PAWN_pronoun] იყო ერთ-ერთი იმ მრავალ ბავშვს შორის, რომლებიც მშობლებს წაართვეს და ახალ საგანმანათლებლო პროგრამებში აიყვანეს.</ReEducatedYouth23.description>
+  <ReEducatedYouth23.title>ხელახლა განათლებული ახალგაზრდობა</ReEducatedYouth23.title>
+  <ReEducatedYouth23.titleShort>ხელახალი განათლება მიიღო</ReEducatedYouth23.titleShort>
+  <RichBoy9.description>[PAWN_nameDef] გაიზარდა შუა სამყაროში მოსიყვარულე მშობლებით, საყვარელი შინაური ცხოველით და ბევრი ფულით - მაგრამ მეგობრების გარეშე.
+
+[PAWN_pronoun] ყოველთვის ეუბნებოდა [PAWN_possessive] მამას, რომ "ამ გლეხებს მხოლოდ შენი ფული უნდათ". ასე რომ, [PAWN_pronoun] [PAWN_possessive] დროის უმეტეს ნაწილს მარტო, ან სხვა ბავშვებთან ჩხუბში ატარებდა.</RichBoy9.description>
+  <RichBoy9.title>მდიდარი ბიჭი</RichBoy9.title>
+  <RichBoy9.titleShort>მდიდარი ბიჭი</RichBoy9.titleShort>
+  <RitualChild20.description>[PAWN_nameDef] კისერზე განსაკუთრებული ნიშნით დაბადებულმა [PAWN_nameDef]-ის ტომმა აირჩია [PAWN_objective] მსხვერპლშეწირვა სისხლის რიტუალში. მათ დატოვეს [PAWN_objective] ტყეში, რათა მოკვდნენ. იპოვეს და მიიღეს არქტიკული მგლების ხროვა [PAWN_objective].
+
+დროთა განმავლობაში, [PAWN_pronoun]-მა ისწავლა ჭურჭლით ნადირობის ხელსაწყოების დამზადება.</RitualChild20.description>
+  <RitualChild20.title>რიტუალური ბავშვი</RitualChild20.title>
+  <RitualChild20.titleShort>მსხვერპლი</RitualChild20.titleShort>
+  <Scavenger62.description>[PAWN_nameDef] გაიზარდა ბირთვული ომით განადგურებულ სამყაროში დარჩენილი რამდენიმე ქალაქიდან ერთ-ერთში.
+
+[PAWN_pronoun] ისწავლა გადარჩენა საკუთარ თავზე [PAWN_possessive] ამ პოსტ-აპოკალიფსური უდაბნოში ტექნოლოგიებისა და მარაგების მოძიებით.</Scavenger62.description>
+  <Scavenger62.title>გამწმენდი</Scavenger62.title>
+  <Scavenger62.titleShort>გამწმენდი</Scavenger62.titleShort>
+  <SchoolyardOutcast11.description>[PAWN_nameDef] ჰქონდა მოკრძალებული, მაგრამ სათანადო აღზრდა. კარგი ოჯახური წარმომავლობისა და დიდი მხარდაჭერის მიუხედავად, [PAWN_pronoun] იბრძოდა მეგობრების შესაძენად და ხშირად აბუჩად იგდებდნენ. [PAWN_pronoun] ისწავლა მარტო მუშაობა ან თამაში და მოერიდა სოციალიზაციას კონფლიქტის თავიდან ასაცილებლად.
+
+როდესაც კონფლიქტი წარმოიქმნება, [PAWN_nameDef] საპასუხო ძალადობრივად იქცევა.</SchoolyardOutcast11.description>
+  <SchoolyardOutcast11.title>სკოლის ეზო გარიყული</SchoolyardOutcast11.title>
+  <SchoolyardOutcast11.titleShort>განდევნილი</SchoolyardOutcast11.titleShort>
+  <ScienceProdigy65.description>[PAWN_nameDef] იყო [PAWN_possessive] კლასის პირველი ადგილი ქიმიაში, ფიზიკაში, ეგზობიოლოგიაში, ასტრონომიასა და ოპერაში.
+
+სამწუხარო ლაბორატორიულმა შემთხვევამ [PAWN_objective] დატოვა ხანძრის სასიკვდილო შიშით.</ScienceProdigy65.description>
+  <ScienceProdigy65.title>მეცნიერების საოცრება</ScienceProdigy65.title>
+  <ScienceProdigy65.titleShort>საოცრება</ScienceProdigy65.titleShort>
+  <Scout6.description>[PAWN_nameDef]-ს უყვარდა გარეთ ყოფნა. [PAWN_possessive] მშობლებმა ჩაირიცხნენ [PAWN_objective] პროგრამაში, რომელიც ასწავლიდა სამხედრო სკაუტირების უნარებს. [PAWN_pronoun] აყვავდა, როდესაც [PAWN_pronoun] მარტო დარჩა უდაბნოში.
+
+სამწუხაროდ, [PAWN_nameDef]-მა ვერ ისწავლა ძირითადი ტექნოლოგიური უნარები, რომლებიც ბევრმა სხვამ მიიღო.</Scout6.description>
+  <Scout6.title>მზვერავი</Scout6.title>
+  <Scout6.titleShort>მზვერავი</Scout6.titleShort>
+  <Scrounger25.description>[PAWN_nameDef] ძვირფასი ნივთებისა და საინტერესო ნივთების საძიებლად უსარგებლო ბორცვებში ჩაყვინთავდა.
+
+[PAWN_pronoun] არასოდეს აწუხებდა სუნმა ან საშიშროებამ, რამაც შეიძლება დაჭრა [PAWN_objective] კვირის განმავლობაში.</Scrounger25.description>
+  <Scrounger25.title>სკრუნგერი</Scrounger25.title>
+  <Scrounger25.titleShort>სკრუნგერი</Scrounger25.titleShort>
+  <SentimentalChild55.description>[PAWN_nameDef] კარგი ბავშვი იყო. როდესაც ვინმეს პრობლემა ჰქონდა, [PAWN_pronoun] ცდილობდა მის გამოსწორებას. მაგრამ, როგორც ბავშვი, [PAWN_pronoun] ყოველთვის არ მიაღწია წარმატებას. ამან დააზარალა [PAWN_possessive] მგრძნობიარე სული.
+
+[PAWN_pronoun] ოცნებობდა გამხდარიყო ჯარისკაცი, რომელიც ებრძოდა თავდამსხმელებსა და უცხოპლანეტელებს.</SentimentalChild55.description>
+  <SentimentalChild55.title>სენტიმენტალური ბავშვი</SentimentalChild55.title>
+  <SentimentalChild55.titleShort>ლამაზი ბავშვი</SentimentalChild55.titleShort>
+  <ShipChild46.description>[PAWN_nameDef]-ის ოჯახი კოსმოსური მოვაჭრეები იყო. ერთ მშვენიერ დღეს, [PAWN_nameDef]-ის კრიპტოძილის პოდი ვერ გადაიტანა. [PAWN_pronoun] მოუწია წლების გაღვიძება გემზე, რადგან მეორეს ეძინა.
+
+[PAWN_pronoun]-მა შეავსო [PAWN_possessive] დღეები გემის ტვირთიდან მშვენიერი კონტრაქტის შესაქმნელად - მაგრამ [PAWN_pronoun] არ ისწავლა ბევრი ძირითადი პლანეტარული ცხოვრების უნარი.</ShipChild46.description>
+  <ShipChild46.title>გემის ბავშვი</ShipChild46.title>
+  <ShipChild46.titleShort>გემის ბავშვი</ShipChild46.titleShort>
+  <ShipTechnician0.description>[PAWN_nameDef] იყო შეგირდი ტექნიკოსი სავაჭრო გემებზე, რომლებიც ატარებდნენ მარშრუტებს [PAWN_possessive] სახლის სისტემის სადგურებსა და პლანეტებს შორის. ამ სამუშაოში, [PAWN_pronoun] ისწავლა მრავალი მანქანის შეკეთება და გაუმჯობესება.
+
+ხანდახან, [PAWN_possessive] გემს აძლევდნენ კოსმოსის სახიფათო რეგიონებში მოკლე საძიებო მოგზაურობას.</ShipTechnician0.description>
+  <ShipTechnician0.title>გემის ტექნიკოსი</ShipTechnician0.title>
+  <ShipTechnician0.titleShort>ტექნიკოსი</ShipTechnician0.titleShort>
+  <ShootingComa59.description>[PAWN_nameDef] ახალგაზრდა ასაკში კომაში ჩავარდა და წლები ოცნებობდა სროლაზე. როდესაც [PAWN_pronoun] გაიღვიძა, [PAWN_pronoun] უსარგებლო იყო დავალებების უმეტესობაში - მაგრამ [PAWN_pronoun] საკმაოდ კარგად დამიზნებდა.</ShootingComa59.description>
+  <ShootingComa59.title>სროლის კომა</ShootingComa59.title>
+  <ShootingComa59.titleShort>კომაში ბავშვი</ShootingComa59.titleShort>
+  <ShunnedGirl30.description>ფრეია პატარა, ღარიბ ოჯახში დაიბადა. მას დაუნდობლად აბუჩად იგდებდნენ, სცემდნენ და სძულდნენ. როგორც ის გაიზარდა, მას გაუჩნდა ინტერესი იარაღის მიმართ. ის ჩვეულებრივ წიგნებიდან სწავლობდა, მაგრამ ხანდახან ახერხებდა გარკვეული დროის გატარებას რეალურ ნივთებთან. მოგვიანებით ფრეამ აღმოაჩინა ხელოვნების ნიჭი და დაიწყო საკუთარი თავის სწავლება, თუ როგორ ხატვა და ხატვა.</ShunnedGirl30.description>
+  <ShunnedGirl30.title>მოერიდა გოგონას</ShunnedGirl30.title>
+  <ShunnedGirl30.titleShort>ერიდებოდა</ShunnedGirl30.titleShort>
+  <SicklyLiar3.description>არც ისე იშვიათია ავადმყოფი ბავშვის განდევნა. იშვიათია, რომ ეს ბავშვი გადარჩება და აყვავდება კიდეც ასეთი სუსტი სხეულით.
+
+[PAWN_possessive] სწრაფი ჭკუისა და ვერცხლისფერი ენის გამოყენებით, [PAWN_nameDef] ახერხებდა გამოსვლას თითქმის ნებისმიერი სიტუაციიდან - უმეტეს დროს სხვების ხარჯზე.</SicklyLiar3.description>
+  <SicklyLiar3.title>ავადმყოფი მატყუარა</SicklyLiar3.title>
+  <SicklyLiar3.titleShort>მატყუარა</SicklyLiar3.titleShort>
+  <SlaveFarmer99.description>პატარა გოგონად მიტოვებული [PAWN_nameDef] ფერმერმა იპოვა. როგორც უნაყოფო [PAWN_objective]თავს, ფერმერი ინახავდა [PAWN_objective] როგორც მონას. მუდმივმა ცემამ [PAWN_objective] ნაწიბურები დატოვა და ძალადობას ვერ უმკლავდებოდა. მრავალი წლის შემდეგ, [PAWN_pronoun] გაიქცა.</SlaveFarmer99.description>
+  <SlaveFarmer99.title>მონა ფერმერი</SlaveFarmer99.title>
+  <SlaveFarmer99.titleShort>მონა</SlaveFarmer99.titleShort>
+  <SmallTownKid41.description>[PAWN_nameDef] გაიზარდა შუა სამყაროს იზოლირებულ სოფელში, რომელიც გარშემორტყმული იყო ოპტიკებითა და სოფლებით.
+
+[PAWN_possessive] მშობლებმა ასწავლეს [PAWN_objective] სასარგებლო საშინაო უნარების ფართო სპექტრი, მაგრამ მშვიდობიანი და უსაფრთხო ბავშვობა დარჩა [PAWN_objective] ცხოვრების უფრო რთული ნაწილების მცირე გაგებით.</SmallTownKid41.description>
+  <SmallTownKid41.title>პატარა ქალაქელი ბავშვი</SmallTownKid41.title>
+  <SmallTownKid41.titleShort>ქალაქის ბავშვი</SmallTownKid41.titleShort>
+  <SocialPariah3.description>[PAWN_nameDef]-ის ოჯახი არასდროს ჯდებოდა. ისინი უცნაურები იყვნენ, რომლებიც ვერ შეესაბამებოდნენ თავიანთ რეგლამენტირებულ საზოგადოებას. ამის გამო ისინი იძულებულნი გახდნენ კრიპტოსძინა და გაგზავნეს სხვადასხვა სამყაროში, რათა აღარასოდეს ენახათ ერთმანეთი.</SocialPariah3.description>
+  <SocialPariah3.title>სოციალური პარიატი</SocialPariah3.title>
+  <SocialPariah3.titleShort>პარია</SocialPariah3.titleShort>
+  <SoldierExperiment50.description>[PAWN_nameDef] გაიზარდა იმით, რომ [PAWN_pronoun] ნორმალური, თუმცა ოდნავ თავშესაფარი ბავშვი იყო.
+
+სინამდვილეში, [PAWN_pronoun] იყო დახვეწილი ექსპერიმენტის ნაწილი. მკვლევარები განაპირობებდნენ [PAWN_objective] სოციალური ურთიერთქმედების და მექანიტის ინექციების გამოყენებას ელიტარული ჯარისკაცის შესაქმნელად.</SoldierExperiment50.description>
+  <SoldierExperiment50.title>ჯარისკაცის ექსპერიმენტი</SoldierExperiment50.title>
+  <SoldierExperiment50.titleShort>ექსპერიმენტი</SoldierExperiment50.titleShort>
+  <SoleSurvivor63.description>[PAWN_nameDef]-ის მთელი ტომი იდუმალმა დაავადებამ გაანადგურა.
+
+იპოვეს მარტო და მიიღეს სხვა ჯგუფის მიერ, [PAWN_pronoun] არასოდეს დაუახლოვდა სხვა ტომის წევრებს. [PAWN_pronoun] ამჯობინა თავი შორს ყოფილიყო [PAWN_possessive] ახალი სახლისგან, ხეტიალი ტყეში და ცხოველების მოვლა.</SoleSurvivor63.description>
+  <SoleSurvivor63.title>ერთადერთი გადარჩენილი</SoleSurvivor63.title>
+  <SoleSurvivor63.titleShort>გადარჩენილი</SoleSurvivor63.titleShort>
+  <SonOfAHuntress75.description>პლანეტა ტიკონდეროგას მთებში [PAWN_nameDef] გაიზარდა [PAWN_possessive] ტომის დედამ. მან ასწავლა [PAWN_objective] გადარჩენის უნარები - ხაფანგში ჩასმა, თვალყურის დევნება, სროლა, კანის მოცილება, საჭმლის მომზადება და განკურნება.
+
+[PAWN_possessive] გარდაცვლილმა მამამ დატოვა ძველი ხრახნიანი თოფი და [PAWN_nameDef] ივარჯიშებდა მასთან ყველა შანსის [PAWN_pronoun].</SonOfAHuntress75.description>
+  <SonOfAHuntress75.title>მონადირის შვილი</SonOfAHuntress75.title>
+  <SonOfAHuntress75.titleShort>მონადირე</SonOfAHuntress75.titleShort>
+  <SpaceCadet77.description>სოფლის მეურნეობის სამყაროში გაზრდა არ ტოვებს მღელვარებისა და თავგადასავლების შესაძლებლობას, ასე რომ, როდესაც სამეფო ფლოტმა დაიწყო რეკრუტირების პროგრამა [PAWN_possessive] მშობლიურ პლანეტაზე, [PAWN_nameDef] ჩამოაგდო [PAWN_possessive] თოხი და პირუტყვი, რათა აეღოთ იარაღი გვირგვინისთვის.
+
+[PAWN_pronoun] მსახურობდა პლანეტათაშორის სუპერ-გამანადგურებელ HMS Thunder-Child-ზე.</SpaceCadet77.description>
+  <SpaceCadet77.title>კოსმოსური იუნკერი</SpaceCadet77.title>
+  <SpaceCadet77.titleShort>იუნკერი</SpaceCadet77.titleShort>
+  <SpaceFanboy22.description>[PAWN_nameDef] კოსმოსურ მოგზაურობაზე ოცნებობდა. [PAWN_pronoun] ააშენა [PAWN_possessive] საკუთარი ვითომ კოსმოსური ხომალდი ძველი პოლიციის ყუთიდან და წავიდა დიდი უცნობის სანახავად.</SpaceFanboy22.description>
+  <SpaceFanboy22.title>კოსმოსური ფანბოი</SpaceFanboy22.title>
+  <SpaceFanboy22.titleShort>ფანბოი</SpaceFanboy22.titleShort>
+  <SpaceNerd97.description>[PAWN_nameDef] უბრალოდ სურდა ყოფილიყო მაგარი, როგორც [PAWN_possessive] საყვარელი სუპერგმირი All-Might. [PAWN_pronoun] ოცნებობდა კოსმოსურ თავგადასავლებზე წასვლაზე და ახალი სამყაროების შესწავლაზე. [PAWN_pronoun] ასევე ოცნებობდა შოკოლადზე... კოსმოსურ შოკოლადზე.</SpaceNerd97.description>
+  <SpaceNerd97.title>კოსმოსური ნერვი</SpaceNerd97.title>
+  <SpaceNerd97.titleShort>კოსმოსური ნერვი</SpaceNerd97.titleShort>
+  <SpacerOrphan77.description>დაბადებული ვარსკვლავებს შორის, კოსმოსურ ოჯახში, [PAWN_nameDef] ერთადერთი გადარჩენილი იყო, როდესაც [PAWN_possessive] ოჯახის გემი განადგურდა.
+
+[PAWN_pronoun] იძულებული გახდა ეპოვა გადარჩენის გზა და ეძია სხვა ოჯახის შეცნობის სიხარული.</SpacerOrphan77.description>
+  <SpacerOrphan77.title>spacer ობოლი</SpacerOrphan77.title>
+  <SpacerOrphan77.titleShort>ობოლი</SpacerOrphan77.titleShort>
+  <SpaceSmuggler6.description>[PAWN_nameDef]-ის მშობლებმა გამოიყენეს [PAWN_objective], რათა დაეხმარონ კონტრაბანდის კონტრაბანდის გადატანას სამყაროების ჯგუფს შორის.
+
+[PAWN_possessive] მცირე ზომის დახმარებით, [PAWN_nameDef] გახდა ძალიან კომპეტენტური მშობლების [PAWN_possessive] მისიების შესრულებაში, იარაღის შესწავლაში, მოლაპარაკებებში და, რაც მთავარია, კონტრაბანდაში.</SpaceSmuggler6.description>
+  <SpaceSmuggler6.title>კოსმოსური კონტრაბანდისტი</SpaceSmuggler6.title>
+  <SpaceSmuggler6.titleShort>კონტრაბანდისტი</SpaceSmuggler6.titleShort>
+  <SpaceyachtPilot89.description>[PAWN_nameDef]-მა მდიდარი ბიზნესმენები და პოლიტიკოსები გადაიყვანა [PAWN_possessive] მშობლიურ სამყაროში.
+
+        ჰედონიზმის სიღრმის მოწმე ამ ადამიანებმა შეცვალეს [PAWN_objective] ისე, რომ არც კი ესმოდა [PAWN_pronoun].</SpaceyachtPilot89.description>
+  <SpaceyachtPilot89.title>კოსმოსური იახტის პილოტი</SpaceyachtPilot89.title>
+  <SpaceyachtPilot89.titleShort>პილოტი</SpaceyachtPilot89.titleShort>
+  <SpeederRacer71.description>[PAWN_nameDef] იყო გვიმრა ფერმერის ვაჟი ხალდერიის ამაღლებულ ტყეებში.
+
+[PAWN_pronoun] იპოვა [PAWN_possessive] პირველი სიყვარული ჩქაროსნულ რბოლაში, მასიური ტილოებიდან და გარეთ [PAWN_possessive] სახლის სამყაროს ულამაზესი ხედები. სარბოლო ქვესკნელმა ასევე აიძულა [PAWN_objective] ესწავლა [PAWN_objective]თავის დაცვა სწრაფი სიტყვით ან უფრო სწრაფი დარტყმით.</SpeederRacer71.description>
+  <SpeederRacer71.title>სპიდერ მრბოლელი</SpeederRacer71.title>
+  <SpeederRacer71.titleShort>მრბოლელი</SpeederRacer71.titleShort>
+  <SpoiledBrat59.description>მდიდარ ოჯახში დაბადებულ [PAWN_nameDef]-ს ყველაფერი მიეცა და არასოდეს განუვითარებია ძირითადი სამუშაო ეთიკა ან არადამოკიდებული პიროვნების საფუძველი.
+
+მოსალოდნელი იყო, რომ [PAWN_pronoun] მსოფლიოში ერთ-ერთი საუკეთესო ექიმი გახდებოდა.</SpoiledBrat59.description>
+  <SpoiledBrat59.title>გაფუჭებული ბრატი</SpoiledBrat59.title>
+  <SpoiledBrat59.titleShort>ბრატი</SpoiledBrat59.titleShort>
+  <SpoiledChild33.description>[PAWN_nameDef] გაიზარდა შრომისმოყვარე კოლონიის მენეჯერის შვილი. ამ თანამდებობაზე ხელით და სახიფათო ამოცანების უმეტესობა აკრძალული იყო მშობლების მიერ, მაგრამ რგოლზე ყველას ხელების დაბინძურება უწევს.</SpoiledChild33.description>
+  <SpoiledChild33.title>გაფუჭებული ბავშვი</SpoiledChild33.title>
+  <SpoiledChild33.titleShort>გაფუჭებული</SpoiledChild33.titleShort>
+  <SpoiledChild80.description>[PAWN_nameDef] შრომისმოყვარე კოსმოსური ინჟინრის შვილი იყო. [PAWN_possessive] მშობლებმა აკრძალეს სახელმძღვანელო და საშიში ამოცანების უმეტესობა, ამიტომ [PAWN_pronoun] ისწავლა ხელოვნება და მუსიკა.
+
+[PAWN_pronoun] უყვარდა ცხოველები, მაგრამ [PAWN_possessive] მშობლებს არასოდეს აძლევდნენ უფლებას [PAWN_objective] ჰყავდეს შინაური ცხოველი - თუმცა [PAWN_pronoun] ბევრს თამაშობდა სხვა ადამიანების შინაურ ცხოველებთან.</SpoiledChild80.description>
+  <SpoiledChild80.title>გაფუჭებული ბავშვი</SpoiledChild80.title>
+  <SpoiledChild80.titleShort>გაფუჭებული</SpoiledChild80.titleShort>
+  <Stableboy49.description>[PAWN_nameDef] იყო შუასაუკუნეების პლანეტაზე მყოფი ბიჭი, რომელიც თითქმის ყოველდღე აგროვებდა ნაგავს [PAWN_possessive] შესანახად.
+
+იმ დროისთვის, როდესაც [PAWN_pronoun] ბავშვობიდან გადიოდა, [PAWN_nameDef]-მა დაზოგა საკმარისი თანხა, რათა გადაეხადა კოსმოსური მოვაჭრე, რათა [PAWN_objective] სამყაროს მიღმა წაეყვანა.</Stableboy49.description>
+  <Stableboy49.title>სტაბილური ბიჭი</Stableboy49.title>
+  <Stableboy49.titleShort>სტაბილური ბიჭი</Stableboy49.titleShort>
+  <StarforceCadet79.description>ამენ-ტიზე, ვარსკვლავური იმპერიის ბრჭყვიალა სამყაროს დედაქალაქში გაზრდილ [PAWN_nameFull]-ს მარტივი ბავშვობა ჰქონდა.
+
+ახალგაზრდობაში [PAWN_nameDef]-მა გადაწყვიტა, რომ Starforce-ში გაწევრიანება იქნებოდა იმპერიისთვის დაბრუნების [PAWN_possessive] გზა.</StarforceCadet79.description>
+  <StarforceCadet79.title>სტარფორსის კადეტი</StarforceCadet79.title>
+  <StarforceCadet79.titleShort>იუნკერი</StarforceCadet79.titleShort>
+  <StarSquire9.description>შუასაუკუნეების სამყაროში დაბადებული [PAWN_nameDef]-ის პირველი მოგონება ღამის ცას ახედა. 
+
+მას შემდეგ, [PAWN_pronoun] ოცნებობდა რაინდის ძებნაზე ვარსკვლავებით სავსე ცაში. [PAWN_possessive] ფოკუსირება ამ ხედვაზე დატოვა [PAWN_objective] გარკვეულწილად ერთმორწმუნე.</StarSquire9.description>
+  <StarSquire9.title>ვარსკვლავური მფრინავი</StarSquire9.title>
+  <StarSquire9.titleShort>სკივერი</StarSquire9.titleShort>
+  <StationWhelp94.description>[PAWN_nameDef]-მა გაატარა [PAWN_possessive] ბავშვობა, როგორც უსახსრო ობოლი, რომელიც ცხოვრობდა კოსმოსურ სადგურზე. [PAWN_pronoun]-მა მოახერხა გახეხვა ბინძური სამუშაოების კეთებით და ქურდობით. [PAWN_pronoun] იმდენად ძალადობრივი გახდა [PAWN_possessive] "უკეთესების" ცუდი მოპყრობის გამო, რომ [PAWN_pronoun] გააძევეს სადგურიდან, მხოლოდ იმიტომ, რომ კოსმოსური მეკობრეებმა აიყვანეს.</StationWhelp94.description>
+  <StationWhelp94.title>სადგურის დახმარება</StationWhelp94.title>
+  <StationWhelp94.titleShort>დახმარება</StationWhelp94.titleShort>
+  <SteamworldTinker38.description>ორთქლის სამყაროს ტრუშჩობებში [PAWN_nameDef]-ს მანქანებისა და მექანიზმების მიმართ გატაცება განუვითარდა. [PAWN_pronoun] მიხვდა, რომ მათი საზოგადოება უფრო ერჩივნა, ვიდრე სხვა ადამიანების.
+
+[PAWN_possessive] შესანიშნავმა ხელმარჯვეობამ [PAWN_objective] მუდმივი ჯიბის ფული მოუტანა, და [PAWN_pronoun] ყოველ კაპიკს სათადარიგო ნაწილებსა და ხელსაწყოებზე ხარჯავდა სათამაშოდ.</SteamworldTinker38.description>
+  <SteamworldTinker38.title>ორთქლის ხელოსანი</SteamworldTinker38.title>
+  <SteamworldTinker38.titleShort>ტინკერი</SteamworldTinker38.titleShort>
+  <StewardsAssisant28.description>[PAWN_nameDef], რომელიც შუა საუკუნეების სავაჭრო გემებზე იყო, კარგად იმოგზაურა [PAWN_possessive] საშინაო სამყაროში ადრეული მოზარდების მიერ [PAWN_possessive].
+
+თუმცა, [PAWN_possessive] კაპიტნის მუდმივმა ბრძანებებმა ხელი შეუწყო თავდაუზოგავ სერიას, ისევე როგორც ზოგადი უბედურება ყველაფრის მიმართ, რაც [PAWN_pronoun] ჩაითვლება დატვირთულ საქმედ.</StewardsAssisant28.description>
+  <StewardsAssisant28.title>სტიუარდის თანაშემწე</StewardsAssisant28.title>
+  <StewardsAssisant28.titleShort>სტიუარდი</StewardsAssisant28.titleShort>
+  <Straggler71.description>მიუხედავად იმისა, რომ დალოცვილი იყო მშობლების სიყვარულით, [PAWN_nameDef] თითქმის არ იცნობდა [PAWN_მფლობელობაში] მშობლებს.
+
+[PAWN_pronoun] ხშირად ტოვებდა [PAWN_possessive] საკუთარ მოწყობილობებს, რაც ნიშნავდა მეტ დროს დაეთმო [PAWN_possessive] ინტერესების შესასწავლად... და პრობლემების წინაშე.</Straggler71.description>
+  <Straggler71.title>სტრაგლერი</Straggler71.title>
+  <Straggler71.titleShort>სტრაგლერი</Straggler71.titleShort>
+  <StreetChild4.description>[PAWN_nameDef]-ს ნარკომანი დედა გარდაიცვალა და [PAWN_objective] ობოლი ახალგაზრდა ასაკში დატოვა. ცოცხალი რომ დარჩენილიყო, [PAWN_pronoun] მიმართა ქურდობას და საჭიროების შემთხვევაში პროსტიტუციას. როდესაც [PAWN_nameDef] დაიჭირეს ეკლესიიდან ქურდობაში, მღვდელმსახურმა დაინახა დაჭრილი, მაგრამ ჭკვიანი ბავშვი და მიიღო [PAWN_objective] და მისცა [PAWN_objective] სიცოცხლის მეორე შანსი.</StreetChild4.description>
+  <StreetChild4.title>ქუჩის ბავშვი</StreetChild4.title>
+  <StreetChild4.titleShort>ქუჩა</StreetChild4.titleShort>
+  <StreetKid19.description>[PAWN_nameDef]-ის [PAWN_possessive] ერთადერთი მეგობარი, რომელიც გაიზარდა ქუჩებსა და მინდვრებში, იყო ძაღლი, სახელად რესტი. წყვილი გადაფხეკდა და იპოვეს საკმარისი საკვები გადარჩენისთვის.
+
+როდესაც [PAWN_pronoun] 13 წლის იყო, კრიმინალურმა ჯგუფმა [PAWN_objective] აიღო მათი ფრთის ქვეშ.</StreetKid19.description>
+  <StreetKid19.title>ქუჩის ბავშვი</StreetKid19.title>
+  <StreetKid19.titleShort>ქუჩის ბავშვი</StreetKid19.titleShort>
+  <StreetPeddler66.description>გაიზარდა ინდუსტრიულ შუა სამყაროში, სადაც ძარცვა და ყაჩაღობა იშვიათი არ იყო, [PAWN_nameDef] დაეხმარა [PAWN_possessive] ოჯახს, ამზადებდა პატარა წვრილმანებს და სიახლეებს გამვლელებისთვის გასაყიდად.
+
+[PAWN_pronoun]-მა ადრევე შეიტყო, რომ ეს ყოველთვის არ იყო ის, რაც [PAWN_pronoun] იცოდა, მაგრამ ვინც [PAWN_pronoun] იცოდა, რომ [PAWN_objective] შორს მიაღწევდა ცხოვრებაში.</StreetPeddler66.description>
+  <StreetPeddler66.title>ქუჩის გამყიდველი</StreetPeddler66.title>
+  <StreetPeddler66.titleShort>გამყიდველი</StreetPeddler66.titleShort>
+  <StreetUrchin45.description>ღარიბ ოჯახში დაბადებული [PAWN_nameDef] იყო ავადმყოფი ბავშვი, რომელსაც არასოდეს განუვითარებია [PAWN_მფლობელობაში] და-ძმის ძალა.
+
+[PAWN_possessive] მშობლებმა, რომლებსაც არ შეეძლოთ [PAWN_objective]-ის უზრუნველყოფა და ზოგიერთმა [PAWN_pronoun] ვერ გადაიხადა [PAWN_possessive] საკუთარი გზით, დააგდეს [PAWN_objective] ქუჩაში. [PAWN_pronoun] ისწავლა მძიმედ და სწრაფად, თუ როგორ უნდა გადარჩეს ყველა საჭირო საშუალებით.</StreetUrchin45.description>
+  <StreetUrchin45.title>ქუჩის ზღარბი</StreetUrchin45.title>
+  <StreetUrchin45.titleShort>ქუჩის ვირთხა</StreetUrchin45.titleShort>
+  <StreetUrchin53.description>ქალაქურ სამყაროში ღარიბ ოჯახში დაბადებული [PAWN_nameDef] პატარა ასაკში მიატოვეს ქუჩებში.
+
+[PAWN_pronoun] ისწავლა ქურდობა და მოკვლა, რომ გადარჩა დაუნდობელ ქუჩებში, მოიპოვა უნარები მელეში და დისტანციურ ბრძოლაში. [PAWN_possessive] ცხოვრებაში სალაპარაკოდ ცოტა დრო იყო.</StreetUrchin53.description>
+  <StreetUrchin53.title>ქუჩის ზღარბი</StreetUrchin53.title>
+  <StreetUrchin53.titleShort>ჭინჭრის ციება</StreetUrchin53.titleShort>
+  <StreetUrchin74.description>სახლიდან გაქცევის შემდეგ, [PAWN_nameDef] იძულებული გახდა ქუჩაში ეცხოვრა.
+
+[PAWN_pronoun] სწრაფად გაიზარდა და ადრეულ ასაკში შეიტყო, რომ [PAWN_pronoun] უნდა გაერკვია, როგორ მოეტყუებინა ხალხი [PAWN_objective]-თან დასაკავშირებლად.</StreetUrchin74.description>
+  <StreetUrchin74.title>ქუჩის ზღარბი</StreetUrchin74.title>
+  <StreetUrchin74.titleShort>გრიფტერი</StreetUrchin74.titleShort>
+  <Student65.description>[PAWN_nameDef] სწავლობდა ქიმიას და კვანტურ მექანიკას გასართობად.
+
+[PAWN_pronoun] ძალიან კარგად ახერხებდა სხვების დარწმუნებას, რომ ეკეთებინათ [PAWN_possessive] ფიზიკური სამუშაო და ცხოვრების მიზნად აქცია ხელით შრომის თავიდან აცილება.</Student65.description>
+  <Student65.title>სტუდენტი</Student65.title>
+  <Student65.titleShort>სტუდენტი</Student65.titleShort>
+  <StudentEngineer34.description>გენიალური ბავშვი, [PAWN_nameDef] ჩაიყვანეს სპეციალურ სასწავლო პროგრამაში, რომელიც მოიცავს საჰაერო კოსმოსურ ომებსა და ინჟინერიას.
+
+ერთ დღეს, [PAWN_pronoun] ცდილობდა დამეგობრებულიყო ციყვთან სამაჯურის მიცემით. ციყვმა უკბინა [PAWN_objective], რითაც [PAWN_objective] მიიღო მეტსახელი "ციყვი {PAWN_gender ? Boy : Girl}".
+
+[PAWN_nameDef]-მა დაიჯერა, რომ სამუშაო, რომელიც მოიცავს ხელით შრომას, დაბალია [PAWN_objective].</StudentEngineer34.description>
+  <StudentEngineer34.title>სტუდენტი ინჟინერი</StudentEngineer34.title>
+  <StudentEngineer34.titleShort>ინჟინერი</StudentEngineer34.titleShort>
+  <StudentSocialite89.description>[PAWN_nameDef] ისწავლა პოლიტიკა ელიტარულ სასწავლო სკოლაში სოციალურად ნიჭიერი სტუდენტებისთვის კალთას IV-ზე.
+
+მიუხედავად იმისა, რომ [PAWN_pronoun] ბუნებრივად დახელოვნებული იყო ადამიანების კითხვაში და მანიპულირებაში, [PAWN_pronoun] ამაში სიხარულს ვერ პოულობდა. [PAWN_pronoun] აკადემია დამთავრებამდე რამდენიმე წლით ადრე დატოვა.</StudentSocialite89.description>
+  <StudentSocialite89.title>სტუდენტური სოციალისტი</StudentSocialite89.title>
+  <StudentSocialite89.titleShort>სოციალისტი</StudentSocialite89.titleShort>
+  <SuperSoldier99.description>[PAWN_nameDef]-ის მთავრობამ აწარმოა სუპერ ჯარისკაცების განვითარების ექსპერიმენტული პროგრამა. მათ გაიტაცეს ათასობით ჩვილი, განაპირობა მათი გონება ნარკოტიკებითა და მანქანებით და ავარჯიშეს ბრძოლაში.
+
+ჩვილების უმეტესობა გარდაიცვალა, მაგრამ [PAWN_nameDef] არა. [PAWN_pronoun] მოკლა [PAWN_possessive] პირველი მამაკაცი ექვსი წლის ასაკში და ცოტა ხნის შემდეგ იბრძოდა საველე ოპერაციებში.</SuperSoldier99.description>
+  <SuperSoldier99.title>სუპერ ჯარისკაცი</SuperSoldier99.title>
+  <SuperSoldier99.titleShort>ჯარისკაცი</SuperSoldier99.titleShort>
+  <TechEnthusiast28.description>[PAWN_nameDef]-ს ბავშვობაში ყველა უახლესი გაჯეტი ჰქონდა. [PAWN_pronoun] მთელ [PAWN_possessive] დროს ატარებდა თამაშებს AI-ებით და არა სხვა ბავშვებთან ერთად. [PAWN_pronoun] ყოველთვის უხერხულად გრძნობდა თავს ახალი ადამიანების გვერდით.</TechEnthusiast28.description>
+  <TechEnthusiast28.title>ტექნიკური ენთუზიასტი</TechEnthusiast28.title>
+  <TechEnthusiast28.titleShort>ტექნიკოსი</TechEnthusiast28.titleShort>
+  <TechHead8.description>იდგა გემის კორპუსზე [PAWN_possessive] მამასთან ერთად ბავშვის ზომის EVA კოსტუმში, [PAWN_nameDef]-ს პატარა ასაკიდან უყვარდა სივრცე.
+
+[PAWN_pronoun] შევიდა სამოქალაქო აკადემიის პროგრამაში. სანამ [PAWN_possessive] მამას ჰგავდა, [PAWN_pronoun] [PAWN_possessive] დროს ატარებდა მცენარეების მოვლაში [PAWN_possessive] ბინძურ ოთახში. [PAWN_possessive] მეტსახელი მიენიჭა [PAWN_possessive] წრეების სიყვარულისთვის.</TechHead8.description>
+  <TechHead8.title>ტექ-ხელმძღვანელი</TechHead8.title>
+  <TechHead8.titleShort>ტექ-ხელმძღვანელი</TechHead8.titleShort>
+  <TechnicalKid1.description>[PAWN_nameDef]-ს მეტი არაფერი უყვარდა, დაივიწყა გარშემო არსებული სამყარო [PAWN_objective] და ფოკუსირება მოახდინა დასახულ ამოცანაზე.</TechnicalKid1.description>
+  <TechnicalKid1.title>ტექნიკური ბავშვი</TechnicalKid1.title>
+  <TechnicalKid1.titleShort>ტექნიკური ბავშვი</TechnicalKid1.titleShort>
+  <TechScholar75.description>[PAWN_nameDef] ეკიდა ადგილობრივი ლუდიტი ფერმერების ჯგუფს [PAWN_possessive] midworld-ზე. ისინი დაეხმარნენ [PAWN_objective] სროლაში ყოველ დღე სროლაში და გადასცემდნენ ფერმერულ უნარებს. მათ ასევე ასწავლეს [PAWN_nameDef]-ს, თუ როგორ უნდა ფოკუსირება მოახდინონ ხელებით მძიმე სამუშაოზე, ნაცვლად იმისა, რომ ყურადღება არ მიაქციოთ მაღალი ცოდნის იდეებსა და ჭკვიან მანქანებს.</TechScholar75.description>
+  <TechScholar75.title>ფერმის ბავშვი</TechScholar75.title>
+  <TechScholar75.titleShort>ფერმის ბავშვი</TechScholar75.titleShort>
+  <TestSubject82.description>ცდის სუბიექტმა #56,048 ექსპერიმენტის #11,529,914-მა გაატარა [PAWN_possessive] ბავშვობა თეთრ ოთახებში გონებრივი და ფიზიკური ტესტების შესასრულებლად.
+
+[PAWN_possessive] ერთადერთი კომპანიონი იყო ხმა, რომელიც საკუთარ თავს დედას უწოდებდა. დედამ წარმატება დააჯილდოვა ქებით - წარუმატებლობა კი მკაცრი სასჯელით.</TestSubject82.description>
+  <TestSubject82.title>ტესტის საგანი</TestSubject82.title>
+  <TestSubject82.titleShort>საგანი</TestSubject82.titleShort>
+  <Tinkerer11.description>[PAWN_nameDef] დახარჯა [PAWN_possessive] თავისუფალ დროს, შექმნას ნივთები [PAWN_possessive] ფანტაზიით ჯართის და გადაგდებული მანქანებისგან.
+
+[PAWN_pronoun]-მა შექმნა მარტივი რობოტები და პატარა ხელსაწყოები, როგორც გასართობად, ასევე სასარგებლო.</Tinkerer11.description>
+  <Tinkerer11.title>მეჭეჭა</Tinkerer11.title>
+  <Tinkerer11.titleShort>მეჭეჭა</Tinkerer11.titleShort>
+  <Tinkerer79.description>[PAWN_nameDef] გაიზარდა პლანეტის ჯართზე - სისტემის სხვა პლანეტების ნაგავსაყრელზე. [PAWN_pronoun] ისწავლა ახალი მანქანების დამზადება ძველი მანქანების მკვდარი ნაწილებისგან. ზოგიერთ მეგობართან ერთად [PAWN_pronoun] საბოლოოდ გაიქცა გადარჩენილი და გარემონტებული გემით.</Tinkerer79.description>
+  <Tinkerer79.title>მეჭეჭა</Tinkerer79.title>
+  <Tinkerer79.titleShort>მეჭეჭა</Tinkerer79.titleShort>
+  <ToxicChild96.description>[PAWN_nameDef] ინდუსტრიულ პლანეტაზე გაზრდილი, ექვსი წლის ასაკში დაიწყო ქიმიურ ქარხანაში მუშაობა. სამრეწველო ტოქსინების მრავალწლიანმა ზემოქმედებამ [PAWN_objective] ფსიქიკური ნაწიბური დატოვა.
+
+[PAWN_pronoun] საბოლოოდ ააფეთქეს ობიექტი და გაიქცა პლანეტას მოპარული სატვირთო გემით.</ToxicChild96.description>
+  <ToxicChild96.title>ტოქსიკური ბავშვი</ToxicChild96.title>
+  <ToxicChild96.titleShort>ტოქსიკური</ToxicChild96.titleShort>
+  <TradersChild62.description>[PAWN_nameDef] გაიზარდა მომთაბარე მოვაჭრეების ოჯახში, საარსებო წყაროს მრავალ სამყაროში საქონლის გაყიდვითა და ყიდვით.
+
+[PAWN_nameDef]-მ ისწავლა მრავალი კულტურის ვაჭრობის ადათ-წესები და მეთოდები მშობლების [PAWN_possessive] ბიზნესში მონაწილეობით.</TradersChild62.description>
+  <TradersChild62.title>მოვაჭრეების შვილი</TradersChild62.title>
+  <TradersChild62.titleShort>მოვაჭრე</TradersChild62.titleShort>
+  <TragicLoner87.description>[PAWN_nameDef] მონაწილეობდა ტრავმულ ავარიაში, რამაც გამოიწვია [PAWN_objective] მოკვლა [PAWN_possessive] საკუთარი ოჯახი.
+
+საზოგადოებისგან განდევნილი, [PAWN_pronoun] დარჩა მხოლოდ [PAWN_possessive] ცხოველთა თანმხლები და რამდენიმე საინჟინრო სახელმძღვანელო, რათა შეენარჩუნებინა [PAWN_objective] კომპანია.</TragicLoner87.description>
+  <TragicLoner87.title>ტრაგიკული მარტოხელა</TragicLoner87.title>
+  <TragicLoner87.titleShort>მარტოხელა</TragicLoner87.titleShort>
+  <TraineeAlchemist64.description>[PAWN_nameDef] გაიზარდა შუა საუკუნეების სამყაროში. [PAWN_pronoun] ისწავლა ალქიმიისა და მედიცინის საფუძვლები ერთ-ერთ სამონასტრო სკოლაში [PAWN_possessive] პლანეტაზე.</TraineeAlchemist64.description>
+  <TraineeAlchemist64.title>სტაჟიორი ალქიმიკოსი</TraineeAlchemist64.title>
+  <TraineeAlchemist64.titleShort>ალქიმიკოსი</TraineeAlchemist64.titleShort>
+  <TransferStudent10.description>შუა სამყაროს ბავშვი, [PAWN_nameDef]-ის მდიდარმა მშობლებმა გაგზავნეს [PAWN_objective] ახლომდებარე ბრწყინვალე სამყაროში უკეთესი განათლების მისაღებად.
+
+[PAWN_nameDef] იყო ნიჭიერი სტუდენტი. თუმცა, [PAWN_possessive] ოჯახის სიმდიდრის გამო, [PAWN_pronoun] არასოდეს მოუწია სულელური შრომის გაკეთება.</TransferStudent10.description>
+  <TransferStudent10.title>სტუდენტის გადაყვანა</TransferStudent10.title>
+  <TransferStudent10.titleShort>სტუდენტი</TransferStudent10.titleShort>
+  <TraumatizedYouth87.description>[PAWN_nameDef] ცხოვრობდა სასიამოვნო შუა სამყაროში.
+
+[PAWN_possessive] სხეულის გამწმენდი დედა დაავადდა გულის დაავადებით. სასოწარკვეთილმა, [PAWN_nameDef]-ის მამამ გაიტაცა უდანაშაულო ხალხი და მათ გული ამოიღო. [PAWN_nameDef]-ის მამა დააკავეს, მაგრამ ბავშვი ნაწიბურები დარჩა გამოცდილებიდან.</TraumatizedYouth87.description>
+  <TraumatizedYouth87.title>ტრავმირებული ახალგაზრდობა</TraumatizedYouth87.title>
+  <TraumatizedYouth87.titleShort>ტრავმა</TraumatizedYouth87.titleShort>
+  <TribalThunderer45.description>წლების წინ, [PAWN_nameDef]-ის ტომი წააწყდა მიტოვებულ იარაღს. თვლიდა, რომ იარაღები წმინდა საჩუქრები იყო, შამანი ირჩევდა ცრუმორწმუნე გარემოებებში დაბადებულ ბავშვს და ანიჭებდა მათ პატივს აეყვანათ ის სოფლის დასაცავად. [PAWN_nameDef] ასეთი ბავშვია.</TribalThunderer45.description>
+  <TribalThunderer45.title>ტომობრივი ჭექა-ქუხილი</TribalThunderer45.title>
+  <TribalThunderer45.titleShort>ჭექა-ქუხილი</TribalThunderer45.titleShort>
+  <TurtleHerder41.description>[PAWN_nameDef]-ის ოჯახში დაბადებული კუების საყვარელი ნახირი იყო, რომელიც მათ იცავდა თავდამსხმელებისგან გასროლით.
+
+ახალგაზრდა ასაკში [PAWN_pronoun] კუებს ანდობდნენ. [PAWN_pronoun]-მა გაამრავლა ისინი, წარმატებით - ძალიან წარმატებით. კუს მასიური ნახირი მოიხმარდა ყველა საკვებ წყაროს და გაანადგურა ადგილობრივი ეკოსისტემა.</TurtleHerder41.description>
+  <TurtleHerder41.title>კუს მწყემსი</TurtleHerder41.title>
+  <TurtleHerder41.titleShort>მწყემსი</TurtleHerder41.titleShort>
+  <UpperUrbworlder12.description>[PAWN_nameDef]-ს ჰქონდა პრივილეგირებული ბავშვობა დიდ ქალაქურ სამყაროში. ცხოვრობდა ბინაში, რომელიც ბევრად აღემატება ქალაქის სიღარიბეს, [PAWN_pronoun] დროის უმეტეს ნაწილს [PAWN_possessive] ატარებდა კითხვაში ან ქალაქური პეიზაჟის [PAWN_pronoun] ნახატის [PAWN_possessive] ფანჯრის მეშვეობით.</UpperUrbworlder12.description>
+  <UpperUrbworlder12.title>ზემო ურბსამყარო</UpperUrbworlder12.title>
+  <UpperUrbworlder12.titleShort>მაღალი ურბერი</UpperUrbworlder12.titleShort>
+  <UrbworldArmyBrat84.description>[PAWN_nameDef] გაიზარდა urbworld სამხედრო ბაზაზე. [PAWN_pronoun] ძალიან ახალგაზრდა იყო საბრძოლველად, მაგრამ [PAWN_pronoun] ისწავლა გამოეყენებინა [PAWN_objective]საკუთარი თავის გამოსაყენებლად სხვა გზებით.
+
+[PAWN_pronoun] გაეცნო იარაღს და სამხედრო აღჭურვილობას, მაგრამ რეალურად არასოდეს შეხებია ბუნებრივ სამყაროსთან.</UrbworldArmyBrat84.description>
+  <UrbworldArmyBrat84.title>urbworld ჯარის ბრატი</UrbworldArmyBrat84.title>
+  <UrbworldArmyBrat84.titleShort>ჯარის ბრალი</UrbworldArmyBrat84.titleShort>
+  <UrbworldChild56.description>[PAWN_nameDef] იზოლირებული აღზრდა ქალაქურ სამყაროში. [PAWN_possessive] სიმაღლის სიძულვილი ხშირად ინარჩუნებდა [PAWN_objective] შენობაში და აქცევდა [PAWN_objective] ინტროვერტ ბავშვად.
+
+როდესაც [PAWN_pronoun] გამოვიდა ქალაქის პოდიუმებზე, [PAWN_pronoun] სიამოვნებით თამაშობდა საომარ თამაშებში, დაეუფლა სხვადასხვა სიმულაციური იარაღს.</UrbworldChild56.description>
+  <UrbworldChild56.title>ურბსამყაროს ბავშვი</UrbworldChild56.title>
+  <UrbworldChild56.titleShort>ურბკიდი</UrbworldChild56.titleShort>
+  <UrbworldCriminal6.description>დაბადებული ცუდ ვითარებაში გადასახლებულ ქალაქურ სამყაროში, [PAWN_nameDef] მიუბრუნდა მცირე დროით დანაშაულს, როგორც შიმშილისა და ჰიპოთერმიის თავიდან აცილების საშუალებას.
+
+ყაჩაღობა და მკვლელობა ყოველდღიური საქმიანობა იყო [PAWN_objective]-სთვის. [PAWN_nameDef]-მა შეიტყო, რომ გადარჩენა იყო გამარჯვება.</UrbworldCriminal6.description>
+  <UrbworldCriminal6.title>ქალაქის კრიმინალი</UrbworldCriminal6.title>
+  <UrbworldCriminal6.titleShort>დამნაშავე</UrbworldCriminal6.titleShort>
+  <UrbworldHooligan12.description>[PAWN_nameDef] გაიზარდა საშიშ ქალაქურ სამყაროში. [PAWN_pronoun] სწრაფად ისწავლა, როგორ მიეღო [PAWN_possessive] ყოველდღიური კვება - დანაშაულის მიხედვით. ასეთი საშუალებები მცირე ადგილს ტოვებდა სამზარეულოსა და მზარდი საქმიანობისთვის.</UrbworldHooligan12.description>
+  <UrbworldHooligan12.title>Urbworld ხულიგანი</UrbworldHooligan12.title>
+  <UrbworldHooligan12.titleShort>ხულიგანი</UrbworldHooligan12.titleShort>
+  <UrbworldUrchin6.description>[PAWN_nameDef] დაიბადა [PAWN_possessive] ურბანული სახლის სამყაროს ყველაზე ბნელ უღელტეხილებში. [PAWN_possessive] დედის მიერ უგულებელყოფილი, [PAWN_pronoun] ისწავლა გადარჩენა [PAWN_possessive] საკუთარ თავზე, იბრძოდა საკვების ყოველი ნარჩენისთვის [PAWN_pronoun] ხერხისთვის.
+
+საბოლოოდ, რადგან [PAWN_possessive] ნიჭი გადააჭარბა [PAWN_possessive] თანატოლებს, [PAWN_pronoun] ავიდა სიღრმიდან ზედაპირულ ქუჩებში და დატოვა [PAWN_possessive] დედა უკან.</UrbworldUrchin6.description>
+  <UrbworldUrchin6.title>urbworld ზღარბი</UrbworldUrchin6.title>
+  <UrbworldUrchin6.titleShort>ჭინჭრის ციება</UrbworldUrchin6.titleShort>
+  <UrbworldUrchin90.description>მიტოვებული ბეტონის ჭუჭყიან ღობეებს შორის, [PAWN_nameDef] არასოდეს იცნობდა [PAWN_possessive] მშობლებს. [PAWN_pronoun] არასოდეს მიუღია ფორმალური განათლება და ხშირად მიმართავდა ღარიბი შრომის კეთებას საკვების სანაცვლოდ. ზოგჯერ [PAWN_pronoun] იტყუებოდა, ატყუებდა და იპარავდა გადარჩენისთვის.</UrbworldUrchin90.description>
+  <UrbworldUrchin90.title>urbworld ზღარბი</UrbworldUrchin90.title>
+  <UrbworldUrchin90.titleShort>ჭინჭრის ციება</UrbworldUrchin90.titleShort>
+  <VatgrownAssassin20.description>[PAWN_nameDef] გაკეთდა არა როგორც კაცი, არამედ ცივი გულის მკვლელი. [PAWN_pronoun] ბიოინჟინერიით შექმნეს მეცნიერებმა და გაწვრთნილი იყვნენ როგორც მკვლელი. [PAWN_pronoun] გამოყვანილია ისე, რომ არ ჰქონდეს ემოციები, გრძნობები და არ ზრუნავს იმაზე, თუ ვინ ცხოვრობს და ვინ კვდება.</VatgrownAssassin20.description>
+  <VatgrownAssassin20.title>vatgrown მკვლელი</VatgrownAssassin20.title>
+  <VatgrownAssassin20.titleShort>კლონი</VatgrownAssassin20.titleShort>
+  <VatgrownMedic53.description>გაზრდილი საბრძოლო მედიკოსად, [PAWN_nameDef] გაწვრთნილი იყო ცეცხლსასროლი იარაღისა და მედიცინის სფეროში. [PAWN_possessive] საყვარელი ფრაზა, როცა დაჭრილ ჯარისკაცს ეხებოდა, იყო: "სიცოცხლე თუ სიკვდილი?" უმეტესობამ ცხოვრება აირჩია.</VatgrownMedic53.description>
+  <VatgrownMedic53.title>მედიკოსი</VatgrownMedic53.title>
+  <VatgrownMedic53.titleShort>მედიკოსი</VatgrownMedic53.titleShort>
+  <VatgrownScientist91.description>[PAWN_nameDef] აღიზარდა სრულყოფილ მეცნიერად, იდეალურად მორგებული ფიზიკისა და ქიმიისთვის.
+
+[PAWN_possessive] შემქმნელებმა გამოიყენეს [PAWN_objective] როგორც სასწავლო დამხმარე საშუალება გონების დიზაინის შესახებ, იმ იმედით, რომ [PAWN_pronoun] საბოლოოდ გახდებოდა შესანიშნავი გონება და გააგრძელებდნენ კვლევას.</VatgrownScientist91.description>
+  <VatgrownScientist91.title>ცბიერი მეცნიერი</VatgrownScientist91.title>
+  <VatgrownScientist91.titleShort>მეცნიერი</VatgrownScientist91.titleShort>
+  <VatgrownSlavegirl8.description>[PAWN_nameDef] გაშენებული იყო როგორც მონა არალეგალური urbworld ლაბორატორიაში. როგორც პატარა ბავშვი, [PAWN_pronoun] ასწავლიდა მხოლოდ საჭმლის მომზადებას, გაწმენდას და [PAWN_posed] ოსტატებს ემსახურებოდა. [PAWN_possessive] ბავშვობის უმეტესი პერიოდის განმავლობაში, [PAWN_pronoun] სხვა არაფერი იცოდა.</VatgrownSlavegirl8.description>
+  <VatgrownSlavegirl8.title>ღვეზელი მონა გოგონა</VatgrownSlavegirl8.title>
+  <VatgrownSlavegirl8.titleShort>მონა გოგონა</VatgrownSlavegirl8.titleShort>
+  <VideoGamer16.description>[PAWN_nameDef] გაიზარდა შუა სამყაროში, ძირითადად გამოკეტილი იყო [PAWN_possessive] ოთახში და თამაშობდა ვიდეო თამაშებს. [PAWN_pronoun] იყო გულთბილი, ცხოველებისადმი ღრმა სიყვარულით.
+
+როდესაც [PAWN_pronoun] გაიზარდა, [PAWN_pronoun] მიმართა ნარკოტიკებს [PAWN_possessive] რეალობის გასაძლიერებლად. ამ მცდელობის დროს [PAWN_pronoun] იპოვა ვნება და თავშესაფარი სპორტდარბაზში.</VideoGamer16.description>
+  <VideoGamer16.title>ვიდეო მოთამაშე</VideoGamer16.title>
+  <VideoGamer16.titleShort>გეიმერი</VideoGamer16.titleShort>
+  <VideoGamer55.description>[PAWN_nameDef] გაიზარდა ბრჭყვიალა სამყაროში. ყველაფერი [PAWN_pronoun] მოვიდა მას. სკოლაში [PAWN_pronoun] იყო სოციალური პეპელა. სახლში, [PAWN_pronoun] დახარჯა [PAWN_possessive] დრო უახლესი გაჯეტების ძიებაში და [PAWN_possessive] საყვარელ ვიდეო თამაშებში.</VideoGamer55.description>
+  <VideoGamer55.title>ვიდეო მოთამაშე</VideoGamer55.title>
+  <VideoGamer55.titleShort>გეიმერი</VideoGamer55.titleShort>
+  <VidtubeStar98.description>[PAWN_nameDef]-ის ჰობი იყო ვიდეოების გადაღება პოპულარული ვიდეოს გაზიარების სერვისისთვის Vidtube. [PAWN_pronoun]-მა გააკეთა ყველაფერი, ვიდეო თამაშების მიმოხილვებიდან მაკარონის მომზადების სახელმძღვანელომდე.
+
+[PAWN_pronoun]-მა მოიპოვა მილიონზე მეტი მიმდევარი.</VidtubeStar98.description>
+  <VidtubeStar98.title>vidtube ვარსკვლავი</VidtubeStar98.title>
+  <VidtubeStar98.titleShort>ვიდტუბერი</VidtubeStar98.titleShort>
+  <VoyagerChild94.description>[PAWN_nameDef] გაიზარდა R&amp;D ვარსკვლავურ ხომალდზე და [PAWN_possessive] ბავშვობის უმეტესი ნაწილი სიცარიელეში მოგზაურობაში გაატარა.
+
+იდუმალ პლანეტოიდთან მიახლოებისას გემი ძლიერ დაზიანდა. [PAWN_possessive] შემდეგი მეხსიერება არის გემი, რომელიც მიდის ორბიტაზე, სრულად გარემონტებული. [PAWN_pronoun] მალევე შეიმუშავა არაბუნებრივი საჩუქარი ტექნოლოგიური კვლევისთვის.</VoyagerChild94.description>
+  <VoyagerChild94.title>ვოიაჯერი ბავშვი</VoyagerChild94.title>
+  <VoyagerChild94.titleShort>ვოიაჯერი</VoyagerChild94.titleShort>
+  <VRAddict29.description>[PAWN_nameDef] იყო VR ხელმძღვანელი - ადამიანი, რომელიც სამუდამოდ არის ჩართული ვირტუალურ სათამაშო სამყაროში [PAWN_possessive] ზურგის საცობით. [PAWN_pronoun] ასრულებდა [PAWN_possessive] ყოველდღიურ დავალებებს და ძლივს აცნობიერებდა მის გარშემო არსებულ ფიზიკურ რეალობას. ამან [PAWN_objective] თითქმის ვერ შეძლო სოციალიზაცია.</VRAddict29.description>
+  <VRAddict29.title>VR ნარკომანი</VRAddict29.title>
+  <VRAddict29.titleShort>VR ნარკომანი</VRAddict29.titleShort>
+  <WarChild24.description>[PAWN_nameDef]-ის მშობლები სამოქალაქო ომში გაიწვიეს. ჩხუბითა და სიკვდილით გარემოცვაში გაზრდილი [PAWN_pronoun] კარგად შეეჩვია ტრაგედიას. [PAWN_possessive] ექსპრესიული მხარე, თუმცა არასოდეს განვითარდა.</WarChild24.description>
+  <WarChild24.title>ომის ბავშვი</WarChild24.title>
+  <WarChild24.titleShort>ომის ბავშვი</WarChild24.titleShort>
+  <WarRefugee96.description>[PAWN_nameDef]-ის მშობლიურ პლანეტაზე ომი დაიწყო.
+
+ცოტაოდენი საკვები და ნივთები შეაგროვეს, [PAWN_nameDef] და [PAWN_possessive] მამამ გემი მოიპარეს და კოსმოსში გაიქცნენ.</WarRefugee96.description>
+  <WarRefugee96.title>ომის ლტოლვილი</WarRefugee96.title>
+  <WarRefugee96.titleShort>ლტოლვილი</WarRefugee96.titleShort>
+  <WastelandWanderer81.description>დაიბადა მდიდარ ოჯახში უდაბნო სამყაროში, [PAWN_nameDef] გააძევეს მას შემდეგ, რაც დაქირავებულმა თავდასხმის რაზმმა გაანადგურა [PAWN_possessive] საგვარეულო სახლი.
+
+ბიჭმა მოახერხა დამალვა გამაგრილებელ სადინარში [PAWN_possessive] ოჯახის ვილის ქვეშ. შურისძიების პირობა დადო მკვლელებზე და ვინც დაიქირავა ისინი, [PAWN_nameDef] მარტო დაარტყა უდაბნოში.</WastelandWanderer81.description>
+  <WastelandWanderer81.title>უდაბნოში მოხეტიალე</WastelandWanderer81.title>
+  <WastelandWanderer81.titleShort>მოხეტიალე</WastelandWanderer81.titleShort>
+  <WealthyStudent59.description>[PAWN_nameDef] დაიბადა მდიდარ ბრჭყვიალა სამყაროში. [PAWN_pronoun] სწავლობდა კასპიის საინჟინრო სკოლაში და გამოირჩეოდა მათემატიკასა და კომპიუტერულ პროგრამირებაში.
+
+[PAWN_nameDef] გაიზარდა სუფთა, სტერილურ გარემოში. [PAWN_pronoun] არასოდეს მინახავს ფერმა ან პირუტყვი.</WealthyStudent59.description>
+  <WealthyStudent59.title>მდიდარი სტუდენტი</WealthyStudent59.title>
+  <WealthyStudent59.titleShort>სტუდენტი</WealthyStudent59.titleShort>
+  <WildChild5.description>[PAWN_nameDef] მიტოვებული იყო ტოქსიკურ სამყაროში, რომელიც გადახურულია მტრული მცენარეული ცხოვრებით. [PAWN_pronoun] ადრევე მიეჩვია მარტოობის ცივ წვას.
+
+[PAWN_pronoun] ისწავლა ბრძოლა, მაგრამ შეჭამა [PAWN_possessive] საკვები უმი და დაუმუშავებელი.</WildChild5.description>
+  <WildChild5.title>ველური ბავშვი</WildChild5.title>
+  <WildChild5.titleShort>ველური ბავშვი</WildChild5.titleShort>
+  <Winerunner8.description>[PAWN_possessive] მშობლების მიერ მიტოვებული, [PAWN_nameDef] აღიზარდა Novo Mosteiro dos Jerónimos მონასტრის ბერებმა არაცენა VI-ზე.
+
+ბერები ასწავლიდნენ [PAWN_objective] დისციპლინას და შრომას. სანაცვლოდ, [PAWN_pronoun] მიდიოდა ქალაქში და „იძენდა“ ეგზოტიკურ ღვინოებს ბერების ღამის დეგუსტაციისთვის.</Winerunner8.description>
+  <Winerunner8.title>გამარჯვებული</Winerunner8.title>
+  <Winerunner8.titleShort>გამარჯვებული</Winerunner8.titleShort>
+  <WolfPackMember26.description>[PAWN_nameDef] გაუქმდა [PAWN_possessive] ოჯახმა. მგლების მიერ გაზრდილი, [PAWN_pronoun] დარბოდა, ნადირობდა და იცავდა [PAWN_possessive] წყვილს.
+
+[PAWN_pronoun] ისწავლა კბილებით და კლანჭებით ეფექტურად ბრძოლა. [PAWN_pronoun] ასევე ისწავლა სასტიკად ეფექტური პირველადი ნადირობის სტრატეგიები.</WolfPackMember26.description>
+  <WolfPackMember26.title>მგლების ხროვის წევრი</WolfPackMember26.title>
+  <WolfPackMember26.titleShort>ველური</WolfPackMember26.titleShort>
+  <WorkCampSlave37.description>[PAWN_nameDef] გაიზარდა, როგორც მონა, განსაკუთრებით საზიზღარი კეთილშობილური ოჯახის შუა საუკუნეების სამყაროში. 
+
+მიუხედავად იმისა, რომ [PAWN_pronoun] არ მიუღია ფორმალური განათლება, მშობიარობის მკაცრი რეჟიმი აძლიერებდა [PAWN_possessive] სხეულს.</WorkCampSlave37.description>
+  <WorkCampSlave37.title>სამუშაო ბანაკის მონა</WorkCampSlave37.title>
+  <WorkCampSlave37.titleShort>მონა</WorkCampSlave37.titleShort>
+  <WorldSlider42.description>[PAWN_nameDef] აღიზარდა კრიმინალთა მსოფლიო ჯგუფმა. [PAWN_pronoun]-მა ისწავლა არ დაეტოვებინა [PAWN_possessive] ყოფნის მტკიცებულება იმ შემთხვევაში, თუ ჯგუფს მოუწევდა ნაჩქარევად წასვლა. [PAWN_pronoun] ასევე შეიტყო მედიცინისა და ხელჩართული ბრძოლის შესახებ [PAWN_possessive] თანამემამულე დამნაშავეებისგან.</WorldSlider42.description>
+  <WorldSlider42.title>მსოფლიო სლაიდერი</WorldSlider42.title>
+  <WorldSlider42.titleShort>სლაიდერი</WorldSlider42.titleShort>
+  <YoungMaster23.description>ორი მედიკოსის ოჯახში დაბადებული [PAWN_nameDef] სურდა ძალაუფლებას. [PAWN_possessive] დიდი ინტელექტი და ქარიზმა დაეხმარა [PAWN_objective] მოიპოვოს [PAWN_possessive] თანატოლების პატივისცემა.
+
+გადაწყვიტა, რომ ძალაუფლების მოსაპოვებლად საუკეთესო გზა იყო იმპერიული სამხედროების რიგებში ასვლა, [PAWN_pronoun] შეუერთდა ყველაზე ახალგაზრდა ასაკში.</YoungMaster23.description>
+  <YoungMaster23.title>ახალგაზრდა ოსტატი</YoungMaster23.title>
+  <YoungMaster23.titleShort>ოსტატი</YoungMaster23.titleShort>
+  <YoungPirate71.description>[PAWN_nameDef] დაიბადა მეკობრეებში, ჭუჭყიან ლითონის ოთახში, რომელსაც ძრავის ზეთის სუნი ასდიოდა.
+
+[PAWN_pronoun] არასოდეს არაფერი ასწავლეს, მაგრამ [PAWN_pronoun] მაინც ისწავლა გადარჩენის, გაცვლის და ბრძოლის გზები.</YoungPirate71.description>
+  <YoungPirate71.title>ახალგაზრდა მეკობრე</YoungPirate71.title>
+  <YoungPirate71.titleShort>მეკობრე</YoungPirate71.titleShort>
+  <YoungPsychologist58.description>[PAWN_nameDef] დაიბადა და გაიზარდა ღარიბ შუა სამყაროში, [PAWN_possessive] დედის კაბინის წინა მგზავრის სავარძელში.
+
+ფეხით მოსიარულეთა ყურება და ტაქსის მგზავრების მოსმენა მთელი დღის განმავლობაში, [PAWN_pronoun] მალევე გახდა ძალიან კარგად გაერკვია ვინმეს რეალური მიზანი.</YoungPsychologist58.description>
+  <YoungPsychologist58.title>ახალგაზრდა ფსიქოლოგი</YoungPsychologist58.title>
+  <YoungPsychologist58.titleShort>ფსიქიკის</YoungPsychologist58.titleShort>
+  <YouthDelinquent30.description>[PAWN_nameDef] ცნობილი სომელიეების ერთადერთი შვილი იყო. [PAWN_possessive] მშობლები ელოდნენ, რომ [PAWN_objective] ოჯახურ პროფესიას აიღებდა, მაგრამ ახალგაზრდების დაკავების ცენტრში [PAWN_possessive] მესამედ მიღების შემდეგ, ეს კარიერის გზა ნაკლებად სავარაუდო გახდა.
+
+პატიმრობაში ყოფნისას [PAWN_nameDef] დახელოვნებული გახდა თასმების დამზადებაში და დაინტერესდა ორნიტოლოგიით.</YouthDelinquent30.description>
+  <YouthDelinquent30.title>ახალგაზრდა დამნაშავე</YouthDelinquent30.title>
+  <YouthDelinquent30.titleShort>დამნაშავის</YouthDelinquent30.titleShort>
+  <YouthSoldier99.description>[PAWN_nameDef], რომელიც ჯარისკაცების გრძელ რიგში დაიბადა, შეუერთდა სამხედრო მომზადების პროგრამას.
+
+[PAWN_pronoun] გამოირჩეოდა ფიზიკურ მომზადებაში და ჩააბარა ინტელექტუალური გამოცდების უმეტესობაც კი. მიუხედავად იმისა, რომ [PAWN_pronoun] არასოდეს ყოფილა განსაკუთრებით კაშკაშა ან მოხერხებული, [PAWN_nameDef]-მა შეიტყო შრომისა და ტანჯვის ღირებულება.</YouthSoldier99.description>
+  <YouthSoldier99.title>ახალგაზრდა ჯარისკაცი</YouthSoldier99.title>
+  <YouthSoldier99.titleShort>ჯარისკაცი</YouthSoldier99.titleShort>
+</LanguageData>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <KnowledgeFromStudy>ცოდნის მიღება სწავლის შედეგად</KnowledgeFromStudy>
+  <KnowledgeFromStudyDesc>ანომალიის ცოდნის ტიპი და რაოდენობა, რომელიც შეიძლება მიღებულ იქნეს ამ ერთეულის შესწავლისას. უფრო დახვეწილ კომპანიებს შეუძლიათ განბლოკონ უფრო მოწინავე ანომალიების კვლევის პროექტები.</KnowledgeFromStudyDesc>
+  <Stat_Knowledge>{0} {1}</Stat_Knowledge>
+  <StudyFrequency>სწავლის ინტერვალი</StudyFrequency>
+  <StudyFrequencyDesc>ხანგრძლივობა ამ სუბიექტისთვის ხელმისაწვდომი სასწავლო პერიოდებს შორის.</StudyFrequencyDesc>
+  
+  <Stat_Hediff_Regeneration_Name>განკურნება</Stat_Hediff_Regeneration_Name>
+  <Stat_Hediff_Regeneration_Desc>შეხორცების ერთჯერადი რაოდენობა დღეში.</Stat_Hediff_Regeneration_Desc>
+  <Stat_Hediff_Regeneration_Stat>{0} ცხენის/დღეში</Stat_Hediff_Regeneration_Stat>
+
+  <Stat_ContainmentStrength_AverageLighting>საშუალო განათება</Stat_ContainmentStrength_AverageLighting>
+  <Stat_ContainmentStrength_AverageWallHp>საშუალო კედლის HP</Stat_ContainmentStrength_AverageWallHp>
+  <Stat_ContainmentStrength_AverageDoorHp>საშუალო კარი HP</Stat_ContainmentStrength_AverageDoorHp>
+  <Stat_ContainmentStrength_OtherHoldingPlatforms>მრავალჯერადი ({0}) დამჭერი პლატფორმა</Stat_ContainmentStrength_OtherHoldingPlatforms>
+  <Stat_ContainmentStrength_MapwideOffset>ოფსეტური რუკის მასშტაბით</Stat_ContainmentStrength_MapwideOffset>
+  <Stat_ContainmentStrength_DoorForcedOpen>კარი ღია</Stat_ContainmentStrength_DoorForcedOpen>
+  <Stat_ContainmentStrength_NotFullyRoofed>სრულად არ არის გადახურული</Stat_ContainmentStrength_NotFullyRoofed>
+  <Stat_ContainmentStrength_Flooring>იატაკი</Stat_ContainmentStrength_Flooring>
+  <Stat_ContainmentStrength_Platform>შენობა</Stat_ContainmentStrength_Platform>
+
+  <StatsReport_BioferriteGeneration>ბიოფერიტის თაობა</StatsReport_BioferriteGeneration>
+  <StatsReport_BioferriteGeneration_Desc>რამდენ ბიოფერიტს გამოიმუშავებს ეს ერთეული დღეში ბიოფერიტის კომბაინთან მიერთებისას.</StatsReport_BioferriteGeneration_Desc>
+  <StatsReport_BioferriteDensityMultiplier>მულტიპლიკატორი ბიოფერიტის სიმკვრივისთვის</StatsReport_BioferriteDensityMultiplier>
+  <StatsReport_BioferriteExtractedMultiplier>ცოტა ხნის წინ მოპოვებული ბიოფერიტის მულტიპლიკატორი</StatsReport_BioferriteExtractedMultiplier>
+
+  <StatsReport_Offering>შეწირვა</StatsReport_Offering>
+  <StatsReport_Offering_Desc>ფსიქიკური რიტუალის შესასრულებლად საჭირო ინგრედიენტები.</StatsReport_Offering_Desc>
+
+  <StatsReport_RitualDuration>რიტუალის ხანგრძლივობა</StatsReport_RitualDuration>
+  <StatsReport_RitualDuration_Desc>დრო სჭირდება ამ რიტუალის შესრულებას.</StatsReport_RitualDuration_Desc>
+
+  <StatsReport_RitualCooldown>გამოყენების დრო</StatsReport_RitualCooldown>
+  <StatsReport_RitualCooldown_Desc>რიტუალის შესრულების შემდეგ, ის არღვევს გარემოს ფსიქიკურ ენერგიას გარკვეული პერიოდის განმავლობაში. ამ დროის განმავლობაში, რიტუალი არ შეიძლება განმეორდეს.</StatsReport_RitualCooldown_Desc>
+
+  <StatsReport_ContainmentStrengthOffset>შეკავების ოფსეტური</StatsReport_ContainmentStrengthOffset>
+  <StatsReport_ContainmentStrengthOffset_Desc>რამდენად მოქმედებს ეს ჰოლდინგის პლატფორმის უნარზე, შეზღუდოს ერთეული. სუბიექტები, რომლებიც უკეთესად არის შეკავებული, ნაკლებად სავარაუდოა, რომ გაქცევა და მეტი ცოდნა აწვდიან შესწავლისას.</StatsReport_ContainmentStrengthOffset_Desc>
+
+  <StatsReport_SerumDuration>ხანგრძლივობა</StatsReport_SerumDuration>
+  <StatsReport_SerumDuration_Desc>რამდენ ხანს გრძელდება შრატის ეფექტი.</StatsReport_SerumDuration_Desc>
+  
+  <StatsReport_Occupied>დაკავებული</StatsReport_Occupied>
+  <MeditationFocusPerBuilding>{2} ახლომახლო {BUILDING_label}-ზე ({0} / {1})</MeditationFocusPerBuilding>
+  <MeditationFocusPerBuildingAbstract>{1} ახლომახლო {BUILDING_label}-ზე ({0}-მდე)</MeditationFocusPerBuildingAbstract>
+
+</LanguageData>

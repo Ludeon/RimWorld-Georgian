@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Leather_Bear.description>დათვის ძლიერი ბეწვისფერი ტყავი. ტყავის უმეტესობასთან შედარებით, ის საკმაოდ მკაცრია და ოდნავ უკეთესია ყველა სახის ტემპერატურის რეგულირებისთვის.</Leather_Bear.description>
+  <Leather_Bear.label>დათვის ტყავი</Leather_Bear.label>
+  <Leather_Bird.description>გარუჯული, გამხმარი, გახეხილი ფრინველის კანი. საკმაოდ დელიკატურია. მისი ბუმბულის გარეშე, ის უზრუნველყოფს მცირე დაცვას სიცხისა და სიცივისგან.</Leather_Bird.description>
+  <Leather_Bird.label>ფრინველის ტყავი</Leather_Bird.label>
+  <Leather_Bluefur.description>მაფალოს ბეწვის ნაჭერი. ცნობადი მისი გამორჩეული ლურჯი ელფერით. კარგი ტემპერატურის რეგულირება ცივ კლიმატში.</Leather_Bluefur.description>
+  <Leather_Bluefur.label>ცისფერი</Leather_Bluefur.label>
+  <Leather_Camel.description>გარუჯული, გამხმარი, გახეხილი აქლემის კანი. კარგი ტემპერატურის რეგულირება ცხელ კლიმატში.</Leather_Camel.description>
+  <Leather_Camel.label>აქლემის კანი</Leather_Camel.label>
+  <Leather_Chinchilla.description>გარუჯული, გამხმარი, გახეხილი ჩინჩილას კანი. ცნობილია, როგორც უკიდურესად მდიდრული და საიზოლაციო ბეწვი, ის განსაკუთრებულად ღირებულია.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.label>ჩინჩილას ბეწვი</Leather_Chinchilla.label>
+  <Leather_Dog.label>ძაღლის ტყავი</Leather_Dog.label>
+  <Leather_Elephant.description>გარუჯული, გამხმარი, გახეხილი სპილოს კანი. მიუხედავად იმისა, რომ საკმაოდ მკაცრია, ის ცუდი იზოლატორია.</Leather_Elephant.description>
+  <Leather_Elephant.label>სპილოს ტყავი</Leather_Elephant.label>
+  <Leather_Fox.description>მელას ნატეხი. ის კარგად იცავს სიცივისგან და საკმაოდ მდიდრულია, მაღალი ფასი აქვს.</Leather_Fox.description>
+  <Leather_Fox.label>მელა</Leather_Fox.label>
+  <Leather_GuineaPig.description>ზღვის გოჭის ბეწვის ფურცლები. ეს არის დელიკატური, მაგრამ მდიდრული.</Leather_GuineaPig.description>
+  <Leather_GuineaPig.label>ზღვის გოჭის ბეწვი</Leather_GuineaPig.label>
+  <Leather_Heavy.description>სქელი ტყავი დაფარულია ბეწვის გრძელი, უხეში ხალიჩით. მოსავალი დიდი, გამძლე ცხოველისგან. ეს სქელი კანი ძალიან კარგად იზოლირებს და იცავს.</Leather_Heavy.description>
+  <Leather_Heavy.label>მძიმე ბეწვი</Leather_Heavy.label>
+  <Leather_Human.description>გარუჯული, გამხმარი, გახეხილი ადამიანის კანი. ადამიანების უმეტესობას ეს მასალა საშინელებად თვლის. ზოგი მას მომხიბვლელად თვლის. მიუხედავად იმისა, რომ ღირსეული ტყავია, ის არც იცავს და არც იზოლაციას განსაკუთრებით კარგად.</Leather_Human.description>
+  <Leather_Human.label>ადამიანის ტყავი</Leather_Human.label>
+  <Leather_Light.description>მსუბუქი, თხელი ტყავი. მოსავალი ალბათ პატარა ცხოველისგანაა. არ არის ისეთი დამცავი, როგორც სქელი ტყავი.</Leather_Light.description>
+  <Leather_Light.label>მსუბუქი ტყავი</Leather_Light.label>
+  <Leather_Lizard.description>ცივსისხლიანი ქვეწარმავლის გარუჯული კანი. ხვლიკის კანი საკმაოდ ხისტია, მაგრამ საერთოდ არ იზოლირებს კარგად.</Leather_Lizard.description>
+  <Leather_Lizard.label>ხვლიკის ტყავი</Leather_Lizard.label>
+  <Leather_Panthera.description>დიდი კატისგან მოკრეფილი რბილი ბეწვის ქერქი. ძნელია გახვრეტა და კარგად იზოლირებული სითბოსგან.</Leather_Panthera.description>
+  <Leather_Panthera.label>პანტერას ბეწვი</Leather_Panthera.label>
+  <Leather_Patch.description>სუსტი ტექსტილი, რომელიც შექმნილია სხვადასხვა სახის ტყავის ჭრისა და შეკერვის შედეგად. მიუხედავად იმისა, თუ რა სახის ტყავია გამოყენებული მის შესაქმნელად, ტყავის არარეგულარული ნაკერები მას ნაკლებად გამძლეს და ნაკლებად იზოლაციას ხდის, ვიდრე ნებისმიერი ხელუხლებელი ტყავი.</Leather_Patch.description>
+  <Leather_Patch.label>ტყავი</Leather_Patch.label>
+  <Leather_Pig.description>გარუჯული, გამხმარი, გახეხილი ღორის კანი. მიუხედავად იმისა, რომ ღირსეული ტყავია, ის არც იცავს და არც იზოლაციას განსაკუთრებით კარგად.</Leather_Pig.description>
+  <Leather_Pig.label>ღორის ტყავი</Leather_Pig.label>
+  <Leather_Plain.label>უბრალო ტყავი</Leather_Plain.label>
+  <Leather_Rhinoceros.description>გარუჯული, გამხმარი, გახეხილი მარტორქის კანი. ის განსაკუთრებულად გამძლეა ბრძოლაში, მაგრამ ნაკლებად იცავს ამინდისგან.</Leather_Rhinoceros.description>
+  <Leather_Rhinoceros.label>მარტორქის ტყავი</Leather_Rhinoceros.label>
+  <Leather_Thrumbo.description>თრომბის ბეწვის ნაჭერი. მდიდრული და არაჩვეულებრივად გამძლე. გამოიყენება უმაღლესი ხარისხის ხელნაკეთობებისთვის მისი იზოლაციისა და სიმტკიცისთვის.</Leather_Thrumbo.description>
+  <Leather_Thrumbo.label>თრომბოფური</Leather_Thrumbo.label>
+  <Leather_Wolf.description>მგლისმაგვარი არსებიდან მოკრეფილი რბილი ბეწვის ქერქი. ძნელია გახვრეტა და კარგად იზოლირებულია სიცივისგან.</Leather_Wolf.description>
+  <Leather_Wolf.label>მგლის ტყავი</Leather_Wolf.label>
+</LanguageData>

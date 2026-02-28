@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <Autosaving>ავტო-შენახვა</Autosaving>
+  <GameStartDialog>თქვენ სამივე იღვიძებთ თქვენს კრიპტოძილს სარკოფაგებში სირენებისა და ლითონის ჭრის ხმაზე. ძლივს მიდიხართ გაქცევის ღობემდე, სანამ გემი დაიშლება.\n\nგარკვეული დროის შემდეგ, თქვენ დაეშვებით ამ უცნობ საზღვრულ სამყაროზე.\n\nროდესაც დაქუცმაცებული ვარსკვლავური ხომალდის ნაწილები თქვენს ირგვლივ ცვივა, თქვენ იწყებთ გადარჩენის გეგმებს.</GameStartDialog>
+  <Colony>კოლონია</Colony>
+  <ChangeLanguageFromMainMenu>ენის შეცვლა შეგიძლიათ მხოლოდ ძირითადი მენიუს პარამეტრების ეკრანიდან.</ChangeLanguageFromMainMenu>
+  <AndLower>და</AndLower>
+  <DisabledLower>გამორთული</DisabledLower>
+
+  <VersionIndicator>ვერსია {0}</VersionIndicator>
+  <GameVersionIndicator>თამაშის ვერსია</GameVersionIndicator>
+  <DevelopmentBuildLower>განვითარების აშენება</DevelopmentBuildLower>
+  <CompiledOn>შედგენილია {0}</CompiledOn>
+  <LoggedIntoSteamAs>შესული ხართ Steam-ში, როგორც {0}</LoggedIntoSteamAs>
+  
+  
+  <ToCommaListAnd>{0} და {1}</ToCommaListAnd>
+  <ToCommaListOr>{0} ან {1}</ToCommaListOr>
+  
+  
+  <Yes>დიახ</Yes>
+  <No>არა</No>
+  <NoSubject>არა {0}</NoSubject>
+  <New>ახალი</New>
+  <Gender>სქესი</Gender>
+  <Sex>სქესი</Sex>
+  <min>მინ</min>
+  <max>მაქს</max>
+  <chance>შანსი</chance>
+  <context>კონტექსტი</context>
+  <multiplier>გამრავლება</multiplier>
+  <damage>დაზიანება</damage>
+  <radius>რადიუსი</radius>
+  <expired>ვადაგასული</expired>
+  <durationDays>ხანგრძლივობა (დღეები)</durationDays>
+  <intervalDays>ინტერვალი (დღეები)</intervalDays>
+  <delayDays>დაგვიანება (დღეები)</delayDays>
+  <repeat>გამეორება</repeat>
+  <default>ნაგულისხმევი</default>
+  <distance>მანძილი</distance>
+  <YesUppercase>დიახ</YesUppercase>
+  <NoUppercase>არა</NoUppercase>
+  <kg>kg</kg>
+  <Day>დღე</Day>
+  <day>დღე</day>
+  <Default>ნაგულისხმევი</Default>
+  <Average>საშუალო</Average>
+  <Cause>მიზეზი</Cause>
+  <Etc>და ა.შ.</Etc>
+  <MoneyFormat>${0}</MoneyFormat>
+  <Factors>ფაქტორები</Factors>
+  <Uses>გამოყენება</Uses>
+  <Translation>თარგმანი</Translation>
+  <minDays>წთ (დღეები)</minDays>
+  <maxDays>მაქსიმალური (დღეები)</maxDays>
+  <Processing>დამუშავება</Processing>
+  <Inspect>შემოწმება</Inspect>
+  <Edit>რედაქტირება</Edit>
+
+  
+  
+  <MeatLabel>{0} ხორცი</MeatLabel>
+  <MeatDesc>უმი დაკეპილი ხორცი. შეიძლება მოხარშული იყოს კერძებში, ან მიირთვათ უმი.</MeatDesc>
+  <MeatInsectDesc>უმი დაკეპილი ხორცი. საჭიროების შემთხვევაში, შეიძლება მოხარშული იყოს კერძებში, ან თუნდაც უმი ჭამა. უკიდურესად უმადური.</MeatInsectDesc>
+  <MeatHumanDesc>უმი დაკეპილი ხორცი. შეიძლება მოხარშული იყოს საჭმელში ან მიირთვათ უმი, თუმცა ადამიანების უმეტესობას არ მოსწონს ეს იდეა.</MeatHumanDesc>
+
+  <TechprintLabel>ტექნიკური ანაბეჭდი ({PROJECT_label})</TechprintLabel>
+  <TechprintDesc>ეს არის ტექნიკური ანაბეჭდი კვლევითი პროექტისთვის '{PROJECT_label}'.
+\nტექნიკური ანაბეჭდების ფიზიკური ფორმა შეიძლება მერყეობდეს ქაღალდის ნარჩენებიდან დიაგრამებით, დამთავრებული მოწინავე თვითმმართველობის სასწავლო მანქანებამდე. ფორმის მიუხედავად, ისინი ერთსა და იმავე როლს ასრულებენ. ისინი თქვენს მკვლევარებს აძლევენ ნდობას, რომ იდეა შესაძლებელია, და უახლეს წარმოდგენას უფრო დამკვიდრებულ საზოგადოებებში გამოყენებული დიზაინის შესახებ.
+\nთქვენს მკვლევარებს სჭირდებათ ტექპრინტების მიერ შემოთავაზებული ფუნდამენტური ცოდნა, რათა იცოდნენ, საიდან დაიწყონ მოცემული ტექნოლოგია. მხოლოდ მას შემდეგ, რაც საკმარისი ტექნიკური ანაბეჭდები იქნება გამოყენებული, თქვენს მკვლევარებს შეუძლიათ შეიმუშაონ დეტალები, თუ როგორ გამოიყენონ ტექნოლოგია თქვენს კონკრეტულ სიტუაციაში.
+\nტექპრინტების გამოყენება დაკმაყოფილებულ პროექტზე ასრულებს კვლევის დარჩენილი პროგრესის ნახევარს. გარდა ამისა, მკვლევარები ყოველთვის აძლიერებენ თავიანთ ინტელექტუალურ უნარებს ტექპრინტების გამოყენებისას, თუნდაც უკვე დასრულებულ ტექნოლოგიებზე.</TechprintDesc>
+  <Unlocks>ხსნის</Unlocks>
+
+  <CorpseLabel>{0} გვამი</CorpseLabel>
+  <CorpseDesc>{0}-ის ცხედარი.</CorpseDesc>
+  <DeadLabel>{1_label} (მკვდარი)</DeadLabel>
+
+  <RoughStoneTerrainLabel>უხეში {0}</RoughStoneTerrainLabel>
+  <RoughStoneTerrainDesc>უხეში, ბუნებრივი {0} გრუნტი.</RoughStoneTerrainDesc>
+  <RoughHewnStoneTerrainLabel>უხეშად თლილი {0}</RoughHewnStoneTerrainLabel>
+  <RoughHewnStoneTerrainDesc>უხეშად მოჭრილი ბუნებრივი {0} იატაკი.</RoughHewnStoneTerrainDesc>
+  <SmoothStoneTerrainLabel>გლუვი {0}</SmoothStoneTerrainLabel>
+  <SmoothStoneTerrainDesc>გათლილი ბუნებრივი {0} იატაკი.</SmoothStoneTerrainDesc>
+
+  <BlueprintLabelExtra>(პროექტი)</BlueprintLabelExtra>
+  <FrameLabelExtra>(შენობა)</FrameLabelExtra>
+
+  <FactionUnaffiliated>დამოუკიდებელი</FactionUnaffiliated>
+
+  <StillWishContinue>მაინც გავაგრძელო?</StillWishContinue>
+  
+  <BabyTalk>ბა,ბა,ბუ,ბუჰ,გა,გა,გუ,ნია,ნა,ნა,ნუ,უუ,ვაჰ,უჰ,მა,მაჰ</BabyTalk>
+
+  
+  
+  <ThingMadeOfStuffLabel>{0} {1}</ThingMadeOfStuffLabel>
+
+  <SomeonesRoom>{PAWN_labelShort}-ის {1}</SomeonesRoom>
+  <CouplesRoom>{PAWN1_labelShort} და {PAWN2_labelShort}-ის {2}</CouplesRoom>
+  
+  <StatRelatesToCurrentRoom>მნიშვნელოვანია ამ ტიპის ოთახისთვის.</StatRelatesToCurrentRoom>
+  
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} მიწისქვეშა აქ.</DeepResourceRemaining>
+  
+  <VariousLabel>(სხვადასხვა)</VariousLabel>
+
+  
+  <ColonistDied>კოლონისტი გარდაიცვალა</ColonistDied>
+  
+  
+  <North>ჩრდილოეთი</North>
+  <South>სამხრეთი</South>
+  <West>დასავლეთი</West>
+  <East>აღმოსავლეთი</East>
+
+  <ApplyingTechprint>ტექპრინტის გამოყენება ({0})</ApplyingTechprint>
+
+  
+  <VariantOf>-ის ვარიანტი</VariantOf>
+  
+  
+  <BornOfParents>დაიბადა {0}-მდე</BornOfParents>
+  <ParentsUnknown>უცნობი მშობლები</ParentsUnknown>
+  
+  
+  <Colonist>კოლონისტი</Colonist>
+
+</LanguageData>

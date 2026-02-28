@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeleeWeapon_Gladius.description>უძველესი დიზაინის მოკლე ხმალი. კარგია დაჭრისთვის ან დაჭრისთვის. ის მსუბუქი და მოხერხებულია, რაც ხანდახან საშუალებას აძლევს მას ურტყამს უფრო დიდ, მძიმე იარაღს.</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.label>გლადიუსი</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_LongSword.description>მეფეების უძველესი იარაღი, გრძელი ხმალი შეიძლება გამოყენებულ იქნას ჭრისთვის ან დაჭრისთვის.</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.label>გრძელი ხმალი</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_Mace.description>დახვეწილი კლუბი, შექმნილია ეფექტური რხევისა და სასიკვდილო ზემოქმედებისთვის.</MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.label>მაკე</MeleeWeapon_Mace.label>
+</LanguageData>

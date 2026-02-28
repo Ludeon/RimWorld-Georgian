@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BerserkTrance.description>სასტიკი მორალური დარწმუნებითა და იდეოლიგიური წყენის ისტორიებით ამოძრავებულმა ამ ადამიანმა ის გაბრაზდა. ყველა კუნთი პიკს ასრულებს, მაგრამ ძნელია ბრაზის დათრგუნვა.</BerserkTrance.description>
+  <BerserkTrance.label>გაბრაზებული ტრანსი</BerserkTrance.label>
+  <CombatCommand.description>ახლომახლო მოკავშირეების წახალისებითა და მეთაურობით, ამ ადამიანს შეუძლია გააძლიეროს ფოკუსირება ბრძოლაში და, შესაბამისად, მათი საბრძოლო შესრულება.</CombatCommand.description>
+  <CombatCommand.label>საბრძოლო ბრძანება</CombatCommand.label>
+  <CombatCommandBuff.description>საბრძოლო უნარები ძლიერდება იმის წყალობით, რომ ახლოს არის ის, ვინც იყენებს საბრძოლო ბრძანების უნარს.</CombatCommandBuff.description>
+  <CombatCommandBuff.label>საბრძოლო ბრძანება</CombatCommandBuff.label>
+  <FarmingCommand.description>ეს ადამიანი გთავაზობთ მითითებებს მეურნეობის ტექნიკის შესახებ, აძლიერებს მეურნეობის შესაძლებლობებს ყველა ახლომახლოსთვის.</FarmingCommand.description>
+  <FarmingCommand.label>მეურნეობის ბრძანება</FarmingCommand.label>
+  <FarmingCommandBuff.description>ამ პიროვნების ფერმერული შესაძლებლობები ამაღლებულია იმ პირთან ყოფნის წყალობით, რომელიც იყენებს ფერმერული ბრძანების უნარს.</FarmingCommandBuff.description>
+  <FarmingCommandBuff.label>მეურნეობის ბრძანება</FarmingCommandBuff.label>
+  <ImmunityDrive.description>ამ ადამიანმა მიიღო იდეოლოგიური ხასიათის მორალური მხარდაჭერა. მათმა გონებრივმა დარწმუნებულობამ მათ სხეულს ენერგია მოახდინა და გააძლიერა იმუნური სისტემა.</ImmunityDrive.description>
+  <ImmunityDrive.label>იმუნიტეტის მამოძრავებელი</ImmunityDrive.label>
+  <MarksmanCommand.description>ეს ადამიანი იყენებს სპეციალურ უნარს დარტყმების გამოსაძახებლად. ეფექტის რადიუსში მყოფი ყველა იძენს სროლის ბონუსებს.</MarksmanCommand.description>
+  <MarksmanCommand.label>მსროლელის ბრძანება</MarksmanCommand.label>
+  <MarksmanCommandBuff.description>ვიღაც იყენებს მსროლელთა ბრძანების უნარს ახლომახლო, აძლიერებს ამ ადამიანის სროლის შესაძლებლობებს.</MarksmanCommandBuff.description>
+  <MarksmanCommandBuff.label>მსროლელის ბრძანება</MarksmanCommandBuff.label>
+  <MiningCommand.description>ეს ადამიანი გვთავაზობს ხელმძღვანელობას მაინინგის ტექნიკის შესახებ, აძლიერებს მაინინგის სიჩქარეს ყველა ახლომახლოსთვის.</MiningCommand.description>
+  <MiningCommand.label>სამთო ბრძანება</MiningCommand.label>
+  <MiningCommandBuff.description>ამ ადამიანის მაინინგის სიჩქარე გაიზარდა იმის წყალობით, რომ ახლოს არის ვინმესთან, ვინც იყენებს მაინინგის ბრძანების უნარს.</MiningCommandBuff.description>
+  <MiningCommandBuff.label>სამთო ბრძანება</MiningCommandBuff.label>
+  <PreachHealth.description>ამ ადამიანის გადარჩენის სურვილი გაძლიერდა საუბრით მათი იდეოლიგიის მორალურ მეგზურთან. ამ მორალურმა დარწმუნებამ გააუმჯობესა მათი განკურნებისა და იმუნიზაციის მოპოვების მაჩვენებლები.</PreachHealth.description>
+  <PreachHealth.label>ჯანმრთელობის ქადაგება</PreachHealth.label>
+  <ProductionCommand.description>ეს ადამიანი გვთავაზობს მითითებებს მშენებლობის ტექნიკის შესახებ, აძლიერებს სამშენებლო და ხელოსნობის შესაძლებლობებს ყველა ახლომახლოსთვის.</ProductionCommand.description>
+  <ProductionCommand.label>წარმოების ბრძანება</ProductionCommand.label>
+  <ProductionCommandBuff.description>ამ ადამიანის კონსტრუქციისა და დამზადების სიჩქარე გაიზარდა იმის წყალობით, რომ ახლოს არის ვინმესთან, რომელიც იყენებს წარმოების ბრძანების უნარს.</ProductionCommandBuff.description>
+  <ProductionCommandBuff.label>წარმოების ბრძანება</ProductionCommandBuff.label>
+  <ResearchCommand.description>ეს ადამიანი იყენებს სპეციალურ უნარს წინადადებებისა და გონებრივი მხარდაჭერის უზრუნველსაყოფად, რაც აძლიერებს კვლევის სიჩქარეს ყველა ახლო მახლობლად.</ResearchCommand.description>
+  <ResearchCommand.label>კვლევის ბრძანება</ResearchCommand.label>
+  <ResearchCommandBuff.description>ამ ადამიანის კვლევის სიჩქარე გაზრდილია, რადგან ისინი ახლოს არიან ვინმესთან, ვინც იყენებს კვლევის ბრძანების უნარს.</ResearchCommandBuff.description>
+  <ResearchCommandBuff.label>კვლევის ბრძანება</ResearchCommandBuff.label>
+  <WorkDrive.description>ლიდერის მიერ მოწოდებული გრძნობა უფრო მეტი იმუშაოს.</WorkDrive.description>
+  <WorkDrive.label>სამუშაო დრაივი</WorkDrive.label>
+</LanguageData>

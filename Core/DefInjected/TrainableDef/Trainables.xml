@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Haul.description>ცხოველი დროდადრო შემთხვევით ატარებს ნივთებს (თუმცა ის არ შეიძლება იყოს მიმართული კონკრეტული ნივთების ზიდვაზე).</Haul.description>
+  <Haul.label>ზიდვა</Haul.label>
+  <Obedience.description>ცხოველს შეიძლება დაენიშნოს ოსტატი, რომელსაც ის მიჰყვება და დაიცავს.</Obedience.description>
+  <Obedience.label>მცველი</Obedience.label>
+  <Release.description>ცხოველი შეიძლება გათავისუფლდეს შორეულ სამიზნეებზე თავდასხმის ნაცვლად, მხოლოდ მისი ბატონის დასაცავად.</Release.description>
+  <Release.label>თავდასხმა</Release.label>
+  <Rescue.description>ცხოველი გადაარჩენს დაჭრილ მოკავშირეებს და გადაიყვანს მათ უსაფრთხო ადგილას.</Rescue.description>
+  <Rescue.label>გადარჩენა</Rescue.label>
+  <Tameness.description>ცხოველს შეუძლია ისწავლოს თავი თქვენი კოლონიის წევრად ჩათვალოს.</Tameness.description>
+  <Tameness.label>თავმდაბლობა</Tameness.label>
+</LanguageData>

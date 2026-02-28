@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AirConditioning.description>ააშენეთ მაცივრები, რათა ადამიანებს კომფორტული ჰქონდეთ ცხელ ამინდში, ან მოაწყოთ საყინულეები მალფუჭებადი საქონლის შესანახად.</AirConditioning.description>
+  <AirConditioning.label>კონდიციონერი</AirConditioning.label>
+  <Autodoors.description>შექმენით ავტომატური კარები, რომლებიც ავტომატურად იხსნება ვინმეს მიახლოებისას, არავის შენელების გარეშე.</Autodoors.description>
+  <Autodoors.label>ავტოკარი</Autodoors.label>
+  <Batteries.description>შექმენით ბატარეები ელექტროენერგიის შესანახად.</Batteries.description>
+  <Batteries.label>ბატარეა</Batteries.label>
+  <BiofuelRefining.description>ააშენეთ ბიოსაწვავის გადამამუშავებელი ქარხნები ბიოლოგიური ნივთიერებებისგან, როგორიცაა ხის ან საკვები პროდუქტებისგან, ქიმიური საწვავის დასამზადებლად.</BiofuelRefining.description>
+  <BiofuelRefining.label>ბიოსაწვავის გადამუშავება</BiofuelRefining.label>
+  <BlowbackOperation.description>შექმენით დაბალი სიმძლავრის ავტომატური იარაღი, როგორიცაა ავტოპისტოლეტები და ავტომატური პისტოლეტები.</BlowbackOperation.description>
+  <BlowbackOperation.label>დაბრუნების ოპერაცია</BlowbackOperation.label>
+  <ColoredLights.description>შექმენით ძლიერი გარე განათება. გარდა ამისა, შეცვალეთ ელექტრო განათების ფერი და შეამცირეთ მათი ენერგიის მოხმარება ნახევარით. ეს არ მოქმედებს მზის ნათურებზე.</ColoredLights.description>
+  <ColoredLights.label>მოწინავე განათება</ColoredLights.label>
+  <Electricity.description>გამოიყენეთ ელექტროენერგიის ძალა ასი სხვადასხვა ამოცანისთვის.</Electricity.description>
+  <Electricity.label>ელექტროენერგია</Electricity.label>
+  <Firefoam.description>ააშენეთ ქაფის პოპერები, ავტომატური ხანძარსაწინააღმდეგო მოწყობილობები, რომლებიც ავრცელებენ ხანძარსაწინააღმდეგო ქაფს დამწვრობის ცეცხლის საპასუხოდ.</Firefoam.description>
+  <Firefoam.label>ცეცხლოვანი ქაფით</Firefoam.label>
+  <FlakArmor.description>ხელნაკეთი ტანსაცმელი ლითონის ჯავშნით შეკერილი ტყვიებისა და აფეთქებების წინააღმდეგობის გაწევისთვის. ეს მძიმე ჯავშანი ოდნავ ანელებს მოძრაობას.</FlakArmor.description>
+  <FlakArmor.label>ფანტელი ჯავშანი</FlakArmor.label>
+  <FoamTurret.description>შექმენით კოშკი, რომელიც შეიძლება გააქტიურდეს ხანძარსაწინააღმდეგო ქაფის შესხურებისთვის.</FoamTurret.description>
+  <FoamTurret.label>ქაფის კოშკი</FoamTurret.label>
+  <GasOperation.description>შექმენით მაღალი სიმძლავრის თოფები, როგორიცაა ჯაჭვის თოფი, LMG და მძიმე SMG.</GasOperation.description>
+  <GasOperation.label>გაზის მუშაობა</GasOperation.label>
+  <GeothermalPower.description>ააშენეთ გეოთერმული ელექტროსადგურები ორთქლის გეიზერების თავზე, უწყვეტი ენერგიისთვის.</GeothermalPower.description>
+  <GeothermalPower.label>გეოთერმული ძალა</GeothermalPower.label>
+  <Gunsmithing.description>შექმენით მარტივი ხელით მომუშავე იარაღები, როგორიცაა რევოლვერები, ტუმბოს თოფი, ჭანჭიკებიანი თოფები და ცეცხლგამშვები გამშვებები.</Gunsmithing.description>
+  <Gunsmithing.label>იარაღის მჭედლობა</Gunsmithing.label>
+  <GunTurrets.description>შექმენით მარტივი ავტომატური იარაღის კოშკები.</GunTurrets.description>
+  <GunTurrets.label>იარაღის კოშკები</GunTurrets.label>
+  <Hydroponics.description>ააშენეთ ჰიდროპონიკის აუზები, რათა სწრაფად გაიზარდოს კულტურები შენობაში, რელიეფისა და გარეთ ამინდის მიუხედავად.</Hydroponics.description>
+  <Hydroponics.label>ჰიდროპონიკა</Hydroponics.label>
+  <IEDs.description>ააშენეთ იმპროვიზირებული ხაფანგები ნებისმიერი სახის ნაღმტყორცნებიდან.</IEDs.description>
+  <IEDs.label>IED-ები</IEDs.label>
+  <Machining.description>შექმენით დამუშავების მაგიდები იარაღის, ყუმბარის, ფლაკონის ჯავშნის დასამზადებლად და მკვდარი მექანოიდების რესურსებისთვის.</Machining.description>
+  <Machining.label>დამუშავება</Machining.label>
+  <Mortars.description>ააწყვეთ ნაღმტყორცნები, რომლებსაც შეუძლიათ ჭურვების დაჭერა დიდ მანძილზე - კედლებზეც კი.</Mortars.description>
+  <Mortars.label>ნაღმტყორცნები</Mortars.label>
+  <NutrientPaste.description>შექმენით მკვებავი პასტების დისპენსერები, რომლებიც ეფექტურად აწარმოებენ საკვებ საკვებს ნედლი საკვები საკვებიდან, ამასთან, არ საჭიროებს შრომას.</NutrientPaste.description>
+  <NutrientPaste.label>მკვებავი პასტა</NutrientPaste.label>
+  <PackagedSurvivalMeal.description>აწარმოეთ შეფუთული გადარჩენის კერძები, რომლებიც არასდროს ცდება. შესანიშნავია მოგზაურობისთვის.</PackagedSurvivalMeal.description>
+  <PackagedSurvivalMeal.label>შეფუთული გადარჩენის კვება</PackagedSurvivalMeal.label>
+  <Prosthetics.description>შექმენით სხეულის იაფი პროთეზირების ნაწილები დაკარგული კიდურების შესაცვლელად. დასამაგრებლად საჭიროა კვალიფიციური ექიმი.</Prosthetics.description>
+  <Prosthetics.label>პროთეზირება</Prosthetics.label>
+  <SmokepopBelt.description>შექმენით კვამლის პაკეტები, რომლებიც მფლობელს საშუალებას აძლევს გამოიყენოს დამცავი კვამლის საფარი.</SmokepopBelt.description>
+  <SmokepopBelt.label>კვამლის პაკეტები</SmokepopBelt.label>
+  <SolarPanels.description>ელექტროენერგიის წარმოებისთვის მზის პანელების აშენება.</SolarPanels.description>
+  <SolarPanels.label>მზის პანელი</SolarPanels.label>
+  <SterileMaterials.description>ააწყვეთ სტერილური ფილები, რათა გააკეთოთ სუფთა ოთახები უფრო უსაფრთხო და ეფექტური სამედიცინო მკურნალობის, კვლევისა და სამზარეულოსთვის.</SterileMaterials.description>
+  <SterileMaterials.label>სტერილური მასალები</SterileMaterials.label>
+  <TubeTelevision.description>შექმენით მილის ტელევიზორები რეკრეაციული ყურებისთვის.</TubeTelevision.description>
+  <TubeTelevision.label>მილის ტელევიზორი</TubeTelevision.label>
+  <WatermillGenerator.description>ააგეთ წყლის წისქვილის გენერატორები მდინარეებზე ენერგიის მუდმივი მიწოდების შესაქმნელად.</WatermillGenerator.description>
+  <WatermillGenerator.label>წყლის წისქვილის გენერატორი</WatermillGenerator.label>
+</LanguageData>

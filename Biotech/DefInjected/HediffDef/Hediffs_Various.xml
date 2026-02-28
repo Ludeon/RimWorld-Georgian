@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BioStarvation.description>ეს ადამიანი იმყოფებოდა ზრდის ღუმელში, რომელიც არ ფუნქციონირებდა გამართულად ენერგიის ან კვების საკვების ნაკლებობის გამო. ამან მათი სხეული ბიო-შიმშილის მდგომარეობაში დატოვა.</BioStarvation.description>
+  <BioStarvation.label>ბიო-შიმშილი</BioStarvation.label>
+  <Deathrest.description>ღრმა კომის მსგავსი ძილი, რომელიც გრძელდება რამდენიმე დღე და აღადგენს ორგანიზმის რესურსებს. ზოგიერთი გენი ქმნის სიკვდილის მოთხოვნილებას. Deathrest ასევე შეიძლება გაძლიერდეს სხვადასხვა დამხმარე შენობებით, რომლებიც სპეციალურ ბონუსებს ანიჭებენ სიკვდილის დამღუპველს.</Deathrest.description>
+  <Deathrest.label>სიკვდილის მომტანი</Deathrest.label>
+  <DeathrestExhaustion.description>ამ ადამიანს უიმედოდ სჭირდება სიკვდილის დასვენება, რათა აღადგინოს მეტაბოლიზმი.</DeathrestExhaustion.description>
+  <DeathrestExhaustion.label>სიკვდილის შემდეგ ამოწურვა</DeathrestExhaustion.label>
+  <GeneticDrugNeed.description>This person has a genetically-induced biochemical dependency on a specific drug. Without regular doses of the drug, their body cannot maintain itself in a healthy state and they will suffer degrading health and mood until they die.\n\nTakes effect after age: 13.</GeneticDrugNeed.description>
+  <GeneticDrugNeed.label>ქიმიური დამოკიდებულება</GeneticDrugNeed.label>
+  <GeneticDrugNeed.stages.2.label>დეფიციტი</GeneticDrugNeed.stages.2.label>
+  <HemogenCraving.description>ჰემოგენის ნაკლებობის გამო, ამ ადამიანის ორგანიზმი არღვევს ჰემოგენის რეზერვებს მის ძვლის ტვინში. ეს იწვევს დეზორიენტაციას და მტკივნეულ ლტოლვას ადამიანის სისხლის მიმართ.</HemogenCraving.description>
+  <HemogenCraving.label>ჰემოგენის ლტოლვა</HemogenCraving.label>
+  <HemogenCraving.stages.0.label>მცირეწლოვანი</HemogenCraving.stages.0.label>
+  <HemogenCraving.stages.1.label>ზომიერი</HemogenCraving.stages.1.label>
+  <HemogenCraving.stages.2.label>მაიორი</HemogenCraving.stages.2.label>
+  <InterruptedDeathrest.description>სიკვდილის პროცესი შეწყდა, როდესაც ამ ადამიანის მეტაბოლიზმი ჯერ კიდევ არ იყო წონასწორული. წონასწორობის აღდგენისას ისინი რამდენიმე დღის განმავლობაში ავად იქნებიან.</InterruptedDeathrest.description>
+  <InterruptedDeathrest.label>შეწყვიტა სიკვდილით დასჯა</InterruptedDeathrest.label>
+  <PsychicBond.description>ამ ადამიანს აქვს ფსიქიკური კავშირი სხვა ადამიანთან ფსიქიკური შემაკავშირებელ გენზე დაყრდნობით. თავად კავშირი იძლევა გარკვეულ შეზღუდულ ფსიქიკურ ცნობიერებას, რაც საშუალებას აძლევს მას დაუკავშირდეს ფსიქიკურად ყრუ პირებსაც კი.</PsychicBond.description>
+  <PsychicBond.label>ფსიქიკური კავშირი</PsychicBond.label>
+  <PsychicBondTorn.description>ამ ადამიანს ფსიქიკური კავშირი ჰქონდა სხვასთან, მაგრამ კავშირი გაწყდა, როდესაც მათი პარტნიორი გარდაიცვალა.</PsychicBondTorn.description>
+  <PsychicBondTorn.label>მოწყვეტილი ფსიქიკური კავშირი</PsychicBondTorn.label>
+  <RegenerationComa.description>ეს ადამიანი რომ არ ყოფილიყო გენეტიკურად უკვდავი, ის უკვე დაიღუპებოდა ჯანმრთელობის მდგომარეობის გამო. სამაგიეროდ, ისინი ჩავარდნენ რეგენერაციულ კომაში, რომლის დროსაც ისინი განაახლებს სხეულს.</RegenerationComa.description>
+  <RegenerationComa.label>რეგენერაციული კომა</RegenerationComa.label>
+  <ScanningSickness.description>ეს ადამიანი სკანირებული იყო რბილი სკანერით, რათა წარმოექმნათ მექანოიდური ქვებირთვი. მაღალი ენერგიის სკანირების მოწყობილობამ გამოიწვია დარღვევები მათ თავის ტვინის ქიმიაში, რომელთა მოგვარებასაც დრო დასჭირდება. გრძელვადიანი ზიანი არ იქნება.</ScanningSickness.description>
+  <ScanningSickness.label>სკანირების ავადმყოფობა</ScanningSickness.label>
+  <VatGrowing.description>ზრდის ღვეზელი ასტიმულირებს ამ ადამიანის ორგანიზმს უჯრედების გაყოფისა და დაბერების ტემპის გაზრდისკენ.</VatGrowing.description>
+  <VatGrowing.label>თხრილის გაზრდა</VatGrowing.label>
+  <VatLearning.description>ზრდის ღვეზელი ელექტრულად ასტიმულირებს ამ ადამიანის ტვინს უნარების განვითარებაზე. ეს პროცესი არც თუ ისე ეფექტურია და მხოლოდ ნაწილობრივ ჩაანაცვლებს გარე სამყაროში გამოტოვებულ უნარებს.</VatLearning.description>
+  <VatLearning.label>დღიურის სწავლა</VatLearning.label>
+  <XenogerminationComa.description>A xenogerm was implanted in this person. The xenogerm needs time to integrate itself into the host and modify the genes and chemistry of various tissues throughout the body. During this time, the person cannot safely wake up, so the xenogerm keeps them in a coma.\n\nThe duration of this coma can be reduced by implanting a xenogerm with better medical facilities and more skilled doctors.</XenogerminationComa.description>
+  <XenogerminationComa.label>ქსენოგერმინაციული კომა</XenogerminationComa.label>
+  <XenogermLossShock.description>ამ ადამიანის გენები ცოტა ხნის წინ ამოიღეს ან განდევნეს. ამან გამოიწვია ადამიანის მეტაბოლიზმისა და ჰორმონების დესტაბილიზაცია, რის გამოც ის დროებით სუსტად და ძილიანად რჩება, დასუსტებული იმუნური სისტემით.</XenogermLossShock.description>
+  <XenogermLossShock.label>გენის დაკარგვის შოკი</XenogermLossShock.label>
+  <XenogermReplicating.description>ამ ადამიანის გენეტიკური მასალა ხელახლა იზრდება. ამ პროცესს არ აქვს რაიმე პირდაპირი გავლენა ჯანმრთელობაზე. თუმცა, მათი გენების ამოღება ხელახლა ზრდის დროს მოკლავს მათ.</XenogermReplicating.description>
+  <XenogermReplicating.label>გენები ხელახლა იზრდება</XenogermReplicating.label>
+</LanguageData>

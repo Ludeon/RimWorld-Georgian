@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <ClickToJumpToProblem>დააწკაპუნეთ პრობლემაზე გადასასვლელად</ClickToJumpToProblem>
+
+  <BreakRiskMinor>მცირე შესვენების რისკი</BreakRiskMinor>
+  <BreakRiskMajor>შესვენების ძირითადი რისკი</BreakRiskMajor>
+  <BreakRiskExtreme>ექსტრემალური შესვენების რისკი</BreakRiskExtreme>
+  <BreakRiskMinorDesc>ეს კოლონისტები ცუდ ხასიათზე არიან და შეიძლება ნებისმიერ დროს მცირე გონებრივი შესვენება ჰქონდეთ:\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>ეს კოლონისტები ძალიან ცუდ ხასიათზე არიან და შესაძლოა ნებისმიერ დროს დიდი გონებრივი შესვენება ჰქონდეთ:\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>ეს კოლონისტები კრიტიკულ სტრესში არიან და შეიძლება ნებისმიერ დროს ჰქონდეთ უკიდურესი (და შესაძლოა ძალადობრივი) გონებრივი შესვენება:\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>შეამოწმეთ ამ კოლონისტების საჭიროებების ჩანართი, რათა ნახოთ, რა აწუხებს მათ.\n\nკოლონისტებს უკეთ რომ იგრძნონ თავი, შეგიძლიათ გააკეთოთ ისეთი რაღაცეები, როგორიცაა მათთვის გემრიელი კერძები, მიეცით მათ დღეში მეტი დასვენების საათი და უფრო ლამაზი დასასვენებელი ობიექტები, მოათავსეთ ისინი ლამაზ გარემოში, მიირთვით დალევა და მოწევა და მრავალი სხვა.</BreakRiskDescEnding>
+
+  <ColonistNeedsRescue>კოლონისტს გადარჩენა სჭირდება</ColonistNeedsRescue>
+  <ColonistsNeedRescue>კოლონისტებს გადარჩენა სჭირდებათ</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>ეს კოლონისტები ადგილზე ქმედუუნაროები არიან:\n{0}\nგააგზავნეთ სხვა კოლონისტი მათი გადასარჩენად და დააბრუნეთ ისინი საწოლში.\n\n(გადასარჩენად აირჩიეთ სხვა კოლონისტი, შემდეგ დააწკაპუნეთ მარჯვენა ღილაკით მსხვერპლზე და აირჩიეთ Rescue.)</ColonistsNeedRescueDesc>
+  <ColonistsNeedRescueDescController>ეს კოლონისტები დაუძლურებულნი არიან ადგილზე:\n{0}\n\nგააგზავნეთ სხვა კოლონისტი მათი გადასარჩენად და დააბრუნეთ საწოლში.\n\n(გადასარჩენად აირჩიეთ სხვა კოლონისტი, შემდეგ დააჭირეთ მსხვერპლზე მარცხენა ტრიგერის ღილაკს და აირჩიეთ Rescue.)</ColonistsNeedRescueDescController>
+
+  <NeedDefenses>დაცვა სჭირდება</NeedDefenses>
+  <NeedDefensesDesc>დიდი ხანია აქ იყავი და ალბათ გინახავს. მეკობრეების რეიდები მალე დაიწყება.\n\nთქვენ უნდა მოამზადოთ თავდაცვა, როგორიცაა ქვიშის ტომრები ან ხაფანგები.</NeedDefensesDesc>
+
+  <NeedDoctor>საჭიროა ექიმი</NeedDoctor>
+  <NeedDoctorDesc>ამ კოლონისტებს ესაჭიროებათ სამედიცინო დახმარება, მაგრამ თქვენ არ გყავთ ექიმებად დანიშნული ჯანსაღი კოლონისტები.\n{0}\n\nდაანიშნეთ ჯანსაღი კოლონისტი ექიმის მუშაობის ტიპზე. თუ მკურნალობა არ დარჩება, ჭრილობები შეიძლება ვერ შეხორცდეს სათანადოდ და შეიძლება გახდეს მუდმივი.</NeedDoctorDesc>
+
+  <NeedMiner>გვჭირდება მაინერი</NeedMiner>
+  <NeedMinerDesc>თქვენ დანიშნეთ რამდენიმე კლდე მოსაპოვებლად, მაგრამ არცერთ კოლონისტს არ აქვს სამთო სამუშაოს ტიპი.\n\nდანიშნეთ კოლონისტს სამთო სამუშაოს ტიპი.</NeedMinerDesc>
+
+  <NeedWarden>მეურვე სჭირდება</NeedWarden>
+  <NeedWardenDesc>თქვენ გყავთ პატიმარი, მაგრამ არცერთ კოლონისტს არ აქვს Warden-ის სამუშაო ტიპი.\n\nდაანიშნეთ კოლონისტს Warden-ის სამუშაო ტიპი.</NeedWardenDesc>
+
+  <LowFood>დაბალი საკვები</LowFood>
+  <LowFoodDesc>სახიფათოდ დაკლებული გაქვთ საკვები.\n\n შესანახი საკვების სრული ბარები: {0}\n კოლონისტები და პატიმრები იღებენ საკვებს: {1}\n დღის ღირებულების საკვებს შესანახად: {2}\n\nგაზარდეთ, იყიდეთ, იპოვნეთ ან მოკალით საკვები.</LowFoodDesc>
+
+  <LowMedicine>დაბალი წამალი</LowMedicine>
+  <LowMedicineDesc>თქვენ გაქვთ მხოლოდ {0} მედიკამენტები საცავში.\n\nშეიძინეთ მეტი წამალი ტრეიდერებისგან.</LowMedicineDesc>
+  <NoMedicineDesc>საცავში წამალი არ გაქვთ დარჩენილი.\n\nშეიძინეთ მეტი წამალი ტრეიდერებისგან.</NoMedicineDesc>
+  
+  <NeedColonistBeds>საჭიროა კოლონისტური საწოლები</NeedColonistBeds>
+  <NeedColonistBedsDesc>უფრო მეტი კოლონისტი გყავთ, ვიდრე კოლონისტური საწოლი. ვინმეს დასაძინებელი ადგილი აკლია.\n\nან მეტი საწოლები გაასწორეთ, ან შეცვალეთ პატიმრის საწოლი კოლონისტური საწოლით.\n\nთუ რესურსი არ გაქვთ, საძილე ადგილები უფასოა და შეიძლება მყისიერად განთავსდეს.</NeedColonistBedsDesc>
+  
+  <AlertColonistLeftUnburied>კოლონისტი დაუმარხავად დარჩა</AlertColonistLeftUnburied>
+  <AlertColonistLeftUnburiedDesc>კოლონისტი რჩება დაუმარხავად.\n\nამან შეიძლება უარყოფითად იმოქმედოს თქვენი კოლონისტების განწყობაზე.</AlertColonistLeftUnburiedDesc>
+
+  <AlertTatteredApparel>გახეხილი ტანსაცმელი</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>ამ კოლონისტებს დახეული ტანსაცმელი აცვიათ, რაც მათ სევდიანს:\n{0}\n\nმიიღეთ მათ ისეთი ტანსაცმელი, რომელიც არც თუ ისე დაზიანებულია.\n\nშეგიძლიათ მოაკეროთ ტანსაცმელი ხელოსნობის ადგილზე ან სამკერვალო მაგიდაზე, ან შეიძინოთ იგი მოვაჭრეებისგან.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>უბედური სიშიშვლე</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>ეს კოლონისტები შიშველები არიან და ეს არ ახარებენ:\n{0}\n\nმიიღეთ მათ ტანსაცმელი.\n\nშეგიძლიათ მოაკეროთ ტანსაცმელი ხელოსნობის ადგილზე ან სამკერვალო მაგიდაზე, ან შეიძინოთ იგი მოვაჭრეებისგან.</AlertUnhappyNudityDesc>
+
+  <Starvation>შიმშილი</Starvation>
+  <StarvationDesc>ეს კოლონისტები შიმშილობენ:\n{0}\n\nმიიღეთ მათთვის საკვები.</StarvationDesc>
+
+  <StarvationAnimals>ცხოველთა შიმშილი</StarvationAnimals>
+  <StarvationAnimalsDesc>ეს კოლონიური ცხოველები შიმშილობენ:\n{0}\n\nმიიღეთ საკვები.</StarvationAnimalsDesc>
+
+  <Exhaustion>გამოფიტვა</Exhaustion>
+  <ExhaustionDesc>ეს კოლონისტები დაღლილები არიან და დასვენება სჭირდებათ:\n{0}\n\nდაისვენეთ ისინი. მათ დასჭირდებათ საწოლი მონიშნული კოლონისტების გამოყენებისთვის. ასევე, დარწმუნდით, რომ ისინი არ არიან შედგენილი.</ExhaustionDesc>
+
+  <NeedFoodHopper>მჭირდება კვების ბუნკერი</NeedFoodHopper>
+  <NeedFoodHopperDesc>თქვენ გაქვთ მკვებავი ნივთიერებების დისპენსერი, გვერდით ბუნკერის გარეშე.\n\nსამუშაოდ, პასტის დისპენსერებმა უნდა ამოიღონ ნედლი საკვებით სავსე მიმდებარე ბუნკერიდან.\n\nააგეთ ბუნკერი დისპენსერთან.</NeedFoodHopperDesc>
+
+  <NeedMealSource>საჭიროა კვების წყარო</NeedMealSource>
+  <NeedMealSourceDesc>თქვენ არ გაქვთ საშუალება მოამზადოთ სათანადო კვება უმი საკვებიდან.\n\nააგეთ ღუმელი, კოცონი ან საკვები ნივთიერებების დისპენსერი.\n\n(ის არ შეიძლება იყოს ციხის საკანში, წინააღმდეგ შემთხვევაში კოლონისტები ვერ გამოიყენებენ მას.)</NeedMealSourceDesc>
+
+  <NeedJoySource>სჭირდება დასვენების მრავალფეროვნება</NeedJoySource>
+  <NeedJoySourceDesc>{1}-ში ხელმისაწვდომია მხოლოდ {0} სხვადასხვა ტიპის დასვენება, მაგრამ ამჟამინდელი მოლოდინების დონეზე ({2}), კოლონისტებს სჭირდებათ {3} სხვადასხვა სახის დასვენება, რომ დაკმაყოფილდნენ. შესთავაზეთ დასასვენებელი ჯიში, რომელიც უზრუნველყოფს ახალ, განსხვავებულ დასვენებას.\n\n{4}\n\n{5}\n\nშენიშვნა: შეგიძლიათ შეამოწმოთ ნებისმიერი ნივთის რეკრეაციული ტიპი მის სტატისტიკურ გვერდზე, რომელიც ხელმისაწვდომია ღილაკით 'i'.</NeedJoySourceDesc>
+  <AvailableRecreationTypes>ხელმისაწვდომი დასვენების ტიპები</AvailableRecreationTypes>
+  <MissingRecreationTypes>დასვენების ტიპები აკლია</MissingRecreationTypes>
+  <CurrentExpectationsAndRecreation>მიმდინარე მოლოდინებით ({0}), თითოეული ტოლერანტობა ეცემა {1}-ით დღეში გაღვიძებისას. რეკომენდირებულია {2} დასვენების ტიპები.</CurrentExpectationsAndRecreation>
+  <bored>მოწყენილი</bored>
+
+  <Boredom>მოწყენილობა</Boredom>
+  <BoredomDesc>ამ ადამიანებს ან ესაჭიროებათ დასვენება, ან დავალებულნი არიან დასვენებაზე, მაგრამ მობეზრდათ დასვენების ყველა ხელმისაწვდომი წყარო:\n\n{0}\n\nმიიღეთ კიდევ რამდენიმე დასვენება.\n\nამჟამად ხელმისაწვდომი დასვენების ტიპები {PAWN_labelShort}-ისთვის:\n{2}</BoredomDesc>
+
+  <NeedBatteries>საჭიროა ბატარეები</NeedBatteries>
+  <NeedBatteriesDesc>თქვენ გაქვთ მზის ან ქარის გენერატორი, მაგრამ არა ბატარეები. თქვენ დაკარგავთ ძალას ყოველ ჯერზე, როცა მზე ჩავა ან ქარი ჩაწყნარდება.</NeedBatteriesDesc>
+  <NeedBatteriesResearchedDesc>შექმენით ერთი ან ორი ბატარეა მდგრადი ენერგიის უზრუნველსაყოფად.</NeedBatteriesResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>შეისწავლეთ ბატარეები და შექმენით წყვილი მდგრადი ენერგიის გარანტირებისთვის.</NeedBatteriesNotResearchedDesc>
+
+  <BrawlerHasRangedWeapon>ბრაულერს აქვს სროლის იარაღი</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>თქვენს ერთ-ერთ კოლონისტს აქვს ბროლერის პიროვნული თვისება, მაგრამ ატარებს სროლის იარაღს. ეს მათ ძალიან უბედურს გახდის.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>ფარის მომხმარებელს აქვს დისტანციური იარაღი</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>თქვენს ერთ-ერთ კოლონისტს აქვს ფარის ქამარი და ატარებს სროლის იარაღს. ისინი ვერ შეძლებენ იარაღის გასროლას ფარის გავლით (გარდა სამიზნეებისა, რომლებიც უკვე ეხებიან მათ).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>საჭიროა კვლევითი პროექტი</NeedResearchProject>
+  <NeedResearchProjectDesc>თქვენ გაქვთ აღჭურვილობა კვლევის ჩასატარებლად, მაგრამ არ გაქვთ შერჩეული პროექტი.\n\n(დააწკაპუნეთ კვლევის მენიუს გასახსნელად.)</NeedResearchProjectDesc>
+
+  <ColonistIdle>1 კოლონისტი უსაქმური</ColonistIdle>
+  <ColonistsIdle>{0} კოლონისტები უსაქმურები არიან</ColonistsIdle>
+  <ColonistsIdleDesc>ეს კოლონისტები უსაქმურად დახეტიალობენ:\n{0}\n\nალბათ, მათთვის რაიმე პროდუქტიული გასაკეთებელი უნდა იპოვოთ.</ColonistsIdleDesc>
+  
+  <CaravanIdle>ქარავანი უსაქმური</CaravanIdle>
+  <CaravanIdleDesc>ეს ქარავანი გელოდებათ შემდეგი დანიშნულების ადგილის დასაყენებლად:\n{0}</CaravanIdleDesc>
+
+  <ColonistNeedsTreatment>საჭიროა სამედიცინო მკურნალობა</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>ამ ადამიანებს სამედიცინო მკურნალობა სჭირდებათ. ამის გარეშე ისინი შეიძლება დაიღუპოს ჭრილობებით, ან მათი ჭრილობები შეიძლება გახდეს მუდმივი.\n{0}\n\nდაუმკურნალეთ მათ სამედიცინო საწოლზე გაგზავნით.\n\n(პირველ რიგში, მიანიშნეთ სამედიცინო საწოლი მისი არჩევით და გადართეთ სამედიცინო საწოლზე. შემდეგ აირჩიეთ დაჭრილი და დააწკაპუნეთ მარჯვენა ღილაკით სამედიცინო საწოლზე, რომ გახდეთ იგი პაციენტი).</ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDescController>ამ ადამიანებს სამედიცინო მკურნალობა სჭირდებათ. ამის გარეშე ისინი შეიძლება დაიღუპოს ჭრილობებით, ან მათი ჭრილობები შეიძლება გახდეს მუდმივი.\n{0}\n\nდაუმკურნალეთ მათ სამედიცინო საწოლზე გაგზავნით.\n\n(პირველ რიგში, მიანიშნეთ სამედიცინო საწოლი მისი არჩევით და გადართეთ სამედიცინო საწოლზე. შემდეგ, აირჩიეთ დაჭრილი და დააჭირეთ სამედიცინო საწოლზე მარცხენა ტრიგერის ღილაკს, რათა ის გახდეს პაციენტი).</ColonistNeedsTreatmentDescController>
+
+  <AlertHypothermia>ჰიპოთერმია</AlertHypothermia>
+  <AlertHypothermiaDesc>ეს კოლონისტები განიცდიან ჰიპოთერმიას:\n{0}\n\nდარწმუნდით, რომ მათი ტანსაცმელი შეესაბამება სეზონს და რომ შიდა სივრცეები სათანადოდ არის გაცხელებული.</AlertHypothermiaDesc>
+  
+  <PatientsAwaitingMedicalOperation>{0} პაციენტები სამედიცინო ოპერაციას ელოდებიან</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>ეს პაციენტები ელიან სამედიცინო ოპერაციას:\n{0}\n\nდარწმუნდით, რომ გაქვთ ყველა საჭირო სამედიცინო ინსტრუმენტი და უფასო ექიმი.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>ცეცხლი!</FireInHomeArea>
+  <FireInHomeAreaDesc>სახლის ტერიტორიაზე ხანძარია.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>სასწრაფო სამედიცინო დახმარება</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>ადამიანებს მძიმე ავადმყოფობის გამო სიკვდილის საფრთხე ემუქრებათ:\n{0}\n\nდარწმუნდით, რომ მათ საუკეთესო სამედიცინო დახმარება შეუძლიათ.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>ადამიანები მძიმე ავადმყოფობის გამო სიკვდილის რისკის ქვეშ არიან:\n{0}\n\nთუ ეს შესაძლებელია, იფიქრეთ ინფიცირებული კიდურების ამპუტაციაზე ან გამოცვლაზე, რათა კოლონისტები იცოცხლონ.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>ბილიარდს სივრცე სჭირდება</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>თქვენი ერთ-ერთი ბილიარდის მაგიდა არის დაბრკოლების გვერდით, რომელიც ხელს შეუშლის კოლონისტებს მის გამოყენებაში.\n\nბილიარდის მაგიდას ყველა მხრიდან სუფთა სივრცე სჭირდება, რომ გამოსაყენებელი იყოს.</BilliardsNeedsSpaceDesc>
+
+  <ChessTablesNeedChairs>ჭადრაკის მაგიდას სჭირდება სკამები</ChessTablesNeedChairs>
+  <ChessTablesNeedChairsDesc>თქვენს ერთ-ერთ საჭადრაკო მაგიდას არ აქვს მიმდებარე სკამი.\n\nააგეთ მიმდებარე სკამები ან სკამები, რათა თქვენს კოლონისტებს მიეცეთ საშუალება გამოიყენონ ჭადრაკის მაგიდა. ჭადრაკის მაგიდის ერთდროულად გამოყენება ორ ადამიანს შეუძლია.</ChessTablesNeedChairsDesc>
+
+  <PokerTablesNeedChairs>პოკერის მაგიდას ესაჭიროება სკამები</PokerTablesNeedChairs>
+  <PokerTablesNeedChairsDesc>თქვენს ერთ-ერთ პოკერის მაგიდას არ აქვს მიმდებარე სკამი.\n\nააგეთ მიმდებარე სკამები ან სკამები, რათა თქვენს კოლონისტებს საშუალება მისცეთ გამოიყენონ პოკერის მაგიდა. პოკერის მაგიდის ერთდროულად გამოყენება რვა ადამიანს შეუძლია.</PokerTablesNeedChairsDesc>
+
+  <HunterHasShieldAndRangedWeapon>ჰანტერს აქვს ფარი და სროლის იარაღი</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>თქვენი ერთ-ერთი მონადირე იყენებს სროლის იარაღს და ატარებს ფარის ქამარს, რომელიც ხელს უშლის სროლას მოედნიდან.\n\nისინი ვერ შეძლებენ ნადირობას, თუ ფარი არ მოიხსნება.</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>საჭიროა თბილი ტანსაცმელი</NeedWarmClothes>
+  <NeedWarmClothesDesc1>მინიმუმ {0} თქვენს კოლონისტებს არ ექნებათ თბილი ტანსაცმელი, როცა ცივი სეზონი მოვა.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>ყველა თქვენს კოლონისტს არ ექნება თბილი ტანსაცმელი, როცა ცივი სეზონი მოვა.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>გარე ტემპერატურა მიაღწევს {0}-ს.\n\nშეგიძლიათ მოაკეროთ თბილი ტანსაცმელი სამკერვალო სკამზე, ან იყიდოთ ტრეიდერებისგან.</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>უძრავი ქარავანი</ImmobileCaravan>
+  <ImmobileCaravanDesc>თქვენი ერთ-ერთი ქარავანი უმოძრაოა, რადგან ძალიან ბევრს ატარებს.\n\nშეგიძლიათ ქარავანი ხელახლა გახადოთ მობილური ITEMS ჩანართში ზოგიერთი ელემენტის მიტოვებით.</ImmobileCaravanDesc>
+
+  <BuildingCantBeUsedRoofed>შენობა გამოუსადეგარია სახურავის გამო</BuildingCantBeUsedRoofed>
+  <BuildingCantBeUsedRoofedDesc>თქვენი ერთი ან მეტი შენობის გამოყენება შესაძლებელია მხოლოდ იმ შემთხვევაში, თუ არ არის გადახურული, მაგრამ მასზე არის სახურავი. შენობა(ებ)ი არ იქნება გამოსაყენებელი, სანამ ჭერს არ მოხსნით.</BuildingCantBeUsedRoofedDesc>
+
+  <AlertHeatstroke>თბური დარტყმა</AlertHeatstroke>
+  <AlertHeatstrokeDesc>შემდეგი ადამიანები განიცდიან სიცხეს:\n{0}\n\nმიიტანეთ ისინი უფრო გრილ ადგილას. თქვენ შეგიძლიათ გააციოთ ოთახები პასიური მაცივრებით ან ელექტრო ქულერებით. ღრმა მიწისქვეშა სივრცეები ასევე ბუნებრივად მაგარია, თუ გარედან გამოყოფილია კარით.</AlertHeatstrokeDesc>
+
+  <QuestPartMoodBelowThreshold>სტუმარი უკმაყოფილოა</QuestPartMoodBelowThreshold>
+  <QuestPartMoodBelowThresholdDesc>ქვესტი {0} მოითხოვს, რომ შეინარჩუნოთ ეს ადამიანი კარგ განწყობაზე. თუმცა მათი განწყობა ცუდია. მიიღეთ ზომები, რათა მათ თავი უკეთ იგრძნოთ:\n{1}</QuestPartMoodBelowThresholdDesc>
+  
+  <QuestPartShuttleLeaveDelay>შატლი გადის {0}-ში</QuestPartShuttleLeaveDelay>
+  <QuestPartShuttleLeaveDelayDesc>შატლი გაემგზავრება {1}-ში. ქვესტი {0} მოითხოვს, რომ ატვირთოთ შემდეგი ადამიანები ან ნივთები შატლზე, სანამ ის გაფრინდება:\n{2}</QuestPartShuttleLeaveDelayDesc>
+  <QuestPartShuttleLeaveDelayDescHidden>შატლი გაემგზავრება {0}-ში.</QuestPartShuttleLeaveDelayDescHidden>
+
+  <QuestPartShuttleArriveDelay>შატლი ჩამოდის {0}-ში</QuestPartShuttleArriveDelay>
+  <QuestPartShuttleArriveDelayDesc>შატლი ჩამოვა {1}-ში. ქვესტი {0} მოითხოვს, რომ ატვირთოთ შემდეგი ადამიანები ან ნივთები შატლზე, სანამ ის გაფრინდება:\n{2}</QuestPartShuttleArriveDelayDesc>
+  <QuestPartShuttleArriveDelayDescHidden>შატლი ჩამოვა {0}-ში.</QuestPartShuttleArriveDelayDescHidden>
+
+  <DisallowedBuildingInsideMonument>ძეგლი განადგურდება</DisallowedBuildingInsideMonument>
+  <DisallowedBuildingInsideMonumentDesc>თქვენ ააშენეთ დაუშვებელი შენობა თქვენს ერთ-ერთ ძეგლში. ძეგლი დანგრეულად ჩაითვლება {0}-ში.</DisallowedBuildingInsideMonumentDesc>
+
+  <ActivatorCountdown>Countdown აქტივატორი {0}</ActivatorCountdown>
+  <ActivatorCountdownDesc>არის უკუნთი აქტივატორი, რომელიც ემზადება ახლომდებარე მექანოიდების გასაღვიძებლად.</ActivatorCountdownDesc>
+  <ActivatorCountdownMultiple>{0} countdown აქტივატორები</ActivatorCountdownMultiple>
+  <ActivatorCountdownDescMultiple>არის {0} countdown აქტივატორები, რომლებიც ემზადებიან ახლომდებარე მექანოიდების გასაღვიძებლად.</ActivatorCountdownDescMultiple>
+
+  <QuestExpiresSoon>ქვესტი იწურება {0}-ში</QuestExpiresSoon>
+  <QuestExpiresSoonDesc>ქვესტი '{0}' ამოიწურება {1}-ში.</QuestExpiresSoonDesc>
+
+  <AlertAnimalFilth>ცხოველური სიბინძურე</AlertAnimalFilth>
+  <AlertAnimalFilthDesc>ჭუჭყიანი ცხოველი არის შენობაში სუფთა იატაკზე.\n\nცხოველები წარმოქმნიან ძალიან დიდ სიბინძურეს ნორმალურ სართულებზე გადაადგილებისას. შეინახეთ ჭუჭყიანი ცხოველები ღია ცის ქვეშ, ან ჩალის ხალიჩებზე, სადაც ისინი წარმოქმნიან გაცილებით ნაკლებ სიბინძურეს.\n\nშეგიძლიათ შეამოწმოთ ცხოველის სიბინძურის წარმოების მაჩვენებელი მის სტატისტიკაში ღილაკზე „i“ დაწკაპუნებით.\n\nპრობლემა ამ ცხოველებშია:\n{0}</AlertAnimalFilthDesc>
+
+  <AlertAnimalPenNeeded>საჭიროა კალამი</AlertAnimalPenNeeded>
+  <AlertAnimalPenNeededDesc>ზოგიერთი თქვენი თავმდაბალი ცხოველი მომხიბვლელია. თუ კალმში არ შეინახება ან თოკით არ მიიყვანენ ქარავნის მიჯაჭვულ ადგილას, ისინი გაქრებიან.</AlertAnimalPenNeededDesc>
+  <AlertAnimalPenNeededNoHandlers>თქვენ არ გყავთ დამმუშავებლები ცხოველების კალმზე წასაყვანად.\n\nდაანიშნეთ კოლონისტი Handling სამუშაოს ტიპზე.</AlertAnimalPenNeededNoHandlers>
+  <AlertAnimalPenNeededDescExplanation>შექმენით ცხოველის კალამი კალმის მარკერის შექმნით შემოღობილ, ბარიკადებულ ან კედლიან ტერიტორიაზე. აირჩიეთ კალმის მარკერი, რომ ნახოთ, რომელ ცხოველს იღებს და რამდენს შეუძლია მისი კალმის მხარდაჭერა.\n\nთქვენი ცხოველების დამმუშავებლები ავტომატურად მიიყვანენ ცხოველებს დანიშნულ კალმზე.\n\nკალმს სჭირდება კარი ან კარიბჭე ცხოველების დასაშვებად.</AlertAnimalPenNeededDescExplanation>
+  
+  <AlertAnimalPenNotEnclosed>კალამი არ არის დახურული</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosedDesc>ცხოველების კალმის მარკერი არ არის დახურული.\n\nდახურეთ კალამი ღობეების, ბარიკადების, ჭიშკრების, კედლების ან კარების გამოყენებით, რათა ცხოველები არ გაიქცნენ გარეთ.\n\nთუ თქვენ გაქვთ მხოლოდ დაუხურავი კალმის მარკერები, თქვენს მფლობელებს შეუძლიათ კვლავ მიიყვანონ მოხეტიალე ცხოველები სახლში - მაგრამ ეს უნდა განმეორდეს დროდადრო, როდესაც ცხოველები კვლავ გაიქცნენ.</AlertAnimalPenNotEnclosedDesc>
+
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} ცხოველთა კალამში</AlertPredatorInAnimalPen>
+  <AlertPredatorInAnimalPenDesc>მტაცებელი {ANIMAL_labelShort} ცხოველთა კალამში გადაირია.\n\nშეიძლება გადაწყვიტოს თქვენს ცხოველებზე ნადირობა.\n\nშეგიძლიათ მოკლათ, ან დაელოდოთ და იმედი გქონდეთ, რომ წავა.</AlertPredatorInAnimalPenDesc>
+
+  <AlertAnimalIsRoaming>მოშორებით მოხეტიალე ცხოველი</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoamingDesc>ზოგიერთი თქვენი თავმდაბალი ცხოველი მომხიბვლელია და დაიწყო ხეტიალი. თუ ისინი მიაღწევენ რუკის ზღვარს, ისინი საბოლოოდ დატოვებენ.\n\nთუ თქვენ გაქვთ დახურული ცხოველის კალამი, თქვენს ცხოველებს შეუძლიათ დააბრუნონ ცხოველი. ცხოველების კალამში ცხოველები არ ტრიალებენ.\n\nშემდეგი ცხოველები ტრიალებენ:\n{0}</AlertAnimalIsRoamingDesc>
+
+  <AlertPennedAnimalHungry>მშიერი კალმის ცხოველები</AlertPennedAnimalHungry>
+  <AlertPennedAnimalHungryDesc>თქვენს ზოგიერთ ცხოველს შია.\n\nაირჩიეთ კალმის მარკერი და გამოიყენეთ ჩანართი საკვები მეტი დეტალის სანახავად.\n\nბალახისმჭამელ ცხოველებს შეიძლება დასჭირდეთ უფრო დიდი კალამი საკმარისი ბალახის მოსაწოდებლად. სხვა ცხოველებს შეიძლება დასჭირდეთ თივის ბალახის ან მსგავსი საკვების მიწოდება მარაგის გამოყენებით.\n\nშემდეგი შემოსილი ცხოველები მშივრები არიან:\n{0}</AlertPennedAnimalHungryDesc>
+
+  <AlertHitchedAnimalHungryNoFood>მშიერი ცხოველი</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFoodDesc>ზოგიერთი ცხოველი, რომელიც მიჯაჭვულ ადგილებზეა მიბმული, მშიერია. შეიძლება მათ ხელმისაწვდომობაში არ იყოს შესაფერისი საკვები.\n\nმიიტანეთ საკვები, ან ამოიღეთ მიჯაჭვული ადგილი, რათა დამოუკიდებლად იპოვონ საჭმელი.\n\nშემდეგი მოჯადოებული ცხოველები მშივრები არიან:\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
+
+  <AlertTimedRaidsArrivingIn>რეიდები შემოდის {0}-ში</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingInDesc>მტრები მიიზიდეს შემდეგ საიტებზე და მალე დაიწყებენ ძალაში მოსვლას.\n\n{0}</AlertTimedRaidsArrivingInDesc>
+  <AlertTimedRaidsArrivingAt>{0}-ზე ჩამოსვლა {1}-ში</AlertTimedRaidsArrivingAt>
+
+  <FactionWillBecomeHostileIfNotLeavingWithin>თუ დარჩებით, ფრაქცია მტრულად განწყობილი გახდება</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithinDesc>ეს ფრაქციები მტრულად განწყობილნი იქნებიან, თუ უფრო დიდხანს დარჩებით მათ დასახლებაში ან ფორპოსტში:\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
+
+  <AlertMinifiedTreeAboutToDie>{0} ხეები კვდებიან</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDieDesc>{0} მოპოვებული ხეები კვდება დღეზე ნაკლები. ეს ზოგიერთ კოლონისტს გააუბედურებს მათი რწმენის გამო.\n\nამას თავიდან აიცილებთ ამ ხეების ხელახლა დარგვით.</AlertMinifiedTreeAboutToDieDesc>
+
+  <NeedResearchBench>საჭიროა კვლევის სკამი</NeedResearchBench>
+  <NeedResearchBenchDesc>თქვენ გაქვთ აქტიური კვლევითი პროექტი "{0}". ეს პროექტი მოითხოვს თქვენ შექმნათ {1}.</NeedResearchBenchDesc>
+  
+</LanguageData>

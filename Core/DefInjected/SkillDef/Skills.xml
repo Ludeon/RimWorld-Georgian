@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Animals.description>ცხოველების მოთვინიერება, წვრთნა და კონტროლი.</Animals.description>
+  <Animals.skillLabel>ცხოველები</Animals.skillLabel>
+  <Artistic.description>ხელნაკეთი ხელოვნება.</Artistic.description>
+  <Artistic.skillLabel>მხატვრული</Artistic.skillLabel>
+  <Construction.description>კონსტრუქციების და ავეჯის მშენებლობა და დეკონსტრუქცია.</Construction.description>
+  <Construction.skillLabel>მშენებლობა</Construction.skillLabel>
+  <Cooking.description>საკვების შექმნა ნედლეულისგან სწრაფად და შემთხვევითი საკვები მოწამვლის გარეშე.</Cooking.description>
+  <Cooking.skillLabel>სამზარეულო</Cooking.skillLabel>
+  <Crafting.description>ზოგადი ნივთების დამზადება, მათ შორის იარაღი, კომპონენტები და დახვეწილი რესურსები.</Crafting.description>
+  <Crafting.skillLabel>ხელოსნობა</Crafting.skillLabel>
+  <Intellectual.description>კვლევა და ნარკოტიკების სინთეზი.</Intellectual.description>
+  <Intellectual.skillLabel>ინტელექტუალური</Intellectual.skillLabel>
+  <Medicine.description>ჭრილობების და დაავადებების მკურნალობა და ქირურგიული ჩარევა.</Medicine.description>
+  <Medicine.skillLabel>სამედიცინო</Medicine.skillLabel>
+  <Melee.description>ახლო ბრძოლა, როგორც იარაღით, ისე უიარაღოდ.</Melee.description>
+  <Melee.skillLabel>ახლო ბრძოლა</Melee.skillLabel>
+  <Mining.description>გვირაბების გათხრა და ჩამარხული რესურსების მოპოვება.</Mining.description>
+  <Mining.skillLabel>სამთო მოპოვება</Mining.skillLabel>
+  <Plants.description>თესვა, მოვლა და მოსავლის აღება და საკვების მოძიება მოგზაურობისას.</Plants.description>
+  <Plants.skillLabel>მცენარეები</Plants.skillLabel>
+  <Shooting.description>დისტანციური ბრძოლა, როგორც მაღალტექნოლოგიური, ასევე დაბალტექნოლოგიური იარაღით.</Shooting.description>
+  <Shooting.skillLabel>სროლა</Shooting.skillLabel>
+  <Social.description>მოლაპარაკება, დარწმუნება, მანიპულირება, ხელმძღვანელობა და სხვების გახარება.</Social.description>
+  <Social.skillLabel>სოციალური</Social.skillLabel>
+</LanguageData>

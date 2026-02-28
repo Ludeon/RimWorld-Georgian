@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Artillery_Mortar.description>ნაღმტყორცნების გამშვები. ლობებს ბომბებს კედლებზე. ძალიან არაზუსტი, მაგრამ გრძელვადიანი.</Artillery_Mortar.description>
+  <Artillery_Mortar.label>ნაღმტყორცნები</Artillery_Mortar.label>
+  <Bullet_AutocannonTurret.label>ავტოქვემეხის ჭურვი</Bullet_AutocannonTurret.label>
+  <Bullet_MiniTurret.label>მინი კოშკის ტყვია</Bullet_MiniTurret.label>
+  <Bullet_TurretSniper.label>ურანის შლაპა</Bullet_TurretSniper.label>
+  <Gun_AutocannonTurret.description>თვითდამტენი დიდი ჭავლი, რომელიც შექმნილია კოშკზე დასამაგრებლად.</Gun_AutocannonTurret.description>
+  <Gun_AutocannonTurret.label>ავტოკანონი</Gun_AutocannonTurret.label>
+  <Gun_MiniTurret.description>მარტივი ავტომატური იარაღი, რომელიც დამზადებულია კოშკზე დასამაგრებლად.</Gun_MiniTurret.description>
+  <Gun_MiniTurret.label>მინი კოშკურის იარაღი</Gun_MiniTurret.label>
+  <Gun_RocketswarmLauncher.description>რაკეტების თბილი მილი, როგორც წესი, დამონტაჟებულია რაკეტების გამტარ კოშკზე.</Gun_RocketswarmLauncher.description>
+  <Gun_RocketswarmLauncher.label>რაკეტების თბილი მილი</Gun_RocketswarmLauncher.label>
+  <Gun_TurretFoam.description>მაღალი წნევის ქაფის გამფრქვევი, რომელიც ჩვეულებრივ დამონტაჟებულია კოშკზე.</Gun_TurretFoam.description>
+  <Gun_TurretFoam.label>ქაფის გამფრქვევი</Gun_TurretFoam.label>
+  <Gun_TurretSniper.description>თვითდამტენი ურანის შლაპა ქვემეხი, რომელიც შექმნილია კოშკზე დასამაგრებლად.</Gun_TurretSniper.description>
+  <Gun_TurretSniper.label>ურანის შლაკების ქვემეხი</Gun_TurretSniper.label>
+  <Proj_Foam.label>ქაფი</Proj_Foam.label>
+  <Proj_Rocket.label>რაკეტა</Proj_Rocket.label>
+  <Turret_Autocannon.description>მძიმე ავტომატური კოშკი. მისი დიდი კალიბრის ჭურვები დიდ ზიანს აყენებს მნიშვნელოვან დიაპაზონში, მაგრამ მისი ლულა უნდა განახლდეს გამოყენების შემდეგ. მას არ შეუძლია სროლა ახლო მიზნებზე და შეიძლება აფეთქდეს დაზიანებისას.</Turret_Autocannon.description>
+  <Turret_Autocannon.label>ავტოქვემეხის კოშკი</Turret_Autocannon.label>
+  <Turret_FoamTurret.description>გააქტიურებადი კოშკი ხანძრის ჩასაქრობად. კოშკი უმოქმედოდ დგას მანამ, სანამ ვინმე არ მიუახლოვდება და არ ააქტიურებს მას, რის შემდეგაც ის ავტომატურად შეასხურებს დიდი რაოდენობით ქაფს ნებისმიერ ცეცხლზე.</Turret_FoamTurret.description>
+  <Turret_FoamTurret.label>ქაფის კოშკი</Turret_FoamTurret.label>
+  <Turret_MiniTurret.description>პორტატული ავტომატური კოშკი. მოითხოვს ფოლადი ლულის განახლებისთვის მძიმე გამოყენების შემდეგ. დაზიანებისას შეიძლება აფეთქდეს. მისი მუნჯი ხელოვნური ინტელექტის ტვინი პირდაპირ ვერ კონტროლდება, ამიტომ უფრთხილდით მეგობრულ ცეცხლს.</Turret_MiniTurret.description>
+  <Turret_MiniTurret.label>მინი კოშკი</Turret_MiniTurret.label>
+  <Turret_Mortar.description>პილოტირებული ნაღმტყორცნები, რომელიც ყველა სახის ჭურვებს ისვრის. მიუხედავად იმისა, რომ მას შეუძლია დამანგრეველი ზიანი მიაყენოს, ნაღმტყორცნების თანდაყოლილი უზუსტობა მას უფრო სასარგებლოს ხდის დიდ სიმაგრეებზე თავდასხმისთვის, ვიდრე მტრების ჯგუფები მინდორში.</Turret_Mortar.description>
+  <Turret_Mortar.label>ნაღმტყორცნები</Turret_Mortar.label>
+  <Turret_RocketswarmLauncher.description>საგანგებო-თავდაცვითი გამშვები, რომელიც ისვრის რაკეტების ერთ ნაკადს, რომელიც მოიცავს დიდ ტერიტორიას. კოშკი არ ისვრის მანამ, სანამ ვინმე არ გაააქტიურებს მას. ის ძალიან ეფექტურია სუსტი მებრძოლების დიდი ჯგუფების წინააღმდეგ, მაგრამ ნაკლებად ეფექტურია მცირე რაოდენობის ჯავშანტექნიკის წინააღმდეგ. გასროლის შემდეგ ის საათობით უნდა გაცივდეს და ხელახლა ჩაიტვირთოს ცეცხლზე.</Turret_RocketswarmLauncher.description>
+  <Turret_RocketswarmLauncher.label>რაკეტების თბილი გამშვები</Turret_RocketswarmLauncher.label>
+  <Turret_Sniper.description>ჯავშანსატანკო კოშკი. მის ულტრა მკვრივი ურანის ჭურვებს შეუძლია მძიმე ჯავშანტექნიკის გაჭრა, მაგრამ გამოყენების შემდეგ საჭიროა ახალი ურანის შლაკების ჩატვირთვა. ის უფრო ზუსტია უფრო დიდ დიაპაზონში და საერთოდ არ შეუძლია სროლა ახლოდან. დაზიანებისას შეიძლება აფეთქდეს.</Turret_Sniper.description>
+  <Turret_Sniper.label>ურანის შლაპა კოშკი</Turret_Sniper.label>
+</LanguageData>

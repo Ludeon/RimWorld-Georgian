@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <NeedSlaveBeds>საჭიროა მონების საწოლი</NeedSlaveBeds>
+  <NeedSlaveBedsDesc>უფრო მეტი მონა გყავს, ვიდრე მონების საწოლი. ვინმეს დასაძინებელი ადგილი აკლია.\n\nან მეტი საწოლები გაასწორეთ, ან კოლონისტის ან პატიმრის საწოლი მონების საწოლით შეცვალეთ.\n\nთუ რესურსი არ გაქვთ, საძილე ადგილები უფასოა და შეიძლება მყისიერად განთავსდეს.</NeedSlaveBedsDesc>
+
+  <SlavesUnsuppressedLabel>მონა დათრგუნული</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedDesc>{0_nameDef}-ის ჩახშობის დონე სახიფათოდ დაბალია. არსებობს კარგი შანსი, რომ {0_pronoun} აჯანყდეს.\n\nდარწმუნდით, რომ არსებობს კოლონისტი, რომელიც დავალებულია მფარველად. მცველები პერიოდულად თრგუნავენ მონებს, რათა მათ აჯანყება შეაჩერონ.</SlavesUnsuppressedDesc>
+  <SlaveUnattendedLabel>მონა უპატრონოდ</SlaveUnattendedLabel>
+  <SlaveUnattendedMultipleLabel>მონები უპატრონოდ</SlaveUnattendedMultipleLabel>
+  <SlavesUnattendedDesc>ზოგიერთი მონა მარტოა რუკაზე, გარეშე შრომისუნარიანი კოლონისტები.\n\nასეთი უყურადღებოდ დატოვებული მონა დიდი ალბათობით აჯანყდებიან რამდენიმე დღეში ან საათში.</SlavesUnattendedDesc>
+
+  <RitualOpportunity>{0} შესაძლებლობა</RitualOpportunity>
+  <RitualOpportunityFor>{0} შესაძლებლობა {1}-ისთვის</RitualOpportunityFor>
+  <RitualExpiresIn>ვადა იწურება {0}-ში, {1}-ში.</RitualExpiresIn>
+  <RitualSingleTargetDesc>რიტუალის დასაწყებად აირჩიეთ {FOCUS} და დააწკაპუნეთ ბრძანებაზე 'Begin {RITUAL_label}'.</RitualSingleTargetDesc>
+  <RitualMultiTargetDesc>რიტუალის დასაწყებად, აირჩიეთ ერთ-ერთი შემდეგი და დააწკაპუნეთ ბრძანებაზე 'Begin {RITUAL_label}'</RitualMultiTargetDesc>
+  <RitualTargetsExplanation>რიტუალის დასაწყებად აირჩიეთ ფოკუსის ობიექტი და დააწკაპუნეთ ბრძანებაზე „დაწყება {RITUAL_label}“. შემდეგი არის სწორი ფოკუსირების ობიექტები:\n{1}</RitualTargetsExplanation>
+  <RitualJumpToTargets>დააწკაპუნეთ მიზნებზე გადასასვლელად</RitualJumpToTargets>
+  <RitualUnfilledRoles>{0}-ის შესასრულებლად თქვენ უნდა შეავსოთ ეს როლები</RitualUnfilledRoles>
+
+  <IdeoBuildingMissing>{0} სასურველია</IdeoBuildingMissing>
+  <IdeoBuildingMissingDesc>{IDEO_name} მოითხოვს {0} კოლონიაში, სანამ {2} ან უფრო მეტი.
+
+{0} არის {BASEBUILDING_label}-ის ვარიანტი.{BUILDINGINFO}
+
+ეს მოთხოვნა მოქმედებს მხოლოდ მაშინ, თუ {IDEO_name} თქვენი ფრაქციის მთავარი იდეოლოგიაა, ან {MINBELIEVERS} მორწმუნე ჰყავს.{4}
+
+თუ მოთხოვნა არ სრულდება, ეს მორწმუნეები უკმაყოფილო გახდებიან:
+{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingArchitectTabDesc>მისი პოვნა შეგიძლიათ architect მენიუს "{TABNAME}" ჩანართის გახსნით.</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingCanBeCraftedAt>ის შეიძლება შეიქმნას მისამართზე:\n{0}.</IdeoBuildingCanBeCraftedAt>
+  <IdeoBuildingRoomRequirementsDesc>{0}-ის ღირსების მიზნით, ოთახის ეს მოთხოვნები უნდა დაკმაყოფილდეს</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingExpectations>მოლოდინი არის</IdeoBuildingExpectations>
+
+  <IdeoBuildingDisrespected>{0} უპატივცემულო</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespectedDesc>{0} მოითხოვს, რომ {1} იყოს ღირსეულ ოთახში. ოთახის ეს მოთხოვნები უნდა დაკმაყოფილდეს:\n{2}\n\nთუ {1}-ის ოთახის მოთხოვნები არ დაკმაყოფილდება, ეს მორწმუნეები გახდებიან უბედურები:\n{3}</IdeoBuildingDisrespectedDesc>
+  
+  <QuestPartRaidsDelay>რეიდები შემოდის {0}-ში</QuestPartRaidsDelay>
+  <QuestPartRaidsDelayDesc>რეიდები დაიწყებენ ჩამოსვლას {0}-ში.\n\nრაიდერები მიზანში დაუმიზნებენ სფეისდრონს და შეეცდებიან მის განადგურებას. დაიცავით სფეისდრონი, რათა თქვენმა კოლონისტებმა შეძლონ მისი კომპიუტერის გატეხვა და მონაცემების მოძიება.</QuestPartRaidsDelayDesc>
+
+  <IdeoRoleEmpty>{0} როლი შეუსრულებელია</IdeoRoleEmpty>
+  <IdeoRolesEmpty>{0} როლები შეუვსებელია</IdeoRolesEmpty>
+  <IdeoRolesEmptyDesc>ეს როლები არ არის შევსებული:\n{0}\n\nშეგიძლიათ ვინმეს მიანიჭოთ როლი მის სოციალურ ჩანართზე. თქვენ ასევე შეგიძლიათ აირჩიოთ რიტუალური ადგილი ან საკურთხეველი და დააწკაპუნოთ 'დაიწყეთ როლის შეცვლა'. \n\nთუ ეს როლები ცარიელი დარჩება, შემდეგი ადამიანები უკმაყოფილო იქნებიან</IdeoRolesEmptyDesc>
+
+  <AncientAltarThreatsWaking>უსაფრთხოების საფრთხეები გააქტიურებულია {0}-ში</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWakingDesc>უსაფრთხოების საფრთხეები გააქტიურდება {0}-ში. ისინი თავს დაესხმებიან ნებისმიერს, ვინც შეიძლება დაემუქროს რელიქვიას.</AncientAltarThreatsWakingDesc>
+
+  <AlertRitualComing>რიტუალის შესაძლებლობა მალე</AlertRitualComing>
+  <AlertRitualComingDesc>რიტუალური შესაძლებლობა მალე მოვა რიტუალების შემდეგ</AlertRitualComingDesc>
+  <AlertRitualComingExtra>შესაძლებლობები იწურება {0} დღის შემდეგ და მეორდება ყოველწლიურად ერთსა და იმავე დღეს.</AlertRitualComingExtra>
+  <AlertRitualComingEntry>{0} {1}-ზე, {2} სანამ შესაძლებლობა გაჩნდება</AlertRitualComingEntry>
+
+  <AlertAgeReversalDemandNear>ასაკის შეცვლა მოითხოვა</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandDesc>მათი რწმენის გამო, თქვენი ზოგიერთი კოლონისტი მოითხოვს რეგულარულ რეგულარულ მკურნალობას ასაკის შეცვლას ბიოსკულპტერის პარკში. თუ ისინი არ გაივლიან მკურნალობას, უკმაყოფილონი დარჩებიან.\n\nშემდეგი ადამიანები ასაკის შებრუნების მკურნალობას ითხოვენ</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN} ახლახან შეუერთდა {FACTION}-ს და სურს დაიწყოს ასაკის შებრუნების მკურნალობა {DURATION}-ში.</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Next>{PAWN}-ს სურს მათი შემდეგი მკურნალობა {DURATION}-ში.</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN}-ს სურს მათი პირველი მკურნალობა {DURATION}-ში.</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN}-ის მკურნალობა ვადაგადაცილებულია {DURATION}-ით.</AlertAgeReversalDemandDesc_Overdue>
+
+  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef}-ის რწმენა {IDEO_name}-ში ხელს უშლის {PAWN_objective}-ს {ANIMALS}-ის ხორცის ჭამა.</AlertRoyalTitleNoVeneratedAnimalMeat>
+
+  <AlertGauranlenTreeWithoutDryadTypeLabel>დრიადის კასტა არ არის დადგენილი</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>Gauranlen-ის ერთ ან მეტ ხეს არ აქვს თავისი დრიადის კასტა.\n\nაირჩიეთ ხე და დააწკაპუნეთ ღილაკზე „{0}“ წარმოებული დრიადის კასტას დასაყენებლად.</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>კონექტორი არ არის მინიჭებული მცენარის ჭრისთვის</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>თქვენ გაქვთ Gauranlen-ის ხეები, რომლებიც დაყენებულია მოსასხვრელად, მაგრამ მათი დამაკავშირებელი არ არის მინიჭებული მცენარის მოჭრაზე.\n\nმცენარის მოჭრის სამუშაოები უნდა დაავალოთ შემდეგ ადამიანებს</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+  <AlertFuelNodeIgniting>საწვავის კვანძი ფეთქდება {0}-ში</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgnitingDesc>საწვავის კვანძი აალდა! ის ძალიან მალე დნება და აფეთქდება.\n\nმოშორდით და მოემზადეთ საბრძოლველად ან ხანძრებისგან თავის დასაღწევად.</AlertFuelNodeIgnitingDesc>
+
+  <AlertInfestationArriving>{0}-ში ჩამოსული მწერები</AlertInfestationArriving>
+  <AlertInfestationArrivingDesc>გიგანტურმა მწერებმა შეიგრძნეს თქვენი აქტივობა და მიწისქვეშეთიდან იჭრებიან თავდასხმისთვის. ინვაზიები დაიწყება.</AlertInfestationArrivingDesc>
+
+  <AlertHostilesWakingUp>{0_pawnsPlural} იღვიძებს {1}-ში</AlertHostilesWakingUp>
+  <AlertHostilesWakingUpDesc>ერთი ან მეტი {0_pawnsPlural} იღვიძებს.\n\nისინი თავს დაესხმებიან, თუ გიპოვიან.</AlertHostilesWakingUpDesc>
+
+  <AlertCasketOpening>Cryptosleep ყუთები გახსნილია {0}-ში</AlertCasketOpening>
+  <AlertCasketOpeningDesc>კრიპტოძილის ყუთები უცნობი საფრთხეების შემცველი მალე გაიხსნება.</AlertCasketOpeningDesc>
+
+  <AlertSlaveRebellionLikely>მოსალოდნელია მონათა აჯანყება</AlertSlaveRebellionLikely>
+  <AlertSlaveRebellionLikelyRebelliousCount>არსებობს {REBELLIOUSCOUNT} მონები, რომლებიც სავარაუდოდ აჯანყებას წამოიწყებენ.</AlertSlaveRebellionLikelyRebelliousCount>
+  <AlertSlaveRebellionLikelyMostRebellious>მოსალოდნელია, რომ მონათა აჯანყება მოხდება დაახლოებით ყოველ {COMBINEDTIME}-ში ერთხელ. გაითვალისწინეთ, რომ თითოეული მონის აჯანყების შანსი დამოუკიდებელია, ასე რომ, თუ რომელიმე მათგანი აჯანყდება, შეუძლია სხვებიც წაიყვანოს.\n\n{REBEL_labelShort} ყველაზე მეამბოხე მონაა და სავარაუდოდ, ყოველ {INDIVIDUALTIME}-ში ერთხელ დაიწყებს აჯანყებას. შემდეგი ფაქტორები გავლენას ახდენს იმაზე, თუ რამდენად ხშირად აჯანყდებიან ისინი:</AlertSlaveRebellionLikelyMostRebellious>
+  
+</LanguageData>

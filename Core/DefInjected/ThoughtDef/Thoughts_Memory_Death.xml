@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BondedAnimalDied.stages.0.description>ასეთი ნაზი, უნიკალური ცხოველია. ეს სამყარო ბოროტია!</BondedAnimalDied.stages.0.description>
+  <BondedAnimalDied.stages.0.label>შეკრული ცხოველი {0} გარდაიცვალა</BondedAnimalDied.stages.0.label>
+  <KnowColonistDied.stages.0.description>ერთი ჩვენი მოკვდა. ჩვენ უნდა შევძლოთ ჩვენს ხალხზე ზრუნვა.</KnowColonistDied.stages.0.description>
+  <KnowColonistDied.stages.0.label>კოლონისტი გარდაიცვალა</KnowColonistDied.stages.0.label>
+  <KnowColonistExecuted.stages.0.description>დამნაშავე კოლონისტი სიკვდილით დასაჯეს. გამართლებული იყო, მაგრამ მაინც სამწუხარო.</KnowColonistExecuted.stages.0.description>
+  <KnowColonistExecuted.stages.0.label>კოლონისტის გამართლებული სიკვდილით დასჯა</KnowColonistExecuted.stages.0.label>
+  <KnowColonistExecuted.stages.1.description>კოლონისტს ევთანაზია ჩაუტარდა. ეს იყო ადამიანური, მაგრამ მაინც სამწუხარო.</KnowColonistExecuted.stages.1.description>
+  <KnowColonistExecuted.stages.1.label>კოლონისტმა ევთანაზია მოახდინა</KnowColonistExecuted.stages.1.label>
+  <KnowColonistExecuted.stages.2.description>ცივი სისხლით მოკლეს კოლონისტი. ცოტა ბოროტი ჩანდა.</KnowColonistExecuted.stages.2.description>
+  <KnowColonistExecuted.stages.2.label>კოლონისტი დახვრიტეს</KnowColonistExecuted.stages.2.label>
+  <KnowColonistExecuted.stages.3.description>კოლონისტი გარდაიცვალა იმის გამო, რომ ვიღაცამ მათ სხეულის ნაწილები წაართვა. საშინელებაა.</KnowColonistExecuted.stages.3.description>
+  <KnowColonistExecuted.stages.3.label>კოლონისტის ორგანოს მოსავალი</KnowColonistExecuted.stages.3.label>
+  <KnowColonistExecuted.stages.4.description>ჩვენს რიპსკანერში კოლონისტი გარდაიცვალა. მათი ტვინი დაიწვა აპარატის გამოსაკვებად. საშინელებაა.</KnowColonistExecuted.stages.4.description>
+  <KnowColonistExecuted.stages.4.label>კოლონისტი ripscanned</KnowColonistExecuted.stages.4.label>
+  <KnowGuestExecuted.stages.0.description>დამნაშავე პატიმარი ან სტუმარი სიკვდილით დასაჯეს. გამართლებული იყო, მაგრამ მაინც სამწუხარო.</KnowGuestExecuted.stages.0.description>
+  <KnowGuestExecuted.stages.0.label>გამართლებული აღსრულება</KnowGuestExecuted.stages.0.label>
+  <KnowGuestExecuted.stages.1.description>პატიმარს ან სტუმარს ევთანაზია გაუკეთეს. ეს იყო ადამიანური, მაგრამ მაინც სამწუხარო.</KnowGuestExecuted.stages.1.description>
+  <KnowGuestExecuted.stages.1.label>ვიღაცას ევთანაზია ჩაუტარდა</KnowGuestExecuted.stages.1.label>
+  <KnowGuestExecuted.stages.2.description>ცივსისხლიანად მოკლეს პატიმარი ან სტუმარი. ცოტა ბოროტი ჩანდა.</KnowGuestExecuted.stages.2.description>
+  <KnowGuestExecuted.stages.2.label>ვიღაც დახვრიტეს</KnowGuestExecuted.stages.2.label>
+  <KnowGuestExecuted.stages.3.description>პატიმარი ან სტუმარი გარდაიცვალა, რადგან კოლონიამ მათ სხეულის ნაწილები წაართვა. საშინელებაა.</KnowGuestExecuted.stages.3.description>
+  <KnowGuestExecuted.stages.3.label>ვიღაც ორგანოებით მოკლეს</KnowGuestExecuted.stages.3.label>
+  <KnowGuestExecuted.stages.4.description>ჩვენს რიპსკანერში პატიმარი გარდაიცვალა. მათი ტვინი დაიწვა აპარატის გამოსაკვებად. საშინელებაა.</KnowGuestExecuted.stages.4.description>
+  <KnowGuestExecuted.stages.4.label>ვიღაცას გაუსწორდა</KnowGuestExecuted.stages.4.label>
+  <KnowPrisonerDiedInnocent.stages.0.description>ჩვენი ერთ-ერთი პატიმარი გარდაიცვალა, მიუხედავად იმისა, რომ უვნებელია. ჩვენ უნდა შევძლოთ ჩვენს პატიმრებზე ზრუნვა. მათი სიკვდილი რომ გვინდოდეს, შეგვეძლო მაინც ჩაგვეტარებინა მოწესრიგებული სიკვდილით დასჯა, ვიდრე ამ ბარბაროსობის დაშვება.</KnowPrisonerDiedInnocent.stages.0.description>
+  <KnowPrisonerDiedInnocent.stages.0.label>უდანაშაულო პატიმარი გარდაიცვალა</KnowPrisonerDiedInnocent.stages.0.label>
+  <MyAuntDied.stages.0.description>მამიდა გარდაიცვალა.</MyAuntDied.stages.0.description>
+  <MyAuntDied.stages.0.label>მამიდა {0} გარდაიცვალა</MyAuntDied.stages.0.label>
+  <MyBrotherDied.stages.0.description>ჩემი ძმა გარდაიცვალა. ჩემი სისხლი და ხორცი...</MyBrotherDied.stages.0.description>
+  <MyBrotherDied.stages.0.label>ჩემი ძმა {0} გარდაიცვალა</MyBrotherDied.stages.0.label>
+  <MyCousinDied.stages.0.description>ჩემი ბიძაშვილი გარდაიცვალა. ჩემი სისხლი და ხორცი...</MyCousinDied.stages.0.description>
+  <MyCousinDied.stages.0.label>ჩემი ბიძაშვილი {0} გარდაიცვალა</MyCousinDied.stages.0.label>
+  <MyDaughterDied.stages.0.description>ჩემი ქალიშვილი მკვდარია. ჩემი სისხლი და ხორცი...</MyDaughterDied.stages.0.description>
+  <MyDaughterDied.stages.0.label>ჩემი ქალიშვილი {0} გარდაიცვალა</MyDaughterDied.stages.0.label>
+  <MyFatherDied.stages.0.description>მამაჩემი გარდაიცვალა. ის სამუდამოდ წავიდა.</MyFatherDied.stages.0.description>
+  <MyFatherDied.stages.0.label>მამაჩემი {0} გარდაიცვალა</MyFatherDied.stages.0.label>
+  <MyFianceDied.stages.0.description>ჩემი საქმრო გარდაიცვალა. ასეთი კაცი... ჩემი მომავალი წავიდა.</MyFianceDied.stages.0.description>
+  <MyFianceDied.stages.0.label>ჩემი საქმრო {0} გარდაიცვალა</MyFianceDied.stages.0.label>
+  <MyFianceeDied.stages.0.description>ჩემი საცოლე გარდაიცვალა. ასეთი ქალი... ჩემი მომავალი წავიდა.</MyFianceeDied.stages.0.description>
+  <MyFianceeDied.stages.0.label>ჩემი საცოლე {0} გარდაიცვალა</MyFianceeDied.stages.0.label>
+  <MyGrandchildDied.stages.0.description>ჩემი შვილიშვილი გარდაიცვალა. ჩემი სისხლი და ხორცი...</MyGrandchildDied.stages.0.description>
+  <MyGrandchildDied.stages.0.label>ჩემი შვილიშვილი {0} გარდაიცვალა</MyGrandchildDied.stages.0.label>
+  <MyGrandparentDied.stages.0.description>ჩემი ბებია და ბაბუა გარდაიცვალა.</MyGrandparentDied.stages.0.description>
+  <MyGrandparentDied.stages.0.label>ჩემი ბებია და ბაბუა {0} გარდაიცვალა</MyGrandparentDied.stages.0.label>
+  <MyHalfSiblingDied.stages.0.description>ჩემი ნახევარძმა გარდაიცვალა. ჩემი სისხლი და ხორცი...</MyHalfSiblingDied.stages.0.description>
+  <MyHalfSiblingDied.stages.0.label>ჩემი ნახევარძმა {0} გარდაიცვალა</MyHalfSiblingDied.stages.0.label>
+  <MyHusbandDied.stages.0.description>ჩემი ქმარი მკვდარია. მარტო ვარ.</MyHusbandDied.stages.0.description>
+  <MyHusbandDied.stages.0.label>ჩემი ქმარი {0} გარდაიცვალა</MyHusbandDied.stages.0.label>
+  <MyKinDied.stages.0.description>ჩემი ნათესავი გარდაიცვალა.</MyKinDied.stages.0.description>
+  <MyKinDied.stages.0.label>ჩემი ნათესავი {0} გარდაიცვალა</MyKinDied.stages.0.label>
+  <MyLoverDied.stages.0.description>ჩემი შეყვარებული გარდაიცვალა. ისე მარტო ვარ.</MyLoverDied.stages.0.description>
+  <MyLoverDied.stages.0.label>ჩემი საყვარელი {0} გარდაიცვალა</MyLoverDied.stages.0.label>
+  <MyMotherDied.stages.0.description>დედაჩემი გარდაიცვალა. ის სამუდამოდ წავიდა.</MyMotherDied.stages.0.description>
+  <MyMotherDied.stages.0.label>დედაჩემი {0} გარდაიცვალა</MyMotherDied.stages.0.label>
+  <MyNephewDied.stages.0.description>ჩემი ძმისშვილი გარდაიცვალა. ასეთი მშვენიერი ბავშვია.</MyNephewDied.stages.0.description>
+  <MyNephewDied.stages.0.label>ჩემი ძმისშვილი {0} გარდაიცვალა</MyNephewDied.stages.0.label>
+  <MyNieceDied.stages.0.description>ჩემი დისშვილი გარდაიცვალა. ასეთი მშვენიერი ბავშვია.</MyNieceDied.stages.0.description>
+  <MyNieceDied.stages.0.label>ჩემი დისშვილი {0} გარდაიცვალა</MyNieceDied.stages.0.label>
+  <MySisterDied.stages.0.description>ჩემი და გარდაიცვალა. ჩემი სისხლი და ხორცი...</MySisterDied.stages.0.description>
+  <MySisterDied.stages.0.label>ჩემი და {0} გარდაიცვალა</MySisterDied.stages.0.label>
+  <MySonDied.stages.0.description>ჩემი შვილი მკვდარია. ჩემი სისხლი და ხორცი...</MySonDied.stages.0.description>
+  <MySonDied.stages.0.label>ჩემი შვილი {0} გარდაიცვალა</MySonDied.stages.0.label>
+  <MyUncleDied.stages.0.description>ბიძაჩემი გარდაიცვალა.</MyUncleDied.stages.0.description>
+  <MyUncleDied.stages.0.label>ბიძაჩემი {0} გარდაიცვალა</MyUncleDied.stages.0.label>
+  <MyWifeDied.stages.0.description>ჩემი ცოლი მკვდარია. მარტო ვარ.</MyWifeDied.stages.0.description>
+  <MyWifeDied.stages.0.label>ჩემი მეუღლე {0} გარდაიცვალა</MyWifeDied.stages.0.label>
+  <PawnWithBadOpinionDied.stages.0.description>ემსახურება მათ სწორად. ყოველ შემთხვევაში, ამ სამყაროში არის სამართალი.</PawnWithBadOpinionDied.stages.0.description>
+  <PawnWithBadOpinionDied.stages.0.label>ჩემი კონკურენტი {0} გარდაიცვალა</PawnWithBadOpinionDied.stages.0.label>
+  <PawnWithGoodOpinionDied.stages.0.description>ასეთი მშვენიერი ადამიანი, სამუდამოდ წასული. სამყარო ყოველდღე ბნელდება.</PawnWithGoodOpinionDied.stages.0.description>
+  <PawnWithGoodOpinionDied.stages.0.label>ჩემი მეგობარი {0} გარდაიცვალა</PawnWithGoodOpinionDied.stages.0.label>
+</LanguageData>

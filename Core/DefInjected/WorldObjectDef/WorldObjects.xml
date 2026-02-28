@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AbandonedCamp.description>მიტოვებული ბანაკი.</AbandonedCamp.description>
+  <AbandonedCamp.label>მიტოვებული ბანაკი</AbandonedCamp.label>
+  <AbandonedSettlement.description>მიტოვებული დასახლება.</AbandonedSettlement.description>
+  <AbandonedSettlement.label>მიტოვებული დასახლება</AbandonedSettlement.label>
+  <AttackedNonPlayerCaravan.description>თავდასხმის ქვეშ მყოფი ქარავანი.</AttackedNonPlayerCaravan.description>
+  <AttackedNonPlayerCaravan.label>თავს დაესხა ქარავანს</AttackedNonPlayerCaravan.label>
+  <Camp.description>აქ დროებით ქარავანი დაბანაკდა.</Camp.description>
+  <Camp.label>ბანაკი</Camp.label>
+  <Caravan.description>მოგზაურთა ჯგუფი.</Caravan.description>
+  <Caravan.label>ქარავანი</Caravan.label>
+  <DestroyedSettlement.description>დანგრეული დასახლება.</DestroyedSettlement.description>
+  <DestroyedSettlement.label>დანგრეული დასახლება</DestroyedSettlement.label>
+  <EscapeShip.description>ფარული გემის მდებარეობა, რომელიც დაგეხმარებათ პლანეტისგან თავის დაღწევაში.</EscapeShip.description>
+  <EscapeShip.label>დაეშვა გემი</EscapeShip.label>
+  <PeaceTalks.description>სამშვიდობო მოლაპარაკებებისთვის განკუთვნილი ადგილი.</PeaceTalks.description>
+  <PeaceTalks.label>სამშვიდობო მოლაპარაკებები</PeaceTalks.label>
+  <PocketMap.label>ჯიბის რუკა</PocketMap.label>
+  <RoutePlannerWaypoint.description>დროებითი გზა.</RoutePlannerWaypoint.description>
+  <RoutePlannerWaypoint.label>გზის წერტილი</RoutePlannerWaypoint.label>
+  <Settlement.description>ერთ-ერთი ფრაქციის ბაზა.</Settlement.description>
+  <Settlement.label>დასახლება</Settlement.label>
+  <Site.label>საიტი</Site.label>
+  <TravellingTransporters.description>სატრანსპორტო რგოლები ფრენისას.</TravellingTransporters.description>
+  <TravellingTransporters.label>სატრანსპორტო ბალიშები</TravellingTransporters.label>
+</LanguageData>

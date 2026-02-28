@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <CommandForbid>აკრძალვა</CommandForbid>
+  <CommandAllow>დაშვება</CommandAllow>
+  <CommandForbiddenDesc>აკრძალულია: თქვენს კოლონისტებს ამის უფლება არ აქვთ. დააწკაპუნეთ დასაშვებად.</CommandForbiddenDesc>
+  <CommandNotForbiddenDesc>ნებადართულია: თქვენს კოლონისტებს უფლება აქვთ დაუკავშირდნენ ამას. დააწკაპუნეთ აკრძალვაზე.</CommandNotForbiddenDesc>
+
+  
+  <CommandTogglePowerLabel>დენის გადართვა</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>დენის გადართვა.</CommandTogglePowerDesc>
+  
+  <CommandDesignateTogglePowerLabel>დანიშნეთ გადართვის ძალა</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>დანიშნეთ ეს ნივთი ისე, რომ დენის გადართვა ჰქონდეს. მალე მოვა კოლონისტი, რომელიც გადამრთველს გადასცემს.</CommandDesignateTogglePowerDesc>
+  
+  <CommandTryReconnectLabel>ხელახლა დაკავშირება</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>სცადეთ დაკავშირება სხვა კვების ქსელთან ჩემი კავშირის რადიუსში. ეს სასარგებლოა იმ შემთხვევაში, თუ მე ვარ დაკავშირებული უმოძრაო ქსელთან, მაგრამ იქვე არის ელექტრო ქსელი.</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>ადგილის შეგროვება</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>აქტიური - კოლონისტები შეიკრიბებიან ამ ობიექტის გარშემო.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>არააქტიური - კოლონისტები არ შეიკრიბებიან ამ ობიექტის გარშემო.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <CommandDraftLabel>ჯარი</CommandDraftLabel>
+  <CommandUndraftLabel>განიარაღება</CommandUndraftLabel>
+  <CommandToggleDraftDesc>გადართეთ სამხედრო გაწვევა.\n\nგაწვეული ადამიანები იღებენ ბრძანებებს და იბრძვიან. ისინი არ იმუშავებენ, არ ჭამენ და არ დაისვენებენ.</CommandToggleDraftDesc>
+  <IsIncapped>{1_labelShort} სიარული არ შეუძლია.</IsIncapped>
+  <ParticipatingInRitual>{0_labelShort} მონაწილეობს {1}-ში.</ParticipatingInRitual>
+
+  <CommandFireAtWillLabel>ცეცხლი სურვილისამებრ</CommandFireAtWillLabel>
+  <CommandFireAtWillDesc>გადართეთ ცეცხლი სურვილისამებრ.\n\nროცა გამორთულია, ეს პერსონაჟი ავტომატურად არ ისვრება დისტანციურ სამიზნეებზე. არ ახდენს გავლენას მელეის ბრძოლაზე.</CommandFireAtWillDesc>
+  
+  <CommandClearPrioritizedWork>გაასუფთავეთ პრიორიტეტული სამუშაო</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>გაასუფთავეთ ნებისმიერი პრიორიტეტული სამუშაო, რომელიც თქვენ დაავალეთ. პერსონაჟი დაუბრუნდება თავის ჩვეულ საქმიანობას.</CommandClearPrioritizedWorkDesc>
+  
+  <CommandCancelConstructionLabel>გაუქმება</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>გააუქმეთ ეს მშენებლობა.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>წამოდი საწოლიდან</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>ადექი ამჟამინდელი საწოლიდან.</CommandGetOutOfBedDesc>
+
+  <CommandThingSetOwnerLabel>ნაკრების მფლობელი</CommandThingSetOwnerLabel>
+  <CommandBedSetOwnerDesc>მიანიჭეთ ეს საწოლი კონკრეტული {0}-ის საკუთრებაში.</CommandBedSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>მიანიჭეთ ეს ტახტი კონკრეტული კოლონისტის საკუთრებაში.</CommandThroneSetOwnerDesc>
+  <CommandMeditationSpotSetOwnerDesc>მიანიჭეთ ეს მედიტაციის ადგილი კონკრეტული კოლონისტის საკუთრებაში.</CommandMeditationSpotSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>დაავალეთ კოლონისტი</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>მიანიჭეთ ეს საფლავი კონკრეტული კოლონისტის საკუთრებაში.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>მინიჭება</BuildingAssign>
+  <BuildingReassign>გადამინიჭება</BuildingReassign>
+  <BuildingUnassign>გაუქმება</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>პატიმრებისთვის</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>უნდა გამოიყენონ თუ არა ამ ოთახში საწოლები პატიმრებმა.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>პატიმრებისთვის შესაძლებელია მხოლოდ საწოლების დაყენება დახურულ სივრცეში.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>სამედიცინო</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>არის თუ არა ეს საწოლი სამედიცინო გამოყენებისთვის.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>პატიმრის რეჟიმის ჩართვა გავლენას ახდენს მთელ ოთახზე (რადგან პატიმრები და კოლონისტები ერთ ოთახში ვერ იძინებენ).\n\nეს ადამიანები დაკარგავენ თავიანთ საწოლზე მფლობელობას:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>პატიმრის რეჟიმის გამორთვა გავლენას ახდენს მთელ ოთახზე (რადგან პატიმრები და კოლონისტები ერთ ოთახში ვერ იძინებენ).\n\nეს ადამიანები დაკარგავენ საწოლზე მფლობელობას:</TurningOffPrisonerBedWarning>
+  <AreYouSure>დარწმუნებული ხართ, რომ გსურთ ამის გაკეთება?</AreYouSure>
+  <ChangingOwnerTypeBedWarning>საწოლის გამოყენების შეცვლა გავლენას ახდენს მთელ ოთახზე (რადგან პატიმრებს, მონებს და კოლონისტებს არ შეუძლიათ ერთ ოთახში ძილი).\n\nეს ადამიანები დაკარგავენ საწოლზე მფლობელობას:</ChangingOwnerTypeBedWarning>
+  
+  <CommandDetonateLabel>ააფეთქება</CommandDetonateLabel>
+  <CommandDetonateDesc>დაიწყეთ ათვლა აფეთქებამდე.</CommandDetonateDesc>
+  
+  <CommandHideLabel>დამალვა</CommandHideLabel>
+  <CommandUnhideLabel>გამოჩენა</CommandUnhideLabel>
+  
+  <CommandHidePlanDesc>გადართეთ ამ გეგმის ხილვადობა.\n\nდააწკაპუნეთ მარჯვენა ღილაკით ყველა ზონის დასამალად ან გასახსნელად.</CommandHidePlanDesc>
+  <CommandHideZoneDesc>ამ ზონის დამალვა/დამალვა.\n\nდააწკაპუნეთ მაუსის მარჯვენა ღილაკით ყველა ზონის დასამალად ან გასახსნელად.</CommandHideZoneDesc>
+  
+  <ShowAllZones>ყველა ზონის ჩვენება</ShowAllZones>
+  <HideAllZones>ყველა ზონის დამალვა</HideAllZones>
+  <ShowAllZoneTypes>ყველა {0} ზონის ჩვენება</ShowAllZoneTypes>
+  <HideAllZoneTypes>დამალეთ ყველა {0} ზონა</HideAllZoneTypes>
+  <Planning>გეგმა</Planning>
+  
+  <CommandChangeColorPlanLabel>ფერის შეცვლა</CommandChangeColorPlanLabel>
+  <CommandChangeColorPlanDesc>შეცვალეთ ამ გეგმის ფერი.</CommandChangeColorPlanDesc>
+  
+  <CommandDeletePlanLabel>წაშლა</CommandDeletePlanLabel>
+  <CommandDeletePlanDesc>წაშალეთ ეს გეგმა.</CommandDeletePlanDesc>
+  
+  <CommandCopyPlanLabel>კოპირება</CommandCopyPlanLabel>
+  <CommandCopyPlanDesc>დააკოპირეთ ეს გეგმა.</CommandCopyPlanDesc>
+  
+  <CommandCopyPlanSelectionLabel>არჩევანის კოპირება...</CommandCopyPlanSelectionLabel>
+  <CommandCopyPlanSelectionDesc>დააკოპირეთ ყველა გეგმა შერჩეულ ზონაში.</CommandCopyPlanSelectionDesc>
+  <CommandCopyPlanSelectionMouse>აირჩიეთ ზონა კოპირებისთვის</CommandCopyPlanSelectionMouse>
+  <CommandCopyPlanSelectionPasteMouse>ჩასვით შერჩეული ტერიტორია</CommandCopyPlanSelectionPasteMouse>
+
+  <CommandDeleteZoneLabel>წაშლა</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>წაშალეთ ეს ზონა.</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>პარამეტრების კოპირება</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>დააკოპირეთ ამ მეხსიერების პარამეტრები ბუფერში, რათა მათ სხვა ზონაში ჩასვათ.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>ჩასვით პარამეტრები</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>ამ მეხსიერების პარამეტრების გადაწერა იმ პარამეტრებით, რომლებიც ადრე იყო კოპირებული ბუფერში.</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>დათესვა დაუშვა</CommandAllowSow>
+  <CommandAllowSowDesc>ინვალიდობის შემთხვევაში, კოლონისტები არასოდეს დათესავს ახალ მცენარეებს ამ ზონაში. მოსავალს მაინც მოიტანენ.</CommandAllowSowDesc>
+
+  <CommandAllowCut>ჭრის დაშვება</CommandAllowCut>
+  <CommandAllowCutDesc>როდესაც ინვალიდია, კოლონისტები არასოდეს მოჭრიან მცენარეებს ამ ზონაში. ისინი კვლავ დათესავენ ახალ მცენარეებს უკვე ცარიელ ადგილებში და იღებენ მოსავალს, რომელიც შეესაბამება მზარდი ზონის მცენარის ტიპს.</CommandAllowCutDesc>
+  
+  <CommandSelectStoredThing>აირჩიეთ {0_label}</CommandSelectStoredThing>
+  <CommandSelectStoredThingDesc>აირჩიეთ აქ შენახული ნივთი.</CommandSelectStoredThingDesc>
+
+  
+  <CommandSetForceAttackTarget>დააყენეთ იძულებითი სამიზნე</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>აყენებს მიზანს, რომელსაც ეს კოშკი უნდა შეუტიოს განუწყვეტლივ, სანამ მას შეუძლია.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>შეაჩერე იძულებითი შეტევა</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>აჩერებს იძულებით შეტევას და საშუალებას აძლევს კოშკს ისროლოს როგორც მას სურს.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>ამჟამად არ არის იძულებითი შეტევა.</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>ამონაწერი ჭურვი</CommandExtractShell>
+  <CommandExtractShellDesc>ატვირთავს მიმდინარე ჭურვს, რათა ის შეიცვალოს სხვადასხვა საბრძოლო მასალისგან.</CommandExtractShellDesc>
+  <MessageTargetBeyondMaximumRange>სამიზნე მაქსიმალურ დიაპაზონს მიღმა.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>სამიზნე მინიმალური დიაპაზონის ქვემოთ.</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>გაფრთხილება: ნაღმტყორცნები არ ისვრიან, რადგან ის დაყენებულია "Hold fire".</MessageTurretWontFireBecauseHoldFire>
+  
+  
+  <CommandShipLaunch>გემის გაშვება</CommandShipLaunch>
+  <CommandShipLaunchDesc>დაიწყეთ გემის გაშვების თანმიმდევრობა მიმდინარე კონფიგურაციით.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>გაშვების ანგარიშის ჩვენება</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>აჩვენეთ მზადყოფნის ანგარიში გემის გაშვების შესაძლებლობის შესახებ.</CommandShipLaunchReportDesc>
+  <CommandShipStartup>გემის დაწყება</CommandShipStartup>
+  <CommandShipStartupDesc>გაიღვიძეთ ჰიბერნირებული გემის კომპონენტები.</CommandShipStartupDesc>
+
+  
+  <CommandPodEject>საძილე ამოგდება</CommandPodEject>
+  <CommandPodEjectDesc>გააღვიძეთ კრიპტოსლეიპერი და გამოაგდეთ ისინი.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>არავის შეიცავს.</CommandPodEjectFailEmpty>
+
+  
+  <CommandToggleDoorForbid>გასვლა აკრძალულია</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>როდესაც კარი აკრძალულია, კოლონისტები და მოკავშირეები არ გაივლიან მას. ეს არ ახდენს გავლენას, თუ როგორ ურთიერთობენ მტრები ან ცხოველები კართან.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>გამართეთ ღია</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>როდესაც აქტიურობენ, თქვენი კოლონისტები არ დახურავენ კარს გავლის შემდეგ.</CommandToggleDoorHoldOpenDesc>
+
+  
+  <CommandResetTemp>გადაყენება</CommandResetTemp>
+  <CommandResetTempDesc>დააბრუნეთ სამიზნე ტემპერატურა ოთახის ტემპერატურაზე.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>გაზარდეთ სამიზნე ტემპერატურა.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>შეამცირეთ სამიზნე ტემპერატურა.</CommandLowerTempDesc>
+
+  
+  <CommandInstall>დაყენება</CommandInstall>
+  <CommandInstallDesc>ეს ნივთი ამჟამად შეფუთულია შენახვისა და ტრანსპორტირებისთვის. გამოიყენეთ ეს ბრძანება ამ ელემენტის საბოლოო ადგილას დასაყენებლად.</CommandInstallDesc>
+  <CommandReinstall>ხელახლა დააინსტალირეთ...</CommandReinstall>
+  <CommandReinstallDesc>მიუთითეთ ეს ელემენტი დეინსტალაციისთვის და სხვაგან დასაინსტალირებლად.</CommandReinstallDesc>
+  <CommandReplant>გადარგვა</CommandReplant>
+  <CommandReplantDesc>ეს ხე ამჟამად შეფუთულია შენახვისა და ტრანსპორტირებისთვის. გამოიყენეთ ეს ბრძანება ახალ ადგილას მის დასარგავად.</CommandReplantDesc>
+  
+  
+  <CommandMakeBeaconStockpileDesc>შექმენით მარაგი ამ შენობის გარშემო, რომელიც ზუსტად ემთხვევა შუქურის გაშვების რადიუსის ფორმას.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>შექმენით მარაგი</CommandMakeBeaconStockpileLabel>
+
+  
+  <CommandSunLampMakeGrowingZoneDesc>შექმენით მზარდი ზონა ამ შენობის გარშემო, რომელიც ზუსტად შეესაბამება ნათურის სინათლის რადიუსის ფორმას.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>შექმენით მზარდი ზონა</CommandSunLampMakeGrowingZoneLabel>
+
+  
+  <CommandAutoRearm>ავტომატური გადაიარაღება</CommandAutoRearm>
+  <CommandAutoRearmDesc>თუ ეს ჩართულია, ეს ხაფანგი ავტომატურად შეიცვლება მას შემდეგ, რაც გაზაფხულზე.</CommandAutoRearmDesc>
+  
+  
+  <CommandAutoRebuild_Building>ავტომატური აღდგენა</CommandAutoRebuild_Building>
+  <CommandAutoRebuild_BuildingDesc>თუ ეს ჩართულია, {BUILDING_definite} ავტომატურად შეიცვლება აფეთქების შემდეგ.</CommandAutoRebuild_BuildingDesc>
+  
+  
+  <CommandReleaseAnimalsLabel>ცხოველები თავს ესხმიან</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>სანამ ეს ჩართულია, დაუფლებული ცხოველები იგზავნება შორეულ სამიზნეებზე თავდასხმისთვის. სანამ ის გამორთულია, ისინი ახლოს რჩებიან და იცავენ ბატონს.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsFail_NoAnimals>არ არის ხელმისაწვდომი ცხოველები.</CommandReleaseAnimalsFail_NoAnimals>
+  
+  
+  <CommandSquadAttack>შეტევა</CommandSquadAttack>
+  <CommandSquadAttackDesc>შეუკვეთეთ შერჩეულ კოლონისტებს შეტევა დანიშნულ სამიზნეზე.</CommandSquadAttackDesc>
+  
+  
+  <CommandMeleeAttack>მელეის შეტევა</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>შეუკვეთეთ შერჩეულ კოლონისტებს შეტევა დანიშნულ სამიზნეზე მხოლოდ მუშტებისა და მელეული იარაღის გამოყენებით.</CommandMeleeAttackDesc>
+
+  
+  <CommandHoldFire>დაიჭირე ცეცხლი</CommandHoldFire>
+  <CommandHoldFireDesc>დაასრულეთ ნებისმიერი მიმდინარე შეტევა.</CommandHoldFireDesc>
+  
+  
+  <CommandReload_NoCharges>{CHARGENOUN_plural} არ დარჩა.</CommandReload_NoCharges>
+  <CommandReload_Cooldown>{COOLDOWNGERUND} {TIME}-ისთვის.</CommandReload_Cooldown>
+  <CommandReload_NoAmmo>საჭიროა გადატვირთვა {COUNT} {AMMO_label}-ით.</CommandReload_NoAmmo>
+  
+  
+  <CommandSelectPlantToGrowMulti>აირჩიეთ მცენარე გასაშენებლად</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>მცენარე: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>დაადგინეთ, რომელი მცენარე უნდა დაითესოს აქ.</CommandSelectPlantToGrowDesc>
+  
+  
+  <CommandSelectMineralToScanFor>მორგებული</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanForDesc>აირჩიეთ მინერალის ტიპი სკანირებისთვის.</CommandSelectMineralToScanForDesc>
+
+  
+  <CommandBuildCopy>ასლის აშენება</CommandBuildCopy>
+  <CommandBuildCopyDesc>შექმენით ამ შენობის ასლი.</CommandBuildCopyDesc>
+
+  
+  <CommandFormCaravan>ჩამოაყალიბეთ ქარავანი</CommandFormCaravan>
+  <CommandFormCaravanDesc>შექმენით კოლონისტების ჯგუფი, რომლებსაც შეუძლიათ ახალ რაიონებში გამგზავრება. კოლონისტები შეაგროვებენ ყველა დანიშნულ მარაგს და თანმხლებ ცხოველებს, დატოვებენ თავიანთ ამჟამინდელ ტერიტორიას და დაელოდებიან შემდგომ ბრძანებებს.</CommandFormCaravanDesc>
+  <CommandFormCaravanDescAtSpot>ეს ადგილი გამოყენებული იქნება ქარავნის შეხვედრის პუნქტად. გამგზავრებამდე აქ ყველა საქონელი და ცხოველი ჩამოიტანენ.</CommandFormCaravanDescAtSpot>
+  
+  
+  <CommandReformCaravan>რეფორმის ქარავანი</CommandReformCaravan>
+  <CommandReformCaravanDesc>კოლონისტების ჯგუფის რეფორმირება. კოლონისტები დატოვებენ თავიანთ ამჟამინდელ ტერიტორიას და დაელოდებიან შემდგომ ბრძანებებს.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>ჯერ კიდევ არის მტერი ამ მხარეში.</CommandReformCaravanFailHostilePawns>
+
+  
+  <CommandSendCaravan>გაგზავნეთ ქარავანი</CommandSendCaravan>
+  <CommandSendCaravanMultiple>გაგზავნეთ ქარავანი...</CommandSendCaravanMultiple>
+  <CommandSendCaravanDesc>გაგზავნეთ ქარავანი ამ დანიშნულების ადგილამდე შერჩეული კოლონიიდან, რომელსაც შეუძლია მიაღწიოს ამ ადგილს.</CommandSendCaravanDesc>
+  <CommandSendCaravanCantReach>თქვენს დასახლებებს არ აქვთ გზა ამ მდებარეობისკენ.</CommandSendCaravanCantReach>
+
+  
+  <CommandSplitCaravan>გაყოფა</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>გაყავით ეს ქარავანი ორად. ქარავნები შეიძლება მოგვიანებით გაერთიანდეს ერთში, სანამ ისინი ერთმანეთთან ახლოს არიან.</CommandSplitCaravanDesc>
+  
+  
+  <CommandMergeCaravans>გაერთიანება</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>შეაერთეთ შერჩეული ქარავნები.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>აირჩიეთ ყველა ქარავანი, რომელიც უნდა გაერთიანდეს. ქარავნები ერთმანეთთან ახლოს უნდა იყოს.</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandJoinCaravan>შეერთება</CommandJoinCaravan>
+  
+  
+  <CommandSettle>დასახლება</CommandSettle>
+  <CommandSettleDesc>დასახლდით ამ მხარეში. თქვენი კოლონისტები შევლენ ამ მხარეში და თქვენ შეძლებთ ახალი სახლის აშენებას.</CommandSettleDesc>
+  <CommandSettleFailAlreadyHaveBase>თქვენს ფრაქციას შეიძლება ჰქონდეს მხოლოდ ერთი ბაზა.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>მიაღწია კოლონიების მაქსიმალურ რაოდენობას.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>იქ არავინ არის, რომ მოეთხოვოს ტერიტორია.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>ამ მხარეში მტრები არიან.</CommandSettleFailEnemies>
+  <CommandSettleFailGeneric>აქ ვერ დასახლდება.</CommandSettleFailGeneric>
+
+  
+  <CommandCamp>ბანაკი</CommandCamp>
+  <CommandCampDesc>შექმენით დროებითი ბანაკი, რომელიც შეიძლება სწრაფად მიტოვებულიყო.</CommandCampDesc>
+  <CommandCampFailExistingWorldObject>აქ დაბანაკება არ შეიძლება.</CommandCampFailExistingWorldObject>
+  
+  
+  <CommandAbandonHome>მიტოვება</CommandAbandonHome>
+  <CommandAbandonHomeDesc>მიატოვეთ ეს ტერიტორია. ტერიტორია მიუწვდომელი გახდება და აქ ვეღარასოდეს დაბრუნდებით. თქვენი სახლის დატოვების შემდეგ, თქვენ შეძლებთ შეუკვეთოთ თქვენი ერთ-ერთი ქარავანი ახალ ტერიტორიაზე დასახლება.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>ყველა თქვენი კოლონისტი იქ არის.</CommandAbandonHomeFailAllColonistsThere>
+  
+  
+  <CommandCancelFormingCaravan>გააუქმეთ ფორმირების ქარავანი</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>შეწყვიტე ქარავნის ფორმირების პროცესი.</CommandCancelFormingCaravanDesc>
+
+  
+  <CommandRemoveFromCaravan>ქარავანიდან ამოღება</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravanDesc>ამოიღეთ ეს ადამიანი ან ცხოველი ქარავანიდან.</CommandRemoveFromCaravanDesc>
+  
+  
+  <CommandAddToCaravan>დაამატეთ ქარავანში</CommandAddToCaravan>
+  <CommandAddToCaravanDesc>დაამატეთ ეს ადამიანი ან ცხოველი ფორმირების ქარავანს.</CommandAddToCaravanDesc>
+  
+  
+  <CommandForceCaravanDepart>იძულებითი ქარავნის გამგზავრება</CommandForceCaravanDepart>
+  <CommandForceCaravanDepartDesc>აიძულეთ ქარავანი დაუყოვნებლივ წავიდეს მხოლოდ ამჟამად დატვირთული ნივთებით. ვინც ვერ შეძლებს მოგზაურობას, დარჩება.</CommandForceCaravanDepartDesc>
+  <ConfirmForceDepartIntro>დარწმუნებული ხართ, რომ გსურთ წასვლა?</ConfirmForceDepartIntro>
+  <ConfirmForceDepartItemsStillLoading>შემდეგი ელემენტები ჯერ კიდევ იტვირთება და დარჩება უკან:</ConfirmForceDepartItemsStillLoading>
+  <ConfirmForceDepartPawnsNotLeaving>შემდეგი ხალხი არ იქნება ქარავნის ნაწილი:</ConfirmForceDepartPawnsNotLeaving>
+  <ConfirmForceDepartItemsOnPawnsNotLeaving>შემდეგი ნივთები იტვირთება არსებებზე, რომლებიც არ იქნებიან ქარავნის ნაწილი და დარჩებიან უკან:</ConfirmForceDepartItemsOnPawnsNotLeaving>
+  
+  
+  <CommandShowMap>მასშტაბირება</CommandShowMap>
+  <CommandShowMapDesc>ამ ზონის მასშტაბირება.</CommandShowMapDesc>
+  
+  
+  <CommandTrade>ვაჭრობა</CommandTrade>
+  <CommandTradeDesc>ვაჭრობა ამ ფრაქციასთან.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>არ არსებობს შეგნებული და ქმედუნარიანი მომლაპარაკებელი.</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNeedPermit>თქვენს არცერთ ადამიანს არ აქვს ფრაქციის საჭირო ნებართვა: {0}</CommandTradeFailNeedPermit>
+
+  
+  <CommandOfferGifts>შესთავაზეთ საჩუქრები</CommandOfferGifts>
+  <CommandOfferGiftsDesc>შესთავაზეთ საჩუქრები ამ ფრაქციას.</CommandOfferGiftsDesc>
+
+  
+  <CommandFulfillTradeOffer>შეასრულეთ სავაჭრო შეთავაზება</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>შეასრულეთ ანგარიშსწორების მოთხოვნა საქონელზე და მოითხოვეთ თქვენი ჯილდო.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>თქვენს ქარავანს უნდა ჰქონდეს {0} ამ სავაჭრო შეთავაზების შესასრულებლად.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>მისცეს {0}?</CommandFulfillTradeOfferConfirm>
+  
+  
+  <CommandTakeOff>აფრენა</CommandTakeOff>
+  <CommandTakeOffDesc>აიღე გემზე და გაექცე პლანეტას.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>დარწმუნებული ხართ, რომ გსურთ გემის გაშვება?\n\nყველა ამ მხარეში გაექცევა პლანეტას. ყველა დანარჩენი დარჩება უკან.</CommandTakeOffConfirmation>
+
+  
+  <CommandSetTargetFuelLevel>დააყენეთ საწვავის სამიზნე დონე</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>დააყენეთ საწვავის სამიზნე დონე. კოლონისტები შეეცდებიან შეავსონ ეს საწვავის სამიზნე დონემდე.</CommandSetTargetFuelLevelDesc>
+
+  
+  <CommandToggleAllowAutoRefuel>ავტომატური საწვავის ჩართვა</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuelDesc>ეს განსაზღვრავს, ავტომატურად შეავსებენ თუ არა მას კოლონისტები. თუ ჩართულია, კოლონისტები შეავსებენ მას {0}-მდე.\n\nსაწვავის ავტომატური შევსება ამჟამად არის {ONOFF}.</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDescMult>ეს განსაზღვრავს, ავტომატურად შეავსებენ თუ არა კოლონისტები ამ შენობებს.\n\nსაწვავის ავტომატური შევსება ამჟამად არის {ONOFF}.</CommandToggleAllowAutoRefuelDescMult>
+
+  
+  <CommandCancelLoad>ჩატვირთვის გაუქმება</CommandCancelLoad>
+  <CommandCancelLoadDesc>გააუქმეთ ჩატვირთვა ხალხით ან ნივთებით და ამოიღეთ ყველაფერი უკვე ჩატვირთული.</CommandCancelLoadDesc>
+  <CommandUnload>განტვირთეთ ყველა</CommandUnload>
+  <CommandUnloadDesc>ამოიღეთ ყველა შინაარსი {0}-დან.</CommandUnloadDesc>
+
+  
+  <CommandLaunchGroup>გაშვება</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>აფრენა და დანიშნულების ადგილზე გაფრენა.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotLoaded>ჯერ უნდა ჩაიტვირთოს.</CommandLaunchGroupFailNotLoaded>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>ამ დატვირთვის ჯგუფში ზოგიერთი სატრანსპორტო საყრდენი არ არის დაკავშირებული საწვავის პორტთან.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailUnderRoof>სახურავის ბლოკირების გაშვება.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailNoFuel>არ არის საკმარისი საწვავი გასაშვებად.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailOverMassCapacity>მასის ტევადობაზე მეტი.</CommandLaunchGroupFailOverMassCapacity>
+  <CommandLaunchGroupCooldown>გაგრილებაზე.</CommandLaunchGroupCooldown>
+  <MassUsageString>{0} / {1} კგ</MassUsageString>
+
+  
+  <CommandLoadTransporter>ჩატვირთეთ {0}-ის გაშვების ჯგუფი</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>განსაზღვრავს არჩეულ გადამზიდველ(ებ)ს, როგორც გაშვების ჯგუფს. ხსნის ჩატვირთვის დიალოგს, რათა გადაწყვიტოთ ვინ და რა უნდა ჩაიტვირთოს შიგნით.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>სატრანსპორტო განყოფილება არ არის დაკავშირებული საწვავის პორტთან.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>პოდ გამშვებს არ აქვს საწვავი.</CommandLoadTransporterFailNoFuel>
+  
+  
+  <CommandLoadTransporterSingle>ჩატვირთვა</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingleDesc>ხსნის ჩატვირთვის დიალოგს, რათა გადაწყვიტოთ ვინ და რა უნდა ჩაიტვირთოს შიგნით.</CommandLoadTransporterSingleDesc>
+  
+  
+  <CommandSetToLoadTransporter>დააყენეთ ჩატვირთვა</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporterDesc>ხსნის ჩატვირთვის დიალოგს, რათა გადაწყვიტოთ ვინ და რა უნდა ჩაიტვირთოს შიგნით.</CommandSetToLoadTransporterDesc>
+  
+  
+  <CommandAutoloadTransporters>ავტოჩატვირთვა</CommandAutoloadTransporters>
+  <CommandAutoloadTransportersDesc>გადართეთ ყველა საჭირო ტვირთის ავტომატურად ჩატვირთვა, როგორც კი ისინი ხელმისაწვდომი გახდება.</CommandAutoloadTransportersDesc>
+  
+  
+  <CommandSelectPreviousTransporter>აირჩიეთ წინა გაშვების ჯგუფში</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>აირჩიეთ წინა სატრანსპორტო პოდი ამ გაშვების ჯგუფში.</CommandSelectPreviousTransporterDesc>
+  
+  
+  <CommandSelectAllTransporters>აირჩიეთ გაშვების ჯგუფი</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>აირჩიეთ ყველა სატრანსპორტო რგოლი ამ გაშვების ჯგუფში.</CommandSelectAllTransportersDesc>
+  
+  
+  <CommandSelectNextTransporter>აირჩიეთ შემდეგი გაშვების ჯგუფში</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>აირჩიეთ შემდეგი სატრანსპორტო პოდი ამ გაშვების ჯგუფში.</CommandSelectNextTransporterDesc>
+  
+  
+  <CommandDesignateOpenCloseVentLabel>დანიშნეთ გახსნა/დახურვა</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>დანიშნეთ ეს ვენტილაცია გასახსნელად ან დახურვისთვის. დავალების შესასრულებლად მალე მოვა კოლონისტი.</CommandDesignateOpenCloseVentDesc>
+  
+  
+  <CommandRemoveWaypointLabel>მოხსნა</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>ამოიღეთ ეს გზა.</CommandRemoveWaypointDesc>
+
+  
+  <CommandPauseCaravan>დასვენება</CommandPauseCaravan>
+  <CommandToggleCaravanPauseDesc>დაიწყეთ დასვენება. ამას აქვს შემდეგი უპირატესობები:\n\n - ადამიანებს შეუძლიათ სოციალურად ურთიერთქმედება\n - საკვების მიღება {0}-ჯერ უფრო სწრაფად\n - ხილვადობა გამრავლებული {1}-ზე</CommandToggleCaravanPauseDesc>
+  
+  
+  <CommandShowSellableItems>აჩვენე რას იყიდის</CommandShowSellableItems>
+  <CommandShowSellableItemsDesc>აჩვენე ყველაფერი, რაც ამ ტრეიდერს სურს შეიძინოს.</CommandShowSellableItemsDesc>
+
+  
+  <CommandAttackSettlement>შეტევა</CommandAttackSettlement>
+  <CommandAttackSettlementDesc>შეუტიეთ ამ დასახლებას.</CommandAttackSettlementDesc>
+
+  
+  <CommandSendShuttle>გაგზავნა</CommandSendShuttle>
+  <CommandSendShuttleDesc>დაიწყეთ აფრენა და მიეცით შატლი დანიშნულების ადგილამდე მიფრინვას.</CommandSendShuttleDesc>
+  <CommandSendShuttleFailUnderRoof>შატლი არის სახურავის ქვეშ.</CommandSendShuttleFailUnderRoof>
+  <CommandSendShuttleFailMissingRequiredThing>ზოგიერთი საჭირო ნივთი ან ადამიანი დაკარგულია.</CommandSendShuttleFailMissingRequiredThing>
+  
+  
+  <CommandShuttleDismiss>გათავისუფლება</CommandShuttleDismiss>
+  <CommandShuttleDismissDesc>გადმოტვირთეთ მთელი შინაარსი და გაგზავნეთ შატლი.</CommandShuttleDismissDesc>
+
+  
+  <CommandPlaceBlueprints>მოათავსეთ ნახატები</CommandPlaceBlueprints>
+  <CommandPlaceBlueprintsDesc>განათავსეთ ყველა საჭირო გეგმა, სადაც ეს შესაძლებელია.</CommandPlaceBlueprintsDesc>
+  <CommandPlaceBlueprintsSpecific>მოათავსეთ {0} ნახატები</CommandPlaceBlueprintsSpecific>
+  <CommandPlaceBlueprintsSpecificDesc>განათავსეთ ყველა {0} გეგმა, სადაც ეს შესაძლებელია.</CommandPlaceBlueprintsSpecificDesc>
+
+  
+  <CommandCancelMonumentMarker>გაუქმება</CommandCancelMonumentMarker>
+  <CommandCancelMonumentMarkerDesc>სამუდამოდ ამოიღეთ ეს ძეგლის მარკერი.</CommandCancelMonumentMarkerDesc>
+
+  
+  <CommandViewQuest>იხილეთ ქვესტი: {0}</CommandViewQuest>
+  <CommandViewQuestDesc>იხილეთ ეს ქვესტი ქვესტების ჩანართში.</CommandViewQuestDesc>
+  <CommandOpenLinkedQuest>გახსენით დაკავშირებული ქვესტი</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuestDesc>გახსენით დაკავშირებული ქვესტი ქვესტების ჩანართში.</CommandOpenLinkedQuestDesc>
+
+  
+  <CommandDropPawn>ჩამოაგდეთ {0_nameDef}</CommandDropPawn>
+  <CommandDropPawnDesc>ჩამოაგდეთ გადაყვანილი ადამიანი.</CommandDropPawnDesc>
+  <CommandSelectCarriedPawn>აირჩიეთ {0_nameDef}</CommandSelectCarriedPawn>
+  <CommandSelectCarriedPawnDesc>აირჩიეთ არსება, რომელსაც ატარებენ.</CommandSelectCarriedPawnDesc>
+  <CommandSelectCarriedThing>აირჩიეთ {0_label}</CommandSelectCarriedThing>
+  <CommandSelectCarriedThingDesc>აირჩიეთ გადატანილი ნივთი.</CommandSelectCarriedThingDesc>
+  <CommandSelectContainerThing>აირჩიეთ {0_label}</CommandSelectContainerThing>
+  <CommandSelectContainerThingDesc>აირჩიეთ შემცველი ელემენტი.</CommandSelectContainerThingDesc>
+  <CommandSelectCarryingPawn>აირჩიეთ {0_nameDef}</CommandSelectCarryingPawn>
+  <CommandSelectCarryingPawnDesc>აირჩიეთ მატარებელი არსება.</CommandSelectCarryingPawnDesc>
+  <CommandSelectContainedPawn>აირჩიეთ {0_nameDef}</CommandSelectContainedPawn>
+  <CommandSelectContainedPawnDesc>აირჩიეთ შემავალი არსება.</CommandSelectContainedPawnDesc>
+  <CommandSelectContainedThing>აირჩიეთ {0_label}</CommandSelectContainedThing>
+  <CommandSelectContainedThingDesc>აირჩიეთ შემავალი ელემენტი.</CommandSelectContainedThingDesc>
+
+  
+  <TakeDrug>წამლის მიღება...</TakeDrug>
+  <TakeDrugDesc>აირჩიეთ წამალი ინვენტარიდან, რომ დაუყოვნებლივ მიიღოთ.</TakeDrugDesc>
+
+  
+  <BuildThing>შექმენით {0}</BuildThing>
+
+  
+  <CommandLeaveRitual>დატოვე {RITUAL_label}</CommandLeaveRitual>
+  <CommandLeaveRitualDesc>შეწყვიტე მონაწილეობა {RITUAL_labelDef}-ში. ღონისძიება გაგრძელდება მანამ, სანამ მას ერთი მონაწილე მაინც ეყოლება.</CommandLeaveRitualDesc>
+  <CommandLeaveLastParticipant>ეს {RITUAL_labelDef}-ის ბოლო მონაწილეა.</CommandLeaveLastParticipant>
+
+  <CommandCancelRitual>გააუქმეთ {RITUAL_label}</CommandCancelRitual>
+  <CommandCancelRitualDesc>დაუყოვნებლივ დაასრულეთ {RITUAL_labelDef}. ღონისძიების გადატვირთვა შეგიძლიათ მოგვიანებით.</CommandCancelRitualDesc>
+  <CommandCancelRitualConfirm>დარწმუნებული ხართ, რომ გსურთ გააუქმოთ {RITUAL_labelDef}?</CommandCancelRitualConfirm>
+
+  
+  <LinkStorageSettings>ბმული პარამეტრები</LinkStorageSettings>
+  <LinkStorageSettingsDesc>დააკავშირეთ მეხსიერების პარამეტრები რამდენიმე არჩეული შენობისთვის, რათა მათ გაიზიარონ მეხსიერების პარამეტრები.\n\nჯგუფი დაიწყება იმ პარამეტრებით, რაც თქვენ ჯერ არჩეული გაქვთ.</LinkStorageSettingsDesc>
+  <LinkStorageDisabledSelectTwo>თქვენ უნდა აირჩიოთ ორი ან მეტი შენობა მათი შენახვის პარამეტრების დასაკავშირებლად.</LinkStorageDisabledSelectTwo>
+  <AlreadyLinked>უკვე დაკავშირებულია.</AlreadyLinked>
+  <UnlinkStorageSettings>პარამეტრების მიბმის გაუქმება</UnlinkStorageSettings>
+  <UnlinkStorageSettingsDesc>გააუქმეთ ეს სხვა შენობების შენახვის პარამეტრებიდან, რათა მისი პარამეტრები დამოუკიდებლად დაყენდეს.</UnlinkStorageSettingsDesc>
+  <LinkedStorageSettings>დაკავშირებული მეხსიერების პარამეტრები</LinkedStorageSettings>
+  <OneBuilding>1 კორპუსი</OneBuilding>
+  <NumBuildings>{0} შენობები</NumBuildings>
+  <StoresThings>ინახავს</StoresThings>
+  <SelectAllLinked>აირჩიეთ ყველა დაკავშირებული</SelectAllLinked>
+  <SelectAllLinkedDesc>აირჩიეთ ყველა შესანახი შენობა, რომელიც დაკავშირებულია მასთან.</SelectAllLinkedDesc>
+
+  <CommandDisabledUnconscious>{0_labelShort} უგონო მდგომარეობაშია.</CommandDisabledUnconscious>
+
+  
+  <CommandToggleStudy>შესწავლის გადართვა</CommandToggleStudy>
+  <CommandToggleStudyDesc>ადგენს, ავტომატურად შეისწავლიან თუ არა მესაზღვრეები ამას. აკრძალული ნივთები არასოდეს შეისწავლება.</CommandToggleStudyDesc>
+
+  
+  <CommandNoUsesLeft>გამოყენება არ დარჩა.</CommandNoUsesLeft>
+
+  
+  <CommandViewPocketMapLabel>იხილეთ {0}</CommandViewPocketMapLabel>
+  <CommandViewPocketMapDesc>იხილეთ დაკავშირებული {0} რუკა.</CommandViewPocketMapDesc>
+  <CommandViewSurface>ზედაპირის ნახვა</CommandViewSurface>
+  <CommandViewSurfaceDesc>იხილეთ დაკავშირებული ზედაპირის რუკა.</CommandViewSurfaceDesc>
+
+  
+  <AutoBuildTransportPod>ავტომატური აშენების სატრანსპორტო პოდი</AutoBuildTransportPod>
+  <AutoBuildTransportPodDesc>თუ ჩართულია, თქვენი კოლონისტები ავტომატურად ააშენებენ ახალ სატრანსპორტო განყოფილებას, როდესაც ეს შესაძლებელია.</AutoBuildTransportPodDesc>
+  
+  
+  <HackGizmo>ჰაკი...</HackGizmo>
+  <CannotChooseHacker>გატეხვა არ შეიძლება</CannotChooseHacker>
+  <CommandChooseHacker>აირჩიეთ ჰაკერი</CommandChooseHacker>
+  
+</LanguageData>

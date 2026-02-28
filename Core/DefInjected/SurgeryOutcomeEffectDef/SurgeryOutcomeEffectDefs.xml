@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SurgeryOutcomeBase.outcomes.1.letterLabel>ოპერაცია ჩაიშალა {PATIENT_labelShort}-ზე</SurgeryOutcomeBase.outcomes.1.letterLabel>
+  <SurgeryOutcomeBase.outcomes.1.letterText>{SURGEON_labelShort}-მა დაუშვა ფატალური შეცდომა {PATIENT_labelShort}-ზე მუშაობისას: {RECIPE_label}-ის განსაკუთრებული გამოწვევების გამო.</SurgeryOutcomeBase.outcomes.1.letterText>
+  <SurgeryOutcomeBase.outcomes.2.letterLabel>ოპერაცია ჩაიშალა {PATIENT_labelShort}-ზე</SurgeryOutcomeBase.outcomes.2.letterLabel>
+  <SurgeryOutcomeBase.outcomes.2.letterText>{SURGEON_labelShort} კატასტროფულად ჩაიშალა {PATIENT_labelShort}-ზე ({RECIPE_label}) მუშაობისას.</SurgeryOutcomeBase.outcomes.2.letterText>
+  <SurgeryOutcomeBase.outcomes.3.letterLabel>ოპერაცია ჩაიშალა {PATIENT_labelShort}-ზე</SurgeryOutcomeBase.outcomes.3.letterLabel>
+  <SurgeryOutcomeBase.outcomes.3.letterText>{SURGEON_labelShort} სასაცილოდ ჩავარდა {PATIENT_labelShort}-ზე ({RECIPE_label}) მუშაობისას.</SurgeryOutcomeBase.outcomes.3.letterText>
+  <SurgeryOutcomeBase.outcomes.4.letterLabel>ოპერაცია ჩაიშალა {PATIENT_labelShort}-ზე: სტერილიზებული</SurgeryOutcomeBase.outcomes.4.letterLabel>
+  <SurgeryOutcomeBase.outcomes.4.letterText>{SURGEON_labelShort} ვერ მოხერხდა {PATIENT_labelShort}-ზე ({RECIPE_label}) ოპერაციის დროს, რის გამოც {PATIENT_objective} სტერილური რჩება.</SurgeryOutcomeBase.outcomes.4.letterText>
+  <SurgeryOutcomeBase.outcomes.5.letterLabel>ოპერაცია ჩაიშალა {PATIENT_labelShort}-ზე: სტერილიზებული</SurgeryOutcomeBase.outcomes.5.letterLabel>
+  <SurgeryOutcomeBase.outcomes.5.letterText>{SURGEON_labelShort} ვერ მოხერხდა {PATIENT_labelShort}-ზე ({RECIPE_label}) ოპერაციის დროს, რის გამოც {PATIENT_objective} სტერილური რჩება.</SurgeryOutcomeBase.outcomes.5.letterText>
+  <SurgeryOutcomeBase.outcomes.6.letterLabel>ოპერაცია ჩაიშალა {PATIENT_labelShort}-ზე</SurgeryOutcomeBase.outcomes.6.letterLabel>
+  <SurgeryOutcomeBase.outcomes.6.letterText>{SURGEON_labelShort} უმნიშვნელოდ წარუმატებელი აღმოჩნდა {PATIENT_labelShort}-ზე ({RECIPE_label}) მუშაობისას.</SurgeryOutcomeBase.outcomes.6.letterText>
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>ოპერაცია ჩაიშალა {PATIENT_labelShort}-ზე</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterText>{SURGEON_labelShort} უმნიშვნელოდ წარუმატებელი აღმოჩნდა {PATIENT_labelShort}-ზე ({RECIPE_label}) მუშაობისას.</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeoLeaderResentmentAbhorrent.stages.0.description>{0}-ისგან მითითების მიღება სრულიად სამარცხვინო და საზიზღარია.</IdeoLeaderResentmentAbhorrent.stages.0.description>
+  <IdeoLeaderResentmentDisapproved.stages.0.description>შეურაცხმყოფელია {0}-ის ბრძანება.</IdeoLeaderResentmentDisapproved.stages.0.description>
+  <IdeoLeaderResentmentHorrible.stages.0.description>სამარცხვინოა {0}-ის ბრძანება!</IdeoLeaderResentmentHorrible.stages.0.description>
+  <IdeoLeaderResentmentStandard.stages.0.description>მე არ მომწონს ლიდერად {0}.</IdeoLeaderResentmentStandard.stages.0.description>
+  <IdeoRoleApparelRequirementNotMet.stages.0.description>მე მინდა ჩავიცვა ჩემი როლისთვის შესაბამისი ტანსაცმელი, როგორც {ROLE_labelDef}</IdeoRoleApparelRequirementNotMet.stages.0.description>
+  <IdeoRoleApparelRequirementNotMet.stages.0.label>მინდა {ROLE_label} ტანსაცმელი</IdeoRoleApparelRequirementNotMet.stages.0.label>
+  <IdeoRoleEmpty.stages.0.description>{0}ს უნდა ჰქონდეს {ROLE_labelIndef}!</IdeoRoleEmpty.stages.0.description>
+  <IdeoRoleEmpty.stages.0.label>არა {ROLE_label}</IdeoRoleEmpty.stages.0.label>
+  <IdeoRoleLost.stages.0.description>მე დავკარგე ჩემი როლი, როგორც {ROLE_labelDef}.</IdeoRoleLost.stages.0.description>
+  <IdeoRoleLost.stages.0.label>დაკარგა {ROLE_label} როლი</IdeoRoleLost.stages.0.label>
+</LanguageData>

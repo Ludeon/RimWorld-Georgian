@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallPsychicHarmonizer.description>დააინსტალირეთ ფსიქიკური ჰარმონიზატორი.</InstallPsychicHarmonizer.description>
+  <InstallPsychicHarmonizer.jobString>ფსიქიკური ჰარმონიზატორის დაყენება.</InstallPsychicHarmonizer.jobString>
+  <InstallPsychicHarmonizer.label>დააინსტალირეთ ფსიქიკური ჰარმონიზატორი</InstallPsychicHarmonizer.label>
+  <InstallPsychicReader.description>დააინსტალირეთ ფსიქიკური მკითხველი.</InstallPsychicReader.description>
+  <InstallPsychicReader.jobString>ფსიქიკური მკითხველის ინსტალაცია.</InstallPsychicReader.jobString>
+  <InstallPsychicReader.label>დააინსტალირეთ ფსიქიკური მკითხველი</InstallPsychicReader.label>
+  <InstallPsychicSensitizer.description>დააინსტალირეთ ფსიქიკური სენსიბილიზატორი.</InstallPsychicSensitizer.description>
+  <InstallPsychicSensitizer.jobString>ფსიქიკური სენსიბილიზატორის დაყენება.</InstallPsychicSensitizer.jobString>
+  <InstallPsychicSensitizer.label>დააინსტალირეთ ფსიქიკური სენსიბილიზატორი</InstallPsychicSensitizer.label>
+  <RemovePsychicHarmonizer.description>ამოიღეთ ფსიქიკური ჰარმონიზატორი.</RemovePsychicHarmonizer.description>
+  <RemovePsychicHarmonizer.jobString>ფსიქიკური ჰარმონიზატორის მოცილება.</RemovePsychicHarmonizer.jobString>
+  <RemovePsychicHarmonizer.label>ამოიღეთ ფსიქიკური ჰარმონიზატორი</RemovePsychicHarmonizer.label>
+  <RemovePsychicReader.description>ამოიღეთ ფსიქიკური მკითხველი.</RemovePsychicReader.description>
+  <RemovePsychicReader.jobString>ფსიქიკური მკითხველის ამოღება.</RemovePsychicReader.jobString>
+  <RemovePsychicReader.label>ამოიღეთ ფსიქიკური მკითხველი</RemovePsychicReader.label>
+  <RemovePsychicSensitizer.description>ამოიღეთ ფსიქიკური სენსიბილიზატორი.</RemovePsychicSensitizer.description>
+  <RemovePsychicSensitizer.jobString>ფსიქიკური სენსიბილიზატორის მოცილება.</RemovePsychicSensitizer.jobString>
+  <RemovePsychicSensitizer.label>ამოიღეთ ფსიქიკური სენსიბილიზატორი</RemovePsychicSensitizer.label>
+</LanguageData>

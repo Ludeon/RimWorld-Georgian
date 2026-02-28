@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GotLovin.label>მივიღე სიყვარული</GotLovin.label>
+  <GotLovin_NonSpouse.label>გარე ქორწინების სიყვარული</GotLovin_NonSpouse.label>
+  <GotLovin_Spouse.label>მეუღლის სიყვარული</GotLovin_Spouse.label>
+  <InitiatedLovin.label>დაიწყო სიყვარული</InitiatedLovin.label>
+  <SharedBed.label>საერთო საწოლი</SharedBed.label>
+  <SharedBed_NonSpouse.label>საერთო საწოლი ქორწინების გარეთ</SharedBed_NonSpouse.label>
+  <SharedBed_Spouse.label>საერთო საწოლი მეუღლესთან ერთად</SharedBed_Spouse.label>
+</LanguageData>

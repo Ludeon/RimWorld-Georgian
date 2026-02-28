@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GotLovin_Abhorrent.stages.0.description>მე ჩავიდინე ვნებათაღელვა, რომელიც აბსოლუტურად ამაზრზენი იყო.</GotLovin_Abhorrent.stages.0.description>
+  <GotLovin_Abhorrent.stages.0.label>ვნების მოქმედება</GotLovin_Abhorrent.stages.0.label>
+  <GotLovin_Disapproved.stages.0.description>მე ჩავიდინე სურვილის აქტი, მაგრამ ეს არასწორი იყო.</GotLovin_Disapproved.stages.0.description>
+  <GotLovin_Disapproved.stages.0.label>სურვილის აქტი</GotLovin_Disapproved.stages.0.label>
+  <GotLovin_Horrible.stages.0.description>მე ჩავიდინე ვნებათაღელვა, რომელიც ღრმად არასწორი იყო.</GotLovin_Horrible.stages.0.description>
+  <GotLovin_Horrible.stages.0.label>ვნების მოქმედება</GotLovin_Horrible.stages.0.label>
+  <Lovin_Know_Abhorrent.stages.0.label>ვნების მოქმედება</Lovin_Know_Abhorrent.stages.0.label>
+  <Lovin_Know_Approved.stages.0.label>სიყვარულის შემდგომი შუქი</Lovin_Know_Approved.stages.0.label>
+  <Lovin_Know_Disapproved.stages.0.label>სურვილის აქტი</Lovin_Know_Disapproved.stages.0.label>
+  <Lovin_Know_Horrible.stages.0.label>ვნების მოქმედება</Lovin_Know_Horrible.stages.0.label>
+</LanguageData>

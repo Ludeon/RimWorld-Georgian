@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MoveSpeed_Space.description>ამ გენის მატარებლები უფრო ადვილად მოძრაობენ და მუშაობენ დაბალი სიმძიმის გარემოში. თუმცა, ისინი უფრო ნელი და ნაკლებად ეფექტურია პლანეტის გვერდით.</MoveSpeed_Space.description>
+  <MoveSpeed_Space.label>დაბალი სიმძიმის ადაპტირებული</MoveSpeed_Space.label>
+  <VacuumResistance_Partial.description>ამ გენის მატარებლებს აქვთ კანი, რომელიც ათავისუფლებს ცვილისებრ ნივთიერებას ჰაერის დაბალი წნევის დროს, რაც ხელს უშლის ვაკუუმურ დამწვრობას და საშუალებას აძლევს მათ უფრო დიდხანს იცოცხლონ ვაკუუმის ზემოქმედებისას.</VacuumResistance_Partial.description>
+  <VacuumResistance_Partial.label>ვაკუუმ რეზისტენტული</VacuumResistance_Partial.label>
+  <VacuumResistance_Total.description>ამ გენის მატარებლებს შეუძლიათ კონცენტრირებული ჟანგბადის შენახვა მათ სხეულში. მათი უჯრედები მოიხმარენ გაცილებით ნაკლებ ჟანგბადს, რაც იმას ნიშნავს, რომ მათ იშვიათად სჭირდებათ სუნთქვა. ეს ადაპტაცია ხდის მათ იმუნიტეტს კოსმოსის მავნე ზემოქმედების, აგრეთვე გარემო ტოქსინების, ტოქსიკური გაზების, მჟავე სმოგისა და ლპობის სუნისგან.</VacuumResistance_Total.description>
+  <VacuumResistance_Total.label>სუნთქვაშეკრული</VacuumResistance_Total.label>
+</LanguageData>

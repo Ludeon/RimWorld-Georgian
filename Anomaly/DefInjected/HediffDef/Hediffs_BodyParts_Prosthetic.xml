@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdrenalHeart.description>მოდიფიცირებული ადამიანის გული, რომელსაც შეუძლია სტრესის ჰორმონები და თხევადი ენერგია გამოუშვას სისხლში, რაც ღორს საშუალებას აძლევს გადაადგილდეს და შეუტიოს წარმოუდგენელი სიჩქარით.</AdrenalHeart.description>
+  <AdrenalHeart.label>თირკმელზედა ჯირკვლის გული</AdrenalHeart.label>
+  <CorrosiveHeart.description>მოდიფიცირებული ადამიანის გული, რომელიც ღორს აძლევს საშუალებას, შეასხუროს კოროზიული სითხე.</CorrosiveHeart.description>
+  <CorrosiveHeart.label>კოროზიული გული</CorrosiveHeart.label>
+  <FleshmassLung.description>A cancerous mass of semi-sentient flesh. The tissue constantly regrows and replaces itself, making it immune to effects like lung rot and asthma.\n\nThe organ has its own neural structures and may become dangerous if removed.</FleshmassLung.description>
+  <FleshmassLung.label>ხორცის ფილტვი</FleshmassLung.label>
+  <FleshmassLung.labelNoun>ხორციანი ფილტვი</FleshmassLung.labelNoun>
+  <FleshmassStomach.description>A cancerous mass of semi-sentient flesh. The harsh acid it produces is painful, but strong enough to prevent most food poisoning.\n\nThe organ has its own neural structures and may become dangerous if removed.</FleshmassStomach.description>
+  <FleshmassStomach.label>ხორციანი კუჭი</FleshmassStomach.label>
+  <FleshmassStomach.labelNoun>ხორციანი კუჭი</FleshmassStomach.labelNoun>
+  <FleshWhip.description>A fleshy, muscled tentacle with a blade at the end. The flesh whip makes an excellent melee weapon.\n\nIt has its own neural structures and may become dangerous if removed.</FleshWhip.description>
+  <FleshWhip.label>ხორცის მათრახი</FleshWhip.label>
+  <FleshWhip.labelNoun>ხორციელი მათრახი</FleshWhip.labelNoun>
+  <GhoulBarbs.description>რამდენიმე ეკლიანი ბიოფერიტის ღეროები ქირურგიულად მიმაგრებულია ამ ღორზე.</GhoulBarbs.description>
+  <GhoulBarbs.label>ღრიალი ბარბი</GhoulBarbs.label>
+  <GhoulPlating.description>რამდენიმე დიდი ბიოფერიტის ფირფიტა ქირურგიულად იყო მიმაგრებული ამ ღორზე.</GhoulPlating.description>
+  <GhoulPlating.label>ghoul plating</GhoulPlating.label>
+  <MetalbloodHeart.description>ადამიანის მოდიფიცირებული გული, რომელსაც შეუძლია ლითონის სისხლი გადაიტანოს სისხლში, რაც ხდის უფრო მდგრადია დაზიანების მიმართ ხანმოკლე პერიოდის განმავლობაში. Metalblood ასევე ხდის ღორს ცეცხლის მიმართ უფრო დაუცველს.</MetalbloodHeart.description>
+  <MetalbloodHeart.label>ლითონის სისხლიანი გული</MetalbloodHeart.label>
+  <RevenantVertebrae.description>დაყენებული პროთეზი, რომელიც საშუალებას აძლევს მომხმარებელს დროებით გახდეს უხილავი. პროთეზი დამზადებულია მოდიფიცირებული რევენანტი ხერხემლისგან, არქოტექნიკური ნაჭრების გამოყენებით მიძინებული რევენანტის შესაკავებლად. მომხმარებელს შეუძლია მანიპულირება მოახდინოს მახლობლად მყოფთა ვიზუალური ცენტრებით, ფაქტობრივად, უხილავი გახდეს მცირე ხნით.</RevenantVertebrae.description>
+  <RevenantVertebrae.label>გამობრუნებული ხერხემლიანები</RevenantVertebrae.label>
+  <Tentacle.description>A fleshy, muscled tentacle resembling a partial transformation into a fleshbeast. The tentacle is excellent at manipulation.\n\nThe flesh tentacle has its own neural structures and may become dangerous if removed.</Tentacle.description>
+  <Tentacle.label>ხორციანი საცეცები</Tentacle.label>
+  <Tentacle.labelNoun>ხორციანი საცეც</Tentacle.labelNoun>
+</LanguageData>

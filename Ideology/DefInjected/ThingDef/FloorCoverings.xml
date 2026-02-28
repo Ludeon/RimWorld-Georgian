@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalistSlab_Broad.description>ცხოველური გამოსახულების ხის ბარელიეფი იატაკის დეკორაციისთვის.</AnimalistSlab_Broad.description>
+  <AnimalistSlab_Broad.label>ცხოველური ფილა (ფართო)</AnimalistSlab_Broad.label>
+  <AnimalistSlab_Medium.description>ცხოველური გამოსახულების ხის ბარელიეფი იატაკის დეკორაციისთვის.</AnimalistSlab_Medium.description>
+  <AnimalistSlab_Medium.label>ცხოველური ფილა (საშუალო)</AnimalistSlab_Medium.label>
+  <MorbidSlab_Broad.description>ავადმყოფური გამოსახულების ქვის ბარელიეფი იატაკის დეკორაციისთვის.</MorbidSlab_Broad.description>
+  <MorbidSlab_Broad.label>ავადმყოფური ფილა (ფართო)</MorbidSlab_Broad.label>
+  <MorbidSlab_Medium.description>ავადმყოფური გამოსახულების ქვის ბარელიეფი იატაკის დეკორაციისთვის.</MorbidSlab_Medium.description>
+  <MorbidSlab_Medium.label>ავადმყოფური ფილა (საშუალო)</MorbidSlab_Medium.label>
+  <RusticRug_Broad.description>საშინაო ხალიჩა rustic სტილის ნიმუშით, იატაკის გასაფორმებლად.</RusticRug_Broad.description>
+  <RusticRug_Broad.label>rustic ხალიჩა (ფართო)</RusticRug_Broad.label>
+  <RusticRug_Medium.description>საშინაო ხალიჩა rustic სტილის ნიმუშით, იატაკის გასაფორმებლად.</RusticRug_Medium.description>
+  <RusticRug_Medium.label>rustic ხალიჩა (საშუალო)</RusticRug_Medium.label>
+  <SpikecoreFloorStar_Broad.description>ლითონის ნაწილების რადიალური განლაგება spikecore სტილში, იატაკის დეკორაციისთვის.</SpikecoreFloorStar_Broad.description>
+  <SpikecoreFloorStar_Broad.label>spikecore იატაკის ვარსკვლავი (ფართო)</SpikecoreFloorStar_Broad.label>
+  <SpikecoreFloorStar_Medium.description>ლითონის ნაწილების რადიალური განლაგება spikecore სტილში, იატაკის დეკორაციისთვის.</SpikecoreFloorStar_Medium.description>
+  <SpikecoreFloorStar_Medium.label>spikecore იატაკის ვარსკვლავი (საშუალო)</SpikecoreFloorStar_Medium.label>
+  <TotemicSlab_Broad.description>ტოტემური გამოსახულების ხის რელიეფი იატაკის დეკორაციისთვის.</TotemicSlab_Broad.description>
+  <TotemicSlab_Broad.label>ტოტემური ფილა (ფართო)</TotemicSlab_Broad.label>
+  <TotemicSlab_Medium.description>ტოტემური გამოსახულების ხის რელიეფი იატაკის დეკორაციისთვის.</TotemicSlab_Medium.description>
+  <TotemicSlab_Medium.label>ტოტემური ფილა (საშუალო)</TotemicSlab_Medium.label>
+</LanguageData>

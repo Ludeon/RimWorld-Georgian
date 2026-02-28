@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AbsorbXenogerm.reportString>შთანთქავს ქსენოგერმს TargetA-დან.</AbsorbXenogerm.reportString>
+  <CarryGenepackToContainer.reportString>TargetA-ს გადაზიდვა TargetB-მდე.</CarryGenepackToContainer.reportString>
+  <CarryToBuilding.reportString>TargetB-ის გადატანა TargetA-მდე.</CarryToBuilding.reportString>
+  <ClearPollution.reportString>დასუფთავების დაბინძურება.</ClearPollution.reportString>
+  <ControlMech.reportString>TargetA-ზე კონტროლის აღება.</ControlMech.reportString>
+  <CreateXenogerm.reportString>ქსენოგერმის შექმნა.</CreateXenogerm.reportString>
+  <Deathrest.reportString>deathresting.</Deathrest.reportString>
+  <DisassembleMech.reportString>TargetA-ს დაშლა.</DisassembleMech.reportString>
+  <EnterBuilding.reportString>შედიხართ TargetA.</EnterBuilding.reportString>
+  <GetReimplanted.reportString>შთანთქავს ქსენოგერმს TargetA-დან.</GetReimplanted.reportString>
+  <HaulMechToCharger.reportString>TargetA-ს გადაზიდვა დამტენზე.</HaulMechToCharger.reportString>
+  <InstallMechlink.reportString>TargetA-ს ინსტალაცია.</InstallMechlink.reportString>
+  <MechCharge.reportString>charging.</MechCharge.reportString>
+  <PrisonerBloodfeed.reportString>იკვებება TargetA-ზე.</PrisonerBloodfeed.reportString>
+  <ReadDatacore.reportString>TargetA-ს გაშიფვრა.</ReadDatacore.reportString>
+  <ReleaseMechs.reportString>მექანოიდების გათავისუფლება.</ReleaseMechs.reportString>
+  <RepairMech.reportString>TargetA-ს შეკეთება.</RepairMech.reportString>
+  <RepairMechRemote.reportString>TargetA-ს შეკეთება.</RepairMechRemote.reportString>
+  <SelfShutdown.reportString>მიძინებული თვითდამუხტვა.</SelfShutdown.reportString>
+  <ShieldMech.reportString>დამცავი TargetA.</ShieldMech.reportString>
+  <TryRomance.reportString>რომანტიული სამიზნეA.</TryRomance.reportString>
+  <Wait_WithSleeping.reportString>waiting.</Wait_WithSleeping.reportString>
+</LanguageData>

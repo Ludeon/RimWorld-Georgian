@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <IndefiniteArticle />
+  <DefiniteArticle />
+  <IndefiniteForm>{0}</IndefiniteForm>
+  <DefiniteForm>{0}</DefiniteForm>
+
+  <Proits>მისი</Proits>
+  <Prohis>მისი</Prohis>
+  <Proher>მისი</Proher>
+  <ProitsCap>მისი</ProitsCap>
+  <ProhisCap>მისი</ProhisCap>
+  <ProherCap>მისი</ProherCap>
+
+  <ProitObj>მას</ProitObj>
+  <ProhimObj>მას</ProhimObj>
+  <ProherObj>მას</ProherObj>
+  <ProitObjCap>მას</ProitObjCap>
+  <ProhimObjCap>მას</ProhimObjCap>
+  <ProherObjCap>მას</ProherObjCap>
+
+  <Prohe>ის</Prohe>
+  <Proshe>ის</Proshe>
+  <Proit>ის</Proit>
+  <ProheCap>ის</ProheCap>
+  <ProsheCap>ის</ProsheCap>
+  <ProitCap>ის</ProitCap>
+
+  <ProHeNoun>ადამიანი</ProHeNoun>
+  <ProSheNoun>ქალი</ProSheNoun>
+  <ProItNoun>პიროვნება</ProItNoun>
+  
+  <ClauseSequence2>{0} და {1}.</ClauseSequence2>
+  <ClauseSequence3>{0}. ასევე, {1} და {2}.</ClauseSequence3>
+  <ClauseSequence4>{0} და {1}. გარდა ამისა {2} და {3}.</ClauseSequence4>
+  <ClauseSequence5>{0} და {1}. გარდა ამისა, {2} და {3}. და ბოლოს, {4}.</ClauseSequence5>
+  <ClauseSequence6>{0}. {1} და {2}. ასევე, {3} და {4}. და ბოლოს, {5}.</ClauseSequence6>
+  <ClauseSequence7>{0} და {1}. {2} და {3}. ასევე, {4} და {5}. და ბოლოს, {6}.</ClauseSequence7>
+  <ClauseSequence8>{0} და {1}. ასევე, {2} და {3}. {4} და {5}. და ბოლოს, {6} და {7}.</ClauseSequence8>
+
+  <XorY>{0} ან {1}</XorY>
+
+</LanguageData>

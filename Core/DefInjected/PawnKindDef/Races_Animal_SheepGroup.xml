@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Alpaca.label>ალპაკა</Alpaca.label>
+  <Capybara.label>კაპიბარა</Capybara.label>
+  <Megasloth.label>მეგასლოტი</Megasloth.label>
+  <Sheep.label>ცხვარი</Sheep.label>
+  <Sheep.labelFemale>ცხვრის</Sheep.labelFemale>
+  <Sheep.labelMale>ვერძი</Sheep.labelMale>
+  <Sheep.lifeStages.0.label>ბატკნის</Sheep.lifeStages.0.label>
+</LanguageData>

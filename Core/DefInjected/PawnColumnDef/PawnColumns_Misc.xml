@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Age.label>ასაკი</Age.label>
+  <AllowedArea.label>ნებადართული ტერიტორია</AllowedArea.label>
+  <AllowedAreaWide.label>ნებადართული ტერიტორია</AllowedAreaWide.label>
+  <Carry.label>ტარება</Carry.label>
+  <DrugPolicy.label>ნარკოპოლიტიკა</DrugPolicy.label>
+  <FoodRestriction.label>კვების პოლიტიკა</FoodRestriction.label>
+  <Label.label>სახელი</Label.label>
+  <Master.label>ოსტატი</Master.label>
+  <Outfit.label>ტანსაცმლის პოლიტიკა</Outfit.label>
+  <Reading.label>კითხვის პოლიტიკა</Reading.label>
+</LanguageData>

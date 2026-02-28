@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DebugBad.stages.0.description>სატესტო აზრი გამართვისთვის.</DebugBad.stages.0.description>
+  <DebugBad.stages.0.label>ცუდი აზრის გამართვა</DebugBad.stages.0.label>
+  <DebugGood.stages.0.description>სატესტო აზრი გამართვისთვის.</DebugGood.stages.0.description>
+  <DebugGood.stages.0.label>კარგი აზრის გამართვა</DebugGood.stages.0.label>
+</LanguageData>

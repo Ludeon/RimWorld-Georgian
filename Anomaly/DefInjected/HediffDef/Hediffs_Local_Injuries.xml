@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Digested.description>ეს ნაწილი მონელებულია.</Digested.description>
+  <Digested.label>საჭმლის მონელება</Digested.label>
+  <Digested.labelNoun>მონელებული ნაწილი</Digested.labelNoun>
+  <EnergyBolt.description>ჭრილობა ენერგიის ჭანჭიკიდან.</EnergyBolt.description>
+  <EnergyBolt.label>ენერგიის ჭანჭიკი</EnergyBolt.label>
+  <EnergyBolt.labelNoun>ენერგეტიკული ჭანჭიკის ჭრილობა</EnergyBolt.labelNoun>
+  <PsychicInjury.description>ფსიქიკური დამწვრობა.</PsychicInjury.description>
+  <PsychicInjury.label>ფსიქიკური დამწვრობა</PsychicInjury.label>
+  <PsychicInjury.labelNoun>ფსიქიკური დამწვრობა</PsychicInjury.labelNoun>
+  <PsychicInjurySkin.description>ფსიქიკური დამწვრობა.</PsychicInjurySkin.description>
+  <PsychicInjurySkin.label>ფსიქიკური დამწვრობა</PsychicInjurySkin.label>
+  <PsychicInjurySkin.labelNoun>ფსიქიკური დამწვრობა</PsychicInjurySkin.labelNoun>
+  <PsychicInjurySolid.description>ფსიქიკური დამწვრობა.</PsychicInjurySolid.description>
+  <PsychicInjurySolid.label>ფსიქიკური დამწვრობა</PsychicInjurySolid.label>
+  <PsychicInjurySolid.labelNoun>ფსიქიკური დამწვრობა</PsychicInjurySolid.labelNoun>
+</LanguageData>

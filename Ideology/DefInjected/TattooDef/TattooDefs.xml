@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Body_Buttons.label>ღილაკები</Body_Buttons.label>
+  <Body_Cross.label>ჯვარი</Body_Cross.label>
+  <Body_Heart.label>გული</Body_Heart.label>
+  <Body_Insect.label>მწერი</Body_Insect.label>
+  <Body_Jester.label>მასხარა</Body_Jester.label>
+  <Body_Moon.label>მთვარე</Body_Moon.label>
+  <Body_Power.label>ძალაუფლება</Body_Power.label>
+  <Body_Rings.label>ბეჭდები</Body_Rings.label>
+  <Body_Royal.label>სამეფო</Body_Royal.label>
+  <Body_Scar.label>ნაწიბუროვანი</Body_Scar.label>
+  <Body_Skeleton.label>ჩონჩხი</Body_Skeleton.label>
+  <Body_Skull.label>თავის ქალა</Body_Skull.label>
+  <Body_Spike.label>სპიკი</Body_Spike.label>
+  <Body_Sun.label>მზე</Body_Sun.label>
+  <Body_Tiger.label>ვეფხვი</Body_Tiger.label>
+  <Body_Wings.label>ფრთები</Body_Wings.label>
+  <Face_Cobweb.label>cobweb</Face_Cobweb.label>
+  <Face_Eclipse.label>დაბნელება</Face_Eclipse.label>
+  <Face_Headshot.label>თავსაბურავი</Face_Headshot.label>
+  <Face_Line.label>ხაზი</Face_Line.label>
+  <Face_Love.label>სიყვარული</Face_Love.label>
+  <Face_Oracle.label>ორაკული</Face_Oracle.label>
+  <Face_Pantheon.label>პანთეონი</Face_Pantheon.label>
+  <Face_Spider.label>ობობა</Face_Spider.label>
+  <Face_Stars.label>ვარსკვლავები</Face_Stars.label>
+  <Face_Tear.label>ცრემლი</Face_Tear.label>
+  <Face_Tiger.label>ვეფხვი</Face_Tiger.label>
+  <Face_Warpaint.label>ომის საღებავი</Face_Warpaint.label>
+  <Face_Worried.label>შეშფოთებული</Face_Worried.label>
+</LanguageData>

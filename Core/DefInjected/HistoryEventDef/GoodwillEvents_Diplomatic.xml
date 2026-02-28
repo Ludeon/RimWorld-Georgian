@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GaveGift.label>აჩუქა</GaveGift.label>
+  <PeaceTalksBackfire.label>სამშვიდობო მოლაპარაკებებმა საპირისპირო შედეგი გამოიღო</PeaceTalksBackfire.label>
+  <PeaceTalksDisaster.label>სამშვიდობო მოლაპარაკებების კატასტროფა</PeaceTalksDisaster.label>
+  <PeaceTalksSuccess.label>სამშვიდობო მოლაპარაკებების წარმატება</PeaceTalksSuccess.label>
+  <PeaceTalksTriumph.label>სამშვიდობო მოლაპარაკებების ტრიუმფი</PeaceTalksTriumph.label>
+  <RequestedMilitaryAid.label>სამხედრო დახმარება სთხოვა</RequestedMilitaryAid.label>
+  <RequestedOrbitalTrader.label>მოითხოვა ორბიტალური ტრეიდერი</RequestedOrbitalTrader.label>
+  <RequestedTrader.label>მოითხოვა მოვაჭრე</RequestedTrader.label>
+  <Traded.label>ვაჭრობდა</Traded.label>
+</LanguageData>

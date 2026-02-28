@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HermitCrab.label>მოღუშული კიბორჩხალა</HermitCrab.label>
+  <Otter.label>წავი</Otter.label>
+  <Seal.label>ბეჭედი</Seal.label>
+  <Seal.lifeStages.0.label>ბეჭედი ლეკვი</Seal.lifeStages.0.label>
+  <SeaLion.label>ზღვის ლომი</SeaLion.label>
+  <SeaLion.lifeStages.0.label>ზღვის ლომის ლეკვი</SeaLion.lifeStages.0.label>
+  <SeaTurtle.label>ზღვის კუ</SeaTurtle.label>
+  <StoneCrab.label>ქვის კიბორჩხალა</StoneCrab.label>
+  <Walrus.label>walrus</Walrus.label>
+  <Walrus.lifeStages.0.label>walrus ხბო</Walrus.lifeStages.0.label>
+</LanguageData>

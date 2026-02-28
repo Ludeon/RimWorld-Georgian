@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Apparel_ArmorRecon.description>მსუბუქი, ნაწილობრივ ენერგიაზე მომუშავე ჯავშანი, რომელიც სწრაფ მოძრაობას არ უშლის ხელს. მსუბუქი პლასტელ-ბოჭკოვანი ფირფიტები შეტევებს აჩერებს ისე, რომ მობილურობა არ იკარგება, ხოლო ნეირო-მნემონური დამხმარეები დამცველს ტარებას უადვილებს.</Apparel_ArmorRecon.description>
+  <Apparel_ArmorRecon.label>ხელახალი ჯავშანი</Apparel_ArmorRecon.label>
+  <Apparel_BasicShirt.description>უბრალო მაისური.</Apparel_BasicShirt.description>
+  <Apparel_BasicShirt.label>მაისური</Apparel_BasicShirt.label>
+  <Apparel_Cape.description>ელეგანტური დიზაინის გრძელი კონცხი. ტანის ერთ მხარეს კიდია.</Apparel_Cape.description>
+  <Apparel_Cape.label>კონცხი</Apparel_Cape.label>
+  <Apparel_CollarShirt.description>ლამაზი გარეგნობის საყელოიანი პერანგი ღილებით.</Apparel_CollarShirt.description>
+  <Apparel_CollarShirt.label>ღილებიანი პერანგი</Apparel_CollarShirt.label>
+  <Apparel_Duster.description>გრძელი მტვრის ქურთუკი, რომელიც ბლოკავს მზესა და გარე ნაწილებს.</Apparel_Duster.description>
+  <Apparel_Duster.label>მტვერი</Apparel_Duster.label>
+  <Apparel_FlakJacket.description>ხისტი ქსოვილის ქურთუკი ჯავშანტექნიკით შეკერილი. მიუხედავად იმისა, რომ ის არ არის ისეთივე კარგი, როგორც მყარი ჯავშანი, ის გთავაზობთ ეფექტურ დაცვას ყველა სახის თავდასხმისგან და ამავე დროს საკმაოდ კომფორტულია.</Apparel_FlakJacket.description>
+  <Apparel_FlakJacket.label>ფანტელი ქურთუკი</Apparel_FlakJacket.label>
+  <Apparel_FlakPants.description>შარვალი ჯავშანტექნიკით შეკერილი. მიუხედავად იმისა, რომ ის არ არის ისეთივე კარგი, როგორც მყარი ჯავშანი, ის გთავაზობთ ეფექტურ დაცვას ყველა სახის თავდასხმისგან და ამავე დროს საკმაოდ კომფორტულია.</Apparel_FlakPants.description>
+  <Apparel_FlakPants.label>ფანტელი შარვალი</Apparel_FlakPants.label>
+  <Apparel_FlakVest.description>ჟილეტი მკერდზე და ზურგზე ჩასმული ჯავშნის ფირფიტებით. მიუხედავად იმისა, რომ საკმაოდ ეფექტურია ცეცხლსასროლი იარაღის გადასატანად და მკერდზე დარტყმის შეტევაში, ის არაფერს იცავს კიდურებზე.</Apparel_FlakVest.description>
+  <Apparel_FlakVest.label>ფანტელი ჟილეტი</Apparel_FlakVest.label>
+  <Apparel_Jacket.description>მკაცრი ქურთუკი ნაკაწრებისა და სისხლჩაქცევების შესაჩერებლად და გრილ ამინდში დათბობის შესანარჩუნებლად.</Apparel_Jacket.description>
+  <Apparel_Jacket.label>ქურთუკი</Apparel_Jacket.label>
+  <Apparel_Pants.description>შარვლის მარტივი ნაკრები.</Apparel_Pants.description>
+  <Apparel_Pants.label>შარვალი</Apparel_Pants.label>
+  <Apparel_Parka.description>პარკი სითბოს შესანარჩუნებლად ყველაზე ცივ ტემპერატურაზეც კი.</Apparel_Parka.description>
+  <Apparel_Parka.label>პარკი</Apparel_Parka.label>
+  <Apparel_PlateArmor.description>ჯავშნის მყარი ფირფიტების გადახურვა, რომელიც ფარავს მთელ სხეულს კისრიდან ფეხებამდე.</Apparel_PlateArmor.description>
+  <Apparel_PlateArmor.label>ფირფიტის ჯავშანი</Apparel_PlateArmor.label>
+  <Apparel_PowerArmor.description>ენერგიაზე მომუშავე ჯავშანი. მრავალშრიანი პლასტელ-ბოჭკოვანი ფირფიტები შეტევების შეჩერებაში ძალიან ეფექტურია, ხოლო დაუცველი სახსრების ადგილები მინიმუმამდეა დაყვანილი. ნეირო-მნემონური დამხმარეები ადამიანს საშუალებას აძლევს ეს მძიმე ჯავშანი ეფექტურად ატაროს.</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.label>საზღვაო ჯავშანი</Apparel_PowerArmor.label>
+  <Apparel_Robe.description>გრძელი, მოქნილი მოსასხამი კაპოტის გარეშე.</Apparel_Robe.description>
+  <Apparel_Robe.label>მოსასხამი</Apparel_Robe.label>
+  <Apparel_TribalA.description>მთლიანი ტანის სამოსი, რომელიც შესრულებულია ნეოლითური იარაღებით. მიუხედავად იმისა, რომ ის შეიძლება პრიმიტიულად გამოიყურებოდეს, ეფექტურია მატარებლის იზოლაციაში.</Apparel_TribalA.description>
+  <Apparel_TribalA.label>ტომის ტანსაცმელი</Apparel_TribalA.label>
+</LanguageData>

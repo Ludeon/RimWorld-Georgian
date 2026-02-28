@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AnimalGatherSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი რძის, იჭრის და სხვაგვარად აგროვებს რესურსებს ცხოველებისგან.</AnimalGatherSpeed.description>
+  <AnimalGatherSpeed.label>ცხოველი აგროვებს სიჩქარეს</AnimalGatherSpeed.label>
+  <AnimalGatherYield.description>რამდენი რესურსი მიიღება, როცა ეს ადამიანი ცოცხალი ცხოველისგან მატყლს, რძეს ან სხვა პროდუქტს აგროვებს.\n\nმაღალი პროცენტი ამცირებს პროდუქტის გაფლანგვის შანსს.</AnimalGatherYield.description>
+  <AnimalGatherYield.label>ცხოველი აგროვებს მოსავალს</AnimalGatherYield.label>
+  <CleaningSpeed.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად ასუფთავებს ეს ჭუჭყს მიწიდან.</CleaningSpeed.description>
+  <CleaningSpeed.label>დასუფთავების სიჩქარის მულტიპლიკატორი</CleaningSpeed.label>
+  <ConstructionSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი აშენებს და არემონტებს შენობებს.</ConstructionSpeed.description>
+  <ConstructionSpeed.label>მშენებლობის სიჩქარე</ConstructionSpeed.label>
+  <ConstructSuccessChance.description>შანსი, რომ ეს ადამიანი წარმატებით ააგებს რამეს.\nწარუმატებლობა ნიშნავს დროისა და რესურსების დაკარგვას.</ConstructSuccessChance.description>
+  <ConstructSuccessChance.label>შექმენით წარმატების შანსი</ConstructSuccessChance.label>
+  <DeepDrillingSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი იყენებს ღრმა ბურღვას მიწისქვეშა რესურსების მოსაპოვებლად.</DeepDrillingSpeed.description>
+  <DeepDrillingSpeed.label>ღრმა ბურღვის სიჩქარე</DeepDrillingSpeed.label>
+  <DrugHarvestYield.description>რამდენ მოსავალს მიიღებს ეს ადამიანი ნარკოტიკული კულტურების აღებისას.\n\nდაბალი მაჩვენებელი ზრდის შანსს, რომ მოსავლის ნაწილი გააფუჭოს. მაღალი მაჩვენებელი თითოეული მცენარიდან მიღებულ პროდუქტს ზრდის.</DrugHarvestYield.description>
+  <DrugHarvestYield.label>წამლის მოსავლის მოსავალი</DrugHarvestYield.label>
+  <FixBrokenDownBuildingSuccessChance.description>შანსი, რომ ეს ადამიანი კომპონენტის გამოყენებით წარმატებით შეაკეთებს მწყობრიდან გამოსულ შენობას.\n\nწარუმატებლობა ნიშნავს დროისა და რესურსების დაკარგვას.\nგაითვალისწინეთ, ეს ეხება მხოლოდ ამ ტიპის შეკეთებას და არა ჩვეულებრივ კონსტრუქციულ რემონტს.</FixBrokenDownBuildingSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.label>შეკეთების წარმატების შანსი</FixBrokenDownBuildingSuccessChance.label>
+  <HackingSpeed.description>რამდენად სწრაფად შეუძლია ამ ადამიანს კომპიუტერის ტერმინალების გატეხვა.</HackingSpeed.description>
+  <HackingSpeed.label>ჰაკერების სიჩქარე</HackingSpeed.label>
+  <HackingStealth.description>რამდენი პროგრესი შეიძლება მიაღწიოს ჰაკერების გავრცელებას, სანამ ეს ადამიანი დროებით დაიბლოკება კომპიუტერულ სისტემაში. მხოლოდ გარკვეულ სისტემებს შეუძლიათ ჰაკერების აღმოჩენა.</HackingStealth.description>
+  <HackingStealth.label>სტელსის გატეხვა</HackingStealth.label>
+  <HuntingStealth.description>ეს სტატისტიკა ამცირებს ნადირობისას ცხოველის მხრიდან მონადირეზე თავდასხმის შანსს.\n\n0% ნიშნავს, რომ შემცირება არ არის.\n100% ნიშნავს, რომ ცხოველები არასდროს ესხმიან თავს.</HuntingStealth.description>
+  <HuntingStealth.label>ნადირობის სტელსი</HuntingStealth.label>
+  <MiningSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი აშორებს კედლებს.</MiningSpeed.description>
+  <MiningSpeed.label>მაინინგის სიჩქარე</MiningSpeed.label>
+  <MiningYield.description>რამდენი რესურსი მიიღება მოპოვებისას.\n\nეს ეხება როგორც კედლის გათხრას, ისე ღრმა საბურღს.\nეს არ ცვლის ღრმა საბურღიდან ქვის ნატეხების წარმოების სიჩქარეს.</MiningYield.description>
+  <MiningYield.label>სამთო მოსავლიანობა</MiningYield.label>
+  <PlantHarvestYield.description>რამდენ მოსავალს მიიღებს ეს ადამიანი მცენარეების აღებისას.\n\nდაბალი მაჩვენებელი ზრდის შანსს, რომ მოსავლის ნაწილი შემთხვევით გაფლანგოს.</PlantHarvestYield.description>
+  <PlantHarvestYield.label>მცენარის მოსავლის მოსავალი</PlantHarvestYield.label>
+  <PlantWorkSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი თესავს და იღებს მცენარეებს.</PlantWorkSpeed.description>
+  <PlantWorkSpeed.label>ქარხნის მუშაობის სიჩქარე</PlantWorkSpeed.label>
+  <ReadingSpeed.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად შეუძლია ამ ადამიანს კითხვა.</ReadingSpeed.description>
+  <ReadingSpeed.label>კითხვის სიჩქარე</ReadingSpeed.label>
+  <ResearchSpeed.description>რამდენად სწრაფად ახორციელებს ეს ადამიანი კვლევას და რამდენად სწრაფად შეუძლია ნივთების პოვნა სკანირების აღჭურვილობის გამოყენებით.</ResearchSpeed.description>
+  <ResearchSpeed.label>კვლევის სიჩქარე</ResearchSpeed.label>
+  <SmoothingSpeed.description>მულტიპლიკატორი სიჩქარეზე, რომლითაც ეს ადამიანი არბილებს უხეშ ქვის იატაკებსა და კედლებს.</SmoothingSpeed.description>
+  <SmoothingSpeed.label>დაგლუვების სიჩქარე</SmoothingSpeed.label>
+  <WorkSpeedGlobal.description>პერსონაჟის სიჩქარის მულტიპლიკატორი ნებისმიერი სახის სამუშაოს შესრულებისას.</WorkSpeedGlobal.description>
+  <WorkSpeedGlobal.label>მუშაობის გლობალური სიჩქარე</WorkSpeedGlobal.label>
+  <WorkSpeedGlobal.parts.2.label>ოფსეტი მექანიტორისგან</WorkSpeedGlobal.parts.2.label>
+</LanguageData>

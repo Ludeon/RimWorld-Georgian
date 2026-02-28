@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Harp.description>შექმენით არფა, მარტივი სტაციონარული მუსიკალური ინსტრუმენტი, რომელიც პოპულარულია ზოგიერთ კულტურაში თავადაზნაურობაში.</Harp.description>
+  <Harp.label>არფა</Harp.label>
+  <Harpsichord.description>შექმენით კლავესინი, რთული სტაციონარული მუსიკალური ინსტრუმენტი.</Harpsichord.description>
+  <Harpsichord.label>კლავესინი</Harpsichord.label>
+  <Piano.description>შექმენით ფორტეპიანო, მოწინავე სტაციონარული მუსიკალური ინსტრუმენტი.</Piano.description>
+  <Piano.label>ფორტეპიანო</Piano.label>
+</LanguageData>

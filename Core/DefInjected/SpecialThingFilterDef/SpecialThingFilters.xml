@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AllowAdultOnlyApparel.description>დაუშვით ტანსაცმელი, რომლის ტარება მხოლოდ მოზრდილებს შეუძლიათ.</AllowAdultOnlyApparel.description>
+  <AllowAdultOnlyApparel.label>დაუშვით მხოლოდ მოზრდილთა ტანსაცმელი</AllowAdultOnlyApparel.label>
+  <AllowBiocodedApparel.label>ბიოკოდირებული ტანსაცმლის დაშვება</AllowBiocodedApparel.label>
+  <AllowBiocodedWeapons.label>ბიოკოდირებული იარაღის დაშვება</AllowBiocodedWeapons.label>
+  <AllowBookAnimals.description>დაუშვით წიგნები, რომლებიც ასწავლიან ცხოველებთან დაკავშირებულ უნარებს.</AllowBookAnimals.description>
+  <AllowBookAnimals.label>ცხოველები</AllowBookAnimals.label>
+  <AllowBookArtistic.description>დაუშვით წიგნები, რომლებიც ასწავლიან ხელოვნების უნარებს.</AllowBookArtistic.description>
+  <AllowBookArtistic.label>მხატვრული</AllowBookArtistic.label>
+  <AllowBookConstruction.description>დაუშვით წიგნები, რომლებიც ასწავლიან სამშენებლო უნარებს.</AllowBookConstruction.description>
+  <AllowBookConstruction.label>მშენებლობა</AllowBookConstruction.label>
+  <AllowBookCooking.description>დაუშვით წიგნები, რომლებიც ასწავლიან სამზარეულოს უნარებს.</AllowBookCooking.description>
+  <AllowBookCooking.label>სამზარეულო</AllowBookCooking.label>
+  <AllowBookCrafting.description>დაუშვით წიგნები, რომლებიც ასწავლიან ხელოსნობის უნარებს.</AllowBookCrafting.description>
+  <AllowBookCrafting.label>ხელოსნობა</AllowBookCrafting.label>
+  <AllowBookIntellectual.description>დაუშვით წიგნები, რომლებიც ასწავლიან ინტელექტუალურ უნარებს.</AllowBookIntellectual.description>
+  <AllowBookIntellectual.label>ინტელექტუალური</AllowBookIntellectual.label>
+  <AllowBookMedicine.description>დაუშვით წიგნები, რომლებიც ასწავლიან სამედიცინო უნარებს.</AllowBookMedicine.description>
+  <AllowBookMedicine.label>სამედიცინო</AllowBookMedicine.label>
+  <AllowBookMelee.description>დაუშვით წიგნები, რომლებიც ასწავლიან მელეის უნარებს.</AllowBookMelee.description>
+  <AllowBookMelee.label>ახლო ბრძოლა</AllowBookMelee.label>
+  <AllowBookMining.description>დაუშვით წიგნები, რომლებიც ასწავლიან მაინინგის უნარებს.</AllowBookMining.description>
+  <AllowBookMining.label>სამთო მოპოვება</AllowBookMining.label>
+  <AllowBookPlants.description>დაუშვით წიგნები, რომლებიც ასწავლიან მცენარეებთან დაკავშირებულ უნარებს.</AllowBookPlants.description>
+  <AllowBookPlants.label>მცენარეები</AllowBookPlants.label>
+  <AllowBookShooting.description>დაუშვით წიგნები, რომლებიც ასწავლიან სროლის უნარს.</AllowBookShooting.description>
+  <AllowBookShooting.label>სროლა</AllowBookShooting.label>
+  <AllowBookSocial.description>დაუშვით წიგნები, რომლებიც ასწავლიან სოციალურ უნარებს.</AllowBookSocial.description>
+  <AllowBookSocial.label>სოციალური</AllowBookSocial.label>
+  <AllowBurnableApparel.label>დაწვის საშუალებას იძლევა</AllowBurnableApparel.label>
+  <AllowBurnableWeapons.label>დაწვის საშუალებას იძლევა</AllowBurnableWeapons.label>
+  <AllowChildOnlyApparel.description>დაუშვით ტანსაცმელი, რომლის ტარება მხოლოდ ბავშვებს შეუძლიათ.</AllowChildOnlyApparel.description>
+  <AllowChildOnlyApparel.label>დაუშვით მხოლოდ ბავშვის ტანსაცმელი</AllowChildOnlyApparel.label>
+  <AllowCorpsesColonist.description>დაუშვით კოლონისტების ცხედრები.</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.label>დაუშვას კოლონისტების გვამები</AllowCorpsesColonist.label>
+  <AllowCorpsesStranger.description>დაუშვით უცნობთა და მტრების ცხედრები.</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.label>დაუშვას უცხო ცხედრები</AllowCorpsesStranger.label>
+  <AllowDeadmansApparel.description>დაუშვით ტანსაცმელი, რომელიც ოდესღაც გვამს ეცვა. ადამიანთა უმეტესობა გვამებით დაბინძურებულ ტანსაცმელს შემაშფოთებლად მიიჩნევს და მოვაჭრეები მას არ მიიღებენ.</AllowDeadmansApparel.description>
+  <AllowDeadmansApparel.label>დაუშვით დაბინძურებული ტანსაცმელი</AllowDeadmansApparel.label>
+  <AllowFemaleGender.description>დაუშვით ქალი ინდივიდები.</AllowFemaleGender.description>
+  <AllowFemaleGender.label>ნება მიეცით ქალებს</AllowFemaleGender.label>
+  <AllowFresh.description>მიეცით საშუალება ორგანულ ნივთებს, რომლებსაც ჯერ არ დაუწყიათ ლპობა.</AllowFresh.description>
+  <AllowFresh.label>დაუშვას ახალი</AllowFresh.label>
+  <AllowLargeCorpses.description>დაუშვით დიდი, მკვდარი სხეულები.</AllowLargeCorpses.description>
+  <AllowLargeCorpses.label>დაუშვას დიდი გვამები</AllowLargeCorpses.label>
+  <AllowMainResearch.description>დაუშვით წიგნები, რომლებიც ხელს უწყობენ ჩვეულებრივი კვლევითი პროექტების კვლევას.</AllowMainResearch.description>
+  <AllowMainResearch.label>ნორმალური კვლევა</AllowMainResearch.label>
+  <AllowMaleGender.description>დაუშვით მამრობითი სქესის პირები.</AllowMaleGender.description>
+  <AllowMaleGender.label>დაუშვას მამაკაცი</AllowMaleGender.label>
+  <AllowNonBiocodedApparel.label>დაუშვით არაბიოკოდირებული ტანსაცმელი</AllowNonBiocodedApparel.label>
+  <AllowNonBiocodedWeapons.label>დაუშვას არაბიოკოდირებული იარაღი</AllowNonBiocodedWeapons.label>
+  <AllowNonBurnableApparel.label>დაუშვას შეუწვავი</AllowNonBurnableApparel.label>
+  <AllowNonBurnableWeapons.label>დაუშვას შეუწვავი</AllowNonBurnableWeapons.label>
+  <AllowNonDeadmansApparel.description>დაუშვით ტანსაცმელი, რომელიც არასოდეს ეცვა გვამს. ადამიანთა უმეტესობა გვამებით დაბინძურებულ ტანსაცმელს შემაშფოთებლად მიიჩნევს და მოვაჭრეები მას არ მიიღებენ.</AllowNonDeadmansApparel.description>
+  <AllowNonDeadmansApparel.label>დაუშვით სუფთა ტანსაცმელი</AllowNonDeadmansApparel.label>
+  <AllowNonSmeltableApparel.label>დაუშვას არადნობის</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableWeapons.label>დაუშვას არადნობის</AllowNonSmeltableWeapons.label>
+  <AllowPlantFood.description>დაუშვით საკვები, რომელიც ეკვივალენტურია მოუღებელ მცენარეებთან, როგორიცაა თივა.</AllowPlantFood.description>
+  <AllowPlantFood.label>მცენარეული საკვების დაშვება</AllowPlantFood.label>
+  <AllowRotten.description>დაუშვით ორგანული ნივთიერებები, რომლებმაც დაიწყეს ლპობა.</AllowRotten.description>
+  <AllowRotten.label>დამპალი დაშვება</AllowRotten.label>
+  <AllowSmeltable.label>დაუშვას დნობა</AllowSmeltable.label>
+  <AllowSmeltableApparel.label>დაუშვას დნობა</AllowSmeltableApparel.label>
+  <AllowUnfinished.description>დაუსრულებელი ნივთების დაშვება.</AllowUnfinished.description>
+  <AllowUnfinished.label>დაუსრულებელი დაშვება</AllowUnfinished.label>
+</LanguageData>

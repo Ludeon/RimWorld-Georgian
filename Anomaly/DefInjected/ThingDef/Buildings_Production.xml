@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BioferriteHarvester.description>When placed near a holding platform, this device draws biomass from the held entity and converts it to bioferrite. The harvester creates more bioferrite than manual extraction.\n\nLarger entities generally produce more bioferrite. However, for most creatures, the process causes extreme discomfort, making the entity harder to contain.\n\nEach holding platform can only support one harvester; however, each harvester can connect to multiple platforms.</BioferriteHarvester.description>
+  <BioferriteHarvester.label>ბიოფერიტის მოსავლელი</BioferriteHarvester.label>
+  <BioferriteShaper.description>სამუშაო სკამი, რომელიც გამოიყენება ბიოფერიტის პროდუქტების დასამზადებლად. ეს სკამი იყენებს სითბოს და ელექტრომაგნიტურ სტიმულაციას ბიოფერიტის დროებით ელასტიურ მდგომარეობაში გადასასვლელად, რაც საშუალებას აძლევს მუშაკს აყალიბოს იგი რთულ ფორმებად და დააკავშიროს იგი სხვა მასალებთან.</BioferriteShaper.description>
+  <BioferriteShaper.label>ბიოფერიტის ფორმირებადი</BioferriteShaper.label>
+  <SerumCentrifuge.description>სამუშაო მაგიდა, რომელიც იყენებს გასუფთავებულ არქოტექნოლოგიას ერთჯერადი საინექციო შრატების შესაქმნელად. შრატები წარმოქმნიან მრავალფეროვან და ეგზოტიკურ ეფექტებს ეგზოტიკური არქოტექნიკური მექანიტების გამოყენებით.</SerumCentrifuge.description>
+  <SerumCentrifuge.label>შრატის ლაბორატორია</SerumCentrifuge.label>
+</LanguageData>

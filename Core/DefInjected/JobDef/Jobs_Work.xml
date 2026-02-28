@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AnalyzeItem.reportString>TargetA-ს ანალიზი.</AnalyzeItem.reportString>
+  <Arrest.reportString>TargetA-ს დაკავება.</Arrest.reportString>
+  <BuildRoof.reportString>შენობის სახურავი.</BuildRoof.reportString>
+  <Capture.reportString>TargetA-ს დაჭერა.</Capture.reportString>
+  <CarryDownedPawnDrafted.reportString>TargetA-ს მატარებელი.</CarryDownedPawnDrafted.reportString>
+  <CarryDownedPawnToExit.reportString>TargetA-ს მატარებელი.</CarryDownedPawnToExit.reportString>
+  <CarryDownedPawnToPortal.reportString>TargetA-ს მატარებელი.</CarryDownedPawnToPortal.reportString>
+  <CarryToCryptosleepCasket.reportString>TargetA-ს კრიპტოძილის ყუთში გადატანა.</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasketDrafted.reportString>TargetA-ს კრიპტოძილის ყუთში გადატანა.</CarryToCryptosleepCasketDrafted.reportString>
+  <CarryToPrisonerBedDrafted.reportString>TargetA-ს დაკავება.</CarryToPrisonerBedDrafted.reportString>
+  <Clean.reportString>გაწმენდა TargetA.</Clean.reportString>
+  <CutPlant.reportString>ჭრის TargetA.</CutPlant.reportString>
+  <CutPlantDesignated.reportString>ჭრის TargetA.</CutPlantDesignated.reportString>
+  <Deconstruct.reportString>TargetA-ს დეკონსტრუქცია.</Deconstruct.reportString>
+  <DeconstructForBlueprint.reportString>TargetA-ს დეკონსტრუქცია.</DeconstructForBlueprint.reportString>
+  <DeliverFood.reportString>მიირთმევს TargetA TargetB-ს.</DeliverFood.reportString>
+  <DoBill.reportString>აკეთებს ანგარიშს TargetA-ში.</DoBill.reportString>
+  <EscortPrisonerToBed.reportString>ბადრაგი პატიმარი TargetA.</EscortPrisonerToBed.reportString>
+  <ExtractSkull.reportString>თავის ქალის ამოღება TargetA-დან.</ExtractSkull.reportString>
+  <ExtractTree.reportString>ამოღებულია TargetA.</ExtractTree.reportString>
+  <FeedPatient.reportString>მიირთმევს TargetA TargetB-ს.</FeedPatient.reportString>
+  <FillIn.reportString>TargetA-ს შევსება.</FillIn.reportString>
+  <FinishFrame.reportString>შენობა TargetA.</FinishFrame.reportString>
+  <FixBrokenDownBuilding.reportString>გატეხილი კომპონენტების შეცვლა TargetA-ში.</FixBrokenDownBuilding.reportString>
+  <GuiltyColonistExecution.reportString>TargetA-ს შესრულება.</GuiltyColonistExecution.reportString>
+  <Hack.reportString>TargetA-ს გატეხვა.</Hack.reportString>
+  <Harvest.reportString>მოსავლის აღება TargetA.</Harvest.reportString>
+  <HarvestDesignated.reportString>მოსავლის აღება TargetA.</HarvestDesignated.reportString>
+  <HaulToCell.reportString>TargetA-ს გადაზიდვა.</HaulToCell.reportString>
+  <HaulToContainer.reportString>TargetA-ს გადაზიდვა.</HaulToContainer.reportString>
+  <Hunt.reportString>ნადირობა TargetA.</Hunt.reportString>
+  <Kidnap.reportString>გატაცება TargetA.</Kidnap.reportString>
+  <Milk.reportString>რძის სამიზნეA.</Milk.reportString>
+  <Mine.reportString>თხრა TargetA-ზე.</Mine.reportString>
+  <OperateDeepDrill.reportString>ბურღვა TargetA-ზე.</OperateDeepDrill.reportString>
+  <OperateScanner.reportString>სკანირება TargetA-ზე.</OperateScanner.reportString>
+  <PaintBuilding.reportString>ნახატი TargetA.</PaintBuilding.reportString>
+  <PaintFloor.reportString>ნახატი TargetA.</PaintFloor.reportString>
+  <PlaceNoCostFrame.reportString>შენობა TargetA.</PlaceNoCostFrame.reportString>
+  <PlantSeed.reportString>დარგვა TargetA.</PlantSeed.reportString>
+  <PrisonerAttemptRecruit.reportString>ცდილობს TargetA-ს გადაბირებას.</PrisonerAttemptRecruit.reportString>
+  <PrisonerExecution.reportString>TargetA-ს შესრულება.</PrisonerExecution.reportString>
+  <ReleaseAnimalToWild.reportString>TargetA-ს ველურ ბუნებაში გათავისუფლება.</ReleaseAnimalToWild.reportString>
+  <ReleasePrisoner.reportString>TargetA-ს გათავისუფლება.</ReleasePrisoner.reportString>
+  <RemoveFloor.reportString>იატაკის მოხსნა.</RemoveFloor.reportString>
+  <RemoveFoundation.reportString>ხიდების მოხსნა.</RemoveFoundation.reportString>
+  <RemovePaintBuilding.reportString>საღებავის ამოღება TargetA-დან.</RemovePaintBuilding.reportString>
+  <RemovePaintFloor.reportString>საღებავის ამოღება TargetA-დან.</RemovePaintFloor.reportString>
+  <RemoveRoof.reportString>სახურავის მოხსნა.</RemoveRoof.reportString>
+  <Repair.reportString>TargetA-ს შეკეთება.</Repair.reportString>
+  <Replant.reportString>გადარგვა TargetA.</Replant.reportString>
+  <Rescue.reportString>TargetA-ს გადარჩენა.</Rescue.reportString>
+  <Research.reportString>იკვლევს.</Research.reportString>
+  <RopeRoamerToHitchingPost.reportString>მიჰყავს TargetA დაჯახების ადგილზე.</RopeRoamerToHitchingPost.reportString>
+  <RopeRoamerToUnenclosedPen.reportString>მიჰყავს TargetA TargetC-მდე.</RopeRoamerToUnenclosedPen.reportString>
+  <RopeToPen.reportString>მიჰყავს TargetA TargetC-მდე.</RopeToPen.reportString>
+  <Shear.reportString>გაპარსვა TargetA.</Shear.reportString>
+  <Slaughter.reportString>საკლავი TargetA.</Slaughter.reportString>
+  <SmoothFloor.reportString>დაგლუვების იატაკი.</SmoothFloor.reportString>
+  <SmoothWall.reportString>დაგლუვების კედელი.</SmoothWall.reportString>
+  <Sow.reportString>სათესი TargetA.</Sow.reportString>
+  <Steal.reportString>TargetA-ს მოპარვა.</Steal.reportString>
+  <StudyInteract.reportString>შესწავლა TargetA.</StudyInteract.reportString>
+  <StudyItem.reportString>შესწავლა TargetA.</StudyItem.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>TargetA-ს საწოლში მიყვანა.</TakeDownedPawnToBedDrafted.reportString>
+  <TakeToBedToOperate.reportString>TargetA-ს საწოლში მიყვანა.</TakeToBedToOperate.reportString>
+  <TakeWoundedPrisonerToBed.reportString>დაჭრილი ტყვე TargetA-ს აღება.</TakeWoundedPrisonerToBed.reportString>
+  <Tame.reportString>TargetA-ს მოთვინიერება.</Tame.reportString>
+  <TendPatient.reportString>ცდილობს TargetA.</TendPatient.reportString>
+  <Train.reportString>ტრენინგი TargetA.</Train.reportString>
+  <Uninstall.reportString>TargetA-ს დეინსტალაცია.</Uninstall.reportString>
+  <Unrope.reportString>ამოღება TargetA.</Unrope.reportString>
+  <UseCommsConsole.reportString>კომისიის კონსოლის გამოყენებით.</UseCommsConsole.reportString>
+</LanguageData>

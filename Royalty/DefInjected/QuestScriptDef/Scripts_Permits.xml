@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Permit_CallLaborers.root.nodes.10.node.nodes.1.inspectString>უნდა წავიდეს შატლით</Permit_CallLaborers.root.nodes.10.node.nodes.1.inspectString>
+  <Permit_CallLaborers.root.nodes.10.node.nodes.2.label>შატლი ჩამოვიდა</Permit_CallLaborers.root.nodes.10.node.nodes.2.label>
+  <Permit_CallLaborers.root.nodes.13.node.nodes.0.label>მშრომელი გარდაიცვალა: {SUBJECT_definite}</Permit_CallLaborers.root.nodes.13.node.nodes.0.label>
+  <Permit_CallLaborers.root.nodes.14.node.nodes.0.label>მიტოვებული მუშა: {SUBJECT_definite}</Permit_CallLaborers.root.nodes.14.node.nodes.0.label>
+  <Permit_CallLaborers.root.nodes.8.label>მუშები მოვიდნენ</Permit_CallLaborers.root.nodes.8.label>
+</LanguageData>

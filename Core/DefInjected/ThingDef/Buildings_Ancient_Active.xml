@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientCryptosleepPod.description>ერთჯერადი ბლოკი ერთი ადამიანის შესანარჩუნებლად შეჩერებული ანიმაციის მდგომარეობაში. კრიპტოძილის ყუთებისგან განსხვავებით, კრიპტოძილის კუბიკების გამოყენება შესაძლებელია მხოლოდ ერთხელ.</AncientCryptosleepPod.description>
+  <AncientCryptosleepPod.label>უძველესი კრიპტოძილის პარკი</AncientCryptosleepPod.label>
+  <AncientFuelNode.description>უძველესი, არასტაბილური საწვავის კვანძი, რომელიც ერთხელ გამოიყენებოდა მანქანების საწვავით დასატენად. წლების განმავლობაში ის არასტაბილური გახდა მოვლის ნაკლებობის გამო.</AncientFuelNode.description>
+  <AncientFuelNode.label>უძველესი არასტაბილური საწვავის კვანძი</AncientFuelNode.label>
+  <AncientHermeticCrate.description>ჰერმეტულად დალუქული უჯრა ძვირფასი ნივთების შესანარჩუნებლად. მათ შეუძლიათ შეინარჩუნონ შინაარსი დიდი ხნის განმავლობაში.</AncientHermeticCrate.description>
+  <AncientHermeticCrate.label>ჰერმეტული ყუთი</AncientHermeticCrate.label>
+</LanguageData>

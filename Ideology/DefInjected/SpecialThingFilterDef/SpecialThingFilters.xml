@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AllowCannibal.description>მიეცით საკვები, რომელიც მისაღებია კანიბალებისთვის (ანუ შეიცავს ადამიანის ხორცს). ეს ეხება კერძებს, რომელთა კლასიფიკაცია დამოკიდებულია მათ ინგრედიენტებზე.</AllowCannibal.description>
+  <AllowCannibal.label>დაუშვით საკვები ადამიანის ხორცით</AllowCannibal.label>
+  <AllowCarnivore.description>დაუშვით საკვები, რომელიც ზოგადად მისაღებია ხორცის მჭამელებისთვის, მაგრამ მიუღებელია ვეგეტარიანელებისთვის. ეს ეხება კერძებს, რომელთა კლასიფიკაცია დამოკიდებულია მათ ინგრედიენტებზე. ეს არ აკონტროლებს ადამიანის და მწერების ხორცს.</AllowCarnivore.description>
+  <AllowCarnivore.label>დაუშვით საკვები მადისაღმძვრელი ხორცით</AllowCarnivore.label>
+  <AllowCorpsesSlave.description>ნება მიეცით მონების ცხედრები.</AllowCorpsesSlave.description>
+  <AllowCorpsesSlave.label>დაუშვას მონა ცხედრები</AllowCorpsesSlave.label>
+  <AllowInsectMeat.description>დაუშვით საკვები, რომელიც შეიცავს მწერების ხორცს. ეს ეხება კერძებს, რომელთა კლასიფიკაცია დამოკიდებულია მათ ინგრედიენტებზე.</AllowInsectMeat.description>
+  <AllowInsectMeat.label>დაუშვით საკვები მწერების ხორცით</AllowInsectMeat.label>
+  <AllowVegetarian.description>მიეცით საკვები, რომელიც მისაღებია ვეგეტარიანელებისთვის, მაგრამ მიუღებელია მათთვის, ვინც მხოლოდ ხორცს ჭამს. ეს ეხება კერძებს, რომელთა კლასიფიკაცია დამოკიდებულია მათ ინგრედიენტებზე.</AllowVegetarian.description>
+  <AllowVegetarian.label>დაუშვით ვეგეტარიანული საკვები</AllowVegetarian.label>
+</LanguageData>

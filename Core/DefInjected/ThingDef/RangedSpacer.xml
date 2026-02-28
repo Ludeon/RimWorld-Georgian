@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_ChargeLance.label>დამუხტვის შუშის გასროლა</Bullet_ChargeLance.label>
+  <Bullet_ChargeRifle.label>დამუხტვის გასროლა</Bullet_ChargeRifle.label>
+  <Gun_ChargeLance.description>პულსით დამუხტული სარკინიგზო დამხმარე იარაღი. ის ისვრის ერთ გასროლას მაღალი სიჩქარით, ავსებს მას არასტაბილური ენერგიით, როდესაც ის ტოვებს აჩქარების ლიანდაგს.</Gun_ChargeLance.description>
+  <Gun_ChargeLance.label>დამუხტვის შუბი</Gun_ChargeLance.label>
+  <Gun_ChargeRifle.description>დამუხტული ცეცხლსასროლი იარაღი. პულსის დამუხტვის ტექნოლოგია ლულის გასვლისას თითოეულ გასროლას არასტაბილური ენერგიით მუხტავს. დარტყმის დროს გამოთავისუფლებული დამუხტული ენერგია მნიშვნელოვნად ზრდის მიყენებულ ზიანს.</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.label>დამუხტული თოფი</Gun_ChargeRifle.label>
+</LanguageData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EggAlligatorFertilized.description>განაყოფიერებული ალიგატორის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ახალშობილ ალიგატორში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggAlligatorFertilized.description>
+  <EggAlligatorFertilized.label>ალიგატორის კვერცხი (ფერტ.)</EggAlligatorFertilized.label>
+  <EggAlligatorUnfertilized.description>გაუნაყოფიერებელი ალიგატორის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggAlligatorUnfertilized.description>
+  <EggAlligatorUnfertilized.label>ალიგატორის კვერცხი (უსაფრთხო.)</EggAlligatorUnfertilized.label>
+  <EggBluebirdFertilized.description>განაყოფიერებული ლურჯი ფრინველის კვერცხუჯრედი. თუ ყველაფერი კარგად წავა, ის უნდა გამოიჩეკდეს პატარა ცისფერ ფრინველად. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggBluebirdFertilized.description>
+  <EggBluebirdFertilized.label>ლურჯი ფრინველის კვერცხი (ფერტ.)</EggBluebirdFertilized.label>
+  <EggBluebirdUnfertilized.description>ლურჯი ფრინველის გაუნაყოფიერებელი კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggBluebirdUnfertilized.description>
+  <EggBluebirdUnfertilized.label>ცისფერი ფრინველის კვერცხი (უსაფრთხო.)</EggBluebirdUnfertilized.label>
+  <EggCrowFertilized.description>განაყოფიერებული ყვავის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს პატარა ყვავაში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggCrowFertilized.description>
+  <EggCrowFertilized.label>ყვავი კვერცხი (ფერტ.)</EggCrowFertilized.label>
+  <EggCrowUnfertilized.description>გაუნაყოფიერებელი ყვავი კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggCrowUnfertilized.description>
+  <EggCrowUnfertilized.label>ყვავი კვერცხი (უსაფრთხო.)</EggCrowUnfertilized.label>
+  <EggFlamingoFertilized.description>განაყოფიერებული ფლამინგოს კვერცხი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს პატარა ფლამინგოში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggFlamingoFertilized.description>
+  <EggFlamingoFertilized.label>ფლამინგოს კვერცხი (ფერტ.)</EggFlamingoFertilized.label>
+  <EggFlamingoUnfertilized.description>გაუნაყოფიერებელი ფლამინგოს კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggFlamingoUnfertilized.description>
+  <EggFlamingoUnfertilized.label>ფლამინგოს კვერცხი (უსაფრთხო.)</EggFlamingoUnfertilized.label>
+  <EggHeronFertilized.description>განაყოფიერებული ყანჩის კვერცხი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ყანჩაში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggHeronFertilized.description>
+  <EggHeronFertilized.label>ჰერონის კვერცხი (ფერტ.)</EggHeronFertilized.label>
+  <EggHeronUnfertilized.description>გაუნაყოფიერებელი ყანჩის კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggHeronUnfertilized.description>
+  <EggHeronUnfertilized.label>ყანჩას კვერცხი (უფერ.)</EggHeronUnfertilized.label>
+  <EggMacawFertilized.description>განაყოფიერებული მაკაოს კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს თუთიყუშში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggMacawFertilized.description>
+  <EggMacawFertilized.label>მაკაოს კვერცხი (ფერტ.)</EggMacawFertilized.label>
+  <EggMacawUnfertilized.description>გაუნაყოფიერებელი მაკაოს კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggMacawUnfertilized.description>
+  <EggMacawUnfertilized.label>მაკაოს კვერცხი (უსაფრთხო.)</EggMacawUnfertilized.label>
+  <EggMonitorLizardFertilized.description>განაყოფიერებული მონიტორის ხვლიკის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ბავშვის მონიტორის ხვლიკში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggMonitorLizardFertilized.description>
+  <EggMonitorLizardFertilized.label>ხვლიკის კვერცხის მონიტორინგი (ნაყოფი.)</EggMonitorLizardFertilized.label>
+  <EggMonitorLizardUnfertilized.description>გაუნაყოფიერებელი მონიტორის ხვლიკის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggMonitorLizardUnfertilized.description>
+  <EggMonitorLizardUnfertilized.label>ხვლიკის კვერცხუჯრედის მონიტორინგი (უფერ.)</EggMonitorLizardUnfertilized.label>
+  <EggPeacockFertilized.description>განაყოფიერებული ფარშევანგის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს პატარა ფარშევანში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggPeacockFertilized.description>
+  <EggPeacockFertilized.label>ფარშევანგის კვერცხი (ფერტ.)</EggPeacockFertilized.label>
+  <EggPeacockUnfertilized.description>განაყოფიერებული ფარშევანგის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggPeacockUnfertilized.description>
+  <EggPeacockUnfertilized.label>ფარშევანგის კვერცხი (უფერ.)</EggPeacockUnfertilized.label>
+  <EggPenguinFertilized.description>განაყოფიერებული პინგვინის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს პატარა პინგვინში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggPenguinFertilized.description>
+  <EggPenguinFertilized.label>პინგვინის კვერცხი (ფერტ.)</EggPenguinFertilized.label>
+  <EggPenguinUnfertilized.description>გაუნაყოფიერებელი პინგვინის კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggPenguinUnfertilized.description>
+  <EggPenguinUnfertilized.label>პინგვინის კვერცხი (უსაფრთხო.)</EggPenguinUnfertilized.label>
+  <EggQuailFertilized.description>განაყოფიერებული მწყერის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს მწყერში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggQuailFertilized.description>
+  <EggQuailFertilized.label>მწყერის კვერცხი (ფერტ.)</EggQuailFertilized.label>
+  <EggQuailUnfertilized.description>გაუნაყოფიერებელი მწყერის კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggQuailUnfertilized.description>
+  <EggQuailUnfertilized.label>მწყერის კვერცხი (უსაფრთხო.)</EggQuailUnfertilized.label>
+  <EggSeaTurtleFertilized.description>განაყოფიერებული ზღვის კუს კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ჩვილ ზღვის კუში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggSeaTurtleFertilized.description>
+  <EggSeaTurtleFertilized.label>ზღვის კუს კვერცხი (ფერტ.)</EggSeaTurtleFertilized.label>
+  <EggSeaTurtleUnfertilized.description>გაუნაყოფიერებელი ზღვის კუს კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggSeaTurtleUnfertilized.description>
+  <EggSeaTurtleUnfertilized.label>ზღვის კუს კვერცხი (უსაფრთხო.)</EggSeaTurtleUnfertilized.label>
+  <EggSparrowFertilized.description>განაყოფიერებული ბეღურას კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ბეღურში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggSparrowFertilized.description>
+  <EggSparrowFertilized.label>ბეღურას კვერცხი (ფერტ.)</EggSparrowFertilized.label>
+  <EggSparrowUnfertilized.description>გაუნაყოფიერებელი ბეღურას კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggSparrowUnfertilized.description>
+  <EggSparrowUnfertilized.label>ბეღურას კვერცხი (უსაფრთხო.)</EggSparrowUnfertilized.label>
+  <EggSwanFertilized.description>განაყოფიერებული გედის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს გედში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggSwanFertilized.description>
+  <EggSwanFertilized.label>გედის კვერცხი (ფერტ.)</EggSwanFertilized.label>
+  <EggSwanUnfertilized.description>გაუნაყოფიერებელი გედის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggSwanUnfertilized.description>
+  <EggSwanUnfertilized.label>გედის კვერცხი (უსაფრთხო.)</EggSwanUnfertilized.label>
+  <EggVultureFertilized.description>განაყოფიერებული რძის კვერცხი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ჩვილ ულვაში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggVultureFertilized.description>
+  <EggVultureFertilized.label>რძის კვერცხი (ნაყოფი.)</EggVultureFertilized.label>
+  <EggVultureUnfertilized.description>უნაყოფო რძის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggVultureUnfertilized.description>
+  <EggVultureUnfertilized.label>ვირთხის კვერცხი (უნაყოფიერებელი.)</EggVultureUnfertilized.label>
+  <WoolMastodon.description>სქელი შაგიანი ბამბა მასტოდონისგან. უზრუნველყოფს შესანიშნავ იზოლაციას სიცივისგან.</WoolMastodon.description>
+  <WoolMastodon.label>მასტოდონის ბამბა</WoolMastodon.label>
+  <WoolMuskox.description>ქავილი მატყლი მუსკოქსისგან. კარგად იცავს სიცივეს.</WoolMuskox.description>
+  <WoolMuskox.label>მუსკოქსის ბამბა</WoolMuskox.label>
+</LanguageData>

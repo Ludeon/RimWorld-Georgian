@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActivitySuppressionRate.description>სიჩქარე, რომლითაც ამ ადამიანს შეუძლია დათრგუნოს არაბუნებრივი არსებები. უფრო მაღალი სიჩქარე ნიშნავს, რომ მათ ნაკლები დრო სჭირდებათ თითოეული ერთეულის ჩახშობას.</ActivitySuppressionRate.description>
+  <ActivitySuppressionRate.label>აქტივობის ჩახშობის სიჩქარე</ActivitySuppressionRate.label>
+  <EntityStudyRate.description>სიჩქარე, რომლითაც ეს ადამიანი გამოიმუშავებს ცოდნას არაბუნებრივი არსებების შესწავლით.</EntityStudyRate.description>
+  <EntityStudyRate.label>სუბიექტის შესწავლის მაჩვენებელი</EntityStudyRate.label>
+  <StudyEfficiency.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენ ცოდნას იღებს ადამიანი არაბუნებრივი არსებების შესწავლისას.</StudyEfficiency.description>
+  <StudyEfficiency.label>სწავლის ეფექტურობა</StudyEfficiency.label>
+</LanguageData>

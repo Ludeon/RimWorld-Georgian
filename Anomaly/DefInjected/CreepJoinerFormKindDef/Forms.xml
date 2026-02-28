@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Blindhealer.label>ბრმა მკურნალი</Blindhealer.label>
+  <Blindhealer.letterLabel>კოლონიას უახლოვდება ბრმა მკურნალი.</Blindhealer.letterLabel>
+  <CreepDrifter.label>დრიფტერი</CreepDrifter.label>
+  <CreepDrifter.letterLabel>სტუმარი უახლოვდება კოლონიას.</CreepDrifter.letterLabel>
+  <CultEscapee.label>საკულტო გაქცეული</CultEscapee.label>
+  <CultEscapee.letterLabel>კოლონიას მახლობლად გაჭედილი ფიგურა უახლოვდება.</CultEscapee.letterLabel>
+  <DarkScholar.label>ბნელი მეცნიერი</DarkScholar.label>
+  <DarkScholar.letterLabel>დაგრეხილი შრამებით დაფარული ბნელი მეცნიერი უახლოვდება კოლონიას.</DarkScholar.letterLabel>
+  <DealMaker.label>გარიგების შემქმნელი</DealMaker.label>
+  <DealMaker.letterLabel>კოლონიას უახლოვდება განსაცვიფრებლად კარგი გარეგნობის უცნობი.</DealMaker.letterLabel>
+  <LeatheryStranger.label>ტყავისფერი უცნობი</LeatheryStranger.label>
+  <LeatheryStranger.letterLabel>თქვენს კოლონიას უახლოვდება ტყავისფერი კანით გახეხილი უცნობი.</LeatheryStranger.letterLabel>
+  <LoneGenius.label>მარტოხელა გენიოსი</LoneGenius.label>
+  <LoneGenius.letterLabel>მარტოხელა ფიგურა უახლოვდება კოლონიას.</LoneGenius.letterLabel>
+  <TimelessOne.label>მარადიული</TimelessOne.label>
+  <TimelessOne.letterLabel>კოლონიას მოზარდი უახლოვდება. {PAWN_pronoun}-ს აქვს უცნაური თავდაჯერებულობა {PAWN_objective}-ის გარშემო.</TimelessOne.letterLabel>
+</LanguageData>

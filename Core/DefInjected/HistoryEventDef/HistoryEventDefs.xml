@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdministeredDrug.label>შეყვანილი პრეპარატი</AdministeredDrug.label>
+  <AdministeredHardDrug.label>შეყვანილი მძიმე პრეპარატი</AdministeredHardDrug.label>
+  <AdministeredRecreationalDrug.label>შეყვანილი რეკრეაციული პრეპარატი</AdministeredRecreationalDrug.label>
+  <AteHumanMeat.label>შეჭამა ადამიანის ხორცი</AteHumanMeat.label>
+  <BuildSpecificDef.label>შენობის აშენება</BuildSpecificDef.label>
+  <CharityRefused_ThreatReward_Joiner.label>სადურგლომ უარი თქვა</CharityRefused_ThreatReward_Joiner.label>
+  <CutTree.label>მოჭრილი ხე</CutTree.label>
+  <DestroyedMineable.label>დანგრეული ბუნებრივი კედელი</DestroyedMineable.label>
+  <IngestedDrug.label>გამოყენებული პრეპარატი</IngestedDrug.label>
+  <IngestedHardDrug.label>გამოიყენა მძიმე ნარკოტიკი</IngestedHardDrug.label>
+  <IngestedRecreationalDrug.label>გამოიყენა რეკრეაციული პრეპარატი</IngestedRecreationalDrug.label>
+  <InstalledProsthetic.label>დაყენებული პროთეზი</InstalledProsthetic.label>
+  <Mined.label>დანაღმული</Mined.label>
+  <MinifiedTreeDied.label>ხე მოკვდა</MinifiedTreeDied.label>
+  <Researching.label>იკვლევს</Researching.label>
+  <SowedHumanFoodPlant.label>დათესილი საკვები მცენარე</SowedHumanFoodPlant.label>
+  <SowedPlant.label>დათესილი მცენარე</SowedPlant.label>
+</LanguageData>

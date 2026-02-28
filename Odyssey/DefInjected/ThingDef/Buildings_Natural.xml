@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientEmergencyLight_Blue.label>უძველესი სინათლე</AncientEmergencyLight_Blue.label>
+  <AncientEmergencyLight_Green.description>სანათი, რომელიც გამოიყენება მექანოიდურ ნაგებობებში. მწვანე ელფერი ოპტიმალურია მექანიკური ოპტიკური მასივებისთვის.</AncientEmergencyLight_Green.description>
+  <AncientEmergencyLight_Green.label>მექანიკური შუქი</AncientEmergencyLight_Green.label>
+  <AncientEmergencyLight_Red.label>უძველესი საგანგებო შუქი</AncientEmergencyLight_Red.label>
+  <AncientHeatVent.description>მასიური სადინარი, რომელიც უსასრულოდ ეშვება მიწაში. ის რეგულარულად გამოყოფს სითბოს მიწისქვეშა მეგასტრუქტურიდან, რაც მკვეთრად ზრდის მიმდებარე ტერიტორიის ტემპერატურას.</AncientHeatVent.description>
+  <AncientHeatVent.label>უძველესი სითბოს გამწოვი</AncientHeatVent.label>
+  <AncientSmokeVent.description>ზოგიერთი დიდი ხნის დავიწყებული მიწისქვეშა მეგასტრუქტურის გამონაბოლქვი. ის პერიოდულად აფრქვევს დიდი რაოდენობით კვამლს, ბლოკავს მზეს დღის განმავლობაში.</AncientSmokeVent.description>
+  <AncientSmokeVent.label>უძველესი კვამლის გამწოვი</AncientSmokeVent.label>
+  <AncientToxVent.description>მასიური სადინარი, რომელიც გამოყოფს ტოქსიკურ ორთქლს მიწისქვეშა მეგასტრუქტურიდან. ის რეგულარულად გამოიწვევს ტოქსიურ ვარდნას ამ მხარეში.</AncientToxVent.description>
+  <AncientToxVent.label>უძველესი ტოქსიკური გამწოვი</AncientToxVent.label>
+  <BurrowWall.description>ჭუჭყის, ქვის და მწერების სეკრეციის კომპაქტური ნაზავი.</BurrowWall.description>
+  <BurrowWall.label>ბურუსის კედელი</BurrowWall.label>
+  <GeothermalVent.description>ბუნებრივად წარმოქმნილი რღვევა მიწაში, საიდანაც ვულკანური აირები გამოდიან. ეს სავენტილაციო სავენტილაციო ნივთიერებები ზედაპირს ღრმა მიწისქვეშადან მოაქვს. ერთობლივად, ორთქლი, რომელსაც ისინი აფრქვევენ, საკმარისია მზის დასაფარად.</GeothermalVent.description>
+  <GeothermalVent.label>გოგირდის ამოფრქვევა</GeothermalVent.label>
+  <InsectLairEntrance.description>შესასვლელი გამოქვაბულების ქსელში. ქვევით გამოქვაბულებში ასვლა შესაძლებელია.</InsectLairEntrance.description>
+  <InsectLairEntrance.label>გამოქვაბულის შესასვლელი</InsectLairEntrance.label>
+  <LifeSupportUnit.description>ერთეული, რომელიც დაკავშირებულია ორბიტალური პლატფორმის სიცოცხლის მხარდაჭერის უფრო დიდ ქსელთან. ის ინარჩუნებს ოთახებს გათბობას და წნევას.</LifeSupportUnit.description>
+  <LifeSupportUnit.label>სიცოცხლის მხარდაჭერის განყოფილება</LifeSupportUnit.label>
+  <MineableObsidian.description>ვულკანური ქანები, რომლებიც წარმოიქმნება სწრაფად გაცივებული ლავით. მისი მოპოვება შესაძლებელია ობსიდიანის მინისთვის.</MineableObsidian.description>
+  <MineableObsidian.label>ობსიდიანი</MineableObsidian.label>
+</LanguageData>

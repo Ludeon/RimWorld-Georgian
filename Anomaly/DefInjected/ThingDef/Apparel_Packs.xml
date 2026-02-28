@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_DeadlifePack.description>A single-use pack that launches a capsule which explodes into deadlife dust. The dust animates human and animal corpses as shamblers that will only attack your enemies.\n\nDeadlife dust is composed of microscopic machine-like archites which hang in the air. Where they touch a corpse, they induce a chaotic and violent resurrection.</Apparel_DeadlifePack.description>
+  <Apparel_DeadlifePack.label>მკვდარი სიცოცხლის პაკეტი</Apparel_DeadlifePack.label>
+  <Apparel_DisruptorFlarePack.description>კომუნალური პაკეტი, რომელიც ისვრის დამრღვევის აფეთქებებს. დარტყმის დროს, აფეთქება წვავს ბიოფერიტის კაფსულას, რაც ქმნის ნათელ ნათებას და ადგილობრივ ფსიქიკურ დარღვევას. ეს აოცებს ფსიქიკურად მგრძნობიარე არსებებს, ავლენს მათ, ვინც უხილავია და ამცირებს მათ ცნობიერებას და მოძრაობის სიჩქარეს მცირე ხნით. ამის შემდეგ, ალი აგრძელებს წვას, ანათებს ფართო ტერიტორიას გარკვეული დროის განმავლობაში.</Apparel_DisruptorFlarePack.description>
+  <Apparel_DisruptorFlarePack.label>დამრღვევი აფეთქების პაკეტი</Apparel_DisruptorFlarePack.label>
+  <Apparel_PackTurret.description>ტარებადი პაკეტი, რომელიც მომხმარებელს საშუალებას აძლევს განათავსოს ბატარეით მომუშავე კოშკი. შეფუთვა შეიცავს მამოძრავებელ მოწყობილობას, რომელიც მომხმარებელს საშუალებას აძლევს გაუშვას კოშკი მცირე მანძილზე. ეს კოშკები ეფექტურია მტრების ფლანგისთვის და ყურადღების გადასატანად. თუმცა, კოშკურის შეზღუდული ხელოვნური ინტელექტის პირდაპირი კონტროლი შეუძლებელია, ამიტომ შეიძლება გამოიწვიოს მეგობრული ხანძრის ინციდენტები. კოშკის ბატარეა ძლებს რამდენიმე საათის განმავლობაში.</Apparel_PackTurret.description>
+  <Apparel_PackTurret.label>კოშკის შეკვრა</Apparel_PackTurret.label>
+  <DisruptorFlare.label>დამრღვევი აფეთქება</DisruptorFlare.label>
+  <Grenade_Deadlife.label>სიკვდილის კაფსულა</Grenade_Deadlife.label>
+  <Grenade_DisruptorFlare.label>დამრღვევი აფეთქება</Grenade_DisruptorFlare.label>
+  <Grenade_TurretPack.label>კოშკის პაკეტის კაფსულა</Grenade_TurretPack.label>
+</LanguageData>

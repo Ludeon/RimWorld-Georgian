@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Gravel.label>ქვიანი ნიადაგი</Gravel.label>
+  <Ice.label>ყინული</Ice.label>
+  <MarshyTerrain.label>ჭაობიანი ნიადაგი</MarshyTerrain.label>
+  <MossyTerrain.label>ლიქენით დაფარული ნიადაგი</MossyTerrain.label>
+  <Mud.label>ტალახი</Mud.label>
+  <Riverbank.label>მდინარის ნაპირი</Riverbank.label>
+  <Sand.label>ქვიშა</Sand.label>
+  <SoftSand.label>რბილი ქვიშა</SoftSand.label>
+  <Soil.label>ნიადაგი</Soil.label>
+  <SoilRich.label>მდიდარი ნიადაგი</SoilRich.label>
+</LanguageData>

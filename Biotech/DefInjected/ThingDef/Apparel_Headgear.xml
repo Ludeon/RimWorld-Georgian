@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_AirwireHeadset.description>მარტივი სათავეში დამონტაჟებული კომისი კომპიუტერი, რომელიც ოდნავ აძლიერებს მექანიტორის კონტროლის სიჩქარეს. ეს მათ საშუალებას აძლევს გააკონტროლონ მეტი მექანიზმი.</Apparel_AirwireHeadset.description>
+  <Apparel_AirwireHeadset.label>საჰაერო მავთულის ყურსასმენი</Apparel_AirwireHeadset.label>
+  <Apparel_ArmorHelmetMechCommander.description>პლასტელისგან დამზადებული საბრძოლო ჩაფხუტი განკუთვნილია საბრძოლო მექანიტორებისთვის. ის ჩართულია კომპიუტერებთან და სიგნალის გამაძლიერებლებთან, რომლებიც ზომიერად ზრდის მომხმარებლის მაქსიმალური კონტროლის გამტარუნარიანობას. ეს საშუალებას აძლევს მექანიტორს აკონტროლოს მეტი მექანიკა.</Apparel_ArmorHelmetMechCommander.description>
+  <Apparel_ArmorHelmetMechCommander.label>mechcommander ჩაფხუტი</Apparel_ArmorHelmetMechCommander.label>
+  <Apparel_ArmorHelmetMechlordHelmet.description>მძიმე პლასტელისგან დამზადებული ჩაფხუტი, რომელიც შეფუთულია მექანიზმის დამხმარე ხელსაწყოებით. მექლორდის ჩაფხუტი მკვეთრად აძლიერებს მექანიტორის გამტარუნარიანობას, მაგრამ გარკვეულწილად ნაკლებად დამცავია, ვიდრე გამოყოფილი მძიმე ჯავშანი.</Apparel_ArmorHelmetMechlordHelmet.description>
+  <Apparel_ArmorHelmetMechlordHelmet.label>მეკლორდის ჩაფხუტი</Apparel_ArmorHelmetMechlordHelmet.label>
+  <Apparel_ArrayHeadset.description>თავში დამონტაჟებული კომპიუტერი და სასიგნალო მასივი, რომელიც აძლიერებს მექანიტორის კონტროლის სიჩქარეს. ეს მათ საშუალებას აძლევს გააკონტროლონ მეტი მექანიზმი.</Apparel_ArrayHeadset.description>
+  <Apparel_ArrayHeadset.label>მასივის ყურსასმენი</Apparel_ArrayHeadset.label>
+  <Apparel_GasMask.description>A flexible mask worn over the face with an embedded air filter. It dramatically reduces exposure to pollution through the lungs, but does not protect the skin on the rest of the body.\n\nIt prevents tox gas irritants from entering through the eyes and mouth.</Apparel_GasMask.description>
+  <Apparel_GasMask.label>გაზის ნიღაბი</Apparel_GasMask.label>
+  <Apparel_IntegratorHeadset.description>მოწინავე თავზე დამონტაჟებული კომპიუტერი და სასიგნალო მასივი, რომელიც მკვეთრად აძლიერებს მექანიტორის კონტროლის სიჩქარეს. ეს საშუალებას აძლევს მფლობელს ერთდროულად აკონტროლოს კიდევ ბევრი მექანიზმი.</Apparel_IntegratorHeadset.description>
+  <Apparel_IntegratorHeadset.label>ინტეგრატორის ყურსასმენი</Apparel_IntegratorHeadset.label>
+</LanguageData>

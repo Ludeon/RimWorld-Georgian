@@ -1,0 +1,507 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <MessageSiegersAssaulting>{0}-დან {1}-დან ალყა შემოარტყეს კოლონიას.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} {1}-დან იწყებენ თავდასხმას.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0}-მა {1}-დან აღმოგაჩინა და ადრე დაიწყო მათი თავდასხმა.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0}-მა {1}-დან გადაწყვიტეს გაიტაცეს ვინც შეუძლიათ და დატოვონ.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0}-მა {1}-დან გადაწყვიტეს მოიპარონ რაც შეუძლიათ და დატოვონ.</MessageRaidersStealing>
+
+  <MechanoidsMovingOn>მექანოიდები აღარ გრძნობენ სამიზნეებს და მიდიან.</MechanoidsMovingOn>
+
+  <MessageCaravanDetectedRaidArrived>{0} {1}-დან ჩამოვიდა და უტევს! მეტი გზაშია და ჩამოვა {2}-ში.</MessageCaravanDetectedRaidArrived>
+
+  <MessageRaidersLeaving>{0} {1}-დან მიდიან.</MessageRaidersLeaving>
+  <MessageRaidersGivenUpLeaving>{0} {1}-დან დათმო და მიდიან.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{0} {1}-დან კმაყოფილი არიან მიყენებული ზიანით და მიდიან.</MessageRaidersSatisfiedLeaving>
+
+  <MessageFightersFleeing>{0} {1}-დან გარბიან.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>მეგობრული {0} {1}-დან მიდის.</MessageFriendlyFightersLeaving>
+
+  <MessageVisitorsTakingWounded>{0}-დან {1} მიჰყავთ დაჭრილი სტუმარი.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} {1}-დან ხაფანგშია და იჭრება გასაქცევად.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsDangerousTemperature>{0} {1}-დან ტოვებს რუკას საშიში ტემპერატურის გამო.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsAnomalousWeather>{0} {1}-დან ტოვებს რუკას საშიში ამინდის გამო.</MessageVisitorsAnomalousWeather>
+  <MessageVisitorsDangerousConditions>{0} {1}-დან ტოვებს რუკას საშიში პირობების გამო.</MessageVisitorsDangerousConditions>
+
+  <MessageWornApparelDeterioratedAway>{0}, რომელსაც ატარებდა {1_nameFull}, გაფუჭდა.</MessageWornApparelDeterioratedAway>
+  <MessageDeterioratedAway>{0} საცავში გაფუჭდა.</MessageDeterioratedAway>
+
+  <MessageSeasonBegun>{0} დაიწყო.</MessageSeasonBegun>
+
+  <MessageShipHasLeftCommsRange>{0}-მა დატოვა კომისიის დიაპაზონი.</MessageShipHasLeftCommsRange>
+
+  <MessageNeedBeaconToTradeWithShip>გემთან ვაჭრობისთვის გჭირდებათ ორბიტალური სავაჭრო შუქურა.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>აბონენტს უნდა ჰქონდეს {0_label} ან უფრო მაღალი სათაური.</MessageNeedRoyalTitleToCallWithShip>
+
+  <MessageConditionCauserDespawned>{0} განადგურდა.</MessageConditionCauserDespawned>
+  
+  <MessageBillComplete>ანგარიში დასრულებულია: {0}.</MessageBillComplete>
+
+  <MessageFullyHealed>{1_label} სრულად განიკურნა.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>პატიმარი {1_labelShort} გარბის.</MessagePrisonerIsEscaping>
+
+  <MessageOutOfNearbyShellsFor>{PAWN_labelShort}-მა ვერ იპოვა {GUN_label}-ისთვის ახლომდებარე დაურეზერვო ჭურვები.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort}-მა ვერ იპოვა ახლომახლო დაურეზერვო {FUEL} {GUN_label}-ისთვის.</MessageOutOfNearbyFuelFor>
+
+  <MessageAnimalsGoPsychoHunted>გაფრთხილება: {ANIMAL_kindBasePlural}-ს აქვს {1} საბაზისო შანსი თავდასხმის, როდესაც დაზიანებულია. შანსი დამოკიდებულია დიაპაზონზე და მონადირის სტელსის სტატისტიკაზე.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>გაფრთხილება: {ANIMAL_kindBasePlural}-მა შეიძლება შეუტიოს მოთვინიერების წარუმატებელ მცდელობებს ({1} შანსი).</MessageAnimalManhuntsOnTameFailed>
+  <MessageInsectTameDesignated>{INSECT_indefinite}-ის მოთვინიერება მხოლოდ მათ, ვისაც აქვს მწერების სიმპათია.</MessageInsectTameDesignated>
+  <MessageNoHuntersAvailable>არცერთი კოლონისტი არ არის დანიშნული ნადირობისთვის.</MessageNoHuntersAvailable>
+  <MessageNoHuntersWithProperWeapon>არცერთ მონადირეს არ აქვს სანადირო იარაღი. აღჭურვა მონადირე შესაფერისი სროლის იარაღით.</MessageNoHuntersWithProperWeapon>
+
+  <MessageInsectsHostileOnTaming>გაფრთხილება: {PAWN_labelShort} მტრულად განწყობილია და თავს დაესხმება, სანამ თქვენი კოლონისტი მის მოთვინიერებას შეეცდება.</MessageInsectsHostileOnTaming>
+  
+  <LetterLabelMessageRecruitSuccess>ახალი რეკრუტი</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{RECRUITER_nameFull}-მა წარმატებით დაიქირავა {RECRUITEE_nameFull}.</MessageRecruitSuccess>
+  <MessageTameSuccess>{RECRUITER_labelShort}-მა წარმატებით მოათვინიერა {1}.</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{RECRUITER_labelShort}-მა წარმატებით მოათვინიერა {1}. ახლა მას {RECRUITEE_nameFull} ჰქვია.</MessageTameAndNameSuccess>
+  <MessageTameNoSuitablePens>არ არის შესაფერისი ცხოველის კალამი {ANIMAL_labelShort}-ისთვის. ის საბოლოოდ დაფრინდება.</MessageTameNoSuitablePens>
+  <MessageRecruitJoinOfferAccepted>{RECRUITEE} შემოუერთდა თქვენს კოლონიას.</MessageRecruitJoinOfferAccepted>
+
+  <MessageColonyCannotAfford>კოლონიას არ შეუძლია ამ გარიგების საშუალება.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>თქვენ არ გაქვთ საკმარისი ვერცხლი მზად ვაჭრობისთვის.</MessageColonyNotEnoughSilver>
+
+  <MessageCriticalAlert>კრიტიკული გაფრთხილება: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>უნდა დანიშნოს მოსავლის საკმარისად გაზრდილი მცენარეები.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>უნდა დანიშნოს ხის მოსავლიანი, საკმარისად გაზრდილი მცენარეები.</MessageMustDesignateHarvestableWood>
+  <MessageMustPlantCuttingForbidden>ამ მცენარისთვის ჩართულია ჭრის თავიდან აცილება.</MessageMustPlantCuttingForbidden>
+  <MessageMustDesignatePlants>უნდა დანიშნოს მცენარეები.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>უნდა დანიშნოს ტრანსპორტირებადი ნივთები. ზოგიერთი ნივთი ყოველთვის გადასატანია და მათი დანიშნულება შეუძლებელია.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>უნდა დანიშნოს გაუვალი დანაღმვადი ქანები.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>უნდა დანიშნოს სანადირო ცხოველები.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>უნდა დანიშნოს მოთვინიერებული ცხოველები.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>უნდა დანიშნოს მიტოვებული სარჩელი სტრუქტურები ან ნივთები.</MessageMustDesignateClaimable>
+  <MessageMustDesignatePaintableBuildings>უნდა დანიშნოს შეღებვადი შენობები, რომლებიც ჯერ არ არის მოხატული {0_label}.</MessageMustDesignatePaintableBuildings>
+  <MessageMustDesignatePaintableFloors>უნდა დანიშნოს შესაღებად იატაკები, რომლებიც ჯერ არ არის მოხატული {0_label}.</MessageMustDesignatePaintableFloors>
+  <MessageMustDesignatePainted>უნდა დანიშნოს მოხატული შენობები ან იატაკები.</MessageMustDesignatePainted>
+  <MessageMustDesignateDeconstructibleMechCluster>თქვენ უნდა დაამარცხოთ მექანიკური კლასტერი, სანამ შეძლებთ მის დეკონსტრუქციას.</MessageMustDesignateDeconstructibleMechCluster>
+  <MessageMustDesignateSmoothableSurface>უნდა დანიშნოს უხეში ქვის ზედაპირები.</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableFloor>უნდა დანიშნოს უხეში ქვის რელიეფი.</MessageMustDesignateSmoothableFloor>
+  <MessageMustDesignateSmoothableWall>უნდა დანიშნოს უხეში ქვის კედელი.</MessageMustDesignateSmoothableWall>
+  <MessageNothingCanRemoveThickRoofs>სქელ სახურავებს ვერაფერი მოაცილებს.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>ეს უკვე საცავშია და საჭიროების შემთხვევაში გადავა მაღალი პრიორიტეტულ საცავში.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>უნდა დანიშნოს გვამი ან ჩამოგდებული პერსონაჟი გაშიშვლებული ტანსაცმლით.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>უნდა დანიშნოს მოთვინიერებული ცხოველი, რომელიც ეკუთვნის კოლონიას.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>უნდა დანიშნოს სრული საფლავები ან კონტეინერები.</MessageMustDesignateOpenable>
+  <MessageMustDesignateForbiddable>უნდა დანიშნოს აკრძალული ნივთები.</MessageMustDesignateForbiddable>
+  <MessageMustDesignateUnforbiddable>უნდა დანიშნოს აკრძალული ნივთები.</MessageMustDesignateUnforbiddable>
+  <MessageCannotClaimWhenPawnThreatsAreNear>{CLAIMABLE_labelShort}-ის პრეტენზია არ შეიძლება, როცა ახლოს არის საბრძოლო უნარიანი {THREAT_factionPawnsPlural}.</MessageCannotClaimWhenPawnThreatsAreNear>
+  <MessageCannotAdoptWhilePawnThreatsAreNear>შეუძლებელია {CLAIMABLE_labelShort}-ის მიღება, როცა ახლოს არის საბრძოლო უნარიანი {THREAT_factionPawnsPlural}.</MessageCannotAdoptWhilePawnThreatsAreNear>
+  <MessageCannotClaimWhenThreatsAreNear>{CLAIMABLE_labelShort}-ის პრეტენზია შეუძლებელია, სანამ იქვე არის {THREAT}.</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotAdoptWhileThreatsAreNear>{CLAIMABLE_labelShort}-ის მიღება შეუძლებელია, როცა იქვე არის {THREAT}.</MessageCannotAdoptWhileThreatsAreNear>
+  <MessageCannotRemoveSupportingFoundation>შენობის საყრდენი საძირკვლის მოხსნა შეუძლებელია.</MessageCannotRemoveSupportingFoundation>
+
+  <MessageRefusedArrest>{1_labelShort}-მა დაკავებაზე უარი თქვა!</MessageRefusedArrest>
+  
+  <MessageNoMedicalBeds>სამედიცინო საწოლები არ არის ხელმისაწვდომი.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>ცხოველების საწოლები არ არის ხელმისაწვდომი.</MessageNoAnimalBeds>
+  <MessageWarningNoMedicineForRestriction>გაფრთხილება: {PAWN_nameDef}-ის წამლის შეზღუდვა ({RESTRICTIONLABEL}) ხელს უშლის ამ ოპერაციის გაკეთებას. განიხილეთ {PAWN_possessive} მედიკამენტის შეზღუდვის შეცვლა.</MessageWarningNoMedicineForRestriction>
+  
+  <PawnDiedBecauseOf>{PAWN_labelShort} გარდაიცვალა. მიზეზი: {1}.</PawnDiedBecauseOf>
+  <PawnDied>{1_labelShort} გარდაიცვალა.</PawnDied>
+
+  <MessageNoLongerDowned>{1_label}-ს აღარ შეუძლია სიარული.</MessageNoLongerDowned>
+
+  <MessageInvoluntarySleep>{1_labelShort} დაიშალა უკიდურესი ამოწურვის გამო.</MessageInvoluntarySleep>
+
+  <MessageMedicalOperationWillAngerFaction>ეს ოპერაცია გააბრაზებს {0}-ს.</MessageMedicalOperationWillAngerFaction>
+
+  <MessageAnimalIsPregnant>{PAWN_nameDef} ორსულადაა!</MessageAnimalIsPregnant>
+  <MessageMiscarriedStarvation>{0}-მა შიმშილის გამო აბორტი მოახდინა.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0}-მა მოიხსნა ცუდი ჯანმრთელობის გამო.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0}-მა გააჩინა.</MessageGaveBirth>
+  
+  <MessagePsylinkNoSensitivity>{PAWN_labelShort} ვერ შეძლებს ფსილინკის გამოყენებას, ხოლო {PAWN_pronoun}-ს აქვს ნულოვანი ფსიქიკური მგრძნობელობა.</MessagePsylinkNoSensitivity>
+  <MessageLostImplantLevelFromHediff>{PAWN_labelShort}-მა დაკარგა {1} იმპლანტის დონე {2}-ის გამო.</MessageLostImplantLevelFromHediff>
+  <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort}-მა განიცადა ტვინის {1} ქულა {2}-ის გამო.</MessageReceivedBrainDamageFromHediff>
+  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort}-მა გადააჭარბა ნერვული სითბოს ნორმალურ ზღვარს.</MessageWentOverPsychicEntropyLimit>
+
+  <MessageNoHandlerSkilledEnough>არ არის დამმუშავებელი, რომელსაც შეუძლია {ANIMAL_kindBase}-ის მოთვინიერება (მოითხოვს {1} დონეს {2}-ში, საუკეთესო ქმედუნარიან დამმუშავებელს {HANDLER_labelShort} აქვს {4}).</MessageNoHandlerSkilledEnough>
+  
+  <MessageEatenByPredator>{EATEN_labelShort} შეჭამა {PREDATOR}-მა.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{PREY_labelShort} თავს დაესხმება {PREDATOR}!</MessageAttackedByPredator>
+
+  <MessageRoamerLeaving>{PAWN_labelShort}-მა დაიწყო მოშორება! {PAWN_pronoun} დატოვებს რუკას, გარდა იმ შემთხვევისა, როდესაც ცხოველის პატრონი {PAWN_objective}-ს არ დააბრუნებს კალმისკენ.</MessageRoamerLeaving>
+
+  <MessageHiveReproduced>ბუჩქის სკამი გამრავლდა.</MessageHiveReproduced>
+  
+  <MessageTraderCaravanLeaving>{0}-ის სავაჭრო ქარავანი მიდის.</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanDismissed>სავაჭრო ქარავანი {0}-დან დაითხოვეს.</MessageTraderCaravanDismissed>
+
+  <MessageCantSelectDeadPawn>{1_labelShort} მოკვდა.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{1_labelShort} არ არის რუკაზე.</MessageCantSelectOffMapPawn>
+  
+  <MessageSocialFight>{PAWN1_labelShort}-მა დაიწყო სოციალური ბრძოლა {PAWN2_labelShort}-თან.</MessageSocialFight>
+  
+  <MessageNewMarriageCeremony>კოლონისტები იკრიბებიან {PAWN1_labelShort}-ისა და {PAWN2_labelShort}-ის ქორწინების აღსანიშნავად.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{PAWN1_labelShort} და {PAWN2_labelShort} იწყებენ ქორწინების ცერემონიას!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>{PAWN1_labelShort}-ისა და {PAWN2_labelShort}-ის ქორწინების ცერემონია გადაიდო.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{PAWN1_labelShort} და {PAWN2_labelShort} დაქორწინდნენ. კოლონისტები ახლა აღნიშნავენ ამ დღესასწაულს.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>{PAWN1_labelShort}-ისა და {PAWN2_labelShort}-ის ქორწინების ცერემონია დასრულდა.</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <MessageNewBondRelation>{HUMAN_labelShort}-მა და {ANIMAL_labelShort}-მა ჩამოაყალიბეს კავშირი.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{HUMAN_labelShort}-მა და {1}-მა ჩამოაყალიბეს კავშირი. {HUMAN_labelShort}-მა დაარქვა {ANIMAL_objective} {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+  
+  <MessageBondedAnimalMentalBreak>{ANIMAL}-ს ჰქონდა ფსიქიკური შესვენება {HUMAN_labelShort}-ის გარდაცვალების გამო.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindIndef}-ს სახელად {ANIMAL_label} ჰქონდა გონებრივი შესვენება {HUMAN_labelShort}-ის გარდაცვალების გამო.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} ცხოველებს აქვთ გონებრივი შესვენება {HUMAN_labelShort}-ის სიკვდილის გამო.</MessageBondedAnimalsMentalBreak>
+  
+  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort}-მა წარმატებით წაშალა {PATIENT_labelShort}-ის {HEDIFF}.</MessageSuccessfullyRemovedHediff>
+  
+  <MessageShipChunkDrop>ახლომახლო კოსმოსური ხომალდის ნაწილები შეეჯახა. თქვენ შეგიძლიათ მათი დეკონსტრუქცია რესურსების მოსაპოვებლად.</MessageShipChunkDrop>
+
+  <MessageCannotSellItemsReason>ზოგიერთი ნივთის ვაჭრობა შეუძლებელია იმის გამო:</MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{WORKER_labelShort} ვერ მოხერხდა {0}-ის აგებისას. გარკვეული რესურსი დაიხარჯა.</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>სკრინშოტი შენახულია როგორც: {0}</MessageScreenshotSavedAs>
+  
+  <MessageNoLongerSocialFighting>{PAWN1_labelShort} და {PAWN2_labelShort} აღარ არის სოციალური ბრძოლა.</MessageNoLongerSocialFighting>
+  
+  <MessageNoLongerBingingOnDrug>{2_labelShort} აღარ არის ჩართული {1}-ზე.</MessageNoLongerBingingOnDrug>
+
+  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} აღარ არის {TARGET_label}-ის წინააღმდეგ შეურაცხმყოფელ სპურაში.</MessageNoLongerOnTargetedInsultingSpree>
+
+  <MessageRottedAwayInStorage>{1_label} საცავში გაფუჭდა.</MessageRottedAwayInStorage>
+  
+  <MessageFoodPoisoning>{PAWN_labelShort}-მა მიიღო კვებითი მოწამვლა: {FOOD_labelShort}-ისგან. მიზეზი: {2}.</MessageFoodPoisoning>
+  
+  <MessagePawnLostWhileFormingCaravan>{0} ამოღებულია ქარავანიდან.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan_AllLost>ქარავნის ფორმირების პროცესი შეწყდა.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessageForceSendingCaravan_AllLost>არც ერთი კოლონისტი, რომელსაც ქარავნის შექმნა შეუძლია. ქარავნის ფორმირების პროცესი შეწყდა.</MessageForceSendingCaravan_AllLost>
+  <MessageCaravanFormationPaused>ქარავნის ფორმირების პროცესი გაგრძელდება მაშინ, როცა ყველა გამოჯანმრთელდება გონებრივი შესვენებისგან.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>თქვენი კოლონისტები ახლა გააგრძელებენ ქარავნის შექმნას.</MessageCaravanFormationUnpaused>
+  
+  <MessageCaravanMemberHasExtremeMentalBreak>ქარავნის ერთ-ერთ წევრს ფსიქიკური შესვენება ჰქონდა.</MessageCaravanMemberHasExtremeMentalBreak>
+  
+  <MessageMaxPlanetCoveragePerformanceWarning>გაფრთხილება: მთელი პლანეტის წარმოქმნას შეიძლება ძალიან დიდი დრო დასჭირდეს.</MessageMaxPlanetCoveragePerformanceWarning>
+
+  <MessagePlantDiedOfCold>{0} გარდაიცვალა სიცივის გამო.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfRot_LeftUnharvested>{0} მოკვდა ლპობისგან, მოუვლის გარეშე დარჩენის გამო.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_ExposedToLight>{0} გარდაიცვალა სინათლის ზემოქმედების გამო.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot>{0} მოკვდა გახრწნისაგან.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfPoison>{0} მოკვდა შხამის გამო.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfBlight>{1_label} გარდაიცვალა სიწითლის გამო.</MessagePlantDiedOfBlight>
+
+  <MessagePawnBeingBurned>{1_labelShort} იწვის ზედმეტად გახურებული ჰაერით!</MessagePawnBeingBurned>
+
+  <MessageAccidentalOverdose>{INGESTER}-მა შემთხვევით მიიღო დოზის გადაჭარბება {DRUG_labelShort}-ის მოხმარებისას!</MessageAccidentalOverdose>
+  
+  <MessageCaravanArrivedAtDestination>{0} მივიდა დანიშნულების ადგილზე.</MessageCaravanArrivedAtDestination>
+  
+  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort}-მა დატოვა ტერიტორია და ჩამოაყალიბა ქარავანი.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>თქვენი ცხოველები მოძრაობენ მის შესაერთებლად.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  
+  <MessageSettledInExistingMap>თქვენ წარმატებით დასახლდით ახალ სფეროში.</MessageSettledInExistingMap>
+  
+  <MessagePermanentWoundHealed>{PAWN_labelShort}-ის {2} განიკურნა. მიზეზი: {0}</MessagePermanentWoundHealed>
+  
+  <MessageRescueeDidntJoin>[PAWN_nameDef] გამოჯანმრთელდა და წასვლა გადაწყვიტა.</MessageRescueeDidntJoin>
+  
+  <MessageTransporterUnreachable>ზოგიერთი სატრანსპორტო ღობე მიუწვდომელია.</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>არჩეულ სატრანსპორტო რგოლებთან დაკავშირებული ყველა პოდ გამშვები უნდა იყოს მიმდებარედ.</MessageTransportersNotAdjacent>
+  
+  <MessageTransportersLoadCanceled_TransporterDestroyed>ჩატვირთვის პროცესი გაუქმდა, რადგან განადგურებულია ერთ-ერთი სატრანსპორტო საყრდენი.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>ჩატვირთვის პროცესი გაუქმდა, რადგან შატლი განადგურებულია.</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>ჩატვირთვის პროცესი გაუქმდა, რადგან განადგურებულია ერთ-ერთი პოდის გამშვები.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
+  <MessageTransportersLoadingProcessStarted>მინიჭებული ნივთები და ხალხი ახლა ჩაიტვირთება სატრანსპორტო ბალიშებში.</MessageTransportersLoadingProcessStarted>
+  <MessageTransporterSingleLoadingProcessStarted>მინიჭებული ნივთები და ხალხი ახლა ჩაიტვირთება სატრანსპორტო განყოფილებაში.</MessageTransporterSingleLoadingProcessStarted>
+  <MessageShuttleLoadingProcessStarted>მინიჭებული ნივთები და ხალხი ახლა ჩაიტვირთება შატლში.</MessageShuttleLoadingProcessStarted>
+
+  <MessageTransportPodsArrived>თქვენი სატრანსპორტო რგოლები მოვიდა.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>თქვენი სატრანსპორტო რგოლები ჩამოვიდა, მაგრამ რადგან შიგნით კოლონისტები არ იყვნენ, შინაარსი დაკარგულია.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>თქვენი სატრანსპორტო რგოლები მოვიდა. შინაარსი დაემატა {0}-ს.</MessageTransportPodsArrivedAndAddedToCaravan>
+  
+  <MessageFinishedLoadingTransporters>სატრანსპორტო პოდის დატვირთვა დასრულებულია. გაშვება, როცა მზად იქნება.</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingShuttle>{SHUTTLE_label} დატვირთულია საჭირო ტვირთით და მისი გაშვება მზად არის.</MessageFinishedLoadingShuttle>
+
+  <MessageCantLoadMoreIntoTransporters>თქვენი {1} ვერ დაასრულებს სატრანსპორტო რგოლების ჩატვირთვას, რადგან ზოგიერთი ელემენტი ან ადამიანი მიუწვდომელი გახდა ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoShuttle>თქვენი {1} ვერ დაასრულებს შატლის ჩატვირთვას, რადგან ზოგიერთი ელემენტი ან ადამიანი მიუწვდომელი გახდა ({2_labelShort}).</MessageCantLoadMoreIntoShuttle>
+  <MessageCantLoadMoreIntoPortal>თქვენი {1} ვერ დაასრულებს {0}-ში შესვლას, რადგან ზოგიერთი ელემენტი ან ადამიანი მიუწვდომელი გახდა ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
+  
+  <MessageTransportPodsDestinationIsInvalid>არჩეული დანიშნულება არასწორია.</MessageTransportPodsDestinationIsInvalid>
+  <MessageWorldObjectIsInvalid>{OBJECT_labelCap} არ არის სწორი დანიშნულება.</MessageWorldObjectIsInvalid>
+  <MessageTransportPodsDestinationIsTooFar>თითოეულ პოდგამშვებს დასჭირდება მინიმუმ {0}x ქიმიური საწვავი, რომ სატრანსპორტო რგოლები იქამდე გაგზავნოს.</MessageTransportPodsDestinationIsTooFar>
+  
+  <MessageReformedCaravan>ქარავანი რეფორმირებულია.</MessageReformedCaravan>
+  
+  <MessageCantBanishLastColonist>თქვენ არ შეგიძლიათ განდევნოთ ბოლო კოლონისტი.</MessageCantBanishLastColonist>
+
+  <MessageCantEquipCustom>არ შეიძლება აღჭურვა: {0}.</MessageCantEquipCustom>
+  <MessageCantEquipIncapableOfViolence>არ შეიძლება აღჭურვა: {1_labelShort} არ შეუძლია ძალადობას.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfShooting>ვერ აღჭურვა: {1_labelShort}-ს არ შეუძლია სროლა.</MessageCantEquipIncapableOfShooting>
+  <MessageCantEquipIncapableOfManipulation>ვერ აღჭურვა: უუნარო.</MessageCantEquipIncapableOfManipulation>
+  <MessageCantWearApparelMissingBodyParts>არ შეიძლება ტარება: {1_labelShort}-ს აკლია სხეულის საჭირო ნაწილები.</MessageCantWearApparelMissingBodyParts>
+  <MessageCantUnequipLockedApparel>ეს ადამიანი უარს ამბობს ამის ამოღებაზე.</MessageCantUnequipLockedApparel>
+  <MessageWouldReplaceLockedApparel>არ შეიძლება აცვიათ: ეს ჩაანაცვლებს {1_labelShort} ტანსაცმლის მოხსნას.</MessageWouldReplaceLockedApparel>
+  
+  <MessageSlaughteringBondedAnimal>იმის გამო, რომ ისინი შეკრულია, {DESIGNATED_labelShort}-ის დაკვლა {BONDED_labelShort}-ს უბედურს გახდის.</MessageSlaughteringBondedAnimal>
+  <MessageReleaseBondedAnimal>იმის გამო, რომ ისინი შეკრულია, {DESIGNATED_labelShort}-ის გამოშვება {BONDED_labelShort}-ს უბედურს გახდის.</MessageReleaseBondedAnimal>
+  
+  <MessageCaravanRanOutOfFood>{0}-ს საკვები ამოეწურა.</MessageCaravanRanOutOfFood>
+  <MessageCaravanDeathCorpseAddedToInventory>{PAWN_definite}-ის ცხედარი ქარავანმა აიღო. ის მძიმეა და შესაძლოა ქარავნის იმობილიზაცია მოახდინოს, მაგრამ შეიძლება დარჩეს ქარავნის ნივთების ჩანართში.</MessageCaravanDeathCorpseAddedToInventory>
+
+  <MessageSelectOwnBaseToFormCaravan>ქარავნის შესაქმნელად აირჩიეთ თქვენი საკუთარი კოლონია ან საიტი, სადაც ხალხი გყავთ.</MessageSelectOwnBaseToFormCaravan>
+
+  <MessageScreenResTooSmallForUIScale>ამ გარჩევადობისა და ინტერფეისის მასშტაბით, თამაშის ინტერფეისი არ ჯდება ეკრანზე. გთხოვთ, შეამციროთ ინტერფეისის მასშტაბი ან გაზარდოთ გარჩევადობა.</MessageScreenResTooSmallForUIScale>
+  
+  <MessageYouHaveToReformCaravanNow>თქვენ ახლავე უნდა გააფორმოთ ქარავანი. ყველა მიტოვებული იქნება მიტოვებული.</MessageYouHaveToReformCaravanNow>
+  
+  <MessageDefendersAttacking>{0} {1}-დან უტევს თქვენს {2}-ს.</MessageDefendersAttacking>
+  <MessageMechanoidsAssembled>მექანოიდები დაორსულდა და დაიცავს მათ კლასტერს.</MessageMechanoidsAssembled>
+  <MessageMechanoidsLeftToAssemble>დარჩენილი მექანოიდები გესტაციისთვის</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsReinforcementsDrop>Mech drop beacon-მა გამოიძახა გამაგრება ახლომდებარე წვეთოვან ნაწილებში.</MessageMechanoidsReinforcementsDrop>
+
+  <MessageSelfTendUnsatisfied>თავის მოვლისთვის, {1_labelShort} ასევე უნდა დაინიშნოს ექიმის მუშაობაზე.</MessageSelfTendUnsatisfied>
+  <MessageCannotSelfTendEver>{1_labelShort}-ს არ შეუძლია ექიმთან მუშაობის უნარი და ამიტომ ვერასოდეს იზრუნებს საკუთარ თავზე.</MessageCannotSelfTendEver>
+  
+  <MessageCantAddWaypointBecauseImpassable>ეს ფილა გაუვალია.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>ამ ფილაზე მისვლა ბოლო საავტომობილო პუნქტიდან შეუძლებელია.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>თქვენ არ შეგიძლიათ დაამატოთ {0}-ზე მეტი გზა.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>თქვენ არ შეგიძლიათ წაშალოთ ეს გზა.</MessageCantRemoveWaypointBecauseFirst>
+  
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>არცერთ თქვენს მცველს ძალადობა არ ძალუძს. აღსრულება არ შესრულდება.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <MessageCanReformCaravanNowNoMoreEnemies>ტერიტორია ახლა უსაფრთხოა. თქვენ შეგიძლიათ ქარავანის რეფორმირება მსოფლიო რუკაზე.</MessageCanReformCaravanNowNoMoreEnemies>
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>ტერიტორია ახლა უსაფრთხოა, მაგრამ რჩება რამდენიმე შეუსწავლელი ოთახი. თქვენ შეგიძლიათ შეისწავლოთ შემდგომი ან შეცვალოთ ქარავანი მსოფლიო რუკაზე.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+
+  <MessageCantBanishDownedPawn>არ შეიძლება {1_labelShort}-ის განდევნა, რადგან {1_pronoun}-ს არ შეუძლია სიარული.</MessageCantBanishDownedPawn>
+
+  <MessageSleepingPawnsWokenUp>{0}-მა გაიღვიძა.</MessageSleepingPawnsWokenUp>
+  <MessageMechClusterDefeated>მექანიკური კასეტური შენობები დამარცხებულია.</MessageMechClusterDefeated>
+
+  <MessageCompSpawnerSpawnedItem>წარმოებული საქონელი: {0}.</MessageCompSpawnerSpawnedItem>
+
+  <MessageHediffCuredByItem>ჯანმრთელობის მდგომარეობა გამოჯანმრთელდა: {0}.</MessageHediffCuredByItem>
+  <MessageBodyPartCuredByItem>სხეულის ნაწილი აღდგენილია: {0}.</MessageBodyPartCuredByItem>
+  <MessageResearchProjectFinishedByItem>მოცემული ტექნოლოგია: {0}.</MessageResearchProjectFinishedByItem>
+
+  <MessagePawnResurrected>{0} დაბრუნდა სიცოცხლეში!</MessagePawnResurrected>
+
+  <MessageFailedToRescueRelative>თქვენ ვერ მოახერხეთ {PAWN_labelShort}-ის გადარჩენა. ეს გახდის {RELATIVE_labelShort}-ს სამწუხარო.</MessageFailedToRescueRelative>
+  <MessageRescuedRelative>თქვენ გადაარჩინე {PAWN_labelShort}. ეს გაახარებს {RELATIVE_labelShort}-ს.</MessageRescuedRelative>
+
+  <MessageTornadoLeftMap>ტორნადომ რუკა დატოვა.</MessageTornadoLeftMap>
+  <MessageTornadoDissipated>ტორნადო გაიფანტა.</MessageTornadoDissipated>
+
+  <MessagePeaceTalksNoDiplomat>არანაირი შეგნებული, უნარიანი დიპლომატი.</MessagePeaceTalksNoDiplomat>
+
+  <MessageWarningCavePlantsExposedToLight>გაფრთხილება: {0} ვერ ცოცხლობს სინათლის ზემოქმედებისას.</MessageWarningCavePlantsExposedToLight>
+
+  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort}-მა ვერ მიაღწია {OLDTARGET_label}-ს, ამიტომ {PAWN_pronoun}-მა გადაწყვიტა {PAWN_possessive} ბრაზის გადამისამართება {TARGET_label}-ზე.</MessageTargetedTantrumChangedTarget>
+
+  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort}-მა ვერ მიაღწია {OLDTARGET_label}-ს, ამიტომ {PAWN_pronoun}-მა გადაწყვიტა {PAWN_possessive} ბრაზის გადამისამართება {TARGET_label}-ზე.</MessageTargetedInsultingSpreeChangedTarget>
+
+  <MessageMurderousRageChangedTarget>{PAWN_labelShort}-მა გადაწყვიტა {PAWN_possessive} ბრაზის გადამისამართება {TARGET_label}-ზე.</MessageMurderousRageChangedTarget>
+
+  <MessagePlantIncompatibleWithRoof>{0} ვერ იზრდება სახურავის ქვეშ.</MessagePlantIncompatibleWithRoof>
+  <MessageRoofIncompatibleWithPlant>{0}-ზე სახურავის აგება შეუძლებელია.</MessageRoofIncompatibleWithPlant>
+
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>ტერიტორიის გასასვლელად გამოიყენეთ ღილაკი „რეფორმის ქარავანი“ მსოფლიო ხედში.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>ახლა ვერ დატოვებ რუქას.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+
+  <MessageGoodwillChanged>{0}-თან ურთიერთობა შეიცვალა {1}-დან {2}-მდე.</MessageGoodwillChanged>
+  <MessageGoodwillChangedWithReason>{0}-თან ურთიერთობა შეიცვალა {1}-დან {2}-მდე ({3}).</MessageGoodwillChangedWithReason>
+  <GoodwillChangedReason_AttackedPawn>თავს დაესხა {1_labelShort}</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_UsedItem>გამოიყენება {ITEM_labelShort} {TARGET_labelShort}-ზე</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_UsedAbility>გამოიყენება {0} {1}-ზე</GoodwillChangedReason_UsedAbility>
+  <GoodwillChangedReason_RemovedBodyPart>მოსავალი {0}</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_RemovedImplant>ამოღებულია {0}</GoodwillChangedReason_RemovedImplant>
+  <GoodwillChangedReason_DowngradedImplant>შემცირდა {0}</GoodwillChangedReason_DowngradedImplant>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>დაუსაბუთებლად დაყენებული {0}</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_CapturedPawn>გადაღებული {1_labelShort}</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_PawnCrushed>{1_labelShort} დამსხვრეული</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnDied>{1_labelShort} გარდაიცვალა</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_PawnStripped>{0_labelShort} გაშიშვლებულია</GoodwillChangedReason_PawnStripped>
+  <GoodwillChangedReason_Traded>ვაჭრობა</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_AttackedCaravan>თავს დაესხა ქარავანს</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} გამოვიდა რუქიდან ჯანმრთელად</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_Tended>მიდრეკილია {1_labelShort}-ზე</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_ReceivedGift>მიიღო საჩუქარი</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_FulfilledTradeRequest>შეასრულა სავაჭრო შეთავაზება</GoodwillChangedReason_FulfilledTradeRequest>
+  <GoodwillChangedReason_FinishedQuest>დაასრულა ქვესტი</GoodwillChangedReason_FinishedQuest>
+  <GoodwillChangedReason_UsedForbiddenThing>{PAWN_labelShort} გამოიყენება {CULPRIT}</GoodwillChangedReason_UsedForbiddenThing>
+  <GoodwillChangedReason_SoldPawn>გაიყიდა {0_labelShort}</GoodwillChangedReason_SoldPawn>
+  <GoodwillChangedReason_EuthanizedPawn>ევთანაზირებული {PAWN_labelShort}</GoodwillChangedReason_EuthanizedPawn>
+  <GoodwillChangedReason_RequestedMilitaryAid>სამხედრო დახმარება სთხოვა</GoodwillChangedReason_RequestedMilitaryAid>
+  <GoodwillChangedReason_RequestedTrader>მოითხოვა სავაჭრო ქარავანი</GoodwillChangedReason_RequestedTrader>
+  <GoodwillChangedReason_CausedNeuroquakeEcho>გამოიწვია ნეიროკვის ექო</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <GoodwillChangedReason_CausedBerserk>გამოიწვია გაბრაზება {PAWN_labelShort}-ზე</GoodwillChangedReason_CausedBerserk>
+  <GoodwillChangeReason_AttackedFaction>თავს დაესხა {0_name}</GoodwillChangeReason_AttackedFaction>
+  <GoodwillChangeReason_ShuttleDestroyed>შატლი განადგურებულია</GoodwillChangeReason_ShuttleDestroyed>
+  <GoodwillChangeReason_CiviliansLost>მშვიდობიანი მოსახლეობა დაკარგა</GoodwillChangeReason_CiviliansLost>
+  <GoodwillChangeReason_CommanderLost>მეთაური დაკარგა</GoodwillChangeReason_CommanderLost>
+
+  <MessageGiftGivenButNotAppreciated>{0} იღებს თქვენს საჩუქარს, მაგრამ ისინი არ აფასებენ მას.</MessageGiftGivenButNotAppreciated>
+
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>ქარავანი უკვე დატვირთულია და სხვას ვერაფერს ატარებს.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarry>ქარავანი ამდენს ვერ იტანს. საჩუქრები იწონის {0}-ს, მაგრამ ქარავანს მხოლოდ {1} მეტის გადატანა შეუძლია.</MessageCantGiveGiftBecauseCantCarry>
+
+  <MessageFormedCaravan>{0} ჩამოყალიბდა და ახლა მოგზაურობს მსოფლიო რუკაზე.</MessageFormedCaravan>
+  <MessageFormedCaravan_Orders>ბრძანებები</MessageFormedCaravan_Orders>
+
+  <MessageBillValidationStoreZoneDeleted>{1}-ის „{0}“ ვეღარ მიწოდებს წაშლილ {2} მარაგს.</MessageBillValidationStoreZoneDeleted>
+  <MessageBillValidationStoreZoneUnavailable>{1}-ის "{0}" ვეღარ მიაწოდებს მიუწვდომელ მარაგს {2}.</MessageBillValidationStoreZoneUnavailable>
+  <MessageBillValidationPawnUnavailable>{0} ვეღარ იმუშავებს „{1}“-ზე {2}-ზე. შეზღუდვა მოიხსნა.</MessageBillValidationPawnUnavailable>
+  <MessageBillValidationIncludeZoneDeleted>{1}-ის „{0}“ ვეღარ ითვლის ელემენტებს წაშლილ {2} მარაგში.</MessageBillValidationIncludeZoneDeleted>
+  <MessageBillValidationIncludeBuildingDeleted>{1}-ის „{0}“ ვეღარ ითვლის ელემენტებს წაშლილ {2} შენობაში.</MessageBillValidationIncludeBuildingDeleted>
+  <MessageBillValidationIncludeStorageGroupDeleted>{1}-ის „{0}“ ვეღარ ითვლის ელემენტებს წაშლილი მეხსიერების ჯგუფში {2}.</MessageBillValidationIncludeStorageGroupDeleted>
+  <MessageBillValidationIncludeZoneUnavailable>{1}-ის "{0}" ვეღარ ითვლის ერთეულებს მიუწვდომელ {2} მარაგში.</MessageBillValidationIncludeZoneUnavailable>
+  <MessageBillValidationStoreZoneInsufficient>{1}-ის "{0}" ვეღარ მიაწოდებს ყველა პროდუქტს {2}-ის მარაგში.</MessageBillValidationStoreZoneInsufficient>
+
+  <MessageAnimalReturnedWild>მოთვინიერების მოვლის ნაკლებობის გამო, {1_labelShort} დაბრუნდა ველურ ბუნებაში.</MessageAnimalReturnedWild>
+  <MessageAnimalReturnedWildReleased>{1_labelShort} დაბრუნდა ველურში.</MessageAnimalReturnedWildReleased>
+  <MessageAnimalLostSkill>ტექნიკური ტრენინგის ნაკლებობის გამო, {ANIMAL_labelShort}-მა დაკარგა უნარი: {1}</MessageAnimalLostSkill>
+
+  <MessageTranslationReportSaved>თარგმანის მოხსენება დაწერილი {0}-ზე</MessageTranslationReportSaved>
+
+  <MessageCaravanArrivalActionNoLongerValid>{0} ვერ მიაღწია დანიშნულების ადგილს.</MessageCaravanArrivalActionNoLongerValid>
+
+  <MessageEnterCooldownBlocksEntering>ძალიან საშიშია {0}-ისთვის ხელახლა შესვლა.</MessageEnterCooldownBlocksEntering>
+
+  <MessagePermitCooldownFinished>{0_labelShort}-ს ახლა თავისუფლად შეუძლია გამოიყენოს „{1}“.</MessagePermitCooldownFinished>
+
+  <MessagePredatorHuntingPlayerAnimal>{PREDATOR} ნადირობს {PREY_definite} ({PREY_kindBase}) საკვებზე!</MessagePredatorHuntingPlayerAnimal>
+
+  <MessagePrisonerResistanceBroken>პატიმარი {PRISONER_labelShort}-ის წინააღმდეგობა გატეხილია {WARDEN_labelShort}-ით.</MessagePrisonerResistanceBroken>
+  <MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>დაიწყება დაქირავების მცდელობები.</MessagePrisonerResistanceBroken_RecruitAttempsWillBegin>
+
+  <MessageModWithPackageIdAlreadyEnabled>კიდევ ერთი რეჟიმი პაკეტის ID {0} უკვე აქტიურია. გამორთეთ {1}, სანამ ცდილობთ მის გააქტიურებას.</MessageModWithPackageIdAlreadyEnabled>
+  <MessageDisableModsBeforeCleaningTranslationFiles>ამ ხელსაწყოს გამოყენებამდე გამორთეთ ყველა რეჟიმი.</MessageDisableModsBeforeCleaningTranslationFiles>
+  <MessageUnpackBeforeCleaningTranslationFiles>ამ ხელსაწყოს გამოყენებამდე ამოალაგეთ და შემდეგ წაშალეთ ამ ენის ყველა შეკუმშული თარგმანის ფაილი.</MessageUnpackBeforeCleaningTranslationFiles>
+  <MessageTranslationFilesCleanupDone>შესრულებულია. დაზარალებული საქაღალდეები: {0}</MessageTranslationFilesCleanupDone>
+
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>თარგმანის ერთ-ერთი ფაილი ({0}) ვერ ჩაიტვირთა. XML ანალიზების ყველა შეცდომა ჯერ უნდა მოგვარდეს.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+
+  <MessageCapturingWillAngerFaction>გაფრთხილება: {PAWN_nameDef}-ის დაჭერა გააბრაზებს {PAWN_possessive} ფრაქცია {PAWN_factionName}-ს.</MessageCapturingWillAngerFaction>
+
+  <MessageStrippingWillAngerFaction>გაფრთხილება: {PAWN_nameDef}-ის გაშიშვლება გააბრაზებს {PAWN_factionName}-ს.</MessageStrippingWillAngerFaction>
+
+  <MessageCantShootInMelee>მელეში სროლა არ შეიძლება.</MessageCantShootInMelee>
+
+  <MessageNoColonistCanAcceptQuest>ვერც ერთი თქვენი {0} ვერ მიიღებს ამ ქვესტს ახლა.</MessageNoColonistCanAcceptQuest>
+  <MessageCannotAcceptQuest>ამ ქვესტის მიღება არ შეიძლება.</MessageCannotAcceptQuest>
+  <MessageQuestAccepted>{0_definite}-მა მიიღო ქვესტი: {1}</MessageQuestAccepted>
+  <MessagePawnLeaving>{0} მიდის.</MessagePawnLeaving>
+  <MessagePawnsLeaving>{0} მიდის.</MessagePawnsLeaving>
+
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>ძეგლი განადგურდა, რადგან შენ ააშენე აკრძალული შენობა შიგნით.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+
+  <MessageNoResearchBenchForTechprint>არ შეიძლება: არ არის ხელმისაწვდომი, არარეზერვირებული კვლევის სკამი.</MessageNoResearchBenchForTechprint>
+
+  <NoValidDestinationFound>{0}-ისთვის სწორი დანიშნულება ვერ მოიძებნა</NoValidDestinationFound>
+
+  <MessageMinifiedTreeDied>მოპოვებული ხე ახლახან მოკვდა.</MessageMinifiedTreeDied>
+  
+  
+  <MessageResearchMenuWithoutBench>გაფრთხილება: კვლევა არ დაიწყება მანამ, სანამ არ შექმნით კვლევის სკამს.</MessageResearchMenuWithoutBench>
+
+  <MessageActivatorProximityTriggered>{0_indefinite}-მა გამოიწვია სიახლოვის აქტივატორი.</MessageActivatorProximityTriggered>
+
+  <MessageCannotSelectInvisibleStat>{0_label} ამჟამად დამალულია.</MessageCannotSelectInvisibleStat>
+
+  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} არის პატიმარი</MessagePrisonerCannotEquipWeapon>
+
+  <MessageIdeoOpposedWorkTypeSelected>გაფრთხილება: {0_nameDef}-ის რწმენა ეწინააღმდეგება {1}-ს მუშაობას. {0_pronoun} შეიძლება გახდეს უბედური.</MessageIdeoOpposedWorkTypeSelected>
+
+  <MessageBedLostAssignment>{0} აღარ არის მინიჭებული {1_nameDef}-ს.</MessageBedLostAssignment>
+  <MessageBedDestroyed>{0} მინიჭებული {1_nameDef} განადგურდა.</MessageBedDestroyed>
+
+  
+  <MessageLordJobNeedsAtLeastOneRolePawn>თქვენ გჭირდებათ {0_indefinite}.</MessageLordJobNeedsAtLeastOneRolePawn>
+  <MessageLordJobNeedsAtLeastNumRolePawn>თქვენ გჭირდებათ მინიმუმ {1} {0}.</MessageLordJobNeedsAtLeastNumRolePawn>
+
+  
+  <Spectate>ყურება</Spectate>
+  <AssignToRole>მიანიჭეთ {0}</AssignToRole>
+  <RitualBegun>{0} დაიწყო.</RitualBegun>
+  <MaxPawnsPerRole>{0}-ების მაქსიმალური რაოდენობაა {1}.</MaxPawnsPerRole>
+  <RoleIsLocked>{0}-ის როლი დაბლოკილია.</RoleIsLocked>
+  <MessageRitualNeedsAtLeastOnePerson>თქვენ გჭირდებათ მინიმუმ ერთი მონაწილე.</MessageRitualNeedsAtLeastOnePerson>
+  <MessageRitualNeedsAtLeastOneSpectator>თქვენ გჭირდებათ მინიმუმ ერთი მაყურებელი.</MessageRitualNeedsAtLeastOneSpectator>
+  <MessageRitualPawnDowned>{0_labelShort} ჩამოშლილია.</MessageRitualPawnDowned>
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} ამჟამად გარბის.</MessageRitualPawnPrisonerNotSecured>
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort} ამჟამად აჯანყებულია.</MessageRitualPawnSlaveNotSecured>
+  <MessageRitualPawnReleased>{0_labelShort} გამოდის.</MessageRitualPawnReleased>
+  <MessageRitualPawnInjured>{0_labelShort} დაშავებულია.</MessageRitualPawnInjured>
+  <MessageRitualRoleRequired>{0_labelShort} უნდა ეკავოს ერთ-ერთ ამ როლს</MessageRitualRoleRequired>
+  <MessageRitualRoleMustBePrisoner>{0} უნდა იყოს პატიმარი.</MessageRitualRoleMustBePrisoner>
+  <MessageRitualRoleMustBeAnimal>{0} უნდა იყოს ცხოველი.</MessageRitualRoleMustBeAnimal>
+  <MessageRitualRoleMustBeHumanlike>{0} უნდა იყოს ადამიანი.</MessageRitualRoleMustBeHumanlike>
+  <MessageRitualRoleCannotBeABaby>{0} არ შეიძლება იყოს ბავშვი.</MessageRitualRoleCannotBeABaby>
+  <MessageRitualNoRolesAvailable>როლები არ არის ხელმისაწვდომი {0_labelShort}-ისთვის.</MessageRitualNoRolesAvailable>
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort} არ არის არცერთი კოლონიის იდეოლიგიის წევრი.</MessageRitualNotOfPlayerIdeo>
+  <MessageRitualRoleMustHaveEyes>{0}-ს უნდა ჰქონდეს თვალები</MessageRitualRoleMustHaveEyes>
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} არ საჭიროებს შემდგომ სკარფიკაციას.</MessageRitualRoleMustRequireScarification>
+  <MessageRitualRoleMustRequireBlinding>{0_labelShort} არ საჭიროებს დაბრმავებას.</MessageRitualRoleMustRequireBlinding>
+  <MessageRitualRoleMustBePrisonerOrSlave>{0} უნდა იყოს პატიმარი ან მონა.</MessageRitualRoleMustBePrisonerOrSlave>
+  <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort}-ს უნდა შეეძლოს ბრძოლა.</MessageRitualRoleMustBeCapableOfFighting>
+  <MessageRitualRoleCannotReplaceRequiredPawn>ამ როლს სხვა ვერ შეასრულებს.</MessageRitualRoleCannotReplaceRequiredPawn>
+  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} ვერ დაუკავშირდება Gauranlen-ის ხეს, რადგან {0_possessive} კავშირი ახლახან დაიშალა.</MessageRitualRolePawnRecentlyTornConnection>
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort}-ს აქვს იგივე იდეოლიგია, რაც გადამყვანს.</MessageRitualRolePawnHasSameIdeo>
+  <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort}-ს უნდა ჰქონდეს დამფრთხალი უნარი.</MessageRitualRoleMustBeCapableOfWardening>
+  <MessageRitualRoleMustBeCapableOfGeneric>{0}-ს უნდა შეეძლოს {1}.</MessageRitualRoleMustBeCapableOfGeneric>
+  <MessageRitualRoleMustBeCapableOfViolence>{0} უნდა იყოს ძალადობის უნარი.</MessageRitualRoleMustBeCapableOfViolence>
+  <MessageRitualRoleMustNotBePrisonerToSpectate>პატიმრებს არ შეუძლიათ {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <MessageRitualRoleMustHaveIdeoToSpectate>მხოლოდ {0}-ს შეუძლია {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
+  <MessageRitualRoleMustHaveIdeoToDoRole>მხოლოდ {0}-ს შეუძლია შეასრულოს {1}-ის როლი.</MessageRitualRoleMustHaveIdeoToDoRole>
+  <MessageRitualRoleMustBeColonist>უნდა იყოს კოლონისტი {0} როლისთვის.</MessageRitualRoleMustBeColonist>
+  <MessageRitualRoleMustBeFree>არ უნდა იყოს პატიმარი {0} როლისთვის.</MessageRitualRoleMustBeFree>
+  <MessageRitualWontAttendExtremeTemperature>{0_labelShort} არ დაესწრება რიტუალის ზონაში ექსტრემალური ტემპერატურის გამო.</MessageRitualWontAttendExtremeTemperature>
+  <MessageRitualRoleMustBeFreeColonist>უნდა იყოს კოლონისტი და არა დამონებული {0} როლისთვის.</MessageRitualRoleMustBeFreeColonist>
+  <MessageRitualRoleMustHaveLargerBodySize>{0}-ს უნდა ჰყავდეს ცხოველი, რომლის სხეულის მინიმალური ზომაა {1}.</MessageRitualRoleMustHaveLargerBodySize>
+  <MessageRitualPawnMentalState>{0_labelShort} ფსიქიკურ მდგომარეობაშია.</MessageRitualPawnMentalState>
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} უკვე არის {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort}-ს მაყურებლის გარდა სხვა როლი არ შეუძლია.</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <MessageRitualRoleMustNotBeImprisonedWildMan>{0} არ შეიძლება იყოს დაპატიმრებული გარეული კაცი/ქალი.</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <MessageRitualRoleMustNotBeImprisoned>{0} უნდა იყოს უფასო.</MessageRitualRoleMustNotBeImprisoned>
+  <MessageRitualRoleCannotBeChild>{0} არ შეიძლება იყოს ბავშვი.</MessageRitualRoleCannotBeChild>
+  <MessageRitualRoleCannotBeBaby>{0} არ შეიძლება იყოს ბავშვი.</MessageRitualRoleCannotBeBaby>
+  <MessageRitualRoleBusy>{0} დაკავებულია.</MessageRitualRoleBusy>
+
+  <MessagePlayerMustSelectTile>გასაგრძელებლად უნდა აირჩიოთ საიტი.</MessagePlayerMustSelectTile>
+
+  <CannotPlantThing>არ შეიძლება {0_labelShort}-ის დარგვა</CannotPlantThing>
+  <MessageWarningNotEnoughFertility>საჭიროა უფრო ნაყოფიერი რელიეფი.</MessageWarningNotEnoughFertility>
+  <CannotPlantExtremeTemp>ძალიან ექსტრემალური ტემპერატურა.</CannotPlantExtremeTemp>
+  <CannotPlantMissingTerrainTag>ამ რელიეფზე მცენარეები ვერ იზრდება.</CannotPlantMissingTerrainTag>
+  <BlockedBy>დაბლოკილია {0_label}-ის მიერ.</BlockedBy>
+  <AdjacentSowBlocker>არ შეიძლება {0_label}-ის გვერდით დარგვა.</AdjacentSowBlocker>
+  <TooCloseToOtherPlant>ძალიან ახლოსაა {0_label}-თან.</TooCloseToOtherPlant>
+  <TooCloseToOtherSeedPlantCell>ძალიან ახლოს {0}-ის დარგვის ადგილთან.</TooCloseToOtherSeedPlantCell>
+  <MessageCannotBePlacedOn>{0}-ზე განთავსება შეუძლებელია.</MessageCannotBePlacedOn>
+
+  <MessageWarningCutImportantPlant>გაფრთხილება: {0} მონიშნულია ჭრისთვის.</MessageWarningCutImportantPlant>
+
+  <MessageIncapableOfManipulation>{0_labelShort}-ს არ შეუძლია მანიპულირება.</MessageIncapableOfManipulation>
+
+  <MessageActivationCanceled>{0_labelShort} აქტივაცია გაუქმდა</MessageActivationCanceled>
+
+  <NothingAvailableInCategory>კატეგორიაში ამჟამად არაფერი აშენდება</NothingAvailableInCategory>
+
+  <SettingsLinkedFor>შენახვის პარამეტრები დაკავშირებულია {0} შენობებისთვის.</SettingsLinkedFor>
+  <SettingsLinkedForSingular>შენახვის პარამეტრები მიბმულია 1 კორპუსისთვის.</SettingsLinkedForSingular>
+  <SettingsUnlinkedFor>მეხსიერების პარამეტრები გაუქმებულია {0} შენობებისთვის.</SettingsUnlinkedFor>
+  <SettingsUnlinkedForSingular>მეხსიერების პარამეტრები გაუქმებულია 1 შენობისთვის.</SettingsUnlinkedForSingular>
+  <StorageSettingsCopiedToClipboard>მეხსიერების პარამეტრები კოპირებულია ბუფერში.</StorageSettingsCopiedToClipboard>
+  <StorageSettingsPastedFromClipboard>მეხსიერების პარამეტრები ჩასმულია ბუფერიდან.</StorageSettingsPastedFromClipboard>
+  
+  <MessageBuildingRequiresAdjacentWalls>{0_label} საჭიროებს მიმდებარე კედლებს ფუნქციონირებისთვის.</MessageBuildingRequiresAdjacentWalls>
+
+  <MessageLodgersCantFarskip>არ შეიძლება გამოტოვება: ლტოლვილი</MessageLodgersCantFarskip>
+  
+  <MessageHackerLockedOut>{HACKER_nameDef}-ის ჰაკერობა გამოვლინდა. {HACKER_pronoun} დაბლოკილია {DURATION}-ისთვის.</MessageHackerLockedOut>
+  <MessageHackerLockedOutPermanently>{HACKER_nameDef}-ის ჰაკერობა გამოვლინდა. {HACKER_pronoun} სამუდამოდ დაბლოკილია.</MessageHackerLockedOutPermanently>
+  <MessageHackableUnlocked>{0_labelShort} შეიძლება ხელახლა გატეხოს.</MessageHackableUnlocked>
+
+  <ShuttleCannotLand>შატლი აქ ვერ დაჯდება</ShuttleCannotLand>
+  <MessageShuttleArrived>შატლი ჩამოვიდა.</MessageShuttleArrived>
+
+  <MessageGroundPenetratingScannerNoBedrock>გაფრთხილება: {THING_labelCap} არ იმუშავებს ამ ბიომში</MessageGroundPenetratingScannerNoBedrock>
+
+</LanguageData>

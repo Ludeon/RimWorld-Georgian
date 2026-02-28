@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_PackBandwidth.description>ზურგჩანთა, რომელიც შეიცავს გამტარუნარიანობის გაფართოების კომპიუტერს და ანტენას. მას შეუძლია გაზარდოს მექანიტორის მაქსიმალური საერთო გამტარობა.</Apparel_PackBandwidth.description>
+  <Apparel_PackBandwidth.label>გამტარუნარიანობის პაკეტი</Apparel_PackBandwidth.label>
+  <Apparel_PackControl.description>ზურგჩანთა, რომელიც შეიცავს მექანიკური მართვის დამხმარე კომპიუტერებს. ის საშუალებას აძლევს მექანიტორს გააკონტროლოს ერთი დამატებითი საკონტროლო ჯგუფი.</Apparel_PackControl.description>
+  <Apparel_PackControl.label>საკონტროლო პაკეტი</Apparel_PackControl.label>
+  <Apparel_PackTox.description>A reusable backpack containing canisters of reagents and a mechanism that uses them to generate tox gas. When the wearer activates the pack, it will begin spreading tox gas and continue for several seconds until it runs out of reagents.\n\nOnce used, it must be reloaded with chemfuel before it can be used again.\n\nTox gas burns the lungs and eyes, causing a temporary shortness of breath and reduction in sight. Continued exposure to tox gas results in toxic buildup which can be lethal.</Apparel_PackTox.description>
+  <Apparel_PackTox.label>ტოქსის პაკეტი</Apparel_PackTox.label>
+</LanguageData>

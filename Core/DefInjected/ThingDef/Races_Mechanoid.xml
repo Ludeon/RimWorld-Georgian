@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Mech_CentipedeBlaster.label>ასფეხა ბლასტერი</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBurner.label>ცენტიპედის საწვავი</Mech_CentipedeBurner.label>
+  <Mech_CentipedeGunner.label>სანტიპედის მსროლელი</Mech_CentipedeGunner.label>
+  <Mech_Lancer.description>ადამიანის ზომის სწრაფი საბრძოლო მექანიზმები, რომლებიც შექმნილია საშუალო და შორ მანძილზე ბრძოლისთვის. მათი სხეულები მსუბუქია, რაც მათ დაუცველ სამიზნეებად აქცევს ახლო მანძილიდან - განსაკუთრებით ბრძოლებში.</Mech_Lancer.description>
+  <Mech_Lancer.label>ლანსერი</Mech_Lancer.label>
+  <Mech_Pikeman.description>უხეში მრავალფეხა საბრძოლო მექანოიდი, რომელიც შორ მანძილზე სროლისთვის არის სპეციალიზებული. დისტანციაზე ეფექტურია, მაგრამ ახლო ბრძოლასა და ხელჩართულ შეტაკებაში სუსტია.\n\nგამოცდილმა მებრძოლებმა იციან, რომ პაიკმენს მიუახლოვდნენ და სწრაფად ჩაახშონ.</Mech_Pikeman.description>
+  <Mech_Pikeman.label>პიკემენი</Mech_Pikeman.label>
+  <Mech_Scyther.description>სწრაფი, ბრტყელი, ადამიანის ზომის საბრძოლო მექანოიდები, სპეციალიზირებულია სწრაფ მიდგომასა და ახლო მანძილზე ბრძოლაში. მათი სხეულები დაფარულია წერტილებითა და პირებით, მაგრამ ისინი ძირითადად იყენებენ თავიანთ ორ მკლავს კიდურების მოსახსნელად ან მსხვერპლს ცოცხლად გამოსაყვანად.</Mech_Scyther.description>
+  <Mech_Scyther.label>ნაკაწრი</Mech_Scyther.label>
+  <Mech_Termite.description>საშუალო ზომის მექანოიდი. ტერმიტები სპეციალიზირებულია ბურღულში, თხრაში და თავდაცვითი სტრუქტურების გარღვევაში. დამცველებმა უნდა გადაწყვიტონ, ეცადონ ტერმიტის აღმოფხვრას, სანამ ის მათ თავდაცვას გათხრის, ან წაიყვანონ იქ, სადაც აღმოცენდება.</Mech_Termite.description>
+  <Mech_Termite.label>ტერმიტი</Mech_Termite.label>
+</LanguageData>

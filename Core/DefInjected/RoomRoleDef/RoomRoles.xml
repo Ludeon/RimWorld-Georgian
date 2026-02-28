@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Barn.label>ბეღელი</Barn.label>
+  <Barracks.label>ყაზარმები</Barracks.label>
+  <Bedroom.label>საძინებელი</Bedroom.label>
+  <DiningRoom.label>სასადილო ოთახი</DiningRoom.label>
+  <Hospital.label>საავადმყოფო</Hospital.label>
+  <Kitchen.label>სამზარეულო</Kitchen.label>
+  <Laboratory.label>ლაბორატორია</Laboratory.label>
+  <None.label>არცერთი</None.label>
+  <PrisonBarracks.label>ციხის ყაზარმები</PrisonBarracks.label>
+  <PrisonCell.label>ციხის საკანი</PrisonCell.label>
+  <RecRoom.label>დასასვენებელი ოთახი</RecRoom.label>
+  <Room.label>ოთახი</Room.label>
+  <Storeroom.label>სათავსო</Storeroom.label>
+  <Tomb.label>საფლავი</Tomb.label>
+  <Workshop.label>სახელოსნო</Workshop.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdvancedGravtech.description>ააშენეთ მოწინავე სატვირთო ნაწილები.</AdvancedGravtech.description>
+  <AdvancedGravtech.label>მოწინავე გრავტექნიკა</AdvancedGravtech.label>
+  <BasicGravtech.description>ააშენეთ სამარხი და გამოიყენეთ იგი პლანეტაზე სამოგზაუროდ. Grav წამყვანის გარეშე, gravship-ის გაშვება მიატოვებს თქვენს ამჟამინდელ რუკას.</BasicGravtech.description>
+  <BasicGravtech.label>ძირითადი gravtech</BasicGravtech.label>
+  <BeamWeapons.description>შექმენით იარაღი, რომელიც იყენებს გამა გამოსხივების სხივებს ჯავშანტექნიკის დასაწვავად და სამიზნეების გასანათებლად.</BeamWeapons.description>
+  <BeamWeapons.label>სხივის იარაღი</BeamWeapons.label>
+  <Fishing.description>მოათავსეთ ზონები, სადაც თქვენს კოლონისტებს შეუძლიათ თევზაობა.</Fishing.description>
+  <Fishing.label>თევზაობა</Fishing.label>
+  <HeavyBridges.description>ააშენეთ მძიმე ხიდები, რომლებიც მხარს უჭერენ მძიმე შენობებს. თქვენ შეგიძლიათ გამოიყენოთ ეს წყალზე მთელი კოლონიების ასაშენებლად.</HeavyBridges.description>
+  <HeavyBridges.label>მძიმე ხიდები</HeavyBridges.label>
+  <HunterDrones.description>შექმენით ხაფანგები და შესანახი პაკეტები, რომლებიც ათავისუფლებენ მონადირე დრონებს. ეს ფეთქებადი თვითმფრინავები მისდევენ მტრებს და აფეთქდებიან, როცა დისტანციურ ზონაში არიან.</HunterDrones.description>
+  <HunterDrones.label>მონადირე დრონი</HunterDrones.label>
+  <OrbitalTech.description>ააშენეთ შენობები და ტანსაცმელი, რომელსაც შეუძლია დაიცვას სივრცის მკაცრი ვაკუუმი.</OrbitalTech.description>
+  <OrbitalTech.label>ორბიტალური ტექ</OrbitalTech.label>
+  <Shuttles.description>შექმენით შატლი, რომელიც შეიძლება გამოყენებულ იქნას შორ მანძილზე მოგზაურობისთვის ან ორბიტაზე მისასვლელად. ამისათვის საჭიროა შატლის ძრავა, რომლის ყიდვა შესაძლებელია ორბიტალური ტრეიდერებისგან, გადარჩენა სხვა შატლებისგან ან მისი მიღება ქვესტების მეშვეობით.</Shuttles.description>
+  <Shuttles.label>შატლი</Shuttles.label>
+  <StandardGravtech.description>ააშენეთ რთული სატვირთო ნაწილები.</StandardGravtech.description>
+  <StandardGravtech.label>სტანდარტული gravtech</StandardGravtech.label>
+</LanguageData>

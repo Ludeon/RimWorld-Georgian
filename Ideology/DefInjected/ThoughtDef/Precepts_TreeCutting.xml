@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CutTree_Disapproved.stages.0.description>ხის მოჭრა მომიწია. არასწორი იყო ბუნების ამ გზით შელახვა.</CutTree_Disapproved.stages.0.description>
+  <CutTree_Disapproved.stages.0.label>მოჭრილი ხე</CutTree_Disapproved.stages.0.label>
+  <CutTree_Horrible.stages.0.description>ხის მოჭრა მომიწია. საშინელება იყო ამ გზით ბუნების შელახვა.</CutTree_Horrible.stages.0.description>
+  <CutTree_Horrible.stages.0.label>მოჭრილი ხე</CutTree_Horrible.stages.0.label>
+  <CutTree_Know_Disapproved.stages.0.label>მოჭრილი ხე</CutTree_Know_Disapproved.stages.0.label>
+  <CutTree_Know_Disapproved_Mood.stages.0.description>ხე მოვჭრათ. არ იყო კარგი ბუნების ამ გზით ზიანის მიყენება.</CutTree_Know_Disapproved_Mood.stages.0.description>
+  <CutTree_Know_Disapproved_Mood.stages.0.label>ხე ჩამოვარდა</CutTree_Know_Disapproved_Mood.stages.0.label>
+  <CutTree_Know_Horrible.stages.0.label>მოჭრილი ხე</CutTree_Know_Horrible.stages.0.label>
+  <CutTree_Know_Horrible_Mood.stages.0.description>ხე მოვჭრათ. არასწორია ბუნების ამგვარად შელახვა.</CutTree_Know_Horrible_Mood.stages.0.description>
+  <CutTree_Know_Horrible_Mood.stages.0.label>ხე ჩამოვარდა</CutTree_Know_Horrible_Mood.stages.0.label>
+  <CutTree_Know_Prohibited.stages.0.label>მოჭრილი ხე</CutTree_Know_Prohibited.stages.0.label>
+  <CutTree_Know_Prohibited_Mood.stages.0.description>ხე მოვჭრათ. ასეთი რამ ბუნების დარღვევა არასოდეს უნდა მოხდეს.</CutTree_Know_Prohibited_Mood.stages.0.description>
+  <CutTree_Know_Prohibited_Mood.stages.0.label>ხე ჩამოვარდა</CutTree_Know_Prohibited_Mood.stages.0.label>
+  <MinifiedTreeDied_Know_Disapproved_Mood.stages.0.description>მიწიდან ხე ამოვიღეთ და გავუშვით. არ იყო კარგი ბუნების ამ გზით ზიანის მიყენება.</MinifiedTreeDied_Know_Disapproved_Mood.stages.0.description>
+  <MinifiedTreeDied_Know_Disapproved_Mood.stages.0.label>მოპოვებული ხე მოკვდა</MinifiedTreeDied_Know_Disapproved_Mood.stages.0.label>
+  <MinifiedTreeDied_Know_Horrible_Mood.stages.0.description>მიწიდან ხე ამოვიღეთ და გავუშვით. არასწორია ბუნების ამგვარად შელახვა.</MinifiedTreeDied_Know_Horrible_Mood.stages.0.description>
+  <MinifiedTreeDied_Know_Horrible_Mood.stages.0.label>მოპოვებული ხე მოკვდა</MinifiedTreeDied_Know_Horrible_Mood.stages.0.label>
+  <MinifiedTreeDied_Know_Prohibited_Mood.stages.0.description>მიწიდან ხე ამოვიღეთ და შემდეგ მოვკვდით. ასეთი რამ ბუნების დარღვევა არასოდეს უნდა მოხდეს.</MinifiedTreeDied_Know_Prohibited_Mood.stages.0.description>
+  <MinifiedTreeDied_Know_Prohibited_Mood.stages.0.label>მოპოვებული ხე მოკვდა</MinifiedTreeDied_Know_Prohibited_Mood.stages.0.label>
+</LanguageData>

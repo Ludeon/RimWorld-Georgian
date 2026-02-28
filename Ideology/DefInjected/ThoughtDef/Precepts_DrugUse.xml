@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdministeredDrug_Horrible.stages.0.description>წამალი ჩავუტარე. ეს იყო საშინელი შეურაცხყოფა ჩემი რწმენის წინააღმდეგ.</AdministeredDrug_Horrible.stages.0.description>
+  <AdministeredDrug_Horrible.stages.0.label>შეყვანილი პრეპარატი</AdministeredDrug_Horrible.stages.0.label>
+  <AdministeredDrug_Know_Horrible.stages.0.label>შეყვანილი პრეპარატი</AdministeredDrug_Know_Horrible.stages.0.label>
+  <AdministeredHardDrug_Horrible.stages.0.description>მე მივიღე მძიმე ნარკოტიკი - არც სამედიცინო და არც სოციალური. ეს იყო საშინელი შეურაცხყოფა ჩემი რწმენის წინააღმდეგ.</AdministeredHardDrug_Horrible.stages.0.description>
+  <AdministeredHardDrug_Horrible.stages.0.label>შეყვანილი მძიმე პრეპარატი</AdministeredHardDrug_Horrible.stages.0.label>
+  <AdministeredHardDrug_Know_Horrible.stages.0.label>შეყვანილი მძიმე პრეპარატი</AdministeredHardDrug_Know_Horrible.stages.0.label>
+  <AdministeredRecreationalDrug_Horrible.stages.0.description>რეკრეაციულ წამალს ვაძლევდი. ეს იყო საშინელი შეურაცხყოფა ჩემი რწმენის წინააღმდეგ.</AdministeredRecreationalDrug_Horrible.stages.0.description>
+  <AdministeredRecreationalDrug_Horrible.stages.0.label>შეყვანილი რეკრეაციული პრეპარატი</AdministeredRecreationalDrug_Horrible.stages.0.label>
+  <AdministeredRecreationalDrug_Know_Horrible.stages.0.label>შეყვანილი რეკრეაციული პრეპარატი</AdministeredRecreationalDrug_Know_Horrible.stages.0.label>
+  <IngestedDrug_Horrible.stages.0.description>წამალი გამოვიყენე. ასეთი ქიმიკატები სხეულში არის საშინელი დანაშაული ჩემი რწმენის წინააღმდეგ.</IngestedDrug_Horrible.stages.0.description>
+  <IngestedDrug_Horrible.stages.0.label>გამოყენებული პრეპარატი</IngestedDrug_Horrible.stages.0.label>
+  <IngestedDrug_Know_Horrible.stages.0.label>გამოყენებული პრეპარატი</IngestedDrug_Know_Horrible.stages.0.label>
+  <IngestedHardDrug_Horrible.stages.0.description>გამოვიყენე მძიმე ნარკოტიკი - არც სამედიცინო და არც სოციალური. ეს იყო საშინელი შეურაცხყოფა ჩემი რწმენის წინააღმდეგ.</IngestedHardDrug_Horrible.stages.0.description>
+  <IngestedHardDrug_Horrible.stages.0.label>გამოიყენა მძიმე ნარკოტიკი</IngestedHardDrug_Horrible.stages.0.label>
+  <IngestedHardDrug_Know_Horrible.stages.0.label>გამოიყენა მძიმე ნარკოტიკი</IngestedHardDrug_Know_Horrible.stages.0.label>
+  <IngestedRecreationalDrug_Horrible.stages.0.description>გამოვიყენე რეკრეაციული პრეპარატი. ეს იყო ჩემი რწმენის შეურაცხყოფა.</IngestedRecreationalDrug_Horrible.stages.0.description>
+  <IngestedRecreationalDrug_Horrible.stages.0.label>გამოიყენა რეკრეაციული პრეპარატი</IngestedRecreationalDrug_Horrible.stages.0.label>
+  <IngestedRecreationalDrug_Know_Horrible.stages.0.label>გამოიყენა რეკრეაციული პრეპარატი</IngestedRecreationalDrug_Know_Horrible.stages.0.label>
+</LanguageData>

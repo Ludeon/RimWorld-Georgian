@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <FishRepeatMode_RepeatCount>გააკეთე X ჯერ</FishRepeatMode_RepeatCount>
+  <FishRepeatMode_TargetCount>გააკეთე სანამ არ გექნება X</FishRepeatMode_TargetCount>
+  <FishRepeatMode_Forever>გააკეთე სამუდამოდ</FishRepeatMode_Forever>
+  <FishPopulation>თევზის პოპულაცია</FishPopulation>
+  <FishPopulationDesc>რამდენი თევზია ამ წყალში. უფრო დიდ წყალში მეტი თევზია და თევზის პოპულაციას უფრო სწრაფად აღადგენს.</FishPopulationDesc>
+  <MinimumPopulation>მინიმალური მოსახლეობა</MinimumPopulation>
+  <MinimumPopulationDesc>კოლონისტები არ თევზაობენ, თუ თევზის პოპულაცია ამ ზღვარზეა. თევზაობის მოსავლიანობა უფრო დაბალია, თუ 300-ზე ნაკლები თევზია.</MinimumPopulationDesc>
+  <Uncommon>იშვიათი</Uncommon>
+  <ToggleFishAvoid>როდესაც გამორთულია, კოლონისტები თავიდან აიცილებენ ამ თევზის დაჭერას.</ToggleFishAvoid>
+  
+</LanguageData>

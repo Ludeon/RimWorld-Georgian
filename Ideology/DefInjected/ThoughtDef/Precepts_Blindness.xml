@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlindingCeremony_Know_Horrible.stages.0.description>ვიღაცას დავაბრმავეთ იდეოლიგიური რწმენის გამო! ეს არასწორია!</BlindingCeremony_Know_Horrible.stages.0.description>
+  <BlindingCeremony_Know_Horrible.stages.0.label>დაბრმავების ცერემონია</BlindingCeremony_Know_Horrible.stages.0.label>
+  <BlindingCeremony_Self_Elevated.stages.0.description>მართალ ცერემონიაზე დავბრმავდი. და ბოლოს, შემიძლია დავიწყო ნახვის სწავლა.</BlindingCeremony_Self_Elevated.stages.0.description>
+  <BlindingCeremony_Self_Elevated.stages.0.label>დაბრმავებული იყო</BlindingCeremony_Self_Elevated.stages.0.label>
+  <BlindingCeremony_Self_Respected.stages.0.description>მართალ ცერემონიაზე დავბრმავდი. და ბოლოს, შემიძლია დავიწყო ნახვის სწავლა.</BlindingCeremony_Self_Respected.stages.0.description>
+  <BlindingCeremony_Self_Respected.stages.0.label>დაბრმავებული იყო</BlindingCeremony_Self_Respected.stages.0.label>
+  <BlindingCeremony_Self_Sublime.stages.0.description>მართალ ცერემონიაზე დავბრმავდი. და ბოლოს, შემიძლია დავიწყო ნახვის სწავლა.</BlindingCeremony_Self_Sublime.stages.0.description>
+  <BlindingCeremony_Self_Sublime.stages.0.label>დაბრმავებული იყო</BlindingCeremony_Self_Sublime.stages.0.label>
+  <Blindness_ArtificialBlind.stages.0.description>ჩემი ხედვის დაბლოკვა ჩემს გონებას უფრო ახლო წვდომას აძლევს ნამდვილ რეალობასთან. ეს არ არის ისეთი კარგი, როგორც მუდმივი დაბრმავება, მაგრამ მისაღებია.</Blindness_ArtificialBlind.stages.0.description>
+  <Blindness_ArtificialBlind.stages.0.label>ხედვა დაბლოკილია</Blindness_ArtificialBlind.stages.0.label>
+  <Blindness_Elevated_Blind.stages.0.description>მე შემიძლია გამოვიკვლიო უფრო დიდი ცნობიერება ჩემი დანახვის უუნარობის გამო.</Blindness_Elevated_Blind.stages.0.description>
+  <Blindness_Elevated_Blind.stages.0.label>ბრმა</Blindness_Elevated_Blind.stages.0.label>
+  <Blindness_Elevated_Blind_Social.stages.0.label>ბრმა</Blindness_Elevated_Blind_Social.stages.0.label>
+  <Blindness_Elevated_HalfBlind.stages.0.description>სიბრმავეში განმანათლებლობისკენ მიმავალ გზაზე ვარ.</Blindness_Elevated_HalfBlind.stages.0.description>
+  <Blindness_Elevated_HalfBlind.stages.0.label>ნახევრად ბრმა</Blindness_Elevated_HalfBlind.stages.0.label>
+  <Blindness_Elevated_HalfBlind_Social.stages.0.label>ნახევრად ბრმა</Blindness_Elevated_HalfBlind_Social.stages.0.label>
+  <Blindness_Elevated_NonBlind.stages.0.description>მე მინდა ვიყო ბრმა, რათა უკეთ შევძლო ჭეშმარიტ რეალობასთან დაკავშირება. ან, სულ მცირე, თვალდახუჭული უნდა ვიყო.</Blindness_Elevated_NonBlind.stages.0.description>
+  <Blindness_Elevated_NonBlind.stages.0.label>არა ბრმა</Blindness_Elevated_NonBlind.stages.0.label>
+  <Blindness_Elevated_NonBlind_Social.stages.0.label>მხედველობა</Blindness_Elevated_NonBlind_Social.stages.0.label>
+  <Blindness_Respected_Blind.stages.0.description>ახლა, როცა მხედველობა გამქრალია, ნათლად ვხედავ.</Blindness_Respected_Blind.stages.0.description>
+  <Blindness_Respected_Blind.stages.0.label>ბრმა</Blindness_Respected_Blind.stages.0.label>
+  <Blindness_Respected_Blind_Social.stages.0.label>ბრმა</Blindness_Respected_Blind_Social.stages.0.label>
+  <Blindness_Respected_NonBlind_Social.stages.0.label>მხედველობა</Blindness_Respected_NonBlind_Social.stages.0.label>
+  <Blindness_Sublime_Blind.stages.0.description>მე თავისუფლად ვარ შევისწავლო ჩემი გონების სიღრმეები და ჭეშმარიტი რეალობა ისე, რომ ჩემი მხედველობა არ შემზღუდავს.</Blindness_Sublime_Blind.stages.0.description>
+  <Blindness_Sublime_Blind.stages.0.label>ბრმა</Blindness_Sublime_Blind.stages.0.label>
+  <Blindness_Sublime_Blind_Social.stages.0.label>ბრმა</Blindness_Sublime_Blind_Social.stages.0.label>
+  <Blindness_Sublime_HalfBlind.stages.0.description>მე ვარ ჭეშმარიტი განმანათლებლობის ზღვარზე სიბრმავე.</Blindness_Sublime_HalfBlind.stages.0.description>
+  <Blindness_Sublime_HalfBlind.stages.0.label>ნახევრად ბრმა</Blindness_Sublime_HalfBlind.stages.0.label>
+  <Blindness_Sublime_HalfBlind_Social.stages.0.label>ნახევრად ბრმა</Blindness_Sublime_HalfBlind_Social.stages.0.label>
+  <Blindness_Sublime_NonBlind.stages.0.description>ძალიან მინდა ბრმა ვიყო. მჭირდება ეს ფიზიკური ხედები გაქრეს, რათა შევეხო ნამდვილ რეალობას. მინიმუმ, თვალდახუჭული უნდა მეცვა.</Blindness_Sublime_NonBlind.stages.0.description>
+  <Blindness_Sublime_NonBlind.stages.0.label>არა ბრმა</Blindness_Sublime_NonBlind.stages.0.label>
+  <Blindness_Sublime_NonBlind_Social.stages.0.label>მხედველობა</Blindness_Sublime_NonBlind_Social.stages.0.label>
+</LanguageData>

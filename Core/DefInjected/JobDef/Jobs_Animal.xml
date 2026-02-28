@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ExitMapFlying.reportString>გარბის.</ExitMapFlying.reportString>
+  <LayEgg.reportString>კვერცხის დადება.</LayEgg.reportString>
+  <Maintain.reportString>TargetA-ს შენარჩუნება.</Maintain.reportString>
+  <Mate.reportString>შეჯვარება TargetA-სთან.</Mate.reportString>
+  <Nuzzle.reportString>დამთრგუნველი TargetA.</Nuzzle.reportString>
+  <PredatorHunt.reportString>ნადირობა TargetA.</PredatorHunt.reportString>
+</LanguageData>

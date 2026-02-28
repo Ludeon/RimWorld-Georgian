@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalAdult.label>ზრდასრული</AnimalAdult.label>
+  <AnimalBaby.label>ბავშვი</AnimalBaby.label>
+  <AnimalJuvenile.label>არასრულწლოვანი</AnimalJuvenile.label>
+  <EusocialInsectAdult.label>ზრდასრული</EusocialInsectAdult.label>
+  <EusocialInsectJuvenile.label>გაუაზრებელი</EusocialInsectJuvenile.label>
+  <EusocialInsectLarva.label>ლარვა</EusocialInsectLarva.label>
+  <HumanlikeAdult.label>ზრდასრული</HumanlikeAdult.label>
+  <HumanlikeBaby.label>ბავშვი</HumanlikeBaby.label>
+  <HumanlikeChild.label>ბავშვი</HumanlikeChild.label>
+  <HumanlikeTeenager.label>მოზარდი</HumanlikeTeenager.label>
+  <MechanoidFullyFormed.label>სრულად ჩამოყალიბებული</MechanoidFullyFormed.label>
+</LanguageData>

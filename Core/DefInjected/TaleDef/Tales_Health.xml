@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Downed.label>ჩამოგდებული</Downed.label>
+  <Exhausted.label>დაქანცული</Exhausted.label>
+  <GaveBirth.label>გააჩინა</GaveBirth.label>
+  <HeatstrokeRevealed.label>გამოვლინდა სითბური დარტყმა</HeatstrokeRevealed.label>
+  <HypothermiaRevealed.label>გამოვლინდა ჰიპოთერმია</HypothermiaRevealed.label>
+  <IllnessRevealed.label>გამოვლინდა ავადმყოფობა</IllnessRevealed.label>
+  <KilledCapacity.label>მოკლეს</KilledCapacity.label>
+  <KilledLongRange.label>მოკლულია მანძილზე</KilledLongRange.label>
+  <KilledMajorThreat.label>მოკლა მთავარი საფრთხე</KilledMajorThreat.label>
+  <KilledMelee.label>მოკლეს მელეში</KilledMelee.label>
+  <KilledMortar.label>მოკლეს ნაღმტყორცნებით</KilledMortar.label>
+  <ToxicityRevealed.label>გამოვლინდა ტოქსიკურობა</ToxicityRevealed.label>
+  <Wounded.label>დაჭრილი</Wounded.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttendedParty.label>დაესწრო წვეულებას</AttendedParty.label>
+  <BuiltSnowman.label>ააშენა თოვლის კაცი</BuiltSnowman.label>
+  <BuriedCorpse.label>დაკრძალული გვამი</BuriedCorpse.label>
+  <CompletedLongConstructionProject.label>დასრულებული ხანგრძლივი სამშენებლო პროექტი</CompletedLongConstructionProject.label>
+  <CompletedLongCraftingProject.label>დასრულებული ხანგრძლივი ხელოსნობის პროექტი</CompletedLongCraftingProject.label>
+  <EnteredCryptosleep.label>შევიდა კრიპტოძილში</EnteredCryptosleep.label>
+  <GainedMasterSkillWithoutPassion.label>მოიპოვა სამაგისტრო უნარი</GainedMasterSkillWithoutPassion.label>
+  <GainedMasterSkillWithPassion.label>ოსტატობის უნარი ვნებით მოიპოვა</GainedMasterSkillWithPassion.label>
+  <IncreasedMenagerie.label>გაიზარდა მენეჯერი</IncreasedMenagerie.label>
+  <Meditated.label>მედიტირებდა</Meditated.label>
+  <MinedValuable.label>დანაღმული ღირებული</MinedValuable.label>
+  <PlayedGame.label>ითამაშა თამაში</PlayedGame.label>
+  <Prayed.label>ილოცა</Prayed.label>
+  <PutIntoCryptosleep.label>ჩასვეს კრიპტოძილში</PutIntoCryptosleep.label>
+  <Stripped.label>გაშიშვლებული</Stripped.label>
+  <VisitedGrave.label>საფლავი მოინახულა</VisitedGrave.label>
+</LanguageData>

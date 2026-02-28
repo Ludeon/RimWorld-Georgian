@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AwokenCorpse.description>ამ გვამის შიგნით ენერგეტიკული შენობა იფეთქებს. ადგა და უტევს მზარდი ძალით და სისწრაფით. ის არ გაჩერდება, სანამ მსხვერპლს არ მიაღწევს.</AwokenCorpse.description>
+  <AwokenCorpse.label>გაღვიძებული არაბუნებრივი გვამი</AwokenCorpse.label>
+  <Ghoul.description>This person has been implanted with an archotech shard, twisting them into a jittering murder machine. Its body is an amalgam of flesh and metal, while its mind cycles between half-conscious stupor and murderous intent.\n\nThey cannot work; they only fight. Ghouls must eat raw meat. If they go hungry, they can turn hostile.\n\nMany find ghouls' constant twitching to be disturbing, even when they aren't killing someone.</Ghoul.description>
+  <Ghoul.label>ღელვა</Ghoul.label>
+  <GhoulFrenzy.description>ამ არსების სისხლი გაჯერებულია სტრესის ჰორმონებითა და თხევადი ენერგიით, რაც საშუალებას აძლევს მას გადაადგილდეს და შეუტიოს წარმოუდგენელი სიჩქარით მოკლე დროში.</GhoulFrenzy.description>
+  <GhoulFrenzy.label>ღრიალი freny</GhoulFrenzy.label>
+  <MeatHunger.description>ამ არსებას სასტიკად შია უმი ხორცი. ის შეიძლება გახდეს მტრული, თუ ძალიან მოშივდება.</MeatHunger.description>
+  <MeatHunger.label>ხორცის შიმშილი</MeatHunger.label>
+  <MeatHunger.stages.1.label>საწყისი</MeatHunger.stages.1.label>
+  <MeatHunger.stages.2.label>ზომიერი</MeatHunger.stages.2.label>
+  <MeatHunger.stages.3.label>უკიდურესი</MeatHunger.stages.3.label>
+  <RapidRegeneration.description>ამ არსებამ წარმოუდგენელი რაოდენობის სამკურნალო ენერგია შეინახა. მიუხედავად იმისა, რომ შეუზღუდავი არ არის, ის სწრაფად აღდგება, სანამ მისი ენერგია არ ამოიწურება.</RapidRegeneration.description>
+  <RapidRegeneration.label>სწრაფი რეგენერაცია</RapidRegeneration.label>
+  <ResurrectionComa.description>სასიკვდილო მტვრისა და მოწინავე ბიოქიმიური ნივთიერებების ნაზავი ამ არსების ვენებში გადის.</ResurrectionComa.description>
+  <ResurrectionComa.label>აღდგომის კომა</ResurrectionComa.label>
+  <Rising.description>იდუმალი არქოტექნოლოგიური გავლენები აცოცხლებს ამ არსების გვამს.</Rising.description>
+  <Rising.label>იზრდება</Rising.label>
+  <Shambler.description>ეს მკვდარი არსება ხელახლა გააცოცხლეს კორუმპირებული არქიტების მიერ. შამბლერები ნელი და უგონოები არიან და დაუნდობლად თავს დაესხმებიან. რამდენიმე დღის შემდეგ ფეხზე დგომის შემდეგ, შამბლერები იღუპებიან მეტაბოლური დაღლილობისგან. დატყვევებული შამბლერები ვერ მოძრაობენ და, შესაბამისად, არ იწურება.</Shambler.description>
+  <Shambler.label>შამბლერი</Shambler.label>
+  <ShamblerCorpse.description>ეს არსება ადრე ხელახლა ანიმაციური იყო კორუმპირებული არქიტების მიერ.</ShamblerCorpse.description>
+  <ShamblerCorpse.label>დამლაგებელი გვამი</ShamblerCorpse.label>
+</LanguageData>

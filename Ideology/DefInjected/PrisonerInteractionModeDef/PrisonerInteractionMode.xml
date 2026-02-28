@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Convert.description>მცველები შეეცდებიან პატიმარი გადაიყვანონ თავიანთ იდეოლიგიაზე.</Convert.description>
+  <Convert.label>გარდაქმნის</Convert.label>
+  <Enslave.description>მცველები დაემუქრებიან პატიმარს ნების შემცირებით. მას შემდეგ, რაც მათ აღარ ექნებათ ნება, მცველი მათ დაიმონებს.</Enslave.description>
+  <Enslave.label>დამონება</Enslave.label>
+  <ReduceWill.description>მცველები დაემუქრებიან პატიმარს ნების შემცირებით, მაგრამ არ დამონებენ.</ReduceWill.description>
+  <ReduceWill.label>მხოლოდ ნების შემცირება</ReduceWill.label>
+</LanguageData>

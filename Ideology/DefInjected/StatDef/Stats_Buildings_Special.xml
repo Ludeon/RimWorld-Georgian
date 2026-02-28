@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiosculpterPodSpeedFactor.description>ბიოსკულპტერის პოდის სიჩქარის მულტიპლიკატორი. ამაზე გავლენას ახდენს ოთახის სისუფთავე - უფრო სუფთა ოთახი გამოიწვევს ბიოსკულპტურის უფრო სწრაფ ციკლს.</BiosculpterPodSpeedFactor.description>
+  <BiosculpterPodSpeedFactor.label>biosculpter pod სიჩქარის ფაქტორი</BiosculpterPodSpeedFactor.label>
+  <BiosculpterPodSpeedFactor.parts.0.customLabel>ოთახის სისუფთავე</BiosculpterPodSpeedFactor.parts.0.customLabel>
+</LanguageData>

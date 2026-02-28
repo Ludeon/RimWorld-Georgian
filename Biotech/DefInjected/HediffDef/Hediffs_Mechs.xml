@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SelfShutdown.description>ამ მექანიზმს არ აქვს საკმარისი ენერგია აქტიური დარჩენისთვის. ის მიძინებული იყო, რომ დატენოს თავი. თვითდატენვა ბევრად უფრო ნელია, ვიდრე დამტენი სადგურზე.</SelfShutdown.description>
+  <SelfShutdown.label>მიძინებული თვითდამუხტვა</SelfShutdown.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Bullet_DoomsdayRocket.label>განკითხვის დღის რაკეტა</Bullet_DoomsdayRocket.label>
+  <Bullet_Rocket.label>რაკეტა</Bullet_Rocket.label>
+  <Gun_DoomsdayRocket.description>ერთჯერადი სარაკეტო გამშვები, რომელიც მასიურ ფეთქებად ჭურვს ისვრის. კარგია დაუცველი სამიზნეების დიდი ჯგუფების წინააღმდეგ. იწვევს ხანძარს.\n\nმოუხერხებლობის, ერთჯერადობისა და მაღალი რისკის გამო ეს იარაღი მხოლოდ უკიდურეს სიტუაციებში ღირს გამოყენება.</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.label>განკითხვის დღის სარაკეტო გამშვები</Gun_DoomsdayRocket.label>
+  <Gun_TripleRocket.description>ერთჯერადი სარაკეტო გამშვები, რომელიც სამ მსხვილფრთიან ფეთქებად რაკეტას ისვრის. კარგია გამძლე სამიზნეების მცირე ჯგუფების წინააღმდეგ.\n\nმოუხერხებლობის, ერთჯერადობისა და მაღალი რისკის გამო ამ იარაღის გამოყენება სიფრთხილეს მოითხოვს.</Gun_TripleRocket.description>
+  <Gun_TripleRocket.label>სამმაგი სარაკეტო გამშვები</Gun_TripleRocket.label>
+</LanguageData>

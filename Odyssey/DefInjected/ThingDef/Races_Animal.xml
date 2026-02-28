@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Alligator.description>დიდი ნახევრად წყლის ქვეწარმავალი ძლიერი ნაკბენით. ალიგატორები ნელია ხმელეთზე, მაგრამ სასიკვდილოა წყალში.</Alligator.description>
+  <Alligator.label>ალიგატორი</Alligator.label>
+  <AlphaThrumbo.description>A gigantic, graceful creature of unknown origin. Alpha thrumbos are even rarer and more dangerous than the typical thrumbo. Their hide is nearly impossible to pierce and their razor-sharp horn is worth more than its weight in gold.\n\nAlpha thrumbos are some of the longest-lived moving creatures in the known universe. Some tribes believe they remember and psychically pass on everything they ever experience to their young, so each one has a memory going back thousands of years.</AlphaThrumbo.description>
+  <AlphaThrumbo.label>ალფა თრომბო</AlphaThrumbo.label>
+  <Armadillo.description>პატარა ძუძუმწოვარი ტყავისებრი ჯავშნით მთელ სხეულზე. ეს გასაოცრად სწრაფია ასეთი დაბურული ფეხების მქონე არსებისთვის.</Armadillo.description>
+  <Armadillo.label>არმადილო</Armadillo.label>
+  <Badger.description>ყოვლისმომცველი ძუძუმწოვარი. მაჩვი საოცრად მკაცრია მათი ზომით.</Badger.description>
+  <Badger.label>მაჩვი</Badger.label>
+  <BogHound.description>მოშინაურებული ძაღლების შთამომავლები, ეს ძაღლები მიჩვეულები არიან ადამიანთა საზოგადოებასთან. ისინი გამოცდილი მწმენდელები არიან, რომლებსაც შეუძლიათ გადარჩენა უკიდურესად ტოქსიკურ გარემოში. ჭაობის ძაღლების მოთვინიერება უფრო რთულია, ვიდრე მათი შინაური ბიძაშვილები და ბევრად უფრო საშიში.</BogHound.description>
+  <BogHound.label>ჭაობის ძაღლი</BogHound.label>
+  <Bullfrog.description>დიდი ბაყაყი, რომელიც ცნობილია თავისი ხმამაღალი ყიყინით. ხარის ფეხები ზოგიერთ პლანეტაზე დელიკატესია.</Bullfrog.description>
+  <Bullfrog.label>ხარის ბაყაყი</Bullfrog.label>
+  <Cat_Scimitar.description>ბიოინჟინერიით შემუშავებული მტაცებელი, რომელიც მის დიდი ხნის გადაშენებულ სახელს წააგავს. თავდაპირველად გამოყვანილი ყინულის სამყაროში სანადირო ნაკრძალების დასასახლებლად, ეს ცხოველები ახლა ჩვეულებრივი შინაური ცხოველები არიან ბრჭყვიალა სამყაროს სოციალისტებს შორის. მათი სისასტიკე არ უნდა შეფასდეს.</Cat_Scimitar.description>
+  <Cat_Scimitar.label>scimitar კატა</Cat_Scimitar.label>
+  <ColossusToad.description>მასიური ბაყაყი, რომელიც შექმნილია სამრეწველო მეურნეობებისთვის. მიუხედავად იმისა, რომ საკვები უსაფრთხოა, მისი სქელი კანი გამოყოფს უსიამოვნო ლორწოს.</ColossusToad.description>
+  <ColossusToad.label>კოლოსის გომბეშო</ColossusToad.label>
+  <Gorilla.description>მასიური და ინტელექტუალური მაიმუნი. მიუხედავად იმისა, რომ ზოგადად მშვიდობიანები არიან, გორილები გაბრაზებულები არიან საშინლად.</Gorilla.description>
+  <Gorilla.label>გორილა</Gorilla.label>
+  <Hippo.description>უზარმაზარი ნახევრად წყლის ძუძუმწოვარი ცხოველი მოკლე სქელი ფეხებით. მიუხედავად იმისა, რომ ის ბალახისმჭამელია, პროვოცირების შემთხვევაში მას შეუძლია დამანგრეველი ძალით შეტევა. მის ძლიერ ყბას შეუძლია ძვლისა და ჯავშნის დამსხვრევა.</Hippo.description>
+  <Hippo.label>ჰიპო</Hippo.label>
+  <LavaSnail.description>დიდი ნელი მოლუსკი. ვულკანური პლანეტა ნუჩადუსიდან წარმოშობილი ლავის ლოკოკინები გამოყვანილი იქნა როგორც ფერმის ცხოველები. მათი კანი გამოყოფს სქელ ლორწოს, რომელიც იცავს მათ ექსტრემალური ტემპერატურისგან.</LavaSnail.description>
+  <LavaSnail.label>ლავის ლოკოკინა</LavaSnail.label>
+  <Mastodon.description>მასიური სპილოს მსგავსი ძუძუმწოვარი. მიუხედავად იმისა, რომ მასტოდონი მცირე ხნით გადაშენდა, ახლა უამრავ სამყაროში ტრიალებს მწარე სიცივის მიმართ მისი გამძლეობის გამო. მისი სქელი კანი ქმნის შესანიშნავ ტანსაცმელს ცივ ამინდში. თუმცა, ცხოველზე ნადირობა სახიფათო წინადადებაა გამოცდილი მონადირეებისთვისაც კი.</Mastodon.description>
+  <Mastodon.label>მასტოდონი</Mastodon.label>
+  <Megavole.description>მასიური მღრღნელი, გამოყვანილი მისი ზომისა და სიძლიერის გამო. ის თითქმის მთლიანად ბრმაა, მაგრამ შეიძლება იყოს საოცრად აგრესიული, როცა კუთხეშია მოქცეული. ზოგიერთ დაბალტექნოლოგიურ სამყაროში ეს არსებები გაწვრთნილი არიან ძვირფასი მინერალების საძიებლად.</Megavole.description>
+  <Megavole.label>მეგავოლი</Megavole.label>
+  <Mink.description>პატარა ნახევრად წყლის ძუძუმწოვარი. მისი ბეწვის მაღალმა ღირებულებამ განაპირობა ის, რომ წაულასი მრავალ პლანეტაზე იყო მოშენებული.</Mink.description>
+  <Mink.label>წაულასი</Mink.label>
+  <MonitorLizard.description>დიდი შხამიანი ხვლიკი. ისინი გამოყოფენ ტოქსინებს ქვედა ყბის შხამიანი ჯირკვლებიდან, რათა გაანეიტრალონ მტაცებელი.</MonitorLizard.description>
+  <MonitorLizard.label>მონიტორის ხვლიკი</MonitorLizard.label>
+  <Moose.description>ირმის ოჯახის ერთ-ერთი ყველაზე დიდი წარმომადგენელი, ადაპტირებული უკიდურესად ცივ კლიმატთან. მისი გრძელი ფეხები საშუალებას აძლევს მას ადვილად იმოგზაუროს ღრმა თოვლში.</Moose.description>
+  <Moose.label>ლოსი</Moose.label>
+  <Muskox.description>ჩლიქიანი ძუძუმწოვარი, რომელიც გვხვდება ცივ კლიმატში. მუსკოქსის მატყლი ცნობილია, რომ ნაკაწრია, მაგრამ კარგ დაცვას იძლევა სიცივისგან.</Muskox.description>
+  <Muskox.label>მუსკოქსი</Muskox.label>
+  <Panda.description>ნელი ხემჭამელი ბალახისმჭამელი. ბევრი პანდა აღფრთოვანებულია მათი მოუხერხებელი მომხიბვლელობით, რაც მათ ჩვეულებრივ შინაურ ცხოველებად აქცევს ქალაქურ სამყაროში. რგოლზე პანდა იშვიათად ჩანს ტყვეობის გარეთ.</Panda.description>
+  <Panda.label>პანდა</Panda.label>
+  <Porcupine.description>დიდი მღრღნელი. ნელი მოძრაობისას მას აქვს ბასრი ბუჩქების მოსასხამი, რომელიც იცავს მას მტაცებლებისგან.</Porcupine.description>
+  <Porcupine.label>გოგრა</Porcupine.label>
+  <PrairieDog.description>მღრღნელი მოკლე კუდით და ბასრი კლანჭებით, რომელიც გამოიყენება თხრიან. ისინი სოციალური ცხოველები არიან, ხშირად ცხოვრობენ დიდ კოლონიებში.</PrairieDog.description>
+  <PrairieDog.label>პრერიის ძაღლი</PrairieDog.label>
+  <Tiger.description>მარტოხელა და საშიში მტაცებელი მტაცებელი. ვეფხვები სწრაფად ამუშავებენ მსხვერპლს, ფარული და ბრტყელი კლანჭების ნაზავის გამოყენებით.</Tiger.description>
+  <Tiger.label>ვეფხვი</Tiger.label>
+  <Wolf_Great.description>გენეტიკურად შემუშავებული ძაღლი, რომელიც შექმნილია დიდი ხნის გადაშენებულ საშინელ მგლებზე. ეს საშინელი მტაცებლები შექმნეს როგორც შინაური ცხოველები ბრჭყვიალა სამყაროს ელიტისთვის. ველური მგლები ახლა ბევრ პლანეტას ასახლებენ, მათი მიდრეკილების გამო, რომ თავი დააღწიონ პატიმრობას.</Wolf_Great.description>
+  <Wolf_Great.label>დიდი მგელი</Wolf_Great.label>
+  <Wolverine.description>პატარა, მაგრამ სასტიკი მტაცებელი. ვოლვერინები მარტოხელა ცხოველები არიან, რომლებსაც ურჩევნიათ ლეშის ჭამა, მაგრამ საჭიროების შემთხვევაში შეუძლიათ მათზე დიდი ზომის ცხოველების მოკვლა.</Wolverine.description>
+  <Wolverine.label>ვოლვერინი</Wolverine.label>
+</LanguageData>

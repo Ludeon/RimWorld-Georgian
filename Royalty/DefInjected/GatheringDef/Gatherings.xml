@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Concert.label>კონცერტი</Concert.label>
+  <Concert.letterText>{ORGANIZER_labelShort} მართავს კონცერტს! ყველა, ვინც მიდის, მიიღებს დასვენებას და სოციალურ ენერგიას და გრძელვადიან პოზიტიურ განწყობას, როგორც სოციალური კონტაქტიდან, ასევე თავად მუსიკიდან.</Concert.letterText>
+</LanguageData>

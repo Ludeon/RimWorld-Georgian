@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActivitySuppression.gerund>ჩახშობა</ActivitySuppression.gerund>
+  <ActivitySuppression.label>სუბიექტის აქტივობის ჩახშობა</ActivitySuppression.label>
+  <ActivitySuppression.verb>ჩაახშო</ActivitySuppression.verb>
+  <DoBillsBioferriteShaper.gerund>მუშაობს</DoBillsBioferriteShaper.gerund>
+  <DoBillsBioferriteShaper.label>ნივთების დამზადება ბიოფერიტის შემქმნელზე</DoBillsBioferriteShaper.label>
+  <DoBillsBioferriteShaper.verb>მუშაობა</DoBillsBioferriteShaper.verb>
+  <DoBillsSerumCentrifuge.gerund>მუშაობს</DoBillsSerumCentrifuge.gerund>
+  <DoBillsSerumCentrifuge.label>ნივთების გაკეთება შრატის ლაბორატორიაში</DoBillsSerumCentrifuge.label>
+  <DoBillsSerumCentrifuge.verb>მუშაობა</DoBillsSerumCentrifuge.verb>
+  <DoctorTendToEntities.gerund>თენდება</DoctorTendToEntities.gerund>
+  <DoctorTendToEntities.label>მიდრეკილება სუბიექტებისკენ</DoctorTendToEntities.label>
+  <DoctorTendToEntities.verb>მიდრეკილება</DoctorTendToEntities.verb>
+  <ExecuteEntity.gerund>აღსრულება</ExecuteEntity.gerund>
+  <ExecuteEntity.label>აღმასრულებელი პირები</ExecuteEntity.label>
+  <ExecuteEntity.verb>შეასრულოს</ExecuteEntity.verb>
+  <ExtractBioferrite.gerund>მოპოვება</ExtractBioferrite.gerund>
+  <ExtractBioferrite.label>ამოიღეთ ბიოფერიტი ერთეულებიდან</ExtractBioferrite.label>
+  <ExtractBioferrite.verb>ამონაწერი</ExtractBioferrite.verb>
+  <InterrogatePrisoner.gerund>დაკითხვისას</InterrogatePrisoner.gerund>
+  <InterrogatePrisoner.label>ვინაობის დაკითხვა</InterrogatePrisoner.label>
+  <InterrogatePrisoner.verb>დაკითხვა</InterrogatePrisoner.verb>
+  <ReleaseEntity.gerund>გათავისუფლება</ReleaseEntity.gerund>
+  <ReleaseEntity.label>გათავისუფლების პირები</ReleaseEntity.label>
+  <ReleaseEntity.verb>გათავისუფლება</ReleaseEntity.verb>
+  <StudyInteract.gerund>სწავლობს</StudyInteract.gerund>
+  <StudyInteract.label>სწავლა</StudyInteract.label>
+  <StudyInteract.verb>სწავლა</StudyInteract.verb>
+  <TakeBioferriteOutOfHarvester.gerund>ბიოფერიტის მიღება</TakeBioferriteOutOfHarvester.gerund>
+  <TakeBioferriteOutOfHarvester.label>ამოიღეთ ბიოფერიტი ბიოფერიტის კომბაიტიდან</TakeBioferriteOutOfHarvester.label>
+  <TakeBioferriteOutOfHarvester.verb>მიიღეთ ბიოფერიტი</TakeBioferriteOutOfHarvester.verb>
+  <TakeEntityToHoldingPlatform.gerund>დაჭერა</TakeEntityToHoldingPlatform.gerund>
+  <TakeEntityToHoldingPlatform.label>დაჭერის ერთეული</TakeEntityToHoldingPlatform.label>
+  <TakeEntityToHoldingPlatform.verb>ხელში ჩაგდება</TakeEntityToHoldingPlatform.verb>
+  <TransferEntity.gerund>გადაცემა</TransferEntity.gerund>
+  <TransferEntity.label>გადაცემის პირები</TransferEntity.label>
+  <TransferEntity.verb>გადაცემა</TransferEntity.verb>
+</LanguageData>

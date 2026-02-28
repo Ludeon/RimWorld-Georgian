@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <AlertMechLacksOverseer>უკონტროლო მეხს</AlertMechLacksOverseer>
+  <AlertMechLacksOverseerDesc>ერთი ან მეტი თქვენი მექანოიდი არ არის კონტროლირებადი. შეაერთეთ თქვენი მექანოიდები მექანიტორთან, რომელსაც აქვს საკმარისი გამტარუნარიანობა, რომ მართოთ ისინი.\n\nთუ უკონტროლოდ დატოვებთ ერთ დღეზე მეტხანს, მექანოიდი შეიძლება გაფუჭდეს. როდესაც ეს მოხდება, ისინი შეუერთდებიან {0}-ს და მტრულად განწყობილნი იქნებიან თქვენ მიმართ. თუ ერთი მექანოიდი ველურდება, ის სხვა მახლობლად მდებარე მექანოიდებს თან წაიყვანს.\n\nველური მექანოიდები ვერ აღდგება გესტატორის დროს, როცა მოკვდება.</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerUncontrolled>შემდეგი მექანოიდები უკონტროლოა</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerMayGoFeral>შემდეგი მექანოიდები უკონტროლოა და ნებისმიერ მომენტში შეიძლება გავრცელდეს</AlertMechLacksOverseerMayGoFeral>
+
+  <AlertWarqueenHasLowResources>{0} რესურსები დაბალია</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResourcesDesc>ერთი ან მეტი {0} რესურსი დაბალია. ისინი ვერ შეძლებენ მეხსიერების წარმოებას ბრძანებით, თუ რესურსები ამოიწურება.</AlertWarqueenHasLowResourcesDesc>
+
+  <AlertLowDeathrestPawn>{PAWN} საჭიროებს სიკვდილს</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawns>{NUMCULPRITS} კოლონისტებს სიკვდილი სჭირდებათ</AlertLowDeathrestPawns>
+  <AlertLowDeathrestDesc>კოლონისტს დიდი ხანია არ მიუღია სიკვდილი. თუ ისინი ძალიან დიდხანს გადიან სიკვდილის დასვენების გარეშე, ისინი განიცდიან სიკვდილის დაღლილობას.\n\nსასიკვდილო დასვენებისთვის აირჩიეთ კოლონისტი, შემდეგ დააწკაპუნეთ მარჯვენა ღილაკით მათ დანიშნულ საწოლზე ან სასიკვდილო კალთაზე.\n\nამ ადამიანებს სჭირდებათ სიკვდილის დასვენება:\n{CULPRITS}</AlertLowDeathrestDesc>
+
+  <AlertLowHemogen>დაბალი ჰემოგენი</AlertLowHemogen>
+  <AlertLowHemogenDesc>კოლონისტს აქვს დაბალი ჰემოგენი. ნულოვანი ჰემოგენის შემთხვევაში, მათ განუვითარდებათ ჰემოგენის მტკივნეული ლტოლვა.\n\nშეაჭამეთ მათ ჰემოგენის პაკეტებით ამის თავიდან ასაცილებლად. თქვენ შეგიძლიათ მიიღოთ ჰემოგენის პაკეტები "ჰემოგენის ექსტრაქტის პაკეტის" სამედიცინო ოპერაციის გამოყენებით არაჰემოგენურ ადამიანზე.\n\nშემდეგ კოლონისტებს აქვთ დაბალი ჰემოგენი</AlertLowHemogenDesc>
+
+  <AlertRechargerFull>დამტენი სავსეა</AlertRechargerFull>
+  <AlertRechargerFullDesc>ზოგიერთი მექანიკური დამტენი(ები) ინახავს ტოქსიკურ ნარჩენების მაქსიმალურ რაოდენობას. მექანიკოსები ვერ გამოიყენებენ ამ დამტენებს, სანამ ტოქსიკური ნარჩენების შეფუთვა არ გაიყვანება.\n\nაირჩიეთ კოლონისტი და დააწკაპუნეთ მარჯვენა ღილაკით დამტენზე მის განტვირთვისთვის.</AlertRechargerFullDesc>
+
+  <AlertNeedMechChargers>საჭიროა მექანიკური დამტენები</AlertNeedMechChargers>
+  <AlertNeedMechChargersDesc>თქვენ არ გაქვთ დამტენები ყველა თქვენი მექანოიდისთვის. თუ მექანიკა ამოიწურება ენერგია, ის ჩავარდება უმოქმედო თვითდამუხტვის მდგომარეობაში და დაიტენება ძალიან ნელა.\n\nშექმენით მეტი შემდეგი დამტენები:\n{0}\n\nშენიშვნა: მხოლოდ მსუბუქ მექანოიდებს შეუძლიათ გამოიყენონ ჩვეულებრივი მექანიკური დამტენები. საშუალო ან მძიმე მექანოიდები საჭიროებენ დიდ მექანიკურ დამტენებს.</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargerBasicMechtech>შეისწავლეთ ძირითადი ტექნიკა ან უფრო მაღალი დამტენების შესაქმნელად.</AlertNeedMechChargerBasicMechtech>
+
+  <AlertReimplantationAvailable>შესაძლებელია რეიმპლანტაცია</AlertReimplantationAvailable>
+  <AlertReimplantationAvailableDesc>{0_nameDef} ელოდება {0_possessive} ქსენოგერმის ხელახლა ჩანერგვას თქვენს ერთ-ერთ კოლონისტში.</AlertReimplantationAvailableDesc>
+
+  <AlertLowBabyFood>დაბალი ბავშვის საკვები</AlertLowBabyFood>
+  <AlertLowBabyFoodDesc>სახიფათოდ დაბალია ბავშვის საკვები.\n\n ჩვილებს ესაჭიროებათ საკვები: {0}\n დღის ღირებულების ბავშვთა საკვები შესანახად: {1}\n\nიყიდეთ, იპოვნეთ ან გააკეთეთ ბავშვის საკვები საკვები. ეს მოიცავს {2}.</AlertLowBabyFoodDesc>
+  <AlertNoBabyFeeder>ბავშვის კვება არ არის</AlertNoBabyFeeder>
+  <AlertNoBabyFeederDesc>არცერთი {FACTION_pawnsPlural} არ არის დანიშნული ამ ჩვილების შესანახად, ან ისინი ყველა ჩამოაგდეს.\n\nდაანიშნეთ თქვენი {FACTION_pawnsPlural}-დან ერთ-ერთი ბავშვის მოვლისთვის ან მიანიჭეთ ლაქტაციის {FACTION_pawnSingular} ამ ჩვილების შესანახი გადაუდებელი პრიორიტეტით ჩვილების კვების ჩანართში და დარწმუნდით, რომ მინიმუმ ერთი მათგანი არ ჩამოიშლება.</AlertNoBabyFeederDesc>
+  <AlertAbandonedBaby>მიტოვებული ბავშვი</AlertAbandonedBaby>
+  <AlertAbandonedBabyDesc>მახლობლად მიტოვებული ჩვილები არიან ახლომდებარე მომვლელები.  თუ არ იშვილებთ ბავშვებს, ისინი ალბათ შიმშილით მოკვდებიან.\n\nბავშვის გასაშვილებლად აირჩიეთ ის და შემდეგ აირჩიეთ „{0}“.</AlertAbandonedBabyDesc>
+
+  <AlertNoBabyFoodCaravan>არ არის ბავშვის საკვები ქარავანში</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravanDesc>ამ ქარავანში მყოფ ჩვილებს არ აქვთ ბავშვის საკვები და არც {FACTION_pawnsPlural} ძუძუთი კვებაა მათთვის დაყენებული.</AlertNoBabyFoodCaravanDesc>
+
+  <AlertToxicBuildup>ტოქსიკური დაგროვება</AlertToxicBuildup>
+  <AlertToxicBuildupDesc>ამ კოლონისტებს აქვთ სერიოზული ტოქსიკური დაგროვება:\n\n{0}\n\nმოაშორეთ ისინი ტოქსიკურ წყაროებს.\n\nტოქსიკური დაგროვება შეიძლება გამოწვეული იყოს მრავალი რამით, მათ შორის ტოქსიკური გამონადენით, ტოქსიური აირით და დაბინძურებული რელიეფით.</AlertToxicBuildupDesc>
+
+  <AlertNeedBabyCribs>საჭიროა ბავშვის საწოლები</AlertNeedBabyCribs>
+  <AlertNeedBabyCribsDesc>თქვენ უფრო მეტი ბავშვი გყავთ, ვიდრე საწოლები.\n\nგააკეთეთ მეტი საწოლები ან, თუ რესურსი არ გაქვთ, მოათავსეთ ბავშვის დასაძინებელი ადგილი უფასოდ.</AlertNeedBabyCribsDesc>
+  <AlertNeedSlaveCribs>საჭიროა მონების საწოლები</AlertNeedSlaveCribs>
+  <AlertNeedSlaveCribsDesc>თქვენ გყავთ უფრო მეტი მონის ჩვილი, ვიდრე მონების გამოყენებისათვის მონიშნული საწოლები.\n\nან გააკეთეთ მეტი ლოგინი, ან შეცვალეთ კოლონისტური ლოგინი მონის ლოგინად.\n\nთუ რესურსი არ გაქვთ, ბავშვის საძილე ადგილები უფასოა და შეიძლება მყისიერად განთავსდეს.</AlertNeedSlaveCribsDesc>
+
+  <AlertPollutedTerrain>დაბინძურებული რელიეფი</AlertPollutedTerrain>
+  <AlertPollutedTerrainDesc>ადამიანი ან ცხოველი განიცდის ტოქსიკურ დაგროვებას და იმყოფება დაბინძურებულ რელიეფზე. ნებისმიერ დროს, როცა ვინმე დაბინძურებულ რელიეფზე იმყოფება, მისი ტოქსიკური დაგროვება დროთა განმავლობაში გაიზრდება, სანამ არ მოკვდება.\n\nეს ადამიანები ან ცხოველები დაზარალდებიან:\n\n{0}\n\nმოაშორეთ ადამიანები დაბინძურებულ რელიეფს, ან იპოვნეთ საშუალება, დაიცვათ ისინი მისი ზემოქმედებისგან. ზოგიერთმა ტანსაცმელმა, იმპლანტმა და გენის მოდიფიკაციამ შეიძლება დაიცვას ტოქსიკური დაგროვება. დაბინძურებული რელიეფის დაფარვა შეუძლებელია იატაკის გამოყენებით, მაგრამ მისი გაწმენდა შესაძლებელია ხელით და სხვა მეთოდებით.</AlertPollutedTerrainDesc>
+
+  <AlertMechMissingBodyPart>მექანიკური ნაწილი აკლია</AlertMechMissingBodyPart>
+  <AlertMechsMissingBodyPart>მექანოიდებს აკლია ნაწილები</AlertMechsMissingBodyPart>
+  <AlertMechMissingBodyPartDesc>თქვენს ერთ ან მეტ მექანოიდს სხეულის ნაწილი აკლია. მექანიტორს შეუძლია დაკარგული ნაწილების შეკეთება.\n\nსხეულის დაკარგული ნაწილების მქონე მექანოიდები არის</AlertMechMissingBodyPartDesc>
+
+  <AlertMechNeedsRepair>საჭიროა მექანიკური შეკეთება</AlertMechNeedsRepair>
+  <AlertMechNeedsRepairDescPrefix>ეს მექანოიდები დაზიანებულია და საჭიროებს შეკეთებას</AlertMechNeedsRepairDescPrefix>
+  <AlertMechNeedsRepairDesc>შეუკვეთეთ მექანიტორს მათი შეკეთება, ან აირჩიეთ მექანიზმი და ჩართეთ ავტომატური შეკეთება. მექანოიდის შეკეთება ენერგიას მოითხოვს. თუ მექანოიდის ენერგია იმდენად დაბალია, რომ ვერ მოძრაობს, ვიღაცამ უნდა გადაიტანოს იგი დამტენთან.</AlertMechNeedsRepairDesc>
+  
+  <AlertToxifierGeneratorStopped>{0} შეჩერდა</AlertToxifierGeneratorStopped>
+  <AlertToxifierGeneratorStoppedDesc>თქვენი {0} არ აწარმოებს ენერგიას, რადგან არ აქვს ახლომდებარე ნაყოფიერი რელიეფი გადასაქცევად.\n\nგაწმინდეთ დაბინძურებული რელიეფი დაბინძურების ტუმბოებით ან დაბინძურების მოცილების ზონის მინიჭებით.</AlertToxifierGeneratorStoppedDesc>
+
+  <AlertPsychicBondedPawnsSeparated>ფსიქიკური კავშირის მანძილი</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparatedDesc>ზოგიერთი ფსიქიკური კავშირის მქონე კოლონისტი განცალკევებულია და ნეგატიურ ეფექტებს გრძნობს შორიდან. ამის თავიდან ასაცილებლად, ფსიქიკური კავშირის მქონე ადამიანები უნდა იყვნენ ერთსა და იმავე სამყაროში, ქარავანში ან მანქანაში. გარდა ამისა, ისინი არ უნდა იყვნენ კრიპტოსძინაში ან მსგავს შეჩერებულ ანიმაციაში.\n\nდაზარალებულია შემდეგი ადამიანები</AlertPsychicBondedPawnsSeparatedDesc>
+
+  <AlertGenebankUnpowered>გენის ბანკს სჭირდება ენერგია</AlertGenebankUnpowered>
+  <AlertGenebankUnpoweredDesc>გენების ბანკი არ არის ენერგიით, ამიტომ გენების პაკეტები მასში ნელ-ნელა უარესდება. აღადგინეთ ენერგია გენების ბანკში, რათა თავიდან აიცილოთ გენოპაკეტების გაფუჭება.\n\nროგორც კი გენების ბანკი ჩაირთვება, ის ნელ-ნელა შეცვლის მასში არსებული გენოპაკეტების გაფუჭებას.</AlertGenebankUnpoweredDesc>
+
+  <AlertBossgroupIncoming>{0} შემომავალი</AlertBossgroupIncoming>
+  <AlertBossgroupIncomingDesc>თქვენი მექანიტორის სიგნალით, მტრულად განწყობილი {0} უახლოვდება თავისი საბრძოლო ესკორტით. მოემზადეთ, ეს არ იქნება ადვილი ბრძოლა. მტრული მექანოიდები რამდენიმე საათში ან დღეში ჩამოვლენ.</AlertBossgroupIncomingDesc>
+
+  <AlertDeathrestComplete>სიკვდილი დასრულებულია</AlertDeathrestComplete>
+  <AlertDeathrestCompleteDesc>შემდეგ ადამიანებმა დაასრულეს სიკვდილი და შეუძლიათ უსაფრთხოდ გაიღვიძონ</AlertDeathrestCompleteDesc>
+
+</LanguageData>

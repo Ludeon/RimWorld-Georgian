@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientCommsConsole.description>უძველესი კონსოლი მიმაგრებული საკომუნიკაციო ჭურჭლით. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientCommsConsole.description>
+  <AncientCommsConsole.label>უძველესი კომისიის კონსოლი</AncientCommsConsole.label>
+  <AncientEnemyTerminal.description>უძველესი კომპიუტერული ტერმინალი. მისი გატეხვა შესაძლებელია ახლომდებარე მტრების გამოსაძახებლად.</AncientEnemyTerminal.description>
+  <AncientEnemyTerminal.label>უძველესი მტრის ტერმინალი</AncientEnemyTerminal.label>
+  <AncientSecurityCrate.description>დიდი თვითმართვადი ჰერმეტულად დალუქული უჯრა ჩაშენებული უსაფრთხოების სიგნალიზაცია. მათ შეუძლიათ შეინარჩუნონ შინაარსი დიდი ხნის განმავლობაში. თუ ის გაიხსნება შესაბამისი კოდის გარეშე, ის ალბათ გაააქტიურებს უსაფრთხოების ზოგიერთ სისტემას.</AncientSecurityCrate.description>
+  <AncientSecurityCrate.label>უსაფრთხოების ყუთი</AncientSecurityCrate.label>
+</LanguageData>

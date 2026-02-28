@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_Kibble.description>უმი ხორცისა და მცენარეების შერწყმით გააკეთეთ ცხოველური წიბოები.</Make_Kibble.description>
+  <Make_Kibble.jobString>კიბის დამზადება.</Make_Kibble.jobString>
+  <Make_Kibble.label>გააკეთო კიბო</Make_Kibble.label>
+  <Make_Pemmican.description>გააკეთეთ პემიკანი, ხორცისა და მცენარეული საკვების შენახული კომბინაცია. არაჩვეულებრივი გემო აქვს, მაგრამ მაცივრის გარეშე დიდხანს ძლებს.</Make_Pemmican.description>
+  <Make_Pemmican.jobString>პემიკანის დამზადება.</Make_Pemmican.jobString>
+  <Make_Pemmican.label>გააკეთე პემიკანი</Make_Pemmican.label>
+  <Make_PemmicanBulk.description>გააკეთეთ ნაყარი პემიკანი, ხორცისა და მცენარეული საკვების შენახული კომბინაცია. არაჩვეულებრივი გემო აქვს, მაგრამ მაცივრის გარეშე დიდხანს ძლებს.</Make_PemmicanBulk.description>
+  <Make_PemmicanBulk.jobString>ნაყარი პემიკანის დამზადება.</Make_PemmicanBulk.jobString>
+  <Make_PemmicanBulk.label>გააკეთეთ პემიკანი x4</Make_PemmicanBulk.label>
+</LanguageData>

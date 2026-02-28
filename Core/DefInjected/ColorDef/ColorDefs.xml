@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Structure_Auburn.label>მუქი ფერის</Structure_Auburn.label>
+  <Structure_Black.label>შავი</Structure_Black.label>
+  <Structure_Blue.label>ლურჯი</Structure_Blue.label>
+  <Structure_BlueIce.label>ყინულის ლურჯი</Structure_BlueIce.label>
+  <Structure_BluePastel.label>პასტელი ლურჯი</Structure_BluePastel.label>
+  <Structure_BlueSky.label>ცისფერი</Structure_BlueSky.label>
+  <Structure_BlueSubtle.label>დახვეწილი ლურჯი</Structure_BlueSubtle.label>
+  <Structure_BrownDark.label>მუქი ყავისფერი</Structure_BrownDark.label>
+  <Structure_BrownDirt.label>ჭუჭყიანი ყავისფერი</Structure_BrownDirt.label>
+  <Structure_BrownFaded.label>გაცვეთილი ყავისფერი</Structure_BrownFaded.label>
+  <Structure_BrownLight.label>ღია ყავისფერი</Structure_BrownLight.label>
+  <Structure_BrownSubtle.label>დახვეწილი ყავისფერი</Structure_BrownSubtle.label>
+  <Structure_BrownWood.label>ხის ყავისფერი</Structure_BrownWood.label>
+  <Structure_Burgundy.label>შინდისფერი</Structure_Burgundy.label>
+  <Structure_Cream.label>კრემი</Structure_Cream.label>
+  <Structure_DarkMauve.label>მუქი მეწამული</Structure_DarkMauve.label>
+  <Structure_Dusk.label>შებინდებისას</Structure_Dusk.label>
+  <Structure_Granite.label>გრანიტი</Structure_Granite.label>
+  <Structure_Grape.label>ყურძენი</Structure_Grape.label>
+  <Structure_GrayLight.label>ღია ნაცრისფერი</Structure_GrayLight.label>
+  <Structure_Green.label>მწვანე</Structure_Green.label>
+  <Structure_GreenFaded.label>გაცვეთილი მწვანე</Structure_GreenFaded.label>
+  <Structure_GreenForest.label>ტყის მწვანე</Structure_GreenForest.label>
+  <Structure_GreenMarsh.label>ჭაობის მწვანე</Structure_GreenMarsh.label>
+  <Structure_GreenMuddy.label>ტალახიანი მწვანე</Structure_GreenMuddy.label>
+  <Structure_GreenPastel.label>პასტელი მწვანე</Structure_GreenPastel.label>
+  <Structure_GreenPine.label>ფიჭვის მწვანე</Structure_GreenPine.label>
+  <Structure_GreenSwamp.label>ჭაობის მწვანე</Structure_GreenSwamp.label>
+  <Structure_GreyDark.label>მუქი ნაცრისფერი</Structure_GreyDark.label>
+  <Structure_Indigo.label>ინდიგო</Structure_Indigo.label>
+  <Structure_IndigoLight.label>მსუბუქი ინდიგო</Structure_IndigoLight.label>
+  <Structure_LimePale.label>მკრთალი ცაცხვი</Structure_LimePale.label>
+  <Structure_Limestone.label>კირქვა</Structure_Limestone.label>
+  <Structure_Magenta.label>მაგენტა</Structure_Magenta.label>
+  <Structure_MagentaSubtle.label>დახვეწილი მაგენტა</Structure_MagentaSubtle.label>
+  <Structure_Marble.label>მარმარილო</Structure_Marble.label>
+  <Structure_Marine.label>საზღვაო</Structure_Marine.label>
+  <Structure_Moss.label>ხავსი</Structure_Moss.label>
+  <Structure_MossBright.label>ნათელი ხავსი</Structure_MossBright.label>
+  <Structure_Mustard.label>მდოგვი</Structure_Mustard.label>
+  <Structure_Olive.label>ზეთისხილის</Structure_Olive.label>
+  <Structure_OliveDark.label>მუქი ზეთისხილი</Structure_OliveDark.label>
+  <Structure_Orange.label>ფორთოხალი</Structure_Orange.label>
+  <Structure_OrangePastel.label>პასტელი ფორთოხალი</Structure_OrangePastel.label>
+  <Structure_Pink.label>პასტელი ვარდისფერი</Structure_Pink.label>
+  <Structure_Plum.label>ქლიავი</Structure_Plum.label>
+  <Structure_Purple.label>მეწამული</Structure_Purple.label>
+  <Structure_PurpleDeep.label>ღრმა მეწამული</Structure_PurpleDeep.label>
+  <Structure_PurpleMuted.label>მდუმარე იასამნისფერი</Structure_PurpleMuted.label>
+  <Structure_PurpleSubtle.label>დახვეწილი მეწამული</Structure_PurpleSubtle.label>
+  <Structure_Red.label>წითელი</Structure_Red.label>
+  <Structure_RedPastel.label>პასტელი წითელი</Structure_RedPastel.label>
+  <Structure_RedSubtle.label>დახვეწილი წითელი</Structure_RedSubtle.label>
+  <Structure_Sage.label>ბრძენი</Structure_Sage.label>
+  <Structure_Sandstone.label>ქვიშაქვა</Structure_Sandstone.label>
+  <Structure_Scarlet.label>ალისფერი</Structure_Scarlet.label>
+  <Structure_Slate.label>ფიქალი</Structure_Slate.label>
+  <Structure_Teal.label>ჩაისფერი</Structure_Teal.label>
+  <Structure_UmberBurnt.label>დამწვარი ქოლგა</Structure_UmberBurnt.label>
+  <Structure_Viridian.label>ვირიდიანი</Structure_Viridian.label>
+  <Structure_ViridianSubtle.label>დახვეწილი ვირიდიანი</Structure_ViridianSubtle.label>
+  <Structure_White.label>თეთრი</Structure_White.label>
+  <Structure_YellowPastel.label>პასტელი ყვითელი</Structure_YellowPastel.label>
+</LanguageData>

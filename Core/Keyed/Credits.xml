@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <MainPageCredit>სიუჟეტის გენერატორი ტინან სილვესტერის მიერ</MainPageCredit>
+
+  
+  <Credits_Design>დიზაინი</Credits_Design>
+  <Credits_Developers>ინჟინერია</Credits_Developers>
+  <Credit_MusicAndSound>აუდიო</Credit_MusicAndSound>
+  <Credit_GameArt>გრაფიკა</Credit_GameArt>
+  <Credit_Testers>ტესტერები</Credit_Testers>
+  <Credits_AdditionalDevelopment>დამატებითი განვითარება</Credits_AdditionalDevelopment>
+  <Credit_SpecialThanks>განსაკუთრებული მადლობა</Credit_SpecialThanks>
+
+  <Credits_TitleTester>მოხალისე ტესტერები</Credits_TitleTester>
+
+  <Credits_TitleMods>მოდები</Credits_TitleMods>
+
+  <Credits_TitleLanguage>{0} ({1}) ენა</Credits_TitleLanguage>
+  <Credits_Localization_Anomaly>ანომალიის ლოკალიზაცია</Credits_Localization_Anomaly>
+  <Credits_Localization_Odyssey>ოდისეას ლოკალიზაცია</Credits_Localization_Odyssey>
+  <Credits_LeadLocalizationProjectManager>ლოკალიზაციის პროექტის მენეჯერი</Credits_LeadLocalizationProjectManager>
+  <Credits_LocalizationProjectManager>ლოკალიზაციის პროექტის მენეჯერი</Credits_LocalizationProjectManager>
+  <Credits_ProjectManager>პროექტის მენეჯერი</Credits_ProjectManager>
+  <Credits_Translator>მთარგმნელი</Credits_Translator>
+  <Credits_Editor>რედაქტორი</Credits_Editor>
+  <Credits_French>ფრანგული</Credits_French>
+  <Credits_Japanese>იაპონური</Credits_Japanese>
+  <Credits_Korean>კორეული</Credits_Korean>
+  <Credits_Polish>პოლონური</Credits_Polish>
+  <Credits_Russian>რუსული</Credits_Russian>
+  <Credits_Dutch>ჰოლანდიური</Credits_Dutch>
+  <Credits_Turkish>თურქული</Credits_Turkish>
+  <Credits_Ukrainian>უკრაინული</Credits_Ukrainian>
+  <Credits_ChineseSimplified>გამარტივებული ჩინური</Credits_ChineseSimplified>
+  <Credits_ChineseTraditional>ტრადიციული ჩინური</Credits_ChineseTraditional>
+
+  <AndOtherVolunteers>და მრავალი სხვა კეთილი მოხალისე!</AndOtherVolunteers>
+
+  
+  <Credit_TestLead>ტესტის ტყვია</Credit_TestLead>
+  <Credits_TitleCommunity>საზოგადოების შემოწირულობები</Credits_TitleCommunity>
+  <Credit_ModDonation>მოდიფიკაციის დონორები</Credit_ModDonation>
+  <Credit_WritingDonation>წერილობითი დონორი</Credit_WritingDonation>
+
+  
+  <ThanksForPlaying>გმადლობთ, რომ თამაშობთ!</ThanksForPlaying>
+  <SkipCredits>კრედიტების გამოტოვება</SkipCredits>
+
+
+
+</LanguageData>

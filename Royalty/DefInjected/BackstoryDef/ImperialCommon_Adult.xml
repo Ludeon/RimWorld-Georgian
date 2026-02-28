@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Assembler69.description>[PAWN_nameDef] მუშაობდა ქარხნის ასამბლეის ხაზებზე, აწყობდა პროდუქტებს რობოტების დახმარებით.</Assembler69.description>
+  <Assembler69.title>ასამბლეერი</Assembler69.title>
+  <Assembler69.titleShort>ასამბლეერი</Assembler69.titleShort>
+  <BalletDancer81.description>[PAWN_nameDef] იყო მოცეკვავე ტრადიციულ საბალეტო ჯგუფში. [PAWN_pronoun] დაეუფლა ძველ მოძრაობებს და გაერთო ათასობით.</BalletDancer81.description>
+  <BalletDancer81.title>ბალეტის მოცეკვავე</BalletDancer81.title>
+  <BalletDancer81.titleShort>მოცეკვავე</BalletDancer81.titleShort>
+  <BalletDancer81.titleShortFemale>ბალერინა</BalletDancer81.titleShortFemale>
+  <Builder96.description>[PAWN_nameDef] მუშაობდა სამშენებლო ობიექტებზე, აშენებდა ყოველდღიურ სტრუქტურებს [PAWN_possessive] ბოსის მითითებების შესაბამისად.</Builder96.description>
+  <Builder96.title>მშენებელი</Builder96.title>
+  <Builder96.titleShort>მშენებელი</Builder96.titleShort>
+  <ChurchPsychic98.description>[PAWN_nameDef] was a psychic in the imperial church's psychic school.
+\n[PAWN_nameDef] trained [PAWN_possessive] mind to sense the collective emotions and impressions of the people. It was a way to touch the spirit of the empire. It was also a way to root out heretical trends in thought.</ChurchPsychic98.description>
+  <ChurchPsychic98.title>ეკლესიის ექსტრასენსი</ChurchPsychic98.title>
+  <ChurchPsychic98.titleShort>ფსიქიკური</ChurchPsychic98.titleShort>
+  <CorporateDrone10.description>[PAWN_nameDef] worked in a very large office complex along with thousands of other suited drones.
+\nThe work itself consisted of endless organizational drudgery and pointless meetings, punctuated by the occasional performance review.</CorporateDrone10.description>
+  <CorporateDrone10.title>კორპორატიული დრონი</CorporateDrone10.title>
+  <CorporateDrone10.titleShort>დრონი</CorporateDrone10.titleShort>
+  <CorporateFixer36.description>[PAWN_nameDef] was a fixer for an energy corporation. [PAWN_pronoun] work required knowing when to push, when to pull, when to back down and when to strike. The job fit [PAWN_possessive] natural lack of empathy.
+\nWhile violence was unusual, [PAWN_nameDef] stayed prepared for anything.</CorporateFixer36.description>
+  <CorporateFixer36.title>კორპორატიული ფიქსატორი</CorporateFixer36.title>
+  <CorporateFixer36.titleShort>ფიქსატორი</CorporateFixer36.titleShort>
+  <HeadButler50.description>[PAWN_nameDef] was the head servant in a royal house.
+\n[PAWN_pronoun] managed the other servants to ensure the lord's will was done, even before the lord knew what it was.</HeadButler50.description>
+  <HeadButler50.title>უფროსი ბატლერი</HeadButler50.title>
+  <HeadButler50.titleShort>ბატლერი</HeadButler50.titleShort>
+  <HouseServant86.description>[PAWN_nameDef] was a low-level servant in a royal house.
+\n[PAWN_pronoun] cleaned rooms and moved items as directed by the senior staff, while attempting to remain invisible to the lords and ladies of the house.</HouseServant86.description>
+  <HouseServant86.title>სახლის მსახური</HouseServant86.title>
+  <HouseServant86.titleShort>მსახური</HouseServant86.titleShort>
+  <ImperialInquisitor53.description>[PAWN_nameDef] was an inquisitor in the imperial church's anti-heresy school.
+\n[PAWN_nameDef] hunted unorthodox thoughts wherever they could be found - art, music, code, even private conversations. Upon finding deviance, [PAWN_pronoun] exposed it to bring on the punishment of the collective. And [PAWN_pronoun] could always find the deviance if [PAWN_pronoun] looked hard enough.</ImperialInquisitor53.description>
+  <ImperialInquisitor53.title>იმპერიული ინკვიზიტორი</ImperialInquisitor53.title>
+  <ImperialInquisitor53.titleShort>ინკვიზიტორი</ImperialInquisitor53.titleShort>
+  <ImperialInquisitor53.titleShortFemale>ინკვიზიტორი</ImperialInquisitor53.titleShortFemale>
+  <ImperialPriest24.description>[PAWN_nameDef] was a priest in the imperial church.
+\n[PAWN_pronoun] spent half [PAWN_possessive] time studying books to understand the relationship between God's aspects and the facets of [PAWN_possessive] society. The other half was spent preaching the evils of sloth and drink.</ImperialPriest24.description>
+  <ImperialPriest24.title>იმპერიული მღვდელი</ImperialPriest24.title>
+  <ImperialPriest24.titleShort>მღვდელი</ImperialPriest24.titleShort>
+  <ImperialPriest24.titleShortFemale>მღვდელმსახური</ImperialPriest24.titleShortFemale>
+  <Mailman2.description>[PAWN_nameDef] carried mail on [PAWN_possessive] assigned routes. Sometimes [PAWN_pronoun] was even sent to deliver special packages to stylish corporate offices or mansions.
+\n[PAWN_nameDef] got pretty good at avoiding and fighting off angry dogs.</Mailman2.description>
+  <Mailman2.title>ფოსტალიონი</Mailman2.title>
+  <Mailman2.titleFemale>ფოსტის გადამზიდავი</Mailman2.titleFemale>
+  <Mailman2.titleShort>ფოსტალიონი</Mailman2.titleShort>
+  <Mailman2.titleShortFemale>ფოსტალიონი</Mailman2.titleShortFemale>
+  <MenagerieKeeper1.description>[PAWN_nameDef] managed the royal menagerie of a powerful family at their estate.
+\n[PAWN_nameDef]'s job saw [PAWN_pronoun] feeding elephants, tranquilizing lions, and training birds to display their plumage to titled visitors.</MenagerieKeeper1.description>
+  <MenagerieKeeper1.title>მენეჯმენტის მეკარე</MenagerieKeeper1.title>
+  <MenagerieKeeper1.titleShort>ზოოპარკი</MenagerieKeeper1.titleShort>
+  <OrnamentMaker56.description>[PAWN_nameDef] ამზადებდა საათებს, მედლებს, დამუშავებულ სამკაულებს და სხვა კომპლექსურ კურიოზებს სამეფო პატრონებისთვის.</OrnamentMaker56.description>
+  <OrnamentMaker56.title>ორნამენტის შემქმნელი</OrnamentMaker56.title>
+  <OrnamentMaker56.titleShort>ორნამენტატორი</OrnamentMaker56.titleShort>
+  <PlanetaryMiner64.description>[PAWN_nameDef] იყო სამთო ინჟინერი ძირითადი პლანეტარული სამთო კორპორაციისთვის. [PAWN_pronoun] ნამუშევარი ინარჩუნებდა [PAWN_objective] მიწისქვეშ კვირების განმავლობაში და [PAWN_pronoun] გაიზარდა სიბნელეს.</PlanetaryMiner64.description>
+  <PlanetaryMiner64.title>პლანეტარული მაღაროელი</PlanetaryMiner64.title>
+  <PlanetaryMiner64.titleShort>მაღაროელი</PlanetaryMiner64.titleShort>
+  <RoyalCook18.description>[PAWN_nameDef] made meals for [PAWN_possessive] aristocratic patrons.
+\nOnly the finest food was acceptable, so [PAWN_nameDef] tended a small garden on the mansion grounds to get the freshest herbs and vegetables. [PAWN_pronoun] fell in love with the food [PAWN_objective]self.</RoyalCook18.description>
+  <RoyalCook18.title>სამეფო მზარეული</RoyalCook18.title>
+  <RoyalCook18.titleShort>მზარეული</RoyalCook18.titleShort>
+  <RoyalMasseuse43.description>[PAWN_nameDef] was a massage artist for an extended royal house. [PAWN_pronoun] serviced many members of the royal family, and their guests.
+\n[PAWN_nameDef] occasionally offered something extra, if the lord or lady was in the mood. Advancing in this line of work meant having refined social skills.</RoyalMasseuse43.description>
+  <RoyalMasseuse43.title>სამეფო მასაჟისტი</RoyalMasseuse43.title>
+  <RoyalMasseuse43.titleShort>მასაჟისტი</RoyalMasseuse43.titleShort>
+</LanguageData>

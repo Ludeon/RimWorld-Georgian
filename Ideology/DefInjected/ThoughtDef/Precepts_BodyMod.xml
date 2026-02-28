@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HasNoProsthetic_Disapproved.stages.0.description>სხეულის ხელოვნური დანამატები არ მაქვს. ეს ეწინააღმდეგება ჩემს რწმენას, რომ ასე გაუძლიერებელი ვარ.</HasNoProsthetic_Disapproved.stages.0.description>
+  <HasNoProsthetic_Disapproved.stages.0.label>არ არის ხელოვნური გაძლიერება</HasNoProsthetic_Disapproved.stages.0.label>
+  <HasNoProsthetic_Disapproved_Social.stages.0.label>არ არის ხელოვნური გაძლიერება</HasNoProsthetic_Disapproved_Social.stages.0.label>
+  <HasProsthetic_Abhorrent.stages.0.description>მაქვს სხეულის ხელოვნური გამაძლიერებელი. ეს საზიზღარი შეურაცხყოფაა ყველაფრის მიმართ, რისიც მჯერა!</HasProsthetic_Abhorrent.stages.0.description>
+  <HasProsthetic_Abhorrent.stages.0.label>ხელოვნური გაძლიერება</HasProsthetic_Abhorrent.stages.0.label>
+  <HasProsthetic_Abhorrent_Social.stages.0.label>ხელოვნური გაძლიერება</HasProsthetic_Abhorrent_Social.stages.0.label>
+  <HasProsthetic_Approved.stages.0.description>ეს ხელოვნური გაფართოება ემთხვევა ჩემს რწმენას.</HasProsthetic_Approved.stages.0.description>
+  <HasProsthetic_Approved.stages.0.label>ტრანსჰუმანისტური მოდიფიცირებული</HasProsthetic_Approved.stages.0.label>
+  <HasProsthetic_Approved.stages.1.description>რაც უფრო მეტ ხელოვნურ გაუმჯობესებებს მივიღებ, მით უფრო ძლიერდება ჩემი რწმენის გამოხატვა.</HasProsthetic_Approved.stages.1.description>
+  <HasProsthetic_Approved.stages.1.label>ტრანსჰუმანისტი დაკავშირებული</HasProsthetic_Approved.stages.1.label>
+  <HasProsthetic_Approved.stages.2.description>ჩემი კავშირი ჩემს რწმენასთან გაიზარდა ჩემი მესამე ხელოვნური გაძლიერებით. მაგრამ მეტის გამოყენება შემეძლო.</HasProsthetic_Approved.stages.2.description>
+  <HasProsthetic_Approved.stages.2.label>ტრანსჰუმანისტური გაძლიერებული</HasProsthetic_Approved.stages.2.label>
+  <HasProsthetic_Approved.stages.3.description>მხოლოდ ორი ხელოვნური გაუმჯობესებაა საჭირო ჩემს რწმენასთან სრული სინქრონიზაციისთვის.</HasProsthetic_Approved.stages.3.description>
+  <HasProsthetic_Approved.stages.3.label>ტრანსჰუმანისტური სინქრონიზებული</HasProsthetic_Approved.stages.3.label>
+  <HasProsthetic_Approved.stages.4.description>ხუთი ხელოვნური გაუმჯობესება! ვიწყებ სრულყოფილ ინტეგრაციას ჩემს რწმენასთან.</HasProsthetic_Approved.stages.4.description>
+  <HasProsthetic_Approved.stages.4.label>ტრანსჰუმანისტური ინტეგრირებული</HasProsthetic_Approved.stages.4.label>
+  <HasProsthetic_Approved.stages.5.description>თითქოს სუსტი ხორცი დავტოვე.</HasProsthetic_Approved.stages.5.description>
+  <HasProsthetic_Approved.stages.5.label>ტრანსჰუმანისტი გარდაიქმნა</HasProsthetic_Approved.stages.5.label>
+  <HasProsthetic_Disapproved.stages.0.description>მაქვს სხეულის ხელოვნური გამაძლიერებელი. არ მჯერა, რომ ასეთი რამ მისაღებია.</HasProsthetic_Disapproved.stages.0.description>
+  <HasProsthetic_Disapproved.stages.0.label>ხელოვნური გაძლიერება</HasProsthetic_Disapproved.stages.0.label>
+  <HasProsthetic_Disapproved_Social.stages.0.label>ხელოვნური გაძლიერება</HasProsthetic_Disapproved_Social.stages.0.label>
+  <InstalledProsthetic_Abhorrent.stages.0.description>სხეულის ხელოვნური გამაძლიერებლის დაყენება მომიწია. ეს იყო ღრმად შეურაცხმყოფელი ჩემი რწმენისთვის.</InstalledProsthetic_Abhorrent.stages.0.description>
+  <InstalledProsthetic_Abhorrent.stages.0.label>დაინსტალირებული გაფართოება</InstalledProsthetic_Abhorrent.stages.0.label>
+  <InstalledProsthetic_Disapproved.stages.0.description>სხეულის ხელოვნური გამაძლიერებლის დაყენება მომიწია. ეს აშკარად ეწინააღმდეგებოდა ჩემს რწმენას.</InstalledProsthetic_Disapproved.stages.0.description>
+  <InstalledProsthetic_Disapproved.stages.0.label>დაინსტალირებული გაფართოება</InstalledProsthetic_Disapproved.stages.0.label>
+  <InstalledProsthetic_Know_Abhorrent.stages.0.label>დაინსტალირებული გაფართოება</InstalledProsthetic_Know_Abhorrent.stages.0.label>
+  <InstalledProsthetic_Know_Disapproved.stages.0.label>დაინსტალირებული გაფართოება</InstalledProsthetic_Know_Disapproved.stages.0.label>
+</LanguageData>

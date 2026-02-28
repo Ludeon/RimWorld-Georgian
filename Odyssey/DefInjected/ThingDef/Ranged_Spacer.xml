@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_BeamRepeater.label>სხივის განმეორებითი ლაზერი</Bullet_BeamRepeater.label>
+  <Bullet_Scattergun.label>სროლის აფეთქება</Bullet_Scattergun.label>
+  <Gun_BeamRepeater.description>ულტრატექნიკური იარაღი, რომელიც ასხივებს გამა სხივების ლაზერს, აფეთქებს სწრაფი თანმიმდევრობით. მჭიდრო გამა სხივებს შეუძლიათ ფარების გახვრეტა.</Gun_BeamRepeater.description>
+  <Gun_BeamRepeater.label>სხივის გამეორება</Gun_BeamRepeater.label>
+  <Gun_Scattergun.description>კომპაქტური მოკლე დისტანციის თოფი, რომელიც შექმნილია სადარაჯოზე დასაყენებლად.</Gun_Scattergun.description>
+  <Gun_Scattergun.label>გაფანტული იარაღი</Gun_Scattergun.label>
+</LanguageData>

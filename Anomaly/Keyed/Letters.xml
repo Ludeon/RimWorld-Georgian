@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <ReHumanizedLabel>ახლიდან გაადამიანება</ReHumanizedLabel>
+  <ReHumanizedText>{0_nameDef}-მა დაიბრუნა {0_possessive} კავშირი კაცობრიობასთან. {0_nameDef}-ის ჯანმრთელობის „არაადამიანური“ მდგომარეობა მოხსნილია.</ReHumanizedText>
+  <WarningFromLabel>გაფრთხილება {0_nameDef}-ისგან</WarningFromLabel>
+
+  
+  <HateChantersLabel>კულტისტი სიძულვილის მგალობლები</HateChantersLabel>
+  <HateChantersText>კულტისტური სიძულვილის მგალობლები ჩამოვიდნენ. ისინი აპირებენ შეასრულონ სიძულვილის გალობის რიტუალი, რათა აიძულონ ფსიქიკური გაბრაზება თქვენს კოლონისტებში და გააგიჟონ ისინი. გალობა უფრო და უფრო ხმამაღლა გაიზრდება, სანამ კულტისტები არ შეჩერდებიან.</HateChantersText>
+  <HateChantersAttackingLabel>კულტისტები თავს დაესხნენ</HateChantersAttackingLabel>
+  <HateChantersAttackingText>კულტისტებმა დაასრულეს სიძულვილის გალობა და დაიწყეს რიტუალური ტრანსიდან გამოსვლა.\n\nმოემზადეთ დასაცავად.</HateChantersAttackingText>
+
+  
+  <PsychicRitualCompleteLabel>{0} დასრულდა</PsychicRitualCompleteLabel>
+
+  <VoidProvocationCompletedText>{INVOKER_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალის შესრულება, აგზავნის ფსიქიკურ პულსს, რომელიც მიიზიდავს პირებს.</VoidProvocationCompletedText>
+  <VoidProvocationSucceeded>მოემზადეთ იმისთვის, რაც შემდეგ მოდის.</VoidProvocationSucceeded>
+  <VoidProvocationFailed>სამწუხაროდ, თქვენი ზარი უპასუხოდ დარჩა.</VoidProvocationFailed>
+  <VoidProvocationDarkPsychicShock>ამ პროცესში, {INVOKER_nameDef}-მა შეამჩნია რაღაც შემზარავი, რომელიც ადამიანის გაგებას აღემატება. ფსიქიკურმა სიბნელემ შოკში ჩააგდო {INVOKER_objective} მოკლევადიანი კომაში.</VoidProvocationDarkPsychicShock>
+  <PhilophagyCompleteText>{INVOKER_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალი, შთანთქა უნარები და მოგონებები {TARGET_nameDef}.</PhilophagyCompleteText>
+  <PawnGainedXPInSkill>{0_nameDef}-მა მოიპოვა {1} XP {2_label}-ში</PawnGainedXPInSkill>
+  <PawnLostXPInSkill>{0_nameDef}-მა დაკარგა {1} XP {2_label}-ში</PawnLostXPInSkill>
+  <PhilophagySkillLevelGained>ცოდნის დონის აწევა {0}-დან {1}-მდე.</PhilophagySkillLevelGained>
+  <PhilophagySkillLevelLost>ცოდნის დონე {0}-დან {1}-მდე დაცემა.</PhilophagySkillLevelLost>
+  <PhilophagySkillLevelRemains>რჩება უნარების დონეზე {0}.</PhilophagySkillLevelRemains>
+  <PhilophagyDamagedTarget>პროცესმა დააზიანა {TARGET_nameDef}-ის ტვინი, რამაც {TARGET_objective} კომაში ჩააგდო.</PhilophagyDamagedTarget>
+
+  <ImbueDeathRefuralCompleteText>{0_nameDef} გაჟღენთილია სიკვდილზე უარით. {0_pronoun}-ს ახლა შეუძლია თვითაღდგენა სიკვდილის შემდეგ.\n\nპროცესმა ატროფია {0_nameDef}-ის ტვინი, რის გამოც {0_objective}-მა დაკარგა მთლიანი {1} XP {0_possessive} უნარებში.</ImbueDeathRefuralCompleteText>
+
+  <SummonAnimalsSuccessText>{0_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალი. ველოდოთ ცხოველების ნახირს მალე.</SummonAnimalsSuccessText>
+  <SummonAnimalsFailureText>{0_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალი, მაგრამ რაღაც საშინლად წარიმართა! რიტუალმა მიიპყრო სკარიით ინფიცირებული მონადირე ცხოველები. მოემზადეთ მათი ჩამოსვლისთვის!</SummonAnimalsFailureText>
+  
+  <SummonShamblersCompleteText>{0_nameDef}-მა წარმატებით დაასრულა {RITUAL_definite} რიტუალი. მოემზადეთ მათი ჩამოსვლისთვის.</SummonShamblersCompleteText>
+
+  <AttackingFromMultipleDirections>ისინი თავს დაესხნენ მრავალი მიმართულებით.</AttackingFromMultipleDirections> 
+
+  <ChronophagyCompleteText>{0_nameDef}-მა წარმატებით დაასრულა {RITUAL_definite} რიტუალი. რიტუალს ჰქონდა შემდეგი ეფექტი:</ChronophagyCompleteText>
+  <ChronophagyTargetAged>{0_nameDef} ასაკის {1} წლის</ChronophagyTargetAged>
+  <ChronophagyInvokerRejuvenated>{0_nameDef} გახდა {1} წლით ახალგაზრდა</ChronophagyInvokerRejuvenated>
+  <ChronophagyTargetDiedOfOldAge>{0_nameDef}-მა ქრონოფაგიის რიტუალიდან სიბერის დაძაბვა ვერ აიტანა და სიბერის გამო გარდაიცვალა.</ChronophagyTargetDiedOfOldAge>
+  <ChronophagyTargetOldAgeDiseases>სანამ {0_nameDef} გადაურჩა ქრონოფაგიის რიტუალს, {0_pronoun}-მა შეიმუშავა შემდეგი პირობები</ChronophagyTargetOldAgeDiseases>
+  <ChronophagyInvokerCuredDiseases>გარდა ამისა, ამ პროცესმა განკურნა {0_nameDef} შემდეგი დაავადებებისგან:</ChronophagyInvokerCuredDiseases>
+  <ChronophagyCurrentAge>და ახლა არის {0} წლის</ChronophagyCurrentAge>
+
+  <PleasurePulseCompleteText>{0_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალის შესრულება. შემდეგი {1}-ისთვის, {RITUAL_definite}-ის ზემოქმედების ქვეშ მყოფი ყველა იქნება უფრო ბედნიერი, მაგრამ იმუშავებს ნელა.</PleasurePulseCompleteText>
+
+  <NeurosisPulseCompleteText>{0_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალის შესრულება. შემდეგი {1}-ისთვის, ვინც გაიგო პულსი, იმუშავებს უფრო სწრაფად, მაგრამ უფრო გაღიზიანებული.</NeurosisPulseCompleteText>
+
+  <BloodRainCompleteText>{0_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალის შესრულება. ციდან სქელმა წითელმა წვეთებმა ცვენა დაიწყეს. შეინახეთ ყველა სახლში, რათა თავიდან აიცილოთ გაბრაზება.</BloodRainCompleteText>
+
+  <BrainwipeCompleteText>{INVOKER_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალის შესრულება, ქაოტურად წაშალა {TARGET_nameDef}-ის მოგონებები.</BrainwipeCompleteText>
+  <BrainwipeTargetComa>{TARGET_pronoun} დარჩება კომაში {1}-ისთვის.</BrainwipeTargetComa>
+  <BrainwipeUnwaveringlyLoyal>{TARGET_nameDef} აღარ არის ურყევად ლოიალური.</BrainwipeUnwaveringlyLoyal>
+  <BrainwipeRehumanized>{TARGET_nameDef} ხელახლა ჰუმანიზებულია.</BrainwipeRehumanized>
+
+  <PsychophagyCompleteText>{INVOKER_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალის შესრულება და მოიხმარა {TARGET_nameDef}-ის ფსიქიკური ყოფნა.</PsychophagyCompleteText>
+  <PsychophagyTargetSurvived>{TARGET_nameDef} ახლა ფსიქიკურად ყრუა. პროცესმა დააზიანა {TARGET_nameDef}-ის ტვინი, რამაც {TARGET_objective} კომაში ჩააგდო.</PsychophagyTargetSurvived>
+  
+  <PsychicRitualTargetBrainLiquified>პროცესმა გაათხევინა {TARGET_nameDef}-ის ტვინი და მოკლა {TARGET_objective}.</PsychicRitualTargetBrainLiquified>
+
+  <SummonFleshbeastsPlayerCompleteText>{0_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალის შესრულება. ხორცის მხეცები გამოდიან მიწიდან!</SummonFleshbeastsPlayerCompleteText>
+
+  <GhoulInfusionCompleteText>{INVOKER_nameDef}-მა დაასრულა {TARGET_nameDef}-ის ბიოფერიტის ინფუზია. რიტუალმა გადაატრიალა {TARGET_nameDef}-ის გონება და მუტაცია მოახდინა {TARGET_possessive}-ის სხეულზე, შექმნა საშინელი არსება, რომელიც ცნობილია როგორც ღორღი. {INVOKER_nameDef} იზიარებს ფსიქიკურ კავშირს {TARGET_nameDef}-თან, რაც საშუალებას აძლევს {INVOKER_objective}-ს გააკონტროლოს {TARGET_nameDef}.\n\nGhouls ჭამენ უმი ხორცს გადარჩენისთვის. თუ ისინი შიმშილობენ, შეიძლება მტრულად განიხილონ.</GhoulInfusionCompleteText>
+  
+  <AttackersMayCastRitualMultipleTimes>მათ შეუძლიათ რამდენჯერმე შეასრულონ რიტუალი. თქვენ უნდა წახვიდეთ მათი შეჩერება.</AttackersMayCastRitualMultipleTimes>
+
+  <SkipAbductionPlayerCompleteText>{INVOKER_nameDef}-მა დაასრულა {RITUAL_definite} რიტუალის შესრულება. სივრცისა და დროის მანიპულირებით, {INVOKER_nameDef}-მა გაიტაცა {FACTION_name} ფრაქციის {TARGET_nameDef}. რიტუალის შემზარავმა ბუნებამ {TARGET_nameDef} მოკლევადიან კომაში ჩააგდო.</SkipAbductionPlayerCompleteText>
+
+  <FleshmassResponseLabel>Fleshmass პასუხი</FleshmassResponseLabel> 
+  <FleshmassResponseText>ხორცის მოკვლამ ძალადობრივი პასუხი გამოიწვია! ხორცი კანკალებს, როცა შობს ახალ მხეცებს თავის დასაცავად.</FleshmassResponseText> 
+
+  
+  <VoidAwakeningStageOneStructuresActivatedLabel>ჩაბნელებული ცა</VoidAwakeningStageOneStructuresActivatedLabel>
+  <VoidAwakeningStageTwoStructuresActivatedLabel>სტრუქტურები გააქტიურებულია</VoidAwakeningStageTwoStructuresActivatedLabel>
+  <VoidAwakeningStageOneStructuresActivatedText>მეორე სტრუქტურის გააქტიურებისას სიბნელე იწყებს გაძლიერებას. არაბუნებრივი სიბნელე მალე ჩამოვა. დარწმუნდით, რომ თქვენი კოლონია მზად არის. მოაგროვეთ რესურსები, შექმენით განათებები, ხელნაკეთობების დამრღვევი აფეთქებები და გააძლიერეთ თავდაცვა. უსაფრთხოდ იქნებიან მხოლოდ ისინი, ვინც შუქზეა.\n\nმალე გამოჩნდება მეტი გრეხილი სტრუქტურები.</VoidAwakeningStageOneStructuresActivatedText>
+  <VoidAwakeningStageTwoStructuresActivatedText>ყველა ბათილი სტრუქტურა გააქტიურებულია. სიცარიელე მონოლითის ირგვლივ სივრცემ ბზინვარება დაიწყო. მოემზადე.</VoidAwakeningStageTwoStructuresActivatedText> 
+  <VoidAwakeningFinalStructuresActivatedLabel>{STUDIER_nameDef} ტელეპორტირებულია</VoidAwakeningFinalStructuresActivatedLabel> 
+  <VoidAwakeningFinalStructuresActivatedText>{STUDIER_nameDef}-მა გაააქტიურა მონოლითი და ჩვენი სივრცე-დროიდან სხვა ადგილას გადაისროლა.\n\n{STUDIER_pronoun} აღმოაჩენს {STUDIER_objective} თავს დაკბილული მეტალის წვეტებისგან შემდგარ ოთახში. ყველა ზედაპირი ბნელია მუქი სითხით და ჰაერი ვიბრირებს ძალით.\n\nეს ლითონის ჯოჯოხეთი დამაკავშირებელი არხია არაადამიანურ ჰიპერინტელექტთან.</VoidAwakeningFinalStructuresActivatedText> 
+  <VoidAwakeningShamblerArrivalLabel>შამბლერის თავდასხმა</VoidAwakeningShamblerArrivalLabel>
+  <VoidAwakeningShamblerArrivalText>შამბლერების ურდო მიიპყრო სიცარიელე სტრუქტურებმა. მოემზადე!</VoidAwakeningShamblerArrivalText>
+  <VoidAwakeningFleshbeastBurrowLabel>Fleshbeast გვირაბი</VoidAwakeningFleshbeastBurrowLabel>
+  <VoidAwakeningFleshbeastBurrowText>მონოლითმა წარმოქმნა მძლავრი ფსიქიკური პულსი, რომელიც იზიდავს მიმდებარე არსებებს.\n\nმიწის ქვეშ შეგიძლიათ მოისმინოთ ხორციანი ყვირილი და კლანჭები. ხორცის მხეცები შენსკენ გვირაბობენ. მოემზადე!</VoidAwakeningFleshbeastBurrowText>
+  <VoidAwakeningMetalhorrorArrivalLabel>მეტალის შეტევა</VoidAwakeningMetalhorrorArrivalLabel>
+  <VoidAwakeningMetalhorrorArrivalText>ბათილ მონოლითთან მეტალის საშინელებები ჩნდება. მოემზადე!</VoidAwakeningMetalhorrorArrivalText>
+  <VoidAwakeningEntityArrivalLabel>ერთეულზე თავდასხმა</VoidAwakeningEntityArrivalLabel> 
+  <VoidAwakeningEntityArrivalText>გააქტიურებულმა სიცარიელე სტრუქტურამ წარმოქმნა დაგრეხილი ფსიქიკური პულსი, რომელიც იზიდავს მიმდებარე არსებებს. მოემზადე!</VoidAwakeningEntityArrivalText>
+  <VoidAwakeningBreadcrumbLetterLabel>მოეხვიე სიცარიელეს</VoidAwakeningBreadcrumbLetterLabel>
+  <VoidAwakeningBreadcrumbLetterText>სიცარიელის სტრუქტურასთან ურთიერთობისას {PAWN_nameDef}-მა დაინახა სიცარიელის ხედვა. წამით {PAWN_pronoun}-მა გადაცურა უსასრულო სიღრმის შავი ოკეანე და იგრძნო მისი გაუთავებელი არაადამიანური ძალა.\n\n{PAWN_nameDef} ფიქრობს, რომ შეიძლება არსებობდეს ამ ძალის გაკონტროლების გზა სიცარიელეზე მოხვედრით. თუ თქვენ სამუდამოდ გახსენით მილსადენი სიცარიელისკენ, ვიდრე გამორთეთ, ეს შეიძლება შემოგთავაზოთ უთვალავი შესაძლებლობები.</VoidAwakeningBreadcrumbLetterText>
+
+  
+  <VoidNodeReturnedLabel>{PAWN_nameDef} ბრუნდება</VoidNodeReturnedLabel>
+  <VoidNodeReturnedMessage>{PAWN_nameDef} კვლავ გამოჩნდა.</VoidNodeReturnedMessage>
+  <EmbracedVoidText>{PAWN_nameDef} კვლავ გამოჩნდა.\n\n{PAWN_pronoun} გაცვეთილი გამოიყურება სიცარიელის არაადამიანური აზროვნების ნიმუშებით. კაცობრიობის ყველა კვალმა დატოვა {PAWN_possessive} თვალები.\n\n{PAWN_nameDef}-ის გონება და სხეული ახლა სამუდამოდ არის დაკავშირებული არაადამიანური ბრაზის ბნელ სიცარიელესთან. ამ ახალი კავშირის წყალობით, {PAWN_nameDef} აღარ გრძნობს თავს მიბმული მოკვდავის საჭიროებებთან, როგორიცაა კომფორტი ან ძილი. {PAWN_pronoun}-მა მოიპოვა სხვებში შიშის გამოწვევის უნარი სიცარიელის ძალის გამოყენებით.\n\nმონოლითი გაღვიძებულია. ის უფრო ხმამაღლა გუგუნებს {PAWN_nameDef}-ის ხელახლა გამოჩენასთან ერთად, შეხსენება, რომ მისი კავშირი სიცარიელესთან გაიხსნა და მუდმივი გახდა.</EmbracedVoidText>
+  <DisruptedLinkText>{PAWN_nameDef} კვლავ გამოჩნდა. {PAWN_pronoun} არის დაღლილი {PAWN_possessive}-ის ძალისხმევით, მაგრამ სხვაგვარად ჯანმრთელია.\n\nარხის სიცარიელემდე დახურვით, {PAWN_nameDef}-მა შეაჩერა სხვა არაბუნებრივი ფენომენების შეღწევა ჩვენს სამყაროში. ამ მხარეში მტრულად განწყობილი სუბიექტები მიწაზე დაეცნენ, უსიცოცხლოები.\n\n{PAWN_possessive}-ის გმირობის ზღაპრები აუცილებლად გავრცელდება შორს.</DisruptedLinkText>
+  <RewardFleshcraftingAbility>ხორცქსოვის ხელოვნება</RewardFleshcraftingAbility>
+  <RewardSlaughterAbility>დაკვლა</RewardSlaughterAbility>
+  <RewardShamblerControlAbility>შამბლერის კონტროლი</RewardShamblerControlAbility>
+
+  
+  <DuplicateSicknessLabel>დუბლიკატი ავადმყოფობა</DuplicateSicknessLabel>
+  <DuplicateSicknessText>{0_nameDef} და {0_possessive} დუბლიკატი თავს ცუდად გრძნობს. მათი მდგომარეობა, როგორც ჩანს, დუბლირების პროცესს უკავშირდება და უარესდება. ფსიქიკური კავშირი, რომელიც მათ აკავშირებს, იწვევს მათ ნელ-ნელა გონების დაკარგვას. მდგომარეობა არ გაუმჯობესდება, სანამ ერთ-ერთი მათგანი არ მოკვდება.</DuplicateSicknessText>
+
+  
+  <FrenziedAnimalsLabel>გაბრაზებული ცხოველები</FrenziedAnimalsLabel>
+  <FrenziedAnimalsText>კაცზე მონადირე {0}-ის შეკვრა შემოვიდა ტერიტორიაზე! ისინი მიიპყრო შენმა რიტუალმა. ისინი დაძვრებიან რეგიონში ჰუმანოიდულ ხორცზე სანადიროდ.\n\nისინი არ დაესხმიან კარებს, თუ არ დაინახავენ, რომ ვიღაც კარში გადის. დაიმალე შიგნით და უსაფრთხოდ იქნები. ისინი ასევე არ თავს დაესხმებიან გამორთული კოშკებს, ამიტომ გამორთეთ თქვენი კოშკები მათი გადასარჩენად.\n\n{0} დატოვებს ტერიტორიას ერთ ან ორ დღეში. შეგიძლიათ დაიმალოთ და დაელოდოთ მათ ან შეებრძოლოთ მათ.</FrenziedAnimalsText>
+
+  
+  <GhoulBetrayalLabel>გოლის ღალატი</GhoulBetrayalLabel>
+  <GhoulBetrayalText>{PAWN_nameDef} გააგიჟა {PAWN_possessive} უმი ხორცის შიმშილმა!</GhoulBetrayalText>
+  
+  
+  <DistressSignalLabel>უბედურების სიგნალი</DistressSignalLabel>
+  <DistressSignalText>თქვენ დააფიქსირეთ უბედურების სიგნალი {FACTION_name}-ის ახლომდებარე ბანაკიდან.\n\nგაბრაზებული ხმა ითხოვს სასწრაფო დახმარებას საფრთხისგან დასაცავად. ისინი სთავაზობენ ყველაფერს თავიანთ ბანაკში დახმარების სანაცვლოდ, მათ შორის ძლიერი არქოტექნოლოგიის ნატეხებს.\n\nროცა ხმა ცდილობს ახსნას საფრთხის ბუნება, სიგნალი კვდება.</DistressSignalText>
+  <DistressSignalAmbushLabel>სასიკვდილო ხაფანგი</DistressSignalAmbushLabel>
+  <DistressSignalAmbushText>ხორცის მხეცები ჩნდებიან ახლომდებარე ორმოდან!</DistressSignalAmbushText>
+
+  
+  <ChimeraAssaultLabel>ქიმერების მიახლოება</ChimeraAssaultLabel>
+  <ChimeraAssaultText>ცხოველთა მსგავსი ქიმერული ურჩხულის ჯგუფი გამოჩნდა იქვე.\n\nმოხეხებული მხეცები უყურებენ თქვენს კოლონიას და დაელოდებიან თავდასხმის შესაძლებლობას. ისინი ცრუმორწმუნეები არიან და პროვოცირების შემთხვევაში შეიძლება სამაგიეროს გადაუხადონ.</ChimeraAssaultText>
+
+  
+  <DarknessLiftingEarlyLetterLabel>სიბნელის მოხსნა</DarknessLiftingEarlyLetterLabel>
+  <DarknessLiftingEarlyLetterText>კოშმარული სვეტებიდან ბოლო ჩამოინგრა. არაბუნებრივი სიბნელე დაიწყო გაფანტვა. კოლონისტები სუფთა ჰაერზე შვებით ამოისუნთქებენ.</DarknessLiftingEarlyLetterText>
+  <PawnAttackedInDarknessLabel>{0_nameDef} თავს დაესხა</PawnAttackedInDarknessLabel>
+  <PawnAttackedInDarknessText>რაღაც სიბნელეში თავს დაესხა {0_nameDef}-ს!\n\nეს თავდასხმები გაგრძელდება მანამ, სანამ {0_pronoun} უსაფრთხოდ არ იქნება შუქზე.</PawnAttackedInDarknessText>
+  <NoctolAttackLetterLabel>ნოქტოლის შეტევა</NoctolAttackLetterLabel>
+  <NoctolAttackLetterText>სიბნელემ არევა დაიწყო. არაადამიანური მღელვარების ხმები გამოდის სადღაც მელნისფერი შავიდან.\n\nშავი, მწერების მსგავსი ნოქტოლები მალე სიბნელიდან თავს დაესხმებიან.</NoctolAttackLetterText>
+  <DarknessWarningLetterLabel>სიბნელე მალე</DarknessWarningLetterLabel>
+  <DarknessWarningLetterText>სიბნელე თითქმის აქ არის. უსაფრთხო იქნება მხოლოდ ის, ვინც პირდაპირ შუქზე იმყოფება ნათურებიდან, ჩირაღდნებიდან ან ანთებებით.\n\nკოლონისტების სინათლეში შესანარჩუნებლად, შეგიძლიათ შეზღუდოთ მათი მოძრაობა SCHEDULE ჩანართში დაშვებული ადგილების მინიჭებით.</DarknessWarningLetterText>
+  <DarknessWaveringLetterLabel>სიბნელე მერყევი</DarknessWaveringLetterLabel>
+  <DarknessWaveringLetterText>ნოქტოლიტის განადგურებისას, სიბნელეში სუსტი ბზარი ჩნდება, სანამ მეტი ჭვარტლი შავით ივსება.\n\nგაანადგურეთ დარჩენილი ნოქტოლიტები, რომ დაასრულოთ არაბუნებრივი სიბნელე.</DarknessWaveringLetterText>
+
+  
+  <LetterLabelShamblerSwarmArrived>შამბლერები უახლოვდებიან</LetterLabelShamblerSwarmArrived>
+  <LetterLabelShamblerArrived>შამბლერი უახლოვდება</LetterLabelShamblerArrived>
+  <LetterShamblerSwarmArrived>უახლოვდება {0}-ის ჯგუფი, რომელიც აფუჭებს, დამპალი გვამები. რაღაც არაადამიანურმა ძალამ გააცოცხლა ეს უსიცოცხლო სხეულები და მკვლელობამდე მიიყვანა.\n\nახლა ისინი დახეტიალებენ ამ ტერიტორიაზე. ადამიანს თუ ნახავენ, თავს დაესხმიან. თუ არა, რამდენიმე დღეში წავლენ.\n\nთუ შეგიძლიათ ერთის გადაღება, შეგიძლიათ შეისწავლოთ ის ანომალიის ცოდნისთვის.</LetterShamblerSwarmArrived>
+  <LetterShamblerArrived>მომაბეზრებელი, გახრწნილი გვამი ახლოვდება. რაღაც არაადამიანურმა ძალამ გააცოცხლა ეს უსიცოცხლო სხეული და მკვლელობამდე მიიყვანა.\n\nახლა ის დახეტიალდება მთელ ტერიტორიაზე. თუ ადამიანს ხედავს, თავს დაესხმება. თუ არა, ის რამდენიმე დღეში წავა.\n\nთუ მისი გადაღება შეგიძლიათ, შეგიძლიათ შეისწავლოთ ანომალიის ცოდნა.</LetterShamblerArrived>
+  <LetterLabelShamblerAnimalsArrived>{ANIMALKIND_label} შამბლერები</LetterLabelShamblerAnimalsArrived>
+  <LetterShamblerAnimalsArrived>აწეწილი, დამპალი {ANIMALKIND_label} გვამების ჯგუფი ახლოვდება. რაღაც არაადამიანურმა ძალამ გააცოცხლა ეს უსიცოცხლო სხეულები და მკვლელობამდე მიიყვანა.\n\nახლა ისინი დახეტიალებენ ამ ტერიტორიაზე. ადამიანს თუ ნახავენ, თავს დაესხმიან. თუ არა, რამდენიმე დღეში წავლენ.\n\nთუ შეგიძლიათ ერთის გადაღება, შეგიძლიათ შეისწავლოთ ის ანომალიის ცოდნისთვის.</LetterShamblerAnimalsArrived>
+
+  
+  <GhoulPodCrashLabel>სატრანსპორტო პოდის ავარია</GhoulPodCrashLabel>
+  <GhoulPodCrashText>სატრანსპორტო ღობე, რომელსაც მტაცებელი მტრული ღრიალი გადაჰქონდა, იქვე დაეშვა.\n\nმოღვაწე ამჟამად შოკშია, მაგრამ ის მალე გამოჯანმრთელდება და თავს დაესხმება ნებისმიერს, ვისაც ნახავს. მისი გადაღება შესაძლებელია ჰოლდინგის პლატფორმაზე შემდგომი შესწავლისთვის.\n\nგადაიღეთ ან მოკალით, სანამ გაიღვიძებს.</GhoulPodCrashText>
+  <GhoulPodCrashStartingPawnText>სატრანსპორტო ნაჭერი, რომელსაც მტაცებელი მტრული ღორი გადაჰქონდა, იქვე დაეშვა. უფრო მჭიდრო შემოწმებისას, როგორც ჩანს, ეს არის {PAWN_nameDef}, თქვენი ეკიპაჟის წინა წევრი.\n\nგულა ამჟამად შოკშია, მაგრამ ის მალე გამოჯანმრთელდება და თავს დაესხმება ყველას, ვისაც ნახავს. მისი გადაღება შესაძლებელია ჰოლდინგის პლატფორმაზე შემდგომი შესწავლისთვის.\n\nგადაიღეთ ან მოკალით, სანამ გაიღვიძებს.</GhoulPodCrashStartingPawnText>
+
+  
+  <LetterLabelEntityDiscovery>ხელმისაწვდომია ახალი კვლევა</LetterLabelEntityDiscovery>
+  <LetterTextEntityDiscoveryResearch>თქვენმა {ENTITY_definite}-ის აღმოჩენამ ახალი შეხედულებები გამოიღო. ახლა შეგიძლიათ შეისწავლოთ შემდეგი ანომალიის პროექტები</LetterTextEntityDiscoveryResearch>
+
+  
+  <NociosphereDefeatedLabel>ნოციოსფერო დამარცხდა</NociosphereDefeatedLabel>
+  <NociosphereDefeatedText>ნოციოსფერო განადგურდა და უკან დატოვა მრავალი ღირებული რესურსი.</NociosphereDefeatedText>
+  <NociosphereBecomingUnstableLabel>ნოციოსფეროს დესტაბილიზაცია</NociosphereBecomingUnstableLabel> 
+  <NociosphereBecomingUnstableText>ნოციოსფეროს ენერგეტიკულმა სქემამ დაიწყო ცვლილება და ადაპტაცია. 10 დღის განმავლობაში ის აღარ რეაგირებს ჩახშობაზე.\n\nნოციოსფერო გააქტიურდება, თუ არ ჩახშობა.</NociosphereBecomingUnstableText> 
+  <NociosphereBecomingUnstableTextExtraSendable>განკარგეთ ნოციოსფერო დიდი მტრული ძალის შესატევად გაგზავნით. როდესაც მისი შეტევა დასრულდება, ის სამუდამოდ გაემგზავრება.</NociosphereBecomingUnstableTextExtraSendable>
+  <NociosphereBecomingUnstableTextExtraNotSendable>შეისწავლეთ ნოციოსფერო, რათა იპოვოთ მისი განკარგვის გზა.</NociosphereBecomingUnstableTextExtraNotSendable>
+  <NociosphereUnstableLabel>ნოციოსფერო არასტაბილურია</NociosphereUnstableLabel>
+  <NociosphereUnstableText>ნოციოსფერო გახდა არასტაბილური და აღარ რეაგირებს ჩახშობაზე. როცა მისი აქტივობა 100%-ს მიაღწევს, ის გაიღვიძებს.</NociosphereUnstableText>
+  <NociosphereUnstableTextExtraSendable>განკარგეთ ნოციოსფერო დიდი მტრული ძალის შესატევად გაგზავნით. როდესაც მისი შეტევა დასრულდება, ის სამუდამოდ გაემგზავრება.</NociosphereUnstableTextExtraSendable> 
+  <NociosphereUnstableTextExtraNotSendable>მოემზადეთ ნოციოსფეროს შეტევისთვის.</NociosphereUnstableTextExtraNotSendable>
+
+  <UnnaturalCorpseArrivalLabel>უცნაური გვამი</UnnaturalCorpseArrivalLabel>
+  <UnnaturalCorpseArrivalText>გამოჩნდა ადამიანის არაბუნებრივი გვამი, თითქოს ჰაერისაგან.\n\nშემდგომი დათვალიერებისას გვამი {PAWN_nameDef}-ის იდენტურად გამოიყურება. მისი კანი ცვილისებრი და თბილია შეხებისას.\n\nშეისწავლეთ გვამი მის შესახებ მეტის გასაგებად.</UnnaturalCorpseArrivalText>
+
+  <GoldenCubeArrivalLabel>ოქროს კუბი</GoldenCubeArrivalLabel>
+  <GoldenCubeArrivalText>იქვე უცნაური კუბი დაეშვა. ის ოქროვით ბრწყინავს, მაგრამ დაკაწრვა შეუძლებელია. ეს არის მსუბუქი და თბილი შეხებით. როგორ უკრავს შუქი მის ზედაპირზე, მიმზიდველია.\n\n{PAWN_nameDef} კუბისკენ აუხსნელად მიზიდულობის გრძნობაა.\n\nშეისწავლეთ კუბი, რომ მეტი გაიგოთ მის შესახებ.</GoldenCubeArrivalText>
+
+  <VoidCuriosityLabel>უქმად ცნობისმოყვარეობა</VoidCuriosityLabel>
+  <VoidCuriosityText_Researched>{PAWN_nameDef}-მა დაიწყო სიცარიელეზე დაფიქსირება და სურს გამოიკვლიოს იგი სიცარიელის პროვოცირების რიტუალის გამოყენებით.\n\nგამოიყენეთ ბათილი პროვოცირების რიტუალი ერთეულების აღმოსაჩენად და დასაჭერად. დატყვევებული პირები შეიძლება შეისწავლოს ანომალიის კვლევითი პროექტების დასასრულებლად, ან დაუკავშირდეს ბიოფერიტის დამლაგებელს ბიოფერიტის წარმოქმნის მიზნით.\n\nგანათავსეთ ფსიქიკური რიტუალის ადგილი ბათილი პროვოცირების რიტუალის შესასრულებლად.</VoidCuriosityText_Researched>
+  <VoidCuriosityText_NotResearched>{PAWN_nameDef}-მა დაიწყო სიცარიელეზე დაფიქსირება და სურს გამოიკვლიოს იგი სიცარიელის პროვოცირების რიტუალის გამოყენებით.\n\nგამოიყენეთ ბათილი პროვოცირების რიტუალი ერთეულების აღმოსაჩენად და დასაჭერად. დატყვევებული პირები შეიძლება შეისწავლოს ანომალიის კვლევითი პროექტების დასასრულებლად, ან დაუკავშირდეს ბიოფერიტის მოსავალს ბიოფერიტის წარმოქმნის მიზნით.\n\nგამოიძიეთ ბათილი პროვოკაცია, შემდეგ მოათავსეთ ფსიქიკური რიტუალის ადგილი რიტუალის შესასრულებლად.</VoidCuriosityText_NotResearched>
+
+</LanguageData>

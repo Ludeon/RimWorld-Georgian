@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <MaxMentalBreakChance>{0} მაქსიმალური გონებრივი შესვენების შანსი</MaxMentalBreakChance>
+  <TomePolicy>ტომები</TomePolicy>
+
+  
+  <EntitiesSection>ერთეულები</EntitiesSection>
+  
+  
+  <UndiscoveredItemLabel>აღმოუჩენელი</UndiscoveredItemLabel>
+  <UndiscoveredItemDesc>ეს ნივთი ჯერ არ არის აღმოჩენილი.</UndiscoveredItemDesc>
+
+  
+  <MedGroupEntities>ერთეულები</MedGroupEntities>
+  <MedGroupEntitiesDesc>ანომალიური არსებები და მათი ვარიაციები.</MedGroupEntitiesDesc>
+
+  <MedGroupGhouls>გულები</MedGroupGhouls>
+  <MedGroupGhoulsDesc>გოლები, რომლებიც თქვენს კოლონიას ეკუთვნიან.</MedGroupGhoulsDesc>
+
+  <GhoulConfirmation>{PAWN_nameDef} ღორად გადაქცევა შეუქცევადია. {PAWN_pronoun} დარჩება ნახევრად შეგნებულ სისულელეში და შრომისუუნარო იქნება.\n\nდარწმუნებული ხართ, რომ გსურთ გადააქციოთ {PAWN_nameDef} გოლად?</GhoulConfirmation>
+
+  <RoomRequirementNoAnomalyBuildings>დაუშვებელია ანომალიური შენობები</RoomRequirementNoAnomalyBuildings>
+
+  <EntityCodex>ერთეულის კოდექსი</EntityCodex>
+  <EntityCodexGizmoTip>იხილეთ ყველა აღმოჩენილი ერთეული. აღმოაჩინეთ ახალი ობიექტები მონოლითის წინსვლისთვის და ახალი კვლევითი პროექტების გამოსავლენად.</EntityCodexGizmoTip>
+  <ResearchUnlocks>კვლევა განბლოკავს</ResearchUnlocks>
+  <EntityCodexDesc>ამ გვერდზე ჩამოთვლილია ყველა ცნობილი ერთეული, რომელიც დაკავშირებულია ბნელ სიცარიელესთან. აღმოაჩინეთ ახალი არსებები ფსიქიკური რიტუალის "ბათილი პროვოცირების" გამოყენებით. ახალი ობიექტების აღმოჩენა ავლენს ახალ კვლევით პროექტებს და საშუალებას გაძლევთ წინ წაიწიოთ ბათილი მონოლითი.</EntityCodexDesc>
+  <UndiscoveredEntity>აღმოუჩენელი არსება</UndiscoveredEntity>
+  <UndiscoveredEntityDesc>თქვენ არ გიპოვიათ ეს ერთეული.</UndiscoveredEntityDesc>
+  <ViewEntityCodex>ობიექტის კოდექსის ნახვა</ViewEntityCodex>
+
+</LanguageData>

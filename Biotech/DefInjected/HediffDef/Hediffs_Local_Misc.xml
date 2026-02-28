@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodfeederMark.description>ორი მცირე პუნქციური ჭრილობა.</BloodfeederMark.description>
+  <BloodfeederMark.label>სისხლის მიმწოდებლის ნიშანი</BloodfeederMark.label>
+  <BloodfeederMark.labelNoun>სისხლის მიმწოდებლის ნიშანი</BloodfeederMark.labelNoun>
+  <ImplantedIUD.description>ამ ინდივიდის საშვილოსნოში ჩაუნერგეს ლითონის პატარა მოწყობილობა, რომელიც ხელს უშლის ორსულობას. უმეტეს შემთხვევაში, ეს შეიძლება ქირურგიულად შეიცვალოს, მაგრამ არსებობს მუდმივი სტერილიზაციის შანსი.</ImplantedIUD.description>
+  <ImplantedIUD.label>იმპლანტირებული სპირალი</ImplantedIUD.label>
+  <ToxGasExposure.description>შხამიანი გაზის, მომწამვლელი ქიმიური გაზის ზემოქმედების შემდგომი შედეგები. ის წვავს ფილტვებს და თვალებს, რაც იწვევს დროებით ქოშინს და მხედველობის შემცირებას. ტოქსიკური გაზების მუდმივი ზემოქმედება იწვევს ტოქსიკურ დაგროვებას და საბოლოოდ სიკვდილს.</ToxGasExposure.description>
+  <ToxGasExposure.label>ტოქსიკური გაზი</ToxGasExposure.label>
+  <ToxGasExposure.stages.0.label>რბილი</ToxGasExposure.stages.0.label>
+  <ToxGasExposure.stages.1.label>ზომიერი</ToxGasExposure.stages.1.label>
+  <ToxGasExposure.stages.2.label>მძიმე</ToxGasExposure.stages.2.label>
+  <TubalLigation.description>ამ ინდივიდის რეპროდუქციული ნაწილები დაიხურა ფალოპის მილების დახურვით, რაც ხელს უშლის კვერცხუჯრედიდან საშვილოსნოში გადაადგილებას.</TubalLigation.description>
+  <TubalLigation.label>მილების ლიგირება</TubalLigation.label>
+  <Vasectomy.description>ამ არსების რეპროდუქციული ნაწილები გათიშულია ვაზ დეფერენსების, მილის, რომელიც სპერმას ურეთრამდე მიჰყავს, ამოჭრით და დალუქვით. უმეტეს შემთხვევაში, ეს შეიძლება ქირურგიულად შეიცვალოს, მაგრამ არსებობს მუდმივი სტერილიზაციის შანსი.</Vasectomy.description>
+  <Vasectomy.label>ვაზექტომია</Vasectomy.label>
+</LanguageData>

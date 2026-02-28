@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ranching_Central_AnimalMassPerCapita.stages.0.description>ჩვენ საერთოდ არ გვყავს ცხოველები! ეს არის ყველაფერი, რისი წინააღმდეგი ვარ.</Ranching_Central_AnimalMassPerCapita.stages.0.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.0.label>არა ცხოველები</Ranching_Central_AnimalMassPerCapita.stages.0.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.1.description>ძალიან ცოტა ცხოველი გვყავს ჩვენს კოლონიაში. ჩვენ ახლოსაც არ ვართ სწორი გზით ცხოვრებასთან.</Ranching_Central_AnimalMassPerCapita.stages.1.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.1.label>მწირი ცხოველები</Ranching_Central_AnimalMassPerCapita.stages.1.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.2.description>ჩვენს კოლონიაში ცოტა ცხოველი გვყავს. არ არის სწორი.</Ranching_Central_AnimalMassPerCapita.stages.2.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.2.label>რამდენიმე ცხოველი</Ranching_Central_AnimalMassPerCapita.stages.2.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.3.description>კარგია აქ ცხოველების მოშენება, თუმცა მეტი უკეთესი იქნება.</Ranching_Central_AnimalMassPerCapita.stages.3.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.3.label>ზოგიერთი ცხოველი</Ranching_Central_AnimalMassPerCapita.stages.3.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.4.description>მშვენიერია, რომ აქ უამრავ ცხოველს ვზრდით, თუმცა კიდევ რამდენიმე არ დააზარალებს.</Ranching_Central_AnimalMassPerCapita.stages.4.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.4.label>უამრავი ცხოველი</Ranching_Central_AnimalMassPerCapita.stages.4.label>
+  <Ranching_Central_AnimalMassPerCapita.stages.5.description>ჩვენი რანჩი აყვავდება. ეს არის სწორი გზა.</Ranching_Central_AnimalMassPerCapita.stages.5.description>
+  <Ranching_Central_AnimalMassPerCapita.stages.5.label>ტონა ცხოველი</Ranching_Central_AnimalMassPerCapita.stages.5.label>
+  <Ranching_SowedPlant.stages.0.description>დავთესე ადამიანის საკვები მცენარე. არასწორი იყო - ადამიანებმა უნდა ჭამდნენ ცხოველები, ცხოველებმა კი ბუნებისგან შექმნილი მცენარეები.</Ranching_SowedPlant.stages.0.description>
+  <Ranching_SowedPlant.stages.0.label>დათესეს ადამიანის საკვები მცენარე</Ranching_SowedPlant.stages.0.label>
+</LanguageData>

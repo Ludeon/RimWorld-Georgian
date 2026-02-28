@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Alzheimers.description>ტვინის დაავადება, რომელიც ჩვეულებრივ ასოცირდება დაბერებასთან. ალცჰეიმერის დაავადება იწვევს აზროვნების და დამახსოვრების უნარს პროგრესულ დეგრადაციას. ცნობილია, რომ პაციენტები ივიწყებენ ახლო ნათესავებს და ზოგჯერ დაბნეულნი ტრიალებენ.</Alzheimers.description>
+  <Alzheimers.label>ალცჰეიმერის</Alzheimers.label>
+  <Alzheimers.stages.0.label>მცირეწლოვანი</Alzheimers.stages.0.label>
+  <Alzheimers.stages.1.label>მცირეწლოვანი</Alzheimers.stages.1.label>
+  <Alzheimers.stages.2.label>მაიორი</Alzheimers.stages.2.label>
+  <Alzheimers.stages.3.label>მაიორი</Alzheimers.stages.3.label>
+  <Asthma.description>ფილტვებში სასუნთქი გზების ხანგრძლივი ანთებითი დაავადება. ის მოითხოვს რეგულარულ მკურნალობას სიმპტომების თავიდან ასაცილებლად.</Asthma.description>
+  <Asthma.label>ასთმა</Asthma.label>
+  <Asthma.stages.0.label>მცირეწლოვანი</Asthma.stages.0.label>
+  <Asthma.stages.1.label>მაიორი</Asthma.stages.1.label>
+  <Asthma.stages.2.label>მაიორი</Asthma.stages.2.label>
+  <BadBack.description>დეგრადაცია ზურგის სვეტში და მიმდებარე კუნთებში. ეს ართულებს მოძრაობას და შეუფერხებლად მოხრას.</BadBack.description>
+  <BadBack.label>ცუდი ზურგი</BadBack.label>
+  <BadBack.labelNoun>ცუდი ზურგი</BadBack.labelNoun>
+  <Blindness.description>სრული უუნარობა.</Blindness.description>
+  <Blindness.label>სიბრმავე</Blindness.label>
+  <Carcinoma.description>სიმსივნური ქსოვილის კვანძი. მკურნალობის გარეშე კარცინომა დროთა განმავლობაში გაიზრდება, სიმპტომებს გააუარესებს და საბოლოოდ პაციენტს მოკლავს.\n\nგამოცდილ ექიმს შეუძლია სიმსივნის ამოჭრა ოპერაციით.</Carcinoma.description>
+  <Carcinoma.label>კარცინომა</Carcinoma.label>
+  <Carcinoma.labelNoun>კარცინომა</Carcinoma.labelNoun>
+  <Carcinoma.stages.0.label>მცირეწლოვანი</Carcinoma.stages.0.label>
+  <Carcinoma.stages.1.label>მცირეწლოვანი</Carcinoma.stages.1.label>
+  <Carcinoma.stages.2.label>მაიორი</Carcinoma.stages.2.label>
+  <Carcinoma.stages.3.label>მაიორი</Carcinoma.stages.3.label>
+  <Carcinoma.stages.4.label>უკიდურესი</Carcinoma.stages.4.label>
+  <Carcinoma.stages.5.label>უკიდურესი</Carcinoma.stages.5.label>
+  <Cataract.description>რძისებრი გაუმჭვირვალობა თვალში. კატარაქტა აუარესებს მხედველობას.</Cataract.description>
+  <Cataract.label>კატარაქტა</Cataract.label>
+  <Cataract.labelNoun>კატარაქტა</Cataract.labelNoun>
+  <Dementia.description>ნერვული დეგრადაცია, რაც იწვევს აზროვნების და დამახსოვრების უნარს. დემენციას სხვადასხვა მიზეზი აქვს, მათ შორის დაბერება, სპეციფიკური დაავადებები და ტოქსინები.</Dementia.description>
+  <Dementia.label>დემენცია</Dementia.label>
+  <Frail.description>კუნთების და ძვლის სიმკვრივის გენერალიზებული დაკარგვა.</Frail.description>
+  <Frail.label>სუსტი</Frail.label>
+  <Frail.labelNoun>სისუსტე</Frail.labelNoun>
+  <HearingLoss.description>მშვიდი ბგერების მოსმენის შეუძლებლობა კოხლეაში თმის უჯრედების დეგრადაციის გამო.</HearingLoss.description>
+  <HearingLoss.label>სმენის დაკარგვა</HearingLoss.label>
+  <HeartArteryBlockage.description>გულის ერთ-ერთი კრიტიკული არტერიის ბლოკირება. გულის არტერიის ბლოკირება შემთხვევით იწვევს გულის შეტევას.</HeartArteryBlockage.description>
+  <HeartArteryBlockage.label>არტერიის ბლოკირება</HeartArteryBlockage.label>
+  <HeartArteryBlockage.labelNoun>არტერიის ბლოკირება</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.stages.0.label>მცირეწლოვანი</HeartArteryBlockage.stages.0.label>
+  <HeartArteryBlockage.stages.1.label>მცირეწლოვანი</HeartArteryBlockage.stages.1.label>
+  <HeartArteryBlockage.stages.2.label>მაიორი</HeartArteryBlockage.stages.2.label>
+  <HeartArteryBlockage.stages.3.label>მაიორი</HeartArteryBlockage.stages.3.label>
+  <HeartArteryBlockage.stages.4.label>უკიდურესი</HeartArteryBlockage.stages.4.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BabyBorn.stages.0.description>ჩემი ბავშვი ძალიან დიდ სიხარულს მანიჭებს. ჩემი პატარასთვის დედამიწას და ცას გადავძრავდი.</BabyBorn.stages.0.description>
+  <BabyBorn.stages.0.label>{0} დაიბადა ჯანმრთელი</BabyBorn.stages.0.label>
+  <FedOn.stages.0.description>რაღაც პირუტყვივით დამერღვევა სისხლისმჭამელი.</FedOn.stages.0.description>
+  <FedOn.stages.0.label>იკვებება {0}-ით</FedOn.stages.0.label>
+  <IngestedHemogenPack.stages.0.description>მე მივიღე ჰემოგენის პაკეტი. ამან შეიძლება ცოცხალი შემინარჩუნოს, მაგრამ ეს აბსოლუტურად ამაზრზენი იყო.</IngestedHemogenPack.stages.0.description>
+  <IngestedHemogenPack.stages.0.label>გადაყლაპული ჰემოგენის პაკეტი</IngestedHemogenPack.stages.0.label>
+  <Miscarried.stages.0.description>შვილი დავკარგე.</Miscarried.stages.0.description>
+  <Miscarried.stages.0.label>გაუცრუვდა</Miscarried.stages.0.label>
+  <PartnerMiscarried.stages.0.description>ჩემი შვილის ისტორია მის დაწყებამდე დასრულდა.</PartnerMiscarried.stages.0.description>
+  <PartnerMiscarried.stages.0.label>{0} გაუქმდა</PartnerMiscarried.stages.0.label>
+  <PregnancyEnded.stages.0.description>დამშვიდებული ვარ, რომ ორსულად აღარ ვარ.</PregnancyEnded.stages.0.description>
+  <PregnancyEnded.stages.0.label>ორსულობა დასრულდა</PregnancyEnded.stages.0.label>
+  <PregnancyTerminated.stages.0.description>ორსულობა შეწყდა.</PregnancyTerminated.stages.0.description>
+  <PregnancyTerminated.stages.0.label>ორსულობა შეწყდა</PregnancyTerminated.stages.0.label>
+  <PregnancyTerminated.stages.1.description>ორსულობა შეწყდა.</PregnancyTerminated.stages.1.description>
+  <PregnancyTerminated.stages.1.label>ორსულობა შეწყდა</PregnancyTerminated.stages.1.label>
+  <PregnancyTerminated.stages.2.description>ორსულობა შეწყდა.</PregnancyTerminated.stages.2.description>
+  <PregnancyTerminated.stages.2.label>ორსულობა შეწყდა</PregnancyTerminated.stages.2.label>
+  <PsychicBondTorn.stages.0.description>ჩემი ფსიქიკური კავშირი {OTHERPAWN}-თან დაიშალა. ვგრძნობ, რომ ჩემი გონებისა და ემოციების ნაწილი აკლია.</PsychicBondTorn.stages.0.description>
+  <PsychicBondTorn.stages.0.label>მოწყვეტილი ფსიქიკური კავშირი ({0})</PsychicBondTorn.stages.0.label>
+  <Stillbirth.stages.0.description>ჩემი შვილი მშობიარობის დროს გარდაიცვალა.</Stillbirth.stages.0.description>
+  <Stillbirth.stages.0.label>მკვდრადშობადობა</Stillbirth.stages.0.label>
+  <XenogermHarvested_Prisoner.stages.0.description>მათ ამოიღეს ჩემი გენები, თითქოს ლაბორატორიული არსება ვარ.</XenogermHarvested_Prisoner.stages.0.description>
+  <XenogermHarvested_Prisoner.stages.0.label>აღებული გენები</XenogermHarvested_Prisoner.stages.0.label>
+</LanguageData>

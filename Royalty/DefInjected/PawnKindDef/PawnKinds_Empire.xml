@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Empire_Common_Laborer.label>იმპერიული მუშაკი</Empire_Common_Laborer.label>
+  <Empire_Common_Lodger.label>იმპერიის მოქალაქე</Empire_Common_Lodger.label>
+  <Empire_Common_Trader.label>იმპერიული მოვაჭრე</Empire_Common_Trader.label>
+  <Empire_Fighter_Cataphract.label>კატაფრაქტი</Empire_Fighter_Cataphract.label>
+  <Empire_Fighter_Champion.label>ჩემპიონი</Empire_Fighter_Champion.label>
+  <Empire_Fighter_Grenadier.label>იმპერიული გრენადერი</Empire_Fighter_Grenadier.label>
+  <Empire_Fighter_Janissary.label>იანიჩარი</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_StellicGuardMelee.label>სტელიკი მცველი</Empire_Fighter_StellicGuardMelee.label>
+  <Empire_Fighter_StellicGuardRanged.label>სტელის მცველი</Empire_Fighter_StellicGuardRanged.label>
+  <Empire_Fighter_Trooper.label>ჯარისკაცი</Empire_Fighter_Trooper.label>
+  <Empire_Royal_Acolyte.label>ასულიტი</Empire_Royal_Acolyte.label>
+  <Empire_Royal_Baron.label>ბარონი</Empire_Royal_Baron.label>
+  <Empire_Royal_Baron.labelFemale>ბარონესა</Empire_Royal_Baron.labelFemale>
+  <Empire_Royal_Bestower.label>მჩუქნის</Empire_Royal_Bestower.label>
+  <Empire_Royal_Consul.label>კონსული</Empire_Royal_Consul.label>
+  <Empire_Royal_Count.label>არქონი</Empire_Royal_Count.label>
+  <Empire_Royal_Duke.label>დომინუსი</Empire_Royal_Duke.label>
+  <Empire_Royal_Knight.label>რაინდი</Empire_Royal_Knight.label>
+  <Empire_Royal_Knight.labelFemale>ქალბატონი</Empire_Royal_Knight.labelFemale>
+  <Empire_Royal_NobleWimp.label>კეთილშობილი</Empire_Royal_NobleWimp.label>
+  <Empire_Royal_Praetor.label>პრეტორი</Empire_Royal_Praetor.label>
+  <Empire_Royal_Stellarch.label>ვარსკვლავიანი</Empire_Royal_Stellarch.label>
+  <Empire_Royal_Yeoman.label>ახალბედა</Empire_Royal_Yeoman.label>
+</LanguageData>

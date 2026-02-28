@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SlaughteredFish_Disapproved.stages.0.description>თევზის მოკვლა მომიწია. მახინჯი საქმე იყო.</SlaughteredFish_Disapproved.stages.0.description>
+  <SlaughteredFish_Disapproved.stages.0.label>დაკლული თევზი</SlaughteredFish_Disapproved.stages.0.label>
+  <SlaughteredFish_Know_Disapproved.stages.0.label>მოკლა თევზი</SlaughteredFish_Know_Disapproved.stages.0.label>
+  <SlaughteredFish_Know_Disapproved_Mood.stages.0.description>ვიღაც თევზს კლავს! ჩვენ უნდა დავიცვათ ეს ლამაზი არსებები.</SlaughteredFish_Know_Disapproved_Mood.stages.0.description>
+  <SlaughteredFish_Know_Disapproved_Mood.stages.0.label>დაკლული თევზი</SlaughteredFish_Know_Disapproved_Mood.stages.0.label>
+  <SlaughteredFish_Know_Prohibited.stages.0.label>მოკლა თევზი</SlaughteredFish_Know_Prohibited.stages.0.label>
+  <SlaughteredFish_Know_Prohibited_Mood.stages.0.description>ვიღაც თევზს კლავს! ჩვენი მოლიპულ ძმები და დები კვდებიან.</SlaughteredFish_Know_Prohibited_Mood.stages.0.description>
+  <SlaughteredFish_Know_Prohibited_Mood.stages.0.label>დაკლული თევზი</SlaughteredFish_Know_Prohibited_Mood.stages.0.label>
+  <SlaughteredFish_Sacred.stages.0.description>თევზაობა სწორ გზაზე მაყენებს – სულ ცოტა ხნით მაინც.</SlaughteredFish_Sacred.stages.0.description>
+  <SlaughteredFish_Sacred.stages.0.label>ცოტა ხნის წინ თევზაობდა</SlaughteredFish_Sacred.stages.0.label>
+  <SlaughteredFish_Sacred_NoFish.stages.0.description>ვისურვებდი სადმე ვიყოთ, სადაც თევზაობა შეგვეძლო.</SlaughteredFish_Sacred_NoFish.stages.0.description>
+  <SlaughteredFish_Sacred_NoFish.stages.0.label>არ არის საკმარისი თევზი</SlaughteredFish_Sacred_NoFish.stages.0.label>
+</LanguageData>

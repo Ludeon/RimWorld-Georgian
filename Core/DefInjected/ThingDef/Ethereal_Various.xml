@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Blight.label>სიწითლე</Blight.label>
+  <Explosion.label>აფეთქება</Explosion.label>
+  <PawnFlyer.label>მფრინავი</PawnFlyer.label>
+  <PawnGroundSpawner.label>დარღვეული ნიადაგი</PawnGroundSpawner.label>
+  <RadialTrigger.label>სიახლოვის გამომწვევი</RadialTrigger.label>
+  <RectTrigger.label>სწორი გამომწვევი</RectTrigger.label>
+  <Tornado.label>ტორნადო</Tornado.label>
+  <TriggerContainerEmptied.label>ტრიგერის კონტეინერი დაცარიელდა</TriggerContainerEmptied.label>
+  <TriggerUnfogged.label>ჩახმახი დაბურული</TriggerUnfogged.label>
+  <TunnelHiveSpawner.label>გვირაბი</TunnelHiveSpawner.label>
+</LanguageData>

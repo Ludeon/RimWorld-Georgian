@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <StatsReport_Slave>მულტიპლიკატორი დამონებისთვის (დაბალი მოტივაცია)</StatsReport_Slave>
+  <StatsReport_Terror>ტერორის კომპენსაცია</StatsReport_Terror>
+  <StatsReport_LeaderOffset>ფრაქციის ლიდერის ბონუსი</StatsReport_LeaderOffset>
+  <StatsReport_OccupiedCorpseCasket>შეიცავს გვამს</StatsReport_OccupiedCorpseCasket>
+
+  <StatsReport_InstalledRelicConvertPowerFactor>კონვერტაციის სიმძლავრის ბონუსი რუკაზე</StatsReport_InstalledRelicConvertPowerFactor>
+  <StatsReport_RelicAtRitualMoodBonus>განწყობის ბონუსი ოთახში რიტუალებისთვის</StatsReport_RelicAtRitualMoodBonus>
+
+  <Stat_Thing_RelicOf_Name>რელიქვია</Stat_Thing_RelicOf_Name>
+  <Stat_Thing_RelicOf_Desc>იდეოლოგიას ეკუთვნის ეს რელიქვია.</Stat_Thing_RelicOf_Desc>
+  <Stat_Thing_RelicStatus>რელიქვიის სტატუსი</Stat_Thing_RelicStatus>
+  <Stat_Thing_RelicStatus_Desc>რელიგიური ან იდეოლოგიური მნიშვნელობის ფართოდ მოთხოვნადი ნივთი.</Stat_Thing_RelicStatus_Desc>
+
+  <Stat_Thing_RelatedToIdeos_Name>დაკავშირებული</Stat_Thing_RelatedToIdeos_Name>
+  <Stat_Thing_RelatedToIdeos_Desc>იდეოლიგიებს ეს ნივთი ეკუთვნის.</Stat_Thing_RelatedToIdeos_Desc>
+
+  <StatsReports_HasRelic>რელიქვიის გამართვა</StatsReports_HasRelic>
+
+  <StatsReport_BlindPsychicSensitivityOffset>ბრმა ბონუსი</StatsReport_BlindPsychicSensitivityOffset>
+  <StatsReport_SightPsychicSensitivityOffset>მხედველობის ბონუსი</StatsReport_SightPsychicSensitivityOffset>
+
+  <Stat_Thing_StyleDominanceCategory>დომინანტური სტილი</Stat_Thing_StyleDominanceCategory>
+  <Stat_Thing_StyleDominanceCategoryDesc>ამ ობიექტის მიერ წარმოდგენილი სტილი. ეს სტილი შესაძლოა დაკავშირებული იყოს ზოგიერთ იდეოლიგიასთან. სხვადასხვა ადამიანი განსხვავებულად რეაგირებს გარკვეულ სტილზე, მათი იდეოლიგიური რწმენის მიხედვით.</Stat_Thing_StyleDominanceCategoryDesc>
+  <Stat_Thing_IdeosSatisfied>აკმაყოფილებს იდეოლიგიებს</Stat_Thing_IdeosSatisfied>
+  <Style>სტილი</Style>
+
+  <Stat_Pawn_DarknessCombatShooting_Name>სიბნელეში სროლის სიზუსტე</Stat_Pawn_DarknessCombatShooting_Name>
+  <Stat_Pawn_DarknessCombatShooting_Desc>ოფსეტი გამოიყენება სამიზნეზე დარტყმის შანსზე, სამიზნის სინათლის დონის მიხედვით.</Stat_Pawn_DarknessCombatShooting_Desc>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>სიბნელის melee ავუარე შანსი</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>ოფსეტი გამოყენებულია melee Dodge-ის შანსზე, ადგილობრივი განათების დონის მიხედვით.</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <Stat_Pawn_DarknessMeleeHitChance_Name>სიბნელის melee მოხვდა შანსი</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>ოფსეტი გამოყენებულია მელეის დარტყმის შანსზე სამიზნის სინათლის დონის მიხედვით.</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <Stat_PawnDarkness_FollowingOffset>შემდეგი კომპენსაციები შეიძლება გამოყენებულ იქნას</Stat_PawnDarkness_FollowingOffset>
+
+  <StatsReport_BiosculptingSpeedFactor>ბიოსკულპტურის სიჩქარე</StatsReport_BiosculptingSpeedFactor>
+
+  </LanguageData>

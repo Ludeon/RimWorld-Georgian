@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <LetterLabelAnimalInsanitySingle>შეშლილი {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
+  <AnimalInsanitySingle>ადგილობრივი {ANIMAL_label} გაგიჟდა. ის თავს დაესხმება ყველას, ვისაც ხედავს.</AnimalInsanitySingle>
+  <LetterLabelAnimalInsanityMultiple>შეშლილი {0}</LetterLabelAnimalInsanityMultiple>
+  <AnimalInsanityMultiple>ერთგვარმა ფსიქიკურმა ტალღამ მოიცვა პეიზაჟი. თქვენი კოლონისტები კარგად არიან, მაგრამ...\n\nროგორც ჩანს, ამ მხარეში ბევრი {0} გაგიჟდა.</AnimalInsanityMultiple>
+
+  <LetterLabelCropBlight>ბლატი: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
+  <LetterCropBlight>ჭინჭრის ციება აღმოჩენილია {PLANTDEF_labelPlural}-ზე!
+\nდაზიანებული მცენარეები უნდა მოჭრათ ან დაწვათ მანამ, სანამ ბლეტი გავრცელდება.</LetterCropBlight>
+
+  <LetterLabelMiracleHeal>სასწაული</LetterLabelMiracleHeal>
+  <MiracleHeal>{0}-მა განიცადა სასწაულებრივი აღდგენა!</MiracleHeal>
+
+  
+  <EnemyRaidLeaderPresent>ერთ-ერთი {LEADER_factionPawnsPlural} - {LEADER_labelShort}, ფრაქციის ლიდერია.</EnemyRaidLeaderPresent>
+
+  
+  <FriendlyRaidLeaderPresent>ერთ-ერთი {LEADER_factionPawnsPlural} - {LEADER_labelShort}, ფრაქციის ლიდერია.</FriendlyRaidLeaderPresent>
+
+  <LetterLabelRefugeePodCrash>სატრანსპორტო პოდის ავარია</LetterLabelRefugeePodCrash>
+  <RefugeePodCrash>{PAWN_titleIndef}, სახელად {PAWN_nameDef}, მახლობლად სატრანსპორტო ჭურჭელში ეჯახება. თუ {PAWN_pronoun} გადარჩება დარტყმას, {PAWN_pronoun} მძიმედ დაიჭრება.</RefugeePodCrash>
+  <RefugeePodCrash_Child>{PAWN_nameDef} არის {AGE}-ის შვილი.</RefugeePodCrash_Child>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} არ არის დაკავშირებული არცერთ ფრაქციასთან. შეგიძლიათ გადაარჩინოთ {PAWN_objective} და იმედი გქონდეთ, რომ {PAWN_pronoun} შეუერთდება თავისუფლად, ან დაიჭიროთ {PAWN_objective} რეკრუტირების ან მონობის მიზნით.</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} არის თქვენი მტრის {PAWN_factionName}. თქვენ შეგიძლიათ გადაიღოთ {PAWN_objective} რეკრუტირების ან მონობის მიზნით.</RefugeePodCrash_Hostile>
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} არის {PAWN_factionName}-დან. თუ {PAWN_pronoun} უსაფრთხოდ დაბრუნდება სახლში, {PAWN_pronoun} გაავრცელებს კეთილგანწყობას თქვენს ფრაქციებს შორის.\n\nთქვენ ასევე შეგიძლიათ დაიჭიროთ {PAWN_objective} რეკრუტირების ან მონობის მიზნით, მაგრამ ეს გააბრაზებს {PAWN_possessive} ფრაქციას.</RefugeePodCrash_NonHostile>
+
+  <LetterLabelWandererJoins>Wanderer უერთდება: {PAWN_nameDef}</LetterLabelWandererJoins>
+  <LetterWandererJoins>{PAWN_title}, სახელად {PAWN_nameDef}, ჩამოვიდა და სურს შეუერთდეს კოლონიას.\n\n[PAWN_pronoun] მზადაა წვლილი შეიტანოს, მაგრამ არ დატოვებს ნებაყოფლობით და აცხადებს, რომ სხვაგან წასასვლელი არსად აქვს. შეგიძლიათ აირჩიოთ {PAWN_objective}-ის გამორთვა და {PAWN_objective}-ის გაგზავნა. თუმცა, თქვენი კოლონისტები შეწუხდებიან გაჭირვებაში მყოფი ადამიანის გაგზავნით.</LetterWandererJoins>
+
+  <LetterLabelCargoPodCrash>ტვირთის ღვეზელები</LetterLabelCargoPodCrash>
+  <CargoPodCrash>თქვენ აღმოაჩინეთ ტვირთის გროვა, რომლებიც ახლოს იშლება.\n\nშესაძლოა, ნამსხვრევებში იპოვნოთ რაიმე სასარგებლო.</CargoPodCrash>
+
+  <AnElectricalConduit>ელექტრო მილსადენი</AnElectricalConduit>
+  <ShortCircuit>{0}-ის გაუმართაობამ გამოიწვია მოკლე ჩართვა.</ShortCircuit>
+  <ShortCircuitStartedFire>{0}-ის გაუმართაობამ გამოიწვია მოკლე ჩართვა, რამაც გამოიწვია ხანძარი.</ShortCircuitStartedFire>
+  <ShortCircuitDischargedEnergy>დაკავშირებულ ბატარეებში მთელი {0} Wd ენერგია გამორთულია ელექტრული აფეთქების შედეგად.</ShortCircuitDischargedEnergy>
+  <ShortCircuitWasLarge>ამ დიდმა ძალამ შექმნა მნიშვნელოვანი ზომის აფეთქება.</ShortCircuitWasLarge>
+  <ShortCircuitWasHuge>ეს მართლაც დიდი აფეთქებაა. ვაა.</ShortCircuitWasHuge>
+
+  <TraderArrival>იქვე სავაჭრო გემი გადის.\n\nისინი ცნობილია როგორც {0}. ისინი არიან {1}.\n\n{2}</TraderArrival>
+  <TraderArrivalFromFaction>ისინი დაკავშირებულია {FACTION_name}-თან.</TraderArrivalFromFaction>
+  <TraderArrivalNoFaction>ისინი არცერთ ფრაქციასთან არ არიან დაკავშირებული.</TraderArrivalNoFaction>
+
+  <SingleTravelerPassing>{PAWN_title} {1}-დან გადის. {PAWN_pronoun}-ს ჰქვია {PAWN_nameFull}.</SingleTravelerPassing>
+  <GroupTravelersPassing>მოგზაურთა ჯგუფი {0}-დან გადის.</GroupTravelersPassing>
+
+  <LetterLabelSingleVisitorArrives>სტუმარი</LetterLabelSingleVisitorArrives>
+  <SingleVisitorArrives>{PAWN_titleIndef} {1}-დან სტუმრობს კოლონიას.\n\n{PAWN_pronoun}-ს ჰქვია {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrivesTraderInfo>როგორც ჩანს, {PAWN_pronoun}-ს აქვს რამდენიმე ნივთი ვაჭრობისთვის.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} ფრაქციის ლიდერია.</SingleVisitorArrivesLeaderInfo>
+  <LetterLabelGroupVisitorsArrive>სტუმრები</LetterLabelGroupVisitorsArrive>
+  <GroupVisitorsArrive>ჯგუფი {0}-დან სტუმრობს კოლონიას.{1}{2}</GroupVisitorsArrive>
+  <GroupVisitorsArriveTraderInfo>როგორც ჩანს, მათ აქვთ რამდენიმე ნივთი ვაჭრობისთვის.</GroupVisitorsArriveTraderInfo>
+  <GroupVisitorsArriveLeaderInfo>ერთ-ერთი სტუმარი - {1_labelShort}, ფრაქციის ლიდერია.</GroupVisitorsArriveLeaderInfo>
+  <VisitorsLeaving>{0}-ის სტუმრები მიდიან.</VisitorsLeaving>
+
+  <LetterLabelManhunterPackArrived>Manhunter პაკეტი</LetterLabelManhunterPackArrived>
+  <ManhunterPackArrived>კაცზე მონადირე {0}-ის შეკვრა შემოვიდა ტერიტორიაზე! სკარიას სახელით ცნობილი დაავადებით გაგიჟებულები დახეტიალობენ რეგიონში, ნადირობენ ჰუმანოიდ ხორცზე.\n\nისინი არ დაესხმიან თავს კარებს, თუ არ დაინახავენ, რომ ვიღაც კარში გადის. დაიმალე შიგნით და უსაფრთხოდ იქნები. ისინი ასევე არ თავს დაესხმებიან გამორთული კოშკებს, ამიტომ გამორთეთ თქვენი კოშკები მათი გადასარჩენად.\n\n{0} დატოვებს ტერიტორიას ერთ ან ორ დღეში. შეგიძლიათ დამალოთ და დაელოდოთ მათ, ან შეებრძოლოთ მათ.</ManhunterPackArrived>
+  
+  
+  <MessageAnimalInsanityPulse>{SOURCE_label}-მა გამოუშვა ფსიქიკური პულსი, რომელმაც ახლომდებარე ცხოველები გააგიჟა.</MessageAnimalInsanityPulse>
+  <LetterShipPartDroveColonistInsane>გემის ჩამოვარდნილმა ნაწილმა ფოკუსირებული ფსიქიკური პულსი გამოუშვა, რამაც კოლონისტი {0} გაგიჟდა.</LetterShipPartDroveColonistInsane>
+  <AwokeDaysAgo>გაიღვიძა {0} დღის წინ</AwokeDaysAgo>
+  <ActivatedDaysAgo>გააქტიურდა {0} დღის წინ</ActivatedDaysAgo>
+  <OpenedDaysAgo>გაიხსნა {0} დღის წინ</OpenedDaysAgo>
+  <PsychicDroneLevel>ფსიქიკური დრონის დონე: {0}</PsychicDroneLevel>
+  <LetterLabelPsychicDroneLevelIncreased>დრონი ძლიერდება</LetterLabelPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>ჩამოვარდნილი გემის ნაწილი ახლა უფრო მძლავრ ფსიქიკურ თვითმფრინავს ასხივებს. ყველა {0} ადამიანის მსგავსი ამ მხარეში ახლა უფრო შეწუხებულად, შეშინებულად და პარანოიდულად გრძნობს თავს.</LetterPsychicDroneLevelIncreased>
+  
+  
+  <LetterLabelAgentRevealed>აგენტი</LetterLabelAgentRevealed>
+  <LetterAgentRevealed>{0} გამოვლინდა, როგორც თქვენი მტრის {1} აგენტი.\n\nისინი ახლა გაქცევას ცდილობენ.</LetterAgentRevealed>
+
+  
+  <LetterLabelBeaversArrived>თახვები!</LetterLabelBeaversArrived>
+  <BeaversArrived>მშიერი ანბანის ჯგუფი ახლახან მოვიდა.\n\nსცადეთ მათი აღმოფხვრა, სანამ ისინი გაანადგურებენ ხის ბოლო წყაროს რეგიონში.</BeaversArrived>
+  
+  
+  <LetterLabelAnimalSelfTame>{1_kind} თვითმოთვინიერებული</LetterLabelAnimalSelfTame>
+  <LetterAnimalSelfTame>{0} გახდა მოთვინიერებული.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTameAndNameNumerical>{0} გახდა მოთვინიერებული. ახლა ის დასახელებულია {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndName>{0} გახდა მოთვინიერებული. კოლონისტებმა გადაწყვიტეს დაარქვეს მას {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
+
+  
+  <LetterLabelFarmAnimalsWanderIn>{0} შეუერთდი</LetterLabelFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>{0}-ის ჯგუფი, მიტოვებული ან დაკარგული, დახეტიალდა ამ მხარეში.\n\nისინი, როგორც ჩანს, მიჩვეული არიან ადამიანებთან კონტაქტს და უერთდებიან კოლონიას.</LetterFarmAnimalsWanderIn>
+  
+  
+  <LetterLabelThrumboPasses>იშვიათი თრომბოები</LetterLabelThrumboPasses>
+  <LetterThrumboPasses>თრომბოების პატარა ნახირი დახეტიალდა ამ მხარეში.\n\nბუნებით მშვიდი, ეს იშვიათი არსებები უკიდურესად სახიფათოა, როცა ხვდებიან. ზოგიერთი მოვაჭრე მზადაა გადაიხადოს დიდი თანხა მათი ძვირფასი ტყავისა და რქისთვის.\n\nთრომბოები ტერიტორიას რამდენიმე დღეში დატოვებენ.</LetterThrumboPasses>
+  
+  
+  <LetterLabelTraderCaravanArrival>{1} {0}-დან</LetterLabelTraderCaravanArrival>
+  <LetterTraderCaravanArrival>{0}-ის ქარავანი ახლოვდება. ისინი არიან {1}.</LetterTraderCaravanArrival>
+  <LetterCaravanArrivalCommonWarning>გამგზავრებამდე ისინი კოლონიის ირგვლივ გარკვეული დროით დაკიდებენ. თქვენ შეგიძლიათ შეუტიოთ მათ - მაგრამ ეს გააბრაზებს მათ ფრაქციას!</LetterCaravanArrivalCommonWarning>
+    
+  
+  <RansomDemandTitle>გამოსასყიდის მოთხოვნა {0}-ზე</RansomDemandTitle>
+  <RansomDemand>{1} დაგიკავშირდებით რადიოთი. ისინი გამოსასყიდად ყოფილ კოლონისტ {PAWN_labelShort}-ს უჭირავთ.\n\nისინი მზად არიან გამოგიგზავნონ {PAWN_objective} {2} ვერცხლის სანაცვლოდ.</RansomDemand>
+  <RansomDemand_Accept>მიღება</RansomDemand_Accept>
+  <RansomDemand_Reject>უარყოფა</RansomDemand_Reject>
+  
+  
+  <EscapeShipFoundLabel>ნაპოვნია გემი</EscapeShipFoundLabel>
+  <EscapeShipFound>თქვენ მიაღწიეთ (*Name)Charlon Whitestone(/Name) მიერ გამოგზავნილ კოორდინატებს და აღმოაჩინეთ ფარული ვარსკვლავური ხომალდი.\n\nგემის რეაქტორი ჯერ კიდევ ღრმა ჰიბერნაციის რეჟიმშია, ამიტომ მას ჯერ არ შეუძლია ფრენა. მისი დაწყება შეგიძლიათ კომპიუტერის ბირთვთან ურთიერთქმედებით.\n\n(*Name)Charlon Whitestone(/Name) გაფრთხილებთ, რომ გაშვების პროცესს დაახლოებით 15 დღე დასჭირდება და ენერგეტიკული ხელმოწერა შორ მანძილზე იქნება შესამჩნევი. ასეთი სახის ენერგეტიკული ხელმოწერა მიუთითებს ვარსკვლავთშორისი ფრენის შესაძლებლობებზე და მიიზიდავს სასოწარკვეთილ თავდამსხმელთა ბანდას და მომაკვდინებელ მექანოიდების ჯგუფს.\n\nთქვენს შეურაცხყოფას მიაყენებენ ისეთი ინტენსივობით, რომელიც არასოდეს გინახავთ. ჯერ დარწმუნდით, რომ თქვენი თავდაცვა მომზადდება.</EscapeShipFound>
+  <EscapeShipFoundPeaceful>თქვენ მიაღწიეთ (*Name)Charlon Whitestone(/Name) მიერ გამოგზავნილ კოორდინატებს და აღმოაჩინეთ ფარული ვარსკვლავური ხომალდი.\n\nგემის რეაქტორი ჯერ კიდევ ღრმა ჰიბერნაციის რეჟიმშია, ამიტომ მას ჯერ არ შეუძლია ფრენა. მისი დაწყება შეგიძლიათ კომპიუტერის ბირთვთან ურთიერთქმედებით.\n\n(*Name)Charlon Whitestone(/Name) გაფრთხილებთ, რომ გაშვების პროცესს დაახლოებით 15 დღე დასჭირდება.</EscapeShipFoundPeaceful>
+
+  
+  <CaravanMeetingTitle>საქარავნო შეხვედრა {0}-ის მიერ</CaravanMeetingTitle>
+  <CaravanMeeting>{0} მშვიდობიანად შეხვდა {1}-ის ქარავანს. სხვა ქარავანი შედგება:\n\n{2}</CaravanMeeting>
+  <CaravanMeeting_Trade>ვაჭრობა</CaravanMeeting_Trade>
+  <CaravanMeeting_Attack>შეტევა</CaravanMeeting_Attack>
+  <CaravanMeeting_MoveOn>იმოძრავეთ</CaravanMeeting_MoveOn>
+  <CaravanMeeting_TradeIncapable>ქარავნის წევრებს არ შეუძლიათ ვაჭრობა</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_NoPermit>გვჭირდება ტრეიდერი {0} ტიტულით {1_name}-დან</CaravanMeeting_NoPermit>
+  
+  
+  <LetterLabelCaravanRequest>ქარავნის თხოვნა</LetterLabelCaravanRequest>
+  <LetterCaravanRequest>ახლომდებარე დასახლება, {0}, დაგიკავშირდებათ სპეციალური სავაჭრო მოთხოვნით. მათ სურთ შეიძინონ:\n\n {1} (ღირს {2})\n\nსანაცვლოდ, ისინი გვთავაზობენ:\n\n {3} (ღირს {4})\n\nეს მოთხოვნა იწურება შემდეგ: {5}\n\nთუ ვაჭრობის გაკეთება გსურთ, გაგზავნეთ ქარავანი მოთხოვნილი მარაგით. მოგზაურობის სავარაუდო დროა {6}. თქვენ შეგიძლიათ გადახედოთ ამ შეთავაზებას მსოფლიოს რუკაზე {0}-ის არჩევით.</LetterCaravanRequest>
+  <CaravanRequestInfo>ითხოვს: {0} ({2}) ({1} დარჩა)</CaravanRequestInfo>
+  <NormalQualityOrBetter>ნორმალური ხარისხის ან უკეთესი</NormalQualityOrBetter>
+  <NotTainted>არ არის დაბინძურებული</NotTainted>
+
+  
+  <CaravanDemandTitle>ქარავანი მოთხოვნა {0}-ის მიერ</CaravanDemandTitle>
+  <CaravanDemand>{0} ჩასაფრებულია {2} {4} ჯგუფის მიერ {1}-დან. ისინი თავს დაესხმებიან, თუ არ მისცემთ მათ:\n\n{3}</CaravanDemand>
+  <CaravanDemand_Give>მიეცით და გაიარეთ</CaravanDemand_Give>
+  <CaravanDemand_Fight>უარი თქვით და იბრძოლეთ</CaravanDemand_Fight>
+
+  
+  <LetterLabelSiteNoLongerHostile>ქვესტი აღარ არის ხელმისაწვდომი</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostileMulti>ქვესტები აღარ არის ხელმისაწვდომი</LetterLabelSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostile>იმის გამო, რომ თქვენ აღარ ხართ მტრულად განწყობილი {0}-ის მიმართ, {1} საიტი აღარ არის ხელმისაწვდომი.</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostileMulti>იმის გამო, რომ თქვენ აღარ ხართ მტრულად განწყობილი {0}-ის მიმართ, შემდეგი საიტები აღარ არის ხელმისაწვდომი</LetterSiteNoLongerHostileMulti>
+
+  
+  <LetterLabelQuestAskerFactionHostile>ქვესტი ვერ მოხერხდა</LetterLabelQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>ქვესტი ახლა დაუსრულებელია, რადგან {FACTION_name} მტრულია.</LetterQuestAskerFactionHostile>
+
+  
+  <LetterLabelQuestAskerCaptured>ქვესტი ვერ მოხერხდა</LetterLabelQuestAskerCaptured>
+  <LetterQuestAskerCaptured>ქვესტი ახლა დაუსრულებელია, რადგან {SUBJECT_definite} დაიჭირეს.</LetterQuestAskerCaptured>
+
+  
+  <LetterLabelQuestAskerDied>ქვესტი ვერ მოხერხდა</LetterLabelQuestAskerDied>
+  <LetterQuestAskerDied>ქვესტი ახლა დაუსრულებელია, რადგან {SUBJECT_definite} მოკვდა.</LetterQuestAskerDied>
+
+</LanguageData>

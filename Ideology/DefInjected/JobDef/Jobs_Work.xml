@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChangeTreeMode.reportString>TargetA-ს დრიად კასტას შეცვლა.</ChangeTreeMode.reportString>
+  <CreateAndEnterCocoon.reportString>ქოქოსის შექმნა.</CreateAndEnterCocoon.reportString>
+  <CreateAndEnterHealingPod.reportString>სამკურნალო ბუდის შექმნა.</CreateAndEnterHealingPod.reportString>
+  <MergeIntoGaumakerPod.reportString>TargetB-ში შერწყმა.</MergeIntoGaumakerPod.reportString>
+  <PrisonerConvert.reportString>TargetA-ს კონვერტაცია.</PrisonerConvert.reportString>
+  <PrisonerEnslave.reportString>დამონება TargetA.</PrisonerEnslave.reportString>
+  <PrisonerReduceWill.reportString>TargetA-ს ნების შემცირება.</PrisonerReduceWill.reportString>
+  <PruneGauranlenTree.reportString>pruning TargetA.</PruneGauranlenTree.reportString>
+  <ReturnToGauranlenTree.reportString>დაბრუნდა TargetA-ში.</ReturnToGauranlenTree.reportString>
+  <SlaveEmancipation.reportString>ემანსიპირება TargetA.</SlaveEmancipation.reportString>
+  <SlaveExecution.reportString>TargetA-ს შესრულება.</SlaveExecution.reportString>
+  <SlaveSuppress.reportString>თრგუნავს TargetA.</SlaveSuppress.reportString>
+</LanguageData>

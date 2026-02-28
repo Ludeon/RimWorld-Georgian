@@ -1,0 +1,427 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <SelfShutdown>მიძინებული თვითდამუხტვა</SelfShutdown>
+  <CarryToRecharger>გადაიტანეთ დამტენზე</CarryToRecharger>
+  <MustBeCarriedToRecharger>უნდა გადაიტანოთ დამტენთან.</MustBeCarriedToRecharger>
+  <Danger>საფრთხე</Danger>
+  <DamageType>{0} დაზიანება</DamageType>
+  <ContainedThings>შეიცავს {0_labelPlural}</ContainedThings>
+  <DurationUntilNextAtomization>დრო მომდევნო ატომიზაციამდე</DurationUntilNextAtomization>
+  <FinishesIn>სრულდება</FinishesIn>
+  <WithLower>ერთად</WithLower>
+  <TilesLower>ფილები</TilesLower>
+  <CaravanMech>1 მექ</CaravanMech>
+  <CaravanMechsCount>{0} მექანიკა</CaravanMechsCount>
+  <BossWithApparel>{BOSS} {APPAREL}-თან ერთად</BossWithApparel>
+  <ComesFromGene>გენიდან გამომდინარე</ComesFromGene>
+
+  
+  <ReportRemovingMechlink>{0}-ის ამოღება.</ReportRemovingMechlink>
+  <ReportTakingLessonFrom>{TEACHER_labelShort}-დან</ReportTakingLessonFrom>
+
+  
+  <PollutionClear>დაბინძურება ნათელია</PollutionClear>
+
+  
+  <Overseer>ზედამხედველი</Overseer>
+  <OverseerNone>არცერთი (არ არის კონტროლირებადი)</OverseerNone>
+  <MayGoFeral>ნებისმიერ მომენტში შეიძლება ველური გახდეს</MayGoFeral>
+  <Bandwidth>გამტარობა</Bandwidth>
+  <BandwidthLower>გამტარობა</BandwidthLower>
+  <BandwidthGizmoTip>მექანიტორს შეუძლია მექანიკის ზედამხედველობა მხოლოდ იმ შემთხვევაში, თუ ამისათვის საკმარისი გამტარობაა. თითოეული მექანიკა მოიხმარს გამტარუნარიანობის განსხვავებულ რაოდენობას.\n\nმიიღეთ მეტი გამტარობა ზოლის კვანძების აგებით და მექანიტორის მათზე მორგებით, ან სპეციალური მექანიტორის ტანსაცმლის აღჭურვით.</BandwidthGizmoTip>
+  <ControlGroup>საკონტროლო ჯგუფი</ControlGroup>
+  <CurrentMechWorkMode>მიმდინარე რეჟიმი</CurrentMechWorkMode>
+  <AssignedMechs>დანიშნეს მეხს</AssignedMechs>
+  <BandNodeTunedTo>მორგებული</BandNodeTunedTo>
+  <BandNodeTuneTo>მორგება</BandNodeTuneTo>
+  <BandNodeTuningTo>რეგულაცია</BandNodeTuningTo>
+  <BandNodeRetuneTo>ხელახლა</BandNodeRetuneTo>
+  <BandNodeTuningDesc>დაარეგულირეთ ეს ზოლის კვანძი მექანიტორზე. ტიუნინგის დასრულებას დასჭირდება {0}.</BandNodeTuningDesc>
+  <BandNodeRetuningDesc>ხელახლა დააინსტალირეთ ეს ჯგუფის კვანძი სხვა მექანიტორზე. ხელახლა დაყენებას {0} დასჭირდება.</BandNodeRetuningDesc>
+  <DropThingBandwidthApparel>{0}-ის წაშლა შეცვლის {1_labelShort}-ის გამტარუნარიანობას {2}-დან {3}-მდე. ეს ნიშნავს, რომ შემდეგი მექანიზმები აღარ იქნება კონტროლის ქვეშ</DropThingBandwidthApparel>
+  <NoMechs>არანაირი მექანიკა</NoMechs>
+  <Group>ჯგუფი</Group>
+  <Groups>ჯგუფები</Groups>
+  <LoadingMechGestator>იტვირთება მექანიკური გესტაციის რესურსები</LoadingMechGestator>
+  <GestatingInspect>დრო დარჩა ამ ციკლიდან</GestatingInspect>
+  <InitMechGestationCycle>მექანიკური გესტაციის ციკლის დაწყება</InitMechGestationCycle>
+  <InitMechBirth>მექანიკური დაბადების დაწყება</InitMechBirth>
+  <MechEnergy>მექანიკური ენერგია</MechEnergy>
+  <Energy>ენერგია</Energy>
+  <EnergyLower>ენერგია</EnergyLower>
+  <BandwidthUsage>გამტარუნარიანობის გამოყენება</BandwidthUsage>
+  <MechGestationBandwidthUsed>მექანიკური გესტაციის გამტარუნარიანობა</MechGestationBandwidthUsed>
+  <CannotSummon>{0} საფრთხის გამოძახება შეუძლებელია</CannotSummon>
+  <ReadyToSummonThreat>{0} საფრთხე მზად არის გამოძახებისთვის</ReadyToSummonThreat>
+  <Summon>გამოიძახეთ {0} საფრთხე</Summon>
+  <MechsDisabled>მექანოიდები გამორთულია</MechsDisabled>
+  <NoReachableBossgroupCaller>მიუწვდომელი {0}</NoReachableBossgroupCaller>
+  <NoReservableBossgroupCaller>არ არის დაჯავშნილი {0}</NoReservableBossgroupCaller>
+  <NoPoweredBossgroupCaller>არ არის იკვებება {0}</NoPoweredBossgroupCaller>
+  <AlreadyUsed>უკვე გამოყენებული</AlreadyUsed>
+  <Gestating>განვითარება</Gestating>
+  <Escorting>ესკორტი {TARGET_labelShort}.</Escorting>
+  <Worker>მუშა</Worker>
+  <WaitingFor>ელოდება</WaitingFor>
+  <Uncontrolled>გაუკონტროლებელი</Uncontrolled>
+  <BossgroupIncoming>შემომავალი {0}</BossgroupIncoming>
+
+  
+  <Hemogen>ჰემოგენი</Hemogen>
+  <HemogenDesc>ჰემოგენი არის ენერგიის ბიოლოგიური წყარო, რომელიც მიიღება ადამიანის სისხლში ნაერთებისგან. ბასელინერი ადამიანები მას ენდოგენურად აწარმოებენ და დროთა განმავლობაში მოიხმარენ საკუთარ შინაგან წონასწორობაში. ზოგიერთი ადამიანის ქსენოტიპი იყენებს მას, როგორც ერთგვარ საწვავს კონკრეტული შესაძლებლობებისთვის, ზოგი კი უნდა მოიხმაროს, რომ საერთოდ გადარჩეს.</HemogenDesc>
+  <DeathrestCapacity>სიკვდილის უნარი</DeathrestCapacity>
+  <DeathrestCapacityDesc>ეს განსაზღვრავს, თუ რამდენ სასიკვდილო შენობას შეუძლია დაუკავშირდეს ადამიანს სიკვდილის დროს. სასიკვდილო დაწესებულების თითოეული შენობა გარკვეულ სარგებელს ანიჭებს, ამიტომ სჯობს უფრო მეტ მათგანთან დაკავშირება.\n\nსიკვდილის ტევადობის გაზრდა შესაძლებელია სიკვდილის ტევადობის შრატების გამოყენებით. ამ შრატების შეძენა შესაძლებელია ტრეიდერებისგან.</DeathrestCapacityDesc>
+  <PawnIsConnectedToBuildings>{PAWN_nameDef} დაკავშირებულია {CURRENT} / {MAX} (მაქსიმალური) სიკვდილიანობის შენობებთან.</PawnIsConnectedToBuildings>
+  <Wake>გაიღვიძე ახლა</Wake>
+  <WakeDesc>გაიღვიძეთ სიკვდილის დასვენებისგან.\n\n{PAWN_nameDef} იყო სასიკვდილო დაწესებულებაში {DURATION}-ის განმავლობაში.</WakeDesc>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef}-ს სჭირდება სიკვდილი მინიმუმ {TOTAL}-ით. {PAWN_objective}-ის ადრე გაღვიძება აავადებს {PAWN_objective}-ს და {PAWN_pronoun}-ს არ ექნება რაიმე სასიკვდილო შენობები.</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Safe>{PAWN_nameDef}-ს ახლა შეუძლია უსაფრთხოდ გაღვიძება.</WakeExtraDesc_Safe>
+  <CannotWakeNotEnoughHemogen>ვერ გაიღვიძებს. საჭიროა მინიმუმ {0} ჰემოგენი.</CannotWakeNotEnoughHemogen>
+  <AutoWake>ავტო-გაღვიძება</AutoWake>
+  <AutoWakeDesc>როდესაც ჩართულია, {PAWN_nameDef} ავტომატურად გაიღვიძებს {PAWN_possessive} სიკვდილის დასვენების დასრულების შემდეგ.\n\nგამორთულის შემთხვევაში, {PAWN_pronoun} გააგრძელებს სიკვდილის დასვენებას მანამ, სანამ {PAWN_objective}-ს ხელით არ გააღვიძებთ.</AutoWakeDesc>
+  <IsDeathresting>{PAWN_nameDef} სასიკვდილოა.</IsDeathresting>
+  <CannotDeathrest>სიკვდილის დასვენება არ შეიძლება</CannotDeathrest>
+  <StartDeathrest>დაიწყეთ სიკვდილით დასჯა</StartDeathrest>
+  <ConfirmExitDeathrestUnderMinDays>სიკვდილის დასვენება საჭიროებს {MINDURATION}-ს, მაგრამ {PAWN_nameDef} დასვენებულია მხოლოდ {CURDURATION}.
+
+{PAWN_nameDef}-ის ახლა გაღვიძება შეწყვეტს {PAWN_possessive} დასვენებას, დაარღვევს {PAWN_possessive} მეტაბოლიზმს და ავად გახდება {PAWN_objective} რამდენიმე დღით.
+
+დარწმუნებული ხართ, რომ გინდათ {PAWN_objective}-ის გამოღვიძება?</ConfirmExitDeathrestUnderMinDays>
+  <Deathresting>სიკვდილის დასვენება</Deathresting>
+  <CanWakeSafely>შეუძლია ახლა უსაფრთხოდ გაიღვიძოს.</CanWakeSafely>
+  <DisabledByGene>ინვალიდია გენით</DisabledByGene>
+  <WakeDisabledCriticalCondition>{PAWN_nameDef} კრიტიკულ მდგომარეობაშია.</WakeDisabledCriticalCondition>
+  <DrainRate>გადინების მაჩვენებელი</DrainRate>
+  <RegenerationRate>რეგენერაციის მაჩვენებელი</RegenerationRate>
+  <NextDeathrestNeed>{PAWN_nameDef} უნდა მოკვდეს {DURATION}-ში, რათა თავიდან აიცილოს ამოწურვა.</NextDeathrestNeed>
+  <PawnShouldDeathrestNow>{PAWN_nameDef} მალე უნდა დაიღუპოს, რათა თავიდან აიცილოს დაღლილობა.</PawnShouldDeathrestNow>
+  <AutoTakeHemogenDesc>ეს განსაზღვრავს თუ არა {PAWN_nameDef} ავტომატურად შთანთქავს ჰემოგენის პაკეტებს, როდესაც {PAWN_possessive} ჰემოგენი {MIN}-ზე დაბალია.\n\nავტომატური გადაყლაპვა ამჟამად არის {ONOFF}.</AutoTakeHemogenDesc>
+  <ConsumeHemogenBelow>მიიღეთ ჰემოგენი ქვემოთ</ConsumeHemogenBelow>
+  <NeverConsumeHemogen>არასოდეს მიირთვათ ჰემოგენი.</NeverConsumeHemogen>
+  <WillKill>მოკლავს</WillKill>
+  <WillCauseSeriousBloodloss>გამოიწვევს სისხლის დიდ დაკარგვას</WillCauseSeriousBloodloss>
+  <TooSmall>ძალიან პატარა</TooSmall>
+
+  
+  <BoundTo>მიბმული</BoundTo>
+  <WillBindOnFirstUse>სამუდამოდ იკვრება პირველი გამოყენებისას.</WillBindOnFirstUse>
+  <TimeActiveThisDeathrest>დროა აქტიური ამ სიკვდილიანობის</TimeActiveThisDeathrest>
+  <MinimumNeededToApply>განაცხადის მინიმალური არის {0}</MinimumNeededToApply>
+  <CannotAssignBedCannotDeathrest>სიკვდილის დასვენება არ შეიძლება</CannotAssignBedCannotDeathrest>
+  <CannotAssignAlreadyBound>უკვე დაკავშირებულია {0_nameDef}-თან</CannotAssignAlreadyBound>
+  <CannotAssignBedCannotBindToMoreBuildings>მეტი {BUILDING_labelPlural}-თან დაკავშირება შეუძლებელია</CannotAssignBedCannotBindToMoreBuildings>
+
+  
+  <Aptitude>უნარი</Aptitude>
+  <Aptitudes>უნარები</Aptitudes>
+  <AptitudePlural>უნარები</AptitudePlural>
+  <AptitudesDesc>მიდრეკილება აიძულებს ინდივიდს შეასრულოს უფრო მაღალ ან დაბალ დონეზე, ვიდრე ნასწავლი უნარები.\n\nმაგალითად, +1 უნარი ამ უნარზე ნიშნავს, რომ ადამიანი, რომელსაც აქვს 5 დონე ამ უნარში, იმოქმედებს ისე, თითქოს მე-6 დონეზე იყოს.\n\nსაერთო ღირებულება არ შეიძლება აღემატებოდეს 20 დონეს ან დაეცეს 1 დონეს ქვემოთ.</AptitudesDesc>
+  <Total>სულ</Total>
+  
+  
+  <FatherTip>მამა</FatherTip>
+  <MotherTip>გენეტიკური დედა</MotherTip>
+  <RitualTargetChildBirth>დაუსახლებელი საწოლი</RitualTargetChildBirth>
+  <NoAppropriateBedChildBirth>მშობიარობისთვის შესაფერისი საწოლი არ არის.</NoAppropriateBedChildBirth>
+  <NoDoctorChildBirth>ექიმი არ არის გარშემო.</NoDoctorChildBirth>
+  <CantUseThisBed>ამ საწოლის გამოყენება არ შეიძლება.</CantUseThisBed>
+  <NotInLabor>არა მშობიარობაში.</NotInLabor>
+  <Labor>მშობიარობა</Labor>
+  <LaborDilation>გახსნა</LaborDilation>
+  <PregnancyApproach_Normal>ჩვეულებრივი</PregnancyApproach_Normal>
+  <PregnancyApproach_AvoidPregnancy>თავიდან აიცილოთ ორსულობა</PregnancyApproach_AvoidPregnancy>
+  <PregnancyApproach_TryForBaby>სცადე ბავშვისთვის</PregnancyApproach_TryForBaby>
+  <PregnancyChance>ორსულობის შანსი</PregnancyChance>
+  <PregnancyApproach>ორსულობის მიდგომა</PregnancyApproach>
+  <ClickToChangePregnancyApproach>დააწკაპუნეთ ორსულობის მიდგომის შესაცვლელად.</ClickToChangePregnancyApproach>
+  <PregnancyNotPossible>ორსულობა შეუძლებელია</PregnancyNotPossible>
+  <BirthRitualHealthyBabyChance>ჯანსაღი მშობიარობის შანსი ამ ხარისხის დონეზე იყო {0_percentage}.</BirthRitualHealthyBabyChance>
+  <GivingBirth>მშობიარობა.</GivingBirth>
+
+  
+  <Genes>გენები</Genes>
+  <GenesDesc>ამ ქსენოტიპთან დაკავშირებული გენები.</GenesDesc>
+  <Suppressed>ჩახშული</Suppressed>
+  <Active>აქტიური</Active>
+  <SuppressedDesc>ეს თვისება დათრგუნულია კონფლიქტური იძულებითი გენეტიკური თვისებით ან გენით. ის არ იქნება აქტიური, სანამ ყველა კონფლიქტი არ მოიხსნება</SuppressedDesc>
+  <Trait>მახასიათებელი</Trait>
+  <Gene>გენი</Gene>
+  <AddedByGene>დამატებულია გენით</AddedByGene>
+  <EjectAll>ყველას ამოღება</EjectAll>
+  <EjectAllDesc>ჩამოაგდეთ ყველა შემავალი გენიპაკეტი მიწაზე.</EjectAllDesc>
+  <GenepacksStored>გენის პაკეტები ინახება</GenepacksStored>
+  <GenepackAutoLoad>ავტო-ჩატვირთვა</GenepackAutoLoad>
+  <GenepackAutoLoadDesc>თუ აქტიურია, მატარებლები ავტომატურად შეინახავენ ამ გენოპაკეტს გენთა ბანკში.</GenepackAutoLoadDesc>
+  <ForcedTraits>იძულებითი თვისებები</ForcedTraits>
+  <SuppressedTraits>დათრგუნული თვისებები</SuppressedTraits>
+  <ForcedTraitsDesc>ეს თვისებები დაემატება. ყველა ურთიერთსაწინააღმდეგო თვისება ჩახშობილი გახდება.</ForcedTraitsDesc>
+  <Complexity>სირთულე</Complexity>
+  <ComplexityDesc>რამდენ სირთულეს მატებს ეს გენების შეკრების პროცესს.</ComplexityDesc>
+  <MaxComplexityDesc>მაქსიმალური სირთულე შეიძლება გაიზარდოს გენის ასამბლერის მახლობლად გენის პროცესორების აშენებით.</MaxComplexityDesc>
+  <ComplexityTotal>სრული სირთულე</ComplexityTotal>
+  <ComplexityTotalDesc>გამოყენებული ყველა გენის მთლიანი სირთულე.</ComplexityTotalDesc>
+  <Metabolism>მეტაბოლური ეფექტურობა</Metabolism>
+  <MetabolismDesc>ამ გენების საერთო მეტაბოლური ეფექტურობა შეკრებისას. მაღალი ეფექტურობა ნიშნავს, რომ ადამიანს სჭირდება ნაკლები საკვები; დაბალი ეფექტურობა ნიშნავს, რომ მათ მეტი უნდა ჭამონ.</MetabolismDesc>
+  <MetabolismTotal>მეტაბოლური ეფექტურობა</MetabolismTotal>
+  <MetabolismTotalDesc>გენომში არსებული ყველა გენის საერთო მეტაბოლური ეფექტურობა. მაღალი ეფექტურობა ნიშნავს, რომ ადამიანს სჭირდება ნაკლები საკვები; დაბალი ეფექტურობა ნიშნავს, რომ მათ მეტი უნდა ჭამონ.</MetabolismTotalDesc>
+  <NumberOfGenes>გენების რაოდენობა</NumberOfGenes>
+  <GenePriceFactors>გენის ფასის ფაქტორები</GenePriceFactors>
+  <AnyLower>ნებისმიერი</AnyLower>
+  <ArchitesTotal>არქიტი სულ</ArchitesTotal>
+  <ArchitesRequired>Archite კაფსულები</ArchitesRequired>
+  <ArchitesRequiredDesc>არქიტები არის არქოტექნიკური მექანიტები - მიკროსკოპული მოწყობილობები, რომლებსაც შეუძლიათ მოქმედებენ უშუალოდ უჯრედებზე და მოლეკულებზე, რომლებიც შექმნილია სუპერინტელექტუალური არქოტექნიკების მიერ. მათ შეუძლიათ აუხსნელი სიკეთეები და ზოგიერთი გენი ფუნქციონირებს მხოლოდ მაშინ, როდესაც მხარს უჭერს არქოტექნიკების სხვა სამყაროს მექანიზმებს. ადამიანები ვერ ქმნიან არქიტებს - პოულობენ მათ მხოლოდ მაშინ, როდესაც არქოტექნიკა აწარმოებს ზოგიერთს თავისი გაუგებარი მიზეზის გამო.</ArchitesRequiredDesc>
+  <CancelXenogerm>გააუქმეთ ქსენოგერმი</CancelXenogerm>
+  <CancelXenogermDesc>შეაჩერე ყველა მუშაობა მიმდინარე ქსენოგერმზე.</CancelXenogermDesc>
+  <AllowAllGenepacks>დაუშვით ყველა გენეპაკეტი</AllowAllGenepacks> 
+  <AllowAllGenepacksDesc>უფლება აქვთ თუ არა კოლონისტებს ავტომატურად შეინახონ ნებისმიერი გენეპაკეტი ამ კონტეინერში. გამორთეთ ეს, თუ გსურთ მიუთითოთ რომელი კონკრეტული გენპაკეტები უნდა იყოს შენახული აქ.</AllowAllGenepacksDesc> 
+  <ContainedGenepacksDesc>გენეპაკეტები ამჟამად ამ კონტეინერშია.</ContainedGenepacksDesc> 
+  <GenepacksToLoadDesc>გენეპაკეტები, რომლებიც განკუთვნილია ამ კონტეინერში ჩასატვირთად.</GenepacksToLoadDesc> 
+  <GenepacksIgnoredDesc>შენახული გენეპაკეტები, რომლებიც არ არის დანიშნული ამ კონტეინერში ჩასატვირთად.</GenepacksIgnoredDesc> 
+  <GenepacksToLoad>გენიპაკეტები ჩასატვირთად</GenepacksToLoad> 
+  <GenepacksToIgnore>გენიპაკეტები იგნორირება</GenepacksToIgnore> 
+  <EjectGenepackDesc>ამოიღეთ ეს გენეპაკეტი კონტეინერიდან.</EjectGenepackDesc> 
+  <ConfirmRemoveGenepack>ნამდვილად გსურთ {0}-ის ამოღება? ის მაშინვე გადმოისროლება მიწაზე ახლოს.</ConfirmRemoveGenepack> 
+  <MissingRequiredResearch>საჭირო კვლევა აკლია</MissingRequiredResearch>
+  <NoGenepacksAvailable>ახლომდებარე გენის ბანკებში არ არის ხელმისაწვდომი გენეპაკეტები.</NoGenepacksAvailable> 
+  <AddToLoadingListDesc>მიეცით საშუალება ამ გენეპაკეტს ჩაიტვირთოს ამ კონტეინერში.</AddToLoadingListDesc> 
+  <RemoveFromLoadingListDesc>ამოიღეთ ეს გენეპაკეტი ჩატვირთვის სიიდან.</RemoveFromLoadingListDesc> 
+  <Recombine>რეკომბინაცია</Recombine>
+  <RecombineDesc>შექმენით ახალი იმპლანტირებადი ქსენოგერმი თქვენი გენის ბიბლიოთეკის გენეპაკეტების მონაცემების გამოყენებით.</RecombineDesc>
+  <ContainedGenesDesc>გენები</ContainedGenesDesc>
+  <ImplantXenogerm>შეუკვეთეთ იმპლანტაცია</ImplantXenogerm>
+  <ImplantXenogermDesc>ჩაუნერგეთ ეს ადამიანში, რათა ნაწილობრივ გადალახოს მათი გენეტიკური კოდი.\n\nეს არის ქირურგიული ოპერაცია, ამიტომ საჭიროა ექიმი, სამედიცინო საწოლი და {MEDICINEAMOUNT} წამალი.</ImplantXenogermDesc>
+  <ImplantXenogermWarningDesc>ქსენოგერმის იმპლანტაცია {PAWN_nameDef}-ს კომაში ჩააყენებს, რადგან ქსენოგერმი თავად აერთიანებს. საშუალოდ, ეს გრძელდება {COMADURATION}. კომის ხანგრძლივობა დამოკიდებულია ექიმის სამედიცინო უნარზე და თქვენი სამედიცინო დაწესებულებების ხარისხზე.</ImplantXenogermWarningDesc>
+  <ImplantXenogermWarningOverwriteXenogenes>გარდა ამისა, ქსენოგერმის იმპლანტაცია გადაწერს არსებულ ქსენოგენებს. {PAWN_nameDef}-ის ამჟამინდელი ქსენოტიპი არის '{XENOTYPE}'. {PAWN_pronoun}-ს აქვს შემდეგი ქსენოგენები:\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
+  <ImplantXenogermWarningNewMetabolism>იმპლანტაციის შემდეგ {PAWN_nameDef}-ს ექნება მეტაბოლური ღირებულება {MET} და საკვების მოხმარების მულტიპლიკატორი {CONSUMPTION}.</ImplantXenogermWarningNewMetabolism>
+  <WouldYouLikeToContinue>გსურთ გაგრძელება?</WouldYouLikeToContinue>
+  <CancelImplanting>გააუქმეთ იმპლანტაცია</CancelImplanting>
+  <CancelImplantingDesc>გააუქმეთ ამ ქსენოგერმის ჩანერგვა {PAWN_nameDef}-ში.</CancelImplantingDesc>
+  <Xenotype>კსენოტიპი</Xenotype>
+  <Unique>უნიკალური</Unique>
+  <UniqueXenotypeDesc>უნიკალური ადამიანის ვარიანტი ქსენოგენების ნაკრებით, რომლებიც არ მიეკუთვნება არცერთ ცნობილ ქსენოტიპს.</UniqueXenotypeDesc>
+  <FactorForMetabolism>გენეტიკური მეტაბოლიზმის ფაქტორი</FactorForMetabolism>
+  <Progress>პროგრესი</Progress>
+  <InSunlight>მზის შუქზე</InSunlight>
+  <ThingIsSkyExposed>{0_labelShort} ზეცას ექვემდებარება.</ThingIsSkyExposed>
+  <InsertPerson>პირის ჩასმა</InsertPerson>
+  <InsertPersonGeneExtractorDesc>ჩადეთ ადამიანი გენის ექსტრაქტორში. მათი გენეტიკური მასალის ამოღება მოხდება და გამოყენებული იქნება გენეპაკეტის შესაქმნელად, რომელიც შეიცავს მათი გენების შემთხვევით შერჩევას.\n\nგენის ექსტრაქცია მტკივნეულია და სუბიექტს რამდენიმე დღის განმავლობაში ტოვებს სუსტსა და ძილიანობას. ეს პროცესი სასიკვდილოა მათთვის, ვისი გენებიც ამჟამად ხელახლა იზრდება.</InsertPersonGeneExtractorDesc>
+  <ConfirmExtractXenogermWillKill>გაფრთხილება: {PAWN_nameDef}-ის გენები ხელახლა იზრდება. {PAWN_possessive} გენების ამოღება მათ ხელახლა ზრდამდე მოკლავს {PAWN_objective}-ს.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</ConfirmExtractXenogermWillKill>
+  <GeneExtractionComplete>გენის ექსტრაქცია დასრულდა {PAWN_nameDef}-ისთვის. ამოღებული</GeneExtractionComplete>
+  <InsertXenogerm>ჩადეთ ქსენოგერმი</InsertXenogerm>
+  <InsertXenogermDesc>ჩადეთ ქსენოგერმი ზრდის დროს გამოსაყენებლად.</InsertXenogermDesc>
+  <WaitingForPawn>ველოდებით {PAWN_nameDef}-ს.</WaitingForPawn>
+  <ExtractingXenogermFrom>გენების ამოღება {PAWN_nameDef}-დან.</ExtractingXenogermFrom>
+  <ExtractionPausedNoPower>ამოღება შეჩერებულია: არ არის დენი (შეწყვეტა {TIME}-ში)</ExtractionPausedNoPower>
+  <LastIngestedDurationAgo>ბოლოს მიღებულია {CHEMICAL_label} {DURATION} წინ.</LastIngestedDurationAgo>
+  <NamedXenogerm>{NAME} ქსენოგერმი</NamedXenogerm>
+  <InsertedThing>ჩასმულია {0}</InsertedThing>
+  <AssemblyPaused>შეკრება შეჩერდა</AssemblyPaused>
+  <GenebankUnpowered>საჭირო გენის ბანკი არ არის ძალა</GenebankUnpowered>
+  <Deathless>სიკვდილგარეშე</Deathless>
+  <GeneDefChemicalNeedDurationDesc>{PAWN_nameDef}-ს სჭირდება რეგულარულად გადაყლაპვა {0} გადარჩენისთვის. {DEFICIENCYDURATION}-ის შემდეგ {0}-ის გარეშე, {PAWN_pronoun} განიცდის {0} დეფიციტს. {COMADURATION}-ის შემდეგ {PAWN_pronoun} კომაში ჩავარდება. {DEATHDURATION}-ის შემდეგ {PAWN_pronoun} მოკვდება.</GeneDefChemicalNeedDurationDesc>
+  <ChemicalDependency>{CHEMICAL_label} დამოკიდებულება</ChemicalDependency>
+  <Xenogerm>კსენოჯიბი</Xenogerm>
+  <PawnWillKeepDeathrestingLethalInjuries>{PAWN_nameDef} გააგრძელებს სიკვდილს მანამ, სანამ {PAWN_pronoun}-ს აქვს ლეტალური დაზიანებები.</PawnWillKeepDeathrestingLethalInjuries>
+  <PawnWillKeepRegeneratingLethalInjuries>{PAWN_nameDef} დარჩება რეგენერაციულ კომაში მანამ, სანამ {PAWN_pronoun}-ს აქვს ლეტალური დაზიანებები.</PawnWillKeepRegeneratingLethalInjuries>
+  <DeathrestPaused>სიკვდილი შეწყდა</DeathrestPaused>
+  <LethalInjuries>ლეტალური დაზიანებები</LethalInjuries>
+  <Deathrest>სიკვდილის დასვენება</Deathrest>
+  <Capacity>ტევადობა</Capacity>
+  <MissingGeneRomanceChance>არა {GENE} რომანტიული შანსი</MissingGeneRomanceChance>
+  <NotInGeneBank>არა გენბანკში</NotInGeneBank>
+
+  
+  <ChildBirthAlwaysHealthy_Desc>შეიკრიბეთ, რათა დაეხმაროთ დედას მშობიარობაში. ექიმს შეუძლია დაეხმაროს ბავშვის გაჩენაში.</ChildBirthAlwaysHealthy_Desc>
+  <UntilBabyIsBorn>სანამ ბავშვი დაიბადება</UntilBabyIsBorn>
+
+  <LearningDesireTooltip>ბავშვებს სურთ ისწავლონ სხვადასხვა აქტივობებზე სხვადასხვა დროს.</LearningDesireTooltip>
+  <DevelopmentHealthGizmoTooltip>განვითარების ჯანმრთელობა არის ბავშვის სწავლის საჭიროების საშუალო მაჩვენებელი მისი ბოლო დაბადების დღიდან.\n\nუფრო განვითარების ჯანმრთელობის მქონე ბავშვებს ექნებათ მეტი არჩევანი ზრდის მომენტებში და მიიღებენ მეტ ვნებას უნარების მიმართ.</DevelopmentHealthGizmoTooltip>
+
+  <MustNotBePlacedCloseToAnother>არ უნდა განთავსდეს სხვა {0_label}-თან ახლოს</MustNotBePlacedCloseToAnother>
+  <PollutingTerrainProgress>შემდეგი რელიეფის დაბინძურება</PollutingTerrainProgress>
+  <PoisonedTerrain>მოწამლული {0}</PoisonedTerrain>
+  <AssignMechToControlGroup>მიანიჭეთ {0} საკონტროლო ჯგუფს</AssignMechToControlGroup>
+  <CurrentMechEnergyFallPerDay>შემოდგომა დღეში</CurrentMechEnergyFallPerDay>
+  <CannotAssignMechToControlGroup>შეუძლებელია {0} საკონტროლო ჯგუფზე მინიჭება</CannotAssignMechToControlGroup>
+  <AssignMechAlreadyAssigned>უკვე დანიშნულია</AssignMechAlreadyAssigned>
+
+  
+  <LactatingAddedNutritionPerDay>დღეში დამატებით {0} საკვების მიღება რძის წარმოებისთვის (რძის წარმოების სიჩქარე არის {1_percentage} საკვების ამჟამინდელი დონის გამო).</LactatingAddedNutritionPerDay>
+  <LactatingStoppedBecauseFull>ლაქტაცია შეჩერებულია, რადგან რძის სისავსე არის 100%</LactatingStoppedBecauseFull>
+  <LactatingStoppedBecauseHungry>ლაქტაცია შეჩერებულია შიმშილის გამო.</LactatingStoppedBecauseHungry>
+
+  
+  <CurrentGestationCycle>მიმდინარე გესტაციის ციკლი</CurrentGestationCycle>
+  <RemainingGestationCycles>დარჩენილია გესტაციის ციკლები</RemainingGestationCycles>
+  <GestationCycles>გესტაციის ციკლები</GestationCycles>
+  <GestatingMech>გესმით {0}</GestatingMech>
+  <GestatedMech>დამკვიდრებულია {0}</GestatedMech>
+  <GestatingMechRequiresMechanitor>ორსულობის გასაგრძელებლად საჭიროა {PAWN_nameDef}</GestatingMechRequiresMechanitor>
+  <GestatedMechRequiresMechanitor>დასასრულებლად საჭიროა {PAWN_nameDef}</GestatedMechRequiresMechanitor>
+  <GestationComplete>ორსულობა დასრულებულია</GestationComplete>
+  <ResurrectingMech>აღდგომა {0}</ResurrectingMech>
+  <ResurrectedMech>აღდგა {0}</ResurrectedMech>
+
+  
+  <MechCarrierRelease>გამოუშვით {0}</MechCarrierRelease>
+  <MechCarrierDesc>გაათავისუფლეთ გროვა {0} {1}-მდე. თითოეული {2} ღირს {3} {4} აშენება. თუ მშობელი განადგურდება, მაშინ ყველა დაკავშირებული {1} მოკვდება. {1} ვერ დამუხტება და მოკვდება, როგორც კი მათი კვების წყარო ამოიწურება.</MechCarrierDesc>
+  <MechCarrierNotEnoughResources>არ არის საკმარისი რესურსი</MechCarrierNotEnoughResources>
+  <MechCarrierAutofillResources>ავტოშევსება</MechCarrierAutofillResources>
+  <MechCarrierClickToSetAutofillAmount>დააწკაპუნეთ სასურველი ავტომატური შევსების თანხის დასაყენებლად.</MechCarrierClickToSetAutofillAmount>
+  <MechCarrierAutofillDesc>ავტომატური შევსების ეს რაოდენობა განსაზღვრავს რესურსების მაქსიმალურ რაოდენობას, რომელსაც თქვენი კოლონისტები ავტომატურად განათავსებენ ამ {0}-ში. რესურსები შეიძლება გამოყენებულ იქნას {1}-ის შესაქმნელად.</MechCarrierAutofillDesc>
+
+  
+  <MechPowerCell>დენის უჯრედი</MechPowerCell>
+  <MechPowerCellTip>ომის ეკლებს აქვთ ერთჯერადი ენერგიის წყარო. როდესაც დენის ელემენტი ამოიწურება, მექანოიდი კვდება.</MechPowerCellTip>
+  
+
+  
+  <BossgroupAvailableIn>ხელმისაწვდომია {0}-ში.</BossgroupAvailableIn>
+  <RequiresMechanitor>საჭიროებს მექანიტორს</RequiresMechanitor>
+
+  
+  <AbilityDisabledNoHemogenGene>{0_labelShort} არ არის ჰემოგენური.</AbilityDisabledNoHemogenGene>
+  <AbilityDisabledNoHemogen>{0_labelShort}-ს არ აქვს საკმარისი ჰემოგენი.</AbilityDisabledNoHemogen>
+  <AbilityStartRitualDisabledChild>ბავშვებს არ შეუძლიათ ამის გაკეთება.</AbilityStartRitualDisabledChild>
+  <AbilityStartRitualNoMembersOfIdeo>გვჭირდება {0}.</AbilityStartRitualNoMembersOfIdeo>
+  <AbilityHemogenCost>ჰემოგენის ღირებულება</AbilityHemogenCost>
+  <AbilityHemogenGain>ბაზის ჰემოგენის მომატება</AbilityHemogenGain>
+  <AbilityMechSmokepopCharged>Smokepop დამუხტულია</AbilityMechSmokepopCharged>
+  <AbilityMechSmokepopRecharging>Smokepop დამუხტულია {0}-ში</AbilityMechSmokepopRecharging>
+  <AbilityMechFirefoampopCharged>Firefoam pop დამუხტული</AbilityMechFirefoampopCharged>
+  <AbilityMechFirefoampopRecharging>Firefoam pop დამუხტულია {0}-ში</AbilityMechFirefoampopRecharging>
+
+  <PollutedTerrain>დაბინძურებული {0}</PollutedTerrain>
+
+  
+  <Biostarvation>ბიოშიმშილი</Biostarvation>
+  <BiostarvationExplanation>ერთი ან მეტი ზრდის ღუმელი განიცდის ბიოსშიმშილს კვების ან ენერგიის ნაკლებობის გამო.\n\nთუ ბიოსშიმშილობა 100%-ს მიაღწევს, შეკავებული ხალხი მოკვდება.</BiostarvationExplanation>
+  <InsertPersonGrowthVatDesc>ჩადეთ ადამიანი ზრდის ღუმელში. ისინი ჩვეულებრივზე 20-ჯერ უფრო სწრაფად დაბერდებიან.</InsertPersonGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>ჩანერგეთ ემბრიონი ზრდის ქვაბში. {0}-ის დაორსულების შემდეგ, სრულად ჩამოყალიბებული ბავშვი წარმოიქმნება კვამლით, იმედია კარგი ჯანმრთელობა იქნება.</InsertEmbryoGrowthVatDesc>
+  <ImplantEmbryo>ჩადეთ ემბრიონი</ImplantEmbryo>
+  <CannotInsertEmbryo>ემბრიონის ჩასმა შეუძლებელია</CannotInsertEmbryo>
+  <EmbryoAlreadyInside>უკვე შეიცავს ემბრიონს.</EmbryoAlreadyInside>
+  <ImplantNoEmbryos>არავითარი ემბრიონი</ImplantNoEmbryos>
+  <EmbryoTimeUntilBirth>დრო დაბადებამდე</EmbryoTimeUntilBirth>
+  <EmbryoBirthQuality>დაბადების ხარისხი</EmbryoBirthQuality>
+  <EmbryoSelected>შერჩეული ემბრიონი</EmbryoSelected>
+  <PersonSelected>შერჩეული ადამიანი</PersonSelected>
+  <NoPawnsCanEnterGrowthVat>არ არის მისაღები ასაკის ადამიანები, რომლებიც არ შიმშილდებიან. ზრდის ღუმელში შესასვლელად, ადამიანი უნდა იყოს {0} წელზე დაბალი და ამჟამად არ არის ბიოსშიმშილი.</NoPawnsCanEnterGrowthVat>
+  <AgingSpeed>დაბერების სიჩქარე</AgingSpeed>
+
+  
+  <WasteLevel>ნარჩენი</WasteLevel>
+
+  
+  <DissolutionRateIndoors>შიგნით</DissolutionRateIndoors>
+  <DissolutionRain>წვიმა</DissolutionRain>
+  <DissolvesEvery>ერთი ნარჩენების შეფუთვა იხსნება ყოველ {0}-ში</DissolvesEvery>
+  <DissolutionFrozen>გაყინული (არ იშლება).</DissolutionFrozen>
+
+  <CellsPerDay>{0} უჯრედები / დღეში</CellsPerDay>
+
+  <WrongDevelopmentalStageForClothing>{0} ვერ ატარებს ტანსაცმელს {1}-ისთვის</WrongDevelopmentalStageForClothing> 
+
+  
+  <SubcoreScannerStart>სკანერის დაწყება</SubcoreScannerStart>
+  <SubcoreScannerProduces>ქმნის</SubcoreScannerProduces>
+  <SubcoreScannerStartDesc>მას შემდეგ, რაც {0} შეივსება საჭირო ინგრედიენტებით, {1}, აირჩიეთ კოლონისტი და დააწკაპუნეთ მარჯვენა ღილაკით {0}-ზე ან ჩამოგდებულ ადამიანზე სკანერის დასაწყებად.</SubcoreScannerStartDesc>
+  <SubcoreScannerCompletesIn>სრულდება</SubcoreScannerCompletesIn>
+  <SubcoreScannerWaitingForOccupant>ელოდება ოკუპანტს</SubcoreScannerWaitingForOccupant>
+  <SubcoreScannerWaitingForIngredients>ინგრედიენტების მოლოდინში</SubcoreScannerWaitingForIngredients>
+  <SubcoreScannerWaitingForIngredientsDesc>შემდეგი ინგრედიენტები ჯერ უნდა ჩაიტვირთოთ</SubcoreScannerWaitingForIngredientsDesc>
+  <SubcoreScannerPawnHasSickness>აქვს {0}</SubcoreScannerPawnHasSickness>
+  <SubcoreScannerBabyNotAllowed>ჩვილებს არ უშვებენ</SubcoreScannerBabyNotAllowed>
+  <InsertPersonSubcoreScannerDesc>ჩადეთ ადამიანი {0}-ში.</InsertPersonSubcoreScannerDesc>
+
+  <DurationHours>ხანგრძლივობა (საათი)</DurationHours>
+
+  
+  <Adult>ზრდასრული</Adult>
+  <Adults>ზრდასრულები</Adults>
+  <Child>ბავშვი</Child>
+  <Children>ბავშვები</Children>
+  <Baby>ჩვილი</Baby>
+  <Babies>ჩვილები</Babies>
+  <FeralChild>ველური ბავშვი</FeralChild>
+  <WearableBy>ტარებადი მიერ</WearableBy>
+
+  <Reward_ReimplantXenogerm_Label>ქსენოგერმის იმპლანტაცია</Reward_ReimplantXenogerm_Label>
+  <Reward_ReimplantXenogerm_Desc>ჯგუფის ერთი წევრი ხელახლა გადანერგავს თავის ქსენოგერმს თქვენს მიერ არჩეულ კოლონისტში, რითაც თქვენს კოლონისტს ერთ-ერთ მათგანად აქცევს. თქვენი კოლონისტი დარჩება თქვენი ფრაქციის ნაწილი და თქვენი კონტროლის ქვეშ.</Reward_ReimplantXenogerm_Desc>
+
+  
+  <MechResurrectionCharges>მექანიკური აღდგომის ბრალდებით</MechResurrectionCharges>
+
+  
+  <MechStunPulseWarning>მექანიკური განცვიფრების პულსი სიკვდილზე</MechStunPulseWarning>
+  <IsLowEnergySelfShutdown>{PAWN_nameDef} თვითგამორთვაშია დაბალი ენერგიისგან.</IsLowEnergySelfShutdown>
+  
+  
+  <ShowPollutionOverlayToggleButton>დაბინძურების გადაფარვის გადართვა. ეს აჩვენებს, თუ რომელი რელიეფის ტერიტორიებია დაბინძურებული.\n\nდაბინძურებული რელიეფის ზემოქმედება იწვევს ტოქსიკურ დაგროვებას, რამაც შეიძლება გამოიწვიოს სიკვდილი. მცენარეთა უმეტესობას არ შეუძლია დაბინძურებულ რელიეფზე ცხოვრება.</ShowPollutionOverlayToggleButton>
+  <TilePollutionNone>არ არის</TilePollutionNone>
+  <TilePollutionLight>მსუბუქი</TilePollutionLight>
+  <TilePollutionModerate>ზომიერი</TilePollutionModerate>
+  <TilePollutionExtreme>ძლიერი</TilePollutionExtreme>
+  <TilePollution>დაბინძურება</TilePollution>
+  <TilePollutionNearby>ახლომდებარე დაბინძურება</TilePollutionNearby>
+  <NearbyPollutionTip>ყველა ფილის დაბინძურების დონის ჯამი {0} ფილა რადიუსში. ამ ფილიდან მანძილის მატებასთან ერთად, დაბინძურების წვლილი მცირდება:\n\n{1}\n\nრაც უფრო მაღალია ახლომდებარე დაბინძურება, მით მეტია მჟავე სმოგის წარმოქმნის შანსი.</NearbyPollutionTip>
+  <NoxiousHazeInterval>ამ ფილას ექნება მჟავე სმოგი საშუალოდ ყოველ {0} დღეში.</NoxiousHazeInterval>
+  <NoxiousHazeNeverOccurring>ამ ფილას არასოდეს ექნება მჟავე სმოგი.</NoxiousHazeNeverOccurring>
+  <NearbyPollutionTilesAway>ფილები მოშორებით</NearbyPollutionTilesAway>
+  <PollutionLower>დაბინძურება</PollutionLower>
+  <CannotAbsorbPollution>ვერ შთანთქავს დაბინძურებას: შენობები ძალიან ახლოსაა</CannotAbsorbPollution>
+  <CanAbsorbPollution>შეუძლია შთანთქას დაბინძურება ახლომდებარე რელიეფიდან</CanAbsorbPollution>
+  <AbsorbingPollutionNext>შთანთქმის დაბინძურება: შემდეგი {0}-ში</AbsorbingPollutionNext>
+  <TerrainPollutionTip>რამდენად დაბინძურებულია რელიეფი ამ ფილაზე.\n\nდაბინძურებული რელიეფის ზემოქმედება იწვევს ტოქსიკურ დაგროვებას, რამაც შეიძლება გამოიწვიოს სიკვდილი. კულტურების უმეტესობას არ შეუძლია დაბინძურებულ რელიეფზე ცხოვრება.</TerrainPollutionTip>
+
+  
+  <StudyRequirementTip>მოითხოვს შესწავლას</StudyRequirementTip>
+
+  
+  <TriggerRadius>ტრიგერის რადიუსი</TriggerRadius>
+  <DormantCompOpening>გახსნა</DormantCompOpening>
+  
+  
+  <SurgeryDisableReasonOvumExtracted>ახლახან ამოღებული კვერცხუჯრედი</SurgeryDisableReasonOvumExtracted>
+  <Fertilize>განაყოფიერება</Fertilize>
+  <FertilizeThing>გაანაყოფიერეთ {0_label}</FertilizeThing>
+  <FertilizeCannotFloatOption>არ შეუძლია განაყოფიერება</FertilizeCannotFloatOption>
+  <FertilizeGizmoDescription>შეარჩიეთ მამაკაცი, რომელიც ამ კვერცხუჯრედს გაანაყოფიერებს ემბრიონის შესაქმნელად. შემდეგ ემბრიონი შეიძლება ჩაინერგოს დედაში ორსულობის დასაწყებად, ან ზრდის ღუმელში. შედეგად ბავშვის ბიოლოგიური მშობლები იქნებიან ქალი, რომელმაც კვერცხუჯრედი მოახდინა და მამაკაცი, რომელმაც გაანაყოფიერა იგი.</FertilizeGizmoDescription>
+  <FertilizeCancel>გააუქმეთ განაყოფიერება {0}-ით</FertilizeCancel>
+  <CannotSterile>სტერილური</CannotSterile>
+  <CannotPregnant>ფეხმძიმე</CannotPregnant>
+  <CannotMustBeAge>უნდა იყოს {0}</CannotMustBeAge>
+  <CannotImplantingOtherEmbryo>უკვე ჩაუნერგეს ემბრიონი</CannotImplantingOtherEmbryo>
+  <DisabledOption>{0} ({1})</DisabledOption>
+  <FertilizeDisabledNoMales>არცერთ მამაკაცს არ შეუძლია ამ კვერცხუჯრედის განაყოფიერება.</FertilizeDisabledNoMales>
+  
+  <ImplantLabel>იმპლანტის ემბრიონი</ImplantLabel>
+  <ImplantDescription>ჩაუნერგეთ ეს ემბრიონი სუროგატ დედას ორსულობის დასაწყებად.</ImplantDescription>
+  <InsertGrowthVatLabel>ჩადეთ ზრდის ქვაბში</InsertGrowthVatLabel>
+
+  <ImplantCannotFloatOption>იმპლანტაცია არ შეიძლება</ImplantCannotFloatOption>
+  <ImplantDisabledNoWomen>არცერთი ქალი არ შეიძლება იყოს სუროგატი დედა.</ImplantDisabledNoWomen>
+  <ImplantDisabledNoVats>არ არის ხელმისაწვდომი ზრდის ღვედები.</ImplantDisabledNoVats>
+  <ImplantSurgeryLabel>იმპლანტი {0}</ImplantSurgeryLabel>
+  <ImplantSurgeryConfirm>{0}-ის იმპლანტაციის წარმატების შანსი {1}-ში არის {2}.\n\nიმპლანტაციის წარმატების შანსი დამოკიდებულია სუროგატი დედის ნაყოფიერებაზე. ეს უფრო დაბალი იქნება, თუ დედა ძალიან მოხუცი ან ძალიან ახალგაზრდაა.</ImplantSurgeryConfirm>
+  <ImplantEmbryoCancelVat>{0}-ის ახლავე ამოღება ზრდის ღრმიდან გაანადგურებს მას, სანამ ბავშვი ჩამოყალიბდება.\n\nგსურთ გააგრძელოთ?</ImplantEmbryoCancelVat>
+  <ImplantFailedMessage>{0}-ის ჩანერგვა {1}-ში წარუმატებელი აღმოჩნდა.</ImplantFailedMessage>
+  <ImplantEmbryoCancel>გააუქმეთ ემბრიონის ჩასმა</ImplantEmbryoCancel>
+  <EmbryoEjectedFromGrowthVat>{0} ამოაგდეს ზრდის ღუმელიდან და განადგურდა.</EmbryoEjectedFromGrowthVat>
+  <EmbryoEjectedFromGrowthVatBiostarvation>{0} განადგურდა ზრდის ღუმელში ბიოსშიმშილის გამო.</EmbryoEjectedFromGrowthVatBiostarvation>
+
+  <IvfPregnancyLetterText>{0} წარმატებით დაორსულდა ემბრიონის იმპლანტაციის შედეგად!</IvfPregnancyLetterText>
+  <IvfPregnancyLetterParents>ბავშვს ექნება გენეტიკური შემადგენლობა {0} და {1}.</IvfPregnancyLetterParents>
+
+  
+  <RemoteMechShieldTip>მექანიტორის მიერ დაპროექტებული დისტანციური ფარი. ის შეეცდება შეაჩეროს შემომავალი ჭურვები ან ნამსხვრევები, მაგრამ არაფერს აკეთებს მელეული შეტევების ან სიცხის წინააღმდეგ. ის ხელს უშლის მფლობელს გასროლაში და მყისიერად ითიშება EMP-ის დარტყმის შემთხვევაში</RemoteMechShieldTip>
+
+  
+  <MyChildIsHappy>ჩემი შვილი ბედნიერია</MyChildIsHappy>
+  <MyChildIsSad>ჩემი შვილი მოწყენილია</MyChildIsSad> 
+  
+  <GeneticChemicalDependency_Label>გენეტიკური {CHEMICAL_label} დამოკიდებულება</GeneticChemicalDependency_Label>
+  <GeneticChemicalDependency_Desc>მე მჭირდება {CHEMICAL_label} ჩემი გენეტიკური დეფიციტის გამო. ამდენი ხანი გავიდა რაც არ მქონია.</GeneticChemicalDependency_Desc>
+
+</LanguageData>

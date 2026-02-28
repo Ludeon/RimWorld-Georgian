@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fishing_Disapproved.description>თევზაობა საშინელია. უნდა ავიცილოთ თავიდან.</Fishing_Disapproved.description>
+  <Fishing_Disapproved.label>არ მოიწონა</Fishing_Disapproved.label>
+  <Fishing_Prohibited.description>თევზაობა ამორალურია. არასდროს არ უნდა გავაკეთოთ.</Fishing_Prohibited.description>
+  <Fishing_Prohibited.label>აკრძალულია</Fishing_Prohibited.label>
+  <Fishing_Sacred.description>თევზაობა სწორი გზის ნაწილია.</Fishing_Sacred.description>
+  <Fishing_Sacred.label>წმინდა</Fishing_Sacred.label>
+</LanguageData>

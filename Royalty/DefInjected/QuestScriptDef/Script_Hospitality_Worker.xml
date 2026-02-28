@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hospitality_Util_Worker.root.nodes.16.node.nodes.2.inspectString>უნდა წავიდეს შატლით</Hospitality_Util_Worker.root.nodes.16.node.nodes.2.inspectString>
+  <Hospitality_Util_Worker.root.nodes.16.node.nodes.3.label>შატლი ჩამოვიდა</Hospitality_Util_Worker.root.nodes.16.node.nodes.3.label>
+  <Hospitality_Util_Worker.root.nodes.27.node.nodes.0.label>სტუმარი გარდაიცვალა: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.27.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.28.node.nodes.0.label>სტუმარი გადაღებული: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.28.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.29.node.nodes.0.label>დაქირავებული პატიმარი: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.29.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.30.node.nodes.0.label>ტყვე დამონებული: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.30.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.31.node.nodes.0.label>არასანქცირებული ოპერაცია: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.31.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.32.node.nodes.0.label>შეიწოვება ქსენოგერმი: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.32.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.33.node.nodes.0.label>სტუმარი წააგო: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.33.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.34.node.nodes.0.label>სტუმარი წააგო: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.34.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.35.node.nodes.0.label>სტუმარი წააგო: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.35.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.36.node.node.nodes.0.label>სტუმარი წააგო: {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.36.node.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.39.elseNode.node.nodes.0.label>ქვესტი ვერ მოხერხდა: [resolvedQuestName]</Hospitality_Util_Worker.root.nodes.39.elseNode.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.40.node.nodes.0.label>შატლი განადგურდა</Hospitality_Util_Worker.root.nodes.40.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.41.node.nodes.0.label>შატლი დარჩა</Hospitality_Util_Worker.root.nodes.41.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.42.node.nodes.1.node.nodes.1.node.nodes.0.label>ქვესტი დასრულდა</Hospitality_Util_Worker.root.nodes.42.node.nodes.1.node.nodes.1.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.42.node.nodes.1.node.nodes.2.node.nodes.0.label>ქვესტი დასრულდა</Hospitality_Util_Worker.root.nodes.42.node.nodes.1.node.nodes.2.node.nodes.0.label>
+  <Hospitality_Util_Worker.root.nodes.43.node.nodes.0.label>ქვესტი ვერ მოხერხდა: [resolvedQuestName]</Hospitality_Util_Worker.root.nodes.43.node.nodes.0.label>
+  <Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.3.node.nodes.0.label>შატლი განადგურდა</Util_ArriveByDropPodsOrShuttle.root.nodes.1.node.nodes.3.node.nodes.0.label>
+  <Util_ArriveByDropPodsOrShuttle.root.nodes.2.label>$customLetterLabel</Util_ArriveByDropPodsOrShuttle.root.nodes.2.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeleeWeapon_Club.description>ფორმის ჯოხი, ერთ ბოლოში მძიმე, მტრების დასახობად. ეს იარაღი იმდენად ძველია, რომ ადამიანის ბიოლოგიის ნაწილია. ევოლუციური ბიოლოგები ამბობენ, რომ მთავარი მიზეზი, რის გამოც ადამიანებს შეუძლიათ ჩვენი ხელისგულების გვერდიგვერდ დახრილობა (სხვა პრიმატების მსგავსად მხოლოდ წინ და უკან დახევის ნაცვლად) არის ის, რომ შეძლონ ჯოხის უკეთ რხევა.</MeleeWeapon_Club.description>
+  <MeleeWeapon_Club.label>კლუბი</MeleeWeapon_Club.label>
+  <MeleeWeapon_Ikwa.description>მოკლე შუბის სახელური, რომელიც მიმაგრებულია გრძელ პირის წერტილზე, შექმნილია სასიცოცხლო მნიშვნელობის ორგანოებში სწრაფი დაძაბვით.</MeleeWeapon_Ikwa.description>
+  <MeleeWeapon_Ikwa.label>იკვა</MeleeWeapon_Ikwa.label>
+  <MeleeWeapon_Knife.description>კაცობრიობის ერთ-ერთი უძველესი წარმოებული ობიექტი. დანამ მრავალი ფორმა მიიღო, მაგრამ კონცეფცია ყოველთვის იგივე რჩებოდა: სახელური დასაჭერად და ბასრი კიდე ჭრისთვის.</MeleeWeapon_Knife.description>
+  <MeleeWeapon_Knife.label>დანა</MeleeWeapon_Knife.label>
+  <MeleeWeapon_Spear.description>ბასრი წვეტიანი პოლუსი მოწინააღმდეგეების დასაჭრელად.</MeleeWeapon_Spear.description>
+  <MeleeWeapon_Spear.label>შუბი</MeleeWeapon_Spear.label>
+</LanguageData>

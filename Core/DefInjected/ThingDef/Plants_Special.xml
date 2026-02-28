@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BurnedTree.description>დამწვარი ხის ღერო. ის მახინჯია და ძალიან ცოტა გამოსაყენებელ ხეს იძლევა.</BurnedTree.description>
+  <BurnedTree.label>დამწვარი ღერო</BurnedTree.label>
+  <ChoppedStump.description>ხის მოჭრის შემდეგ დარჩენილი ღერო. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ ხეს იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</ChoppedStump.description>
+  <ChoppedStump.label>დაჭრილი ღერო</ChoppedStump.label>
+  <Dye.description>ტინქტორიას მცენარისგან მოპოვებული საღებავი. მისი გამოყენება შესაძლებელია კედლების, შენობების ფერის შესაცვლელად და სხვა.</Dye.description>
+  <Dye.label>საღებავი</Dye.label>
+  <Plant_Ambrosia.description>იშვიათი ველური ბუჩქი, რომელიც ამბროზიის ნაყოფს იძლევა. ამბროზია გემრიელია და ნარკოტიკივით განწყობას აუმჯობესებს. ამბროზიის მოშენება შეუძლებელია, ამიტომ ველური ამბროზიის გროვები განსაკუთრებით ფასობს.</Plant_Ambrosia.description>
+  <Plant_Ambrosia.label>ამბროზიის ბუჩქი</Plant_Ambrosia.label>
+  <Plant_Timbershroom.description>მაღალი ყავისფერი სოკო გრძელი ღეროებით. მოსავლის აღებისას იძლევა ხის მსგავს ნივთიერებას.</Plant_Timbershroom.description>
+  <Plant_Timbershroom.label>ხე-ტყის ბუჩქი</Plant_Timbershroom.label>
+  <Plant_Tinctoria.description>გენეტიკურად შემუშავებული ყვავილის მსგავსი კულტურა, რომელიც გამოყოფს თვითშეცვლის საღებავს. Tinctoria საღებავები შეიძლება შეიცვალოს სხვადასხვა ფერებში და გამოიყენონ კედლების, შენობების და სხვა ფერის შესაცვლელად.</Plant_Tinctoria.description>
+  <Plant_Tinctoria.label>ტინქტორია</Plant_Tinctoria.label>
+  <SmashedStump.description>დაზიანებით განადგურებულია ხის ნარჩენები. მახინჯია. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ ხეს იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</SmashedStump.description>
+  <SmashedStump.label>დამტვრეული ღერო</SmashedStump.label>
+</LanguageData>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Anesthetic.description>ძილის წამლები სისხლში. საანესთეზიო ქმნილებებს უგონო მდგომარეობაში აყენებს.</Anesthetic.description>
+  <Anesthetic.label>საანესთეზიო</Anesthetic.label>
+  <Anesthetic.stages.0.label>აცვიათ</Anesthetic.stages.0.label>
+  <Anesthetic.stages.1.label>მღელვარე</Anesthetic.stages.1.label>
+  <Anesthetic.stages.2.label>დამამშვიდებელი</Anesthetic.stages.2.label>
+  <BloodLoss.description>ნორმალური სისხლის მოცულობის შემცირება. მცირე სისხლის დაკარგვა შედარებით მსუბუქ შედეგებს იძლევა, მაგრამ მძიმე შემთხვევაში ჟანგბადის გადატანა ძლიერ ირღვევა და მსხვერპლი გონებას კარგავს ან კვდება.</BloodLoss.description>
+  <BloodLoss.label>სისხლის დაკარგვა</BloodLoss.label>
+  <BloodLoss.stages.0.label>მცირეწლოვანი</BloodLoss.stages.0.label>
+  <BloodLoss.stages.1.label>მცირეწლოვანი</BloodLoss.stages.1.label>
+  <BloodLoss.stages.2.label>ზომიერი</BloodLoss.stages.2.label>
+  <BloodLoss.stages.3.label>მძიმე</BloodLoss.stages.3.label>
+  <BloodLoss.stages.4.label>უკიდურესი</BloodLoss.stages.4.label>
+  <BrainShock.description>ელექტრო შოკის შემდგომი ეფექტები თავის ტვინზე. ეს ძირითადად გამოწვეულია ტვინის იმპლანტანტების გამოხმაურებით, რომლებიც მოხვდა EMP პულსებით.</BrainShock.description>
+  <BrainShock.label>ტვინის შოკი</BrainShock.label>
+  <BrainShock.labelNoun>ტვინის შოკი</BrainShock.labelNoun>
+  <CatatonicBreakdown.description>ფსიქიკური შოკის მდგომარეობა, რომელიც იწვევს ფუნქციონირების სრულ უუნარობას. მსხვერპლი კოლაფსირებს, ფაქტობრივად უგონო მდგომარეობაში.</CatatonicBreakdown.description>
+  <CatatonicBreakdown.label>კატატონური რღვევა</CatatonicBreakdown.label>
+  <CatatonicBreakdown.labelNoun>კატატონური ავარია</CatatonicBreakdown.labelNoun>
+  <CoveredInFirefoam.description>დაფარულია ცეცხლგამძლე ქაფით.</CoveredInFirefoam.description>
+  <CoveredInFirefoam.label>დაფარული ცეცხლოვანი ქაფით</CoveredInFirefoam.label>
+  <CryptosleepSickness.description>კრიპტოძილის პოდის გამოყენების შემდგომი ეფექტები. კრიპტოძილი აჩერებს და ცვლის სხეულის ბევრ ფუნქციას, რათა თავიდან აიცილოს დაბერება და სიკვდილი. კრიპტოძილის გამოსვლისას სხეულს დრო სჭირდება ბუნებრივი მეტაბოლური პროცესების აღსადგენად და აღდგენისთვის. სანამ ეს გრძელდება, პაციენტს აწუხებს გულისრევა, თავბრუსხვევა და გონებაში ბუნდოვანი შეგრძნება.</CryptosleepSickness.description>
+  <CryptosleepSickness.label>კრიპტოძილის დაავადება</CryptosleepSickness.label>
+  <DrugOverdose.description>განზოგადებული ტოქსიკური ეფექტები სისხლში წამლების გადაჭარბებული კონცენტრაციის გამო.</DrugOverdose.description>
+  <DrugOverdose.label>ნარკოტიკების გადაჭარბება</DrugOverdose.label>
+  <DrugOverdose.labelNoun>ნარკოტიკების გადაჭარბებული დოზა</DrugOverdose.labelNoun>
+  <DrugOverdose.stages.0.label>მცირეწლოვანი</DrugOverdose.stages.0.label>
+  <DrugOverdose.stages.1.label>მცირეწლოვანი</DrugOverdose.stages.1.label>
+  <DrugOverdose.stages.2.label>მაიორი</DrugOverdose.stages.2.label>
+  <FoodPoisoning.description>კუჭ-ნაწლავის დაავადება, რომელიც გამოწვეულია გაფუჭებული ან უწმინდური საკვების მიღებით. ეს შეიძლება გამოწვეული იყოს დამპალი საკვების ჭამით, არაკომპეტენტური მზარეულების შემთხვევით მოწამვლის კერძებით ან სახიფათო ველური წყაროებიდან ჭამით. პაციენტს აქვს ღებინება და გარკვეული პერიოდის განმავლობაში ავადდება.</FoodPoisoning.description>
+  <FoodPoisoning.label>საკვების მოწამვლა</FoodPoisoning.label>
+  <FoodPoisoning.stages.0.label>გამოჯანმრთელება</FoodPoisoning.stages.0.label>
+  <FoodPoisoning.stages.1.label>მაიორი</FoodPoisoning.stages.1.label>
+  <FoodPoisoning.stages.2.label>საწყისი</FoodPoisoning.stages.2.label>
+  <HeartAttack.description>გულისცემის ნორმალური რიტმის დარღვევა. გულის შეტევა შეიძლება იყოს დამამშვიდებლად მტკივნეული. ისინი შეიძლება გაუარესდეს და გამოიწვიოს სიკვდილი, ან გამოჯანმრთელება.</HeartAttack.description>
+  <HeartAttack.label>გულის შეტევა</HeartAttack.label>
+  <HeartAttack.labelNoun>გულის შეტევა</HeartAttack.labelNoun>
+  <HeartAttack.stages.0.label>მტკივნეული</HeartAttack.stages.0.label>
+  <HeartAttack.stages.1.label>დამამცირებელი</HeartAttack.stages.1.label>
+  <HeartAttack.stages.2.label>ფატალური</HeartAttack.stages.2.label>
+  <Pregnant.description>ეს არსება შთამომავლობას აჩენს. ის იმშობიარებს, თუ ორსულობა სრულდება. თუ შიმშილი ან დაშავებულია, შეიძლება მოხდეს სპონტანური აბორტი.</Pregnant.description>
+  <Pregnant.label>ორსული</Pregnant.label>
+  <Pregnant.labelNoun>ორსულობა</Pregnant.labelNoun>
+  <Pregnant.stages.0.label>ადრეულ ეტაპზე</Pregnant.stages.0.label>
+  <Pregnant.stages.1.label>შუა საფეხური</Pregnant.stages.1.label>
+  <Pregnant.stages.2.label>გვიან სტადიაზე</Pregnant.stages.2.label>
+  <PsychicComa.description>კეთილთვისებიანი კომის ფორმა, რომლის დროსაც ტვინი აღდგება ფსიქიკური გადატვირთვისგან.</PsychicComa.description>
+  <PsychicComa.label>ფსიქიკური კომა</PsychicComa.label>
+  <PsychicComa.labelNoun>ფსიქიკური კომა</PsychicComa.labelNoun>
+  <PsychicHangover.description>ნერვული სითბოს შემდგომი ეფექტი. ფსიქიკური hangover არის შემაშფოთებელი, მაგრამ არა საშიში.</PsychicHangover.description>
+  <PsychicHangover.label>ფსიქიკური hangover</PsychicHangover.label>
+  <PsychicHangover.labelNoun>ფსიქიკური hangover</PsychicHangover.labelNoun>
+  <PsychicHangover.stages.0.label>ფორმირება</PsychicHangover.stages.0.label>
+  <PsychicHangover.stages.1.label>ზუზუნი</PsychicHangover.stages.1.label>
+  <PsychicInvisibility.description>ფსიქიკურად გამოწვეული უხილავობა. ეს რეალურად მოქმედებს ახლომდებარე სხვებზე, რაც აიძულებს მათ ტვინს ვერ აღიქვას ამ ინდივიდის მხედველობა, მაშინაც კი, თუ თვალები არ არის ზემოქმედება.</PsychicInvisibility.description>
+  <PsychicInvisibility.label>ფსიქიკური უხილავობა</PsychicInvisibility.label>
+  <PsychicShock.description>ფსიქიკური ქაოსის მდგომარეობა ტვინში და გონებაში. გამოწვეული ფსიქიკური შეტევებით ან ნერვული სიცხის კრიტიკული დონით, ეს ეფექტი დამღუპველია, სანამ არ გაქრება.</PsychicShock.description>
+  <PsychicShock.label>ფსიქიკური შოკი</PsychicShock.label>
+  <PsychicShock.labelNoun>ფსიქიკური შოკი</PsychicShock.labelNoun>
+  <ResurrectionSickness.description>აღდგომის შემდგომი შედეგები. სხეულის ხელოვნურად განახლებულ პროცესებს დრო სჭირდება საკუთარი თავის ბალანსის აღსადგენად.</ResurrectionSickness.description>
+  <ResurrectionSickness.label>აღდგომის ავადმყოფობა</ResurrectionSickness.label>
+  <ToxicBuildup.description>შხამი სისხლის მიმოქცევაში. ეს შეიძლება გამოწვეული იყოს გარემოს ტოქსინებით, შხამიანი კბენით ან მოწამლული იარაღით.\n\nმაღალ დონეზე ტოქსიკური დაგროვება სასიკვდილოა. მცირე დოზებიც კი სერიოზულ სისუსტეს იწვევს.</ToxicBuildup.description>
+  <ToxicBuildup.label>ტოქსიკური დაგროვება</ToxicBuildup.label>
+  <ToxicBuildup.stages.0.label>საწყისი</ToxicBuildup.stages.0.label>
+  <ToxicBuildup.stages.1.label>საწყისი</ToxicBuildup.stages.1.label>
+  <ToxicBuildup.stages.2.label>მცირეწლოვანი</ToxicBuildup.stages.2.label>
+  <ToxicBuildup.stages.3.label>ზომიერი</ToxicBuildup.stages.3.label>
+  <ToxicBuildup.stages.4.label>სერიოზული</ToxicBuildup.stages.4.label>
+  <ToxicBuildup.stages.5.label>უკიდურესი</ToxicBuildup.stages.5.label>
+</LanguageData>

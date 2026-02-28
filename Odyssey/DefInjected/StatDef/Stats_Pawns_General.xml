@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FishingSpeed.description>სიჩქარე, რომლითაც ეს ადამიანი თევზს იჭერს.</FishingSpeed.description>
+  <FishingSpeed.label>თევზაობის სიჩქარე</FishingSpeed.label>
+  <FishingYield.description>პროცენტული მოსავალი, რომელსაც ეს ადამიანი იღებს თევზაობისას.</FishingYield.description>
+  <FishingYield.label>თევზაობის მოსავალი</FishingYield.label>
+  <PilotingAbility.description>რამდენად კარგად შეუძლია ამ ადამიანს მანქანის მართვა.</PilotingAbility.description>
+  <PilotingAbility.label>პილოტირების უნარი</PilotingAbility.label>
+  <VacuumResistance.description>რამდენად მდგრადია ეს არსება სივრცის ვაკუუმის უარყოფითი ეფექტების მიმართ.</VacuumResistance.description>
+  <VacuumResistance.label>ვაკუუმის წინააღმდეგობა</VacuumResistance.label>
+</LanguageData>

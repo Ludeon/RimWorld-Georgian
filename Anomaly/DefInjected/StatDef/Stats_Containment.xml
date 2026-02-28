@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ColdContainmentBonus.description>ეს პირი გაქცევის ნაკლებად სავარაუდოა, თუ ინახება ძალიან ცივ ოთახში.</ColdContainmentBonus.description>
+  <ColdContainmentBonus.label>ცივი შეკავების ბონუსი</ColdContainmentBonus.label>
+  <ContainmentStrength.description>რამდენად უსაფრთხოდ შეიძლება ეს შეიცავდეს ერთეულს. ეს გაუმჯობესებულია უფრო ძლიერი კედლებითა და კარებით, მეტი სინათლით, ნაკლები სხვა ერთეულებით ოთახში და სპეციალური შემაკავებელი მოწყობილობებით. ზოგიერთი სუბიექტი უფრო ადვილია შეკავება ცივ ტემპერატურაზე.</ContainmentStrength.description>
+  <ContainmentStrength.label>შეკავების ძალა</ContainmentStrength.label>
+  <MinimumContainmentStrength.description>შეკავების სიძლიერე საჭიროა ამ ერთეულის სათანადოდ შესანარჩუნებლად. სუბიექტს, რომელიც იმყოფება პალატაში, რომლის მინიმალური სიმძლავრეა დაბალი, ექნება გაქცევის ძალიან მაღალი შანსი.</MinimumContainmentStrength.description>
+  <MinimumContainmentStrength.label>წთ შეკავების ძალა</MinimumContainmentStrength.label>
+</LanguageData>

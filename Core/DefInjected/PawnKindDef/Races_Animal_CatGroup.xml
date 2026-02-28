@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cat.label>კატა</Cat.label>
+  <Cat.lifeStages.0.label>კნუტი</Cat.lifeStages.0.label>
+  <GuineaPig.label>ზღვის გოჭი</GuineaPig.label>
+  <Husky.label>ჰასკი</Husky.label>
+  <Husky.lifeStages.0.label>ჰასკის ლეკვი</Husky.lifeStages.0.label>
+  <LabradorRetriever.label>ლაბრადორ რეტრივერი</LabradorRetriever.label>
+  <LabradorRetriever.lifeStages.0.label>ლაბრადორის ლეკვი</LabradorRetriever.lifeStages.0.label>
+  <Monkey.label>მაიმუნი</Monkey.label>
+  <YorkshireTerrier.label>იორკშირ ტერიერი</YorkshireTerrier.label>
+  <YorkshireTerrier.lifeStages.0.label>იორკშირის ტერიერის ლეკვი</YorkshireTerrier.lifeStages.0.label>
+</LanguageData>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <MessageMustChooseIdeo>შექმენით ან შეარჩიეთ იდეოლიგია თქვენი ფრაქციისთვის.</MessageMustChooseIdeo>
+  <MessageIdeoNameCantBeEmpty>იდეოლიგიის სახელი არ შეიძლება იყოს ცარიელი.</MessageIdeoNameCantBeEmpty>
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1} და {PRECEPT2} შეუთავსებელია.</MessageIdeoIncompatiblePrecepts>
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} ტანსაცმლის სურვილი ემთხვევა {ROLE} ტანსაცმლის მოთხოვნას.</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} ემთხვევა {ROLE} ტანსაცმლის მოთხოვნას ({ROLEAPPAREL}). ეს შეუძლებელს გახდის {ROLE}-ს საჭირო და სასურველი ტანსაცმლის ერთად ტარება.</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <MessageRitualMissingTarget>{PRECEPT}-ს ესაჭიროება ერთ-ერთი ასეთი შენობა</MessageRitualMissingTarget>
+  <MessageBuildingMissingRitual>{PRECEPT} საჭიროებს ასოცირებულ რიტუალს.</MessageBuildingMissingRitual>
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} უარს ამბობს ამაზე {0_possessive} იდეოლიგიის გამო.</MessagePawnUnwillingToDoDueToIdeo>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} ცდილობდა {RECIPIENT_nameDef} გადაექცია {INITIATOR_possessive} იდეოლიგიად. {RECIPIENT_nameDef}-ის სიზუსტე დაეცა {CERTAINTYBEFORE}-დან {CERTAINTYAFTER}-მდე. {RECIPIENT_pronoun} აგრძელებს კონვერტაციის მცდელობას.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} ცდილობდა {PAWN2_nameDef} გადაექცია {PAWN1_possessive} იდეოლიგიად. ამან გამოიწვია სოციალური ბრძოლა!</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageNotEnoughMemes>თქვენ უნდა აირჩიოთ მინიმუმ {0} მემები.</MessageNotEnoughMemes>
+  <MessageTooManyMemes>თქვენ არ შეგიძლიათ აირჩიოთ {0} მემზე მეტი.</MessageTooManyMemes>
+  <MessageNotEnoughStructureMemes>თქვენ უნდა აირჩიოთ სტრუქტურის მემი.</MessageNotEnoughStructureMemes>
+  <MessageIncompatibleMemes>{0_label} და {1_label} შეუთავსებელია ერთმანეთთან.</MessageIncompatibleMemes>
+  <MessageNoRequiredRolePawnToBeginRitual>{1}-ის დასაწყებად გჭირდებათ {0}.</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNotEnoughSpectators>მინიმუმ {0} მაყურებელი(ები) საჭიროა {1}-ის დასაწყებად.</MessageNotEnoughSpectators>
+  <MessageRoleChangeChooseDifferentRole>თქვენ უნდა აირჩიოთ როლი.</MessageRoleChangeChooseDifferentRole>
+  <MessageNeedAssignedRoleToBeginRitual>{1}-ის დაწყებამდე, თქვენ უნდა დაავალოთ ვინმეს {0}-ის როლი.</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAtLeastOneParticipantOfIdeo>საჭიროა მინიმუმ ერთი {0} მონაწილე.</MessageNeedAtLeastOneParticipantOfIdeo>
+  
+  <MessageRoleAssigned>{0_labelShort} ახლა იკავებს {1}-ის როლს.</MessageRoleAssigned>
+  <MessageRoleUnassignedPrisoner>მას შემდეგ, რაც {0_labelShort} გახდა პატიმარი, {0_pronoun}-ს აღარ შეუძლია {1}-ის როლი.</MessageRoleUnassignedPrisoner>
+  <MessageWarningPlayerDesignatedTreeChopped>გაფრთხილება: {0} დაარღვიოს, თუ ხე მოიჭრა.</MessageWarningPlayerDesignatedTreeChopped>
+  <MessageWarningPlayerDesignatedMining>გაფრთხილება: {0} იქნება დაარღვიოს, თუ მაინინგი მოხდება.</MessageWarningPlayerDesignatedMining>
+  <MessageConnectedPawnDied>{TREE_label}-ს ჰქონდა კავშირი {PAWN_nameDef}-თან მოწყვეტილი. ის უნდა აღდგეს {DURATION}-ისთვის, სანამ ხელახლა დაკავშირდება.</MessageConnectedPawnDied>
+
+  
+  <MessageSlaveEmancipated>{0_nameDef} იქნა ემანსიპირებული {1_nameDef}-ის მიერ.</MessageSlaveEmancipated>
+  <MessagePrisonerEnslaved>{0_nameDef} დამონებულია {1_nameDef}-ის მიერ.</MessagePrisonerEnslaved>
+  <MessagePrisonerWillBroken>პატიმარ {1_nameDef}-ს ნება დაარღვია {0_nameDef}-მა.</MessagePrisonerWillBroken>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>მოჰყვება მონობა.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+
+  
+  <MessageNoWardenCapableOfEnslavement>არცერთ მცველს არ ძალუძს ეს დამონება.</MessageNoWardenCapableOfEnslavement>
+  <MessageNoWardenOfIdeo>თქვენ არ გყავთ {MEMBERNAME} მეურვეები {PRISONER_nameDef}-ის გადასაყვანად. {PRISONER_possessive} ურთიერთქმედების რეჟიმი დაუბრუნდა "ურთიერთქმედების გარეშე".</MessageNoWardenOfIdeo>
+
+  
+  <MessageCampDetected>თქვენ აღმოაჩინეთ {CAMP_label} ახლოს, რომელსაც აკონტროლებს {FACTION_name}.</MessageCampDetected>
+
+  
+  <MessageCharityEventRefused>ქველმოქმედმა უარი თქვა</MessageCharityEventRefused>
+  <MessageCharityEventFulfilled>ქველმოქმედება შესრულდა</MessageCharityEventFulfilled>
+  <MessageBeggarsLeavingWithNoItems>{0} ხელცარიელი ტოვებს.</MessageBeggarsLeavingWithNoItems>
+  <MessageBeggarsLeavingWithItemsSingular>{0}-მა მიიღო მოთხოვნილი ნივთები და მიდის.</MessageBeggarsLeavingWithItemsSingular>
+  <MessageBeggarsLeavingWithItemsPlural>{0}-მა მიიღო მოთხოვნილი ნივთები და მიდის.</MessageBeggarsLeavingWithItemsPlural>
+  <MessageWandererLeftToDie>{0_nameDef} გარდაიცვალა ყოველგვარი მკურნალობის გარეშე.</MessageWandererLeftToDie>
+  <MessageWandererLeftBehind>{0_nameDef} დარჩა მოკვდა.</MessageWandererLeftBehind>
+  <MessageWandererRecruited>{0_nameDef} იქნა დაკომპლექტებული.</MessageWandererRecruited>
+  <MessageWandererLeftHealthy>{0_nameDef} დარჩა ჯანმრთელი.</MessageWandererLeftHealthy>
+  <MessageCharityQuestEndedFailed>{0} ვერ მოხერხდა.</MessageCharityQuestEndedFailed>
+  <MessageCharityQuestEndedSuccess>{0} წარმატებით დასრულდა.</MessageCharityQuestEndedSuccess>
+
+  
+  <CannotRemove>ამოღება შეუძლებელია</CannotRemove>
+  <CannotRemoveMemeRequired>{MEME}-ის ამოღება შეუძლებელია</CannotRemoveMemeRequired>
+  <CannotRemoveMemeRequiredPlayer>{MEME}-ის წაშლა შეუძლებელია: მოთხოვნილი მოთამაშეების ფრაქციის მიერ.</CannotRemoveMemeRequiredPlayer>
+  <RequiredByFaction>მოთხოვნილია {FACTION_name}-ის მიერ.</RequiredByFaction>
+  <OverlappingRoleApparel>როლებს არ შეიძლება ჰქონდეთ გადაფარვითი ტანსაცმლის მოთხოვნები.</OverlappingRoleApparel>
+  
+  <SelfDestructCountdown>{0} თვითგანადგურება მოხდება {1}-ში.</SelfDestructCountdown>
+  <PreceptNameTooLong>პრინციპის სახელი ძალიან გრძელია (მაქსიმუმ {0} ასო)</PreceptNameTooLong>
+
+  
+  <MessageAncientTerminalDiscovered>თქვენ აღმოაჩინეთ უძველესი ტერმინალი {0}-ის შესახებ ინფორმაციით!</MessageAncientTerminalDiscovered>
+  <MessageAncientComplexBackToShuttle>თქვენ აღმოაჩინეთ საიდუმლო ინფორმაცია {0}-ის შესახებ! დაბრუნდით შატლზე მის გასაშვებად.</MessageAncientComplexBackToShuttle>
+  <MessageAncientSignalActivated>ამოქმედებულია უძველესი მიწოდების თანამგზავრი. მარაგი ახლოს იქნება.</MessageAncientSignalActivated>
+  <MessageAncientSignalHostileDetected>{0}-მა {1}-დან აღმოაჩინა მიწოდების სიგნალი და უტევს.</MessageAncientSignalHostileDetected>
+
+  
+  <MessageAncientAltarThreatsWokenUp>უსაფრთხოების ყველა სისტემა იღვიძებს!</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsAlerted>უსაფრთხოების ყველა სისტემა გაფრთხილებულია თქვენი ყოფნის შესახებ.</MessageAncientAltarThreatsAlerted>
+
+  
+  <MessageAnimalIsVeneratedForAllColonists>გაფრთხილება: {PAWNKINDLABELPLURAL} პატივს სცემს ყველა {PAWNS} და არ დააზარალებს.</MessageAnimalIsVeneratedForAllColonists>
+
+  
+  <MessageNewColonyMax>აირჩიეთ მაქსიმუმ {0} {1} ახალ კოლონიაში მოსაყვანად.</MessageNewColonyMax>
+  <MessageNewColoyRequiresOneColonist>თქვენ უნდა აირჩიოთ მინიმუმ 1 კოლონისტი.</MessageNewColoyRequiresOneColonist>
+
+  
+  <MessageFuelNodeTriggered>{0} აალდა და აპირებს აფეთქებას!</MessageFuelNodeTriggered>
+
+  
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural} გაიღვიძებს {1}-ში.</MessageSleepingThreatDelayActivated>
+  <MessageInfestationDelayActivated>ინვაზიის ჩამოსვლა.</MessageInfestationDelayActivated>
+  <MessageFuelNodeDelayActivated>{0} დაირღვა და შესაძლოა მალე აფეთქდეს!</MessageFuelNodeDelayActivated>
+
+  
+  <MessageDevelopmentPointsEarned>განვითარების წერტილები შეიცვალა {0}-დან {1}-მდე ({2}).</MessageDevelopmentPointsEarned>
+  <MessageFluidIdeoOneChangeAllowed>დასაშვებია მხოლოდ ერთი ცვლილება სტრუქტურებში, მემებსა და სტილებში.</MessageFluidIdeoOneChangeAllowed>
+
+</LanguageData>

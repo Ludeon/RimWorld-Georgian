@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mining_Disapproved.description>ბუნებრივ დედამიწაზე მოპოვება მახინჯი მოქმედებაა.</Mining_Disapproved.description>
+  <Mining_Disapproved.label>არ მოიწონა</Mining_Disapproved.label>
+  <Mining_Horrible.description>ბუნებრივი დედამიწის ხელყოფა სამთო იარაღებით საშინელი ქმედებაა.</Mining_Horrible.description>
+  <Mining_Horrible.label>საზარელი</Mining_Horrible.label>
+  <Mining_Prohibited.description>ბუნებრივი დედამიწის გაუპატიურება სამთო იარაღებით არის საშინლად ბოროტი ქმედება.</Mining_Prohibited.description>
+  <Mining_Prohibited.label>აკრძალულია</Mining_Prohibited.label>
+  <MiningYield_High.description>მაინინგი იმდენად მნიშვნელოვანია, რომ ამას დიდი ყურადღება და პატივისცემით ვაკეთებთ და ამის გამო მეტ რესურსს ვიღებთ.</MiningYield_High.description>
+  <MiningYield_High.label>მაღალი</MiningYield_High.label>
+</LanguageData>

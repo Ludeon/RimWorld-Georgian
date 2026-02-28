@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiosculptingSickness.description>არასრული ბიოსკულპტურული ციკლის შემდგომი ეფექტები. ეს იწვევს გულისრევას, თავბრუსხვევას და ბუნდოვან აზროვნებას.</BiosculptingSickness.description>
+  <BiosculptingSickness.label>ბიოსკულპტურული ავადმყოფობა</BiosculptingSickness.label>
+  <Blindfold.description>თვალდახუჭული ბლოკავს ამ ადამიანს მხედველობას.</Blindfold.description>
+  <Blindfold.label>თვალდახუჭული</Blindfold.label>
+  <NeuralSupercharge.description>გარეგან გამოწვეული ნეირონების მგრძნობელობისა და სინქრონულობის ზრდა. ეს ზრდის ცნობიერებას და სწავლის მაჩვენებელს გაზრდილი შიმშილის ფასად.</NeuralSupercharge.description>
+  <NeuralSupercharge.label>ნერვული სუპერჩამუხტი</NeuralSupercharge.label>
+  <TortureCrown.description>გვირგვინის მსგავსი თავსაბურავი დაბურული წვეტით, რომელიც თავს უხერხულად სწევს. იგი გამოიყენება ტანსაცმლის ტკივილის დასაყენებლად.</TortureCrown.description>
+  <TortureCrown.label>წამების გვირგვინი</TortureCrown.label>
+  <WorkFocus.description>ეს ადამიანი ენერგიით აღიჭურვა რიტუალმა ან ღონისძიებამ, რომელშიც მონაწილეობა მიიღო. ენერგია ნიშნავს, რომ მას ახლა უფრო მეტი მუშაობა შეუძლია.</WorkFocus.description>
+  <WorkFocus.label>სამუშაო ფოკუსირება</WorkFocus.label>
+</LanguageData>

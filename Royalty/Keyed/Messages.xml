@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <ShuttleBlocked>შატლი ვერ დაეშვა ბალიშზე: {0}</ShuttleBlocked>
+  <MessageShuttleArrivedContentsLost>შატლი ჩამოვიდა, მაგრამ რადგან შიგნით კოლონისტები არ იყვნენ, შინაარსი დაიკარგა.</MessageShuttleArrivedContentsLost>
+
+  <ShuttleCannotLand_Fogged>ვერ დაჯდება ამოუცნობ უბანში.</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Unwalkable>ტერიტორია უნდა იყოს ფეხით გასავლელი.</ShuttleCannotLand_Unwalkable>
+  <ShuttleCannotLand_Unaffordable>რელიეფი არ უჭერს მხარს {0}.</ShuttleCannotLand_Unaffordable>
+
+  <MessageBestowerWaiting>აირჩიეთ {BESTOWER_definite} და დააწკაპუნეთ ცერემონიის დასაწყებად "დაიწყეთ მინიჭების ცერემონია".</MessageBestowerWaiting>
+  <MessageBestowerUnreachable>გამცემს ვერ მიაღწევს!</MessageBestowerUnreachable>
+  <MessageBestowingTargetIsBusy>{0} დაკავებულია.</MessageBestowingTargetIsBusy>
+  <MessageBestowingSpotUnreachable>გამყიდველი გაღიზიანებულია ჩარევით და წასვლა გადაწყვიტა.</MessageBestowingSpotUnreachable>
+  <MessageBestowingDanger>გამცემი მიდის სიცოცხლისათვის საშიში საფრთხის გამო.</MessageBestowingDanger>
+  <MessageBestowingDangerTemperature>გამცემი მიდის სიცოცხლისთვის საშიში ტემპერატურის გამო.</MessageBestowingDangerTemperature>
+  <MessageBestowingDangerGas>გამყიდველი მიდის ტერიტორიაზე არსებული საშიში გაზების გამო.</MessageBestowingDangerGas>
+  <MessageBestowingInterrupted>დაჯილდოების ცერემონია შეწყდა.</MessageBestowingInterrupted>
+
+  <MessageBestowingCeremonyStarted>{PAWN_definite}-ის დაჯილდოების ცერემონია დაიწყო.</MessageBestowingCeremonyStarted>
+  <MessageMissionGetBackToShuttle>თქვენ დაამარცხეთ {FACTION_pawnsPlural}! დაბრუნდით შატლზე მის გასაშვებად.</MessageMissionGetBackToShuttle>
+
+  <MessagePermitTransportDrop>{FACTION_name}-მა დააგდო რესურსები ახლოს.</MessagePermitTransportDrop>
+  <MessagePermitTransportDropCaravan>{FACTION_name}-მა გაუგზავნა რესურსები {PAWN_nameDef}-ის ქარავანს.</MessagePermitTransportDropCaravan>
+
+  <MessageNoFactionForVerbMechCluster>არ არის ნაპოვნი ორბიტაზე მოძრავი მექანიზმები.</MessageNoFactionForVerbMechCluster>
+
+</LanguageData>

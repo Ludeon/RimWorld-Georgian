@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Accept.label>მიღება</Accept.label>
+  <Cancel.label>გააუქმოს</Cancel.label>
+  <Command_ColonistDraft.label>პროექტი</Command_ColonistDraft.label>
+  <Command_ItemForbid.label>გადართვა აკრძალულია</Command_ItemForbid.label>
+  <Command_TogglePower.label>დენის გადართვა</Command_TogglePower.label>
+  <Designator_Cancel.label>გააუქმოს</Designator_Cancel.label>
+  <Designator_Deconstruct.label>დეკონსტრუქცია</Designator_Deconstruct.label>
+  <Designator_NextDrawStyle.label>შემდეგი გათამაშების სტილი</Designator_NextDrawStyle.label>
+  <Designator_PreviousDrawStyle.label>წინა გათამაშების სტილი</Designator_PreviousDrawStyle.label>
+  <Designator_RotateLeft.label>მარცხნივ როტაცია</Designator_RotateLeft.label>
+  <Designator_RotateRight.label>როტაცია მარჯვნივ</Designator_RotateRight.label>
+  <Designator_ShapeSnap.label>ძალის კვადრატული ზომები</Designator_ShapeSnap.label>
+  <Dev_ChangeSelectedDebugAction.label>შეცვალეთ შერჩეული გამართვის მოქმედება</Dev_ChangeSelectedDebugAction.label>
+  <Dev_TickOnce.label>მონიშნე ერთხელ</Dev_TickOnce.label>
+  <Dev_ToggleDebugActionsMenu.label>გამართვის მოქმედებების მენიუს გადართვა</Dev_ToggleDebugActionsMenu.label>
+  <Dev_ToggleDebugInspector.label>გამართვის ინსპექტორის გადართვა</Dev_ToggleDebugInspector.label>
+  <Dev_ToggleDebugLog.label>გამართვის ჟურნალის გადართვა</Dev_ToggleDebugLog.label>
+  <Dev_ToggleDebugLogMenu.label>გამართვის ჟურნალის მენიუს გადართვა</Dev_ToggleDebugLogMenu.label>
+  <Dev_ToggleDebugSettingsMenu.label>გამართვის პარამეტრების მენიუს გადართვა</Dev_ToggleDebugSettingsMenu.label>
+  <Dev_ToggleDevPalette.label>დეველოპერის პალიტრის გადართვა</Dev_ToggleDevPalette.label>
+  <Dev_ToggleGodMode.label>ღმერთის რეჟიმის გადართვა</Dev_ToggleGodMode.label>
+  <MapDolly_Down.label>თოჯინა ქვემოთ</MapDolly_Down.label>
+  <MapDolly_Left.label>დოლი დატოვა</MapDolly_Left.label>
+  <MapDolly_Right.label>დოლი უფლება</MapDolly_Right.label>
+  <MapDolly_Up.label>თოჯინა ზევით</MapDolly_Up.label>
+  <MapZoom_In.label>მასშტაბირება</MapZoom_In.label>
+  <MapZoom_Out.label>მასშტაბირება</MapZoom_Out.label>
+  <Misc1.label>სხვადასხვა 1</Misc1.label>
+  <Misc10.label>სხვადასხვა 10</Misc10.label>
+  <Misc11.label>სხვადასხვა 11</Misc11.label>
+  <Misc12.label>სხვადასხვა 12</Misc12.label>
+  <Misc2.label>სხვადასხვა 2</Misc2.label>
+  <Misc3.label>სხვადასხვა 3</Misc3.label>
+  <Misc4.label>სხვადასხვა 4</Misc4.label>
+  <Misc5.label>სხვადასხვა 5</Misc5.label>
+  <Misc6.label>სხვადასხვა 6</Misc6.label>
+  <Misc7.label>სხვადასხვა 7</Misc7.label>
+  <Misc8.label>სხვადასხვა 8</Misc8.label>
+  <Misc9.label>სხვადასხვა 9</Misc9.label>
+  <ModifierIncrement_100x.label>მატება 100x</ModifierIncrement_100x.label>
+  <ModifierIncrement_10x.label>მატება 10x</ModifierIncrement_10x.label>
+  <NextColonist.label>შემდეგი კოლონისტი</NextColonist.label>
+  <OpenMapSearch.label>გახსენით საძიებო ფანჯარა</OpenMapSearch.label>
+  <PreviousColonist.label>წინა კოლონისტი</PreviousColonist.label>
+  <QueueOrder.label>რიგის შეკვეთა</QueueOrder.label>
+  <SelectNextInCell.label>აირჩიეთ შემდეგი უჯრედში</SelectNextInCell.label>
+  <ShowCellInspector.label>აჩვენე უჯრედის ინსპექტორი</ShowCellInspector.label>
+  <ShowEyedropper.label>თვალის საწვეთურის ჩვენება</ShowEyedropper.label>
+  <TakeScreenshot.label>სკრინშოტის გადაღება</TakeScreenshot.label>
+  <TimeSpeed_Fast.label>თამაშის სიჩქარე: სწრაფი</TimeSpeed_Fast.label>
+  <TimeSpeed_Faster.label>თამაშის სიჩქარე: უფრო სწრაფი</TimeSpeed_Faster.label>
+  <TimeSpeed_Normal.label>თამაშის სიჩქარე: ნორმალური</TimeSpeed_Normal.label>
+  <TimeSpeed_Slower.label>თამაშის სიჩქარე: ნელი</TimeSpeed_Slower.label>
+  <TimeSpeed_Superfast.label>თამაშის სიჩქარე: სუპერ სწრაფი</TimeSpeed_Superfast.label>
+  <TimeSpeed_Ultrafast.label>თამაშის სიჩქარე: ულტრა სწრაფი (გამართვა)</TimeSpeed_Ultrafast.label>
+  <ToggleBeautyDisplay.label>სილამაზის ჩვენების გადართვა</ToggleBeautyDisplay.label>
+  <TogglePause.label>თამაშის შეჩერება/გაგრძელება</TogglePause.label>
+  <ToggleRoomStatsDisplay.label>ოთახის სტატისტიკის ჩვენების გადართვა</ToggleRoomStatsDisplay.label>
+  <ToggleScreenshotMode.label>ეკრანის ანაბეჭდის რეჟიმის გადართვა</ToggleScreenshotMode.label>
+</LanguageData>

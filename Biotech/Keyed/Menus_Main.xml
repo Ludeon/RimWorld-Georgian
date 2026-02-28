@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <Difficulty_BabiesAreHealthy_Label>ბავშვები ყოველთვის ჯანმრთელები არიან</Difficulty_BabiesAreHealthy_Label>
+  <Difficulty_BabiesAreHealthy_Info>ადამიანები ყოველთვის ჯანმრთელები იბადებიან. დედებს არ შეუძლიათ მშობიარობის დროს მოკვდნენ ან სპონტანური აბორტები.</Difficulty_BabiesAreHealthy_Info>
+  <Difficulty_NoBabiesOrChildren_Label>გამორთეთ ბავშვები</Difficulty_NoBabiesOrChildren_Label>
+  <Difficulty_NoBabiesOrChildren_Info>ადამიანი ვერ დაორსულდება. ადამიანები ჩვილები და ბავშვები არასოდეს გამოჩნდებიან, თუ არ აირჩევთ მათ დამწყებ კოლონისტებად.</Difficulty_NoBabiesOrChildren_Info>
+  <Difficulty_ChildAgingRate_Label>ბავშვის დაბერების მაჩვენებელი</Difficulty_ChildAgingRate_Label>
+  <Difficulty_ChildAgingRate_Info>დაარეგულირეთ ჩვილებისა და ბავშვების დაბერების მაჩვენებელი. 11-დან 20 წლამდე ასაკის ბავშვის დაბერების მაჩვენებელი შეუფერხებლად გადავა ზრდასრულთა დაბერების მაჩვენებელზე.</Difficulty_ChildAgingRate_Info>
+  <Difficulty_AdultAgingRate_Label>ზრდასრულთა დაბერების მაჩვენებელი</Difficulty_AdultAgingRate_Label>
+  <Difficulty_AdultAgingRate_Info>დაარეგულირეთ სიხშირე, რომლითაც მოზარდები დაბერდებიან.</Difficulty_AdultAgingRate_Info>
+  <Difficulty_WastepackInfestationChanceFactor_Label>ნარჩენების პაკეტების ქოქოსის ინვაზია</Difficulty_WastepackInfestationChanceFactor_Label>
+  <Difficulty_WastepackInfestationChanceFactor_Info>დაარეგულირეთ შანსი, რომ დაშლილი ნარჩენების შეფუთვამ გამოიწვიოს მწერების ქოქოსის ჩამოსვლა.</Difficulty_WastepackInfestationChanceFactor_Info>
+  <Difficulty_ChildRaidersAllowed_Label>ბავშვები რეიდერები</Difficulty_ChildRaidersAllowed_Label>
+  <Difficulty_ChildRaidersAllowed_Info>მტრული რეიდები ზოგჯერ მოიცავს ბავშვებს.</Difficulty_ChildRaidersAllowed_Info>
+
+  <BabiesAreHealthyDisableReason>გამორთულია, რადგან სხვა პარამეტრი ხელს უშლის ადამიანის დაბადებას.</BabiesAreHealthyDisableReason>
+
+  <DifficultyChildrenSection>ბავშვები</DifficultyChildrenSection>
+
+  
+  <PlanetPollution>დაბინძურება</PlanetPollution>
+  
+</LanguageData>

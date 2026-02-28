@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CounselFailed.stages.0.description>რატომღაც, დახმარების მცდელობამ კიდევ უფრო გააუარესა საქმე.</CounselFailed.stages.0.description>
+  <CounselFailed.stages.0.label>წარუმატებელი ნუგეში {0}</CounselFailed.stages.0.label>
+  <Counselled.stages.0.description>მივიღე კონსულტაცია იმაზე, რაც მაწუხებდა.</Counselled.stages.0.description>
+  <Counselled.stages.0.label>რჩევა {0}</Counselled.stages.0.label>
+  <Counselled_MoodBoost.stages.0.description>მივიღე რჩევა ვიღაცისგან. სასიამოვნო იყო მისი მოსმენა.</Counselled_MoodBoost.stages.0.description>
+  <Counselled_MoodBoost.stages.0.label>რჩევა {0}</Counselled_MoodBoost.stages.0.label>
+  <FailedConvertAbilityInitiator.stages.0.description>ვიღაცის გადაყვანა ვცადე და არ გამომივიდა. უხერხული.</FailedConvertAbilityInitiator.stages.0.description>
+  <FailedConvertAbilityInitiator.stages.0.label>ვერ მოხერხდა კონვერტაცია {0}</FailedConvertAbilityInitiator.stages.0.label>
+  <FailedConvertAbilityRecipient.stages.0.description>ვიღაცამ სცადა ჩემი გადაქცევა. ვისურვებდი, რომ მარტო დამტოვონ.</FailedConvertAbilityRecipient.stages.0.description>
+  <FailedConvertAbilityRecipient.stages.0.label>{0} ცდილობდა ჩემს გადაკეთებას</FailedConvertAbilityRecipient.stages.0.label>
+  <TendedByMedicalSpecialist.stages.0.description>მე მივიღე სამედიცინო დახმარება ერთისგან, რომელსაც ჩემი იდეოლიგიის განსაკუთრებული მკურნალის სტატუსი აქვს.</TendedByMedicalSpecialist.stages.0.description>
+  <TendedByMedicalSpecialist.stages.0.label>მოვლილი {0}</TendedByMedicalSpecialist.stages.0.label>
+  <WillDiminished.stages.0.label>შემცირდება</WillDiminished.stages.0.label>
+</LanguageData>

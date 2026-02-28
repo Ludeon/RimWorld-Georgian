@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AnimalInsanityMass.label>ცხოველთა მასობრივი სიგიჟე</AnimalInsanityMass.label>
+  <AnimalInsanitySingle.label>მარტოხელა ცხოველის სიგიჟე</AnimalInsanitySingle.label>
+  <DeepDrillInfestation.label>ღრმა საბურღი ინვაზია</DeepDrillInfestation.label>
+  <DeepDrillInfestation.letterLabel>ძალიან ღრმა: ინვაზია</DeepDrillInfestation.letterLabel>
+  <DeepDrillInfestation.letterText>თქვენი ღრმა საბურღების ვიბრაციამ მიწისქვეშა მწერები გააღიზიანა. ახლა ისინი შურის საძიებლად ზედაპირზე გვირაბს თხრიან!\n\nფრთხილად - მწერები გაცეცხლებულები არიან და ყველაფრის განადგურებას შეეცდებიან.</DeepDrillInfestation.letterText>
+  <DefoliatorShipPartCrash.label>გემის ნაწილის ავარია (დეფოლიატორი)</DefoliatorShipPartCrash.label>
+  <DefoliatorShipPartCrash.letterLabel>დეფოლიატორ გემი</DefoliatorShipPartCrash.letterLabel>
+  <DefoliatorShipPartCrash.letterText>ახლოს უძველესი ხომალდის დიდი ნამსხვრევი ჩამოვარდა.\n\nმისი იდუმალი გავლენა მის გარშემო გაფართოებად წრეში ყველა მცენარეს გაანადგურებს.\n\nრაც შეიძლება მალე გაანადგურეთ. მაგრამ მზად იყავით - ის დაცულია.</DefoliatorShipPartCrash.letterText>
+  <Infestation.label>ინვაზია</Infestation.label>
+  <Infestation.letterLabel>ინფექცია</Infestation.letterLabel>
+  <Infestation.letterText>გიგანტური მწერები თქვენკენ გვირაბს თხრიან! რამდენიმე წამში ზედაპირზე ამოვლენ და ბუდეებს გააშენებენ.\n\nეს ბუდეები უფრო მეტ მწერს და უფრო მეტ ბუდეს წარმოქმნის.\n\nთუ არ გსურთ მწერებმა ადგილი დაიკავონ, სწრაფად იმოქმედეთ.</Infestation.letterText>
+  <ManhunterPack.label>კაცის მონადირეთა შეკვრა</ManhunterPack.label>
+  <PsychicEmanatorShipPartCrash.label>გემის ნაწილის ავარია (ფსიქიკური)</PsychicEmanatorShipPartCrash.label>
+  <PsychicEmanatorShipPartCrash.letterLabel>ფსიქიკური ხომალდი</PsychicEmanatorShipPartCrash.letterLabel>
+  <PsychicEmanatorShipPartCrash.letterText>ახლოს უძველესი ხომალდის დიდი ნამსხვრევი ჩამოვარდა.\n\nთქვენი კოლონისტები გონების სიღრმეში მის ზემოქმედებას გრძნობენ, რომელიც გამოუთქმელი საქციელისკენ აქეზებს. ეტყობა შიგნით მანქანა-პერსონა დგას.\n\nგაანადგურეთ ის რაც შეიძლება მალე. მაგრამ მზად იყავით - ის დაცულია.</PsychicEmanatorShipPartCrash.letterText>
+  <RaidEnemy.label>მტრის დარბევა</RaidEnemy.label>
+</LanguageData>

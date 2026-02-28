@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SlaveSuppressionOffset.description>ოფსეტური მიმართა მატარებლის მონების ჩახშობაზე. უმაღლესი ფასეულობები უფრო დიდხანს თრგუნავს მონებს, ხოლო დაბალი ღირებულებები მონებს უფრო ხშირად აჯანყდებიან.</SlaveSuppressionOffset.description>
+  <SlaveSuppressionOffset.label>მონების ჩახშობის ოფსეტური</SlaveSuppressionOffset.label>
+  <TerrorSource.description>შიშის ინტენსივობა, რომელსაც ეს ობიექტი იწვევს ნახვისას.</TerrorSource.description>
+  <TerrorSource.label>ტერორი</TerrorSource.label>
+</LanguageData>

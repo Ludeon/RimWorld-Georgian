@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CatfishEscape.letterLabel>Catfish გაქცევა</CatfishEscape.letterLabel>
+  <CatfishEscape.letterText>ლოქოს ჩხუბის მცდელობისას {PAWN_nameDef} წააწყდა და დაკარგა მოლიპულ თევზი ბუნდოვან წყლებში.</CatfishEscape.letterText>
+  <CatfishSpine.letterLabel>Catfish ხერხემალი</CatfishSpine.letterLabel>
+  <CatfishSpine.letterText>ლოქოსთან ტარებისას {PAWN_nameDef} დაკბინა თევზის ერთ-ერთმა ტოქსიკურმა ზურგის ხერხემალმა, რის გამოც {PAWN_objective}-მა თევზი ჩამოაგდო.</CatfishSpine.letterText>
+  <DogfishBite.letterLabel>ძაღლის თევზის ნაკბენი</DogfishBite.letterLabel>
+  <DogfishBite.letterText>While reeling in a dogfish, {PAWN_nameDef} was bitten.\n\nThe fish managed to escape.</DogfishBite.letterText>
+  <DogfishEscape.letterLabel>Dogfish გაქცევა</DogfishEscape.letterLabel>
+  <DogfishEscape.letterText>While reeling in a dogfish, {PAWN_nameDef} nearly bitten by the thrashing creature.\n\nThe fish escaped in the confusion.</DogfishEscape.letterText>
+  <FrostfishAttack.letterLabel>მფრინავი ყინვაგამძლე თევზი</FrostfishAttack.letterLabel>
+  <FrostfishAttack.letterText>თევზაობისას {PAWN_nameDef}-ს მოულოდნელად წყლიდან გადმოხტა ყინვაგამძლე თევზი დაეჯახა. ამან გამოიწვია {PAWN_objective}-მა დაკარგა {PAWN_possessive} დაჭერა.</FrostfishAttack.letterText>
+  <GuppyEscape.letterLabel>გუპის გაქცევა</GuppyEscape.letterLabel>
+  <GuppyEscape.letterText>როდესაც ცდილობდა გუპის დაჭერას, {PAWN_nameDef}-მ დაარტყა პატარა მოლიპულ თევზს, რითაც გაქცევის საშუალება მისცა.</GuppyEscape.letterText>
+  <MarlinAttack.letterLabel>მარლინის შეტევა</MarlinAttack.letterLabel>
+  <MarlinAttack.letterText>თევზაობისას {PAWN_nameDef}-ს დაესხა თავს გიგანტური მარლინი და მას შუბისმაგვარი შუბისებრი შუბისებრი შუბი დაარტყა. თევზი გაიქცა.</MarlinAttack.letterText>
+  <MarlinEscape.letterLabel>გიგანტური თევზი</MarlinEscape.letterLabel>
+  <MarlinEscape.letterText>თევზაობისას {PAWN_nameDef}-მა დაინახა მასიური თევზის ჩრდილი წყლის ქვეშ. ჩრდილმა გააოცა {PAWN_nameDef}, რის გამოც {PAWN_objective}-მა დაკარგა {PAWN_possessive} დაჭერა.</MarlinEscape.letterText>
+  <PiranhaAttack.letterLabel>პირანას შეტევა</PiranhaAttack.letterLabel>
+  <PiranhaAttack.letterText>While fishing, {PAWN_nameDef} got too close to the water and was attacked by a frenzied school of piranha!\n\nThe fish managed to escape.</PiranhaAttack.letterText>
+  <PiranhaBite.letterLabel>პირანას ნაკბენი</PiranhaBite.letterLabel>
+  <PiranhaBite.letterText>While fishing, {PAWN_nameDef} got too close to the water and was bitten by a piranha!\n\nThe fish escaped.</PiranhaBite.letterText>
+  <TunaEscape.letterLabel>ტუნას გაქცევა</TunaEscape.letterLabel>
+  <TunaEscape.letterText>როდესაც ცდილობდა თინუსის ბორბალს, {PAWN_nameDef}-ს ხაზი გაუტყდა, რის გამოც {PAWN_objective}-მა დაჭერა დაკარგა.</TunaEscape.letterText>
+</LanguageData>

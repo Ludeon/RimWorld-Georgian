@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteHumanMeat_Abhorrent.stages.0.description>ადამიანის ხორცი უნდა მეჭამა. ეს არის შეურაცხყოფა ყველაფრის მიმართ, რაც მე მჯერა.</AteHumanMeat_Abhorrent.stages.0.description>
+  <AteHumanMeat_Abhorrent.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_Abhorrent.stages.0.label>
+  <AteHumanMeat_Disapproved.stages.0.description>ადამიანის ხორცი უნდა მეჭამა. მე ვფიქრობ, რომ ასეთი ქმედებები არასწორია.</AteHumanMeat_Disapproved.stages.0.description>
+  <AteHumanMeat_Disapproved.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_Disapproved.stages.0.label>
+  <AteHumanMeat_Horrible.stages.0.description>ადამიანის ხორცი უნდა მეჭამა. ეს საშინელება იყო.</AteHumanMeat_Horrible.stages.0.description>
+  <AteHumanMeat_Horrible.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_Horrible.stages.0.label>
+  <AteHumanMeat_Know_Abhorrent.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_Know_Abhorrent.stages.0.label>
+  <AteHumanMeat_Know_Disapproved.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_Know_Disapproved.stages.0.label>
+  <AteHumanMeat_Know_Horrible.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_Know_Horrible.stages.0.label>
+  <AteHumanMeat_Preferred.stages.0.description>ადამიანის ხორცს ვჭამდი. ეს მაძლევს თავს კეთილშობილურ და ძლიერად.</AteHumanMeat_Preferred.stages.0.description>
+  <AteHumanMeat_Preferred.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_Preferred.stages.0.label>
+  <AteHumanMeat_RequiredRavenous.stages.0.description>ადამიანის ხორცს ვჭამდი! სამყარო მართალია, მე კი ისეთი ვარ, როგორიც უნდა ვიყო.</AteHumanMeat_RequiredRavenous.stages.0.description>
+  <AteHumanMeat_RequiredRavenous.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_RequiredRavenous.stages.0.label>
+  <AteHumanMeat_RequiredStrong.stages.0.description>მე ვჭამდი ადამიანის ხორცს, როგორც ყველა ნამდვილ ადამიანს უნდა.</AteHumanMeat_RequiredStrong.stages.0.description>
+  <AteHumanMeat_RequiredStrong.stages.0.label>შეჭამა ადამიანის ხორცი</AteHumanMeat_RequiredStrong.stages.0.label>
+  <AteNonCannibalFood_Abhorrent.stages.0.description>მე უნდა მეჭამა საკვები, რომელიც არ იყო მიღებული ადამიანის სხეულიდან. ეს აბსოლუტურად ეწინააღმდეგება ჩემს რწმენას.</AteNonCannibalFood_Abhorrent.stages.0.description>
+  <AteNonCannibalFood_Abhorrent.stages.0.label>ჭამდა არაკანიბალურ საკვებს</AteNonCannibalFood_Abhorrent.stages.0.label>
+  <AteNonCannibalFood_Horrible.stages.0.description>მე უნდა მეჭამა საკვები, რომელიც არ იყო მიღებული ადამიანის სხეულიდან. ჩემი რწმენა კატეგორიულად კრძალავს ასეთ რამეებს.</AteNonCannibalFood_Horrible.stages.0.description>
+  <AteNonCannibalFood_Horrible.stages.0.label>ჭამდა არაკანიბალურ საკვებს</AteNonCannibalFood_Horrible.stages.0.label>
+  <AteNonCannibalFood_Know_Abhorrent.stages.0.label>ჭამდა არაკანიბალურ საკვებს</AteNonCannibalFood_Know_Abhorrent.stages.0.label>
+  <AteNonCannibalFood_Know_Horrible.stages.0.label>ჭამდა არაკანიბალურ საკვებს</AteNonCannibalFood_Know_Horrible.stages.0.label>
+  <ButcheredHuman_Abhorrent.stages.0.description>მე დავკალი ადამიანი. ეს არის შეურაცხყოფა ყველაფრის მიმართ, რაც მე მჯერა.</ButcheredHuman_Abhorrent.stages.0.description>
+  <ButcheredHuman_Abhorrent.stages.0.label>ადამიანურად დავხოცე</ButcheredHuman_Abhorrent.stages.0.label>
+  <ButcheredHuman_Disapproved.stages.0.description>მე დავკალი ადამიანი. მე ვფიქრობ, რომ ასეთი ქმედებები არასწორია.</ButcheredHuman_Disapproved.stages.0.description>
+  <ButcheredHuman_Disapproved.stages.0.label>ადამიანურად დავხოცე</ButcheredHuman_Disapproved.stages.0.label>
+  <ButcheredHuman_Horrible.stages.0.description>მე დავკალი ადამიანი. ეს საშინელება იყო.</ButcheredHuman_Horrible.stages.0.description>
+  <ButcheredHuman_Horrible.stages.0.label>ადამიანურად დავხოცე</ButcheredHuman_Horrible.stages.0.label>
+  <ButcheredHuman_Know_Abhorrent.stages.0.description>ერთმა ჩვენგანმა დახოცა ადამიანი. ეს არის შეურაცხყოფა ყველაფრის მიმართ, რაც მე მჯერა.</ButcheredHuman_Know_Abhorrent.stages.0.description>
+  <ButcheredHuman_Know_Abhorrent.stages.0.label>ადამიანურად დავხოცეთ</ButcheredHuman_Know_Abhorrent.stages.0.label>
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.0.label>მოკლული ადამიანურად</ButcheredHuman_Know_Abhorrent_Opinion.stages.0.label>
+  <ButcheredHuman_Know_Disapproved.stages.0.description>ერთმა ჩვენგანმა დახოცა ადამიანი. მე ვფიქრობ, რომ ასეთი ქმედებები არასწორია.</ButcheredHuman_Know_Disapproved.stages.0.description>
+  <ButcheredHuman_Know_Disapproved.stages.0.label>ადამიანურად დავხოცეთ</ButcheredHuman_Know_Disapproved.stages.0.label>
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.0.label>მოკლული ადამიანურად</ButcheredHuman_Know_Disapproved_Opinion.stages.0.label>
+  <ButcheredHuman_Know_Horrible.stages.0.description>ერთმა ჩვენგანმა დახოცა ადამიანი. ეს საშინელება იყო.</ButcheredHuman_Know_Horrible.stages.0.description>
+  <ButcheredHuman_Know_Horrible.stages.0.label>ადამიანურად დავხოცეთ</ButcheredHuman_Know_Horrible.stages.0.label>
+  <ButcheredHuman_Know_Horrible_Opinion.stages.0.label>მოკლული ადამიანურად</ButcheredHuman_Know_Horrible_Opinion.stages.0.label>
+  <HumanLeatherApparel_Abhorrent.stages.0.description>ადამიანის ტყავის ტარება შემაშფოთებელია. ვის შეეძლო ამის გაკეთება?</HumanLeatherApparel_Abhorrent.stages.0.description>
+  <HumanLeatherApparel_Abhorrent.stages.0.label>ადამიანის ტყავი {0}</HumanLeatherApparel_Abhorrent.stages.0.label>
+  <HumanLeatherApparel_Abhorrent.stages.1.description>გიჟივით ვარ ჩაცმული.</HumanLeatherApparel_Abhorrent.stages.1.description>
+  <HumanLeatherApparel_Abhorrent.stages.1.label>ადამიანის ტყავი {0} (+1)</HumanLeatherApparel_Abhorrent.stages.1.label>
+  <HumanLeatherApparel_Abhorrent.stages.2.description>ვფიქრობ, ჩემს ტანსაცმელზე შეიძლება სახე იყოს. ო, არა... ჩემი ტანსაცმელი სახეა.</HumanLeatherApparel_Abhorrent.stages.2.description>
+  <HumanLeatherApparel_Abhorrent.stages.2.label>ადამიანის ტყავი {0} (+2)</HumanLeatherApparel_Abhorrent.stages.2.label>
+  <HumanLeatherApparel_Abhorrent.stages.3.description>მე ვგავარ საშინელებათა შოუს ფრიკას და ვგრძნობ, რომ საშინელებათა შოუში ვარ.</HumanLeatherApparel_Abhorrent.stages.3.description>
+  <HumanLeatherApparel_Abhorrent.stages.3.label>ადამიანის ტყავი {0} და ა.შ</HumanLeatherApparel_Abhorrent.stages.3.label>
+  <HumanLeatherApparel_Disapproved.stages.0.description>არ უნდა მეცვა ადამიანის ტყავის ტანსაცმელი.</HumanLeatherApparel_Disapproved.stages.0.description>
+  <HumanLeatherApparel_Disapproved.stages.0.label>ადამიანის ტყავი {0}</HumanLeatherApparel_Disapproved.stages.0.label>
+  <HumanLeatherApparel_Disapproved.stages.1.description>ადამიანის ტყავში ვარ გამოწყობილი. ეს არ მომწონს.</HumanLeatherApparel_Disapproved.stages.1.description>
+  <HumanLeatherApparel_Disapproved.stages.1.label>ადამიანის ტყავი {0} (+1)</HumanLeatherApparel_Disapproved.stages.1.label>
+  <HumanLeatherApparel_Disapproved.stages.2.description>რატომ მაცვია ამდენი ადამიანის ტყავის ტანსაცმელი? სხვა რამე უნდა გვქონდეს ჩასაცმელი...</HumanLeatherApparel_Disapproved.stages.2.description>
+  <HumanLeatherApparel_Disapproved.stages.2.label>ადამიანის ტყავი {0} (+2)</HumanLeatherApparel_Disapproved.stages.2.label>
+  <HumanLeatherApparel_Disapproved.stages.3.description>მე ნამდვილად უნდა ჩავიცვა არაადამიანური ტყავის ტანსაცმელი. გიჟს ვგავარ.</HumanLeatherApparel_Disapproved.stages.3.description>
+  <HumanLeatherApparel_Disapproved.stages.3.label>ადამიანის ტყავი {0} და ა.შ</HumanLeatherApparel_Disapproved.stages.3.label>
+  <HumanLeatherApparel_Horrible.stages.0.description>ადამიანის ტყავის ტარება არასწორია.</HumanLeatherApparel_Horrible.stages.0.description>
+  <HumanLeatherApparel_Horrible.stages.0.label>ადამიანის ტყავი {0}</HumanLeatherApparel_Horrible.stages.0.label>
+  <HumanLeatherApparel_Horrible.stages.1.description>მე ნამდვილად არაკომფორტულად ვგრძნობ თავს ამ ადამიანის ტყავის სამოსით.</HumanLeatherApparel_Horrible.stages.1.description>
+  <HumanLeatherApparel_Horrible.stages.1.label>ადამიანის ტყავი {0} (+1)</HumanLeatherApparel_Horrible.stages.1.label>
+  <HumanLeatherApparel_Horrible.stages.2.description>რატომ მაცვია ამდენი ადამიანის ტყავი? ეს საშინელებაა!</HumanLeatherApparel_Horrible.stages.2.description>
+  <HumanLeatherApparel_Horrible.stages.2.label>ადამიანის ტყავი {0} (+2)</HumanLeatherApparel_Horrible.stages.2.label>
+  <HumanLeatherApparel_Horrible.stages.3.description>მე ფრიად ვგავარ, ეს საშინელებაა!</HumanLeatherApparel_Horrible.stages.3.description>
+  <HumanLeatherApparel_Horrible.stages.3.label>ადამიანის ტყავი {0} და ა.შ</HumanLeatherApparel_Horrible.stages.3.label>
+  <HumanLeatherApparel_Preferred.stages.0.description>თავს კარგად ვგრძნობ ადამიანის ტყავის სამოსის ჩაცმისას.</HumanLeatherApparel_Preferred.stages.0.description>
+  <HumanLeatherApparel_Preferred.stages.0.label>ადამიანის ტყავი {0}</HumanLeatherApparel_Preferred.stages.0.label>
+  <HumanLeatherApparel_Preferred.stages.1.description>მე მსიამოვნებს სხვისი კანის ტარება.</HumanLeatherApparel_Preferred.stages.1.description>
+  <HumanLeatherApparel_Preferred.stages.1.label>ადამიანის ტყავი {0} (+1)</HumanLeatherApparel_Preferred.stages.1.label>
+  <HumanLeatherApparel_Preferred.stages.2.description>მე ვიცვამ ჩემი მტრების სახეებს. ეს მახარებს.</HumanLeatherApparel_Preferred.stages.2.description>
+  <HumanLeatherApparel_Preferred.stages.2.label>ადამიანის ტყავი {0} (+2)</HumanLeatherApparel_Preferred.stages.2.label>
+  <HumanLeatherApparel_Preferred.stages.3.description>ნამდვილ კანიბალს ვგავარ. ვის შეეძლო ჩემში ეჭვი?</HumanLeatherApparel_Preferred.stages.3.description>
+  <HumanLeatherApparel_Preferred.stages.3.label>ადამიანის ტყავი {0} და ა.შ</HumanLeatherApparel_Preferred.stages.3.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.0.description>მსიამოვნებს სხვისი ტანჯვის ტარება.</HumanLeatherApparel_RequiredRavenous.stages.0.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.0.label>ადამიანის ტყავი {0}</HumanLeatherApparel_RequiredRavenous.stages.0.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.1.description>ეს მათ შეაშინებს. ყველა გაიგებს ჩემს ძალას.</HumanLeatherApparel_RequiredRavenous.stages.1.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.1.label>ადამიანის ტყავი {0} (+1)</HumanLeatherApparel_RequiredRavenous.stages.1.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.2.description>ჩემს ტანსაცმელზე სახეები არ მეღიმება, მაგრამ მაბედნიერებს.</HumanLeatherApparel_RequiredRavenous.stages.2.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.2.label>ადამიანის ტყავი {0} (+2)</HumanLeatherApparel_RequiredRavenous.stages.2.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.3.description>ხორცი! ხორცი მიანიშნებს ჩემს გამარჯვებაზე!</HumanLeatherApparel_RequiredRavenous.stages.3.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.3.label>ადამიანის ტყავი {0} და ა.შ</HumanLeatherApparel_RequiredRavenous.stages.3.label>
+  <HumanLeatherApparel_RequiredStrong.stages.0.description>მე მსიამოვნებს სხვების სახეების ტარება.</HumanLeatherApparel_RequiredStrong.stages.0.description>
+  <HumanLeatherApparel_RequiredStrong.stages.0.label>ადამიანის ტყავი {0}</HumanLeatherApparel_RequiredStrong.stages.0.label>
+  <HumanLeatherApparel_RequiredStrong.stages.1.description>ეს მათ შეაშინებს. ყველა გაიგებს ჩემს ძალას.</HumanLeatherApparel_RequiredStrong.stages.1.description>
+  <HumanLeatherApparel_RequiredStrong.stages.1.label>ადამიანის ტყავი {0} (+1)</HumanLeatherApparel_RequiredStrong.stages.1.label>
+  <HumanLeatherApparel_RequiredStrong.stages.2.description>ჩემს ტანსაცმელზე სახეები არ მეღიმება, მაგრამ მაბედნიერებს.</HumanLeatherApparel_RequiredStrong.stages.2.description>
+  <HumanLeatherApparel_RequiredStrong.stages.2.label>ადამიანის ტყავი {0} (+2)</HumanLeatherApparel_RequiredStrong.stages.2.label>
+  <HumanLeatherApparel_RequiredStrong.stages.3.description>ხორცი! ხორცი მიანიშნებს ჩემს გამარჯვებაზე!</HumanLeatherApparel_RequiredStrong.stages.3.description>
+  <HumanLeatherApparel_RequiredStrong.stages.3.label>ადამიანის ტყავი {0} და ა.შ</HumanLeatherApparel_RequiredStrong.stages.3.label>
+  <NoRecentHumanMeat_Preferred.stages.0.description>ძალიან დიდი ხანია რაც ადამიანის ხორცს ვჭამ. არასწორად გრძნობს თავს.</NoRecentHumanMeat_Preferred.stages.0.description>
+  <NoRecentHumanMeat_Preferred.stages.0.label>ადამიანის ხორცი მინდა</NoRecentHumanMeat_Preferred.stages.0.label>
+  <NoRecentHumanMeat_RequiredRavenous.stages.0.description>მტაცებელი! ამდენი ხანი გავიდა მას შემდეგ რაც ჭეშმარიტი ხორცი გავსინჯე. ეს არასწორია!</NoRecentHumanMeat_RequiredRavenous.stages.0.description>
+  <NoRecentHumanMeat_RequiredRavenous.stages.0.label>ადამიანის ხორცი მინდა</NoRecentHumanMeat_RequiredRavenous.stages.0.label>
+  <NoRecentHumanMeat_RequiredStrong.stages.0.description>ძალიან დიდი ხანი გავიდა მას შემდეგ, რაც ადამიანს ვხმარობდი. აქამდე უნდა მეჭამა.</NoRecentHumanMeat_RequiredStrong.stages.0.description>
+  <NoRecentHumanMeat_RequiredStrong.stages.0.label>ადამიანის ხორცი მინდა</NoRecentHumanMeat_RequiredStrong.stages.0.label>
+</LanguageData>

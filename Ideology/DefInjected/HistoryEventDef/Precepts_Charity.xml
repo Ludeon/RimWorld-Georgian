@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CharityFulfilled_Beggars.label>მათხოვრები დაეხმარნენ</CharityFulfilled_Beggars.label>
+  <CharityFulfilled_HospitalityRefugees.label>ლტოლვილები დაეხმარნენ</CharityFulfilled_HospitalityRefugees.label>
+  <CharityFulfilled_IntroWimp.label>კეთილშობილმა გადაარჩინა</CharityFulfilled_IntroWimp.label>
+  <CharityFulfilled_RefugeePodCrash.label>pod ლტოლვილი გადაარჩინა</CharityFulfilled_RefugeePodCrash.label>
+  <CharityFulfilled_ShuttleCrashRescue.label>ავარიაში გადარჩენილები დაეხმარნენ</CharityFulfilled_ShuttleCrashRescue.label>
+  <CharityFulfilled_ThreatReward_Joiner.label>სასოწარკვეთილი სადურგლო მიიღო</CharityFulfilled_ThreatReward_Joiner.label>
+  <CharityFulfilled_WandererJoins.label>მოხეტიალე დაეხმარა</CharityFulfilled_WandererJoins.label>
+  <CharityRefused_Beggars.label>მათხოვრებმა უარი თქვეს</CharityRefused_Beggars.label>
+  <CharityRefused_Beggars_Betrayed.label>მათხოვრებმა უღალატეს</CharityRefused_Beggars_Betrayed.label>
+  <CharityRefused_HospitalityRefugees.label>ლტოლვილებმა უარი თქვეს</CharityRefused_HospitalityRefugees.label>
+  <CharityRefused_IntroWimp.label>მან უარი თქვა</CharityRefused_IntroWimp.label>
+  <CharityRefused_Pilgrims.label>მომლოცველებმა უარი თქვეს</CharityRefused_Pilgrims.label>
+  <CharityRefused_Pilgrims_Betrayed.label>მომლოცველებმა უღალატეს</CharityRefused_Pilgrims_Betrayed.label>
+  <CharityRefused_RefugeePodCrash.label>ლტოლვილთა pod ავარიის უარი თქვა</CharityRefused_RefugeePodCrash.label>
+  <CharityRefused_ShuttleCrashRescue.label>ავარიის გადარჩენილებმა უარი თქვეს</CharityRefused_ShuttleCrashRescue.label>
+  <CharityRefused_WandererJoins.label>მოხეტიალემ უარი თქვა</CharityRefused_WandererJoins.label>
+</LanguageData>

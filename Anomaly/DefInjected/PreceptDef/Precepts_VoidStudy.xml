@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <VoidStudy_Efficient.description>სიცარიელე არის ნამდვილი საიდუმლო, რომელიც იმსახურებს შესწავლას.</VoidStudy_Efficient.description>
+  <VoidStudy_Efficient.label>ეფექტური</VoidStudy_Efficient.label>
+  <VoidStudy_Inefficient.description>შეუცნობელის გაგების მცდელობა უაზროა. ჩვენ უნდა გავამახვილოთ ყურადღება უფრო მნიშვნელოვან აქტივობებზე.</VoidStudy_Inefficient.description>
+  <VoidStudy_Inefficient.label>არაეფექტური</VoidStudy_Inefficient.label>
+  <VoidStudy_VeryEfficient.description>სიცარიელე არის საბოლოო ჭეშმარიტება.</VoidStudy_VeryEfficient.description>
+  <VoidStudy_VeryEfficient.label>ძალიან ეფექტური</VoidStudy_VeryEfficient.label>
+  <VoidStudy_VeryInefficient.description>მთელი ეს სიცარიელე ცრურწმენაა. მოდით ფოკუსირება რეალობაზე.</VoidStudy_VeryInefficient.description>
+  <VoidStudy_VeryInefficient.label>ძალიან არაეფექტური</VoidStudy_VeryInefficient.label>
+</LanguageData>

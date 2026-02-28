@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <PlanetLandmarkDensity>ორიენტირები</PlanetLandmarkDensity>
+  <PlanetLandmarkDensity_Low>იშვიათი</PlanetLandmarkDensity_Low>
+  <PlanetLandmarkDensity_Normal>ნორმალური</PlanetLandmarkDensity_Normal>
+  <PlanetLandmarkDensity_High>მჭიდრო</PlanetLandmarkDensity_High>
+  
+  <GeneratingGravship>აფრენისთვის მზადება</GeneratingGravship>
+  <PreparingForLanding>ემზადება სადესანტო</PreparingForLanding>
+
+  <Subject>სუბიექტი</Subject>
+
+  <Difficulty_FishingYieldFactor_Label>თევზაობის მოსავალი</Difficulty_FishingYieldFactor_Label>
+  <Difficulty_FishingYieldFactor_Info>დაარეგულირეთ რამდენი თევზი დაიჭირეს თევზაობის დროს.</Difficulty_FishingYieldFactor_Info>
+
+  <OdysseyFactionDisabledContentWarning>{0}-ის გამორთვა შეუძლებელს გახდის ოდისეის ძირითადი ქვესტების დასრულებას.</OdysseyFactionDisabledContentWarning>
+</LanguageData>

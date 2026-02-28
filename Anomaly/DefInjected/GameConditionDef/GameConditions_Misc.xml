@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodRain.description>ციდან სისხლის მსგავსი სითხე ჩამოდის. ვინც გარეთ იქნება, აჟიტირებული იქნება.</BloodRain.description>
+  <BloodRain.label>სისხლის წვიმის სიგიჟე</BloodRain.label>
+  <BloodRain.letterText>Drops of thick blood-like fluid have begun falling from the sky.\n\nAnyone exposed feels a growing anger which strengthens melee attacks but will eventually become a berserk rage. Exposed animals will eventually become manhunters. The intensity of the effect varies between individuals depending on their traits, psychic sensitivity, and random individual factors.</BloodRain.letterText>
+  <DeathPall.description>მკვდრები აღდგებიან! დაწვით, დამარხეთ, გაანადგურეთ ან გადაიტანეთ ცხედრები შენობაში, რათა თავიდან აიცილოთ ისინი მკვდრეთით.</DeathPall.description>
+  <DeathPall.label>სიკვდილის ფერმკრთალი აღდგომა</DeathPall.label>
+  <DeathPall.letterText>A death-gray cloud has descended on the area.\n\nThe cloud is made of microscopic self-powered archites created by some unknown superintelligence. Where they land on dead flesh, they will enter the body and reanimate it to create a twisted imitation of life.\n\nThe dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting.</DeathPall.letterText>
+  <GrayPall.description>გაფუჭებული სუნი ავსებს ჰაერს, რაც ადამიანებს აბედნიერებს. გარედან სუნი უარესია.</GrayPall.description>
+  <GrayPall.label>ნაცრისფერი ფერმკრთალი სუნი</GrayPall.label>
+  <GrayPall.letterText>ამ მხარეში ბურუსიანი ნისლის საბანი ჩამოვიდა. რაღაცნაირად ძველებური სუნი ასდის და კანს სტკივა. მისი არაბუნებრივი ნაცრისფერი შიშის გრძნობას იწვევს.</GrayPall.letterText>
+  <HateChantDrone.description>Cultists of Horax are performing a psychically tuned chant. The ominous chanting conveys a dark and dreamlike hatred. It makes your head pound and your skin crawl. So long as the drone continues, colonists will be unhappy.\n\nThe chant will continue to grow more powerful as long as the cultists are not stopped.</HateChantDrone.description>
+  <HateChantDrone.label>სძულს გალობა</HateChantDrone.label>
+  <UnnaturalDarkness.description>სამყარო დაფარულია არაბუნებრივი სიბნელის ფენით. მელნის სიბნელიდან ისმის მომაკვდინებელი არსებების არაადამიანური კვნესა. დარჩით სინათლეში.</UnnaturalDarkness.description>
+  <UnnaturalDarkness.label>არაბუნებრივი სიბნელე</UnnaturalDarkness.label>
+  <UnnaturalHeat.description>თერმული საპროექციო მოწყობილობა ატმოსფეროში გაზის მოლეკულებს ააგიტებს, ამაღლებს გარე ტემპერატურას.</UnnaturalHeat.description>
+  <UnnaturalHeat.label>არაბუნებრივი სითბო</UnnaturalHeat.label>
+</LanguageData>

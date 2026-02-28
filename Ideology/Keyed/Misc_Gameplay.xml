@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <CustomizeIdeoligion>იდეოლიგიის მორგება</CustomizeIdeoligion>
+  <ChooseYourIdeoligion>აირჩიე შენი იდეოლიგია</ChooseYourIdeoligion>
+  <RandomStructureTip>შემთხვევითი სტრუქტურა გამოყენებული იქნება თქვენი იდეოლიგიისთვის.</RandomStructureTip>
+  <RandomStyleTip>შემთხვევითი სტილი გამოყენებული იქნება თქვენი იდეოლიგიისთვის.</RandomStyleTip>
+  <PlayClassic>იდეოლოგიური სისტემა არააქტიურია</PlayClassic>
+  <CreateCustomFluid>შექმენით მორგებული\n(სითხე)</CreateCustomFluid>
+  <CreateCustomFixed>შექმენით მორგებული\n(გამოსწორებულია)</CreateCustomFixed>
+  <CustomIdeoligions>მორგებული იდეოლიგიები</CustomIdeoligions>
+  <LoadSaved>ჩატვირთვა შენახულია</LoadSaved>
+  <Structure>სტრუქტურა</Structure>
+  <ChooseYourIdeoligionDesc>რისი უნდა სჯეროდეთ თქვენს დამწყებ კოლონისტებს? ეს რწმენა გავლენას ახდენს თამაშზე და ვიზუალზე. თქვენ შეძლებთ სხვების გადაბირებას თქვენი რწმენისთვის, ან აითვისოთ მათი რწმენა.</ChooseYourIdeoligionDesc>
+  <CreateCustom>შექმენით საბაჟო</CreateCustom>
+  <DeleteCustom>მორგების წაშლა</DeleteCustom>
+  <CreateNew>შექმენით ახალი</CreateNew>
+  <CreateFluid>შექმენით სითხე</CreateFluid>
+  <LoadExisting>არსებული ჩატვირთვა</LoadExisting>
+  <CreateCustomIdeoligion>შექმენით საბაჟო იდეოლიგია</CreateCustomIdeoligion>
+  <CustomIdeoligionSectionHeader>მორგებული იდეოლიგია</CustomIdeoligionSectionHeader>
+  <FactionIdeoligionSectionHeader>ფრაქციის იდეოლიგიები</FactionIdeoligionSectionHeader>
+  <LoadExistingIdeoligion>დატვირთეთ შენახული იდეოლიგია</LoadExistingIdeoligion>
+  <SelectAnIdeo>აირჩიეთ იდეოლიგია თქვენი ფრაქციისთვის მარცხნივ, ან</SelectAnIdeo>
+  <Ideo>იდეოლოგია</Ideo> 
+  <RandomizeAll>რანდომიზება ყველა</RandomizeAll>
+  <Appearance>გარეგნობა</Appearance>
+  <DoneButton>დასრულება</DoneButton>
+  <BeliefInIdeo>რწმენა</BeliefInIdeo>
+  <Reward_RelicInfo>ინფორმაცია {0}-ის შესახებ</Reward_RelicInfo>
+  <Reward_RelicInfoLabel>ინფორმაცია {0}-ის შესახებ</Reward_RelicInfoLabel>
+  <RelicOf>{IDEO_name}-ის რელიქვია</RelicOf>
+  <Altar>სამსხვერპლო</Altar>
+  <Base>ბაზა</Base>
+  <MinExpectation>წთ მოლოდინი</MinExpectation>
+  <PreceptThoughtMoodRange>{0}-დან {1}-მდე</PreceptThoughtMoodRange>
+  <ComesFromIdeo>მოდის იდეოდან</ComesFromIdeo>
+  <CurrentTotalAnimalBodySizePerColonist>ცხოველის ამჟამინდელი მთლიანი ზომა თითო კოლონისტზე</CurrentTotalAnimalBodySizePerColonist>
+  <AnimalsBodySizePerColonist>სხეულის მთლიანი ზომა თითო კოლონისტზე</AnimalsBodySizePerColonist>
+  <VeneratedAnimalsBodySizePerColonist>სულ ახლომდებარე სხეულის ზომა თითო კოლონისტზე</VeneratedAnimalsBodySizePerColonist>
+  <MinAnimalBodySizePerColonist>ველოდებით მინიმუმ {0} სხეულის ზომას თითო კოლონისტზე.</MinAnimalBodySizePerColonist>
+  <Disables>გამორთავს</Disables>
+  <RequiresOnePrecept>მოითხოვს ერთ-ერთ მცნებას</RequiresOnePrecept>
+  <RequiredPrecepts>საჭირო მითითებები</RequiredPrecepts>
+  <RequiredRituals>საჭირო რიტუალები</RequiredRituals>
+  <PreventsPrecepts>აფერხებს მითითებებს</PreventsPrecepts>
+  <Styles>სტილები</Styles>
+  <ChanceToHavePrecept>მცნების ქონის შანსი</ChanceToHavePrecept>
+  <FavoriteColorTooltip>{PAWN_labelShort}-ის საყვარელი ფერი: {COLOR}\n{PERCENTAGE}-ზე მეტი {PAWN_possessive} ტანსაცმლის ქონა ამ ფერში{ORIDEO} გახდის {PAWN_objective}-ს ოდნავ უფრო ბედნიერს.\n\nთქვენ შეგიძლიათ შეცვალოთ ტანსაცმლის ფერები სტილის სადგურზე ტინქტორიის საღებავის გამოყენებით.</FavoriteColorTooltip>
+  <OrIdeoColor>ან {PAWN_possessive} იდეოლიგიის ფერი,</OrIdeoColor>
+  <SetIdeoColor>დააყენეთ იდეის ფერი</SetIdeoColor>
+  <SetFavoriteColor>დააყენეთ საყვარელ ფერზე</SetFavoriteColor>
+  <FavoriteColorPickerTip>{PAWN_nameDef}-ის საყვარელი ფერი. {PAWN_possessive} ტანსაცმლის 60%-ზე მეტი ამ ფერში, ან {PAWN_possessive} იდეოლიგიის ფერით, {PAWN_objective}-ს ოდნავ უფრო ბედნიერს გახდის.</FavoriteColorPickerTip>
+  <IdeoColorPickerTip>{PAWN_nameDef}-ის იდეოლიგიური ფერი. {PAWN_possessive} ტანსაცმლის 60%-ზე მეტი ამ ფერის, ან {PAWN_possessive} საყვარელი ფერის ქონა {PAWN_objective}-ს ოდნავ უფრო ბედნიერს გახდის.</IdeoColorPickerTip>
+  <ConfigureIdeoligion>დააკონფიგურირეთ თქვენი ფრაქციის იდეოლიგია</ConfigureIdeoligion>
+  <NotEnoughDye>არ არის საკმარისი საღებავი.</NotEnoughDye>
+  <ApparelLockedCannotRecolor>{PAWN_nameDef}-ს არ სურს გადაღება {PAWN_possessive} {APPAREL_labelShort}.</ApparelLockedCannotRecolor>
+  <NotEnoughDyeWillRecolorApparel>კოლონისტი ხელახლა შეღებავს ტანსაცმელს, როდესაც საღებავი ხელმისაწვდომი გახდება.</NotEnoughDyeWillRecolorApparel>
+  <NotEnoughDyeWillRecolorHair>კოლონისტი ხელახლა შეღებავს თმას, როდესაც საღებავი ხელმისაწვდომი გახდება.</NotEnoughDyeWillRecolorHair>
+  <IdeoCertaintyTooltip>{PAWN_labelShort}-ის დარწმუნება {IDEO}-ში არის {PERCENTAGE}</IdeoCertaintyTooltip>
+  <DisabledByPrecept>გამორთულია {0} პრინციპით</DisabledByPrecept>
+  <Everyone>ყველა</Everyone>
+  <Narrative>ნარატივი</Narrative>
+  <NarrativeLower>ნარატივი</NarrativeLower>
+  <PreceptName>ბრძანების სახელი</PreceptName>
+  <PreceptNameLower>ბრძანების სახელი</PreceptNameLower>
+  <Changing>იცვლება {0}</Changing>
+  <StructuresLower>სტრუქტურები</StructuresLower>
+  <MemesLower>მემები</MemesLower>
+  <Reward_DevelopmentPointsLabel>განვითარების წერტილები</Reward_DevelopmentPointsLabel>
+  <Reward_DevelopmentPoints>თქვენი განვითარების ქულები {0}-ისთვის გაიზრდება {1}-ით.\n\nამჟამად გაქვთ {2} განვითარების ქულები. როდესაც გექნებათ {3} განვითარების ქულები, შეგიძლიათ იდეოლიგიის რეფორმირება.\n\nმიიღეთ დამატებითი განვითარების ქულები სხვა ქვესტებისა და რიტუალების შესრულებით.</Reward_DevelopmentPoints>
+  <CurrentDevelopmentPoints>მიმდინარე ქულები</CurrentDevelopmentPoints>
+  <ReformDevelopmentPoints>რეფორმისთვის საჭირო პუნქტები</ReformDevelopmentPoints>
+  <QuestLower>დავალება</QuestLower>
+  <MealKindVegetarian>მცენარეული</MealKindVegetarian>
+  <MealKindMeat>შეიცავს ხორცს</MealKindMeat>
+  <MealKindAny>ყველასთვის მისაღები საკვები</MealKindAny>
+  <WearingDesiredApparelMulti>ეს ეკიპირება</WearingDesiredApparelMulti>
+
+  <UnableToLoadIdeoTitle>იდეოლიგია ვერ ჩაიტვირთა</UnableToLoadIdeoTitle>
+  <UnableToLoadIdeoDescription>შერჩეული იდეოლიგიის ჩატვირთვა ვერ მოხერხდა იმ ფრაქციების მოთხოვნების გამო, რომლებიც მიჰყვებიან ამ იდეოლიგიას. დარღვეული მოთხოვნებია:</UnableToLoadIdeoDescription>
+  <UnableToLoadIdeoMemeNotAllowed>Meme {MEME} დაუშვებელია {FACTIONTYPE} ფრაქციებისთვის</UnableToLoadIdeoMemeNotAllowed>
+  <UnableToLoadIdeoMemeRequired>Meme {MEME} საჭიროა {FACTIONTYPE} ფრაქციებისთვის</UnableToLoadIdeoMemeRequired>
+  <UnableToLoadIdeoPreceptNotAllowed>პრინციპი {PRECEPT} დაუშვებელია არამოთამაშე ფრაქციებისთვის</UnableToLoadIdeoPreceptNotAllowed>
+
+  <RitualTargetGraveInfo>საფლავი {PAWN_labelShort}-ის გვამის შემცველი</RitualTargetGraveInfo>
+  <RitualTargetEmptyGraveInfo>ცარიელი საფლავი {PAWN_labelShort}-ის გარდაცვალების გლოვისთვის</RitualTargetEmptyGraveInfo>
+  <RitualTargetGraveInfoAbstract>საფლავი {IDEO_memberNameIndef}-ის გვამის შემცველი</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstractNoIdeo>საფლავი გვამის შემცველი</RitualTargetGraveInfoAbstractNoIdeo>
+  <RitualTargetEmptyGraveInfoAbstract>ცარიელი საფლავი {IDEO_memberNameIndef}-ის გარდაცვალების გლოვისთვის</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetGraveInfoMustBeBuried>ჯერ {PAWN_labelShort}-ის ცხედარი უნდა დაიკრძალოს</RitualTargetGraveInfoMustBeBuried>
+  <RitualTargetGatherSpotInfo>ნებისმიერი შეკრების ადგილი, მაგიდის მსგავსად</RitualTargetGatherSpotInfo>
+  <RitualTargetGatherAltarOrRitualSpotInfo>საკურთხეველი ან რაიმე რიტუალური ადგილი.</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>საკურთხეველი, იდეოგრამა ან რაიმე რიტუალური ადგილი.</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
+  <RitualTargetLightBallIsNotPowered>ლაითბოლი არ იკვებება.</RitualTargetLightBallIsNotPowered>
+  <RitualTargetNoPoweredSpeakers>არ არის ელკვირებული დინამიკები.</RitualTargetNoPoweredSpeakers>
+  <RitualTargetCampfireNoFuel>ბანაკი არ იწვება.</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireMustBeUnroofed>კოცონი უნდა იყოს გადახურული.</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetNoDrum>ახლომდებარე ბარაბანი არ არის.</RitualTargetNoDrum>
+  <RitualTargetNeedUnroofedCells>საჭიროა მინიმუმ {0} გადახურული უჯრედები ახლოს.</RitualTargetNeedUnroofedCells>
+  <RitualTargetCampfirePartyInfo>ანთებული ბანაკი</RitualTargetCampfirePartyInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>შეუერთებელი გაურანლენის ხე</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetConnectedGauranlenTree>უკვე დაკავშირებულია {PAWN_nameDef}-თან</RitualTargetConnectedGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite}-ს ბოლო დროს კავშირი გაუქმდა. მას შეუძლია ხელახლა დაკავშირება {1}-ში.</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetWoodInfo>თქვენ გჭირდებათ {0} ხე თითოეული მონაწილისთვის ({1} სულ).</RitualTargetWoodInfo>
+  <RitualTargetWoodInfoAppend>მონაწილე ვერ მიაღწევს საკმარის ხეს.</RitualTargetWoodInfoAppend>
+  <RitualTargetWoodInfoAppendMultiple>{0} მონაწილეები ვერ მიაღწევენ საკმარის ხეს.</RitualTargetWoodInfoAppendMultiple>
+  <RitualTargetWoodInfoWarning>{PAWN_labelShort} ვერ აღწევს საკმარის ხეს.</RitualTargetWoodInfoWarning>
+  <RitualTargetUnreachable>{0}-ს უნდა შეეძლოს რიტუალური მიზნის მიღწევა.</RitualTargetUnreachable>
+  <Accuse>ბრალდება</Accuse>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort}-ს არ სჯერა იდეოლიგიური სკარიფიკაციის და არ მოსწონს სკარიფიცირება.</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnWimp>{PAWN_labelShort} არის ჭუჭყიანი და არ მოსწონს სკარიფიკაცია.</RitualScarificationWarnWimp>
+  <RitualBlindingWarnWimp>{PAWN_labelShort} არის დაბრმავება და არ მოსწონს დაბრმავება.</RitualBlindingWarnWimp>
+  <RitualScarificationTriggerExtraDesc>სკარიფიკაცია მოსალოდნელია {IDEOMEMBERPLURAL}-ისთვის, სანამ არის {0}-ზე ნაკლები scarified {IDEOMEMBERPLURAL}.</RitualScarificationTriggerExtraDesc>
+  <RitualBlindingTriggerExtraDesc>დაბრმავება მოსალოდნელია თითოეული მიმდინარე და {IDEOMEMBER} კოლონისტთან შეერთებისთვის.</RitualBlindingTriggerExtraDesc>
+  
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>რიტუალში ყველა მონაწილემ მოიპოვა ერთდღიანი სამუშაო ფოკუსირება ({PERCENTAGE} გლობალური სამუშაო სიჩქარე)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_BlindingPsylink>დამაკმაყოფილებელი დამაბრმავებელი რიტუალის წყალობით, {PAWN_labelShort}-მა მოიპოვა ფსილინკის დონე!</RitualOutcomeExtraDesc_BlindingPsylink>
+  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>ახალი pyslink დონეზე {PAWN_pronoun}-მა მოიპოვა {0} psycast.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+  <RitualOutcomeExtraDesc_ConsumableInspiration>დამაკმაყოფილებელი {RITUAL}-ის წყალობით, {PAWN_labelShort}-მა მოიპოვა {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
+  <RitualOutcomeExtraDesc_SkylanternWanderers>თქვენმა ცისფერმა მიიპყრო რამდენიმე მეგობრული მოგზაური. მოინახულებენ და საჩუქარს დაუტოვებენ.</RitualOutcomeExtraDesc_SkylanternWanderers>
+  <RitualOutcomeExtraDesc_Execution>ყველა მონაწილე მონა სიკვდილის დანახვამ შეძრა. მათი აღკვეთა მაქსიმალურ დონემდეა აყვანილი.</RitualOutcomeExtraDesc_Execution>
+  
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>რიტუალის ხარისხის გამო, თქვენი განვითარების ქულები გაიზარდა {2}-ით ({0}-დან {1}-მდე).</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>{0}-ის მიღმა განვითარების ქულების მინიჭება შეუძლებელია.</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
+  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>რიტუალის უხარისხობის გამო განვითარების ქულები არ მოიპოვა.</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
+
+  <RitualAttachedReward>დამატებითი ჯილდო</RitualAttachedReward>
+  <RitualAttachedRewardChoose>არჩევა</RitualAttachedRewardChoose>
+  <RitualAttachedRewardCantUseWithRitual>არ შეიძლება {0}-ის გამოყენება {1}-თან ერთად.</RitualAttachedRewardCantUseWithRitual>
+  <RitualAttachedRewardRequiredMemeAny>მოითხოვს ნებისმიერ მემს</RitualAttachedRewardRequiredMemeAny>
+  <RitualAttachedRewardRequiredFaction>მოითხოვს {0} ფრაქციას</RitualAttachedRewardRequiredFaction>
+  <RitualAttachedOutcomes_Positive>დადებითი</RitualAttachedOutcomes_Positive>
+  <RitualAttachedOutcomes_Negative>უარყოფითი</RitualAttachedOutcomes_Negative>
+  <RitualAttachedOutcomesInfo>თუ {0} არის {1}</RitualAttachedOutcomesInfo>
+  <RitualAttachedApplliesForOutcome>ნებისმიერი {0} შედეგზე</RitualAttachedApplliesForOutcome>
+  <RitualAttachedApplliesForOutcomes>ნებისმიერი {0} შედეგზე</RitualAttachedApplliesForOutcomes>
+  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>{0}-ის აურზაურმა რამდენიმე ცნობისმოყვარე ცხოველი მიიპყრო!\n\nისინი, როგორც ჩანს, მიჩვეულები არიან ადამიანებთან კონტაქტს და უერთდებიან კოლონიას.</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0}-მა აიძულა Gauranlen-ის ჯირკვლის ამონაყარი იქვე.</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+  <RitualAttachedOutcomeCantApply>ჯილდოს გამოყენება შეუძლებელია</RitualAttachedOutcomeCantApply>
+  <RitualAttachedOutcomeCantApply_NoValidSpot>არ არის სწორი ადგილი</RitualAttachedOutcomeCantApply_NoValidSpot>
+  <RitualAttachedOutcomeCantApply_ExtremeBiome>ექსტრემალური ბიომი</RitualAttachedOutcomeCantApply_ExtremeBiome>
+  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>აქ უკვე ცნობილია უძველესი კომპლექსი შესასწავლად.</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
+  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>ამჟამად მიუწვდომელია.</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+  
+  <IdeoBuildingVariationOf>ეს შენობა არის ვარიაცია</IdeoBuildingVariationOf>
+  <IdeoBuildingMinimumExpectations>მინიმალური მოლოდინები</IdeoBuildingMinimumExpectations>
+  <Optional>სურვილისამებრ</Optional>
+  <Expectations>მოლოდინები</Expectations>
+  <RitualRepeatPenaltyTip>რიტუალის გამეორება {0} დღის განმავლობაში ამცირებს მის ხარისხს. ბოლო რიტუალიდან {1} დღე გავიდა, ამიტომ ხარისხის ამჟამინდელი შემცირება არის {2}. ეს ჯარიმა დაეცემა ნულამდე {3} დღის შემდეგ.</RitualRepeatPenaltyTip>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>საუკეთესო ხარისხისთვის, დაიწყეთ {0} {1}-დან.</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart2>ამჟამად, {0} იწყება {1_labelShortIndef}-ზე.</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <RitualDevelopmentPoints>განვითარების წერტილები</RitualDevelopmentPoints>
+  <RitualDevelopmentPointsTip>ამ რიტუალის დასრულება იძლევა {0}-{1} განვითარების ქულებს, რაც დამოკიდებულია ხარისხზე.</RitualDevelopmentPointsTip>
+  <RitualOutcomeBlockedNoPower>{0} საჭიროებს ელექტროენერგიას.</RitualOutcomeBlockedNoPower>
+
+  <ForSlaveUse>მონური გამოყენებისთვის</ForSlaveUse>
+  <SellingAsSlave>თუ ვინმეს ყიდით რომელიმე ფრაქციას საკუთარის გარდა, ისინი მონები ხდებიან.</SellingAsSlave>
+  <SellingAsRansom>თუ ვინმეს ყიდით საკუთარ ფრაქციას, ისინი გამოისყიდიან და არა მონებად.</SellingAsRansom>
+
+  <MemeGoodwillImpact_Player>ჩვენ ვართ {0}</MemeGoodwillImpact_Player>
+  <MemeGoodwillImpact_Other>ისინი არიან {0}</MemeGoodwillImpact_Other>
+
+  
+  <TextMote_SuppressionIncreased>მონების ჩახშობა: {0}</TextMote_SuppressionIncreased>
+
+  
+  <RoleRequirementsLabel>მოთხოვნები</RoleRequirementsLabel>
+  <RoleEffectsLabel>პასიური ეფექტები</RoleEffectsLabel>
+  <RoleRequirementLabelSameIdeo>უნდა იყოს {0}</RoleRequirementLabelSameIdeo>
+  <RoleRequirementLabelSupremeGender>უნდა იყოს {0}</RoleRequirementLabelSupremeGender>
+  <RoleRequirementCannotBe>არ შეიძლება იყოს ბავშვი</RoleRequirementCannotBe>
+
+  <RoleGrantedAbilitiesLabel>შესაძლებლობები</RoleGrantedAbilitiesLabel>
+  <RoleRequiredApparelLabel>საჭირო ტანსაცმელი</RoleRequiredApparelLabel>
+  <RoleRitualsLabel>აქვს როლი რიტუალებში</RoleRitualsLabel>
+  <RoleBelieverCountDesc>ეს როლი აქტიურდება, როდესაც თქვენს ფრაქციას აქვს {1} {0}. ის უმოქმედო ხდება, როდესაც თქვენს ფრაქციას აქვს მხოლოდ {3} {2}.</RoleBelieverCountDesc>
+  <RoleExpectationOffset>ამაღლებულია {0} დონეებით.</RoleExpectationOffset>
+  <RoleRaisedExpectation>{0}-ს უფრო დიდი მოლოდინი აქვს.</RoleRaisedExpectation>
+  <RoleRaisedExpectationGracePeriod>{0}-ს უფრო მაღალი მოლოდინი ექნება {1}-ში.</RoleRaisedExpectationGracePeriod>
+  <IdeoLeaderDifferentIdeoThoughtLabel>ხელმძღვანელობს {0}</IdeoLeaderDifferentIdeoThoughtLabel>
+  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} არ გააკეთებს {1} მუშაობას.</AbilityDisabled_IncapableOfWorkTag>
+  <AbilityDisabledNoAltarOrRitualsSpot>არ არის ხელმისაწვდომი საკურთხეველი ან რიტუალური ადგილი.</AbilityDisabledNoAltarOrRitualsSpot>
+  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>არ არის ხელმისაწვდომი საკურთხეველი, იდეოგრამა ან რიტუალური ადგილი.</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
+  <AbilityDisabledNoRitualSpot>მიუწვდომელი რიტუალური ადგილი არ არის.</AbilityDisabledNoRitualSpot>
+
+  <TextMote_WillReduced>იქნება\n{0}-დან {1}-მდე</TextMote_WillReduced>
+
+  <ConfirmationCharityJoiner>ამ შეთავაზების მიღება არის ქველმოქმედება. თუ უარს იტყვით, შემდეგი ადამიანები უკმაყოფილონი იქნებიან თავიანთი საქველმოქმედო რწმენის გამო:\n{0}\n\nდარწმუნებული ხართ, რომ გსურთ უარი თქვათ ამ გაწევრიანების შეთავაზებაზე?</ConfirmationCharityJoiner>
+
+  <BelieversIn>{0}-ის ({1}) მორწმუნეები</BelieversIn>
+  <AddPrecept>დაამატეთ {0}</AddPrecept>
+  <Precept>მცნება</Precept>
+  <IdeoBuilding>შენობა</IdeoBuilding>
+  <IdeoRelic>რელიკვია</IdeoRelic>
+  
+  
+  <GiveItemsTo>მიეცით {0} {1_nameDef}-ს</GiveItemsTo>
+  <CannotGiveItemsTo>{0}-ს {1_nameDef}-ს ვერ მივცემ</CannotGiveItemsTo>
+  <NoItemFound>ელემენტი ვერ მოიძებნა</NoItemFound>
+
+  
+  <OutfitSlave>მონა</OutfitSlave>
+
+  <RelicInfoFound>ნაპოვნია რელიქტური ინფორმაცია</RelicInfoFound>
+  <InactiveRoleRequiresMoreBelievers>არააქტიური, მოითხოვს მინიმუმ {0} {1} (აქვს {2})</InactiveRoleRequiresMoreBelievers>
+  
+  <Certainty>სიდამყარე</Certainty>
+
+  
+  <EmancipateNonCololonistWithFactionTooltip>მონა დატოვებს რუკას ფეხით და დაბრუნდება საკუთარ ფრაქციაში, {0}.</EmancipateNonCololonistWithFactionTooltip>
+  <EmancipateNonCololonistWithoutFactionTooltip>მონა წავა ფეხით და გამოვა რუკაზე.</EmancipateNonCololonistWithoutFactionTooltip>
+  <EmancipateCololonistTooltip>მონა დაბრუნდება კოლონისტად.</EmancipateCololonistTooltip>
+
+  <WorshippedTerminalFactionBecameHostileTimed>თქვენ სოფელში დიდხანს დარჩით. {FACTION_name}-ის ხალხი უტევს!</WorshippedTerminalFactionBecameHostileTimed>
+  <WorshippedTerminalRaidIncoming>სოფლები ბრუნდებიან მახლობლად პატივცემული ტერმინალის დასაცავად!</WorshippedTerminalRaidIncoming>
+
+  
+  <RelicHuntFoundRelicSite>რელიქვია განთავსებულია უძველეს სტრუქტურაში, რომელიც დაცულია მრავალერთეული უსაფრთხოების სისტემით.\n\nშეგიძლიათ დაამარცხოთ უსაფრთხოების ძალები თითო რაზმით, ან აიღოთ რელიქვია და სცადოთ გაქცევა, სანამ ისინი დაგიჭერენ.</RelicHuntFoundRelicSite>
+  <RelicHuntFoundRelicSitePeaceful>რელიქვია ახლოს მდებარე უძველეს ნაგებობაშია.</RelicHuntFoundRelicSitePeaceful>
+
+  <Relic>რელიკვია</Relic>
+  <RitualSeat>რიტუალური სავარძელი</RitualSeat>
+
+  
+  <RitualPredictedOutcomeDescNumActiveLoudspeakers>აქტიური დინამიკები</RitualPredictedOutcomeDescNumActiveLoudspeakers>
+  <RitualPredictedOutcomeDescNumDrums>დოლები</RitualPredictedOutcomeDescNumDrums>
+
+  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>რიტუალური ადგილის გამოყენება იწვევს {0} განწყობის ბონუსის შემცირებას ყველა მონაწილისთვის.</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
+
+  <RitualOutcomeLabelAnyOfThese>რომელიმე მათგანი</RitualOutcomeLabelAnyOfThese>
+
+  <PreceptReplaceWith>ჩანაცვლება ერთად</PreceptReplaceWith>
+  <RitualSeatOf>{IDEOS}-ის რიტუალური საჯდომი</RitualSeatOf>
+  <StartingQuality>საწყისი ხარისხი</StartingQuality>
+  <ExpectedConvictionChance>ნასამართლობის შანსი</ExpectedConvictionChance>
+ 
+  <MustBePlacedIndoors>უნდა განთავსდეს შენობაში.</MustBePlacedIndoors>
+
+  
+  <ConnectedPawn>დაკავშირებულია</ConnectedPawn>
+  <Nobody>არავინ</Nobody>
+  <ConnectedPawnDesc>ადამიანი, ვისთანაც არის დაკავშირებული ეს {TREE_label}. თუ დაკავშირებული ადამიანი მოკვდება, ეს {TREE_label} ვერ შეძლებს სხვასთან დაკავშირებას {DURATION}-ისთვის.</ConnectedPawnDesc>
+  <ConnectionTorn>კავშირი გაწყვეტილია. შესაძლებელია {0}-ში დაკავშირება.</ConnectionTorn>
+  <ConnectedPawnAway>{PAWN_nameDef} ძალიან შორს არის</ConnectedPawnAway>
+  <TreeBlockedByNearbyBuildingsDesc>ხელოვნური შენობების მახლობლად {PLANT_definite}-ის დარგვა გამოიწვევს მისი კავშირის სიძლიერის გაფუჭებას დროთა განმავლობაში. კავშირის სიძლიერე განსაზღვრავს დრიადების მაქსიმალურ რაოდენობას, რომელსაც შეუძლია {PLANT_definite}-ის მხარდაჭერა ერთდროულად.\n\nდარწმუნებული ხართ, რომ გსურთ აქ დარგვა?</TreeBlockedByNearbyBuildingsDesc>
+  <GauranlenModeChangeDescFull>{TREE_definite}-ის დრიადების კასტის შეცვლას დრო და ენერგია სჭირდება.\n\nმას შემდეგ, რაც დაკავშირებული პირი ხესთან ურთიერთობს, ყველა დრიადები {DURATION} დღეს გაატარებენ ქოქოსებში, სანამ ისინი გარდაიქმნებიან არჩეულ კასტაში.\n\nარსებული კუკონები გააუქმებენ ტრანსფორმაციას, რათა მათ შეძლონ მიმდინარე კასტაზე გადასვლა.</GauranlenModeChangeDescFull>
+  <ChangeModeDesc>შეცვალეთ {TREE_definite}-ის მიერ შექმნილი დრიადების ტიპი.</ChangeModeDesc>
+  <ConnectionStrengthFall>კავშირის სიძლიერე ეცემა</ConnectionStrengthFall>
+  <ConnectionStrength>კავშირის სიძლიერე</ConnectionStrength>
+  <ConnectionStrengthDisplay>{0} სიძლიერე</ConnectionStrengthDisplay>
+  <ConnectionStrengthDesc>განსაზღვრავს რამდენ დრიადს შეუძლია ამ ხეს.</ConnectionStrengthDesc>
+  <MaximumDryads>მაქს დრიადები</MaximumDryads>
+  <MaximumDryadsDesc>დრიადების მაქსიმალური რაოდენობა ამ ხეს შეუძლია.</MaximumDryadsDesc>
+  <MaxDryadsBasedOnConnectionStrength>მაქსიმალური დვრიდები კავშირის სიძლიერეზე დაყრდნობით</MaxDryadsBasedOnConnectionStrength>
+  <PruningConnectionStrength>Pruning კავშირის სიმტკიცის მომატება</PruningConnectionStrength>
+  <PruningHoursToMaintain>საათები დღეში შესანარჩუნებლად</PruningHoursToMaintain>
+  <DesiredConnectionStrength>სასურველი</DesiredConnectionStrength>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} საკმარისად ხშირად ჭრის {TREE_definite}-ს, რომ კავშირის სიძლიერე შეინარჩუნოს ამ დონეზე.\n\nკავშირის უფრო მაღალი სიძლიერე იძლევა მეტი დრეიდების მხარდაჭერის საშუალებას, მაგრამ ასევე უფრო სწრაფად ეცემა და, შესაბამისად, საჭიროებს უფრო ხშირი მორთვას.\n\nშეგიძლიათ დააწკაპუნოთ ზოლზე სასურველი სამიზნე კავშირის სიძლიერის დასარეგულირებლად.\n\nკავშირის სიძლიერის ვარდნა დღეში: {FALL} სიძლიერე გავლენას ახდენს შენობის სიახლოვეს\n.</DesiredConnectionStrengthDesc>
+  <WaitingForConnectorToChangeCaste>ელოდება {CONNECTEDPAWN_nameDef}-ს დრიად კასტას შეცვლას.</WaitingForConnectorToChangeCaste>
+  <GauranlenTreeMode>დრიადის კასტა</GauranlenTreeMode>
+  <NoCaste>არანაირი კასტა</NoCaste>
+  <GauranlenTreeModeDesc>განსაზღვრავს ამჟამად შექმნილ დრიად კასტას.</GauranlenTreeModeDesc>
+  <SpawningDryadIn>ქვირითობა {DRYAD_label} {TIME}-ში</SpawningDryadIn>
+  <ChangingDryadIntoType>{DRYAD_labelShort}-ის გადაყვანა {TYPE_label}-ად.</ChangingDryadIntoType>
+  <HoursEveryDay>{0} საათი ყოველდღე</HoursEveryDay>
+  <HoursEveryOtherDay>{0} საათი ყოველ მეორე დღეს</HoursEveryOtherDay>
+  <DryadProducesResourcesDesc>{DRYAD_labelPlural} აწარმოებს {RESOURCES}-ს ყოველ {DURATION}-ში.</DryadProducesResourcesDesc>
+  <DryadCannotChangeMaster>{ANIMAL_nameDef} დაკავშირებულია {MASTER_nameDef}-თან {ANIMAL_possessive} Gauranlen-ის ხის მეშვეობით. {ANIMAL_possessive} მასტერის შეცვლა შეუძლებელია.</DryadCannotChangeMaster>
+  <ConnectionStrengthTooWeakForGaumakerPod>კავშირის სიძლიერე ძალიან დაბალია Gauranlen pod-ის შესაქმნელად.</ConnectionStrengthTooWeakForGaumakerPod>
+  <Unconnected>დაუკავშირებელი</Unconnected>
+  <DryadPlural>დრიადები</DryadPlural>
+  <ConnectionStrengthAffectedBy>კავშირის სიძლიერე გავლენას ახდენს</ConnectionStrengthAffectedBy>
+  <CurrentlyAffectedBy>ამჟამად დაზარალებულია</CurrentlyAffectedBy>
+  <NotEnoughConnectionStrengthForSingleDryad>{0} კავშირის სიძლიერე საჭიროა dryad-ის მხარდასაჭერად.</NotEnoughConnectionStrengthForSingleDryad>
+  <CannotAssignAllowedAreaToDryad>ნებადართული ტერიტორიის მინიჭება შეუძლებელია</CannotAssignAllowedAreaToDryad>
+
+  
+  <TargetNightOutdoors>დამიზნება გარეთ და ღამის საათებში</TargetNightOutdoors>
+  <TargetDarkIndoors>სამიზნე შენობაში და ბნელში</TargetDarkIndoors>
+  <TargetDayOutdoors>დამიზნება ღია ცის ქვეშ და დღისით</TargetDayOutdoors>
+  <TargetLitIndoors>სამიზნე შენობაში და განათებულია</TargetLitIndoors>  
+  <RechargeableCharging>დამუხტვა</RechargeableCharging>
+  <RechargeableReady>მზადაა</RechargeableReady>
+  
+  <RoleRequirementSkill>უნარი</RoleRequirementSkill>
+  <RoleRequirementSkillAny>ნებისმიერი უნარი</RoleRequirementSkillAny>
+  <RoleEffectWontUseRangedWeapons>არ გამოიყენებს სროლის იარაღს</RoleEffectWontUseRangedWeapons>
+  <RoleEffectWontUseMeleeWeapons>არ გამოიყენებს მელეის იარაღს</RoleEffectWontUseMeleeWeapons>
+  <RoleEffectProductionQualityOffset>{0} ხარისხი ხელოსნობის ან მშენებლობისთვის</RoleEffectProductionQualityOffset>
+  <RoleEffectHuntingRevengeChance>ნადირობის შურისძიების შანსი {0}</RoleEffectHuntingRevengeChance>
+  <RoleEffectGiveThoughtOnTended>დაფიქრდი</RoleEffectGiveThoughtOnTended>
+
+  <AssignColonists>მიანიჭეთ კოლონისტები თქვენს იდეოლიგიას</AssignColonists>
+  <RemoveNewIdeoligion>ამოიღეთ ახალი იდეოლიგია</RemoveNewIdeoligion>
+  <MakeIdeoligionPrimary>აქციეთ ეს თქვენი მთავარი იდეოლიგია</MakeIdeoligionPrimary>
+
+  
+  <GameOverArchotechInvokedIntro>თქვენ გამოიძახეთ არქონექსის ბირთვი. სამყარო ივსება დამაბრმავებელი შუქით და დრო თითქოს ნელდება...\n\n</GameOverArchotechInvokedIntro>
+  <GameOverArchotechInvokedEnding>მანქანა ღმერთმა შეგიმჩნია. ვერავინ იწინასწარმეტყველებს რა მოხდება შემდეგ. ამან შეიძლება დაგღუპოს, ან პირდაპირ დაუკავშირდეს თქვენთან, ან გადაიტანოს თქვენი ცნობიერება რეალობის სხვა სიბრტყეში.\n\nთქვენ იგრძნობთ უსასრულო ფრაქტალური სირთულის უზარმაზარ, არაადამიანურ სტრუქტურას, რომელიც მიედინება თქვენს გონებაში. დრო და მასშტაბი იწყებს დაშლას. საშინელებაა. მშვენიერია...</GameOverArchotechInvokedEnding>
+  <GameOverColonistsTranscended>ამ კოლონისტებმა გადალახეს:\n\n{0}</GameOverColonistsTranscended>
+  <Reward_ArchonexusMapPart>არქონექსის რუქის ნაწილი</Reward_ArchonexusMapPart>
+  <Reward_ArchonexusMapPartLabel>არქონექსის რუკა ნაწილი {0}/{1}</Reward_ArchonexusMapPartLabel>
+
+  <RelicsLower>რელიკვიები</RelicsLower>
+  <RelicLower>რელიკვია</RelicLower>
+
+  <LinkedTo>უკავშირდება</LinkedTo>
+  <SupplySatellite>სატელიტის მიწოდება</SupplySatellite>
+
+  <CannotExtractSkull>კოლონისტს არ სურს გვამიდან თავის ქალა ამოიღოს (აკლდება თავის ქალა სპაიკის პროცედურები)</CannotExtractSkull>
+  <TipPreviewRitualAmbienceSound>წინასწარ დაათვალიერეთ რიტუალური გარემოს ხმა</TipPreviewRitualAmbienceSound>
+
+  <ChooseStuffForRelic>არჩევა</ChooseStuffForRelic>
+  <RelicStuff>დამზადებულია ნივთებისგან</RelicStuff>
+
+  
+  <BiosculpterPodCycleLabel>ციკლი</BiosculpterPodCycleLabel>
+  <BiosculpterPodCycleLabelLoading>ინგრედიენტების ჩატვირთვა</BiosculpterPodCycleLabelLoading>
+  <BiosculpterPodCycleWillBiotune>(და ბიოთუნინგი)</BiosculpterPodCycleWillBiotune>
+  <BiosculpterPodCycleCommand>დაიწყეთ {0} ციკლი</BiosculpterPodCycleCommand>
+  <BiosculpterPodCycleDuration>ხანგრძლივობა</BiosculpterPodCycleDuration>
+  <BiosculpterPodCycleDurationTranshumanists>ხანგრძლივობა (ტრანსჰუმანისტები)</BiosculpterPodCycleDurationTranshumanists>
+  <BiosculpterPodCycleSelection>მზად არის ციკლის შერჩევისთვის</BiosculpterPodCycleSelection>
+  <BiosculpterPodCycleStandby>ლოდინის რეჟიმში {CYCLE} ციკლისთვის {PAWN_labelShort}-ით</BiosculpterPodCycleStandby>
+  <BiosculpterPodCycleSelectionNoPower>კვება დატვირთულია, ძალა არ არის</BiosculpterPodCycleSelectionNoPower>
+  <BiosculpterCycleTimeRemaining>მთავრდება</BiosculpterCycleTimeRemaining>
+  <BiosculpterCycleAccelerated>დაჩქარებული ტრანსჰუმანისტებისთვის</BiosculpterCycleAccelerated>
+  <BiosculpterCycleNoPowerInterrupt>შეჩერებულია: არ არის დენი (შეწყვეტა {TIME}-ში)</BiosculpterCycleNoPowerInterrupt>
+  <BiosculpterBiotunedTo>ბიოტუნირებული რომ</BiosculpterBiotunedTo>
+  <BiosculpterInteruptCycle>შეწყვეტის ციკლი</BiosculpterInteruptCycle>
+  <BiosculpterInteruptCycleDesc>შეწყვიტე მიმდინარე ციკლი. ოკუპანტი განდევნილი იქნება ციკლის ეფექტისგან სარგებლობის გარეშე და დაზარალდება ბიოსკულპტერის მოკლევადიანი ავადმყოფობით.</BiosculpterInteruptCycleDesc>
+  <BiosculpterEnteringMessage>{PAWN_labelShort} შევა ბიოსკულპტორში და დაიწყებს {CYCLE} ციკლს.</BiosculpterEnteringMessage>
+  <BiosculpterLoadingStartedMessage>{PAWN_labelShort} შეაგროვებს {INGREDIENTS}-ს და დაიწყებს {CYCLE} ციკლს.</BiosculpterLoadingStartedMessage>
+  <BiosculpterCarryStartedMessage>{PAWN_labelShort} შეაგროვებს {INGREDIENTS}-ს, მოათავსებს {DOWNED_labelShort}-ს ბიოსკულპტერის შიგნით და დაიწყებს {CYCLE} ციკლს.</BiosculpterCarryStartedMessage>
+  <NumNutrition>{0} კვება</NumNutrition>
+  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} ამოვარდნილი იქნა ბიოსკულპტერის ღობედან დენის ნაკლებობის გამო.</BiosculpterNoPowerEjectedMessage>
+  <BiosculpterHealCompletedMessage>{PAWN_labelShort} დასრულდა სამკურნალო ციკლი.</BiosculpterHealCompletedMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort}-მა დაასრულა სამკურნალო ციკლი და {PAWN_possessive} {HEDIFF_label} განიკურნა.</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort}-მა დაასრულა {PAWN_possessive} ასაკის შებრუნების ციკლი.</BiosculpterAgeReversalCompletedMessage>
+  <AgeReversalExpectationDeadline>{PAWN_pronoun} მოელის შემდეგ ასაკობრივ შეცვლას {DEADLINE} დღეში.</AgeReversalExpectationDeadline>
+  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort}-ის სიამოვნების ციკლი დასრულებულია.</BiosculpterPleasureCompletedMessage>
+  <BiosculpterCleanlinessSpeedFactor>სისუფთავის სიჩქარის ფაქტორი</BiosculpterCleanlinessSpeedFactor>
+  <BiosculpterBiotunedSpeedFactor>ბიოტონირებული სიჩქარის ფაქტორი</BiosculpterBiotunedSpeedFactor>
+  <HealingCycleWillHeal>ეს პირობები განიკურნება</HealingCycleWillHeal>
+  <HealingCycleOneWillHeal>ერთ-ერთი ასეთი მდგომარეობა განიკურნება</HealingCycleOneWillHeal>
+  <MissingRequiredResearch>საჭირო კვლევა აკლია</MissingRequiredResearch>
+  <BiosculpterRequiresIngredients>საჭიროა</BiosculpterRequiresIngredients>
+  <OnCompletionOfCycle>{CYCLE} ციკლის დასრულების შემდეგ მოხდება შემდეგი</OnCompletionOfCycle>
+  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef}-ს არ აქვს რაიმე მდგომარეობა, რომლის განკურნებაც შესაძლებელია {CYCLE} ციკლით.\n\nგსურთ გააგრძელოთ?</BiosculpterNoCoditionsToHeal>
+
+  <Basic>ძირითადი</Basic>
+  <ChangeStyleDesc>შეცვალეთ სტილი, რომელიც იქნება ჩაშენებული. ეს არის წმინდა ვიზუალური და არ აქვს თამაშზე გავლენა.</ChangeStyleDesc>
+  <ChangeStyleDisabledNoCategories>ხელმისაწვდომი სტილები არ არის.</ChangeStyleDisabledNoCategories>
+  <SpacedroneSelfDestructsIn>Spacedrone თვითგანადგურება {0}-ში</SpacedroneSelfDestructsIn>
+
+</LanguageData>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallAestheticNose.description>დააინსტალირეთ ესთეტიკური ცხვირი.</InstallAestheticNose.description>
+  <InstallAestheticNose.jobString>ესთეტიკური ცხვირის დაყენება.</InstallAestheticNose.jobString>
+  <InstallAestheticNose.label>დააინსტალირეთ ესთეტიკური ცხვირი</InstallAestheticNose.label>
+  <InstallAestheticShaper.description>დააინსტალირეთ ესთეტიკური ფორმატორი.</InstallAestheticShaper.description>
+  <InstallAestheticShaper.jobString>ესთეტიკური ფორმირების დაყენება.</InstallAestheticShaper.jobString>
+  <InstallAestheticShaper.label>დააინსტალირეთ ესთეტიკური ფორმა</InstallAestheticShaper.label>
+  <InstallArmorskinGland.description>დააინსტალირეთ ჯავშანტექნიკის ჯირკვალი.</InstallArmorskinGland.description>
+  <InstallArmorskinGland.jobString>ჯავშანტექნიკის ჯირკვლის დაყენება.</InstallArmorskinGland.jobString>
+  <InstallArmorskinGland.label>ჯავშანტექნიკის ჯირკვლის დაყენება</InstallArmorskinGland.label>
+  <InstallCircadianAssistant.description>დააინსტალირეთ ცირკადული ასისტენტი.</InstallCircadianAssistant.description>
+  <InstallCircadianAssistant.jobString>ცირკადული ასისტენტის დაყენება.</InstallCircadianAssistant.jobString>
+  <InstallCircadianAssistant.label>დააინსტალირეთ ცირკადული ასისტენტი</InstallCircadianAssistant.label>
+  <InstallCircadianHalfCycler.description>დააინსტალირეთ ცირკადული ნახევარციკლერი.</InstallCircadianHalfCycler.description>
+  <InstallCircadianHalfCycler.jobString>ცირკადული ნახევარციკლერის დაყენება.</InstallCircadianHalfCycler.jobString>
+  <InstallCircadianHalfCycler.label>დააინსტალირეთ ცირკადული ნახევარციკლერი</InstallCircadianHalfCycler.label>
+  <InstallCoagulator.description>დააინსტალირეთ კოაგულატორი.</InstallCoagulator.description>
+  <InstallCoagulator.jobString>კოაგულატორის დაყენება.</InstallCoagulator.jobString>
+  <InstallCoagulator.label>დააინსტალირეთ კოაგულატორი</InstallCoagulator.label>
+  <InstallDetoxifierStomach.description>დააინსტალირეთ სტერილური კუჭი.</InstallDetoxifierStomach.description>
+  <InstallDetoxifierStomach.jobString>კუჭის სტერილიზაციის დაყენება.</InstallDetoxifierStomach.jobString>
+  <InstallDetoxifierStomach.label>დააინსტალირეთ კუჭის სტერილიზაცია</InstallDetoxifierStomach.label>
+  <InstallGastroAnalyzer.description>დააინსტალირეთ გასტრო-ანალიზატორი.</InstallGastroAnalyzer.description>
+  <InstallGastroAnalyzer.jobString>გასტრო-ანალიზატორის დაყენება.</InstallGastroAnalyzer.jobString>
+  <InstallGastroAnalyzer.label>გასტროანალიზატორის დაყენება</InstallGastroAnalyzer.label>
+  <InstallHealingEnhancer.description>დააინსტალირეთ სამკურნალო გამაძლიერებელი.</InstallHealingEnhancer.description>
+  <InstallHealingEnhancer.jobString>სამკურნალო გამაძლიერებლის დაყენება.</InstallHealingEnhancer.jobString>
+  <InstallHealingEnhancer.label>დააინსტალირეთ სამკურნალო გამაძლიერებელი</InstallHealingEnhancer.label>
+  <InstallImmunoenhancer.description>დააინსტალირეთ იმუნოგამაძლიერებელი.</InstallImmunoenhancer.description>
+  <InstallImmunoenhancer.jobString>იმუნოგამაძლიერებლის დაყენება.</InstallImmunoenhancer.jobString>
+  <InstallImmunoenhancer.label>დააინსტალირეთ იმუნოგამაძლიერებელი</InstallImmunoenhancer.label>
+  <InstallLearningAssistant.description>დააინსტალირეთ სასწავლო ასისტენტი.</InstallLearningAssistant.description>
+  <InstallLearningAssistant.jobString>სასწავლო ასისტენტის დაყენება.</InstallLearningAssistant.jobString>
+  <InstallLearningAssistant.label>დააინსტალირეთ სასწავლო ასისტენტი</InstallLearningAssistant.label>
+  <InstallLoveEnhancer.description>დააინსტალირეთ სიყვარულის გამაძლიერებელი.</InstallLoveEnhancer.description>
+  <InstallLoveEnhancer.jobString>სიყვარულის გამაძლიერებლის ინსტალაცია.</InstallLoveEnhancer.jobString>
+  <InstallLoveEnhancer.label>დააინსტალირეთ სიყვარულის გამაძლიერებელი</InstallLoveEnhancer.label>
+  <InstallNeurocalculator.description>დააინსტალირეთ ნეიროკალკულატორი.</InstallNeurocalculator.description>
+  <InstallNeurocalculator.jobString>ნეიროკალკულატორის დაყენება.</InstallNeurocalculator.jobString>
+  <InstallNeurocalculator.label>დააინსტალირეთ ნეიროკალკულატორი</InstallNeurocalculator.label>
+  <InstallNuclearStomach.description>დააინსტალირეთ ბირთვული კუჭი.</InstallNuclearStomach.description>
+  <InstallNuclearStomach.jobString>ბირთვული კუჭის დაყენება.</InstallNuclearStomach.jobString>
+  <InstallNuclearStomach.label>ბირთვული კუჭის დაყენება</InstallNuclearStomach.label>
+  <InstallReprocessorStomach.description>დააინსტალირეთ რეპროცესორი კუჭი.</InstallReprocessorStomach.description>
+  <InstallReprocessorStomach.jobString>კუჭის რეპროცესორის დაყენება.</InstallReprocessorStomach.jobString>
+  <InstallReprocessorStomach.label>დააინსტალირეთ კუჭის რეპროცესორი</InstallReprocessorStomach.label>
+  <InstallStoneskinGland.description>დააინსტალირეთ ქვის კანის ჯირკვალი.</InstallStoneskinGland.description>
+  <InstallStoneskinGland.jobString>ქვის კანის ჯირკვლის დაყენება.</InstallStoneskinGland.jobString>
+  <InstallStoneskinGland.label>დააინსტალირეთ ქვის კანის ჯირკვალი</InstallStoneskinGland.label>
+  <InstallToughskinGland.description>დააინსტალირეთ მკაცრი კანის ჯირკვალი.</InstallToughskinGland.description>
+  <InstallToughskinGland.jobString>ხისტი კანის ჯირკვლის დაყენება.</InstallToughskinGland.jobString>
+  <InstallToughskinGland.label>დააინსტალირეთ toughskin ჯირკვალი</InstallToughskinGland.label>
+  <RemoveAestheticNose.description>ამოიღეთ ესთეტიკური ცხვირი.</RemoveAestheticNose.description>
+  <RemoveAestheticNose.jobString>ესთეტიკური ცხვირის მოცილება.</RemoveAestheticNose.jobString>
+  <RemoveAestheticNose.label>ამოიღეთ ესთეტიკური ცხვირი</RemoveAestheticNose.label>
+  <RemoveAestheticShaper.description>ამოიღეთ ესთეტიკური ფორმა.</RemoveAestheticShaper.description>
+  <RemoveAestheticShaper.jobString>ესთეტიკური ფორმის მოცილება.</RemoveAestheticShaper.jobString>
+  <RemoveAestheticShaper.label>ამოიღეთ ესთეტიკური ფორმა</RemoveAestheticShaper.label>
+  <RemoveArmorskinGland.description>ამოიღეთ ჯავშანტექნიკის ჯირკვალი.</RemoveArmorskinGland.description>
+  <RemoveArmorskinGland.jobString>ჯავშანტექნიკის ჯირკვლის მოცილება.</RemoveArmorskinGland.jobString>
+  <RemoveArmorskinGland.label>ამოიღეთ ჯავშანტექნიკის ჯირკვალი</RemoveArmorskinGland.label>
+  <RemoveCircadianAssistant.description>ამოიღეთ ცირკადული ასისტენტი.</RemoveCircadianAssistant.description>
+  <RemoveCircadianAssistant.jobString>ცირკადული ასისტენტის ამოღება.</RemoveCircadianAssistant.jobString>
+  <RemoveCircadianAssistant.label>ცირკადული ასისტენტის ამოღება</RemoveCircadianAssistant.label>
+  <RemoveCircadianHalfCycler.description>ამოიღეთ ცირკადული ნახევარციკლერი.</RemoveCircadianHalfCycler.description>
+  <RemoveCircadianHalfCycler.jobString>ცირკადული ნახევარციკლერის მოცილება.</RemoveCircadianHalfCycler.jobString>
+  <RemoveCircadianHalfCycler.label>ამოიღეთ ცირკადული ნახევარციკლერი</RemoveCircadianHalfCycler.label>
+  <RemoveCoagulator.description>ამოიღეთ კოაგულატორი.</RemoveCoagulator.description>
+  <RemoveCoagulator.jobString>კოაგულატორის მოცილება.</RemoveCoagulator.jobString>
+  <RemoveCoagulator.label>ამოიღეთ კოაგულატორი</RemoveCoagulator.label>
+  <RemoveGastroAnalyzer.description>ამოიღეთ გასტრო-ანალიზატორი.</RemoveGastroAnalyzer.description>
+  <RemoveGastroAnalyzer.jobString>გასტრო-ანალიზატორის ამოღება.</RemoveGastroAnalyzer.jobString>
+  <RemoveGastroAnalyzer.label>ამოიღეთ გასტროანალიზატორი</RemoveGastroAnalyzer.label>
+  <RemoveHealingEnhancer.description>ამოიღეთ სამკურნალო გამაძლიერებელი.</RemoveHealingEnhancer.description>
+  <RemoveHealingEnhancer.jobString>სამკურნალო გამაძლიერებლის მოცილება.</RemoveHealingEnhancer.jobString>
+  <RemoveHealingEnhancer.label>ამოიღეთ სამკურნალო გამაძლიერებელი</RemoveHealingEnhancer.label>
+  <RemoveImmunoenhancer.description>ამოიღეთ იმუნოგამაძლიერებელი.</RemoveImmunoenhancer.description>
+  <RemoveImmunoenhancer.jobString>იმუნოგამაძლიერებლის მოცილება.</RemoveImmunoenhancer.jobString>
+  <RemoveImmunoenhancer.label>ამოიღეთ იმუნოგამაძლიერებელი</RemoveImmunoenhancer.label>
+  <RemoveLearningAssistant.description>წაშალეთ სასწავლო ასისტენტი.</RemoveLearningAssistant.description>
+  <RemoveLearningAssistant.jobString>სწავლის ასისტენტის მოხსნა.</RemoveLearningAssistant.jobString>
+  <RemoveLearningAssistant.label>ამოიღეთ სასწავლო ასისტენტი</RemoveLearningAssistant.label>
+  <RemoveLoveEnhancer.description>ამოიღეთ სიყვარულის გამაძლიერებელი.</RemoveLoveEnhancer.description>
+  <RemoveLoveEnhancer.jobString>სიყვარულის გამაძლიერებლის მოცილება.</RemoveLoveEnhancer.jobString>
+  <RemoveLoveEnhancer.label>ამოიღეთ სიყვარულის გამაძლიერებელი</RemoveLoveEnhancer.label>
+  <RemoveNeurocalculator.description>ამოიღეთ ნეიროკალკულატორი.</RemoveNeurocalculator.description>
+  <RemoveNeurocalculator.jobString>ნეიროკალკულატორის ამოღება.</RemoveNeurocalculator.jobString>
+  <RemoveNeurocalculator.label>ამოიღეთ ნეიროკალკულატორი</RemoveNeurocalculator.label>
+  <RemoveStoneskinGland.description>ამოიღეთ ქვის კანის ჯირკვალი.</RemoveStoneskinGland.description>
+  <RemoveStoneskinGland.jobString>ქვის კანის ჯირკვლის მოცილება.</RemoveStoneskinGland.jobString>
+  <RemoveStoneskinGland.label>ამოიღეთ ქვის კანის ჯირკვალი</RemoveStoneskinGland.label>
+  <RemoveToughskinGland.description>ამოიღეთ მკაცრი კანის ჯირკვალი.</RemoveToughskinGland.description>
+  <RemoveToughskinGland.jobString>ხისტი კანის ჯირკვლის მოცილება.</RemoveToughskinGland.jobString>
+  <RemoveToughskinGland.label>ამოიღეთ მკაცრი კანის ჯირკვალი</RemoveToughskinGland.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Farmer.label>ფერმერი</Farmer.label>
+  <Hunter.label>მონადირე</Hunter.label>
+  <Logger.label>ლოგერი</Logger.label>
+  <Miner.label>მაღაროელი</Miner.label>
+  <Tribal_Farmer.label>ფერმერი</Tribal_Farmer.label>
+  <Tribal_Logger.label>ლოგერი</Tribal_Logger.label>
+  <Tribal_Miner.label>მაღაროელი</Tribal_Miner.label>
+</LanguageData>

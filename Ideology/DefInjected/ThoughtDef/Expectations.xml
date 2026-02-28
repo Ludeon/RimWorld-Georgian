@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ExpectationsSlave.stages.0.description>მე გაჭირვებული ჯგუფის მონა ვარ. არაფერს ველოდები.</ExpectationsSlave.stages.0.description>
+  <ExpectationsSlave.stages.0.label>გაჭირვებული მონა მოლოდინი</ExpectationsSlave.stages.0.label>
+  <ExpectationsSlave.stages.1.description>მე ვარ ღარიბი ჯგუფის მონა. ძალიან ცოტას ველოდები.</ExpectationsSlave.stages.1.description>
+  <ExpectationsSlave.stages.1.label>ცუდი მონის მოლოდინი</ExpectationsSlave.stages.1.label>
+  <ExpectationsSlave.stages.2.description>მე მწირი ქონების მქონე ჯგუფის მონა ვარ. ცოტას ველოდები.</ExpectationsSlave.stages.2.description>
+  <ExpectationsSlave.stages.2.label>მწირი მონური მოლოდინი</ExpectationsSlave.stages.2.label>
+  <ExpectationsSlave.stages.3.description>მე ვარ მონა. ბევრს არ ველოდები.</ExpectationsSlave.stages.3.description>
+  <ExpectationsSlave.stages.3.label>მონური მოლოდინები</ExpectationsSlave.stages.3.label>
+</LanguageData>

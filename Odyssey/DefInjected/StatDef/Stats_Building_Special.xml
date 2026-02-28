@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GravshipRange.description>მაქსიმალური მანძილი, რომელსაც შეუძლია გაიაროს ეს გრავტი თავისი დაკავშირებული ქვესტრუქტურით.</GravshipRange.description>
+  <GravshipRange.label>საფლავის დიაპაზონი</GravshipRange.label>
+  <SubstructureSupport.description>სუბსტრუქტურის მაქსიმალური რაოდენობა, რომელსაც მხარს უჭერს ეს გრავიუმი.</SubstructureSupport.description>
+  <SubstructureSupport.label>სუბსტრუქტურის მხარდაჭერა</SubstructureSupport.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GainedTitle.stages.0.description>მე მინიჭებული მაქვს {TITLE} წოდება. მე მიყვარს აღიარება!</GainedTitle.stages.0.description>
+  <GainedTitle.stages.0.label>მიიღო {TITLE} სათაური</GainedTitle.stages.0.label>
+  <LostTitle.stages.0.description>მე დავკარგე ჩემი {TITLE} სათაური.</LostTitle.stages.0.description>
+  <LostTitle.stages.0.label>დაკარგა {TITLE} სათაური</LostTitle.stages.0.label>
+  <TitleApparelMinQualityNotMet.stages.0.description>{TITLE_indefinite} ჩემნაირი უნდა ატაროს მხოლოდ {QUALITY} ხარისხის ან უკეთესი ტანსაცმელი.</TitleApparelMinQualityNotMet.stages.0.description>
+  <TitleApparelMinQualityNotMet.stages.0.label>მინდა {TITLE_label}-ხარისხის ტანსაცმელი</TitleApparelMinQualityNotMet.stages.0.label>
+  <TitleApparelRequirementNotMet.stages.0.description>{TITLE_indefinite} like myself should be covered in apparel appropriate to my stature:\n\n{0}</TitleApparelRequirementNotMet.stages.0.description>
+  <TitleApparelRequirementNotMet.stages.0.label>მინდა {TITLE_label}-სპეციფიკური ტანსაცმელი</TitleApparelRequirementNotMet.stages.0.label>
+  <TitleBedroomRequirementsNotMet.stages.0.description>{TITLE_indefinite} like myself deserves a bedroom that meets these requirements:\n\n{0}</TitleBedroomRequirementsNotMet.stages.0.description>
+  <TitleBedroomRequirementsNotMet.stages.0.label>უღირსი საძინებელი</TitleBedroomRequirementsNotMet.stages.0.label>
+  <TitleNoPersonalBedroom.stages.0.description>{TITLE_indefinite}-ს უნდა ჰქონდეს პირადი საძინებელი.</TitleNoPersonalBedroom.stages.0.description>
+  <TitleNoPersonalBedroom.stages.0.label>არ არის პირადი საძინებელი</TitleNoPersonalBedroom.stages.0.label>
+  <TitleNoThroneRoom.stages.0.description>რა არის სამეფო ტახტის გარეშე?</TitleNoThroneRoom.stages.0.description>
+  <TitleNoThroneRoom.stages.0.label>არ არის ტახტის ოთახი</TitleNoThroneRoom.stages.0.label>
+  <TitleThroneroomRequirementsNotMet.stages.0.description>I am {TITLE_indefinite} and I should have these items in my throneroom:\n\n{0}</TitleThroneroomRequirementsNotMet.stages.0.description>
+  <TitleThroneroomRequirementsNotMet.stages.0.label>უღირსი ტახტი</TitleThroneroomRequirementsNotMet.stages.0.label>
+</LanguageData>

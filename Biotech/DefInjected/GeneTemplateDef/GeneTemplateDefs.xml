@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AddictionImmune.description>ამ გენის მატარებლები არასოდეს ხდებიან დამოკიდებული {0}-ზე.</AddictionImmune.description>
+  <AddictionImmune.label>{0} შეუვალი</AddictionImmune.label>
+  <AddictionResistant.description>გადამზიდველები მხოლოდ ნახევარზე მეტად არიან დამოკიდებულნი {0}-ზე.</AddictionResistant.description>
+  <AddictionResistant.label>{0} რეზისტენტული</AddictionResistant.label>
+  <AptitudePoor.description>გადამზიდველის უნარი {0}-ში მცირდება 4-ით. უნარი მოქმედებს როგორც კომპენსაცია უნარების დონეზე.</AptitudePoor.description>
+  <AptitudePoor.label>ცუდი {0}</AptitudePoor.label>
+  <AptitudeRemarkable.description>გადამზიდველის უნარი {0}-ში გაიზარდა 8-ით. უნარი მოქმედებს როგორც კომპენსაცია უნარების დონეზე. გარდა ამისა, ვნების ერთი დონე ემატება {0}-ს.</AptitudeRemarkable.description>
+  <AptitudeRemarkable.label>შესანიშნავი {0}</AptitudeRemarkable.label>
+  <AptitudeStrong.description>გადამზიდველის უნარი {0}-ში გაიზარდა 4-ით. უნარი მოქმედებს როგორც კომპენსაცია უნარების დონეზე.</AptitudeStrong.description>
+  <AptitudeStrong.label>ძლიერი {0}</AptitudeStrong.label>
+  <AptitudeTerrible.description>გადამზიდველის უნარი {0}-ში მცირდება 8-ით. უნარი მოქმედებს როგორც კომპენსაცია უნარების დონეზე. გარდა ამისა, ყველა ვნება ამოღებულია {0}-დან.</AptitudeTerrible.description>
+  <AptitudeTerrible.label>საშინელი {0}</AptitudeTerrible.label>
+  <ChemicalDependency.description>ამ გენის მატარებლებმა გადარჩენისთვის რეგულარულად უნდა მიიღონ {0}. {DEFICIENCYDURATION} {0}-ის გარეშე, გადამზიდველები განიცდიან {0} დეფიციტს. {COMADURATION}-ის შემდეგ ისინი კომაში ჩავარდებიან. {DEATHDURATION}-ის შემდეგ ისინი მოკვდებიან.</ChemicalDependency.description>
+  <ChemicalDependency.label>{0} დამოკიდებულება</ChemicalDependency.label>
+</LanguageData>

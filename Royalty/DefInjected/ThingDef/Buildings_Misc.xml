@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimusStone.description>An ancient jade stone marked with sacred tribal carvings. Tribal psycasters can focus on these stones during meditation to increase their psyfocus gain more than a typical nature shrine.\n\nDifferent tribal cultures tell different stories about these stones, but most agree that they were crafted by an ancient world spirit during a time of great power. Since they look like natural objects to unobservant outsiders, raiders will generally ignore them.</AnimusStone.description>
+  <AnimusStone.label>ანიმუსის ქვა</AnimusStone.label>
+  <MeditationSpot.description>განსაზღვრავს ადგილს მედიტაციისთვის. ფსიკასტერებს შეუძლიათ აქ მედიტაცია ფსიქოკუსის მოსაპოვებლად. თუ ფოკუსირებული ობიექტი, როგორიცაა სკულპტურა, ახლოს არის, ფსიკასტერი შეძლებს მასზე ფოკუსირებას, რათა გაზარდოს ფსიქოკუსის მომატება. თუმცა, სხვადასხვა ადამიანს შეუძლია გამოიყენოს სხვადასხვა ფოკუსირებული ობიექტები.</MeditationSpot.description>
+  <MeditationSpot.label>მედიტაციის ადგილი</MeditationSpot.label>
+  <NatureShrine_Large.description>დიდი სალოცავი სულიერი არსებების პატივსაცემად. ტომის ფსიქოსტებს შეუძლიათ ფოკუსირება მოახდინონ ამ სალოცავზე მედიტაციისას ფსიქოკუსის გაზრდის მიზნით. ბუნების სიწმინდეები კარგავენ ძალას, თუ ისინი ახლოს არიან ხელოვნურ ნაგებობებთან, ამიტომ ისინი ყოველთვის ბუნებაშია აშენებული. იმის გამო, რომ ისინი ბუნებრივ ობიექტებს ჰგვანან უყურადღებო აუტსაიდერებისთვის, თავდამსხმელები საერთოდ უგულებელყოფენ მათ.</NatureShrine_Large.description>
+  <NatureShrine_Large.label>დიდი ბუნების სალოცავი</NatureShrine_Large.label>
+  <NatureShrine_Small.description>პატარა სალოცავი სულიერი არსებების პატივსაცემად. ტომის ფსიქოსტებს შეუძლიათ ფოკუსირება მოახდინონ ამ სალოცავზე მედიტაციისას ფსიქოკუსის გაზრდის მიზნით. ბუნების სიწმინდეები კარგავენ ძალას, თუ ისინი ახლოს არიან ხელოვნურ ნაგებობებთან, ამიტომ ისინი ყოველთვის ბუნებაშია აშენებული. იმის გამო, რომ ისინი ბუნებრივ ობიექტებს ჰგვანან უყურადღებო აუტსაიდერებისთვის, თავდამსხმელები საერთოდ უგულებელყოფენ მათ.</NatureShrine_Small.description>
+  <NatureShrine_Small.label>ბუნების პატარა სალოცავი</NatureShrine_Small.label>
+  <ShipLandingBeacon.description>აღნიშნავს სადესანტო ადგილის კუთხეს. ამათგან ოთხი, რომელიც მოთავსებულია სუფთა უბნის კუთხეებში (მინიმუმ 9x9) ქმნის სადესანტო ბალიშს. კოსმოსური ხომალდი, როგორც წესი, ეშვება ბალიშებზე, თუ ეს შესაძლებელია.</ShipLandingBeacon.description>
+  <ShipLandingBeacon.label>გემის სადესანტო შუქურა</ShipLandingBeacon.label>
+</LanguageData>

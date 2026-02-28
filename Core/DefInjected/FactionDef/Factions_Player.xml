@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PlayerColony.description>ახლახან ჩამოსული უცხო ქვეყნების კოლონია.</PlayerColony.description>
+  <PlayerColony.label>ახალი ჩამოსვლა</PlayerColony.label>
+  <PlayerColony.pawnSingular>კოლონისტი</PlayerColony.pawnSingular>
+  <PlayerTribe.description>პატარა ტომი.</PlayerTribe.description>
+  <PlayerTribe.label>ახალი ტომი</PlayerTribe.label>
+  <PlayerTribe.pawnSingular>ტომის წევრი</PlayerTribe.pawnSingular>
+</LanguageData>

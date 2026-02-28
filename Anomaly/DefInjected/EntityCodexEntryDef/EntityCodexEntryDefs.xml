@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodRain.description>ციდან ჩამოვარდნილი სისხლის მსგავსი ფსიქოსთხევადი. ნებისმიერი, ვინც მას ექვემდებარება, გრძნობს მზარდ ბრაზს, რომელიც საბოლოოდ ბრაზიან რისხვად იქცევა.</BloodRain.description>
+  <BloodRain.label>სისხლის წვიმა</BloodRain.label>
+  <Chimera.label>ქიმერა</Chimera.label>
+  <CorruptedObelisk.label>დაზიანებული ობელისკი</CorruptedObelisk.label>
+  <Deathpall.description>გვამის ნაცრისფერი ღრუბელი, რომელიც შედგება მიკროსკოპული თვითმმართველობითი არქიტებისაგან, რომლებიც შექმნილია უცნობი სუპერინტელექტის მიერ. როდესაც ისინი მკვდარ ხორცს ეშვებიან, ისინი შედიან სხეულში და აცოცხლებენ მას, რათა შექმნან სიცოცხლის ამაზრზენი იმიტაცია.</Deathpall.description>
+  <Deathpall.label>deathpall</Deathpall.label>
+  <Devourer.label>მჭამელი</Devourer.label>
+  <Dreadmeld.label>დრედმელდი</Dreadmeld.label>
+  <Fleshbeasts.description>საშინელი არსებები, რომლებიც შედგება სიმსივნური ხორცის მასებისგან. ზოგიერთი შეიცავს მრავალ ნერვულ სისტემას, რაც მათ საშუალებას აძლევს დაიყოს პატარა ხორცის მხეცებად.</Fleshbeasts.description>
+  <Fleshbeasts.label>ხორცის მხეცი</Fleshbeasts.label>
+  <FleshmassHeart.label>ხორცის გული</FleshmassHeart.label>
+  <FleshmassNucleus.label>ხორცის მასის ბირთვი</FleshmassNucleus.label>
+  <Ghoul.description>ადამიანი ჩანერგილი არქოტექნიკური ნატეხით და ბნელი ფსიქიკური ზემოქმედებით გადატრიალებული მღელვარე მკვლელობის მანქანაში.</Ghoul.description>
+  <Ghoul.label>ღელვა</Ghoul.label>
+  <GoldenCube.label>ოქროს კუბი</GoldenCube.label>
+  <Gorehulk.label>გორჰულკი</Gorehulk.label>
+  <HarbingerTree.label>საწინდარი ხე</HarbingerTree.label>
+  <Metalhorror.label>მეტალჰორორი</Metalhorror.label>
+  <Nociosphere.label>ნოციოსფერო</Nociosphere.label>
+  <Noctol.label>ნოქტოლი</Noctol.label>
+  <Noctolith.label>ნოქტოლიტი</Noctolith.label>
+  <PitGate.label>ორმოს კარიბჭე</PitGate.label>
+  <Revenant.label>გამობრუნებული</Revenant.label>
+  <Shambler.description>მიკროსკოპული არქიტების მიერ რეანიმაციული ცხედრები. შამბლერები ნელი, უგონოები არიან და დაუნდობლად თავს დაესხმებიან. თუ დატყვევებულები არ იქნებიან, შამბლერები იღუპებიან მეტაბოლური დაღლილობისგან რამდენიმე დღის შემდეგ.</Shambler.description>
+  <Shambler.label>შამბლერი</Shambler.label>
+  <Sightstealer.label>სანახაობის მძარცველი</Sightstealer.label>
+  <TwistedObelisk.label>გრეხილი ობელისკი</TwistedObelisk.label>
+  <UnnaturalCorpse.description>უცნაური გვამი, რომელიც შეხებისას ცვილისებრი და თბილია. რაღაც ღრმად შემაშფოთებელია მასში.</UnnaturalCorpse.description>
+  <UnnaturalCorpse.label>არაბუნებრივი გვამი</UnnaturalCorpse.label>
+  <VoidMonolith.label>ბათილი მონოლითი</VoidMonolith.label>
+  <VoidNode.label>ბათილი კვანძი</VoidNode.label>
+  <VoidStructure.label>ბათილი სტრუქტურა</VoidStructure.label>
+  <WarpedObelisk.label>დახრილი ობელისკი</WarpedObelisk.label>
+</LanguageData>

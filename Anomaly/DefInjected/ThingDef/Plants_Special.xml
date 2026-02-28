@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChoppedStump_Harbinger.description>ღერო, რომელიც დარჩა საწინდარი ხის მოჭრის შემდეგ. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ მასალას იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</ChoppedStump_Harbinger.description>
+  <ChoppedStump_Harbinger.label>დაჭრილი საწინდარი ღერო</ChoppedStump_Harbinger.label>
+  <HarbingerSeed.description>საწინდარი ხის თესლი. მისი დარგვა შესაძლებელია ახალი საწინდარი ხის გასაზრდელად, რომელიც შეჭამს მახლობლად მოთავსებულ ნებისმიერ გვამს ან ხორცს.</HarbingerSeed.description>
+  <HarbingerSeed.label>საწინდარი თესლი</HarbingerSeed.label>
+  <Plant_TreeHarbinger.description>A gnarled tree that grows a flesh-like covering around a bioferrite skeleton. Harbinger trees are capable of feeding on corpses and raw meat, and will consume those placed nearby. If well fed, the grove will continue to grow.\n\nThe tree can be harvested for twisted meat and bioferrite.\n\nIn a tribal myth, these trees are the emissaries of a mad, shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky.</Plant_TreeHarbinger.description>
+  <Plant_TreeHarbinger.label>საწინდარი ხე</Plant_TreeHarbinger.label>
+  <SmashedStump_Harbinger.description>დაზიანებით განადგურდა საწინდარი ხის ნარჩენები. მახინჯია. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ მასალას იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</SmashedStump_Harbinger.description>
+  <SmashedStump_Harbinger.label>დამსხვრეული საწინდარი ღერო</SmashedStump_Harbinger.label>
+</LanguageData>

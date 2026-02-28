@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Delicate.degreeDatas.0.description>{PAWN_nameDef} აქვს მყიფე კანი და ძვლები. {PAWN_pronoun} უფრო მეტ ზიანს აყენებს, ვიდრე სხვა ადამიანები იმავე დარტყმისგან.</Delicate.degreeDatas.0.description>
+  <Delicate.degreeDatas.0.label>დელიკატური</Delicate.degreeDatas.0.label>
+  <Recluse.degreeDatas.0.description>რაც უფრო ნაკლები ადამიანია {PAWN_nameDef}-ის ფრაქციაში, მით უფრო ბედნიერია {PAWN_pronoun}. მარტო ყოფნა ყველაზე კარგია.</Recluse.degreeDatas.0.description>
+  <Recluse.degreeDatas.0.label>განმარტოებული</Recluse.degreeDatas.0.label>
+</LanguageData>

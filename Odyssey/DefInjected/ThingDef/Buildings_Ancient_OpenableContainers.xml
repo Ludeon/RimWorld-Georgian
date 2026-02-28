@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientBox_ComponentIndustrial.description>ყუთი სავსე ღირებული კომპონენტებით. ზოგიერთი ხელუხლებელი და გამოსაყენებელია.</AncientBox_ComponentIndustrial.description>
+  <AncientBox_ComponentIndustrial.label>კომპონენტის ყუთი</AncientBox_ComponentIndustrial.label>
+  <AncientBox_ComponentSpacer.description>მოწინავე კომპონენტების ყუთი, კარგად შენახული და პოტენციურად ღირებული.</AncientBox_ComponentSpacer.description>
+  <AncientBox_ComponentSpacer.label>მოწინავე კომპონენტის ყუთი</AncientBox_ComponentSpacer.label>
+  <AncientBox_SteelSlag.description>ფოლადის ნარჩენებით სავსე ყუთი. ის მძიმეა, მაგრამ შეიძლება შეიცავდეს ზოგიერთ ამოსაღებ ლითონს.</AncientBox_SteelSlag.description>
+  <AncientBox_SteelSlag.label>ფოლადის ჯართის ყუთი</AncientBox_SteelSlag.label>
+  <AncientChemfuelCanister.description>ქიმიური საწვავის დალუქული ქილა. ის შეიძლება კვლავ შეიცავდეს გამოსაყენებელ საწვავს.</AncientChemfuelCanister.description>
+  <AncientChemfuelCanister.label>ქიმიური საწვავის ქილა</AncientChemfuelCanister.label>
+  <AncientPallet_SteelSlag.description>ფოლადის ჯართით დაწყობილი პლატა. მას მაინც შეიძლებოდა აღსავსე ლითონის შენახვა.</AncientPallet_SteelSlag.description>
+  <AncientPallet_SteelSlag.label>ფოლადის ჯართის პლატა</AncientPallet_SteelSlag.label>
+  <AncientSafe.description>ჩაკეტილი სეიფი. ის ძლიერ დაჟანგულია, რაც აადვილებს გახსნას. მასში შეიძლება იყოს ძვირფასი ნივთები.</AncientSafe.description>
+  <AncientSafe.label>დაჟანგული სეიფი</AncientSafe.label>
+  <MalfunctioningTransportPod.description>სატვირთო ყუთი გაუმართავი გამოშვების მექანიზმით. ის ჯერ კიდევ დალუქულია, შეიცავს უცნობი შინაარსი.</MalfunctioningTransportPod.description>
+  <MalfunctioningTransportPod.label>გაუმართავი სატრანსპორტო საყრდენი</MalfunctioningTransportPod.label>
+  <Pallet_Medicine.description>პლატა, რომელიც შეიცავს ძველ სამედიცინო აღჭურვილობას. ზოგიერთი ელემენტი შეიძლება კვლავ იყოს გამოსაყენებელი.</Pallet_Medicine.description>
+  <Pallet_Medicine.label>წამლის პლატა</Pallet_Medicine.label>
+  <Pallet_SurvivalMeals.description>პლატა, რომელიც შეიცავს გადარჩენის საკვებს. შიგთავსი დაზიანებულია, მაგრამ ზოგიერთი კერძი შეიძლება მაინც იყოს შესანახი.</Pallet_SurvivalMeals.description>
+  <Pallet_SurvivalMeals.label>გადარჩენის კვების პლატა</Pallet_SurvivalMeals.label>
+  <SealedCrate.description>პატარა ყუთი, რომელიც ჯერ კიდევ დალუქულია. შიგნით შეიძლება იყოს ძვირფასი ნივთები.</SealedCrate.description>
+  <SealedCrate.label>დალუქული ყუთი</SealedCrate.label>
+</LanguageData>

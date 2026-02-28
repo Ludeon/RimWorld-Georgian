@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CallDropPods.description>გამოიძახეთ წვეთები, რომლებიც შეგიძლიათ გამოიყენოთ სხვა ადგილას სამოგზაუროდ.</CallDropPods.description>
+  <CallDropPods.label>ზარის წვეთები</CallDropPods.label>
+  <CallMechanoids.description>გამოიძახეთ მტრულად განწყობილი მექანოიდები ადგილზე წვეთოვანი ღეროების გამოყენებით. ისინი თავს დაესხმებიან ყველა მიმდებარე ადამიანს - მეგობარს თუ მტერს.</CallMechanoids.description>
+  <CallMechanoids.label>მოვუწოდებთ mechanoids</CallMechanoids.label>
+  <DeactivateMechanoid.description>სამუდამოდ გამორთეთ მტრული მექანოიდი.</DeactivateMechanoid.description>
+  <DeactivateMechanoid.label>მექანოიდის გამორთვა</DeactivateMechanoid.label>
+  <EggSpew.description>გაუშვით კვერცხის ტომარა და მჟავე ტალახის შესხურება სამიზნე ადგილზე. ტალახი მიეწებება მიზნებს და დაწვავს მათ.</EggSpew.description>
+  <EggSpew.label>კვერცხის ნახარში</EggSpew.label>
+  <SludgeSpew.description>დაასხურეთ მჟავე ტალახი მთელ სამიზნე ზონაში. ტალახი მიეწებება მიზნებს და დაწვავს მათ.</SludgeSpew.description>
+  <SludgeSpew.label>შლამის ნაღვლიანი</SludgeSpew.label>
+  <TerrorRoar.description>გაათავისუფლეთ საშინელი ღრიალი, რომელსაც აქვს შესაძლებლობა გააგზავნოს ახლომდებარე მტრულად განწყობილი ადამიანები და ცხოველები შიშით გაქცეული.</TerrorRoar.description>
+  <TerrorRoar.label>ტერორის ღრიალი</TerrorRoar.label>
+  <ThrumboRoar.label>თრომბო ღრიალი</ThrumboRoar.label>
+  <WarTrumpet.label>ომის საყვირი</WarTrumpet.label>
+</LanguageData>

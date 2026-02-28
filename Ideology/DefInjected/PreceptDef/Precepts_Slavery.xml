@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Slavery_Abhorrent.description>ადამიანების ფლობა ან ვაჭრობა ღრმა ბოროტებაა.</Slavery_Abhorrent.description>
+  <Slavery_Abhorrent.label>საზიზღარი</Slavery_Abhorrent.label>
+  <Slavery_Acceptable.description>მონობა ცხოვრების ჩვეულებრივი, არაჩვეულებრივი ნაწილია.</Slavery_Acceptable.description>
+  <Slavery_Acceptable.label>მისაღები</Slavery_Acceptable.label>
+  <Slavery_Disapproved.description>მონობა ცხოვრების ნაწილია, თუმცა უკიდურესად უსიამოვნოა.</Slavery_Disapproved.description>
+  <Slavery_Disapproved.label>არ მოიწონა</Slavery_Disapproved.label>
+  <Slavery_Honorable.description>ის, ვინც ფლობს და ვაჭრობს მონებს, უნდა იყოს პატივი და პატივი.</Slavery_Honorable.description>
+  <Slavery_Honorable.label>საპატიო</Slavery_Honorable.label>
+  <Slavery_Horrible.description>ადამიანების ფლობა ან ვაჭრობა საშინელებაა.</Slavery_Horrible.description>
+  <Slavery_Horrible.label>საზარელი</Slavery_Horrible.label>
+</LanguageData>

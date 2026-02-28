@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PruningSpeed.description>A multiplier on how fast this person can prune a Gauranlen tree to maintain their connection with it.\n\nPruning is more of a contemplative psychic task than a physical one, so health factors like vision are unimportant here.</PruningSpeed.description>
+  <PruningSpeed.label>გასხვლის სიჩქარე</PruningSpeed.label>
+  <SuppressionPower.description>მულტიპლიკატორი მცველის უნარზე, დათრგუნოს მონები.</SuppressionPower.description>
+  <SuppressionPower.label>ჩახშობის ძალა</SuppressionPower.label>
+</LanguageData>

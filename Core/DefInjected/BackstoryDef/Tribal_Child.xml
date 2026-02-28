@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AbandonedChild23.description>[PAWN_nameDef] ავადმყოფურად დაიბადა. ფიქრობდნენ, რომ [PAWN_pronoun] მხოლოდ ტომს დაამძიმებდა, [PAWN_მფლობელი] მშობლებმა [PAWN_objective] გამოავლინეს ელემენტები. რატომღაც, [PAWN_pronoun] გადარჩა.</AbandonedChild23.description>
+  <AbandonedChild23.title>მიტოვებული ბავშვი</AbandonedChild23.title>
+  <AbandonedChild23.titleShort>მიტოვებული</AbandonedChild23.titleShort>
+  <Bookworm19.description>სხვა ბავშვებთან სოციალიზაციის ნაცვლად, [PAWN_nameDef] ამჯობინა ლიტერატურაში დაკარგვა. [PAWN_pronoun]-მა ასწავლა [PAWN_objective]თავს თავის კითხვას ადრეულ ასაკში გამვლელი მოვაჭრეებისგან ნაყიდი წიგნებით.</Bookworm19.description>
+  <Bookworm19.title>წიგნის ჭია</Bookworm19.title>
+  <Bookworm19.titleShort>წიგნის ჭია</Bookworm19.titleShort>
+  <BuddingArtist44.description>[PAWN_nameDef]-ს ხელოვნების ნიჭი ჰქონდა. ვაჭრები და კოლექციონერები სხვადასხვა საზოგადოებისგან ცდილობდნენ ეყიდათ [PAWN_possessive] ქმნილებები.</BuddingArtist44.description>
+  <BuddingArtist44.title>დამწყები მხატვარი</BuddingArtist44.title>
+  <BuddingArtist44.titleShort>მხატვარი</BuddingArtist44.titleShort>
+  <Bully70.description>[PAWN_nameDef] აწამებდა სხვა ბავშვებს გასართობად. იმისათვის, რომ [PAWN_objective] დაკავებული ყოფილიყო, უფროსმა [PAWN_objective] ადრეულ ასაკში დანიშნა ნადირობის წვეულებაზე.</Bully70.description>
+  <Bully70.title>მოძალადე</Bully70.title>
+  <Bully70.titleShort>მოძალადე</Bully70.titleShort>
+  <CaveChild30.description>[PAWN_nameDef] გაიზარდა დიდ და რთულ გამოქვაბულის კომპლექსში, რომელიც ღრმად ვრცელდებოდა მთის ფერდობზე. [PAWN_pronoun] დაეხმარა მოზარდებს ღრმა გამოქვაბულების შენარჩუნებასა და გაუმჯობესებაში.</CaveChild30.description>
+  <CaveChild30.title>გამოქვაბულის ბავშვი</CaveChild30.title>
+  <CaveChild30.titleShort>გამოქვაბულის ბავშვი</CaveChild30.titleShort>
+  <CrashBaby32.description>როგორც ბავშვი, [PAWN_nameDef] ერთადერთი გადარჩენილი იყო სასიკვდილო კოსმოსური ხომალდის ჩამოვარდნისას. გამვლელმა ტომმა აღმოაჩინა [PAWN_objective] ნანგრევებში და მიიღო [PAWN_objective].</CrashBaby32.description>
+  <CrashBaby32.title>ავარია ბავშვი</CrashBaby32.title>
+  <CrashBaby32.titleShort>ავარიის შვილი</CrashBaby32.titleShort>
+  <FireKeeper44.description>[PAWN_nameDef] პასუხისმგებელი იყო ტომის ცეცხლის შენარჩუნებაზე. [PAWN_pronoun] ეს პასუხისმგებლობა ძალიან სერიოზულად მიიღო.</FireKeeper44.description>
+  <FireKeeper44.title>მეხანძრე</FireKeeper44.title>
+  <FireKeeper44.titleShort>მეხანძრე</FireKeeper44.titleShort>
+  <Herder19.description>[PAWN_nameDef] უვლიდა მაფალოს ნახირებს, იცავდა მათ მტაცებლებისგან და მკურნალობდა ავადმყოფ ცხოველებს. წყნარი სამუშაო იყო, მაგრამ [PAWN_pronoun] სიამოვნებდა ხალხისგან შორს ყოფნა.</Herder19.description>
+  <Herder19.title>მწყემსი</Herder19.title>
+  <Herder19.titleShort>მწყემსი</Herder19.titleShort>
+  <Hideaway7.description>[PAWN_nameDef]-ის ზედმეტად დამცავი მშობლები მოუწოდებდნენ [PAWN_objective] სახლში დარჩენა თითქმის ყოველდღე. მიუხედავად იმისა, რომ [PAWN_pronoun]-ს ბევრი დრო ჰქონდა წასაკითხად და ხელოსნობის ჰობის გასატარებლად, [PAWN_pronoun] არასოდეს განუვითარდა ნორმალური სოციალური უნარები.</Hideaway7.description>
+  <Hideaway7.title>თავშესაფარი</Hideaway7.title>
+  <Hideaway7.titleShort>თავშესაფარი</Hideaway7.titleShort>
+  <ReclusiveChild81.description>[PAWN_nameDef]-მა ლაპარაკი თითქმის ხუთი წლის ასაკამდე ვერ ისწავლა. მაშინაც კი [PAWN_pronoun] საკუთარ თავში ყოფნას ამჯობინებდა.\n\n[PAWN_possessive] მომვლელების გასაღიზიანებლად, [PAWN_pronoun] ჩვევად ჰქონდა კვირეობით ველურ ბუნებაში გადაკარგვა.</ReclusiveChild81.description>
+  <ReclusiveChild81.title>განმარტოებული ბავშვი</ReclusiveChild81.title>
+  <ReclusiveChild81.titleShort>განმარტოებული</ReclusiveChild81.titleShort>
+  <Scavenger22.description>[PAWN_nameDef]-მა გაატარა [PAWN_possessive] ბავშვობა, რათა თავი დააღწია წუწუნს, რათა გაეთხარა ნანგრევები და ნანგრევები განძის საპოვნელად. [PAWN_possessive] ბუნებრივმა ცნობისმოყვარეობამ [PAWN_objective] ბევრი უბედურება გამოიწვია, მაგრამ მან ასევე ბევრი საინტერესო აღმოჩენა გამოიღო.</Scavenger22.description>
+  <Scavenger22.title>გამწმენდი</Scavenger22.title>
+  <Scavenger22.titleShort>გამწმენდი</Scavenger22.titleShort>
+  <SoleSurvivor21.description>[PAWN_nameDef]-ის მთელი ტომი განადგურდა დარბევის შედეგად. მიუხედავად იმისა, რომ [PAWN_pronoun] სხვა ჯგუფმა მიიღო, [PAWN_pronoun] ემოციურად ნაწიბურები იყო და ამჯობინა სახლთან ახლოს ყოფნა, მომზადება და მოსავლის მოვლა.</SoleSurvivor21.description>
+  <SoleSurvivor21.title>ერთადერთი გადარჩენილი</SoleSurvivor21.title>
+  <SoleSurvivor21.titleShort>გადარჩენილი</SoleSurvivor21.titleShort>
+  <TribeChild40.description>[PAWN_nameDef] ტომში გაიზარდა - დარბოდა სოფელში, მიჰყვებოდა მაფალოების ფარებს და აუცილებელ უნარებს [PAWN_possessive] მშობლებისგან სწავლობდა.\n\n[PAWN_pronoun]-ს კითხვა არასდროს უსწავლია და არცერთი მანქანა უნახავს, თუ უძველეს ნანგრევს არ ჩავთვლით.</TribeChild40.description>
+  <TribeChild40.title>ტომის ბავშვი</TribeChild40.title>
+  <TribeChild40.titleShort>ტომობრივი</TribeChild40.titleShort>
+  <VengefulChild43.description>ბავშვობაში, [PAWN_nameDef] დაბრუნდა [PAWN_possessive] სოფელში, რათა აღმოაჩინა, რომ ის ბანდიტებმა გაანადგურეს. [PAWN_pronoun] შურისძიების ფიცი დადო თავდამსხმელებზე და დაიწყო ძალადობრივი დარბევა უდაბნოში.</VengefulChild43.description>
+  <VengefulChild43.title>შურისმაძიებელი ბავშვი</VengefulChild43.title>
+  <VengefulChild43.titleShort>შურისმაძიებელი</VengefulChild43.titleShort>
+</LanguageData>

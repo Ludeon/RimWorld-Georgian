@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MechAssembler.description>ავტომატური სწრაფი მოქმედების მექანიზმი გესტატორი. ის პერიოდულად შობს და ავრცელებს ახალ მექანოიდებს.</MechAssembler.description>
+  <MechAssembler.label>მეხი მშობიარე</MechAssembler.label>
+  <MechCapsule.description>მექანიკური შენახვისა და განლაგების კაფსულა. ის შეიძლება შეიცავდეს უამრავ მექანოიდს, რომლებიც მზად არიან აღმოცენდეს და იბრძოლონ გაღვიძებისთანავე.</MechCapsule.description>
+  <MechCapsule.label>მექანიკური კაფსულა</MechCapsule.label>
+  <MechDropBeacon.description>მექანიკური გამაგრების წვეთი შუქურა. როდესაც გააქტიურებულია, ის მოუწოდებს მეხსიერების ჯგუფს, რათა დაეშვათ მიმდებარედ.</MechDropBeacon.description>
+  <MechDropBeacon.label>მექანიკური წვეთი შუქურა</MechDropBeacon.label>
+</LanguageData>

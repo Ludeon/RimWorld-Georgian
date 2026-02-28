@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BuildRoofs.gerund>შენობის სახურავი</BuildRoofs.gerund>
+  <BuildRoofs.label>სახურავების აშენება</BuildRoofs.label>
+  <BuildRoofs.verb>სახურავის აშენება</BuildRoofs.verb>
+  <ChatWithPrisoner.gerund>ესაუბრება</ChatWithPrisoner.gerund>
+  <ChatWithPrisoner.label>ესაუბრეთ პატიმრებს</ChatWithPrisoner.label>
+  <ChatWithPrisoner.verb>ესაუბრეთ</ChatWithPrisoner.verb>
+  <CleanClearSnow.gerund>თოვლის გაწმენდა</CleanClearSnow.gerund>
+  <CleanClearSnow.label>წმინდა თოვლი</CleanClearSnow.label>
+  <CleanClearSnow.verb>წმინდა თოვლი</CleanClearSnow.verb>
+  <CleanFilth.gerund>გაწმენდა</CleanFilth.gerund>
+  <CleanFilth.label>სუფთა სიბინძურე</CleanFilth.label>
+  <CleanFilth.verb>სუფთა</CleanFilth.verb>
+  <ConstructDeliverResourcesToBlueprints.gerund>მუშაობს</ConstructDeliverResourcesToBlueprints.gerund>
+  <ConstructDeliverResourcesToBlueprints.label>რესურსების მიწოდება გეგმებზე</ConstructDeliverResourcesToBlueprints.label>
+  <ConstructDeliverResourcesToBlueprints.verb>მუშაობა</ConstructDeliverResourcesToBlueprints.verb>
+  <ConstructDeliverResourcesToFrames.gerund>მუშაობს</ConstructDeliverResourcesToFrames.gerund>
+  <ConstructDeliverResourcesToFrames.label>რესურსების მიწოდება ჩარჩოებში</ConstructDeliverResourcesToFrames.label>
+  <ConstructDeliverResourcesToFrames.verb>მუშაობა</ConstructDeliverResourcesToFrames.verb>
+  <ConstructFinishFrames.gerund>მშენებლობა</ConstructFinishFrames.gerund>
+  <ConstructFinishFrames.label>მოთავსებული ჩარჩოების აგება</ConstructFinishFrames.label>
+  <ConstructFinishFrames.verb>კონსტრუქცია</ConstructFinishFrames.verb>
+  <ConstructRemoveFloors.gerund>იატაკის მოხსნა</ConstructRemoveFloors.gerund>
+  <ConstructRemoveFloors.label>იატაკების მოხსნა</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.verb>იატაკის მოხსნა</ConstructRemoveFloors.verb>
+  <ConstructRemoveFoundations.gerund>ხიდის მოხსნა</ConstructRemoveFoundations.gerund>
+  <ConstructRemoveFoundations.label>ამოიღეთ ხიდები</ConstructRemoveFoundations.label>
+  <ConstructRemoveFoundations.verb>ხიდის მოხსნა</ConstructRemoveFoundations.verb>
+  <ConstructSmoothFloors.gerund>გლუვი</ConstructSmoothFloors.gerund>
+  <ConstructSmoothFloors.label>გლუვი იატაკები</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.verb>გლუვი</ConstructSmoothFloors.verb>
+  <ConstructSmoothWalls.gerund>გლუვი</ConstructSmoothWalls.gerund>
+  <ConstructSmoothWalls.label>გლუვი კედლები</ConstructSmoothWalls.label>
+  <ConstructSmoothWalls.verb>გლუვი</ConstructSmoothWalls.verb>
+  <CookFillHopper.gerund>შევსება</CookFillHopper.gerund>
+  <CookFillHopper.label>შეავსეთ საკვები ბუნკერები</CookFillHopper.label>
+  <CookFillHopper.verb>შევსება</CookFillHopper.verb>
+  <Deconstruct.gerund>დეკონსტრუქცია</Deconstruct.gerund>
+  <Deconstruct.label>სტრუქტურების დეკონსტრუქცია</Deconstruct.label>
+  <Deconstruct.verb>დეკონსტრუქცია</Deconstruct.verb>
+  <DeconstructForBlueprint.gerund>დეკონსტრუქცია</DeconstructForBlueprint.gerund>
+  <DeconstructForBlueprint.label>სტრუქტურების დეკონსტრუქცია გეგმებისთვის</DeconstructForBlueprint.label>
+  <DeconstructForBlueprint.verb>დეკონსტრუქცია</DeconstructForBlueprint.verb>
+  <DeliverFoodToPrisoner.gerund>საკვების მიწოდება</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.label>საკვების მიწოდება პატიმრებს</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.verb>საკვების მიწოდება</DeliverFoodToPrisoner.verb>
+  <DeliverResourcesToBlueprints.gerund>მიწოდება</DeliverResourcesToBlueprints.gerund>
+  <DeliverResourcesToBlueprints.label>რესურსების მიწოდება გეგმებზე</DeliverResourcesToBlueprints.label>
+  <DeliverResourcesToBlueprints.verb>მიწოდება</DeliverResourcesToBlueprints.verb>
+  <DeliverResourcesToFrames.gerund>მიწოდება</DeliverResourcesToFrames.gerund>
+  <DeliverResourcesToFrames.label>რესურსების მიწოდება ჩარჩოებში</DeliverResourcesToFrames.label>
+  <DeliverResourcesToFrames.verb>მიწოდება</DeliverResourcesToFrames.verb>
+  <DoBillsBrew.gerund>მწიფდება ზე</DoBillsBrew.gerund>
+  <DoBillsBrew.label>ადუღეთ ლიქიორები</DoBillsBrew.label>
+  <DoBillsBrew.verb>მწიფდება ზე</DoBillsBrew.verb>
+  <DoBillsButcherFlesh.gerund>ყასაბი ზე</DoBillsButcherFlesh.gerund>
+  <DoBillsButcherFlesh.label>ჯალათი არსებები</DoBillsButcherFlesh.label>
+  <DoBillsButcherFlesh.verb>ჯალათი at</DoBillsButcherFlesh.verb>
+  <DoBillsCook.gerund>სამზარეულოს დროს</DoBillsCook.gerund>
+  <DoBillsCook.label>კერძების მომზადება ღუმელში</DoBillsCook.label>
+  <DoBillsCook.verb>საზ</DoBillsCook.verb>
+  <DoBillsCookCampfire.gerund>სამზარეულოს დროს</DoBillsCookCampfire.gerund>
+  <DoBillsCookCampfire.label>მოამზადეთ კერძები კოცონზე</DoBillsCookCampfire.label>
+  <DoBillsCookCampfire.verb>საზ</DoBillsCookCampfire.verb>
+  <DoBillsCremate.gerund>კრემაცია ზე</DoBillsCremate.gerund>
+  <DoBillsCremate.label>კრემაციის გადასახადების გაკეთება</DoBillsCremate.label>
+  <DoBillsCremate.verb>კრემაცია ზე</DoBillsCremate.verb>
+  <DoBillsFabricationBench.gerund>ნივთების გაყალბებაზე</DoBillsFabricationBench.gerund>
+  <DoBillsFabricationBench.label>ნივთების შეთხზვა</DoBillsFabricationBench.label>
+  <DoBillsFabricationBench.verb>ამზადებენ ნივთებს</DoBillsFabricationBench.verb>
+  <DoBillsHaulCampfire.gerund>მუშაობს</DoBillsHaulCampfire.gerund>
+  <DoBillsHaulCampfire.label>გააკეთეთ გადასახადები კოცონზე</DoBillsHaulCampfire.label>
+  <DoBillsHaulCampfire.verb>მუშაობა</DoBillsHaulCampfire.verb>
+  <DoBillsMachiningTable.gerund>მუშაობს</DoBillsMachiningTable.gerund>
+  <DoBillsMachiningTable.label>დაამზადეთ ნივთები დამუშავების მაგიდაზე</DoBillsMachiningTable.label>
+  <DoBillsMachiningTable.verb>მუშაობა</DoBillsMachiningTable.verb>
+  <DoBillsMakeApparel.gerund>სამკერვალო ზე</DoBillsMakeApparel.gerund>
+  <DoBillsMakeApparel.label>ტანსაცმლის გაკეთება</DoBillsMakeApparel.label>
+  <DoBillsMakeApparel.verb>მკერავი at</DoBillsMakeApparel.verb>
+  <DoBillsMakeWeapons.gerund>სამჭედლოზე</DoBillsMakeWeapons.gerund>
+  <DoBillsMakeWeapons.label>იარაღის გაკეთება</DoBillsMakeWeapons.label>
+  <DoBillsMakeWeapons.verb>სმიტი ზე</DoBillsMakeWeapons.verb>
+  <DoBillsMedicalAnimalOperation.gerund>ოპერაციაზე</DoBillsMedicalAnimalOperation.gerund>
+  <DoBillsMedicalAnimalOperation.label>ცხოველებზე ოპერაცია</DoBillsMedicalAnimalOperation.label>
+  <DoBillsMedicalAnimalOperation.verb>ოპერაცია</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalHumanOperation.gerund>ოპერაციაზე</DoBillsMedicalHumanOperation.gerund>
+  <DoBillsMedicalHumanOperation.label>ადამიანებზე ოპერაცია</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.verb>ოპერაცია</DoBillsMedicalHumanOperation.verb>
+  <DoBillsProduceDrugs.gerund>ნარკოტიკების წარმოებაში</DoBillsProduceDrugs.gerund>
+  <DoBillsProduceDrugs.label>ნარკოტიკების სინთეზირება</DoBillsProduceDrugs.label>
+  <DoBillsProduceDrugs.verb>აწარმოებენ ნარკოტიკებს</DoBillsProduceDrugs.verb>
+  <DoBillsRefinery.gerund>ქიმიკატების დამუშავება ზე</DoBillsRefinery.gerund>
+  <DoBillsRefinery.label>ქარხანაში მუშაობა</DoBillsRefinery.label>
+  <DoBillsRefinery.verb>ქიმიკატების დახვეწა</DoBillsRefinery.verb>
+  <DoBillsSculpt.gerund>ქანდაკება ზე</DoBillsSculpt.gerund>
+  <DoBillsSculpt.label>გააკეთე ნივთები ხელოვნების სკამზე</DoBillsSculpt.label>
+  <DoBillsSculpt.verb>ძერწავს ზე</DoBillsSculpt.verb>
+  <DoBillsSmelter.gerund>დახვეწა ზე</DoBillsSmelter.gerund>
+  <DoBillsSmelter.label>სუნის ნივთები</DoBillsSmelter.label>
+  <DoBillsSmelter.verb>დახვეწა ზე</DoBillsSmelter.verb>
+  <DoBillsStonecut.gerund>ქვის ბლოკების ჭრა ზე</DoBillsStonecut.gerund>
+  <DoBillsStonecut.label>ქვის ბლოკების გაკეთება</DoBillsStonecut.label>
+  <DoBillsStonecut.verb>მოჭრილი ქვის ბლოკები ზე</DoBillsStonecut.verb>
+  <DoBillsUseCraftingSpot.gerund>ხელოსნობა ზე</DoBillsUseCraftingSpot.gerund>
+  <DoBillsUseCraftingSpot.label>ნივთების გაკეთება ხელოსნობის ადგილზე</DoBillsUseCraftingSpot.label>
+  <DoBillsUseCraftingSpot.verb>ხელობა ზე</DoBillsUseCraftingSpot.verb>
+  <DoctorFeedAnimals.gerund>კვება</DoctorFeedAnimals.gerund>
+  <DoctorFeedAnimals.label>შესანახი ცხოველები</DoctorFeedAnimals.label>
+  <DoctorFeedAnimals.verb>შესანახი</DoctorFeedAnimals.verb>
+  <DoctorFeedHumanlikes.gerund>კვება</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedHumanlikes.label>კვებავს პაციენტებს</DoctorFeedHumanlikes.label>
+  <DoctorFeedHumanlikes.verb>შესანახი</DoctorFeedHumanlikes.verb>
+  <DoctorRescue.gerund>გადარჩენა</DoctorRescue.gerund>
+  <DoctorRescue.label>გადაარჩინა ჩამოგდებული მოკავშირეები საწოლში</DoctorRescue.label>
+  <DoctorRescue.verb>გადარჩენა</DoctorRescue.verb>
+  <DoctorTendEmergency.gerund>თენდება</DoctorTendEmergency.gerund>
+  <DoctorTendEmergency.label>მიმართავენ გადაუდებელი საჭიროებების მქონე პაციენტებს</DoctorTendEmergency.label>
+  <DoctorTendEmergency.verb>მიდრეკილება</DoctorTendEmergency.verb>
+  <DoctorTendToAnimals.gerund>თენდება</DoctorTendToAnimals.gerund>
+  <DoctorTendToAnimals.label>ცხოველებისადმი მიდრეკილება</DoctorTendToAnimals.label>
+  <DoctorTendToAnimals.verb>მიდრეკილება</DoctorTendToAnimals.verb>
+  <DoctorTendToHumanlikes.gerund>თენდება</DoctorTendToHumanlikes.gerund>
+  <DoctorTendToHumanlikes.label>მიდრეკილია პაციენტების მიმართ</DoctorTendToHumanlikes.label>
+  <DoctorTendToHumanlikes.verb>მიდრეკილება</DoctorTendToHumanlikes.verb>
+  <DoctorTendToSelf.gerund>თენდება</DoctorTendToSelf.gerund>
+  <DoctorTendToSelf.label>საკუთარი თავისკენ მიდრეკილება</DoctorTendToSelf.label>
+  <DoctorTendToSelf.verb>მიდრეკილება</DoctorTendToSelf.verb>
+  <DoExecution.gerund>აღსრულება</DoExecution.gerund>
+  <DoExecution.label>დაისაჯონ პატიმრები</DoExecution.label>
+  <DoExecution.verb>შეასრულოს</DoExecution.verb>
+  <Drill.gerund>ბურღვა</Drill.gerund>
+  <Drill.label>საბურღი ღრმა საბურღი</Drill.label>
+  <Drill.verb>საბურღი</Drill.verb>
+  <EjectFuel.gerund>საწვავის ამოღება</EjectFuel.gerund>
+  <EjectFuel.label>საწვავის ამოღება</EjectFuel.label>
+  <EjectFuel.verb>საწვავის ამოღება</EjectFuel.verb>
+  <EmptyEggBox.gerund>დაცლა</EmptyEggBox.gerund>
+  <EmptyEggBox.label>ცარიელი კვერცხის ყუთი</EmptyEggBox.label>
+  <EmptyEggBox.verb>ცარიელი</EmptyEggBox.verb>
+  <ExecuteGuiltyColonist.gerund>აღსრულება</ExecuteGuiltyColonist.gerund>
+  <ExecuteGuiltyColonist.label>დამნაშავე კოლონისტების სიკვდილით დასჯა</ExecuteGuiltyColonist.label>
+  <ExecuteGuiltyColonist.verb>შეასრულოს</ExecuteGuiltyColonist.verb>
+  <ExtractSkull.gerund>თავის ქალას ამოღება</ExtractSkull.gerund>
+  <ExtractSkull.label>ამონაწერი თავის ქალა</ExtractSkull.label>
+  <ExtractSkull.verb>ამონაწერი</ExtractSkull.verb>
+  <ExtractTree.gerund>მოპოვება</ExtractTree.gerund>
+  <ExtractTree.label>ხეების ამოღება</ExtractTree.label>
+  <ExtractTree.verb>ამონაწერი</ExtractTree.verb>
+  <FeedPrisoner.gerund>კვება</FeedPrisoner.gerund>
+  <FeedPrisoner.label>შესანახი პატიმრები</FeedPrisoner.label>
+  <FeedPrisoner.verb>შესანახი</FeedPrisoner.verb>
+  <FightFires.gerund>ჩაქრობა</FightFires.gerund>
+  <FightFires.label>ხანძრის ბრძოლა</FightFires.label>
+  <FightFires.verb>ჩაქრობა</FightFires.verb>
+  <FillFermentingBarrel.gerund>შევსება</FillFermentingBarrel.gerund>
+  <FillFermentingBarrel.label>შეავსეთ დუღილის კასრები</FillFermentingBarrel.label>
+  <FillFermentingBarrel.verb>შევსება</FillFermentingBarrel.verb>
+  <FillIn.gerund>შევსება</FillIn.gerund>
+  <FillIn.label>შეავსე</FillIn.label>
+  <FillIn.verb>შევსება</FillIn.verb>
+  <FixBrokenDownBuilding.gerund>გატეხილი კომპონენტების ჩანაცვლება</FixBrokenDownBuilding.gerund>
+  <FixBrokenDownBuilding.label>დანგრეული შენობების შეკეთება</FixBrokenDownBuilding.label>
+  <FixBrokenDownBuilding.verb>შეცვალეთ გატეხილი კომპონენტები</FixBrokenDownBuilding.verb>
+  <Flick.gerund>ჩართვის ჩამრთველი</Flick.gerund>
+  <Flick.label>ჩამრთველები</Flick.label>
+  <Flick.verb>ჩართვის ჩამრთველი</Flick.verb>
+  <GroundPenetratingScan.gerund>სკანირება ზე</GroundPenetratingScan.gerund>
+  <GroundPenetratingScan.label>მიწაში შეღწევის სკანერის მუშაობა</GroundPenetratingScan.label>
+  <GroundPenetratingScan.verb>სკანირება ზე</GroundPenetratingScan.verb>
+  <GrowerHarvest.gerund>მოსავლის აღება</GrowerHarvest.gerund>
+  <GrowerHarvest.label>მოსავლის აღება</GrowerHarvest.label>
+  <GrowerHarvest.verb>მოსავალი</GrowerHarvest.verb>
+  <GrowerSow.gerund>თესვა</GrowerSow.gerund>
+  <GrowerSow.label>თესავს ნათესებს</GrowerSow.label>
+  <GrowerSow.verb>დათესეს</GrowerSow.verb>
+  <Hack.gerund>გატეხვა</Hack.gerund>
+  <Hack.label>შენობების გატეხვა</Hack.label>
+  <Hack.verb>გატეხვა</Hack.verb>
+  <HaulCorpses.gerund>გადაზიდვა</HaulCorpses.gerund>
+  <HaulCorpses.label>გვამების გადაზიდვა</HaulCorpses.label>
+  <HaulCorpses.verb>ზიდვა</HaulCorpses.verb>
+  <HaulGeneral.gerund>გადაზიდვა</HaulGeneral.gerund>
+  <HaulGeneral.label>ზოგადი ნივთების გადაზიდვა</HaulGeneral.label>
+  <HaulGeneral.verb>ზიდვა</HaulGeneral.verb>
+  <HaulMerge.gerund>შერწყმა</HaulMerge.gerund>
+  <HaulMerge.label>ნივთების შერწყმა</HaulMerge.label>
+  <HaulMerge.verb>შერწყმა</HaulMerge.verb>
+  <HaulToPortal.gerund>ჩატვირთვა</HaulToPortal.gerund>
+  <HaulToPortal.label>გადაზიდვა რუკაზე</HaulToPortal.label>
+  <HaulToPortal.verb>დატვირთვა</HaulToPortal.verb>
+  <HelpGatheringItemsForCaravan.gerund>ჩატვირთვა</HelpGatheringItemsForCaravan.gerund>
+  <HelpGatheringItemsForCaravan.label>ტვირთის ქარავანი</HelpGatheringItemsForCaravan.label>
+  <HelpGatheringItemsForCaravan.verb>დატვირთვა</HelpGatheringItemsForCaravan.verb>
+  <HunterHunt.gerund>ნადირობა</HunterHunt.gerund>
+  <HunterHunt.label>ნადირობა</HunterHunt.label>
+  <HunterHunt.verb>ნადირობა</HunterHunt.verb>
+  <LoadTransporters.gerund>ჩატვირთვა</LoadTransporters.gerund>
+  <LoadTransporters.label>ტვირთის გადამტანები</LoadTransporters.label>
+  <LoadTransporters.verb>დატვირთვა</LoadTransporters.verb>
+  <LongRangeScan.gerund>სკანირება ზე</LongRangeScan.gerund>
+  <LongRangeScan.label>გრძელვადიანი სკანერის მუშაობა</LongRangeScan.label>
+  <LongRangeScan.verb>სკანირება ზე</LongRangeScan.verb>
+  <Milk.gerund>რძიანი</Milk.gerund>
+  <Milk.label>რძის ცხოველები</Milk.label>
+  <Milk.verb>რძე</Milk.verb>
+  <Mine.gerund>სამთო მოპოვება</Mine.gerund>
+  <Mine.label>ჩემი</Mine.label>
+  <Mine.verb>ჩემი</Mine.verb>
+  <Open.gerund>გახსნა</Open.gerund>
+  <Open.label>ღია კონტეინერები</Open.label>
+  <Open.verb>გახსნა</Open.verb>
+  <PaintBuilding.gerund>ფერწერა</PaintBuilding.gerund>
+  <PaintBuilding.label>შენობების შეღებვა</PaintBuilding.label>
+  <PaintBuilding.verb>საღებავი</PaintBuilding.verb>
+  <PaintFloor.gerund>ფერწერა</PaintFloor.gerund>
+  <PaintFloor.label>იატაკის საღებავი</PaintFloor.label>
+  <PaintFloor.verb>საღებავი</PaintFloor.verb>
+  <PatientGoToBedEmergencyTreatment.gerund>მკურნალობის მიღებას</PatientGoToBedEmergencyTreatment.gerund>
+  <PatientGoToBedEmergencyTreatment.label>გადაუდებელი მკურნალობისთვის დასაძინებლად წასვლა</PatientGoToBedEmergencyTreatment.label>
+  <PatientGoToBedEmergencyTreatment.verb>მიიღეთ მკურნალობა</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedRecuperate.gerund>საწოლის დასვენება</PatientGoToBedRecuperate.gerund>
+  <PatientGoToBedRecuperate.label>გამოჯანმრთელება საწოლში</PatientGoToBedRecuperate.label>
+  <PatientGoToBedRecuperate.verb>საწოლის დასვენება</PatientGoToBedRecuperate.verb>
+  <PatientGoToBedTreatment.gerund>მკურნალობის მიღებას</PatientGoToBedTreatment.gerund>
+  <PatientGoToBedTreatment.label>დასაძინებლად წასვლა სამკურნალოდ</PatientGoToBedTreatment.label>
+  <PatientGoToBedTreatment.verb>მიიღეთ მკურნალობა</PatientGoToBedTreatment.verb>
+  <PlantsCut.gerund>ჭრის</PlantsCut.gerund>
+  <PlantsCut.label>მოჭრილი მცენარეები</PlantsCut.label>
+  <PlantsCut.verb>გაჭრა</PlantsCut.verb>
+  <PlantSeed.gerund>დარგვა</PlantSeed.gerund>
+  <PlantSeed.label>მცენარის თესლი</PlantSeed.label>
+  <PlantSeed.verb>მცენარე</PlantSeed.verb>
+  <RearmTurrets.gerund>ხელახალი შეიარაღება</RearmTurrets.gerund>
+  <RearmTurrets.label>კოშკების გადატენვა</RearmTurrets.label>
+  <RearmTurrets.verb>გადაიარაღება</RearmTurrets.verb>
+  <RebalanceAnimalsInPens.label>ხელახლა დააბალანსეთ ჩაწერილი ცხოველები</RebalanceAnimalsInPens.label>
+  <Refuel.gerund>საწვავის შევსება</Refuel.gerund>
+  <Refuel.label>შენობების საწვავის შევსება</Refuel.label>
+  <Refuel.verb>საწვავის შევსება</Refuel.verb>
+  <ReleasePrisoner.gerund>გათავისუფლება</ReleasePrisoner.gerund>
+  <ReleasePrisoner.label>გაათავისუფლოს პატიმრები</ReleasePrisoner.label>
+  <ReleasePrisoner.verb>გათავისუფლება</ReleasePrisoner.verb>
+  <ReleaseToWild.gerund>გათავისუფლება</ReleaseToWild.gerund>
+  <ReleaseToWild.label>გათავისუფლება ველურში</ReleaseToWild.label>
+  <ReleaseToWild.verb>გათავისუფლება</ReleaseToWild.verb>
+  <RemovePaintBuilding.gerund>საღებავის მოცილება</RemovePaintBuilding.gerund>
+  <RemovePaintBuilding.label>საღებავის ამოღება</RemovePaintBuilding.label>
+  <RemovePaintBuilding.verb>საღებავის ამოღება</RemovePaintBuilding.verb>
+  <RemovePaintFloor.gerund>საღებავის მოცილება</RemovePaintFloor.gerund>
+  <RemovePaintFloor.label>იატაკის საღებავის ამოღება</RemovePaintFloor.label>
+  <RemovePaintFloor.verb>საღებავის ამოღება</RemovePaintFloor.verb>
+  <RemoveRoofs.gerund>სახურავის მოხსნა</RemoveRoofs.gerund>
+  <RemoveRoofs.label>ამოიღეთ სახურავები</RemoveRoofs.label>
+  <RemoveRoofs.verb>სახურავის მოხსნა</RemoveRoofs.verb>
+  <Repair.gerund>შეკეთება</Repair.gerund>
+  <Repair.label>დაზიანებული ნივთების შეკეთება</Repair.label>
+  <Repair.verb>შეკეთება</Repair.verb>
+  <Replant.gerund>გადარგვა</Replant.gerund>
+  <Replant.label>ხის გადარგვა</Replant.label>
+  <Replant.verb>გადანერგვა</Replant.verb>
+  <Research.gerund>იკვლევს</Research.gerund>
+  <Research.label>კვლევის ჩატარება</Research.label>
+  <Research.verb>კვლევაში</Research.verb>
+  <Shear.gerund>გაპარსვა</Shear.gerund>
+  <Shear.label>საჭრელი ცხოველები</Shear.label>
+  <Shear.verb>გაპარსვა</Shear.verb>
+  <Slaughter.gerund>დაკვლა</Slaughter.gerund>
+  <Slaughter.label>ცხოველების დაკვლა</Slaughter.label>
+  <Slaughter.verb>დაკვლა</Slaughter.verb>
+  <Strip.gerund>გაშიშვლება</Strip.gerund>
+  <Strip.label>გვამების გაშიშვლება</Strip.label>
+  <Strip.verb>ზოლები</Strip.verb>
+  <StudyArchotechStructures.gerund>სწავლობს</StudyArchotechStructures.gerund>
+  <StudyArchotechStructures.label>არქოტექნიკური სტრუქტურების შესწავლა</StudyArchotechStructures.label>
+  <StudyArchotechStructures.verb>სწავლა</StudyArchotechStructures.verb>
+  <TakeBeerOutOfFermentingBarrel.gerund>ლუდის აღება</TakeBeerOutOfFermentingBarrel.gerund>
+  <TakeBeerOutOfFermentingBarrel.label>ამოიღეთ ლუდი დუღილის კასრებიდან</TakeBeerOutOfFermentingBarrel.label>
+  <TakeBeerOutOfFermentingBarrel.verb>მიიღეთ ლუდი</TakeBeerOutOfFermentingBarrel.verb>
+  <TakePrisonerToBed.gerund>დასაძინებლად მიყვანა</TakePrisonerToBed.gerund>
+  <TakePrisonerToBed.label>წაიყვანეთ პატიმრები საწოლში</TakePrisonerToBed.label>
+  <TakePrisonerToBed.verb>საწოლში წაყვანა</TakePrisonerToBed.verb>
+  <TakeRoamingAnimalsToPen.label>თოკზე მოძრავი ცხოველები</TakeRoamingAnimalsToPen.label>
+  <TakeToBedToOperate.gerund>საოპერაციოდ მიღება</TakeToBedToOperate.gerund>
+  <TakeToBedToOperate.label>გადაიყვანეთ პაციენტები საწოლში ოპერაციებისთვის</TakeToBedToOperate.label>
+  <TakeToBedToOperate.verb>საოპერაციოდ მიიღოს</TakeToBedToOperate.verb>
+  <TakeToPen.gerund>საბაგირო</TakeToPen.gerund>
+  <TakeToPen.label>თოკის ცხოველები</TakeToPen.label>
+  <TakeToPen.verb>თოკი</TakeToPen.verb>
+  <Tame.gerund>მოთვინიერება</Tame.gerund>
+  <Tame.label>მოთვინიერებული ცხოველები</Tame.label>
+  <Tame.verb>მოთვინიერება</Tame.verb>
+  <Train.gerund>ტრენინგი</Train.gerund>
+  <Train.label>მატარებელი ცხოველები</Train.label>
+  <Train.verb>მატარებელი</Train.verb>
+  <Uninstall.gerund>დეინსტალაცია</Uninstall.gerund>
+  <Uninstall.label>სტრუქტურების დეინსტალაცია</Uninstall.label>
+  <Uninstall.verb>დეინსტალაცია</Uninstall.verb>
+  <UnloadCarriers.gerund>გადმოტვირთვა</UnloadCarriers.gerund>
+  <UnloadCarriers.label>გადამზიდავების განტვირთვა</UnloadCarriers.label>
+  <UnloadCarriers.verb>განტვირთვა</UnloadCarriers.verb>
+  <VisitSickPawn.gerund>სტუმრად</VisitSickPawn.gerund>
+  <VisitSickPawn.label>ეწვიეთ ავადმყოფებს</VisitSickPawn.label>
+  <VisitSickPawn.verb>ვიზიტი</VisitSickPawn.verb>
+</LanguageData>

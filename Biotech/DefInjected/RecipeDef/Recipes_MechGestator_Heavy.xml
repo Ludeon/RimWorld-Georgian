@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CentipedeBurner.description>დაადგინეთ ჯოჯოხეთის ქვემეხით შეიარაღებული ასტოფეხა მექანოიდი.</CentipedeBurner.description>
+  <CentipedeBurner.label>გესტაციური centipede burner</CentipedeBurner.label>
+  <CentipedeGunner.description>დაადგინეთ სენტიპედის მექანოიდი, რომელიც შეიარაღებულია მინიგუნით.</CentipedeGunner.description>
+  <CentipedeGunner.label>ორმოცდაფეხა მსროლელი</CentipedeGunner.label>
+  <Diabolus.description>დაადგინეთ დიაბოლური მეხი.</Diabolus.description>
+  <Diabolus.label>გესტაციური დიაბოლუსი</Diabolus.label>
+  <Tunneler.description>შექმენით გვირაბის მექანოიდი.</Tunneler.description>
+  <Tunneler.label>გესტაციის გვირაბი</Tunneler.label>
+</LanguageData>

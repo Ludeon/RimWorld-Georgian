@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Autobong.description>ავტომატური კვამლის ფოთლის დაწვის მოწყობილობა, რომელიც თავის გარშემო წარმოქმნის კვამლის ღრუბელს. ღრუბელში მყოფი ნებისმიერი ადამიანი დროთა განმავლობაში კვამლის ფოთოლზე გაიზრდება.</Autobong.description>
+  <Autobong.label>ავტობონგი</Autobong.label>
+  <Drum.description>დიდი ხის დოლი, რომელიც გამოიყენება როგორც მუსიკალური წყარო ტომობრივი რიტუალებისა და წვეულებებისთვის.</Drum.description>
+  <Drum.label>ბარაბანი</Drum.label>
+  <DryadCocoon.description>ბოჭკოვანი მცენარეული ნივთიერების სფერო. შიგნით არსებული დრიადი ნელ-ნელა ახალ ფორმაში გადაიქცევა. გაურანლენის ხეები ზრდიან ამ სფეროებს, რათა დაიცვან დრიადები, როდესაც ისინი მორფობენ.</DryadCocoon.description>
+  <DryadCocoon.label>დრიადის ქოქოსი</DryadCocoon.label>
+  <DryadHealingPod.description>ბოჭკოვანი მცენარეული ნივთიერების სფერო. შიგნით დრიადი ნელ-ნელა კურნავს ჭრილობებს.</DryadHealingPod.description>
+  <DryadHealingPod.label>დრიადის სამკურნალო ფილიალი</DryadHealingPod.label>
+  <GaumakerCocoon.description>The result of the merging of several Gaumaker dryads, this symbiotic plant/animal pod is an essential part of the Gauranlen life cycle. After some time, it will flower into a mature Gauranlen pod which can be harvested to plant a new Gauranlen tree.</GaumakerCocoon.description>
+  <GaumakerCocoon.label>gaumaker pod</GaumakerCocoon.label>
+  <GibbetCage.description>ლითონის გალია გვამების დასაჭერად და გამოსატანად. ეს შემზარავი სანახაობა დამკვირვებლებს შიშსა და ზიზღს იწვევს. ეს არის განსაკუთრებით სასტიკი და ეფექტური გზა მონების დასატერორებლად.</GibbetCage.description>
+  <GibbetCage.label>გიბეტის გალია</GibbetCage.label>
+  <KneelPillow.description>ბალიში, რომელზედაც მორწმუნეები მუხლებს აკვირდებიან რიტუალების, ლოცვისა თუ განხილვისას.</KneelPillow.description>
+  <KneelPillow.label>მუხლის ბალიში</KneelPillow.label>
+  <KneelSheet.description>ფურცელი, რომელზედაც მორწმუნეები რიტუალების დაკვირვებისას, ლოცვისა თუ მსჯელობისას მუხლს იყრიან.</KneelSheet.description>
+  <KneelSheet.label>დაჩოქილი ფურცელი</KneelSheet.label>
+  <Lectern.description>დახრილი პლატფორმა, რომელიც უჭირავს ტექსტს სპიკერის წინ. მოათავსეთ იგი რიტუალებისა და გამოსვლების ფოკუსის მახლობლად, რათა გახანგრძლივოთ მათი დადებითი ეფექტის ხანგრძლივობა.</Lectern.description>
+  <Lectern.label>ლექტორი</Lectern.label>
+  <LightBall.description>დეკორატიული შუქი, რომელიც ბრუნავს და ცვლის ფერს. გამოიყენება საცეკვაო წვეულებებისთვის ფოკუსად.</LightBall.description>
+  <LightBall.label>ლაითბოლი</LightBall.label>
+  <Loudspeaker.description>დიდი დინამიკი მუსიკის დასაკრავად. მინიმუმ ერთი აუცილებელია საცეკვაო წვეულების გასამართად და მეტი დინამიკი გააძლიერებს ეფექტს.</Loudspeaker.description>
+  <Loudspeaker.label>დინამიკი</Loudspeaker.label>
+  <Pew.description>გრძელი სკამი, სადაც რიტუალის მონაწილეებს შეუძლიათ დასხდნენ სპიკერის მოსმენისას. მოათავსეთ იგი რიტუალების და გამოსვლების პირისპირ, რათა გახანგრძლივოთ მათი დადებითი ეფექტის ხანგრძლივობა.</Pew.description>
+  <Pew.label>პიუ</Pew.label>
+  <PlantPot_Bonsai.description>ეს სპეციალური ქოთანი შესაფერისია ბონსაის ხეების დარგვისთვის, რომელსაც შეუძლია გააუმჯობესოს ახლომდებარე ადამიანების განწყობა და დააკმაყოფილოს იდეოლიგიური მოთხოვნები.</PlantPot_Bonsai.description>
+  <PlantPot_Bonsai.label>ბონსაის ქოთანი</PlantPot_Bonsai.label>
+  <Reliquary.description>საზეიმო შენობა, რომელიც იცავს და აჩვენებს რელიქვიას. რელიქვიები არის უძველესი საგნები, რომლებსაც თაყვანს სცემენ ზოგიერთი კულტურა, რწმენის სისტემა ან რელიგია.</Reliquary.description>
+  <Reliquary.label>რელიქვია</Reliquary.label>
+  <Skullspike.description>თავდაყირა დამაგრებული შპიკი ადამიანის თავის ქალას გახვრეტისა და გამოსახვის მიზნით. ზოგიერთისთვის გამოფენილი თავის ქალა ძალაუფლების სიმბოლოა. სხვებისთვის ისინი წარმოადგენენ ბარბაროსულ ბოროტებას. Skullspikes განსაკუთრებით სასტიკი და ეფექტური საშუალებაა მონების დატერორებისთვის.</Skullspike.description>
+  <Skullspike.label>თავის ქალა</Skullspike.label>
+  <SlabBed.description>დასაძინებლად დამზადებული მყარი მასალის ფილა. ფილების საწოლები არასასიამოვნოა, მაგრამ ზოგი მათ გამოყენებას ზნეობრივი სიკეთის დემონსტრირებად თვლის.</SlabBed.description>
+  <SlabBed.label>ფილის საწოლი</SlabBed.label>
+  <SlabDoubleBed.description>დასაძინებლად დამზადებული მყარი მასალის ფილა. ფილების საწოლები არასასიამოვნოა, მაგრამ ზოგი მათ გამოყენებას ზნეობრივი სიკეთის დემონსტრირებად თვლის. ეს საკმარისად ფართოა, რომ მოერგოს ორ ადამიანს.</SlabDoubleBed.description>
+  <SlabDoubleBed.label>ფილის ორმაგი საწოლი</SlabDoubleBed.label>
+  <StylingStation.description>მაგიდა სარკეთი და სტილის ხელსაწყოებით. ადამიანებს შეუძლიათ გამოიყენონ ეს გარეგნობის შესაცვლელად.</StylingStation.description>
+  <StylingStation.label>სტილის სადგური</StylingStation.label>
+</LanguageData>

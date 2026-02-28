@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DarkVisions.baseInspectLine>ფსიქიკური მდგომარეობა: ბნელი ხილვები</DarkVisions.baseInspectLine>
+  <DarkVisions.beginLetter>{PAWN_nameDef} გადაიტვირთა საზარელი ხილვებით, ცელქობს იმაზე, რაც მხოლოდ {PAWN_pronoun}-ს შეუძლია ნახოს. {PAWN_pronoun} ამოიჭრება მისგან რამდენიმე საათში.</DarkVisions.beginLetter>
+  <DarkVisions.beginLetterLabel>ბნელი ხილვები</DarkVisions.beginLetterLabel>
+  <DarkVisions.label>ბნელი ხილვები</DarkVisions.label>
+  <EntityKiller.baseInspectLine>ფსიქიკური მდგომარეობა: არსების მკვლელი</EntityKiller.baseInspectLine>
+  <EntityKiller.beginLetter>{0} გატეხილია. {PAWN_pronoun} ვეღარ მოითმენს ასეთი სახიფათო ერთეულების ტყვეობაში დაკავებას და აპირებს გაანადგუროს რამდენიც {PAWN_pronoun} შეუძლია.</EntityKiller.beginLetter>
+  <EntityKiller.label>ერთეულის მკვლელი</EntityKiller.label>
+  <EntityLiberator.baseInspectLine>ფსიქიკური მდგომარეობა: სუბიექტის განმათავისუფლებელი</EntityLiberator.baseInspectLine>
+  <EntityLiberator.beginLetter>{0} მოულოდნელად მოიხიბლა ტყვეობაში და დარწმუნებულია, რომ ის უნდა განთავისუფლდეს.</EntityLiberator.beginLetter>
+  <EntityLiberator.label>ერთეული განმათავისუფლებელი</EntityLiberator.label>
+  <InsaneRamblings.baseInspectLine>ფსიქიკური მდგომარეობა: გიჟური ჩხუბი</InsaneRamblings.baseInspectLine>
+  <InsaneRamblings.beginLetter>{PAWN_nameDef} რეალობისგან სრულიად განცალკევებული გახდა, შეუძლებელ საგნებზე ყვირილი. {PAWN_pronoun} ამოიჭრება მისგან რამდენიმე საათში.</InsaneRamblings.beginLetter>
+  <InsaneRamblings.beginLetterLabel>გიჟური ლაყბობები</InsaneRamblings.beginLetterLabel>
+  <InsaneRamblings.label>გიჟური ლაყბობები</InsaneRamblings.label>
+  <TerrifyingHallucinations.baseInspectLine>ფსიქიკური მდგომარეობა: საშინელი ჰალუცინაციები</TerrifyingHallucinations.baseInspectLine>
+  <TerrifyingHallucinations.beginLetter>ნათელი ჰალუცინაციები ტრიალებს {0}-ს ირგვლივ, ახვევს და ამახინჯებს მოკავშირეებს საზარელ სისაძაგლეებად. {PAWN_pronoun} გაექცევა ნებისმიერს, რომელსაც {PAWN_pronoun} აღიქვამს საფრთხედ.</TerrifyingHallucinations.beginLetter>
+  <TerrifyingHallucinations.beginLetterLabel>საშინელი ჰალუცინაციები</TerrifyingHallucinations.beginLetterLabel>
+  <TerrifyingHallucinations.label>საშინელი ჰალუცინაციები</TerrifyingHallucinations.label>
+</LanguageData>

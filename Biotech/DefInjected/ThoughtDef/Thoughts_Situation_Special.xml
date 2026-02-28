@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodTorch.stages.0.description>არცერთი ალი არ იწვის ისე რბილად, როგორც სისხლის ჩირაღდანი.</BloodTorch.stages.0.description>
+  <BloodTorch.stages.0.label>სისხლის ლამპარი</BloodTorch.stages.0.label>
+  <ChildlikePositivity.stages.0.description>ახალი! გართობა! ლამაზი! ოოჰ!</ChildlikePositivity.stages.0.description>
+  <ChildlikePositivity.stages.0.label>ბავშვური სიხარული</ChildlikePositivity.stages.0.label>
+  <ChildlikePositivity.stages.1.description>სამყარო ჯადოსნური ადგილია და ვერ ვიტან, რომ გავიზრდები!</ChildlikePositivity.stages.1.description>
+  <ChildlikePositivity.stages.1.label>ბავშვური საოცრება</ChildlikePositivity.stages.1.label>
+  <ChildlikePositivity.stages.2.description>სამყარო სავსეა საოცრებებით.</ChildlikePositivity.stages.2.description>
+  <ChildlikePositivity.stages.2.label>ბავშვური ენთუზიაზმი</ChildlikePositivity.stages.2.label>
+  <ChildlikePositivity.stages.3.description>ბევრი საინტერესო რამ არის სასწავლი.</ChildlikePositivity.stages.3.description>
+  <ChildlikePositivity.stages.3.label>ბავშვური თავდაჯერებულობა</ChildlikePositivity.stages.3.label>
+  <DeathrestChamber.stages.0.description>მე მომიწია სასიკვდილო დასვენება გარეთ. საშინელება იყო.</DeathrestChamber.stages.0.description>
+  <DeathrestChamber.stages.0.label>გარდაცვლილი გარეთ</DeathrestChamber.stages.0.label>
+  <DeathrestChamber.stages.1.description>სასიკვდილოდ მომიწია საშინელ პალატაში.</DeathrestChamber.stages.1.description>
+  <DeathrestChamber.stages.1.label>საშინელი სიკვდილის პალატა</DeathrestChamber.stages.1.label>
+  <DeathrestChamber.stages.10.description>ასეთ მდიდრულ პალატაში დავისვენებდი! საოცარი იყო.</DeathrestChamber.stages.10.description>
+  <DeathrestChamber.stages.10.label>საოცარი სიკვდილის პალატა</DeathrestChamber.stages.10.label>
+  <DeathrestChamber.stages.4.description>სასიკვდილოდ დავჯექი წესიერ პალატაში.</DeathrestChamber.stages.4.description>
+  <DeathrestChamber.stages.4.label>ღირსეული სიკვდილის პალატა</DeathrestChamber.stages.4.label>
+  <DeathrestChamber.stages.5.description>ოდნავ შთამბეჭდავ პალატაში ვიწექი. სასიამოვნო იყო.</DeathrestChamber.stages.5.description>
+  <DeathrestChamber.stages.5.label>კარგი სიკვდილის პალატა</DeathrestChamber.stages.5.label>
+  <DeathrestChamber.stages.6.description>სასიკვდილოდ დავისვენებდი შთამბეჭდავ პალატაში. თავს გაახალგაზრდავებულად ვგრძნობ.</DeathrestChamber.stages.6.description>
+  <DeathrestChamber.stages.6.label>დიდი სიკვდილის პალატა</DeathrestChamber.stages.6.label>
+  <DeathrestChamber.stages.7.description>ძალიან შთამბეჭდავ პალატაში დავისვენებდი. საოცრად ვგრძნობ თავს.</DeathrestChamber.stages.7.description>
+  <DeathrestChamber.stages.7.label>შესანიშნავი სიკვდილის პალატა</DeathrestChamber.stages.7.label>
+  <DeathrestChamber.stages.8.description>მე გარდაცვლილი ვიყავი უაღრესად შთამბეჭდავ პალატაში. დიდებული იყო.</DeathrestChamber.stages.8.description>
+  <DeathrestChamber.stages.8.label>განსაკუთრებული სიკვდილის პალატა</DeathrestChamber.stages.8.label>
+  <DeathrestChamber.stages.9.description>მე სასიკვდილოდ დავისვენებდი წარმოუდგენლად შთამბეჭდავ პალატაში. სანახაობრივი იყო.</DeathrestChamber.stages.9.description>
+  <DeathrestChamber.stages.9.label>დაუჯერებელი სიკვდილის პალატა</DeathrestChamber.stages.9.label>
+  <DeathrestExhaustion.stages.0.description>ყუთი მეძახის და დავიღალე. სამყაროს სიბნელე ყველაფერს ასე საშინელს ხდის. სიკვდილი მჭირდება.</DeathrestExhaustion.stages.0.description>
+  <DeathrestExhaustion.stages.0.label>სიკვდილის შემდეგ ამოწურვა</DeathrestExhaustion.stages.0.label>
+  <HateAura.stages.0.description>ვგრძნობ მის სიძულვილს ჩემში, ისე, როგორც საკუთარ ემოციებს ვგრძნობ. ისე ახლოსაა და ისე ცივა. ისინი ყველა იმსახურებენ სიკვდილს.</HateAura.stages.0.description>
+  <HateAura.stages.0.label>აპოკრიტონის სიძულვილი (მწვავე)</HateAura.stages.0.label>
+  <HateAura.stages.1.description>მესმის მისი სიძულვილი ჩემს აზრებს შორის. მიზეზები, ყოველთვის მიზეზები, რის გამოც ჩემი მეგობრები უნდა მოკვდნენ.</HateAura.stages.1.description>
+  <HateAura.stages.1.label>აპოკრიტონის სიძულვილი (ძლიერი)</HateAura.stages.1.label>
+  <HateAura.stages.2.description>ვგრძნობ ამას სადღაც. ყოველთვის ფიქრობს იმაზე, თუ რატომ იმსახურებენ ეს ადამიანები სიკვდილს. ყოველთვის მიჰყვება მკვლელობის ლოგიკას. ძნელია იგნორირება.</HateAura.stages.2.description>
+  <HateAura.stages.2.label>აპოკრიტონის სიძულვილი (შორეული)</HateAura.stages.2.label>
+  <HemogenCraving.stages.0.description>ძვლები მტკივა. ძალიან მჭირდება ჰემოგენი.</HemogenCraving.stages.0.description>
+  <HemogenCraving.stages.0.label>ჰემოგენის ლტოლვა</HemogenCraving.stages.0.label>
+  <HemogenCraving.stages.1.description>ეს ძალიან მტკივა და ჩემი თავი ბუნდოვანია. ცოტა სისხლისთვის მოვკლავდი. იქნებ მე უნდა.</HemogenCraving.stages.1.description>
+  <HemogenCraving.stages.1.label>ჰემოგენის ლტოლვა</HemogenCraving.stages.1.label>
+  <HemogenCraving.stages.2.description>ვერ ფიქრობ. წყურვილი. წყურვილი. უნდა. აქვს. სისხლი.</HemogenCraving.stages.2.description>
+  <HemogenCraving.stages.2.label>ჰემოგენის ლტოლვა</HemogenCraving.stages.2.label>
+  <KillThirst.stages.0.description>უნდა მოკლა... ძალიან დიდი ხანია, რაც ახლოდან ვინმე მოვკალი.</KillThirst.stages.0.description>
+  <KillThirst.stages.0.label>მოკვლა წყურვილი</KillThirst.stages.0.label>
+  <NoxiousHaze.stages.0.description>სმოგი თვალებს ამიწითლებს და საშინელი სუნი ასდის. ვისურვებდი, რომ მხოლოდ რამდენიმე ახალი ამოსუნთქვა შემეძლო.</NoxiousHaze.stages.0.description>
+  <NoxiousHaze.stages.0.label>მჟავე სმოგი</NoxiousHaze.stages.0.label>
+  <PregnancyAttitude.stages.0.description>ორსულად ვარ! ეს მახარებს.</PregnancyAttitude.stages.0.description>
+  <PregnancyAttitude.stages.0.label>ახალი ორსულობა</PregnancyAttitude.stages.0.label>
+  <PregnancyAttitude.stages.1.description>ორსულად ვარ და ძალიან არ მიხარია ეს.</PregnancyAttitude.stages.1.description>
+  <PregnancyAttitude.stages.1.label>ახალი ორსულობა</PregnancyAttitude.stages.1.label>
+  <PregnancyMood_Collapse.stages.0.description>ეს ორსულობა ძალიან რთულია. ჩემი სხეული ყოველთვის საშინლად გრძნობს თავს. ასე დამღლელი!</PregnancyMood_Collapse.stages.0.description>
+  <PregnancyMood_Collapse.stages.0.label>ორსულობის განწყობის კოლაფსი</PregnancyMood_Collapse.stages.0.label>
+  <PregnancyMood_Down.stages.0.description>ისეთი შეგრძნება მაქვს, თითქოს დღეს ყველაფერი ცუდად მიდის. ორსულობა რთულია.</PregnancyMood_Down.stages.0.description>
+  <PregnancyMood_Down.stages.0.label>ორსულობის განწყობა დაეცა</PregnancyMood_Down.stages.0.label>
+  <PregnancyMood_High.stages.0.description>თავს საოცრად ვგრძნობ! ორსულობა საჩუქარია!</PregnancyMood_High.stages.0.description>
+  <PregnancyMood_High.stages.0.label>ორსულობის მაღალი განწყობა</PregnancyMood_High.stages.0.label>
+  <PregnancyMood_Up.stages.0.description>დღეს ყველაფერი ცოტა უფრო სასიამოვნოა. ორსულობა სასიამოვნოა.</PregnancyMood_Up.stages.0.description>
+  <PregnancyMood_Up.stages.0.label>ორსულობის განწყობა მაღლა</PregnancyMood_Up.stages.0.label>
+  <PsychicBondProximity.stages.0.description>კავშირი გვაერთიანებს, გვაზიარებს გრძნობებსა და აზრებს. მეგობარს ჰგავს, რომელიც ყოველთვის ჩემთანაა.</PsychicBondProximity.stages.0.description>
+  <PsychicBondProximity.stages.0.label>ფსიქიკური კავშირი</PsychicBondProximity.stages.0.label>
+  <PsychicBondProximity.stages.1.description>მანძილი ძალიან ართულებს მის მოსმენას. თავს მარტოდ ვგრძნობ, თითქოს ბნელ, ჩუმ გამოქვაბულში ვიდექი.</PsychicBondProximity.stages.1.description>
+  <PsychicBondProximity.stages.1.label>ფსიქიკური კავშირის მანძილი</PsychicBondProximity.stages.1.label>
+  <Recluse.stages.0.description>შვებაა, რომ არ გიწევს სხვა ადამიანებზე ფიქრი.</Recluse.stages.0.description>
+  <Recluse.stages.0.label>მარტოხელა</Recluse.stages.0.label>
+  <Recluse.stages.1.description>ბედნიერი ვარ, რომ ბევრი ადამიანი არ მყავს საფიქრალი. მარტო უკეთესი იქნებოდა, მაგრამ ესეც კარგია.</Recluse.stages.1.description>
+  <Recluse.stages.1.label>განმარტოება მცირე ჯგუფში</Recluse.stages.1.label>
+  <Recluse.stages.2.description>აქ ძალიან ბევრი ხალხია. მათზე ფიქრის სიმძიმე მაწუხებს.</Recluse.stages.2.description>
+  <Recluse.stages.2.label>განმარტოებული ხალხმრავლობაა</Recluse.stages.2.label>
+  <Recluse.stages.3.description>იმდენი ადამიანია, ვისთანაც უნდა ვიმუშაო. ისინი აბსოლუტური.</Recluse.stages.3.description>
+  <Recluse.stages.3.label>განმარტოებული ძალიან ხალხმრავალი</Recluse.stages.3.label>
+  <ScanningSickness.stages.0.description>იმ სკანირების შემდეგ თავბრუ მეხვევა და ვერ ვფიქრობ.</ScanningSickness.stages.0.description>
+  <ScanningSickness.stages.0.label>სკანირების ავადმყოფობა</ScanningSickness.stages.0.label>
+  <SunlightSensitivity_Major.stages.0.description>მზის შუქი თვალებს მწვავს და კანს ისეთი შეგრძნება მაქვს, თითქოს დამწვარია.</SunlightSensitivity_Major.stages.0.description>
+  <SunlightSensitivity_Major.stages.0.label>მზის მგრძნობელობა</SunlightSensitivity_Major.stages.0.label>
+  <SunlightSensitivity_Mild.stages.0.description>მზე თვალებს მტკივა და კანი უსიამოვნოდ მეჩხვლიტება.</SunlightSensitivity_Mild.stages.0.description>
+  <SunlightSensitivity_Mild.stages.0.label>მზის მგრძნობელობა</SunlightSensitivity_Mild.stages.0.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GlucosoidRush.description>მოძრაობის სიჩქარე გაიზარდა, რადგან ამ ადამიანმა გამოიყენა გლუკოზოიდური ტუმბო სიკვდილის დროს. ეს ეფექტი გრძელდება მომდევნო სიკვდილამდე.</GlucosoidRush.description>
+  <GlucosoidRush.label>გლუკოიდული გამონაყარი</GlucosoidRush.label>
+  <HemogenAmplified.description>ჰემოგენის ყველა მომატება მრავლდება, რადგან ეს ადამიანი სიკვდილის დროს იყენებდა ჰემოგენის გამაძლიერებელს. ეს ეფექტი გრძელდება მომდევნო სიკვდილამდე.</HemogenAmplified.description>
+  <HemogenAmplified.label>ჰემოგენი გაძლიერებულია</HemogenAmplified.label>
+  <PsychofluidRush.description>ფსიქიკური მგრძნობელობა გაძლიერებულია, რადგან ეს ადამიანი სიკვდილის დროს იყენებდა ფსიქოსთხევად ტუმბოს. ეს ეფექტი გრძელდება მომდევნო სიკვდილამდე.</PsychofluidRush.description>
+  <PsychofluidRush.label>ფსიქოსთხევადი აურზაური</PsychofluidRush.label>
+</LanguageData>

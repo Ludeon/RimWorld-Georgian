@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <MissingGravEngineInspection>Grav ძრავა უნდა შემოწმდეს</MissingGravEngineInspection>
+  <RequiresInspectionof>მოითხოვს შემოწმებას</RequiresInspectionof>
+  <RequireGravEngineInspected>Grav ძრავა შემოწმებულია</RequireGravEngineInspected>
+  
+  
+  <AncientSmokeVentActive>კვამლის გამწოვი.</AncientSmokeVentActive>
+  <AncientToxVentActive>ტოქსიკური გამონადენის შექმნა.</AncientToxVentActive>
+  <AncientHeatVentActive>გამწოვი სითბო.</AncientHeatVentActive>
+  
+</LanguageData>

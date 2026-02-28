@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <PsychicRitual>ფსიქიკური რიტუალი</PsychicRitual>
+  <CastPsychicRitual>დაიწყეთ ფსიქიკური რიტუალი</CastPsychicRitual>
+  <CastPsychicRitualDesc>აირჩიეთ ფსიქიკური რიტუალი შესასრულებლად</CastPsychicRitualDesc>
+  <CannotCastPsychicRitual>{0_labelShort} ვერ შეასრულებს {1} ფსიქიკურ რიტუალს, რადგან {2}.</CannotCastPsychicRitual>
+  <PsychicRitualBegun>{0} ფსიქიკური რიტუალი დაიწყო.</PsychicRitualBegun>
+  <PsychicRitualCompleted>{0} ფსიქიკური რიტუალი დასრულდა.</PsychicRitualCompleted>
+  <PsychicRitualAttending>{RITUALNAME} ფსიქიკურ რიტუალზე დასწრება</PsychicRitualAttending>
+  <ParticipatingInPsychicRitual>{0_labelShort} მონაწილეობს {1} ფსიქიკურ რიტუალში.</ParticipatingInPsychicRitual>
+  <AbilityDisabledInPsychicRitual>{0_labelShort} მონაწილეობს {1} ფსიქიკურ რიტუალში.</AbilityDisabledInPsychicRitual>
+  <PsychicRitual_LocationTargetting>აირჩიეთ ადგილმდებარეობა</PsychicRitual_LocationTargetting>
+  <PsychicRitualExpectedQualityLabel>მთლიანი ხარისხი</PsychicRitualExpectedQualityLabel>
+  <PsychicRitualQualityFactorLabel>ხარისხის ფაქტორები</PsychicRitualQualityFactorLabel>
+  <PsychicRitualExpectedDurationLabel>ხანგრძლივობა</PsychicRitualExpectedDurationLabel>
+  <PsychicRitualRequiredOffering>საჭირო შეთავაზება</PsychicRitualRequiredOffering>
+  <CausedByPsychicRitual>გამოწვეული ფსიქიკური რიტუალით</CausedByPsychicRitual>
+  <PsychicRitualCooldownLabel>გამოყენების დრო</PsychicRitualCooldownLabel>
+
+  <PsychicRitualSpotObstructed>დაბრკოლებულია ფსიქიკური რიტუალის არეალი.</PsychicRitualSpotObstructed>
+  <PsychicRitualOnCooldown>ფსიქიკური რიტუალი გაგრილების შესახებ. ის ხელმისაწვდომი იქნება {0}-ში.</PsychicRitualOnCooldown>
+  <PsychicRitualCanBeCastAgain>{0} ფსიქიკური რიტუალი შეიძლება კვლავ შესრულდეს.</PsychicRitualCanBeCastAgain>
+  <NoBasicResearchForPsychicRitual>არ არის შერჩეული ძირითადი ანომალიების კვლევის პროექტი.</NoBasicResearchForPsychicRitual>
+  <CantCastOnPocketMap>უნდა შეასრულოს {0} ფსიქიკური რიტუალი ზედაპირზე.</CantCastOnPocketMap>
+
+  <PsychicRitualFactionWarning>გაფრთხილება: {PAWN_nameDef}-ზე რიტუალის შესრულება გააბრაზებს {PAWN_possessive} ფრაქციას ({FACTION_name})</PsychicRitualFactionWarning>
+
+  <PsychicRitualWakingPawnWarning>{0} ამჟამად სძინავს და გაიღვიძებს, როდესაც ფსიქიკური რიტუალი დაიწყება.</PsychicRitualWakingPawnWarning>
+  <PsychicRitualUndraftPawnWarning>{0} ამჟამად შედგენილია და გაუქმდება, როდესაც ფსიქიკური რიტუალი დაიწყება.</PsychicRitualUndraftPawnWarning>
+  <PsychicRitualWakingPawnsWarning>{0} ამჟამად სძინავს და გაიღვიძებს, როდესაც ფსიქიკური რიტუალი დაიწყება.</PsychicRitualWakingPawnsWarning>
+  <PsychicRitualUndraftPawnsWarning>{0} ამჟამად შედგენილია და გაუქმდება, როდესაც ფსიქიკური რიტუალი დაიწყება.</PsychicRitualUndraftPawnsWarning>
+
+  <PsychicRitualLeft>{0_labelShort}-მა დატოვა {1} ფსიქიკური რიტუალი.</PsychicRitualLeft>
+  <PsychicRitualLeftBecause>{0_labelShort}-მა დატოვა {1} ფსიქიკური რიტუალი, რადგან {2}.</PsychicRitualLeftBecause>
+  <PsychicRitualCanceled>{0} ფსიქიკური რიტუალი გაუქმდა.</PsychicRitualCanceled>
+  <PsychicRitualCanceledBecause>{0} ფსიქიკური რიტუალი გაუქმდა, რადგან {1}.</PsychicRitualCanceledBecause>
+
+  <PsychicRitualOfferingsInsufficient>{0} საჭიროა, მაგრამ მხოლოდ {1} არის ხელმისაწვდომი</PsychicRitualOfferingsInsufficient>
+  <PsychicRitualTargetUnreachableByInvoker>{TARGET_labelShort} მიუწვდომელია {INVOKER_labelShort}-ით</PsychicRitualTargetUnreachableByInvoker>
+
+  <CommandLeavePsychicRitual>დატოვე {0} ფსიქიკური რიტუალი</CommandLeavePsychicRitual>
+  <CommandLeavePsychicRitualDesc>შეწყვიტე მონაწილეობა {0} ფსიქიკურ რიტუალში. ფსიქიკური რიტუალი გაგრძელდება მანამ, სანამ მას ერთი მონაწილე მაინც ეყოლება.</CommandLeavePsychicRitualDesc>
+
+  <CommandCancelPsychicRitual>გააუქმეთ {0} ფსიქიკური რიტუალი</CommandCancelPsychicRitual>
+  <CommandCancelPsychicRitualDesc>დაუყოვნებლივ დაასრულეთ {0} ფსიქიკური რიტუალი. შეგიძლიათ მოგვიანებით განაახლოთ ფსიქიკური რიტუალი.</CommandCancelPsychicRitualDesc>
+  <CommandCancelPsychicRitualConfirm>დარწმუნებული ხართ, რომ გსურთ გააუქმოთ {0} ფსიქიკური რიტუალი?</CommandCancelPsychicRitualConfirm>
+
+  <PsychicRitualLeaveReason_Vanished>{PAWN_labelShort} გაქრა</PsychicRitualLeaveReason_Vanished>
+  <PsychicRitualLeaveReason_Incapped>{PAWN_labelShort} არის ქმედუუნარო</PsychicRitualLeaveReason_Incapped>
+  <PsychicRitualLeaveReason_Killed>{PAWN_labelShort} მოკვდა</PsychicRitualLeaveReason_Killed>
+  <PsychicRitualLeaveReason_WrongFaction>{PAWN_labelShort} არ არის {FACTION_name}-ის ნაწილი</PsychicRitualLeaveReason_WrongFaction>
+  <PsychicRitualLeaveReason_ExitedMap>{PAWN_labelShort} აღარ არის რუკაზე</PsychicRitualLeaveReason_ExitedMap>
+  <PsychicRitualLeaveReason_LeftVoluntarily>{PAWN_labelShort}-ს უკეთესი საქმეები ჰქონდა</PsychicRitualLeaveReason_LeftVoluntarily>
+  <PsychicRitualLeaveReason_Drafted>შედგენილია {PAWN_labelShort}</PsychicRitualLeaveReason_Drafted>
+  <PsychicRitualLeaveReason_InMentalState>{PAWN_labelShort} ფსიქიკურ მდგომარეობაშია</PsychicRitualLeaveReason_InMentalState>
+  <PsychicRitualLeaveReason_Bleeding>{PAWN_labelShort} არის სისხლდენა</PsychicRitualLeaveReason_Bleeding>
+  <PsychicRitualLeaveReason_Burning>{PAWN_labelShort} იწვის</PsychicRitualLeaveReason_Burning>
+  <PsychicRitualLeaveReason_ExtremeTemperature>ტემპერატურა მიზნის მახლობლად არ არის უსაფრთხო {PAWN_labelShort}-ისთვის</PsychicRitualLeaveReason_ExtremeTemperature>
+  <PsychicRitualLeaveReason_InsideBuilding>{PAWN_labelShort} ვერ მიიღებს მონაწილეობას {BUILDING} შიგნიდან</PsychicRitualLeaveReason_InsideBuilding>
+  <PsychicRitualLeaveReason_Humanlike>{PAWN_labelShort} არის ადამიანის მსგავსი</PsychicRitualLeaveReason_Humanlike>
+  <PsychicRitualLeaveReason_NonHumanlike>{PAWN_labelShort} არ არის ადამიანის მსგავსი</PsychicRitualLeaveReason_NonHumanlike>
+  <PsychicRitualLeaveReason_Prisoner>{PAWN_labelShort} არის პატიმარი</PsychicRitualLeaveReason_Prisoner>
+  <PsychicRitualLeaveReason_Slave>{PAWN_labelShort} არის მონა</PsychicRitualLeaveReason_Slave>
+  <PsychicRitualLeaveReason_Freeman>{PAWN_labelShort} უფასოა</PsychicRitualLeaveReason_Freeman>
+  <PsychicRitualLeaveReason_DevelopmentalStage>{PAWN_labelShort} არის {STAGE}</PsychicRitualLeaveReason_DevelopmentalStage>
+  <PsychicRitualLeaveReason_CannotReachTarget>{PAWN_labelShort} ვერ აღწევს სამიზნე მდებარეობას</PsychicRitualLeaveReason_CannotReachTarget>
+  <PsychicRitualLeaveReason_Sleeping>{PAWN_labelShort}-ს სძინავს</PsychicRitualLeaveReason_Sleeping>
+  <PsychicRitualLeaveReason_Mutant>{PAWN_labelShort} არ არის ადამიანი</PsychicRitualLeaveReason_Mutant>
+  <PsychicRitualLeaveReason_IdeoUnwilling>{PAWN_labelShort}-ის რწმენა {IDEO_name}-ში ხელს უშლის მონაწილეობას</PsychicRitualLeaveReason_IdeoUnwilling> 
+  <PsychicRitualLeaveReason_NoPsychicSensitivity>{PAWN_labelShort} არ არის ფსიქიკურად მგრძნობიარე</PsychicRitualLeaveReason_NoPsychicSensitivity>
+  <PsychicRitualLeaveReason_TemporaryFactionMember>{PAWN_labelShort} არის ფრაქციის დროებითი წევრი</PsychicRitualLeaveReason_TemporaryFactionMember>
+  <PsychicRitualLeaveReason_PawnBusyWithLord>{PAWN_labelShort}-ს აქვს სხვა მოვალეობებიც</PsychicRitualLeaveReason_PawnBusyWithLord>
+  <PsychicRitualLeaveReason_ForcedByQuest>{PAWN_labelShort}-ს აქვს სხვა მოვალეობებიც</PsychicRitualLeaveReason_ForcedByQuest>
+
+  
+  <PsychicRitualToil_Goto_JobReport_Moving>პოზიციაზე გადაადგილება</PsychicRitualToil_Goto_JobReport_Moving>
+  <PsychicRitualToil_Goto_JobReport_Waiting>ელოდება ყველას პოზიციას</PsychicRitualToil_Goto_JobReport_Waiting>
+
+  <PsychicRitualToil_GatherOfferings_OfferingUnavailable>{PAWN_labelShort}-მა ვერ იპოვა საკმარისი {1}</PsychicRitualToil_GatherOfferings_OfferingUnavailable>
+  <PsychicRitualToil_GatherOfferings_JobReport>შეკრების შეთავაზება</PsychicRitualToil_GatherOfferings_JobReport>
+
+  <PsychicRitualToil_InvokeHorax_JobReport_Invoker>წამყვანი ფსიქიკური რიტუალი</PsychicRitualToil_InvokeHorax_JobReport_Invoker>
+  <PsychicRitualToil_InvokeHorax_JobReport_Chanter>ძალაუფლების გადატანა ფსიქიკურ რიტუალზე</PsychicRitualToil_InvokeHorax_JobReport_Chanter>
+  <PsychicRitualToil_InvokeHorax_JobReport_Target>ფსიქიკური რიტუალის მიზანი</PsychicRitualToil_InvokeHorax_JobReport_Target>
+  <PsychicRitualToil_InvokeHorax_MissingRequiredOffering>{0}-ს არ აქვს საკმარისი {1}</PsychicRitualToil_InvokeHorax_MissingRequiredOffering>
+  <PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>{PAWN_labelShort} პოზიციიდან გამოსულია</PsychicRitualToil_InvokeHorax_PawnIsOutOfPosition>
+  <PsychicRitualToil_InvokeHorax_JobReport_Defender>ფსიქიკური რიტუალის დაცვა</PsychicRitualToil_InvokeHorax_JobReport_Defender> 
+
+  <PsychicRitualToil_GatherForInvocation_Report>ელოდება</PsychicRitualToil_GatherForInvocation_Report>
+  <PsychicRitualToil_InvokeHorax_Report>სიცარიელის გამოძახება</PsychicRitualToil_InvokeHorax_Report>
+
+  <PsychicRitualDef_TargetDestroyed>{TARGET_labelShort} განადგურდა</PsychicRitualDef_TargetDestroyed>
+  <PsychicRitualDef_InvocationCircle_InvokerLost>{INVOKER_labelShort} ვერ გააგრძელებს ფსიქიკურ რიტუალს</PsychicRitualDef_InvocationCircle_InvokerLost>
+
+  <PsychicRitualDef_InvocationCircle_AreaMustBeClear>სამიზნე ადგილის ირგვლივ ტერიტორია უნდა იყოს სუფთა დაბრკოლებისგან</PsychicRitualDef_InvocationCircle_AreaMustBeClear>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>{PAWN_labelShort}-ის ფსიქიკური მგრძნობელობა</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>რამდენად შეესაბამება {PAWN_labelShort} ფსიქიკურ მოვლენებს.</PsychicRitualDef_InvocationCircle_QualityFactor_PsychicSensitivity_Tooltip>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>ეს ობიექტები ხელს უწყობს რიტუალის ფსიქიკური ძალის ფოკუსირებას.</PsychicRitualDef_InvocationCircle_QualityFactor_Increase_Tooltip>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>იდეოლიგიის ოფსეტი</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion>
+  <PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>რამდენად მოქმედებს ფსიქიკურ რიტუალზე იდეოლიგიური რწმენა.</PsychicRitualDef_InvocationCircle_QualityFactor_Ideoligion_Tooltip>
+
+  
+  <PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>{0}-მა დაიწყო {1} ფსიქიკური რიტუალის შესრულება.</PsychicRitualDef_InvocationCircle_PsychicRitualBegunMessage>
+  <PsychicRitualAreaObstructed>დაბრკოლებულია ფსიქიკური რიტუალის არეალი</PsychicRitualAreaObstructed>
+
+  
+  <NotEnoughAnimals>ამ ბიომში არ არის საკმარისი ცხოველი.</NotEnoughAnimals>
+
+  
+  <NoNearbyShamblers>ახლომახლო შამბლერები არ არის.</NoNearbyShamblers>
+
+  
+  <PitGateAlreadyExists>რუკაზე უკვე არის ორმოს კარიბჭე.</PitGateAlreadyExists>
+  
+  
+  <InvokerTooYoung>გამომწვევი უნდა იყოს მინიმუმ {0} წლის.</InvokerTooYoung>
+  <PsychicRitualTargetTooYoung>სამიზნე უნდა იყოს მინიმუმ {0} წლის.</PsychicRitualTargetTooYoung>
+  <CronophagyAgeChange>{INVOKER_labelShort} გახდება {1} წლის, ხოლო {TARGET_labelShort} გახდება {3} წლის.</CronophagyAgeChange>
+  
+  
+  <PhilophagyTransferReport>{INVOKER_labelShort} მოიპარავს {1} {SKILL_label} XP-ს {TARGET_labelShort}-ისგან.</PhilophagyTransferReport>
+  <NoSkillsToTransfer>{TARGET_labelShort}-ს არ აქვს გადასატანი უნარები.</NoSkillsToTransfer>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BandNode.description>A mechanoid-band signal amplifier. Band nodes must be tuned to a specific mechanitor. This will add 1 bandwidth to that mechanitor's total bandwidth, allowing them to control more mechanoids.\n\nOnce a band node is constructed, it can be quickly tuned to a mechanitor. However, retuning a band node to a different mechanitor takes significantly longer.</BandNode.description>
+  <BandNode.label>ბენდის კვანძი</BandNode.label>
+  <BurnoutMechlinkBooster.description>მექანიკური ზოლის სასიგნალო მოწყობილობა. გააქტიურებისას გამოსცემს მძლავრ მექანიკურ სიგნალის პულსს, რომელიც მიიზიდავს ულტრა მძიმე ველურ მექანოიდს, რათა შეტევა თავისი ესკორტით. თუ თქვენ შეგიძლიათ მისი დამარცხება, შეგიძლიათ შეაგროვოთ სპეციალური ტექნოლოგიები მისი გვამიდან. სიგნალის პულსი წვავს გადამცემს, ამიტომ ამ შენობის გამოყენება შესაძლებელია მხოლოდ ერთხელ.</BurnoutMechlinkBooster.description>
+  <BurnoutMechlinkBooster.label>მეჩბანდის ანტენა</BurnoutMechlinkBooster.label>
+  <GeneAssembler.description>სამუშაო მაგიდა იმპლანტირებადი ქსენოგერმების შესაქმნელად გენის პაკეტებიდან, რომლებიც ინახება ახლომდებარე გენის ბანკებში. ამ პროცესში გენეპაკეტები არ მოიხმარება და მათი ხელახლა გამოყენება შესაძლებელია.</GeneAssembler.description>
+  <GeneAssembler.label>გენის შემკრები</GeneAssembler.label>
+  <GeneBank.description>This building can store genepacks and make them usable to create new xenogerms, when placed near a gene assembler. Large gene libraries require many gene banks.\n\nWhen powered, gene banks prevent genepacks from deteriorating and will slowly repair deterioration.</GeneBank.description>
+  <GeneBank.label>გენის ბანკი</GeneBank.label>
+  <GeneExtractor.description>An automated surgery machine that can extract a person's genes and create a genepack from them. The extracted genes will be randomly selected from the person's xenogenes and germline genes. You can force someone into the machine, but they won't like it.\n\nExtracting a person's genes while their genes are currently regrowing will kill them. Otherwise, gene extraction causes no lasting harm.\n\nGenes that require archite capsules are too complex to be extracted.</GeneExtractor.description>
+  <GeneExtractor.label>გენის ექსტრაქტორი</GeneExtractor.label>
+  <GeneProcessor.description>გენეტიკური ანალიზისა და დამუშავების სისტემა. გენის ასამბლერის მახლობლად განთავსებული, ის ზრდის ქსენოგერმების მაქსიმალურ გენეტიკურ სირთულეს, რომლის შეკრებაც შეგიძლიათ. მრავალი გენის პროცესორის აშენება კიდევ უფრო გაზრდის გენეტიკური სირთულის ზღვარს.</GeneProcessor.description>
+  <GeneProcessor.label>გენის პროცესორი</GeneProcessor.label>
+  <GrowthVat.description>A vat of fluid which can gestate an embryo or accelerate a child's growth.\n\nWhile growing or gestating, the vat must be fed with a constant supply of nutrition to provide the feedstock for growth. Gestating an embryo takes twice the nutrition of accelerating a child's growth.\n\nEmbryos are gestated for 9 days before a baby is formed. There is a risk of health complications.\n\nChild growth can only be accelerated up to age 18, but not beyond. While growing, a child's skills will slowly increase. Children raised in growth vats will have lower skills and gain fewer passions than normal.\n\nThe device uses chemical injections, electrical stimulation, and simple mechanite treatments to push the body to grow. Growth vats are often used to quickly manufacture engineered workers or warriors.</GrowthVat.description>
+  <GrowthVat.label>ზრდის ღვეზე</GrowthVat.label>
+  <MechbandDish.description>მექანიკური დიაპაზონის სასიგნალო მოწყობილობა უფრო მძლავრი, ვიდრე ჩვეულებრივი მექანიკური ჯგუფის ანტენა. გააქტიურებისას გამოსცემს ულტრაძლიერ მექანიკურ სიგნალის პულსს, რომელიც მიიზიდავს მექანოიდ მეთაურს თავისი ესკორტით შეტევაზე. თუ თქვენ შეგიძლიათ მისი დამარცხება, შეგიძლიათ შეაგროვოთ სპეციალური ტექნოლოგიები მისი გვამიდან. სიგნალის პულსი წვავს ჭურჭელს, ამიტომ ამ შენობის გამოყენება შესაძლებელია მხოლოდ ერთხელ.</MechbandDish.description>
+  <MechbandDish.label>მეჩბანდის კერძი</MechbandDish.label>
+  <MechBooster.description>დისტანციური ენერგიისა და გამოთვლის გაუმჯობესების მოწყობილობა. ნებისმიერი მეგობრული მექანოიდი მისი ეფექტის რადიუსში გადაადგილდება და იმუშავებს უფრო სწრაფად.</MechBooster.description>
+  <MechBooster.label>მექანიკური გამაძლიერებელი</MechBooster.label>
+  <PollutionPump.description>მიწისქვეშა წყლების ფილტრაციის ტუმბო, რომელიც ნელ-ნელა ასუფთავებს დაბინძურებულ რელიეფს. მოპოვებული დაბინძურება იქმნება ტოქსიკურ ნარჩენებად, რომლებიც უნდა გაიტანოს.</PollutionPump.description>
+  <PollutionPump.label>დაბინძურების ტუმბო</PollutionPump.label>
+  <SanguphageMeetingTorch.description>სპეციალურად დამუშავებული ხის ჩირაღდანი, რომელიც ასხივებს წითელ შუქს დიდ ფართობზე. სანგუოფაგები იკრიბებიან მსგავსი ჩირაღდნების გარშემო მათი საზეიმო შეხვედრების დროს. სანგური ბზინვარება განსაკუთრებით სასიამოვნოა სისხლის მიმწოდებლის გენის მქონე პირებისთვის. მისი ავტომატურად შევსება შესაძლებელია ხით და გამოიმუშავებს მცირე რაოდენობით სითბოს.</SanguphageMeetingTorch.description>
+  <SanguphageMeetingTorch.label>სისხლის ლამპარი</SanguphageMeetingTorch.label>
+  <ShuttleCrashed_Exitable_Mechanitor.description>მოკლე მანძილის გემი, რომელსაც მექანიტორი იყენებს მეხსიერების გადასატანად დაბალ ორბიტაზე ან პლანეტაზე მოგზაურობისთვის.</ShuttleCrashed_Exitable_Mechanitor.description>
+  <ShuttleCrashed_Exitable_Mechanitor.label>ჩამოვარდა მექანიტორი გემი</ShuttleCrashed_Exitable_Mechanitor.label>
+  <ToxifierGenerator.description>ეს ელექტრული გენერატორი ძალიან ნელა აბინძურებს რელიეფს მის ირგვლივ რადიუსში ენერგიის გამომუშავებისას. თუ რადიუსში ყველა რელიეფი დაბინძურებულია, გენერატორი გაითიშება.</ToxifierGenerator.description>
+  <ToxifierGenerator.label>ტოქსიფიკატორის გენერატორი</ToxifierGenerator.label>
+  <TrapIED_ToxGas.description>ტოქსიური აირის წყვილი ჭურვი, რომელიც დაკავშირებულია გამშვებთან, რომელიც აფეთქდება შეხებისას ან ტყვიის შეხებისას. ვინაიდან ის მიმდებარე რელიეფშია დამალული, არ შეიძლება სხვა ხაფანგების მიმდებარედ განთავსება. ცხოველებს შეუძლიათ ამის შეგრძნება მშვიდად.</TrapIED_ToxGas.description>
+  <TrapIED_ToxGas.label>IED ტოქსის ხაფანგი</TrapIED_ToxGas.label>
+  <WastepackAtomizer.description>ბრჭყვიალა ტექნოლოგიური მოწყობილობა, რომელიც არღვევს ტოქსიკურ ნარჩენებს ინერტულ აირებად მოწინავე მოლეკულური პროცესების გამოყენებით. პროცესი მოითხოვს მნიშვნელოვან ენერგიას.</WastepackAtomizer.description>
+  <WastepackAtomizer.label>ნარჩენების ატომიზატორი</WastepackAtomizer.label>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <CommandBedSetForSlavesLabel>მონებისთვის</CommandBedSetForSlavesLabel>
+  <CommandBedSetForColonistsLabel>კოლონისტებისთვის</CommandBedSetForColonistsLabel>
+  <CommandBedSetForOwnerTypeDesc>ამ ოთახში საწოლები უნდა გამოიყენონ კოლონისტებმა, პატიმრებმა თუ მონებმა.</CommandBedSetForOwnerTypeDesc>
+
+  <CommandNeuralSuperchargerNoAutoUse>არ არის ავტომატური გამოყენება</CommandNeuralSuperchargerNoAutoUse>
+  <CommandNeuralSuperchargerNoAutoUseDescription>არცერთი თქვენი ადამიანი არ გამოიყენებს ამ ნერვულ სუპერჩამტენს ავტომატურად.</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerAutoUseWithDesire>ავტომატური გამოყენება სურვილით</CommandNeuralSuperchargerAutoUseWithDesire>
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>თქვენმა ხალხმა შეიძლება გამოიყენოს ეს ნერვული სუპერჩამტენი ავტომატურად, თუ მათ ეს სურთ თავიანთი რწმენის გამო.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <CommandNeuralSuperchargerAutoForEveryone>ავტომატური გამოყენება ყველასთვის</CommandNeuralSuperchargerAutoForEveryone>
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>თქვენი ყველა ადამიანი გამოიყენებს ამ ნერვულ სუპერჩამტენს, თუ მათ ექნებათ შესაძლებლობა.</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <CommandNeuralSuperchargerAllowGuests>სტუმრების დაშვება</CommandNeuralSuperchargerAllowGuests>
+  <CommandNeuralSuperchargerAllowGuestsDescription>მიეცით საშუალება ამ ნერვულ სუპერჩამტენს გამოიყენონ ფრაქციის დროებითი წევრები.</CommandNeuralSuperchargerAllowGuestsDescription>
+
+  <CommandSelectConnectedTree>აირჩიეთ დაკავშირებული ხე</CommandSelectConnectedTree>
+  <CommandHealInHealingPod>შექმენით სამკურნალო ბუდე</CommandHealInHealingPod>
+  <CommandHealInHealingPodDesc>თუ ეს არსება დაშავდება, ის უბრუნდება თავის დაკავშირებულ გაურანლენის ხეს და შევა ხის სამკურნალო ბუდეში. {DAYS} დღის შემდეგ დრიადი გამოვა შეხორცებული ჭრილობებით.</CommandHealInHealingPodDesc>
+</LanguageData>

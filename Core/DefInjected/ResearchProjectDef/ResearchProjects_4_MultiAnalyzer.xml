@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdvancedFabrication.description>მოწინავე კომპონენტების დამზადება სტანდარტული კომპონენტებისგან და სხვა მასალებისგან.</AdvancedFabrication.description>
+  <AdvancedFabrication.label>მოწინავე დამზადება</AdvancedFabrication.label>
+  <Bionics.description>შექმენით სხეულის მაღალტექნოლოგიური ბიონიკური ნაწილები დაკარგული კიდურებისა და თვალების შესაცვლელად. დასამაგრებლად საჭიროა კვალიფიციური ექიმი.</Bionics.description>
+  <Bionics.label>ბიონიკური ჩანაცვლება</Bionics.label>
+  <ChargedShot.description>შექმენით იარაღები, რომლებიც გამოიყენებენ პულსით დამუხტულ საბრძოლო მასალებს დამატებითი დაზიანებისთვის. გაითვალისწინეთ, რომ მათ ასევე სჭირდებათ მოწინავე კომპონენტები.</ChargedShot.description>
+  <ChargedShot.label>პულსით დამუხტული საბრძოლო მასალები</ChargedShot.label>
+  <Cryptosleep.description>შექმენით კრიპტოძილის ყუთები, რომლებსაც შეუძლიათ ცოცხალი არსებების განუსაზღვრელი შეჩერებული ანიმაციის მდგომარეობაში ჩაყვანა.</Cryptosleep.description>
+  <Cryptosleep.label>კრიპტოძილის ყუთი</Cryptosleep.label>
+  <Fabrication.description>შექმენით ფაბრიკაციის სკამები, რომლებსაც შეუძლიათ მაღალტექნოლოგიური პროექტები, დაწყებული კომპონენტების შეკრებიდან ელექტრო ჯავშანტექნიკამდე.</Fabrication.description>
+  <Fabrication.label>ფაბრიკაცია</Fabrication.label>
+  <MultiAnalyzer.description>შექმენით მულტი-ანალიზატორები, რომლებიც ზრდის კვლევის სიჩქარეს და საშუალებას აძლევს უფრო მაღალი დონის კვლევით პროექტებს.</MultiAnalyzer.description>
+  <MultiAnalyzer.label>მრავალ ანალიზატორი</MultiAnalyzer.label>
+  <PoweredArmor.description>შექმენით საზღვაო ჯავშანი, ზოგადი გამოყენების ჯავშანტექნიკა, რომელსაც იყენებენ მაღალტექნოლოგიური დარტყმითი ჯარები. გაითვალისწინეთ, რომ მათ ასევე სჭირდებათ მოწინავე კომპონენტები.</PoweredArmor.description>
+  <PoweredArmor.label>საზღვაო ჯავშანი</PoweredArmor.label>
+  <ReconArmor.description>Craft recon ჯავშანი, მსუბუქი ძრავის ჯავშანი, რომელსაც იყენებენ სკაუტური ჯარები, რომლებსაც დაცვა სჭირდებათ მოძრაობაში. გაითვალისწინეთ, რომ მათ ასევე სჭირდებათ მოწინავე კომპონენტები.</ReconArmor.description>
+  <ReconArmor.label>ხელახალი ჯავშანი</ReconArmor.label>
+  <RocketswarmLauncher.description>შექმენით თბილი გამშვები რაკეტები, ერთჯერადი კოშკები, რომლებსაც შეუძლიათ გაანადგურონ ფართო ტერიტორია ბრძოლის მნიშვნელოვან მომენტში.</RocketswarmLauncher.description>
+  <RocketswarmLauncher.label>რაკეტების თბილი გამშვები</RocketswarmLauncher.label>
+  <SniperTurret.description>შექმენით ჯავშანშეღწევადი ურანის შლაპა კოშკი. ის ასხივებს ურანის შლაკებს, რომლებიც ქაღალდის მსგავსად იშლება პლასტმასში, მაგრამ ნაკლებად ეფექტურია ახლო მანძილზე.</SniperTurret.description>
+  <SniperTurret.label>ურანის შლაპა კოშკი</SniperTurret.label>
+  <VitalsMonitor.description>შექმენით სასიცოცხლო მნიშვნელობის მონიტორები, რომლებიც აუმჯობესებენ სამედიცინო შედეგებს საავადმყოფოს საწოლებთან მოთავსებისას.</VitalsMonitor.description>
+  <VitalsMonitor.label>სასიცოცხლო მნიშვნელობის მონიტორი</VitalsMonitor.label>
+</LanguageData>

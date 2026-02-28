@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Escort.description>დარჩით მექანიტორთან ახლოს და შეებრძოლეთ ახლომდებარე მტრებს. მიჰყევით მექანიტორს, თუნდაც რუქის მიღმა.</Escort.description>
+  <Escort.label>ესკორტი</Escort.label>
+  <Recharge.description>გადადით დამტენებზე და დატენეთ, თუნდაც უკვე კარგად დატენილი.</Recharge.description>
+  <Recharge.label>დატენვა</Recharge.label>
+  <SelfShutdown.description>გადადით მიძინებულ თვითდამუხტავ მდგომარეობაში, რომელიც ძალიან ნელა იბრუნებს ენერგიას დამტენის გარეშე.</SelfShutdown.description>
+  <SelfShutdown.label>მიძინებული თვითდამუხტვა</SelfShutdown.label>
+  <Work.description>იმუშავეთ დამოუკიდებლად მექანოიდის ტიპის მიხედვით. ავტომატურად გადადით დამტენებზე და დატენეთ საჭიროების შემთხვევაში.</Work.description>
+  <Work.label>მუშაობა</Work.label>
+</LanguageData>

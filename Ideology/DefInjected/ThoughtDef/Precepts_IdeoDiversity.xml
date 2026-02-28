@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.0.description>ცრუ რწმენის სამსხვერპლო არის ოთახში ჩვენი {ALTAR_labelShort}! ეს ჩვენი სიწმინდის ამაზრზენი დარღვევაა.</IdeoDiverity_Abhorrent_AltarSharing.stages.0.description>
+  <IdeoDiverity_Abhorrent_AltarSharing.stages.0.label>ცრუ საკურთხეველი</IdeoDiverity_Abhorrent_AltarSharing.stages.0.label>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.0.description>ცრუ რწმენის სამსხვერპლო არის ოთახში ჩვენი {ALTAR_labelShort}. არასწორია.</IdeoDiverity_Disapproved_AltarSharing.stages.0.description>
+  <IdeoDiverity_Disapproved_AltarSharing.stages.0.label>ცრუ საკურთხეველი</IdeoDiverity_Disapproved_AltarSharing.stages.0.label>
+  <IdeoDiverity_Horrible_AltarSharing.stages.0.description>ცრუ რწმენის სამსხვერპლო არის ოთახში ჩვენი {ALTAR_labelShort}. ეს ჩვენი სიწმინდის დარღვევაა.</IdeoDiverity_Horrible_AltarSharing.stages.0.description>
+  <IdeoDiverity_Horrible_AltarSharing.stages.0.label>ცრუ საკურთხეველი</IdeoDiverity_Horrible_AltarSharing.stages.0.label>
+  <IdeoDiversity_Abhorrent.stages.0.description>ჩემი სიმართლე ისეთი სუფთა და აშკარაა, მაგრამ ზოგიერთი ჩემ გარშემო მყოფთაგან ბოროტების ხელშია. საზიზღარია.</IdeoDiversity_Abhorrent.stages.0.description>
+  <IdeoDiversity_Abhorrent.stages.0.label>მრავალფეროვანი აზრები</IdeoDiversity_Abhorrent.stages.0.label>
+  <IdeoDiversity_Abhorrent.stages.1.description>ჩემი სიმართლე ისეთი სუფთა და აშკარაა, მაგრამ ჩემს ირგვლივ მყოფთაგან ბევრი ბოროტების ხელშია. საზიზღარია.</IdeoDiversity_Abhorrent.stages.1.description>
+  <IdeoDiversity_Abhorrent.stages.1.label>მრავალფეროვანი აზრები</IdeoDiversity_Abhorrent.stages.1.label>
+  <IdeoDiversity_Abhorrent.stages.2.description>ჩემი სიმართლე ისეთი სუფთა და აშკარაა, მაგრამ ჩემ ირგვლივ თითქმის ყველა ბოროტების ხელშია. საზიზღარია.</IdeoDiversity_Abhorrent.stages.2.description>
+  <IdeoDiversity_Abhorrent.stages.2.label>მრავალფეროვანი აზრები</IdeoDiversity_Abhorrent.stages.2.label>
+  <IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.0.description>ბოროტ რწმენებზე დაფუძნებულ რიტუალში მივიღე მონაწილეობა. მომეწონა თუ არა, არ უნდა გამეკეთებინა.</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.0.description>
+  <IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.0.label>ცრუ რიტუალი</IdeoDiversity_Abhorrent_ParticipatedInOthersRitual.stages.0.label>
+  <IdeoDiversity_Abhorrent_Social.stages.0.label>განსხვავებული იდეოლიგია</IdeoDiversity_Abhorrent_Social.stages.0.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.0.description>მე გარშემორტყმული ვარ კონსტრუქციებით, რომლებიც შეესაბამება იმ სტილს, რომელიც ასახავს ჩემს {ADJECTIVE} რწმენას. ჩემი რწმენა აისახება ამ სტილში: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.0.description>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.0.label>{ADJECTIVE} სტილის გარემო</IdeoDiversity_Abhorrent_StyleDominance.stages.0.label>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.1.description>მე გარშემორტყმული ვარ კონსტრუქციებით, რომლებიც არ ემთხვევა იმ სტილს, რომელიც ასახავს ჩემს {ADJECTIVE} რწმენას. ჩემი რწმენა აისახება ამ სტილში: {STYLES}</IdeoDiversity_Abhorrent_StyleDominance.stages.1.description>
+  <IdeoDiversity_Abhorrent_StyleDominance.stages.1.label>არა-_{ADJECTIVE} სტილის გარემო</IdeoDiversity_Abhorrent_StyleDominance.stages.1.label>
+  <IdeoDiversity_Abhorrent_Uniform.stages.0.description>ჩვენი საზოგადოება თავისუფალია ბოროტი აზრებისგან, როგორც უნდა იყოს.</IdeoDiversity_Abhorrent_Uniform.stages.0.description>
+  <IdeoDiversity_Abhorrent_Uniform.stages.0.label>ერთიანი აზრები</IdeoDiversity_Abhorrent_Uniform.stages.0.label>
+  <IdeoDiversity_Approved.stages.0.description>ზოგიერთს აქ განსხვავებული რწმენა აქვს. ეს ჯანსაღი საზოგადოების ნიშანია.</IdeoDiversity_Approved.stages.0.description>
+  <IdeoDiversity_Approved.stages.0.label>მრავალფეროვანი აზრები</IdeoDiversity_Approved.stages.0.label>
+  <IdeoDiversity_Approved.stages.1.description>ბევრს აქ განსხვავებული რწმენა აქვს. ეს ჯანსაღი საზოგადოების ნიშანია.</IdeoDiversity_Approved.stages.1.description>
+  <IdeoDiversity_Approved.stages.1.label>მრავალფეროვანი აზრები</IdeoDiversity_Approved.stages.1.label>
+  <IdeoDiversity_Approved.stages.2.description>თითქმის ყველა სხვა აქ განსხვავებული რწმენა აქვს. ეს ჯანსაღი საზოგადოების ნიშანია.</IdeoDiversity_Approved.stages.2.description>
+  <IdeoDiversity_Approved.stages.2.label>მრავალფეროვანი აზრები</IdeoDiversity_Approved.stages.2.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.0.description>ჩემი გარემო არის ძალიან {ADJECTIVE}. კარგია, მაგრამ მრავალფეროვანი გარემო უკეთესი იქნება.</IdeoDiversity_Approved_StyleDominance.stages.0.description>
+  <IdeoDiversity_Approved_StyleDominance.stages.0.label>{ADJECTIVE} შემოგარენი</IdeoDiversity_Approved_StyleDominance.stages.0.label>
+  <IdeoDiversity_Approved_StyleDominance.stages.1.description>ჩემი გარემო სულაც არ არის {ADJECTIVE}. მე მსიამოვნებს მრავალფეროვნება.</IdeoDiversity_Approved_StyleDominance.stages.1.description>
+  <IdeoDiversity_Approved_StyleDominance.stages.1.label>არა-_{ADJECTIVE} გარემო</IdeoDiversity_Approved_StyleDominance.stages.1.label>
+  <IdeoDiversity_Disapproved.stages.0.description>ჩემი სიმართლე ნათელია, მაგრამ ზოგიერთი ჩემ ირგვლივ ისეთი სულელია, რომ ამას ვერ ხედავს. არ მიყვარს მათი იდიოტიზმის დაქვემდებარება.</IdeoDiversity_Disapproved.stages.0.description>
+  <IdeoDiversity_Disapproved.stages.0.label>მრავალფეროვანი აზრები</IdeoDiversity_Disapproved.stages.0.label>
+  <IdeoDiversity_Disapproved.stages.1.description>ჩემი სიმართლე ნათელია, მაგრამ ჩემ გარშემო ბევრი ისეთი სულელია, რომ ვერ ხედავს ამას. არ მიყვარს მათი იდიოტიზმის დაქვემდებარება.</IdeoDiversity_Disapproved.stages.1.description>
+  <IdeoDiversity_Disapproved.stages.1.label>მრავალფეროვანი აზრები</IdeoDiversity_Disapproved.stages.1.label>
+  <IdeoDiversity_Disapproved.stages.2.description>ჩემი სიმართლე ნათელია, მაგრამ ჩემ ირგვლივ თითქმის ყველა ისეთი სულელია, რომ ამას ვერ ხედავს. არ მიყვარს მათი იდიოტიზმის დაქვემდებარება.</IdeoDiversity_Disapproved.stages.2.description>
+  <IdeoDiversity_Disapproved.stages.2.label>მრავალფეროვანი აზრები</IdeoDiversity_Disapproved.stages.2.label>
+  <IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.0.description>სხვა რწმენით დაფუძნებულ რიტუალში მივიღე მონაწილეობა. მომეწონა თუ არა, ეს არ იყო საუკეთესო რამ.</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.0.description>
+  <IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.0.label>ცრუ რიტუალი</IdeoDiversity_Disapproved_ParticipatedInOthersRitual.stages.0.label>
+  <IdeoDiversity_Disapproved_Social.stages.0.label>განსხვავებული იდეოლიგია</IdeoDiversity_Disapproved_Social.stages.0.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.0.description>მე გარშემორტყმული ვარ კონსტრუქციებით, რომლებიც შეესაბამება იმ სტილს, რომელიც ასახავს ჩემს {ADJECTIVE} რწმენას. ჩემი რწმენა აისახება ამ სტილში: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.0.description>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.0.label>{ADJECTIVE} სტილის გარემო</IdeoDiversity_Disapproved_StyleDominance.stages.0.label>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.1.description>მე გარშემორტყმული ვარ კონსტრუქციებით, რომლებიც არ ემთხვევა იმ სტილს, რომელიც ასახავს ჩემს {ADJECTIVE} რწმენას. ჩემი რწმენა აისახება ამ სტილში: {STYLES}</IdeoDiversity_Disapproved_StyleDominance.stages.1.description>
+  <IdeoDiversity_Disapproved_StyleDominance.stages.1.label>არა-_{ADJECTIVE} სტილის გარემო</IdeoDiversity_Disapproved_StyleDominance.stages.1.label>
+  <IdeoDiversity_Disapproved_Uniform.stages.0.description>ჩვენი საზოგადოება თავისუფალია სისულელეებისგან, როგორც უნდა იყოს.</IdeoDiversity_Disapproved_Uniform.stages.0.description>
+  <IdeoDiversity_Disapproved_Uniform.stages.0.label>ერთიანი აზრები</IdeoDiversity_Disapproved_Uniform.stages.0.label>
+  <IdeoDiversity_Exalted.stages.0.description>ზოგიერთს აქ განსხვავებული რწმენა აქვს. მე ძალიან ვამაყობ, რომ ასეთი საზოგადოების ნაწილი ვარ.</IdeoDiversity_Exalted.stages.0.description>
+  <IdeoDiversity_Exalted.stages.0.label>მრავალფეროვანი აზრები</IdeoDiversity_Exalted.stages.0.label>
+  <IdeoDiversity_Exalted.stages.1.description>ბევრს აქ განსხვავებული რწმენა აქვს. მე ძალიან ვამაყობ, რომ ასეთი საზოგადოების ნაწილი ვარ.</IdeoDiversity_Exalted.stages.1.description>
+  <IdeoDiversity_Exalted.stages.1.label>მრავალფეროვანი აზრები</IdeoDiversity_Exalted.stages.1.label>
+  <IdeoDiversity_Exalted.stages.2.description>თითქმის ყველა სხვა აქ განსხვავებული რწმენა აქვს. მე ძალიან ვამაყობ, რომ ასეთი საზოგადოების ნაწილი ვარ.</IdeoDiversity_Exalted.stages.2.description>
+  <IdeoDiversity_Exalted.stages.2.label>მრავალფეროვანი აზრები</IdeoDiversity_Exalted.stages.2.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.0.description>ჩემი გარემო არის ძალიან {ADJECTIVE}. კარგია, მაგრამ მრავალფეროვანი გარემო უკეთესი იქნება.</IdeoDiversity_Exalted_StyleDominance.stages.0.description>
+  <IdeoDiversity_Exalted_StyleDominance.stages.0.label>{ADJECTIVE} შემოგარენი</IdeoDiversity_Exalted_StyleDominance.stages.0.label>
+  <IdeoDiversity_Exalted_StyleDominance.stages.1.description>ჩემი გარემო სულაც არ არის {ADJECTIVE}. ძალიან ბედნიერი ვარ, რომ ამ მრავალფეროვანი საზოგადოების ნაწილი ვარ.</IdeoDiversity_Exalted_StyleDominance.stages.1.description>
+  <IdeoDiversity_Exalted_StyleDominance.stages.1.label>არა-_{ADJECTIVE} გარემო</IdeoDiversity_Exalted_StyleDominance.stages.1.label>
+  <IdeoDiversity_Horrible.stages.0.description>ჩემი სიმართლე იმდენად აშკარაა, მაგრამ ზოგიერთი ჩემს ირგვლივ ასე მოტყუებულია. საშინელებაა.</IdeoDiversity_Horrible.stages.0.description>
+  <IdeoDiversity_Horrible.stages.0.label>მრავალფეროვანი აზრები</IdeoDiversity_Horrible.stages.0.label>
+  <IdeoDiversity_Horrible.stages.1.description>ჩემი სიმართლე იმდენად აშკარაა, მაგრამ ჩემ გარშემო ბევრი ისეთი მოტყუებულია. საშინელებაა.</IdeoDiversity_Horrible.stages.1.description>
+  <IdeoDiversity_Horrible.stages.1.label>მრავალფეროვანი აზრები</IdeoDiversity_Horrible.stages.1.label>
+  <IdeoDiversity_Horrible.stages.2.description>ჩემი სიმართლე იმდენად აშკარაა, მაგრამ თითქმის ყველა ჩემ ირგვლივ ასე მოტყუებულია. საშინელებაა.</IdeoDiversity_Horrible.stages.2.description>
+  <IdeoDiversity_Horrible.stages.2.label>მრავალფეროვანი აზრები</IdeoDiversity_Horrible.stages.2.label>
+  <IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.0.description>ცრუ შეხედულებებზე დაფუძნებულ რიტუალში მივიღე მონაწილეობა. მომეწონა თუ არა, არ უნდა გამეკეთებინა.</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.0.description>
+  <IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.0.label>ცრუ რიტუალი</IdeoDiversity_Horrible_ParticipatedInOthersRitual.stages.0.label>
+  <IdeoDiversity_Horrible_Social.stages.0.label>განსხვავებული იდეოლიგია</IdeoDiversity_Horrible_Social.stages.0.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.0.description>მე გარშემორტყმული ვარ კონსტრუქციებით, რომლებიც შეესაბამება იმ სტილს, რომელიც ასახავს ჩემს {ADJECTIVE} რწმენას. ჩემი რწმენა აისახება ამ სტილში: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.0.description>
+  <IdeoDiversity_Horrible_StyleDominance.stages.0.label>{ADJECTIVE} სტილის გარემო</IdeoDiversity_Horrible_StyleDominance.stages.0.label>
+  <IdeoDiversity_Horrible_StyleDominance.stages.1.description>მე გარშემორტყმული ვარ კონსტრუქციებით, რომლებიც არ ემთხვევა იმ სტილს, რომელიც ასახავს ჩემს {ADJECTIVE} რწმენას. ჩემი რწმენა აისახება ამ სტილში: {STYLES}</IdeoDiversity_Horrible_StyleDominance.stages.1.description>
+  <IdeoDiversity_Horrible_StyleDominance.stages.1.label>არა-_{ADJECTIVE} სტილის გარემო</IdeoDiversity_Horrible_StyleDominance.stages.1.label>
+  <IdeoDiversity_Horrible_Uniform.stages.0.description>ჩვენი საზოგადოება თავისუფალია ბინძური ილუზიებისგან, როგორც ეს უნდა იყოს.</IdeoDiversity_Horrible_Uniform.stages.0.description>
+  <IdeoDiversity_Horrible_Uniform.stages.0.label>ერთიანი აზრები</IdeoDiversity_Horrible_Uniform.stages.0.label>
+  <IdeoDiversity_Respected.stages.0.description>ზოგიერთს აქ განსხვავებული რწმენა აქვს. ეს ჯანსაღი საზოგადოების მნიშვნელოვანი ნიშანია.</IdeoDiversity_Respected.stages.0.description>
+  <IdeoDiversity_Respected.stages.0.label>მრავალფეროვანი აზრები</IdeoDiversity_Respected.stages.0.label>
+  <IdeoDiversity_Respected.stages.1.description>ბევრს აქ განსხვავებული რწმენა აქვს. ეს ჯანსაღი საზოგადოების მნიშვნელოვანი ნიშანია.</IdeoDiversity_Respected.stages.1.description>
+  <IdeoDiversity_Respected.stages.1.label>მრავალფეროვანი აზრები</IdeoDiversity_Respected.stages.1.label>
+  <IdeoDiversity_Respected.stages.2.description>თითქმის ყველა სხვა აქ განსხვავებული რწმენა აქვს. ეს ჯანსაღი საზოგადოების მნიშვნელოვანი ნიშანია.</IdeoDiversity_Respected.stages.2.description>
+  <IdeoDiversity_Respected.stages.2.label>მრავალფეროვანი აზრები</IdeoDiversity_Respected.stages.2.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.0.description>ჩემი გარემო არის ძალიან {ADJECTIVE}. კარგია, მაგრამ მრავალფეროვანი გარემო უკეთესი იქნება.</IdeoDiversity_Respected_StyleDominance.stages.0.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.0.label>{ADJECTIVE} შემოგარენი</IdeoDiversity_Respected_StyleDominance.stages.0.label>
+  <IdeoDiversity_Respected_StyleDominance.stages.1.description>ჩემი გარემო სულაც არ არის {ADJECTIVE}. მოხარული ვარ, რომ ვარ მრავალფეროვანი საზოგადოების ნაწილი.</IdeoDiversity_Respected_StyleDominance.stages.1.description>
+  <IdeoDiversity_Respected_StyleDominance.stages.1.label>არა-_{ADJECTIVE} გარემო</IdeoDiversity_Respected_StyleDominance.stages.1.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.0.description>მე გარშემორტყმული ვარ კონსტრუქციებით, რომლებიც შეესაბამება იმ სტილს, რომელიც ასახავს ჩემს {ADJECTIVE} რწმენას. ჩემი რწმენა აისახება ამ სტილში: {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.0.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.0.label>{ADJECTIVE} სტილის გარემო</IdeoDiversity_Standard_StyleDominance.stages.0.label>
+  <IdeoDiversity_Standard_StyleDominance.stages.1.description>მე გარშემორტყმული ვარ არა-{ADJECTIVE} კონსტრუქციებით. ეს კარგია, მაგრამ მე მირჩევნია ვიყო უფრო {ADJECTIVE} გარემოში კონსტრუქციებით, რომლებიც შეესაბამება ჩემს {ADJECTIVE} რწმენას. ჩემი რწმენა აისახება ამ სტილში: {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.1.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.1.label>არა-_{ADJECTIVE} სტილის გარემო</IdeoDiversity_Standard_StyleDominance.stages.1.label>
+</LanguageData>

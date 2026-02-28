@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HospitalPatientRoomStats.stages.0.description>ეს საავადმყოფო საშინელებაა.</HospitalPatientRoomStats.stages.0.description>
+  <HospitalPatientRoomStats.stages.0.label>საშინელი საავადმყოფო</HospitalPatientRoomStats.stages.0.label>
+  <HospitalPatientRoomStats.stages.1.description>მოწყენილ საავადმყოფოში ვარ ჩარჩენილი.</HospitalPatientRoomStats.stages.1.description>
+  <HospitalPatientRoomStats.stages.1.label>მოსაწყენი საავადმყოფო</HospitalPatientRoomStats.stages.1.label>
+  <HospitalPatientRoomStats.stages.4.description>ჩემი საავადმყოფო ოდნავ შთამბეჭდავია. ცოტა უკეთ ვგრძნობ თავს.</HospitalPatientRoomStats.stages.4.description>
+  <HospitalPatientRoomStats.stages.4.label>ოდნავ შთამბეჭდავი საავადმყოფო</HospitalPatientRoomStats.stages.4.label>
+  <HospitalPatientRoomStats.stages.5.description>ჩემი საავადმყოფო შთამბეჭდავია. ეს მაძლევს თავს უკეთესად.</HospitalPatientRoomStats.stages.5.description>
+  <HospitalPatientRoomStats.stages.5.label>გარკვეულწილად შთამბეჭდავი საავადმყოფო</HospitalPatientRoomStats.stages.5.label>
+  <HospitalPatientRoomStats.stages.6.description>ჩემი საავადმყოფო ძალიან შთამბეჭდავია. ეს მაძლევს თავს უკეთესად.</HospitalPatientRoomStats.stages.6.description>
+  <HospitalPatientRoomStats.stages.6.label>ძალიან შთამბეჭდავი საავადმყოფო</HospitalPatientRoomStats.stages.6.label>
+  <HospitalPatientRoomStats.stages.7.description>ჩემი საავადმყოფო ძალიან შთამბეჭდავია. ეს უკვე უკეთესად მაგრძნობინებს თავს.</HospitalPatientRoomStats.stages.7.description>
+  <HospitalPatientRoomStats.stages.7.label>ძალიან შთამბეჭდავი საავადმყოფო</HospitalPatientRoomStats.stages.7.label>
+  <HospitalPatientRoomStats.stages.8.description>ჩემი საავადმყოფო წარმოუდგენლად შთამბეჭდავია. ეს უკვე უკეთესად მაგრძნობინებს თავს.</HospitalPatientRoomStats.stages.8.description>
+  <HospitalPatientRoomStats.stages.8.label>წარმოუდგენლად შთამბეჭდავი საავადმყოფო</HospitalPatientRoomStats.stages.8.label>
+  <HospitalPatientRoomStats.stages.9.description>ჩემი საავადმყოფო მშვენიერია! ეს უკვე უკეთესად მაგრძნობინებს თავს.</HospitalPatientRoomStats.stages.9.description>
+  <HospitalPatientRoomStats.stages.9.label>საოცრად შთამბეჭდავი საავადმყოფო</HospitalPatientRoomStats.stages.9.label>
+  <PrisonBarracks.stages.0.description>ჩემი ციხის ყაზარმა საშინელი ადგილია.</PrisonBarracks.stages.0.description>
+  <PrisonBarracks.stages.0.label>საშინელი ყაზარმები</PrisonBarracks.stages.0.label>
+  <PrisonBarracks.stages.1.description>მე ვცხოვრობ მოსაწყენ ბარაკში.</PrisonBarracks.stages.1.description>
+  <PrisonBarracks.stages.1.label>მოსაწყენი ყაზარმები</PrisonBarracks.stages.1.label>
+  <PrisonBarracks.stages.4.description>ჩემი ციხის ყაზარმები ოდნავ შთამბეჭდავია.</PrisonBarracks.stages.4.description>
+  <PrisonBarracks.stages.4.label>ოდნავ შთამბეჭდავი ყაზარმები</PrisonBarracks.stages.4.label>
+  <PrisonBarracks.stages.5.description>ჩემი ციხის ყაზარმები შთამბეჭდავია. მე მომწონს.</PrisonBarracks.stages.5.description>
+  <PrisonBarracks.stages.5.label>გარკვეულწილად შთამბეჭდავი ყაზარმები</PrisonBarracks.stages.5.label>
+  <PrisonBarracks.stages.6.description>ჩემი ციხის ყაზარმები ძალიან შთამბეჭდავია. მე მომწონს.</PrisonBarracks.stages.6.description>
+  <PrisonBarracks.stages.6.label>ძალიან შთამბეჭდავი ყაზარმები</PrisonBarracks.stages.6.label>
+  <PrisonBarracks.stages.7.description>ჩემი ციხის ყაზარმები ძალიან შთამბეჭდავია. არ მჯერა, რომ ასეთ ადგილას მაკავებენ.</PrisonBarracks.stages.7.description>
+  <PrisonBarracks.stages.7.label>ძალიან შთამბეჭდავი ყაზარმები</PrisonBarracks.stages.7.label>
+  <PrisonBarracks.stages.8.description>ჩემი ციხის ყაზარმები წარმოუდგენლად შთამბეჭდავია. არ მჯერა, რომ ასეთ ადგილას მაკავებენ.</PrisonBarracks.stages.8.description>
+  <PrisonBarracks.stages.8.label>წარმოუდგენლად შთამბეჭდავი ყაზარმები</PrisonBarracks.stages.8.label>
+  <PrisonBarracks.stages.9.description>ჩემი ციხის ყაზარმები მშვენიერია! არ მჯერა, რომ ასეთ ადგილას მაკავებენ.</PrisonBarracks.stages.9.description>
+  <PrisonBarracks.stages.9.label>საოცრად შთამბეჭდავი ყაზარმები</PrisonBarracks.stages.9.label>
+  <PrisonCell.stages.0.description>ჩემი ციხის საკანი საშინელი ადგილია.</PrisonCell.stages.0.description>
+  <PrisonCell.stages.0.label>საშინელი ციხის საკანი</PrisonCell.stages.0.label>
+  <PrisonCell.stages.2.description>ჩემი ციხის საკანი მოსაწყენია. მაინც, შეიძლება უარესიც იყოს.</PrisonCell.stages.2.description>
+  <PrisonCell.stages.2.label>უღიმღამო ციხის საკანი</PrisonCell.stages.2.label>
+  <PrisonCell.stages.3.description>ჩემი ციხის საკანი საკმაოდ წესიერია.</PrisonCell.stages.3.description>
+  <PrisonCell.stages.3.label>წესიერი ციხის საკანი</PrisonCell.stages.3.label>
+  <PrisonCell.stages.4.description>ჩემი ციხის საკანი კარგი ადგილია.</PrisonCell.stages.4.description>
+  <PrisonCell.stages.4.label>ოდნავ შთამბეჭდავი ციხის საკანი</PrisonCell.stages.4.label>
+  <PrisonCell.stages.5.description>ჩემი ციხის საკანი შთამბეჭდავია. არ მჯერა, რომ ასეთ ოთახში მაკავებენ.</PrisonCell.stages.5.description>
+  <PrisonCell.stages.5.label>შთამბეჭდავი ციხის საკანი</PrisonCell.stages.5.label>
+  <PrisonCell.stages.6.description>ჩემი ციხის საკანი ძალიან შთამბეჭდავია. არ მჯერა, რომ ასეთ ოთახში მაკავებენ. მე მიყვარს!</PrisonCell.stages.6.description>
+  <PrisonCell.stages.6.label>ძალიან შთამბეჭდავი ციხის საკანი</PrisonCell.stages.6.label>
+  <PrisonCell.stages.7.description>ჩემი ციხის საკანი ძალიან შთამბეჭდავია. არ მჯერა, რომ ასეთ ოთახში მაკავებენ. მე მიყვარს!</PrisonCell.stages.7.description>
+  <PrisonCell.stages.7.label>უაღრესად შთამბეჭდავი ციხის საკანი</PrisonCell.stages.7.label>
+  <PrisonCell.stages.8.description>ჩემი ციხის საკანი წარმოუდგენლად შთამბეჭდავია. ეს არის საუკეთესო ადგილი ოდესმე!</PrisonCell.stages.8.description>
+  <PrisonCell.stages.8.label>წარმოუდგენლად შთამბეჭდავი ციხის საკანი</PrisonCell.stages.8.label>
+  <PrisonCell.stages.9.description>ჩემი ციხის საკანი არის საუკეთესო ადგილი, რომელიც შეიძლება წარმოიდგინო. სამუდამოდ შემიძლია აქ დარჩენა.</PrisonCell.stages.9.description>
+  <PrisonCell.stages.9.label>საოცრად შთამბეჭდავი ციხის საკანი</PrisonCell.stages.9.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HeavyBridge.description>ძირითადი ხიდის უფრო ძლიერი ვერსია, რომელიც მხარს უჭერს მძიმე კონსტრუქციებს თავზე. ამით შეგიძლიათ წყალზე ააგოთ მთელი კოლონია.</HeavyBridge.description>
+  <HeavyBridge.label>მძიმე ხიდი</HeavyBridge.label>
+  <Substructure.description>A lightweight truss structure with flooring on top that forms the deck of a gravship. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine.\n\nGravship substructure can be removed using the 'remove foundation' designator.</Substructure.description>
+  <Substructure.label>საფლავის სუბსტრუქტურა</Substructure.label>
+</LanguageData>

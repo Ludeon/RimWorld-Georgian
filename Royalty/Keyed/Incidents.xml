@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <LetterLabelTributeCollectorArrival>სამეფო ხარკის შემგროვებელი</LetterLabelTributeCollectorArrival>
+  <LetterTributeCollectorArrival>{FACTION_name}-ის სამეფო ხარკის შემგროვებელი ახლოვდება.\n\nისინი მიიღებენ ნებისმიერ პატიმარს და ოქროს, რომელსაც თქვენ შესთავაზებთ ხარკის სახით. ვინც ხარკს გადასცემს, მიიღებს {FACTION_royalFavorLabel}-ს ტრადიციის შესასრულებლად და ზედა სახლების მხარდასაჭერად.\n\nშეგიძლიათ მოელით, რომ ხარკის შემგროვებელი მოვა წელიწადში დაახლოებით ორჯერ, თუ {FACTION_name}-ის მტერი არ იქნებით.</LetterTributeCollectorArrival>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HarbingerTreeSpawn.label>საწინდარი ხე</HarbingerTreeSpawn.label>
+  <HarbingerTreeSpawn.letterLabel>ხის ამონაყარი</HarbingerTreeSpawn.letterLabel>
+  <HarbingerTreeSpawn.letterText>A harbinger tree has sprouted nearby. These gnarled trees grow flesh-like coverings, and can feed on corpses and raw meat placed nearby. If well fed, the grove will continue to grow.\n\nIn a tribal myth, these trees are the emissaries of a shapeless god who rules an endless black ocean. The myth ends after the shapeless god reaches up from the water and tears down the sky.</HarbingerTreeSpawn.letterText>
+  <MonolithMigration.label>უცნაური სიგნალი</MonolithMigration.label>
+  <MonolithMigration.letterLabel>უცნაური სიგნალი</MonolithMigration.letterLabel>
+  <MonolithMigration.letterText>თქვენი კოლონისტები გრძნობენ უცნაურ ფსიქიკურ სიგნალს. შესაძლებელია სიგნალზე რეაგირება, თუმცა გაურკვეველია რა მოხდება, თუ ამას აკეთებთ.</MonolithMigration.letterText>
+  <RefugeePodCrash_Ghoul.label>ghoul სატრანსპორტო pod ავარია</RefugeePodCrash_Ghoul.label>
+  <VoidCuriosity.label>ბათილი ცნობისმოყვარეობა</VoidCuriosity.label>
+  <VoidCuriosity.letterLabel>უქმად ცნობისმოყვარეობა</VoidCuriosity.letterLabel>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallCochlearImplant.description>დააინსტალირეთ კოხლეარული იმპლანტი.</InstallCochlearImplant.description>
+  <InstallCochlearImplant.jobString>კოხლეარული იმპლანტის დაყენება.</InstallCochlearImplant.jobString>
+  <InstallCochlearImplant.label>კოხლეარული იმპლანტის დაყენება</InstallCochlearImplant.label>
+  <InstallJoywire.description>დააინსტალირეთ joywire.</InstallJoywire.description>
+  <InstallJoywire.jobString>Joywire-ის დაყენება.</InstallJoywire.jobString>
+  <InstallJoywire.label>დააინსტალირეთ joywire</InstallJoywire.label>
+  <InstallPainstopper.description>დააინსტალირეთ საღებარი.</InstallPainstopper.description>
+  <InstallPainstopper.jobString>საღებავების დაყენება.</InstallPainstopper.jobString>
+  <InstallPainstopper.label>დააინსტალირეთ საცობი</InstallPainstopper.label>
+  <InstallPowerClaw.description>დააინსტალირეთ დენის კლანჭი.</InstallPowerClaw.description>
+  <InstallPowerClaw.jobString>დენის კლანჭის დაყენება.</InstallPowerClaw.jobString>
+  <InstallPowerClaw.label>დენის კლანჭის დაყენება</InstallPowerClaw.label>
+  <InstallSimpleProstheticArm.description>დააინსტალირეთ პროთეზის მკლავი.</InstallSimpleProstheticArm.description>
+  <InstallSimpleProstheticArm.jobString>მკლავის პროთეზის დაყენება.</InstallSimpleProstheticArm.jobString>
+  <InstallSimpleProstheticArm.label>მკლავის პროთეზის დაყენება</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticHeart.description>დააინსტალირეთ პროთეზის გული.</InstallSimpleProstheticHeart.description>
+  <InstallSimpleProstheticHeart.jobString>გულის პროთეზის დაყენება.</InstallSimpleProstheticHeart.jobString>
+  <InstallSimpleProstheticHeart.label>დააინსტალირეთ პროთეზის გული</InstallSimpleProstheticHeart.label>
+  <InstallSimpleProstheticLeg.description>დააინსტალირეთ ფეხის პროთეზი.</InstallSimpleProstheticLeg.description>
+  <InstallSimpleProstheticLeg.jobString>ფეხის პროთეზის დაყენება.</InstallSimpleProstheticLeg.jobString>
+  <InstallSimpleProstheticLeg.label>დააინსტალირეთ ფეხის პროთეზი</InstallSimpleProstheticLeg.label>
+  <RemovePainstopper.description>ამოიღეთ საღებარი.</RemovePainstopper.description>
+  <RemovePainstopper.jobString>საღებავების მოცილება.</RemovePainstopper.jobString>
+  <RemovePainstopper.label>ამოიღეთ ტკივილგამაყუჩებელი</RemovePainstopper.label>
+</LanguageData>

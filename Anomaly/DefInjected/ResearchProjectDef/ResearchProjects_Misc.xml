@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SecurityDoor.description>ააშენეთ ძლიერად გამაგრებული კარი. ის ნელა იხსნება და საჭიროებს ძალას, მაგრამ ძალიან ძლიერია. ეს კარგი არჩევანია, თუ გსურთ რაიმე სახიფათო გამორიცხვა - ან შიგნით.</SecurityDoor.description>
+  <SecurityDoor.label>უსაფრთხოების კარი</SecurityDoor.label>
+  <TurretPack.description>შექმენით ტარებადი პაკეტი, რომელიც მომხმარებელს საშუალებას აძლევს განათავსოს ბატარეით მომუშავე კოშკი.</TurretPack.description>
+  <TurretPack.label>კოშკის შეკვრა</TurretPack.label>
+</LanguageData>

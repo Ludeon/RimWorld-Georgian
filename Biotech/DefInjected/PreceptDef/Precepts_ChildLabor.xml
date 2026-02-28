@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChildLabor_Disapproved.description>ბავშვობა წმინდაა. ბავშვებს უნდა დავუშვათ ბავშვები.</ChildLabor_Disapproved.description>
+  <ChildLabor_Disapproved.label>არ მოიწონა</ChildLabor_Disapproved.label>
+  <ChildLabor_Encouraged.description>ბავშვები ქმნიან ხასიათს სამუშაოს მეშვეობით. ყველასთვის მნიშვნელოვანია წვლილი შეიტანოს.</ChildLabor_Encouraged.description>
+  <ChildLabor_Encouraged.label>წაახალისა</ChildLabor_Encouraged.label>
+</LanguageData>

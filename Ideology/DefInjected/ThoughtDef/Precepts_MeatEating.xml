@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteMeat_Abhorrent.stages.0.description>ხორცი უნდა მეჭამა. ეს იყო ყველაფრის საზიზღარი დარღვევა, რაც მჯერა.</AteMeat_Abhorrent.stages.0.description>
+  <AteMeat_Abhorrent.stages.0.label>შეჭამა ხორცი</AteMeat_Abhorrent.stages.0.label>
+  <AteMeat_Disapproved.stages.0.description>ხორცი უნდა მეჭამა. ეს არ არის ის, რასაც მე ვამტკიცებ.</AteMeat_Disapproved.stages.0.description>
+  <AteMeat_Disapproved.stages.0.label>შეჭამა ხორცი</AteMeat_Disapproved.stages.0.label>
+  <AteMeat_Horrible.stages.0.description>ხორცი უნდა მეჭამა. ეს იყო ჩემი რწმენის საშინელი დარღვევა.</AteMeat_Horrible.stages.0.description>
+  <AteMeat_Horrible.stages.0.label>შეჭამა ხორცი</AteMeat_Horrible.stages.0.label>
+  <AteMeat_Know_Abhorrent.stages.0.label>შეჭამა ხორცი</AteMeat_Know_Abhorrent.stages.0.label>
+  <AteMeat_Know_Disapproved.stages.0.label>შეჭამა ხორცი</AteMeat_Know_Disapproved.stages.0.label>
+  <AteMeat_Know_Horrible.stages.0.label>შეჭამა ხორცი</AteMeat_Know_Horrible.stages.0.label>
+  <AteNonMeat_Abhorrent.stages.0.description>მე ვჭამე ხორცის გარეშე. ეს იყო ხორცისმჭამელთა დიეტის საზიზღარი დარღვევა. ზოგიერთი კვერცხი, რძე ან დამუშავებული საკვები ბოსტნეულის გარეშე ასევე კარგი იქნებოდა.</AteNonMeat_Abhorrent.stages.0.description>
+  <AteNonMeat_Abhorrent.stages.0.label>ჭამდა ვეგეტარიანული</AteNonMeat_Abhorrent.stages.0.label>
+  <AteNonMeat_Disapproved.stages.0.description>მე ვჭამე ხორცის გარეშე. ეს იყო მიუღებელი გადახრა მტაცებლის სწორი კვებისგან. ზოგიერთი კვერცხი, რძე ან დამუშავებული საკვები ბოსტნეულის გარეშე ან ასევე კარგი იქნებოდა.</AteNonMeat_Disapproved.stages.0.description>
+  <AteNonMeat_Disapproved.stages.0.label>ჭამდა ვეგეტარიანული</AteNonMeat_Disapproved.stages.0.label>
+  <AteNonMeat_Horrible.stages.0.description>მე ვჭამე ხორცის გარეშე. ეს იყო ხორცისმჭამელთა სწორი დიეტის საშინელი დარღვევა. ზოგიერთი კვერცხი, რძე ან დამუშავებული საკვები ბოსტნეულის გარეშე ასევე კარგი იქნებოდა.</AteNonMeat_Horrible.stages.0.description>
+  <AteNonMeat_Horrible.stages.0.label>ჭამდა ვეგეტარიანული</AteNonMeat_Horrible.stages.0.label>
+  <AteNonMeat_Know_Abhorrent.stages.0.label>ჭამდა ვეგეტარიანული</AteNonMeat_Know_Abhorrent.stages.0.label>
+  <AteNonMeat_Know_Disapproved.stages.0.label>ჭამდა ვეგეტარიანული</AteNonMeat_Know_Disapproved.stages.0.label>
+  <AteNonMeat_Know_Horrible.stages.0.label>ჭამდა ვეგეტარიანული</AteNonMeat_Know_Horrible.stages.0.label>
+</LanguageData>

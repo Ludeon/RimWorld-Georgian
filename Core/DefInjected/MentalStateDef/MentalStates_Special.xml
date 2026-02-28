@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BerserkMechanoid.baseInspectLine>აგრესიული განაჩენი აერია</BerserkMechanoid.baseInspectLine>
+  <BerserkMechanoid.label>აგრესია განსჯის შეჯახება</BerserkMechanoid.label>
+  <CocoonDisturbed.baseInspectLine>განრისხდა: კოკონი შეწუხდა</CocoonDisturbed.baseInspectLine>
+  <CocoonDisturbed.label>კოკონი შეწუხდა</CocoonDisturbed.label>
+  <Manhunter.baseInspectLine>შეშლილი: Manhunter</Manhunter.baseInspectLine>
+  <Manhunter.beginLetter>{0} კაცის მონადირე გახდა!</Manhunter.beginLetter>
+  <Manhunter.label>კაცის მონადირე</Manhunter.label>
+  <PanicFlee.baseInspectLine>ფსიქიკური მდგომარეობა: პანიკაში გაქცევა</PanicFlee.baseInspectLine>
+  <PanicFlee.beginLetter>{0} პანიკურად გარბის.</PanicFlee.beginLetter>
+  <PanicFlee.beginLetterLabel>გაქცევა</PanicFlee.beginLetterLabel>
+  <PanicFlee.label>პანიკის გაქცევა</PanicFlee.label>
+  <Roaming.baseInspectLine>ფსიქიკური მდგომარეობა: როუმინგი</Roaming.baseInspectLine>
+  <Roaming.label>როუმინგი</Roaming.label>
+  <SocialFighting.baseInspectLine>ფსიქიკური მდგომარეობა: სოციალური ბრძოლა</SocialFighting.baseInspectLine>
+  <SocialFighting.label>სოციალური ბრძოლა</SocialFighting.label>
+  <WanderConfused.baseInspectLine>ფსიქიკური მდგომარეობა: დაბნეული და მოხეტიალე</WanderConfused.baseInspectLine>
+  <WanderConfused.beginLetter>{0} გაფუჭდა და დაბნეული დადის.</WanderConfused.beginLetter>
+  <WanderConfused.beginLetterLabel>დაბნეულობა</WanderConfused.beginLetterLabel>
+  <WanderConfused.label>დაბნეული ხეტიალი</WanderConfused.label>
+</LanguageData>

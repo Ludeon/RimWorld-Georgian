@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <ChooseHeir>აირჩიეთ {HOLDER_nameIndef}-ის ახალი მემკვიდრე:</ChooseHeir>
+  <MakeHeirConfirm>თქვენ აპირებთ {0_name}-ისგან მიღებული {HOLDER_nameIndef} ტიტულის მემკვიდრის შეცვლას. ეს მოითხოვს ძეგლის შეზღუდულ დროში აშენებას, ახალი მემკვიდრეობის კურთხევას.</MakeHeirConfirm>
+  <MakeHeirPreviousHeirWarning>ეს გააფუჭებს {HOLDER_possessive}-ის ამჟამინდელ მემკვიდრეს {HEIR_nameFull}-ს.</MakeHeirPreviousHeirWarning>
+
+  
+  <CommandCallRoyalAid>დახმარების გამოძახება...</CommandCallRoyalAid>
+  <CommandCallRoyalAidDesc>დახმარებისთვის გამოიძახეთ სპეციალური ნებართვის გამოყენებით.\n\nდახმარების თითოეული სახეობა შეიძლება გამოყენებულ იქნას ერთხელ უფასოდ, რის შემდეგაც თქვენ უნდა დაელოდოთ მის ხელახლა გამოყენებას. თქვენ შეგიძლიათ გამოიყენოთ დახმარება უფრო ხშირად, მაგრამ ღირს ამის გაკეთება.</CommandCallRoyalAidDesc>
+  <CommandCallRoyalAidLodger>სტუმრები არ გამოიყენებენ დახმარების ნებართვას.</CommandCallRoyalAidLodger>
+  <CommandCallRoyalAidSlave>მონებს არ შეუძლიათ თავიანთი ნებართვების გამოყენება.</CommandCallRoyalAidSlave>
+  <CommandCallRoyalAidFactionHostile>თქვენი ურთიერთობა {FACTION_name}-თან მტრულია.</CommandCallRoyalAidFactionHostile>
+  <CommandCallRoyalAidFreeOption>უფასო</CommandCallRoyalAidFreeOption>
+  <CommandCallRoyalAidFavorOption>დარჩა {0} დღე, ღირს {1} {FACTION_royalFavorLabel}</CommandCallRoyalAidFavorOption>
+  <CommandCallRoyalAidWarningNonHostileFactions>თქვენ აპირებთ დახმარების მოწოდებას, მაგრამ არიან ადამიანები ფრაქციებიდან, რომელთა მიმართაც {0_name} არ არის მტრულად განწყობილი. ნებისმიერი ჯარისკაცი, რომელსაც თქვენ დაურეკავთ, არ დაესხმება მათ თავს: {1}</CommandCallRoyalAidWarningNonHostileFactions>
+  <CommandCallRoyalAidNotEnoughFavor>არ არის საკმარისი პატივი.</CommandCallRoyalAidNotEnoughFavor>
+  <CommandCallRoyalAidMapUnreachable>{FACTION_name} ვერ აღწევს ამ ზონას.</CommandCallRoyalAidMapUnreachable>
+  <CommandCallRoyalAidInvalidMap>აქ დახმარების გამოძახება არ შეიძლება.</CommandCallRoyalAidInvalidMap>
+  
+  
+  <CommandCallLaborers>დაუძახეთ მუშებს</CommandCallLaborers>
+  <CommandCallLaborersDesc>გამოიყენეთ სპეციალური ნებართვა თქვენი მოკავშირის მშრომელთა ჯგუფის გამოსაძახებლად. ამ მუშებს შეუძლიათ მხოლოდ შრომითი დავალებების შესრულება, მაგრამ თქვენ შეგიძლიათ აკონტროლოთ ისინი, თითქოს ისინი თქვენივე კოლონისტები იყვნენ. თქვენ უნდა შეინახოთ ისინი უსაფრთხოდ.</CommandCallLaborersDesc>
+  <CommandOnCooldown>გაგრილებაზე. დარჩა {0} დღე.</CommandOnCooldown>
+  <CommandCallLaborersNumLaborers>{0} მუშები</CommandCallLaborersNumLaborers>
+
+  
+  <CommandPsycastWouldExceedEntropy>ნერვული სიცხე გადმოიღვრება. გამორთეთ ნერვული სითბოს შემზღუდველი გადასაცემად.</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} მოიხმარს {0} ფსიფოკუსს, მაგრამ {CASTERNAME}-ს აქვს მხოლოდ {1}.</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME}-ს სჭირდება {0} ფსიფოკუსი {1}-ის გონებრივი შესვენების შესაჩერებლად, მაგრამ {CASTERNAME}-ს აქვს მხოლოდ {2} ფსიფოკუსი.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastHigherLevelPsylinkRequired>საჭიროა {0} დონის ფსილინკი.</CommandPsycastHigherLevelPsylinkRequired>
+  <CommandPsycastZeroPsychicSensitivity>ნულოვანი ფსიქიკური მგრძნობელობა.</CommandPsycastZeroPsychicSensitivity>
+  <CommandPsycastPawnIsUnconscious>უნარის მომხმარებელი უგონო მდგომარეობაშია.</CommandPsycastPawnIsUnconscious>
+  <CommandPsycastLowPsyfocus>საჭიროა მინიმუმ {0} ფსიფოკუსი ამის გადასაღებად.</CommandPsycastLowPsyfocus>
+  <CommandPsycastInsanityImmune>ფსიქიკური სიგიჟე იმუნური.</CommandPsycastInsanityImmune>
+  <NeuralHeatLetter>H</NeuralHeatLetter>
+  <PsyfocusLetter>P</PsyfocusLetter>
+  <IneffectivePsychicImmune>ფსიქიკური სიგიჟე იმუნური</IneffectivePsychicImmune>
+
+  
+  <CommandSelectMonumentMarker>აირჩიეთ ძეგლი</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarkerDesc>აირჩიეთ ძეგლის მარკერი, რომელსაც ეკუთვნის.</CommandSelectMonumentMarkerDesc>
+
+  
+  <CommandWarnInBuildingRadius>აშენების რადიუსის გაფრთხილება</CommandWarnInBuildingRadius>
+  <CommandWarnInBuildingRadiusDesc>თუ ჩართულია, ეს ობიექტი წითელ ხაზს გაუსვამს შენობებს, რომლებსაც თქვენ განათავსებთ არქიტექტურის მენიუს გამოყენებით, თუ ისინი ხელს შეუშლიან მედიტაციას ძალიან ახლოს ყოფნის გამო.\n\nშეგიძლიათ გამორთოთ, თუ არ აპირებთ მის გამოყენებას მედიტაციისთვის.</CommandWarnInBuildingRadiusDesc>
+  
+  
+  <ChooseRoyalPermit>აირჩიეთ ნებართვა</ChooseRoyalPermit>
+  <ChooseRoyalPermit_Desc>გახსენით ნებართვის შერჩევის ეკრანი და აირჩიეთ ახალი ნებართვა.</ChooseRoyalPermit_Desc>
+
+  <CommandLeaveBestowingCeremony>დატოვეთ დაჯილდოების ცერემონია</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremonyDesc>შეწყვიტე მონაწილეობა მინიჭების ცერემონიაში.</CommandLeaveBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremony>გააუქმეთ მინიჭების ცერემონია</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremonyDesc>დაუყოვნებლივ დაასრულეთ მინიჭების ცერემონია. გამცემი წავა, მაგრამ ცერემონიის შესრულების კიდევ ერთი შესაძლებლობა მალე გაჩნდება.</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyConfirm>დარწმუნებული ხართ, რომ გსურთ გააუქმოთ დაჯილდოების ცერემონია?</CommandCancelBestowingCeremonyConfirm>
+</LanguageData>

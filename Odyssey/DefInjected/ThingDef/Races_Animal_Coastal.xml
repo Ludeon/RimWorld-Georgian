@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HermitCrab.description>სანაპირო ზოლის გასწვრივ ნაპოვნი პატარა კიბოსნაირნი. ჰერმიტი კიბორჩხალები თავის დასაცავად ასუფთავებენ სხვადასხვა ჭურვებს.</HermitCrab.description>
+  <HermitCrab.label>მოღუშული კიბორჩხალა</HermitCrab.label>
+  <Otter.description>მხიარული საზღვაო არსება. ისინი იყენებენ ისეთ იარაღებს, როგორიცაა ქანები ღია მოლუსკის გასატეხად.</Otter.description>
+  <Otter.label>წავი</Otter.label>
+  <Seal.description>ზღვის ძუძუმწოვარი გამარტივებული სხეულით, რომელიც დახელოვნებულია თევზზე ნადირობისას. მიუხედავად იმისა, რომ სელაპები ხმელეთზე ნელია, წყალში შედარებით სწრაფია.</Seal.description>
+  <Seal.label>ბეჭედი</Seal.label>
+  <SeaLion.description>დიდი და ჭკვიანი ზღვის ცხოველი. მამრ ზღვის ლომებს კისერზე სქელი ბეწვი აქვთ, რომელიც ლომის მანეას იწვევს.</SeaLion.description>
+  <SeaLion.label>ზღვის ლომი</SeaLion.label>
+  <SeaTurtle.description>დიდი ზღვის კუ. მათი გამარტივებული ჭურვი და ძლიერი ფლიპერები მათ შესანიშნავ მოცურავეებად აქცევს.</SeaTurtle.description>
+  <SeaTurtle.label>ზღვის კუ</SeaTurtle.label>
+  <StoneCrab.description>ძლიერი კიბოსნაირნი ძლიერი კლანჭებით. ქვის კიბორჩხალები ზოგიერთ რეგიონში დელიკატესია.</StoneCrab.description>
+  <StoneCrab.label>ქვის კიბორჩხალა</StoneCrab.label>
+  <Walrus.description>დიდი საზღვაო ცხოველი ტუშებითა და ულვაშებით. მისი მნიშვნელოვანი მოცულობა საშუალებას აძლევს მას გადარჩეს უკიდურესად ცივ გარემოში. ხმელეთზე ნელია, წყალში შედარებით სწრაფია.</Walrus.description>
+  <Walrus.label>walrus</Walrus.label>
+</LanguageData>

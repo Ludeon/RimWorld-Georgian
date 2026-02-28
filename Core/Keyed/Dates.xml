@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <ClockTime>დრო</ClockTime>
+  <ClockDate>თარიღი</ClockDate>
+  <ClockYear>წელი</ClockYear>
+  <DateReadoutTip>თქვენი ჩამოსვლიდან გავიდა დღეები: {0}\nმიმდინარე ოთხკუთხედი: {4}\nლოკალური სეზონი: {2}\n\nწელი დაყოფილია 4 ოთხად {3} დღის თითოეულში. ოთხკუთხედები ყველგან ერთნაირია, ხოლო სეზონები სხვადასხვა ადგილას.\n\nადგილობრივი სეზონები თითოეული ოთხკუთხედისთვის:\n{5}</DateReadoutTip>
+
+  <FullDate>{0} {1}-დან, {2}</FullDate>
+  <ShortDate>{0} {1} {2}</ShortDate>
+  <MonthYearDate>{0}, {1}</MonthYearDate>
+  <DateReadout>{0} {1}-დან, {2}</DateReadout>
+  <SeasonFullDate>{0} {1}-დან</SeasonFullDate>
+  <WholeYear>მთელი წელი</WholeYear>
+  
+</LanguageData>

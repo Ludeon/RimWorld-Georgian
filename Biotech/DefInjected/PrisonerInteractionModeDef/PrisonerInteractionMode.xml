@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bloodfeed.description>როდესაც სისხლის მიმწოდებლის ჰემოგენის დონე დაბალია, ისინი შეიძლება იკვებებოდეს ამ პატიმრით. სხვა პატიმრებს, რომლებიც სისხლის მიმწოდებლები არიან, ასევე შეუძლიათ ამ პატიმრით იკვებონ, თუ ისინი იმავე საკანში არიან.</Bloodfeed.description>
+  <Bloodfeed.label>სისხლის კვება</Bloodfeed.label>
+  <HemogenFarm.description>ჰემოგენის პაკეტების ამოღების ოპერაცია ავტომატურად დაიდება რიგში ამ პატიმარზე, როდესაც ეს შეიძლება გაკეთდეს მათი მოკვლის გარეშე. ოპერაციას ექიმი ჩაატარებს.</HemogenFarm.description>
+  <HemogenFarm.label>ჰემოგენის ფერმა</HemogenFarm.label>
+</LanguageData>

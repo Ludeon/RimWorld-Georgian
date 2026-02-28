@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Child.label>შვილო</Child.label>
+  <Child.labelFemale>ქალიშვილი</Child.labelFemale>
+  <Cousin.label>ბიძაშვილი</Cousin.label>
+  <CousinOnceRemoved.label>ბიძაშვილი ერთხელ მოიხსნა</CousinOnceRemoved.label>
+  <Grandchild.label>შვილიშვილი</Grandchild.label>
+  <Grandchild.labelFemale>შვილიშვილი</Grandchild.labelFemale>
+  <GrandnephewOrGrandniece.label>შვილიშვილი</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>შვილიშვილი</GrandnephewOrGrandniece.labelFemale>
+  <Grandparent.label>ბაბუა</Grandparent.label>
+  <Grandparent.labelFemale>ბებია</Grandparent.labelFemale>
+  <GranduncleOrGrandaunt.label>ბებია</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>ბებია</GranduncleOrGrandaunt.labelFemale>
+  <GreatGrandchild.label>შვილიშვილი</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>შვილიშვილი</GreatGrandchild.labelFemale>
+  <GreatGrandparent.label>დიდი ბაბუა</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>დიდი ბებია</GreatGrandparent.labelFemale>
+  <HalfSibling.label>ძმაო</HalfSibling.label>
+  <HalfSibling.labelFemale>დას</HalfSibling.labelFemale>
+  <Kin.label>ნათესავი</Kin.label>
+  <NephewOrNiece.label>ძმისშვილი</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>დისშვილი</NephewOrNiece.labelFemale>
+  <Parent.label>მამა</Parent.label>
+  <Parent.labelFemale>დედა</Parent.labelFemale>
+  <SecondCousin.label>მეორე ბიძაშვილი</SecondCousin.label>
+  <Sibling.label>ძმაო</Sibling.label>
+  <Sibling.labelFemale>დას</Sibling.labelFemale>
+  <UncleOrAunt.label>ბიძა</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>დეიდა</UncleOrAunt.labelFemale>
+</LanguageData>

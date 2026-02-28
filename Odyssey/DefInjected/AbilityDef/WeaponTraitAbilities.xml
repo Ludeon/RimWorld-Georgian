@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EMPPulse.description>ასხივებენ ელექტრომაგნიტურ ენერგიას, რომელიც ორიენტირებულია მომხმარებელზე. აფეთქება გააოგნებს ახლომდებარე მექანიკურ სამიზნეებს, როგორიცაა მექანოიდები ან კოშკები.</EMPPulse.description>
+  <EMPPulse.label>ცეცხლი EMP</EMPPulse.label>
+  <LaunchEMPShell.description>გაუშვით ჭურვი, რომელიც ათავისუფლებს ელექტრომაგნიტურ ენერგიას, განსაცვიფრებელ მექანიკურ სამიზნეებს. შესაძლებელია გადატვირთვა ფოლადის გამოყენებით.</LaunchEMPShell.description>
+  <LaunchEMPShell.label>გაუშვით EMP ჭურვი</LaunchEMPShell.label>
+  <LaunchFragGrenade.description>გაუშვით ყუმბარა. შესაძლებელია გადატვირთვა ფოლადის გამოყენებით.</LaunchFragGrenade.description>
+  <LaunchFragGrenade.label>ყუმბარის გაშვება</LaunchFragGrenade.label>
+  <LaunchIncendiaryShell.description>გაუშვით ჭურვი, რომელიც ქმნის აფეთქებას დარტყმის დროს და აანთებს ყველაფერს ახლოს. შესაძლებელია გადატვირთვა ქიმიური საწვავის გამოყენებით.</LaunchIncendiaryShell.description>
+  <LaunchIncendiaryShell.label>ცეცხლგამჩენი ჭურვის გაშვება</LaunchIncendiaryShell.label>
+  <LaunchSmokeShell.description>გაუშვით კვამლის ჭურვი, რომელიც ფარავს შემომავალ კადრებს და ხელს უშლის კოშკების ჩაკეტვას. შესაძლებელია გადატვირთვა ფოლადის გამოყენებით.</LaunchSmokeShell.description>
+  <LaunchSmokeShell.label>კვამლის ჭურვის გაშვება</LaunchSmokeShell.label>
+</LanguageData>

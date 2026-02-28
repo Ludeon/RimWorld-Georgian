@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fox_Arctic.label>არქტიკული მელა</Fox_Arctic.label>
+  <Fox_Arctic.lifeStages.0.label>არქტიკული მელას ლეკვი</Fox_Arctic.lifeStages.0.label>
+  <Fox_Fennec.label>ფენეკის მელა</Fox_Fennec.label>
+  <Fox_Fennec.lifeStages.0.label>ფენეკ მელას ლეკვი</Fox_Fennec.lifeStages.0.label>
+  <Fox_Red.label>წითელი მელა</Fox_Red.label>
+  <Fox_Red.lifeStages.0.label>წითელი მელას ლეკვი</Fox_Red.lifeStages.0.label>
+  <Wolf_Arctic.label>არქტიკული მგელი</Wolf_Arctic.label>
+  <Wolf_Arctic.lifeStages.0.label>არქტიკული მგლის ლეკვი</Wolf_Arctic.lifeStages.0.label>
+  <Wolf_Timber.label>ხის მგელი</Wolf_Timber.label>
+  <Wolf_Timber.lifeStages.0.label>ხის მგლის ლეკვი</Wolf_Timber.lifeStages.0.label>
+</LanguageData>

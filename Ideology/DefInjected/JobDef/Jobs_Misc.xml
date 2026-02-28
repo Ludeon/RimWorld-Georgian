@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActivateArchonexusCore.reportString>არქოტექნიკის გამოძახება.</ActivateArchonexusCore.reportString>
+  <Blind.reportString>დამაბრმავებელი სამიზნეA.</Blind.reportString>
+  <CarryToBiosculpterPod.reportString>TargetA-ს ბიოსკულპტერის პოდამდე მიტანა.</CarryToBiosculpterPod.reportString>
+  <DeliverToAltar.reportString>TargetA-ს საკურთხეველში მიტანა.</DeliverToAltar.reportString>
+  <DyeHair.reportString>თმის შეღებვა</DyeHair.reportString>
+  <EnterBiosculpterPod.reportString>ბიოსკულპტერის პოდში შესვლა.</EnterBiosculpterPod.reportString>
+  <ExtractRelic.reportString>TargetB-ის ამოღება TargetA-დან.</ExtractRelic.reportString>
+  <ExtractToInventory.reportString>TargetB-ის მოპოვება ინვენტარში.</ExtractToInventory.reportString>
+  <GetNeuralSupercharge.reportString>TargetA-სგან ნერვული ზემუხტის მიღება</GetNeuralSupercharge.reportString>
+  <GiveToPawn.reportString>TargetA-ს მისცემს TargetB-ს.</GiveToPawn.reportString>
+  <InduceSlaveToRebel.reportString>TargetA-ს აჯანყებისკენ უბიძგებს.</InduceSlaveToRebel.reportString>
+  <InstallRelic.reportString>TargetA-ს დაყენება TargetB-ში</InstallRelic.reportString>
+  <MeditatePray.reportString>praying.</MeditatePray.reportString>
+  <OpenStylingStationDialog.reportString>სტილის შეცვლა TargetA-ში.</OpenStylingStationDialog.reportString>
+  <RecolorApparel.reportString>ტანსაცმლის ხელახალი შეღებვა</RecolorApparel.reportString>
+  <Sacrifice.reportString>მსხვერპლშეწირვა TargetA.</Sacrifice.reportString>
+  <Scarify.reportString>დამფრთხალი სამიზნეA.</Scarify.reportString>
+  <UseStylingStation.reportString>სტილის შეცვლა TargetA-ში.</UseStylingStation.reportString>
+  <UseStylingStationAutomatic.reportString>სტილის შეცვლა TargetA-ში.</UseStylingStationAutomatic.reportString>
+</LanguageData>

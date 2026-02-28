@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <Stat_Thing_MinimumRoyalTitle_Name>მინიმალური სათაური ({FACTION_name})</Stat_Thing_MinimumRoyalTitle_Name>
+  <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name}-ს აქვს კანონები, რომლებიც ზღუდავს ამ იმპლანტის გამოყენებას მათთვის, ვისაც აქვს კონკრეტული სათაური. იმპლანტის უბრალოდ დაყენება შეუძლებელია, მაგრამ თუ მას გამოიყენებთ, არსებობს შანსი, რომ მათ დაადგინონ ფსიქიკური გამონაბოლქვი. ეს გამოიწვევს დიპლომატიურ შედეგებს.</Stat_Thing_MinimumRoyalTitle_Desc>
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{FACTION_name}-ს აქვს კანონები, რომლებიც ზღუდავს ამ იარაღის გამოყენებას კონკრეტული ტიტულის მქონეთათვის. ყოველ ჯერზე, როდესაც თავს დაესხმებით იარაღით, არის შანსი, რომ მათ დაადგინონ ფსიქიკური გამონაბოლქვი. ეს გამოიწვევს დიპლომატიურ შედეგებს.</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Level_Desc>ამ იმპლანტის ყოველი განახლების დონე მოითხოვს კონკრეტულ სათაურს {FACTION_name}-ში ლეგალურად გამოსაყენებლად.</Stat_Thing_MinimumRoyalTitle_Level_Desc>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle>მაქსი კმაყოფილი სათაურით</Stat_Thing_Apparel_MaxSatisfiedTitle>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>უმაღლესი სამეფო ტიტული, რომლის ტანსაცმლის მოთხოვნები ამით აკმაყოფილებს.</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle>მაქსი კმაყოფილი სათაურით</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>უმაღლესი სამეფო ტიტული, რომლის კვების მოთხოვნებიც ამით კმაყოფილდება.</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+
+  <Stat_Thing_PersonaWeaponTrait_Label>მახასიათებლები</Stat_Thing_PersonaWeaponTrait_Label>
+  <Stat_Thing_PersonaWeaponTrait_Desc>ამ იარაღის ინდივიდუალური თვისებები.</Stat_Thing_PersonaWeaponTrait_Desc>
+
+  <StatsReport_Pain>მულტიპლიკატორი ტკივილისთვის</StatsReport_Pain>
+  
+</LanguageData>

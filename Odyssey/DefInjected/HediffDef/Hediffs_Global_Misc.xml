@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GravNausea.description>ინტენსიური გულისრევა, რომელიც გამოწვეულია სატვირთო გემზე უეცარი აჩქარებით ან შენელებით.</GravNausea.description>
+  <GravNausea.label>გრავი გულისრევა</GravNausea.label>
+  <ThrumboRoar.description>ეს არსება შეძრა თრომბის ძლიერმა ხმამ.</ThrumboRoar.description>
+  <ThrumboRoar.label>თრომბო ღრიალი</ThrumboRoar.label>
+  <VacuumExposure.description>ეს არსება განიცდის სხვადასხვა ნეგატიურ ეფექტს, რომელიც გამოწვეულია სივრცის ვაკუუმის ზემოქმედებით, მათ შორის ჰიპოქსია და დეკომპრესიული ავადმყოფობა. ისინი მალე დაიღუპებიან, თუ არ შეძლებენ ზეწოლის ქვეშ მოხვედრას.</VacuumExposure.description>
+  <VacuumExposure.label>ვაკუუმის ექსპოზიცია</VacuumExposure.label>
+  <VacuumExposure.stages.0.label>საწყისი</VacuumExposure.stages.0.label>
+  <VacuumExposure.stages.1.label>საწყისი</VacuumExposure.stages.1.label>
+  <VacuumExposure.stages.2.label>რბილი</VacuumExposure.stages.2.label>
+  <VacuumExposure.stages.3.label>ზომიერი</VacuumExposure.stages.3.label>
+  <VacuumExposure.stages.4.label>უკიდურესი</VacuumExposure.stages.4.label>
+  <VolcanicAsh.description>ვულკანური ამოფრქვევის ფერფლი.</VolcanicAsh.description>
+  <VolcanicAsh.label>ვულკანური ფერფლი</VolcanicAsh.label>
+  <WarTrumpet.description>ეს არსება შეძრა ძლევამოსილი მხეცის ძლიერმა საყვირმა.</WarTrumpet.description>
+  <WarTrumpet.label>ომის საყვირი</WarTrumpet.label>
+</LanguageData>

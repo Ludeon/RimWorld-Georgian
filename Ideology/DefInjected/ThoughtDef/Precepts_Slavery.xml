@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EnslavedPrisoner_Disapproved.stages.0.description>მე დავამონე ადამიანი. ძნელია ასეთი ქმედებების გამართლება.</EnslavedPrisoner_Disapproved.stages.0.description>
+  <EnslavedPrisoner_Disapproved.stages.0.label>დამონებული პატიმარი</EnslavedPrisoner_Disapproved.stages.0.label>
+  <EnslavedPrisoner_Honorable.stages.0.description>ვიღაც მონობაში წავიყვანე. არჩევანის გარეშე, მათ უნდა დამორჩილებოდნენ.</EnslavedPrisoner_Honorable.stages.0.description>
+  <EnslavedPrisoner_Honorable.stages.0.label>დამონებული პატიმარი</EnslavedPrisoner_Honorable.stages.0.label>
+  <EnslavedPrisoner_Horrible.stages.0.description>ვიღაც ვაიძულე მონობაში. როგორ გავამართლო ეს?</EnslavedPrisoner_Horrible.stages.0.description>
+  <EnslavedPrisoner_Horrible.stages.0.label>დამონებული პატიმარი</EnslavedPrisoner_Horrible.stages.0.label>
+  <EnslavedPrisoner_Know_Abhorrent.stages.0.label>დამონებული პატიმარი</EnslavedPrisoner_Know_Abhorrent.stages.0.label>
+  <EnslavedPrisoner_Know_Disapproved.stages.0.label>დამონებული პატიმარი</EnslavedPrisoner_Know_Disapproved.stages.0.label>
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.0.description>ვიღაცას დავამონეთ. ეს არ უნდა გაგვეკეთებინა.</EnslavedPrisoner_Know_Disapproved_Mood.stages.0.description>
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.0.label>პატიმარი დამონებული</EnslavedPrisoner_Know_Disapproved_Mood.stages.0.label>
+  <EnslavedPrisoner_Know_Honorable.stages.0.label>დამონებული პატიმარი</EnslavedPrisoner_Know_Honorable.stages.0.label>
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.0.description>ვიღაცას დავამონეთ. ახლა მათ იციან ჩვენი პატივი და ძალა!</EnslavedPrisoner_Know_Honorable_Mood.stages.0.description>
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.0.label>პატიმარი დამონებული</EnslavedPrisoner_Know_Honorable_Mood.stages.0.label>
+  <EnslavedPrisoner_Know_Horrible.stages.0.label>დამონებული პატიმარი</EnslavedPrisoner_Know_Horrible.stages.0.label>
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.0.description>ვიღაცას დავამონეთ. რა საშინელებაა სხვა ადამიანის მიმართ.</EnslavedPrisoner_Know_Horrible_Mood.stages.0.description>
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.0.label>პატიმარი დამონებული</EnslavedPrisoner_Know_Horrible_Mood.stages.0.label>
+  <Slavery_Abhorrent_SlavesInColony.stages.0.description>ჩვენ ვიცავთ მონებს. ეს ბარბაროსობაა.</Slavery_Abhorrent_SlavesInColony.stages.0.description>
+  <Slavery_Abhorrent_SlavesInColony.stages.0.label>მონები კოლონიაში</Slavery_Abhorrent_SlavesInColony.stages.0.label>
+  <Slavery_Disapproved_SlavesInColony.stages.0.description>ჩვენ ვიცავთ მონებს. საჭიროც რომ იყოს, საზიზღარია და ვისურვებდი, რომ არ ვიყოთ.</Slavery_Disapproved_SlavesInColony.stages.0.description>
+  <Slavery_Disapproved_SlavesInColony.stages.0.label>მონები კოლონიაში</Slavery_Disapproved_SlavesInColony.stages.0.label>
+  <Slavery_Honorable_NoSlavesInColony.stages.0.description>მონების გარეშე ჩვენ პატივს არავინ დაგვცემს.</Slavery_Honorable_NoSlavesInColony.stages.0.description>
+  <Slavery_Honorable_NoSlavesInColony.stages.0.label>კოლონიაში მონები არ არიან</Slavery_Honorable_NoSlavesInColony.stages.0.label>
+  <Slavery_Honorable_SlavesInColony.stages.0.description>ჩვენ გვყავს მონები. ეს ნიშნავს, რომ ჩვენ სწორ გზაზე ვართ.</Slavery_Honorable_SlavesInColony.stages.0.description>
+  <Slavery_Honorable_SlavesInColony.stages.0.label>მონები კოლონიაში</Slavery_Honorable_SlavesInColony.stages.0.label>
+  <Slavery_Horrible_SlavesInColony.stages.0.description>ჩვენ ვიცავთ მონებს. არასწორია.</Slavery_Horrible_SlavesInColony.stages.0.description>
+  <Slavery_Horrible_SlavesInColony.stages.0.label>მონები კოლონიაში</Slavery_Horrible_SlavesInColony.stages.0.label>
+  <SoldSlave_Disapproved.stages.0.description>მე გავყიდე ადამიანი მონობაში. ვიმედოვნებ, რომ მათ არაფერი შეემთხვევათ.</SoldSlave_Disapproved.stages.0.description>
+  <SoldSlave_Disapproved.stages.0.label>გაყიდული მონა</SoldSlave_Disapproved.stages.0.label>
+  <SoldSlave_Honorable.stages.0.description>ვიღაც მონობაში გავყიდე. ეს ხალხს შეამჩნევს ჩემს აღნაგობას.</SoldSlave_Honorable.stages.0.description>
+  <SoldSlave_Honorable.stages.0.label>გაყიდული მონა</SoldSlave_Honorable.stages.0.label>
+  <SoldSlave_Horrible.stages.0.description>მე გავყიდე ადამიანი მონობაში. არ ვარ დარწმუნებული, რომ საკუთარ თავს ვაპატიებ.</SoldSlave_Horrible.stages.0.description>
+  <SoldSlave_Horrible.stages.0.label>გაყიდული მონა</SoldSlave_Horrible.stages.0.label>
+  <SoldSlave_Know_Abhorrent.stages.0.label>გაყიდული მონა</SoldSlave_Know_Abhorrent.stages.0.label>
+  <SoldSlave_Know_Abhorrent_Mood.stages.0.description>ვიღაც მონებად გავყიდეთ. ეს იყო ამაზრზენი, ბარბაროსული აქტი.</SoldSlave_Know_Abhorrent_Mood.stages.0.description>
+  <SoldSlave_Know_Abhorrent_Mood.stages.0.label>გაყიდა მონა</SoldSlave_Know_Abhorrent_Mood.stages.0.label>
+  <SoldSlave_Know_Disapproved.stages.0.label>გაყიდული მონა</SoldSlave_Know_Disapproved.stages.0.label>
+  <SoldSlave_Know_Disapproved_Mood.stages.0.description>ჩვენ გავყიდეთ ადამიანი მონობაში. ეს არ უნდა გაგვეკეთებინა.</SoldSlave_Know_Disapproved_Mood.stages.0.description>
+  <SoldSlave_Know_Disapproved_Mood.stages.0.label>გაყიდა მონა</SoldSlave_Know_Disapproved_Mood.stages.0.label>
+  <SoldSlave_Know_Honorable.stages.0.label>გაყიდული მონა</SoldSlave_Know_Honorable.stages.0.label>
+  <SoldSlave_Know_Honorable_Mood.stages.0.description>ვიღაც გავყიდეთ მონობაში! ჩვენი პატივისა და ძალის დიდი ჩვენება.</SoldSlave_Know_Honorable_Mood.stages.0.description>
+  <SoldSlave_Know_Honorable_Mood.stages.0.label>გაყიდა მონა</SoldSlave_Know_Honorable_Mood.stages.0.label>
+  <SoldSlave_Know_Horrible.stages.0.label>გაყიდული მონა</SoldSlave_Know_Horrible.stages.0.label>
+  <SoldSlave_Know_Horrible_Mood.stages.0.description>ვიღაც მონებად გავყიდეთ. რა საშინელებაა.</SoldSlave_Know_Horrible_Mood.stages.0.description>
+  <SoldSlave_Know_Horrible_Mood.stages.0.label>გაყიდა მონა</SoldSlave_Know_Horrible_Mood.stages.0.label>
+</LanguageData>

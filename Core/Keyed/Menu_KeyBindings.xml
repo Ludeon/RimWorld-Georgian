@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <SaveButton>შენახვა</SaveButton>
+  <ClearBinding>გასუფთავება</ClearBinding>
+  <ResetBinding>ნაგულისხმევად გადატვირთვა</ResetBinding>
+  <BindingButtonToolTip>დააწკაპუნეთ მარცხნივ ამ კლავიშის დასაკავშირებლად ან მარჯვენა ღილაკით პარამეტრებისთვის</BindingButtonToolTip>
+  <BindingButtonToolTipController>დააწკაპუნეთ ამ გასაღების ან მარცხენა ტრიგერის ღილაკის დასაკავშირებლად ვარიანტებისთვის</BindingButtonToolTipController>
+  <PressAnyKeyOrEsc>გასაუქმებლად დააჭირეთ ნებისმიერ ღილაკს ან Esc...</PressAnyKeyOrEsc>
+  <PressAnyKeyOrEscController>დააჭირეთ ნებისმიერ ღილაკს ან {Key:Cancel} გასაუქმებლად...</PressAnyKeyOrEscController>
+  <KeyBindingOverwritten>გასაღების შეკვრა გადაწერილია: {0}</KeyBindingOverwritten>
+  
+</LanguageData>

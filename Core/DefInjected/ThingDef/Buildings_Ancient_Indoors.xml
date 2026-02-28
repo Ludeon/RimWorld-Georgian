@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientBarrel.description>უძველესი, გატეხილი კასრი, რომელიც თითქოს ოდესღაც შეიცავდა რაიმე სახის ნარჩენებს. ერთადერთი, რაც ახლა შეიცავს, არის გამხმარი ლამის ნაცხი.</AncientBarrel.description>
+  <AncientBarrel.label>უძველესი ბარელი</AncientBarrel.label>
+  <AncientBasicRecharger.description>უძველესი ძირითადი დამტენი. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientBasicRecharger.description>
+  <AncientBasicRecharger.label>უძველესი ძირითადი დამტენი</AncientBasicRecharger.label>
+  <AncientBed.description>ძველი, დამპალი ლეიბი დაჟანგებულ ჩარჩოზე. მიუხედავად იმისა, რომ არასასიამოვნოა, მისი გამოყენება მაინც შეიძლება, მაგრამ ზედმეტად დანგრეულია აღდგენისთვის.</AncientBed.description>
+  <AncientBed.label>უძველესი საწოლი</AncientBed.label>
+  <AncientCrate.description>უძველესი, გატეხილი ყუთი. ნებისმიერი ძვირფასი ნივთი, რომელიც მას ერთ დროს შეიცავდა, უსარგებლოდ გახდა.</AncientCrate.description>
+  <AncientCrate.label>უძველესი ყუთი</AncientCrate.label>
+  <AncientDisplayBank.description>უძველესი კომპიუტერული ინტერფეისი. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientDisplayBank.description>
+  <AncientDisplayBank.label>უძველესი ჩვენების ბანკი</AncientDisplayBank.label>
+  <AncientEquipmentBlocks.description>უცნობი ფუნქციის უძველესი აღჭურვილობის ბლოკების კოლექცია. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientEquipmentBlocks.description>
+  <AncientEquipmentBlocks.label>უძველესი აღჭურვილობის ბლოკები</AncientEquipmentBlocks.label>
+  <AncientGenerator.description>უძველესი ელექტრო გენერატორი. მისი გამოსაყენებელი ნაწილები დიდი ხნის წინ დაამტვრიეს ან გაძარცვეს, დანარჩენი კი უსარგებლოდ დაჟანგდა.</AncientGenerator.description>
+  <AncientGenerator.label>უძველესი გენერატორი</AncientGenerator.label>
+  <AncientKitchenSink.description>უძველესი სამზარეულოს ნიჟარა, დამზადებული რაღაც არამეტალური ფურცლოვანი მასალისგან. ძლიერაა დაზიანებული და მისგან რაიმეს აღდგენა შეუძლებელია.
+როგორ აღმოჩნდა აქ, ალბათ გრძელი ამბავია.</AncientKitchenSink.description>
+  <AncientKitchenSink.label>უძველესი სამზარეულოს ნიჟარა</AncientKitchenSink.label>
+  <AncientLamp.description>უძველესი თვითმმართველობის ნათურა. მისი შიდა ელექტრომომარაგება ცუდად არის გამოფიტული, მაგრამ ის მაინც ასხივებს სუსტ ბზინვარებას.</AncientLamp.description>
+  <AncientLamp.label>უძველესი ნათურა</AncientLamp.label>
+  <AncientLargeMechGestator.description>უძველესი დიდი მექანიკური გესტატორი. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientLargeMechGestator.description>
+  <AncientLargeMechGestator.label>უძველესი დიდი მექანიკური გესტატორი</AncientLargeMechGestator.label>
+  <AncientLockerBank.description>კარადების უძველესი, დაჟანგული ბანკი. ყველა კარადა იძულებით გაიხსნა და არაფერი ღირებული დარჩა.</AncientLockerBank.description>
+  <AncientLockerBank.label>უძველესი მბრძანებელი ბანკი</AncientLockerBank.label>
+  <AncientMachine.description>დიდი უძველესი მანქანის ჩანთა, სავსე უცნობი ტექნიკით. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientMachine.description>
+  <AncientMachine.label>უძველესი მანქანა</AncientMachine.label>
+  <AncientMechDropBeacon.description>მექანიკური წვეთოვანი შუქურის გატეხილი გარსი. მისი სასარგებლო კომპონენტები აკლია და ჭურვი მრავალი წლის შემდეგ გაფუჭდა.</AncientMechDropBeacon.description>
+  <AncientMechDropBeacon.label>უძველესი მექანიკური წვეთი შუქურა</AncientMechDropBeacon.label>
+  <AncientMechGestator.description>უძველესი მექანიკური გესტატორი. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientMechGestator.description>
+  <AncientMechGestator.label>უძველესი მექანიკური გესტატორი</AncientMechGestator.label>
+  <AncientMechGestatorTank.description>უძველესი მოწყობილობა, რომელსაც შეუძლია შექმნას ახალი მექანოიდები და შეინარჩუნოს დაზიანებული მექანოიდები, სანამ ისინი გაახალგაზრდავდებიან.</AncientMechGestatorTank.description>
+  <AncientMechGestatorTank.label>უძველესი მექანიკური ღვეზელი</AncientMechGestatorTank.label>
+  <AncientMicrowave.description>უძველესი მოწყობილობა საკვების გასაცხელებლად. დამტვრეული და დაჟანგებულია, ახლა სრულიად უსარგებლოა.
+როგორ აღმოჩნდა აქ, თქმა ძნელია.</AncientMicrowave.description>
+  <AncientMicrowave.label>უძველესი მიკროტალღური</AncientMicrowave.label>
+  <AncientMilitaryCrate.description>უძველესი, სამხედრო გარეგნობის ყუთი. ის დიდი ხნის წინ გატეხეს და ოდესღაც ძვირფასი ნივთები გაძარცვეს.</AncientMilitaryCrate.description>
+  <AncientMilitaryCrate.label>უძველესი სამხედრო ყუთი</AncientMilitaryCrate.label>
+  <AncientOperatingTable.description>მაგიდა, რომელიც ერთხელ გამოიყენებოდა ქირურგიული ოპერაციებისთვის. ის უკვე დიდი ხანია უსარგებლობაში გადაიზარდა.</AncientOperatingTable.description>
+  <AncientOperatingTable.label>უძველესი საოპერაციო მაგიდა</AncientOperatingTable.label>
+  <AncientOven.description>უძველესი ღუმელი. დამტვრეული და დაჟანგებულია, ახლა სრულიად უსარგებლოა.
+როგორ აღმოჩნდა აქ, თქმა ძნელია.</AncientOven.description>
+  <AncientOven.label>უძველესი ღუმელი</AncientOven.label>
+  <AncientRefrigerator.description>უძველესი მაცივარი. ის დიდი ხნის წინ იყო ამოღებული საინტერესო ნაწილებისგან.</AncientRefrigerator.description>
+  <AncientRefrigerator.label>უძველესი მაცივარი</AncientRefrigerator.label>
+  <AncientSecurityTurret.description>უძველესი, გატეხილი უსაფრთხოების კოშკი. ძვირფასი ნაწილები ყველა გაძარცვეს ან დამსხვრეულია.</AncientSecurityTurret.description>
+  <AncientSecurityTurret.label>უძველესი უსაფრთხოების კოშკი</AncientSecurityTurret.label>
+  <AncientSpacerCrate.description>უძველესი, გატეხილი ყუთი. ნებისმიერი ძვირფასი ნივთი, რომელიც მას ერთ დროს შეიცავდა, დიდი ხნის წინ წაიღეს.</AncientSpacerCrate.description>
+  <AncientSpacerCrate.label>უძველესი სპაისერი კრატი</AncientSpacerCrate.label>
+  <AncientStandardRecharger.description>უძველესი სტანდარტის დამტენი. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientStandardRecharger.description>
+  <AncientStandardRecharger.label>უძველესი სტანდარტის დამტენი</AncientStandardRecharger.label>
+  <AncientStorageCylinder.description>უძველესი მოწყობილობა, რომელიც ჰგავს ოდესღაც რაღაც სითხეს ინახავდა. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientStorageCylinder.description>
+  <AncientStorageCylinder.label>უძველესი შენახვის ცილინდრი</AncientStorageCylinder.label>
+  <AncientStove.description>ძველი ღუმელი. დამტვრეული და დაჟანგული, ახლა სრულიად უსარგებლოა.</AncientStove.description>
+  <AncientStove.label>უძველესი ღუმელი</AncientStove.label>
+  <AncientSystemRack.description>უძველესი თაროს დანადგარი შეფუთული ამოუცნობი მოწყობილობებით. ძვირფასი ნაწილები აკლია, დანარჩენი კი უსარგებლობამდეა დაქვეითებული.</AncientSystemRack.description>
+  <AncientSystemRack.label>უძველესი სისტემის თარო</AncientSystemRack.label>
+</LanguageData>

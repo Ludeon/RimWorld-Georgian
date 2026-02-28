@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SpouseCount_Female_MaxFour.description>ქალებს შეიძლება ჰყავდეთ ოთხამდე მეუღლე.</SpouseCount_Female_MaxFour.description>
+  <SpouseCount_Female_MaxFour.label>ოთხი ან ნაკლები</SpouseCount_Female_MaxFour.label>
+  <SpouseCount_Female_MaxThree.description>ქალებს შეიძლება ჰყავდეთ სამამდე მეუღლე.</SpouseCount_Female_MaxThree.description>
+  <SpouseCount_Female_MaxThree.label>სამი ან ნაკლები</SpouseCount_Female_MaxThree.label>
+  <SpouseCount_Female_MaxTwo.description>ქალებს შეიძლება ჰყავდეთ ორამდე მეუღლე.</SpouseCount_Female_MaxTwo.description>
+  <SpouseCount_Female_MaxTwo.label>ორი ან ნაკლები</SpouseCount_Female_MaxTwo.label>
+  <SpouseCount_Female_Unlimited.description>ქალებს შეიძლება ჰყავდეთ იმდენი მეუღლე, რამდენიც მათ სურთ.</SpouseCount_Female_Unlimited.description>
+  <SpouseCount_Female_Unlimited.label>შეუზღუდავი</SpouseCount_Female_Unlimited.label>
+  <SpouseCount_Male_MaxFour.description>მამაკაცებს შეიძლება ჰყავდეთ ოთხამდე მეუღლე.</SpouseCount_Male_MaxFour.description>
+  <SpouseCount_Male_MaxFour.label>ოთხი ან ნაკლები</SpouseCount_Male_MaxFour.label>
+  <SpouseCount_Male_MaxThree.description>მამაკაცებს შეიძლება ჰყავდეთ სამამდე მეუღლე.</SpouseCount_Male_MaxThree.description>
+  <SpouseCount_Male_MaxThree.label>სამი ან ნაკლები</SpouseCount_Male_MaxThree.label>
+  <SpouseCount_Male_MaxTwo.description>მამაკაცებს შეიძლება ჰყავდეთ ორამდე მეუღლე.</SpouseCount_Male_MaxTwo.description>
+  <SpouseCount_Male_MaxTwo.label>ორი ან ნაკლები</SpouseCount_Male_MaxTwo.label>
+  <SpouseCount_Male_Unlimited.description>მამაკაცებს შეიძლება ჰყავდეთ იმდენი მეუღლე, რამდენიც მათ სურთ.</SpouseCount_Male_Unlimited.description>
+  <SpouseCount_Male_Unlimited.label>შეუზღუდავი</SpouseCount_Male_Unlimited.label>
+</LanguageData>

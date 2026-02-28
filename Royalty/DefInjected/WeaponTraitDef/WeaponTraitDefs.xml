@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HungerMaker.description>ამ იარაღის პერსონას უყვარს საჭმელი და გადასცემს მას, ვინც მას უკავშირდება. ობლიგაციით შიმშილის მაჩვენებელი 50%-ით მეტი იქნება.</HungerMaker.description>
+  <HungerMaker.label>შიმშილის ტკივილები</HungerMaker.label>
+  <Jealous.description>ამ იარაღის პერსონა ბრაზდება, როდესაც შეკრული ინდივიდი იყენებს სხვა იარაღს, რითაც აქვეითებს მათ განწყობას.</Jealous.description>
+  <Jealous.label>ეჭვიანი</Jealous.label>
+  <NeedKill.description>ამ იარაღის პიროვნება მიზანს სისხლისღვრაში პოულობს. თუ 20 დღე არ მოკლავს, გაბრაზდება და ფსიქიკურად უჩივის, ვინც მასზეა მიბმული.</NeedKill.description>
+  <NeedKill.label>მოკვლა წყურვილი</NeedKill.label>
+  <NeuralHeatRecoveryGain.description>ამ იარაღის პერსონას აქვს უნარი, ხელი შეუწყოს მფლობელს ნერვული სითბოს გაფანტვას. ველერის ნერვული სითბოს გაფრქვევა უმჯობესდება 0,15 წამში.</NeuralHeatRecoveryGain.description>
+  <NeuralHeatRecoveryGain.label>ნერვული გაგრილება</NeuralHeatRecoveryGain.label>
+  <NeverBond.description>ამ იარაღის პიროვნება ნორმალურად არ აყალიბებს კავშირებს. ნებისმიერს შეუძლია აიღოს და გამოიყენოს იგი.</NeverBond.description>
+  <NeverBond.label>თავისუფალი ადამიანი</NeverBond.label>
+  <NoPain.description>ამ იარაღის პერსონას აქვს ტკივილის ფსიქიკური გამორთვის გარკვეული მეთოდი. ის, ვისაც ხელში უჭირავს იარაღი, არ იგრძნობს რაიმე სახის ტკივილს.</NoPain.description>
+  <NoPain.label>უმტკივნეულო</NoPain.label>
+  <OnKill_PsyfocusGain.description>ამ იარაღის პერსონა ფოკუსირებულია სიკვდილზე. თუ იარაღი მოკლავს ვინმეს, მეპატრონე მყისიერად მოიპოვებს 20% ფსიფოკუსს.</OnKill_PsyfocusGain.description>
+  <OnKill_PsyfocusGain.label>მკვლელობაზე ორიენტირებული</OnKill_PsyfocusGain.label>
+  <OnKill_ThoughtBad.description>ამ იარაღის პიროვნებას სძულს მკვლელობა. თუ ეს იარაღი მოკლავს ვინმეს, მისი მწუხარება ფსიქიკურად გადაეცემა მფლობელს და რამდენიმე დღით დააქვეითებს განწყობას.</OnKill_ThoughtBad.description>
+  <OnKill_ThoughtBad.label>მოკვლა მწუხარება</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtGood.description>ამ იარაღის პიროვნებას უყვარს მოკვლა. თუ ეს იარაღი მოკლავს ვინმეს, მისი სიხარული ფსიქიკურად გადაეცემა მეპატრონეს, რაც მას რამდენიმე დღით გაახარებს.</OnKill_ThoughtGood.description>
+  <OnKill_ThoughtGood.label>მოკვლა-ბედნიერი</OnKill_ThoughtGood.label>
+  <PsychicSensitivityDownMajor.description>ეს იარაღი 30%-ით თრგუნავს პატრონის ფსიქიკურ მგრძნობელობას. ეს ეხება მხოლოდ იარაღის ტარებისას.</PsychicSensitivityDownMajor.description>
+  <PsychicSensitivityDownMajor.label>ფსიქიკური ნისლი</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMinor.description>ეს იარაღი 15%-ით თრგუნავს პატრონის ფსიქიკურ მგრძნობელობას. ეს ეხება მხოლოდ იარაღის ტარებისას.</PsychicSensitivityDownMinor.description>
+  <PsychicSensitivityDownMinor.label>ფსიქიკური სიმშვიდე</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityUpMajor.description>ეს იარაღი 40%-ით აძლიერებს პატრონის ფსიქიკურ მგრძნობელობას. ეს ეხება მხოლოდ იარაღის ტარებისას.</PsychicSensitivityUpMajor.description>
+  <PsychicSensitivityUpMajor.label>ფსიქიკური ჰიპერმგრძნობიარე</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMinor.description>ეს იარაღი აძლიერებს პატრონის ფსიქიკურ მგრძნობელობას 20%-ით. ეს ეხება მხოლოდ იარაღის ტარებისას.</PsychicSensitivityUpMinor.description>
+  <PsychicSensitivityUpMinor.label>ფსიქიკური სენსიბილიზატორი</PsychicSensitivityUpMinor.label>
+  <PsyfocusMeditationBonus.description>ამ იარაღის პიროვნება ბუნებრივად მედიტაციურია და ეხმარება მას ფსიქიკურ მედიტაციაში ფოკუსირებაში. მედიტაციის დღე-ღამეში მედიტაციის დროს ადამიანი იძენს დამატებით 10%-იან ფსიფოკუსს, სანამ იარაღი უჭირავს.</PsyfocusMeditationBonus.description>
+  <PsyfocusMeditationBonus.label>ფსიქო-მედიტატიული</PsyfocusMeditationBonus.label>
+  <SpeedBoost.description>ამ იარაღის პერსონას აქვს მოძრაობის გრძნობა. ეს ანიჭებს მას მფლობელს, რაც აიძულებს მათ 15%-ით უფრო სწრაფად იმოძრაონ, სანამ იარაღს უჭირავთ.</SpeedBoost.description>
+  <SpeedBoost.label>სწრაფი მოძრავი</SpeedBoost.label>
+  <ThoughtCalm.description>ამ იარაღის პერსონა არის მოდუნებული და სტაბილური. ის ჩურჩულებს დამამშვიდებელ აზრებს, ვისთანაც არის დაკავშირებული, ამაღლებს მათ განწყობას.</ThoughtCalm.description>
+  <ThoughtCalm.label>მშვიდი ფიქრები</ThoughtCalm.label>
+  <ThoughtKind.description>ამ იარაღის პიროვნება კეთილი და მხარდამჭერია. ის უჩურჩულებს კეთილ აზრებს, ვისთანაც არის დაკავშირებული, ამაღლებს მათ განწყობას.</ThoughtKind.description>
+  <ThoughtKind.label>კეთილი აზრები</ThoughtKind.label>
+  <ThoughtMuttering.description>ამ იარაღის პიროვნება ნევროტული და არასტაბილურია. ის გიჟურ აზრებს აჩუქებს მათთან, ვისთანაც არის დაკავშირებული, ამცირებს მათ განწყობას.</ThoughtMuttering.description>
+  <ThoughtMuttering.label>შეშლილი წუწუნი</ThoughtMuttering.label>
+  <ThoughtWailing.description>ამ იარაღის პერსონა ძალზედ შეწუხებულია და ამაზე არ გაჩუმდება. ის გიჟურ ცნებებს აწუხებს, ვისთანაც არის დაკავშირებული, თრგუნავს მათ განწყობას.</ThoughtWailing.description>
+  <ThoughtWailing.label>შეშლილი ტირილი</ThoughtWailing.label>
+</LanguageData>

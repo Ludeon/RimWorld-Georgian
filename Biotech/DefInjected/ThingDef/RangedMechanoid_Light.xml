@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_MiniShotgun.label>თოფის აფეთქება</Bullet_MiniShotgun.label>
+  <Bullet_Slugthrower.label>შლაპა</Bullet_Slugthrower.label>
+  <Bullet_Spiner.label>ხერხემალი</Bullet_Spiner.label>
+  <Gun_MiniFlameblaster.description>მცირე აფეთქებაზე ორიენტირებული ცეცხლმსროლი, რომელსაც იყენებენ მექანოიდები.</Gun_MiniFlameblaster.description>
+  <Gun_MiniFlameblaster.label>მინი ფლეიმბლასტერი</Gun_MiniFlameblaster.label>
+  <Gun_MiniShotgun.description>კომპაქტური, მოკლე დისტანციური თოფი, რომელიც შექმნილია მსუბუქ საბრძოლო მექანოიდზე დასაყენებლად.</Gun_MiniShotgun.description>
+  <Gun_MiniShotgun.label>მინი თოფი</Gun_MiniShotgun.label>
+  <Gun_Slugthrower.description>კომპაქტური ერთჯერადი შლაპის მსროლელი, რომელიც შექმნილია მსუბუქ საბრძოლო მექანოიდზე დასაყენებლად.</Gun_Slugthrower.description>
+  <Gun_Slugthrower.label>ზარმაცი</Gun_Slugthrower.label>
+  <Gun_Spiner.description>ძალიან პატარა იარაღი, რომელსაც იყენებენ ომის ეკლები, რომელიც სწრაფად ისვრის ხერხემლის მსგავს ჭურვებს. ეს არის მოკლე, მაგრამ მომაკვდინებელი.</Gun_Spiner.description>
+  <Gun_Spiner.label>სპინერი</Gun_Spiner.label>
+</LanguageData>

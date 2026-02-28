@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DecreeFailed.stages.0.description>ჩემს კეთილშობილ ავტორიტეტს არ სცემდნენ პატივს ისე, როგორც უნდა ყოფილიყო.</DecreeFailed.stages.0.description>
+  <DecreeFailed.stages.0.label>განკარგულება ჩაიშალა</DecreeFailed.stages.0.label>
+  <DecreeMet.stages.0.description>ჩემს კეთილშობილურ ავტორიტეტს პატივს სცემდნენ, როგორც უნდა იყოს.</DecreeMet.stages.0.description>
+  <DecreeMet.stages.0.label>განკარგულება დაკმაყოფილდა</DecreeMet.stages.0.label>
+  <Disinherited.stages.0.description>ჩემი წოდება ჩამოერთვა. მჭირდება ამ ხალხზე შუასაუკუნეები?</Disinherited.stages.0.description>
+  <Disinherited.stages.0.label>მემკვიდრეობით მიღებული</Disinherited.stages.0.label>
+  <NeuroquakeEcho.stages.0.description>შიშისა და მწუხარების შორეული, უცნობი გამოძახილები. ეს მაწუხებს ნერვიულობას და კანკალს.</NeuroquakeEcho.stages.0.description>
+  <NeuroquakeEcho.stages.0.label>ნეიროკვის ექო</NeuroquakeEcho.stages.0.label>
+</LanguageData>

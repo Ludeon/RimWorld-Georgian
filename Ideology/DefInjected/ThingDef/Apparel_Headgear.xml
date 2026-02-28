@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_AuthorityCap.description>ქუდი ხისტი პირით და მწვერვალებით. ის არ არის განსაკუთრებით დამცავი, მაგრამ ქმნის ავტორიტეტის გრძნობას და ატარებს უფრო ეფექტურს მონების ჩახშობაში.</Apparel_AuthorityCap.description>
+  <Apparel_AuthorityCap.label>უფლებამოსილების ქუდი</Apparel_AuthorityCap.label>
+  <Apparel_Broadwrap.description>შეფუთული ქსოვილის ფურცლები, რომლებიც თავისუფლად ფარავს მფლობელს თავსა და მხრებზე.</Apparel_Broadwrap.description>
+  <Apparel_Broadwrap.label>ფართო გადახვევა</Apparel_Broadwrap.label>
+  <Apparel_Collar.description>მონებისთვის გაკეთებული არასასიამოვნო საყელო. ის ახსენებს მფლობელს მონის სტატუსს და ფსიქოლოგიურად თრგუნავს მათ, ამცირებს მონების აჯანყების შანსს.</Apparel_Collar.description>
+  <Apparel_Collar.label>მონის საყელო</Apparel_Collar.label>
+  <Apparel_Flophat.description>დიდი, სქელი ქუდი, ტუკის მსგავსი. მას აქვს დამატებითი ქსოვილი უკანა მხარეს.</Apparel_Flophat.description>
+  <Apparel_Flophat.label>ფლოფატი</Apparel_Flophat.label>
+  <Apparel_Headwrap.description>შეფუთული ქსოვილის ნაჭერი, რომელიც ფარავს მატარებლის თმას.</Apparel_Headwrap.description>
+  <Apparel_Headwrap.label>თავსაბურავი</Apparel_Headwrap.label>
+  <Apparel_Shadecone.description>კონუსური ნაქსოვი ქუდი. კარგია მზეზე ხანგრძლივი საათის განმავლობაში სიგრილის შესანარჩუნებლად.</Apparel_Shadecone.description>
+  <Apparel_Shadecone.label>საჩრდილობელი</Apparel_Shadecone.label>
+  <Apparel_Slicecap.description>მყარი ქუდი, რომელიც ნაწილობრივ ფარავს მატარებლის სკალპს.</Apparel_Slicecap.description>
+  <Apparel_Slicecap.label>slicecap</Apparel_Slicecap.label>
+  <Apparel_Tailcap.description>სქელი ქუდი, რომელიც დამზადებულია ცხოველის კანიდან, ელეგანტური ბუჩქოვანი კუდით. შესანიშნავია ზამთარში სითბოს შესანარჩუნებლად.</Apparel_Tailcap.description>
+  <Apparel_Tailcap.label>კუდის ქუდი</Apparel_Tailcap.label>
+  <Apparel_VisageMask.description>სახის მძიმე ნიღაბი, რომელიც სტილიზებულ სახეს წააგავს.</Apparel_VisageMask.description>
+  <Apparel_VisageMask.label>ვიზაჟის ნიღაბი</Apparel_VisageMask.label>
+</LanguageData>

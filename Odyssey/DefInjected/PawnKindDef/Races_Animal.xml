@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Alligator.label>ალიგატორი</Alligator.label>
+  <AlphaThrumbo.label>ალფა თრომბო</AlphaThrumbo.label>
+  <AlphaThrumbo.lifeStages.0.label>ალფა თრომბო ხბო</AlphaThrumbo.lifeStages.0.label>
+  <Armadillo.label>არმადილო</Armadillo.label>
+  <Badger.label>მაჩვი</Badger.label>
+  <BogHound.label>ჭაობის ძაღლი</BogHound.label>
+  <BogHound.lifeStages.0.label>ჭაობის ძაღლი ლეკვი</BogHound.lifeStages.0.label>
+  <Bullfrog.label>ხარის ბაყაყი</Bullfrog.label>
+  <Cat_Scimitar.label>scimitar კატა</Cat_Scimitar.label>
+  <ColossusToad.label>კოლოსის გომბეშო</ColossusToad.label>
+  <Gorilla.label>გორილა</Gorilla.label>
+  <Hippo.label>ჰიპო</Hippo.label>
+  <LavaSnail.label>ლავის ლოკოკინა</LavaSnail.label>
+  <Mastodon.label>მასტოდონი</Mastodon.label>
+  <Mastodon.lifeStages.0.label>მასტოდონის ხბო</Mastodon.lifeStages.0.label>
+  <Megavole.label>მეგავოლი</Megavole.label>
+  <Mink.label>წაულასი</Mink.label>
+  <MonitorLizard.label>მონიტორის ხვლიკი</MonitorLizard.label>
+  <Moose.label>ლოსი</Moose.label>
+  <Moose.lifeStages.0.label>ლოსის ხბო</Moose.lifeStages.0.label>
+  <Muskox.label>მუსკოქსი</Muskox.label>
+  <Muskox.lifeStages.0.label>მუსკოქსის ხბო</Muskox.lifeStages.0.label>
+  <Panda.label>პანდა</Panda.label>
+  <Porcupine.label>გოგრა</Porcupine.label>
+  <PrairieDog.label>პრერიის ძაღლი</PrairieDog.label>
+  <Tiger.label>ვეფხვი</Tiger.label>
+  <Wolf_Great.label>დიდი მგელი</Wolf_Great.label>
+  <Wolf_Great.lifeStages.0.label>დიდი მგლის ლეკვი</Wolf_Great.lifeStages.0.label>
+  <Wolverine.label>ვოლვერინი</Wolverine.label>
+</LanguageData>

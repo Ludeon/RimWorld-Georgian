@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chinchilla.label>ჩინჩილა</Chinchilla.label>
+  <Deer.label>ირემი</Deer.label>
+  <Deer.labelFemale>თოჯინა</Deer.labelFemale>
+  <Deer.labelMale>მამალი</Deer.labelMale>
+  <Gazelle.label>გაზელი</Gazelle.label>
+  <Ibex.label>კენჭი</Ibex.label>
+  <Ibex.labelFemale>კვერცხუჯრედი</Ibex.labelFemale>
+  <Ibex.labelMale>კენჭი ვერძი</Ibex.labelMale>
+  <Pig.label>ღორი</Pig.label>
+  <Pig.labelFemale>დათესეს</Pig.labelFemale>
+  <Pig.lifeStages.0.label>გოჭი</Pig.lifeStages.0.label>
+  <WildBoar.label>გარეული ღორი</WildBoar.label>
+</LanguageData>

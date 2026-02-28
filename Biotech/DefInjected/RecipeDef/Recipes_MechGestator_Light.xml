@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Agrihand.description>დაადგინეთ აგრიჰენდის მექანოიდი.</Agrihand.description>
+  <Agrihand.label>gestate agrihand</Agrihand.label>
+  <Cleansweeper.description>ჩამოაყალიბეთ გამწმენდი მექანიზმი.</Cleansweeper.description>
+  <Cleansweeper.label>გესტაციის გამწმენდი</Cleansweeper.label>
+  <Constructoid.description>დაადგინეთ კონსტრუქციული მექანოიდი.</Constructoid.description>
+  <Constructoid.label>გესტაციური კონსტრუქტოიდი</Constructoid.label>
+  <Fabricor.description>დაადგინეთ ფაბრიქორის მექანოიდი.</Fabricor.description>
+  <Fabricor.label>გესტატის ფაბრიქტორი</Fabricor.label>
+  <Lifter.description>დაადგინეთ ამწევი მექანოიდი.</Lifter.description>
+  <Lifter.label>გესტაციის ამწევი</Lifter.label>
+  <Militor.description>დაადგინეთ მილიტორ მექანოიდი.</Militor.description>
+  <Militor.label>გესტატის მილიტორი</Militor.label>
+  <Paramedic.description>დაადგინეთ პარამედიკოსი მექანოიდი.</Paramedic.description>
+  <Paramedic.label>გესტაციური პარამედიკი</Paramedic.label>
+</LanguageData>

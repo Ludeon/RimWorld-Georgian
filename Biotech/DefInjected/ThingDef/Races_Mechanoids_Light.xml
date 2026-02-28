@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Mech_Agrihand.description>მცირე მექანოიდი, რომელიც შექმნილია ნათესების დასათესად და მოსავლისთვის. მიუხედავად იმისა, რომ ის უფრო შესაფერისია შრომისთვის, ვიდრე საბრძოლო, მას შეუძლია ბრძოლა ჩაშენებული საჭრელი პირებით საჭიროების შემთხვევაში.</Mech_Agrihand.description>
+  <Mech_Agrihand.label>სასოფლო-სამეურნეო</Mech_Agrihand.label>
+  <Mech_Cleansweeper.description>მსუბუქი მექანიზმი, რომელიც განკუთვნილია დასუფთავებისთვის. სროლის იარაღის არარსებობის შემთხვევაში, მას შეუძლია განახორციელოს მხოლოდ სუსტი შეტევები.</Mech_Cleansweeper.description>
+  <Mech_Cleansweeper.label>გამწმენდი</Mech_Cleansweeper.label>
+  <Mech_Constructoid.description>მცირე მექანიზმი, რომელიც შექმნილია სამშენებლო ამოცანების შესასრულებლად. საჭიროების შემთხვევაში მას შეუძლია შეასრულოს ბლაგვი შეტევები.</Mech_Constructoid.description>
+  <Mech_Constructoid.label>კონსტრუქოიდი</Mech_Constructoid.label>
+  <Mech_Fabricor.description>მცირე სამუშაო მექანიზმი, რომელიც შექმნილია ყველა სახის წარმოებული ობიექტის დასამზადებლად.</Mech_Fabricor.description>
+  <Mech_Fabricor.label>ფაბრიკატორი</Mech_Fabricor.label>
+  <Mech_Lifter.description>პატარა მექანოიდი, რომელიც განკუთვნილია ზიდვისთვის. სროლის იარაღის არარსებობის შემთხვევაში, მას შეუძლია განახორციელოს მხოლოდ სუსტი შეტევები.</Mech_Lifter.description>
+  <Mech_Lifter.label>ამწევი</Mech_Lifter.label>
+  <Mech_Militor.description>A small combat mechanoid armed with a low-power mini-shotgun. Roughly four feet tall, militors lack the power, range, and toughness of more senior combat mechs. However, it is cheap to gestate and maintain, and so is often used as a rear guard or swarm attacker.\n\nIn war, mech armies are known to send militors into urban ruins to hunt down survivors after breaking the human defenses. For this reason, they are considered by some to be the most cruel of all mechanoid patterns.</Mech_Militor.description>
+  <Mech_Militor.label>მილიტორი</Mech_Militor.label>
+  <Mech_Paramedic.description>პატარა მექანოიდი, რომელიც შექმნილია არაძალადობრივი გადაუდებელი სიტუაციების მართვისა და სამედიცინო დახმარებისთვის. პარამედიკს შეუძლია დაჭრილების გადარჩენა, ხანძრის ჩაქრობა, ავადმყოფების მკურნალობა და ქირურგიული ჩარევაც კი, როცა უფრო კვალიფიციური ადამიანი არ არის ხელმისაწვდომი. მისი ჩაშენებული ნახტომი საშუალებას აძლევს მას გადახტეს და გამოვიდეს საგანგებო სიტუაციებში, ხოლო ჩაშენებული ქაფის პოპერს შეუძლია ხანძრის სწრაფად ჩაქრობა.</Mech_Paramedic.description>
+  <Mech_Paramedic.label>პარამედიკოსი</Mech_Paramedic.label>
+  <Mech_WarUrchin.description>მცირე ზომის საბრძოლო მექანოიდი, რომელიც ჩვეულებრივ წარმოებულია ულტრა მძიმე ომის დედოფლის მექანში. ომის ზღურბლები არის სახარჯო მებრძოლები, რომლებიც შექმნილია მტრებზე თავდასხმის მიზნით. ისინი დამონტაჟებულია მოკლე დისტანციური სპინერის თოფებით და აქვთ არადატენვის დენის წყარო.</Mech_WarUrchin.description>
+  <Mech_WarUrchin.label>ომის ზღარბი</Mech_WarUrchin.label>
+</LanguageData>

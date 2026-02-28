@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeoDiversity_Abhorrent.description>სხვა რწმენა არის ბოროტი მოტყუება, რომელიც ანგრევს სამყაროს. სრულიად მიუღებელია მათი არსებობის უფლება საზოგადოებაში.</IdeoDiversity_Abhorrent.description>
+  <IdeoDiversity_Abhorrent.label>ინტენსიური ფანატიზმი</IdeoDiversity_Abhorrent.label>
+  <IdeoDiversity_Approved.description>სხვა რწმენის გაგება ღირს. კარგია სხვა ადამიანებთან ერთად ცხოვრება, რომლებიც განსხვავებულად ფიქრობენ.</IdeoDiversity_Approved.description>
+  <IdeoDiversity_Approved.label>დააფასეს</IdeoDiversity_Approved.label>
+  <IdeoDiversity_Disapproved.description>სხვა რწმენა აშკარად სისულელეა. არ არის კარგი მათი არსებობის უფლება საზოგადოებაში.</IdeoDiversity_Disapproved.description>
+  <IdeoDiversity_Disapproved.label>რბილი ფანატიზმი</IdeoDiversity_Disapproved.label>
+  <IdeoDiversity_Exalted.description>უთანხმოებაზე მუშაობა მორალის სიმაღლეა. ძალიან მორალურია სხვა ადამიანებთან ერთად ცხოვრება, რომლებიც განსხვავებულად ფიქრობენ.</IdeoDiversity_Exalted.description>
+  <IdeoDiversity_Exalted.label>ამაღლებული</IdeoDiversity_Exalted.label>
+  <IdeoDiversity_Horrible.description>სხვა რწმენა არის ამორალური ილუზიები, რომლებიც რეალურ ზიანს აყენებენ. ცუდია მათი არსებობის უფლება საზოგადოებაში.</IdeoDiversity_Horrible.description>
+  <IdeoDiversity_Horrible.label>ზომიერი ფანატიზმი</IdeoDiversity_Horrible.label>
+  <IdeoDiversity_Respected.description>სხვა რწმენა შეიცავს უნიკალურ ცოდნას. მშვენიერია სხვებთან ერთად ცხოვრება, რომლებიც განსხვავებულად ფიქრობენ.</IdeoDiversity_Respected.description>
+  <IdeoDiversity_Respected.label>უაღრესად დასაფასებელია</IdeoDiversity_Respected.label>
+  <IdeoDiversity_Standard.description>სხვა რწმენა არ არის დამტკიცებული ან უარყოფილი.</IdeoDiversity_Standard.description>
+  <IdeoDiversity_Standard.label>ნეიტრალური</IdeoDiversity_Standard.label>
+</LanguageData>

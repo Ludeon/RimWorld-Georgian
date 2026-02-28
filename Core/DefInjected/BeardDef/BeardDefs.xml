@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Anchor.label>წამყვანი</Anchor.label>
+  <BeardCurly.label>ხვეული</BeardCurly.label>
+  <Boxed.label>ყუთი</Boxed.label>
+  <Braided.label>წნული</Braided.label>
+  <Bushy.label>ბუჩქოვანი</Bushy.label>
+  <BushyStyled.label>ბუჩქოვანი სტილის</BushyStyled.label>
+  <Circle.label>წრე</Circle.label>
+  <Classy.label>კლასობრივი</Classy.label>
+  <Curtain.label>ფარდა</Curtain.label>
+  <Ducktail.label>იხვი</Ducktail.label>
+  <Fork.label>ჩანგალი</Fork.label>
+  <French.label>ფრანგული</French.label>
+  <Full.label>სავსე</Full.label>
+  <Goatee.label>თხის ჯიში</Goatee.label>
+  <Lincoln.label>ლინკოლნი</Lincoln.label>
+  <LongDutch.label>გრძელი ჰოლანდიური</LongDutch.label>
+  <Machete.label>მაჩეტე</Machete.label>
+  <Moustache.label>ულვაში</Moustache.label>
+  <MuttonChops.label>ცხვრის ხორცი</MuttonChops.label>
+  <NoBeard.label>არა წვერი</NoBeard.label>
+  <Norse.label>სკანდინავი</Norse.label>
+  <OldDutch.label>ძველი ჰოლანდიელი</OldDutch.label>
+  <Seer.label>მნახველი</Seer.label>
+  <SideWhiskers.label>გვერდითი ულვაშები</SideWhiskers.label>
+  <SoulPatch.label>სულის ნაჭერი</SoulPatch.label>
+  <StacheAndChops.label>stache და chops</StacheAndChops.label>
+  <Stubble.label>ნაღველი</Stubble.label>
+  <TriBraid.label>სამკუთხა ლენტები</TriBraid.label>
+  <Urist.label>ურისტი</Urist.label>
+  <VanDyke.label>ვანდაიკი</VanDyke.label>
+  <Wizard.label>ოსტატი</Wizard.label>
+</LanguageData>

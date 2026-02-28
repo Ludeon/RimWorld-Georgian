@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Opportunity_AbandonedPlatform.description>მიტოვებული ორბიტალური პლატფორმა, რომელიც შეიცავს ძვირფას რესურსებს.</Opportunity_AbandonedPlatform.description>
+  <Opportunity_MechanoidPlatform.description>ორბიტალური პლატფორმა, რომელიც გამოიყენება მექანოიდების წარმოებისთვის, რომელსაც აკონტროლებს შორეული მეხივა.</Opportunity_MechanoidPlatform.description>
+  <Opportunity_OrbitalWreck.description>ორბიტალური პლატფორმის ნანგრევები, რომელიც შეიცავს ძვირფას რესურსებს. ამ ნანგრევებს ჩვეულებრივ იცავენ ორბიტალური მეკობრეები.</Opportunity_OrbitalWreck.description>
+  <Opportunity_SurveySite.description>დისტანციური გამოკვლევის ადგილი.</Opportunity_SurveySite.description>
+  <Opportunity_SurveySite.label>გამოკითხვის საიტი</Opportunity_SurveySite.label>
+  <OpportunitySite_Satellite.description>უპილოტო თანამგზავრი, რომელსაც არ შეუძლია სიცოცხლის შენარჩუნება. თანამგზავრები ემსახურება მრავალფეროვან მიზნებს, ენერგიის შეგროვებიდან იარაღის პლატფორმებამდე.</OpportunitySite_Satellite.description>
+</LanguageData>

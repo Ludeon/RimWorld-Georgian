@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ship_Beam.description>სტრუქტურული სხივი, რომლის ირგვლივ შეიძლება აშენდეს ვარსკვლავური ხომალდი. მოყვება ყველა საჭირო მილსადენი და სატრანზიტო მილები კომუნიკაციების, ელექტროენერგიის და მასალების ტრანსპორტირებისთვის.</Ship_Beam.description>
+  <Ship_Beam.label>გემის სტრუქტურული სხივი</Ship_Beam.label>
+  <Ship_ComputerCore.description>კომპიუტერის ბირთვი, რომელშიც განთავსებულია მანქანა პერსონა, რომელსაც შეუძლია ვარსკვლავური ხომალდი წარმართოს ნებისმიერი გამოწვევისას მრავალათწლიანი ვარსკვლავური ფრენის დროს.</Ship_ComputerCore.description>
+  <Ship_ComputerCore.label>გემის კომპიუტერული ბირთვი</Ship_ComputerCore.label>
+  <Ship_CryptosleepCasket.description>კრიპტოძილის ყუთი გამაგრებულია კოსმოსის საფრთხის წინააღმდეგ. შეუძლია შეინარჩუნოს ადამიანი კრიპტოძილში საუკუნეების განმავლობაში და გადარჩეს ატმოსფერულ ხელახლა შეღწევაში.</Ship_CryptosleepCasket.description>
+  <Ship_CryptosleepCasket.label>გემის კრიპტოძილის ყუთი</Ship_CryptosleepCasket.label>
+  <Ship_Engine.description>ურეაქციო ჯონსონ-ტანაკას დრაივი, რომელსაც შეუძლია გემის ორბიტაზე გაშვება და ვარსკვლავებს შორის უკიდეგანო სივრცეებში სეირნობა.</Ship_Engine.description>
+  <Ship_Engine.label>გემის ძრავა</Ship_Engine.label>
+  <Ship_Reactor.description>აძლიერებს გემს ვარსკვლავებს შორის მოგზაურობისას. აფრენა მოითხოვს გაძლიერების ხანგრძლივ პროცესს, რომელიც სავარაუდოდ მოიზიდავს რეიდერებს.</Ship_Reactor.description>
+  <Ship_Reactor.label>გემის რეაქტორი</Ship_Reactor.label>
+  <Ship_SensorCluster.description>მრავალფუნქციური სენსორის მოდული. შეუძლია სიცარიელის სკანირება და სიგნალი კომუნიკაციის, საფრთხის აღმოჩენის, მოტყუების, ჩაკეტვისა და სხვა მიზნებისთვის.</Ship_SensorCluster.description>
+  <Ship_SensorCluster.label>სენსორების კლასტერი</Ship_SensorCluster.label>
+</LanguageData>

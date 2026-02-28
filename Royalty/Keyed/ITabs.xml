@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort}-ს ამჟამად აქვს ტიტული {TITLE}, რომელსაც ანიჭებს {FACTION_name}.</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort} მოითხოვს ამ ტიტულის პრივილეგიების სრულ პატივისცემას.</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort} არის მოქნილი ამ სათაურის პრივილეგიებთან დაკავშირებით.</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNextTitle>შემდეგი სათაური</RoyalTitleTooltipNextTitle>
+  <RoyalTitleTooltipNextTitleFavorCost>ღირს {0} {FACTION_royalFavorLabel}</RoyalTitleTooltipNextTitleFavorCost>
+  <RoyalTitleTooltipFinalTitle>ამ პლანეტაზე აღარ არის მოსაპოვებელი ტიტულები.</RoyalTitleTooltipFinalTitle>
+  <RoyalTitleTooltipInheritance>თუ {PAWN_nameDef} მოკვდება, {HEIR_nameFull} ინიშნება {PAWN_possessive} ტიტულის მემკვიდრედ.</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull} არ არის არც ერთი ფრაქციის წევრი.</RoyalTitleTooltipHeirNoFaction>
+  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull} არის {FACTION_name}-ის წევრი.</RoyalTitleTooltipHeirDifferentFaction>
+  <RoyalTitleTooltipNoHeir>არავინ არის დანიშნული {PAWN_nameDef}-ის ტიტულის მემკვიდრედ. თუ {PAWN_pronoun} მოკვდება, ტიტული დაიკარგება.</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipTitlesEarnable>{FACTION_name}-ის მოსაპოვებელი ტიტულები</RoyalTitleTooltipTitlesEarnable>
+  <RoyalTitleTooltipTitlesNonEarnable>{FACTION_name}-ის სხვა სათაურები</RoyalTitleTooltipTitlesNonEarnable>
+  <RoyalTitleTooltipRoyalFavorAmount>{0} {1}</RoyalTitleTooltipRoyalFavorAmount>
+  <RoyalTitleTooltipRoyalFavorTotal>{0} სულ</RoyalTitleTooltipRoyalFavorTotal>
+
+  <RecruitmentResistanceRoyalTitleOffset>{0} სათაური</RecruitmentResistanceRoyalTitleOffset>
+  
+  
+  <TabPermits>ნებართვები</TabPermits>
+  <PermitsFromFaction>ნებართვები {FACTION_name}-დან</PermitsFromFaction>
+  <CurrentTitle>ამჟამინდელი სათაური</CurrentTitle>
+  <UnusedPermits>გამოუყენებელი სანებართვო პუნქტები</UnusedPermits>
+  <ReturnAllPermits>დააბრუნეთ ყველა ნებართვა</ReturnAllPermits>
+  <NoPermitsToReturn>{PAWN_nameDef}-ს არ აქვს დაბრუნების ნებართვა.</NoPermitsToReturn>
+  <NotEnoughFavor>დაბრუნების ნებართვებისთვის საჭიროა {FAVORCOST} {FAVOR}, მაგრამ {PAWN_nameDef}-ს აქვს მხოლოდ {CURFAVOR}.</NotEnoughFavor>
+  <ReturnAllPermits_Desc>დააბრუნეთ ყველა ადრე არჩეული ნებართვა ამ ფრაქციისთვის. თქვენ დაიბრუნებთ ყველა დახარჯულ სანებართვო ქულას და შეძლებთ მათ ხელახლა დახარჯვას.\n\nეს ქმედება ღირს {BASEFAVORCOST} {FAVOR}, პლუს ნებისმიერი ნებართვის გადატვირთვის ღირებულება, რომელიც ამჟამად გაცივებულია. მთლიანი ღირებულება ახლა არის {FAVORCOST}.</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>დააბრუნეთ ყველა ადრე არჩეული ნებართვა {FACTION_name}-ისთვის?\n\nთქვენ დაიბრუნებთ ყველა დახარჯულ სანებართვო ქულას და შეძლებთ მათ ხელახლა დახარჯვას.\n\nეს ქმედება ღირს {BASEFAVORCOST} {FAVOR}, პლუს ნებისმიერი ნებართვის გადატვირთვის ღირებულება, რომელიც ამჟამად გაცივებულია. მთლიანი ღირებულება ახლა არის {FAVORCOST}.</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>ფრაქციის შეცვლა</SwitchFaction_Desc>
+  <AcceptPermit>ნებართვის მიღება</AcceptPermit>
+  <RequiresTitle>საჭიროებს სათაურს: {0}</RequiresTitle>
+  <UpgradeFrom>განახლება: {0}-დან</UpgradeFrom>
+  <Cooldown>გამოყენების დრო</Cooldown>
+  <CooldownUseFavorCost>{HONOR} ღირებულება, თუ გამოიყენება გაგრილების დროს</CooldownUseFavorCost>
+  
+</LanguageData>

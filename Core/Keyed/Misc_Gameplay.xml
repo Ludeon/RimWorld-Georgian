@@ -1,0 +1,1211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <HitPointsBasic>დარტყმის ქულები</HitPointsBasic>
+  <WorkLeft>სამუშაო დარჩა</WorkLeft>
+  <Contents>შიგთავსი</Contents>
+  <ContainedResources>შეიცავს რესურსებს</ContainedResources>
+  <ForPrisonerUse>პატიმრის გამოყენებისთვის</ForPrisonerUse>
+  <InPrisonCell>ციხის საკანში: პატიმრის გამოყენებისთვის</InPrisonCell>
+  <ForColonistUse>კოლონისტების გამოყენებისთვის</ForColonistUse>
+  <MedicalBed>სამედიცინო</MedicalBed>
+  <Owner>მფლობელი</Owner>
+  <Owners>მფლობელები</Owners>
+  <AssignedColonist>დანიშნული კოლონისტი</AssignedColonist>
+  <BedUncomfortableTemperature>არასასიამოვნო ოთახის ტემპერატურა</BedUncomfortableTemperature>
+  <BedUnsafeTemperature>სახიფათო ოთახის ტემპერატურა</BedUnsafeTemperature>
+  <DiedOn>გარდაიცვალა {0}-ზე</DiedOn>
+  <Nobody>არავინ</Nobody>
+  <Unowned>უმფლობელო</Unowned>
+  <DeadTime>მკვდარია {0}-ისთვის</DeadTime>
+  <WalkSpeed>სიარულის სიჩქარე {0}</WalkSpeed>
+  <FertShort>ნაყ.</FertShort>
+  <DyingLower>მომაკვდავი</DyingLower>
+  <FilthOnFeet>სიბინძურე ფეხებზე:</FilthOnFeet>
+  <NotEnoughStoredLower>არ არის საკმარისი შენახული</NotEnoughStoredLower>
+  <NothingLower>არაფერი</NothingLower>
+  <Nothing>არაფერი</Nothing>
+  <Adapted>ადაპტირებული</Adapted>
+  <FreshMissingBodyPart>ახალი</FreshMissingBodyPart>
+  <DevelopedImmunityLower>განვითარებული იმუნიტეტი</DevelopedImmunityLower>
+  <NeedsTendingNow>ახლა მოვლა სჭირდება</NeedsTendingNow>
+  <CanTendNow>ახლა შეიძლება მოვლა</CanTendNow>
+  <TreatmentExpiresIn>ტენდენციის ვადა იწურება {0}-ში</TreatmentExpiresIn>
+  <NextTendIn>შესაძლებელია მოვლა {0}-ში</NextTendIn>
+  <TendQuality>ტენდენციური ხარისხი</TendQuality>
+  <DisappearsAtTotalTendQuality>სულ ტენდენციური ხარისხი</DisappearsAtTotalTendQuality>
+  <MissingMedicalBillIngredient>არა {0}</MissingMedicalBillIngredient>
+  <Immunity>იმუნიტეტი</Immunity>
+  <DaysToRecover>{0} დღე აღდგენისთვის</DaysToRecover>
+  <Ineffective>არაეფექტური</Ineffective>
+  <Illegal>უკანონო</Illegal>
+  <DetectionChance>გამოვლენის შანსი</DetectionChance>
+  <Race>რასა</Race>
+  <Description>აღწერა</Description>
+  <Equipment>აღჭურვილობა</Equipment>
+  <Apparel>ტანსაცმელი</Apparel>
+  <Inventory>ინვენტარი</Inventory>
+  <ThingInfo>ინფორმაცია</ThingInfo>
+  <DropThing>გადაგდება</DropThing>
+  <DropThingLodger>ფრაქციის დროებითი წევრები ნივთებს არ ჩამოაგდებენ.</DropThingLodger>
+  <DropThingLocked>ეს ადამიანი უარს ამბობს ამის დატოვებაზე.</DropThingLocked>
+  <Rename>გადარქმევა</Rename>
+  <RenameAnimal>ცხოველის სახელის გადარქმევა</RenameAnimal>
+  <RenameColonist>კოლონისტის სახელის გადარქმევა</RenameColonist>
+  <RenounceTitle>უარი თქვით ტიტულს</RenounceTitle>
+  <Execute>სიკვდილით დასჯა</Execute>
+  <ExecuteColonist>დამნაშავე კოლონისტის სიკვდილით დასჯა\n\nთუ ამას ჩართავთ, დამკვეთი განაგრძობს ამ ადამიანის სიკვდილით დასჯას.</ExecuteColonist>
+  <MessageColonistMarkedForExecution>{0_labelShort} ახლა მონიშნულია შესრულებისთვის. შემდეგი ხელმისაწვდომი მცველი განახორციელებს {0_objective}-ს.</MessageColonistMarkedForExecution>
+  <TitleOfFaction>{0} {1}-დან</TitleOfFaction>
+  <RenounceTitleDescription>ეს ქმედება დაკარგავს {PAWN_nameDef} {PAWN_possessive} {TITLE} ტიტულს. თქვენ არ მიიღებთ კომპენსაციას სათაურზე უარის თქმისთვის.\n\nამას ექნება შემდეგი ეფექტი:\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleWillLoosePermits>{PAWN_pronoun} დაკარგავს ამ ნებართვებს</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} დაკარგავს {POINTS} დაუხარჯავ ნებართვის ქულებს {FACTION_name}-ით.</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} შეინარჩუნებს {PAWN_possessive} ფსილინკის ყველა დონეს და ფსიკასტს.</RenounceTitleWillKeepPsylinkLevels>
+  <UnknownLower>უცნობი</UnknownLower>
+  <On>ჩართ.</On>
+  <Off>გამორთ.</Off>
+  <SourceToolLabel>{0} {1}</SourceToolLabel>
+  <PowerSwitch_Power>კვება</PowerSwitch_Power>
+  <JoyTolerances>დასვენების ტიპის ტოლერანტობა</JoyTolerances>
+  <MilkFullness>რძის სისრულე</MilkFullness>
+  <WoolGrowth>მატყლის ზრდა</WoolGrowth>
+  <EggProgress>კვერცხის პროგრესი</EggProgress>
+  <Fertilized>განაყოფიერებული</Fertilized>
+  <ProgressStoppedUntilFertilized>პროგრესი შეჩერდა განაყოფიერებამდე</ProgressStoppedUntilFertilized>
+  <HatchesIn>იჩეკება</HatchesIn>
+  <SkillTooLow>გვჭირდება {0} დონე {2}, აქვს {1}</SkillTooLow>
+  <Freezing>გაყინვა</Freezing>
+  <Overheating>გადახურება</Overheating>
+  <RuinedByTemperature>დანგრეულია ტემპერატურისგან.</RuinedByTemperature>
+  <CorpsePercentMissing>სხეულის ნაწილები აკლია</CorpsePercentMissing>
+  <HiveReproducesIn>რეპროდუცირებაში</HiveReproducesIn>
+  <DormantHiveNotReproducing>მიძინებული: არ მრავლდება.</DormantHiveNotReproducing>
+  <NextSpawnedItemIn>შემდეგი {0} in</NextSpawnedItemIn>
+  <NextSpawnedResourceIn>შემდეგი რესურსი</NextSpawnedResourceIn>
+  <BrokenDown>გატეხილი</BrokenDown>
+  <BondBrackets>(ობლიგაცია)</BondBrackets>
+  <Fuel>საწვავი</Fuel>
+  <FuelLevelGizmoLabel>საწვავი</FuelLevelGizmoLabel>
+  <SetTargetFuelLevel>დააყენეთ საწვავის სამიზნე დონე {0}-ზე</SetTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>დააყენეთ საწვავის სამიზნე დონე {0}-ზე\nმაქსიმალური მანძილი: {1} ფილები</SetPodLauncherTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>საწვავის სამიზნე დონე: {0}</ConfiguredTargetFuelLevel>
+  <Enemies>მტრები</Enemies>
+  <People>ადამიანები</People>
+  <TimePassed>გავიდა დრო</TimePassed>
+  <CurrentRadius>მიმდინარე რადიუსი</CurrentRadius>
+  <RadiusExpandsIn>რადიუსი ფართოვდება</RadiusExpandsIn>
+  <Permanent>მუდმივი</Permanent>
+  <CaravanResting>დასვენება</CaravanResting>
+  <UsingBedroll>1 საწოლის გამოყენებით</UsingBedroll>
+  <UsingBedrolls>{0} საწოლების გამოყენებით</UsingBedrolls>
+  <CaravanEstimatedTimeToDestination>ეს დრო დანიშნულების ადგილზე: {0} დღე</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedDaysToDestination>მარშრუტის მგზავრობის დრო: {0} დღე</CaravanEstimatedDaysToDestination>
+  <CaravanImmobilizedByMass>იმობილიზაცია: ძალიან დიდი წონა.</CaravanImmobilizedByMass>
+  <CaravanOutOfFood>საკვების გარეშე.</CaravanOutOfFood>
+  <CaravanDaysOfFood>კვების დღეები: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>კვების დღეები: {0} (ლპობა {1} დღეში)</CaravanDaysOfFoodRot>
+  <AllCaravanMembersDowned>შეჩერდა, რადგან: ყველა ჩამოგდებულია.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>შეჩერდა, რადგან: ყველა ფსიქიკურ შესვენებაშია.</AllCaravanMembersMentalBreak>
+  <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
+  <CaravanAnimal>1 ცხოველი</CaravanAnimal>
+  <CaravanAnimalsCount>{0} ცხოველები</CaravanAnimalsCount>
+  <CaravanPrisoner>1 პატიმარი</CaravanPrisoner>
+  <CaravanPrisonersCount>{0} პატიმრები</CaravanPrisonersCount>
+  <CaravanPawnsInMentalState>{0} ფსიქიკურ მდგომარეობაში</CaravanPawnsInMentalState>
+  <CaravanPawnsDowned>{0} ჩამოვარდა</CaravanPawnsDowned>
+  <CaravanTraveling>მოგზაურობა.</CaravanTraveling>
+  <CaravanWaiting>ლოდინი.</CaravanWaiting>
+  <BeingCarriedDueToIllness>ავადმყოფობის გამო ატარებენ</BeingCarriedDueToIllness>
+  <UsingBedrollsDueToIllness>საწოლების გამოყენება ავადმყოფობის გამო</UsingBedrollsDueToIllness>
+  <CurrentTileMovementTime>ფილების მოძრაობის მიმდინარე დრო</CurrentTileMovementTime>
+  <Visibility>ხილვადობა</Visibility>
+  <Temperature>ტემპერატურა</Temperature>
+  <BadTemperature>ცუდი ტემპერატურა</BadTemperature>
+  <IdealFermentingTemperature>დუღილის იდეალური ტემპერატურა</IdealFermentingTemperature>
+  <DrugEffectMultiplier>{0} ეფექტის მულტიპლიკატორი: {1}</DrugEffectMultiplier>
+  <CaravanVisiting>{0}-ის მონახულება.</CaravanVisiting>
+  <CaravanEntering>{0}-ის შეყვანა.</CaravanEntering>
+  <CaravanAttacking>შეტევა {0}-ზე.</CaravanAttacking>
+  <CaravanOfferingGifts>გთავაზობთ საჩუქრებს {0}-ს.</CaravanOfferingGifts>
+  <CaravanTrading>ვაჭრობა {0}-ით.</CaravanTrading>
+  <WasWornByCorpse>დაბინძურებული გვამის ტარებისგან.</WasWornByCorpse>
+  <WornByCorpseChar>T</WornByCorpseChar>
+  <DeterioratingUnroofed>გახსნილი</DeterioratingUnroofed>
+  <DeterioratingOutdoors>გარეთ</DeterioratingOutdoors>
+  <DeterioratingRaining>წვიმა</DeterioratingRaining> 
+  <Protected>დაცული</Protected>
+  <DeterioratingBecauseOf>გაფუჭება</DeterioratingBecauseOf>
+  <DeteriorateInDuration>გაუარესდება {0}-ში.</DeteriorateInDuration>
+  <Map>რუკა</Map>
+  <CaravanDetectedRaidCountdown>{0} მტრების მოსვლამდე</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdownTip>მტრებმა შეიტყვეს თქვენი ადგილმდებარეობის შესახებ. ისინი ჩამოვლენ {0}-ში.</CaravanDetectedRaidCountdownTip>
+  <Room>ოთახი</Room>
+  <BeautyHere>სილამაზე აქ</BeautyHere>
+  <NoPower>არანაირი ძალა</NoPower>
+  <NotInRoomRole>არა {0}-ში</NotInRoomRole>
+  <WorkSpeedPenalty>მუშაობის სიჩქარე</WorkSpeedPenalty>
+  <DisabledCommand>გამორთული</DisabledCommand>
+  <Deactivated>გამოთიშული</Deactivated>
+  <ReadyForLaunch>მზადაა გასაშვებად.</ReadyForLaunch>
+  <NotReadyForLaunch>არ არის მზად გასაშვებად</NotReadyForLaunch>
+  <NotAllInGroupConnectedToFuelingPort>არ არის საწვავის პორტი</NotAllInGroupConnectedToFuelingPort>
+  <NotAllLaunchablesInGroupHaveAnyFuel>საწვავი არ არის</NotAllLaunchablesInGroupHaveAnyFuel>
+  <LaunchableInGroupHasSomethingLeftToLoad>ჩატვირთვა მიმდინარეობს</LaunchableInGroupHasSomethingLeftToLoad>
+  <TransportPodDestinationBeyondMaximumRange>მაქსიმალური დიაპაზონის მიღმა</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodDestinationNoPath>გზა არ არის {LAYER_label}-მდე</TransportPodDestinationNoPath>
+  <TransportPodNotEnoughFuel>არ არის საკმარისი საწვავი</TransportPodNotEnoughFuel>
+  <SettlementTrader>{0} {1}-დან</SettlementTrader>
+  <RoomSurgerySuccessChanceFactor>ოპერაციის წარმატების შანსების გამრავლება ოთახიდან</RoomSurgerySuccessChanceFactor>
+  <RoomInfectionChanceFactor>ინფექციის შანსის გამრავლება ოთახიდან</RoomInfectionChanceFactor>
+  <VentClosed>დახურული</VentClosed>
+  <WornBy>ნახმარი {1_labelShort}-ის მიერ</WornBy>
+  <EquippedBy>აღჭურვილია {1_labelShort}-ით</EquippedBy>
+  <QuestTargetDestroyInspectString>{0}-ს სურს, რომ ეს განადგურდეს.\n ჯილდო: {1} ({2})</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectStringShort>{0}-ს სურს, რომ ეს განადგურდეს.</QuestTargetDestroyInspectStringShort>
+  <ShuttleDelayInspectString>გამგზავრება შატლით {0}-ში</ShuttleDelayInspectString>
+  <ShuttleLeaveDelayInspectString>გამგზავრება {0}-ში</ShuttleLeaveDelayInspectString>
+  <ShouldDepartOnShuttleInspectString>უნდა წავიდეს შატლით</ShouldDepartOnShuttleInspectString>
+  <WorldObjectTimeout>დარჩენილი დრო: {0}</WorldObjectTimeout>
+  <ClickToSortByThisColumn>დააწკაპუნეთ ამ სვეტის მიხედვით დასალაგებლად.</ClickToSortByThisColumn>
+  <WorkPriorityShiftClickTip>Shift + click: პრიორიტეტის გაზრდა\nShift + მარჯვენა დაწკაპუნება: პრიორიტეტის შემცირება</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickEnableDisableTip>Shift + click: ჩართეთ ყველა\nShift + მარჯვენა დაწკაპუნება: გამორთეთ ყველა</WorkPriorityShiftClickEnableDisableTip>
+  <AllowedAreaShiftClickTip>Shift + click: დააყენეთ ყველა სახლში\nShift + მარჯვენა ღილაკი: დააყენეთ ყველა შეუზღუდავად</AllowedAreaShiftClickTip>
+  <CheckboxShiftClickTip>Shift + დააწკაპუნეთ: შეამოწმეთ ყველა\nShift + მარჯვენა ღილაკი: მოხსენით ყველა</CheckboxShiftClickTip>
+  <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
+  <SkillRequirements>უნარების მოთხოვნები</SkillRequirements>
+  <Products>პროდუქტები</Products>
+  <Requires>საჭიროა</Requires>
+  <Replaces>ანაცვლებს</Replaces>
+  <MissingPartWithLabel>აკლია {0}</MissingPartWithLabel>
+  <NumAnyOf>{0}x რომელიმე</NumAnyOf>
+  <Relationship>{0} {1}-დან</Relationship>
+  <Prisoner>პატიმარი</Prisoner>
+  <Refugee>ლტოლვილი</Refugee>
+  <TileMovementDifficulty>რელიეფის გადაადგილების სირთულე</TileMovementDifficulty>
+  <Impassable>გაუვალი</Impassable>
+  <CaravanMovementSpeedFull>ქარავნის მოძრაობის სიჩქარე</CaravanMovementSpeedFull>
+  <DownedLower>დამხობილი</DownedLower>
+  <Carried>მოტანილი</Carried>
+  <RideableAnimalsPerPeople>სატარი ცხოველები/ადამიანები</RideableAnimalsPerPeople>
+  <MultiplierFromRiddenAnimals>მულტიპლიკატორი მიჯაჭვული ცხოველებისგან</MultiplierFromRiddenAnimals>
+  <MultiplierFromMoveSpeedBonus>მულტიპლიკატორი ბონუსებიდან</MultiplierFromMoveSpeedBonus>
+  <MultiplierForCarriedMass>მულტიპლიკატორი გადატანილი მასისთვის: {0}</MultiplierForCarriedMass>
+  <RideableAnimalTip>ეს ცხოველი სატარია. ქარავანში მყოფი ხალხი ატარებს ყველაზე სწრაფ ცხოველებს, რაც მთლიანობაში აუმჯობესებს ქარავნის სიჩქარეს.</RideableAnimalTip>
+  <CaravanBonusTip>ეს ადამიანი უზრუნველყოფს ბონუსს ქარავნის სიჩქარეზე. სიჩქარის ზრდა არის ქარავნის ყველა წევრის საშუალო ბონუსი.</CaravanBonusTip>
+  <EncumberedCaravanTilesPerDayTip>ეს ქარავანი ვერ მოძრაობს, რადგან ძალიან ბევრს ატარებს.</EncumberedCaravanTilesPerDayTip>
+  <FinalCaravanPawnsMovementSpeed>ქარავნის წევრების სიჩქარე</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanMovementSpeed>საბოლოო სიჩქარე</FinalCaravanMovementSpeed>
+  <Winter>ზამთარი</Winter>
+  <MovementDifficultyOffsetInWinter>{0} ზამთარში</MovementDifficultyOffsetInWinter>
+  <RangeTo>მდე</RangeTo>
+  <CausedBy>გამოწვეული</CausedBy>
+  <NoDietCategoryLetter>არავითარი წერილი</NoDietCategoryLetter>
+  <ExpiresIn>იწურება</ExpiresIn>
+  <CaravanLeaderCaravanName>{1_labelShort}-ის ქარავანი</CaravanLeaderCaravanName>
+  <Reason>მიზეზი</Reason>
+  <RelationsWith>ურთიერთობა {0}-თან</RelationsWith>
+  <capturedBy>გადაღებული {0}-ის მიერ</capturedBy>
+  <yourCaravan>შენი ქარავანი</yourCaravan>
+  <CreatureWildness>{0} ველურობა</CreatureWildness>
+  <CreatureTrainability>{0} ტრენინგუნარიანობა</CreatureTrainability>
+  <CreatureFollowDrafted>მიჰყევით მასტერს შედგენისას</CreatureFollowDrafted>
+  <CreatureFollowFieldwork>მიჰყევით მასტერს საველე სამუშაოების შესრულებისას</CreatureFollowFieldwork>
+  <ProximitySingleGoodwillChange>{0} {1}-თან ერთად</ProximitySingleGoodwillChange>
+  <EnterCooldown>ძალიან საშიშია {0}-ისთვის ხელახლა შესვლა.</EnterCooldown>
+  <Caravan>კარავანი</Caravan>
+  <HiddenOrNoSitePartDescription>შეიძლება იქ იყოს საფრთხე.</HiddenOrNoSitePartDescription>
+  <PreciousLumpHostileThreat>სკანერი აგროვებს აქტივობას სიმსივნის გარშემო. სავარაუდოდ მტრული.</PreciousLumpHostileThreat>
+  <PreciousLumpLabel>{0}-ის ერთიანად</PreciousLumpLabel>
+  <NoActiveResearchProjectToFinish>არ არის აქტიური კვლევითი პროექტი</NoActiveResearchProjectToFinish>
+  <CurrentProject>მიმდინარე პროექტი</CurrentProject>
+  <ResearchProgress>კვლევის პროგრესი</ResearchProgress>
+  <AlreadyHasHediff>უკვე აქვს {0}</AlreadyHasHediff>
+  <Turret>ბუმბული</Turret>
+  <Turrets>ბუმბულები</Turrets>
+  <Mortar>ნაღმსატყორცნი</Mortar>
+  <Mortars>ნაღმსატყორცნები</Mortars>
+  <Enemy>მტერი</Enemy>
+  <Location>მდებარეობა</Location>
+  <AnimalsLower>ცხოველები</AnimalsLower>
+  <ItemsLower>ნივთები</ItemsLower>
+  <FilthLabel>{0} x{1}</FilthLabel>
+  <FilthLabelWithSource>{0} {1} x{2}-დან</FilthLabelWithSource>
+  <Required>სავალდებულო</Required>
+  <GiveGiftViaTransportPodsTradeRequestWarning>გაფრთხილება: თქვენ არ შეგიძლიათ ვაჭრობის მოთხოვნების დასრულება სატრანსპორტო რგოლების გამოყენებით.\nთუ საქონელს გაგზავნით, ანგარიშსწორება მიიღებს მათ საჩუქრად, მაგრამ არ დააჯილდოებთ.\n\nვაჭრობისთვის, მიუახლოვდით დასახლებას ქარავანით!\n\nდარწმუნებული ხართ, რომ გსურთ დატვირთული საქონელი აჩუქოთ ფრაქციას?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <PrisonerLower>პატიმარი</PrisonerLower>
+  <PrisonersLower>პატიმრები</PrisonersLower>
+  <ClickToViewInQuestsTab>დააწკაპუნეთ ამ ქვესტის სანახავად ქვესტების ჩანართში</ClickToViewInQuestsTab>
+  <Mood>გუნება-განწყობა</Mood>
+  <Quest>დავალება</Quest>
+  <BringsRaidsEvery>მოაქვს რეიდები ყოველ {0}</BringsRaidsEvery>
+  <GeneratesResourcesEvery>აწარმოებს {0} ყოველ {1}</GeneratesResourcesEvery>
+  <FoliageKillRadius>ფოთლების მოკვლის რადიუსი</FoliageKillRadius>
+  <ViewHyperlink>ხედი: {0}</ViewHyperlink>
+  <DetonationCountdown>აფეთქდება {0} დღეში</DetonationCountdown>
+  <ExplosionOnDamageWarning>დიდი აფეთქება დაზიანების შემთხვევაში.</ExplosionOnDamageWarning>
+  <MechCluster>მექანიკური კლასტერი</MechCluster>
+  <SpawningNextPawnIn>ქვირითობა {0}-ში</SpawningNextPawnIn>
+  <MechAssemblyCompleteIn>{0} ორსულობა სრულდება {1}-ში.</MechAssemblyCompleteIn>
+  <MechAssemblyNextType>იქნება გესტაცია</MechAssemblyNextType>
+  <ThingsProduced>წარმოებული</ThingsProduced>
+  <PlantsHarvested>მოკრეფილი</PlantsHarvested>
+  <PawnsKilled>{0} მოკლეს</PawnsKilled>
+  <PawnsLent>გაიგზავნა {0}, დაბრუნდება {1}-ში</PawnsLent>
+  <DormantCompInactive>მძინარე</DormantCompInactive>
+  <DormantCompSealed>დალუქული</DormantCompSealed>
+  <DormantCompBeacon>მზადაა მექანოიდების ჩამოგდება</DormantCompBeacon>
+  <DormantCompExpired>ვადაგასული</DormantCompExpired>
+  <InitiatesIn>იწყებს ინიცირებას</InitiatesIn>
+  <SendSignalOnCountdownCompTime>აქტიურდება {0}-ში</SendSignalOnCountdownCompTime>
+  <PsychicEntropy>ნერვული სითბო</PsychicEntropy>
+  <PsychicEntropyShort>სიცხე</PsychicEntropyShort>
+  <PsychicEntropyPainFocus>{0} ტკივილის გაძლიერება</PsychicEntropyPainFocus>
+  <ConditionCauserRadius>რადიუსი {0}</ConditionCauserRadius>
+  <LowPsyfocus>დაბალი ფსიფოკუსი</LowPsyfocus>
+  <DurationLeft>{0} დარჩა</DurationLeft>
+  <AnyOf>რომელიმე</AnyOf>
+  <TraitRequired>მოითხოვს {0} თვისებას</TraitRequired>
+  <Goodwill>კეთილგანწყობა</Goodwill>
+  <NaturalGoodwill>ბუნებრივი კეთილგანწყობა</NaturalGoodwill>
+  <NaturalGoodwillRange>ბუნებრივი გუდვილის დიაპაზონი</NaturalGoodwillRange>
+  <NaturalGoodwillDescription>ბუნებრივი კეთილგანწყობა ემყარება ფრაქციის იდენტობასა და რწმენას. თუ არსებული გუდვილი შორს არის ბუნებრივი გუდვილისგან, ის დროთა განმავლობაში ნელ-ნელა გადაინაცვლებს ბუნებრივ გუდვილზე.\n\nყველა გუდვილის ეფექტი მრავლდება {0}-ზე ბუნებრივი გუდვილისკენ გადასვლისას.</NaturalGoodwillDescription>
+  <JobReport_ReduceResistance>{0_nameIndef}-ის წინააღმდეგობის შემცირება</JobReport_ReduceResistance>
+  <TooLargeForBed>ძალიან დიდი</TooLargeForBed>
+  <Warning>გაფრთხილება</Warning>
+  <HasSubquest>აქვს ქვესათაური</HasSubquest>
+  <SubquestOf>ქვექვესტი</SubquestOf>
+  <Raid>რეიდი</Raid>
+  <ApparelRequirementDisabledLabel>გამორთულია</ApparelRequirementDisabledLabel>
+  <Nudism>ნუდიზმი</Nudism>
+  <StudyProgress>სწავლის პროგრესი</StudyProgress>
+  <StudyCompleted>დასრულებული</StudyCompleted>
+  <AttackToDestroy>შეუტიეთ მას, რომ გაანადგუროთ იგი.</AttackToDestroy>
+  <RemoveByAttackingTooltip>ამოიღეთ ეს თავდასხმით.</RemoveByAttackingTooltip>
+  <ThoughtFoodEatenFood>საჭმელი</ThoughtFoodEatenFood>
+  <ThoughtFoodEatenIngredients>ინგრედიენტები</ThoughtFoodEatenIngredients>
+  <ShieldInbuilt>ფარის შეკვრა</ShieldInbuilt>
+  <PuncturedWillExplode>პუნქცია - მალე აფეთქდება.</PuncturedWillExplode>
+  <ClickToOpenResearchTab>დააწკაპუნეთ კვლევის ფანჯრის გასახსნელად</ClickToOpenResearchTab>
+  <TargetBelongsToNPCFaction>სამიზნე სხვა ფრაქციას ეკუთვნის.</TargetBelongsToNPCFaction>
+  <MoreLower>მეტი</MoreLower>
+  <RequiredTechprintTip>საჭიროა</RequiredTechprintTip>
+  <Size>ზომა</Size>
+  <TotalPlanningArea>მთლიანი დაგეგმარების ფართობი</TotalPlanningArea>
+  <Cost>ღირებულება</Cost>
+  <StunnedByEMP>გაოგნებული EMP-ით</StunnedByEMP>
+  <BackstoryTitle>ტიტული</BackstoryTitle>
+  <Person>პიროვნება</Person>
+  <Activated>ჩართული.</Activated> 
+  <Contains>შეიცავს</Contains>
+  <Hostiles>მტრები</Hostiles>
+  <Investigate>გამოძიება</Investigate> 
+  <Activate>ჩართვა</Activate> 
+  <Deactivate>გამორთვა</Deactivate>
+  <Activation>გააქტიურება</Activation>
+  <Complete>დასრულება</Complete>
+  <RequiresImprisonment>უნდა დააპატიმრონ.</RequiresImprisonment> 
+  <HaulFromSource>უპირატესობა მიანიჭეთ შიგთავსის გადაზიდვას</HaulFromSource>
+  <UseGizmo>გამოყენება</UseGizmo>
+  <UseGizmoTooltip>შეუკვეთეთ ვინმეს გამოიყენოს {0}.</UseGizmoTooltip>
+  <UseGizmoMouse>აირჩიეთ ვინ უნდა გამოიყენოს ეს</UseGizmoMouse>
+  <TargetGizmoMouse>აირჩიეთ სამიზნე</TargetGizmoMouse>
+  <CannotUseGizmoMouse>ამის გამოყენება არ შეიძლება</CannotUseGizmoMouse>
+  <Buildings>შენობები</Buildings>
+  <NotYetDiscovered>ჯერ არ არის აღმოჩენილი</NotYetDiscovered>
+  <ReportStringCrawlingToSafety>მცოცავი უსაფრთხოებისკენ.</ReportStringCrawlingToSafety>
+  <ReportStringCrawlingToBed>საწოლში მცოცავი.</ReportStringCrawlingToBed>
+  <Flying>მფრინავი</Flying>
+  <PreventCutting>თავიდან აიცილეთ ჭრა</PreventCutting>
+  <PreventCuttingDesc>როდესაც ჩართულია, კოლონისტები არ მოჭრიან ამ მცენარეს.</PreventCuttingDesc>
+
+  <ComesFromTrait>თვისებიდან გამომდინარე</ComesFromTrait>
+  <ComesFromHediff>მდგომარეობიდან გამომდინარე</ComesFromHediff>
+  <AddsNeed>დასძენს საჭიროება</AddsNeed>
+  <AddsNeeds>ამატებს საჭიროებებს</AddsNeeds>
+  <DisablesNeed>გამორთავს საჭიროებას</DisablesNeed>
+  <DisablesNeeds>გამორთავს საჭიროებებს</DisablesNeeds>
+  
+  
+  <UserScanAbility>მომხმარებლის სკანირების სიჩქარე</UserScanAbility>
+  <ScanAverageInterval>შემთხვევითი პოვნის ინტერვალი</ScanAverageInterval>
+  <ScanningProgressToGuaranteedFind>პროგრესი გარანტირებულ პოვნამდე</ScanningProgressToGuaranteedFind>
+  
+  
+  <MeditatingAt>მედიტაცია ზე</MeditatingAt>
+
+  
+  <ContainsWort>შეიცავს {0} / {1} wort.</ContainsWort>
+  <ContainsBeer>შეიცავს {0} / {1} ლუდს.</ContainsBeer>
+  <Fermented>დადუღებული</Fermented>
+  <FermentationProgress>პროგრესი: {0} (მარცხნივ {1})</FermentationProgress>
+  <FermentationBarrelOutOfIdealTemperature>არაიდეალური ტემპერატურა. დუღილის სიჩქარე: {0}</FermentationBarrelOutOfIdealTemperature>
+
+  
+  <Headshot>სათავო გასროლა</Headshot>
+  <TextMote_TreatSuccess>მკურნალობა წარმატებით დასრულდა!\n{0} შანსი</TextMote_TreatSuccess>
+  <TextMote_TreatFailed>მკურნალობა ჩაიშალა\n{0} შანსი</TextMote_TreatFailed>
+  <TextMote_HarvestFailed>მოსავლის
+აღება ჩაიშალა</TextMote_HarvestFailed>
+  <TextMote_YieldWasted>მოსავალი
+დაიკარგა</TextMote_YieldWasted>
+  <TextMote_ProductWasted>პროდუქტი
+დაიკარგა</TextMote_ProductWasted>
+  <TextMote_RecruitFail>რეკრუტირება ვერ მოხერხდა!\n{0} შანსი</TextMote_RecruitFail>
+  <TextMote_ResistanceReduced>წინააღმდეგობა\n{0}-დან {1}-მდე</TextMote_ResistanceReduced>
+  <TextMote_TameFail>მოთვინიერება ვერ მოხერხდა\n{0} შანსი</TextMote_TameFail>
+  <TextMote_TameSuccess>მოთვინიერებული!</TextMote_TameSuccess>
+  <TextMote_TrainFail>წარუმატებელი ვარჯიში: {0}\n{1} შანსი</TextMote_TrainFail>
+  <TextMote_TrainSuccess>გაწვრთნილი: {0}\n{1} შანსი</TextMote_TrainSuccess>
+  <TextMote_FixBrokenDownBuildingFail>შეკეთება
+ჩაიშალა</TextMote_FixBrokenDownBuildingFail>
+  <TextMote_ConstructionFail>მშენებლობა
+ჩაიშალა</TextMote_ConstructionFail>
+  <TextMote_Dodge>გაგდება</TextMote_Dodge>
+  <TextMote_Immune>იმუნიტეტი</TextMote_Immune>
+  <TextMote_Tended>{0} მიდრეკილია</TextMote_Tended>
+  <TextMote_SkillUp>დონე {0}</TextMote_SkillUp>
+  <lowMood>დაბალი განწყობა</lowMood>
+  <lowOpinion>დაბალი აზრი</lowOpinion>
+
+  
+  <Home>სახლი</Home>
+  <BuildRoof>სახურავის აშენება</BuildRoof>
+  <NoRoof>სახურავი არ არის</NoRoof>
+  <SnowClear>თოვლი მოწმენდილი</SnowClear>
+  <AreaDefaultLabel>ფართი {0}</AreaDefaultLabel>
+  <NoAreaAllowed>შეუზღუდავი</NoAreaAllowed>
+  <NewArea>ახალი ტერიტორია</NewArea>
+  <InvertArea>ინვერსია</InvertArea>
+  <ExpandArea>გაფართოება</ExpandArea>
+  <ShrinkArea>შემცირება</ShrinkArea>
+  <MaxAreasReached>დასაშვებია მაქსიმალური {0} არეები.</MaxAreasReached>
+
+  
+  <PenUnenclosedLabel>გაუმჭვირვალე</PenUnenclosedLabel>
+  <PenOpenDoorLabel>ღია კარი</PenOpenDoorLabel>
+  <RenameAnimalPen>კალმის გადარქმევა</RenameAnimalPen>
+  <AnimalPenMarkerDefaultLabel>კალმის მარკერი {0}</AnimalPenMarkerDefaultLabel>
+  <InPen>კალმით</InPen>
+  <Unpenned>არა კალამში</Unpenned>
+  <UnpennedTooltip>ცხოველთა კალმები შეიძლება შეიქმნას კალმის მარკერის აშენებით დახურულ ადგილას. თქვენი დამმუშავებლები ცხოველებს შესაბამის კალმთან მიიყვანენ. კალმები შეიძლება იყოს შემოსაზღვრული ღობეებით, ბარიკადებით, კედლებითა და კარებით.</UnpennedTooltip>
+  <RopedByPawn>საბაგირო მიერ</RopedByPawn>
+  <RopedToThing>თოკზე გადაბმული</RopedToThing>
+  <RopedToSpot>საბაგირო ადგილზე.</RopedToSpot>
+  <PenSizeLabel>კალმის ზომა</PenSizeLabel>
+  <PenSizeDesc_VerySmall>ძალიან პატარა კალამი</PenSizeDesc_VerySmall>
+  <PenSizeDesc_Small>პატარა კალამი</PenSizeDesc_Small>
+  <PenSizeDesc_Medium>საშუალო ზომის კალამი</PenSizeDesc_Medium>
+  <PenSizeDesc_Large>დიდი კალამი</PenSizeDesc_Large>
+  <PenSizeDesc_Unenclosed>არ არის დახურული - ავაშენოთ ღობეები</PenSizeDesc_Unenclosed>
+  <PenCapacityDesc>{ANIMALDEF_label} ტევადობა</PenCapacityDesc>
+  <PenExampleAnimals>ცხოველების მაგალითი</PenExampleAnimals>
+  <NoExteriorAccess>არ არის გარე წვდომა - ცხოველების გადატანა ან გასვლა შეუძლებელია.</NoExteriorAccess>
+  
+  <DoorMustBeEnclosedByWalls>ფუნქციონირებისთვის უნდა იყოს დაკავშირებული ორივე მხრიდან კედლებთან.</DoorMustBeEnclosedByWalls>
+
+  
+  <Beauty_Label>სილამაზე</Beauty_Label>
+  <Zone_Label>ზონა</Zone_Label>
+  <Roof_Label>სახურავი</Roof_Label>
+  <Terrain_Label>რელიეფი</Terrain_Label>
+  <Snow_Label>თოვლი</Snow_Label>
+  <WalkSpeed_Label>სიარული სიჩქარე</WalkSpeed_Label>
+  <Fertility_Label>ნაყოფიერება</Fertility_Label>
+  <Temperature_Label>ტემპერატურა</Temperature_Label>
+  <LightLevel_Label>სინათლის დონე</LightLevel_Label>
+  <Biome_Label>ბიომი</Biome_Label>
+  <Hilliness_Label>გორაკები</Hilliness_Label>
+  <Road_Label>გზა</Road_Label>
+  <River_Label>მდინარე</River_Label> 
+  <MovementDifficulty_Label>მოძრაობის სირთულე</MovementDifficulty_Label>
+  <Pollution_Label>დაბინძურება</Pollution_Label>
+  <Filth_Label>ჭუჭყი</Filth_Label>
+  
+  <Features_Label>მახასიათებლები</Features_Label>
+  <Faction_Label>ფრაქცია</Faction_Label>
+  <Relationship_Label>ურთიერთობა</Relationship_Label>
+  <CaravanColonists_Label>კოლონისტები</CaravanColonists_Label>
+  <CaravanStatus_Label>სტატუსი</CaravanStatus_Label>
+  <CaravanTTD_Label>დრო დანიშნულების ადგილამდე</CaravanTTD_Label>
+  
+
+  
+  <CannotOrderNonControlled>არ შეგიძლიათ შეუკვეთოთ პერსონაჟები, რომლებსაც არ აკონტროლებთ.</CannotOrderNonControlled>
+  <IsIncapableOfViolence>{1_labelShort} ძალადობას არ ძალუძს.</IsIncapableOfViolence>
+  <IsIncapableOfViolenceShort>ძალადობის უუნარო</IsIncapableOfViolenceShort>
+  <IsNotDrafted>{1_labelShort} არ არის შედგენილი.</IsNotDrafted>
+  <ApparelPreventsShooting>{PAWN_nameDef} ვერ გამოიყენებს დისტანციურ იარაღს {PAWN_possessive} {APPAREL_label}-ის გამო.</ApparelPreventsShooting>
+  <CannotUseReason_PocketMap>არ შეიძლება {0}-ში გამოყენება</CannotUseReason_PocketMap>
+  <WeatherMaxRangeCap>დიაპაზონი შემცირდა</WeatherMaxRangeCap>
+
+  
+  <Snow>თოვლი</Snow>
+  <SnowNone>თოვლი არ არის</SnowNone>
+  <SnowDusting>მტვრიანი</SnowDusting>
+  <SnowThin>თხელი</SnowThin>
+  <SnowMedium>საშუალო</SnowMedium>
+  <SnowThick>სქელი</SnowThick>
+
+  
+  <GunInstalled>დაყენებული</GunInstalled>
+  <MinimumRange>მინიმალური დიაპაზონი</MinimumRange>
+  <CanFireIn>შეუძლია გასროლა</CanFireIn>
+  <CannotFire>სროლა არ შეიძლება</CannotFire>
+  <Roofed>გადახურული</Roofed>
+  <ShellLoaded>ჭურვი დატვირთულია: {1_label}</ShellLoaded>
+  <ShellNotLoaded>არ არის დატვირთული</ShellNotLoaded>
+  <AlreadyActive>უკვე აქტიური</AlreadyActive>
+  <OrderActivation>შეკვეთის გააქტიურება</OrderActivation>
+  <OrderActivationDesc>შეუკვეთეთ კოლონისტს {THING_definite}-ის გააქტიურება.</OrderActivationDesc>
+  <MustBeActivatedByColonist>გაგზავნეთ კოლონისტი ამის გასააქტიურებლად.</MustBeActivatedByColonist>
+  <NoNearbyFire>ახლომახლო ხანძარი არ არის</NoNearbyFire>
+  <NoNearbyFireNoFuelUsed>ახლომახლო ხანძარი არ არის. საწვავი არ იყო გამოყენებული.</NoNearbyFireNoFuelUsed>
+  <ChooseWhoShouldActivate>აირჩიეთ ვინ უნდა გაააქტიუროს ეს.</ChooseWhoShouldActivate>
+  <NoFuel>საწვავი არ არის</NoFuel>
+
+  
+  <ReportHaulingTo>გადაზიდვა {THING_label}-დან {DESTINATION}-მდე.</ReportHaulingTo>
+  <ReportHaulingToGrave>{THING_label}-ის დაკრძალვა {DESTINATION}-ში.</ReportHaulingToGrave>
+  <ReportHauling>{1_label}-ის ზიდვა.</ReportHauling>
+  <ReportHaulingUnknown>ზიდვა.</ReportHaulingUnknown>
+  <ReportSleeping>ძილი.</ReportSleeping>
+  <ReportResting>დასვენება.</ReportResting>
+  <ReportLayingDown>დაწოლა.</ReportLayingDown>
+  <WatchingSunrise>მზის ამოსვლას უყურებს.</WatchingSunrise>
+  <CloudWatching>ღრუბლების ყურება.</CloudWatching>
+  <WatchingSunset>მზის ჩასვლის ყურება.</WatchingSunset>
+  <Stargazing>ვარსკვლავების ყურება.</Stargazing>
+  <WatchingEclipse>დაბნელების ყურება.</WatchingEclipse>
+  <WatchingAurora>ავრორას ყურება.</WatchingAurora>
+  <UsingVerb>{0}-ის გამოყენებით {1}-ზე.</UsingVerb>
+  <UsingVerbNoTarget>{0}-ის გამოყენებით.</UsingVerbNoTarget>
+  <AreaLower>ტერიტორია</AreaLower>
+  <ReportCowering>ტრემა.</ReportCowering>
+  <ReportStanding>დგომა.</ReportStanding>
+  <ReportExtinguishingFire>ხანძრის ჩაქრობა.</ReportExtinguishingFire>
+  <ReportExtinguishingFireOn>ხანძრის ჩაქრობა {TARGET_label}-ზე.</ReportExtinguishingFireOn>
+  <ReportDiggingUpCorpse>გვამის გათხრა.</ReportDiggingUpCorpse>
+  <CarriedBy>ატარებს {0_labelShort}.</CarriedBy> 
+  <InContainer>შიგნით {0_labelShort}.</InContainer> 
+  <DownedCannotCrawl>ჩამოგდებული, არ შეუძლია სეირნობა.</DownedCannotCrawl> 
+  <DownedUnconscious>ჩამოგდებული, უგონო მდგომარეობაში.</DownedUnconscious> 
+
+  
+  <LordReportAttendingMarriageCeremony>ქორწინების ცერემონიაზე დასწრება</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingParty>წვეულებაზე დასწრება</LordReportAttendingParty>
+  <LordReportAttendingConcert>კონცერტზე დასწრება</LordReportAttendingConcert>
+  <LordReportHoldingConcert>კონცერტის გამართვა</LordReportHoldingConcert>
+  <LordReportGivingSpeech>სიტყვით გამოსვლისას</LordReportGivingSpeech>
+  <LordReportListeningSpeech>{ORGANIZER_labelShort}-ის გამოსვლის მოსმენა</LordReportListeningSpeech>
+  <LordReportFormingCaravan>ქარავნის ფორმირება</LordReportFormingCaravan>
+
+  
+  <WeaponMissRadius>იარაღის გაშვების რადიუსი</WeaponMissRadius>
+  <ShootReportShooterAbility>მსროლელი</ShootReportShooterAbility>
+  <ShootReportWeapon>იარაღი</ShootReportWeapon>
+  <Darkness>სიბნელე</Darkness>
+  <TargetProne>დაწოლილი სამიზნე</TargetProne>
+  <TargetSize>სამიზნე ზომა</TargetSize>
+  <Weather>ამინდი</Weather>
+  <ShootingCover>ფარი</ShootingCover>
+  <CoverThingBlocksPercentOfShots>{COVER_label} აჩერებს {1}-ს</CoverThingBlocksPercentOfShots>
+  <NoCoverLower>არ საფარი</NoCoverLower>
+  <Execution>სიკვდილით დასჯა</Execution>
+
+  
+  <RecipeMake>გააკეთეთ {0}</RecipeMake>
+  <RecipeMakeDescription>გააკეთეთ {0}.</RecipeMakeDescription>
+  <RecipeMakeJobString>{0}-ის დამზადება.</RecipeMakeJobString>
+  <RecipeAdminister>ადმინისტრირება {0}</RecipeAdminister>
+  <RecipeAdministerJobString>{0}-ის ადმინისტრირება.</RecipeAdministerJobString>
+  <TeetotalerUnhappy>teetotaler იქნება უბედური</TeetotalerUnhappy>
+  <ProsthophobeUnhappy>სხეულის გამწმენდი უკმაყოფილო იქნება</ProsthophobeUnhappy>
+
+  
+  <ThoughtExpiresIn>ვადა იწურება: {0}</ThoughtExpiresIn>
+  <ThoughtNullifiedBy>აზრი გამორთულია მიერ</ThoughtNullifiedBy>
+  <ThoughtStartsExpiringIn>იწყებს ვადის გასვლას: {0}</ThoughtStartsExpiringIn>
+  <ThoughtFinishesExpiringIn>სრულდება ვადის გასვლის შემდეგ: {0}</ThoughtFinishesExpiringIn>
+  <MentalBreakThresholdExtreme>უკიდურესი შესვენების ბარიერი</MentalBreakThresholdExtreme>
+  <MentalBreakThresholdMajor>ძირითადი შესვენების ბარიერი</MentalBreakThresholdMajor>
+  <MentalBreakThresholdMinor>მცირე შესვენების ბარიერი</MentalBreakThresholdMinor>
+
+  
+  <PawnMainDescGendered>{PAWN_gender} {1}</PawnMainDescGendered>
+  <PawnMainDescFactionedWrap>{0} {1}-დან</PawnMainDescFactionedWrap>
+  <PawnTitleDescWrap>{0} {1}-ში</PawnTitleDescWrap>
+  <PawnMainDescUnderFactionedWrap>{0} {1} ქვეშ</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescLifestageWrap>{2_lifeStageAdjective} {0}</PawnMainDescLifestageWrap>
+  <Faction>ფრაქცია</Faction>
+  <FactionDesc>ფრაქცია {PAWN_labelShort} ამჟამად ეკუთვნის.</FactionDesc>
+  <ExtraFactionDesc>ფრაქცია {PAWN_labelShort} თავდაპირველად ეკუთვნის.</ExtraFactionDesc>
+  <Equipped>შეიარაღებული</Equipped>
+  <EquippedNothing>არაფერი</EquippedNothing>
+  <Dead>მკვდარი</Dead>
+  <Unconscious>გონებადაკარგული</Unconscious>
+  <PainShock>შოკში ტკივილის გამო</PainShock>
+  <PainShockShort>ტკივილის შოკი</PainShockShort>
+  <Incapacitated>უუნარო</Incapacitated>
+  <InRestraints>შეზღუდვებში (შენელებული)</InRestraints>
+  <Carrying>ზიდვა</Carrying>
+  <AffectedBy>გავლენას ახდენს:</AffectedBy>
+  <Queued>რიგში</Queued>
+  <State>მდგომარეობა</State>
+  <StunLower>ოფლიანობა</StunLower>
+  <SlowedByDamage>შენელებულია დაზიანებით</SlowedByDamage>
+
+  
+  <SelectNextInSquareTip>აირჩიეთ შემდეგი რამ იმავე კვადრატში.\n\n(*SectionTitle) მალსახმობის ღილაკი:(/SectionTitle) {0}\n\nამის გაკეთება ასევე შეგიძლიათ იმავე კვადრატზე ისევ ნელა დაწკაპუნებით.</SelectNextInSquareTip>
+  <DefInfoTip>ინფორმაციის ნახვა.</DefInfoTip>
+  <SelectNextInSquareTipController>აირჩიეთ შემდეგი რამ იმავე კვადრატში.\n\nამის გაკეთება ასევე შეგიძლიათ იმავე კვადრატზე ისევ ნელა დაწკაპუნებით.</SelectNextInSquareTipController>
+
+  
+  <HostilityReponseTip>შეცვალეთ, როგორ რეაგირებს ეს ადამიანი ახლომახლო მტრებზე, როცა არ იქნება გაწვეული.</HostilityReponseTip>
+  <HostilityResponseCurrentMode>მიმდინარე რეჟიმი</HostilityResponseCurrentMode>
+
+  
+  <OfLower />
+
+  
+  <PowerNotConnected>არ არის დაკავშირებული დენი.</PowerNotConnected>
+  <PowerConnectedRateStored>ბადის ჭარბი: {0} W ({1} Wd შენახული)</PowerConnectedRateStored>
+  <PowerNeeded>საჭირო სიმძლავრე</PowerNeeded>
+  <PowerOutput>გამომავალი სიმძლავრე</PowerOutput>
+  <PowerActiveNeeded>{0} W როდესაც აქტიურია</PowerActiveNeeded>
+  <PowerBatteryStored>შენახული</PowerBatteryStored>
+  <PowerBatteryEfficiency>ეფექტურობა</PowerBatteryEfficiency>
+  <SelfDischarging>თვითდამუხტვა</SelfDischarging>
+
+  
+  <TargetTemperature>სამიზნე ტემპერატურა</TargetTemperature>
+  <PowerConsumptionMode>ენერგიის მიმდინარე მოხმარება</PowerConsumptionMode>
+  <PowerConsumptionHigh>მაღალი</PowerConsumptionHigh>
+  <PowerConsumptionLow>დაბალი</PowerConsumptionLow>
+  <PowerConsumptionOff>გამორთ.</PowerConsumptionOff>
+
+  
+  <Indoors>შიგნით</Indoors>
+  <IndoorsUnroofed>გახსნილი</IndoorsUnroofed>
+  <Outdoors>გარეთ</Outdoors>
+
+  
+  <RotStateFresh>ახალი</RotStateFresh>
+  <RotStateRotting>ლპობა</RotStateRotting>
+  <RotStateDessicated>გამშრალი</RotStateDessicated>
+  <CurrentlyFrozen>გაყინული</CurrentlyFrozen> 
+  <CurrentlyRefrigerated>მაცივარში, ფუჭდება {0}-ში</CurrentlyRefrigerated> 
+  <NotRefrigerated>გაუყინავი, ფუჭდება {0}-ში</NotRefrigerated> 
+  <OverADecade>ათწლეულზე მეტი</OverADecade>
+  <LessThanADay>დღეზე ნაკლები</LessThanADay>
+
+  
+  <ShotBy>გადაღებული {1_labelShort}-ის მიერ</ShotBy>
+  <CannotHit>მიზანში ვერ მოხვდება.</CannotHit>
+  <ManhunterPerHit>Manhunter შანსი ყოველ დარტყმაზე</ManhunterPerHit>
+
+  
+  <Ingredients>ინგრედიენტები</Ingredients>
+  <IngredientsDesc>ინგრედიენტები, რომლებიც გამოიყენება ამ კერძის მოსამზადებლად.</IngredientsDesc>
+  <DietaryType>დიეტური ტიპი</DietaryType>
+  <DietaryTypeDesc>წარმოებული საკვების ტიპი. ზოგიერთ ადამიანს აქვს უპირატესობები კონკრეტული ტიპის კვებაზე.</DietaryTypeDesc>
+  <OnlyStacksWithCompatibleMeals>მხოლოდ დასტა მსგავსი კერძებით</OnlyStacksWithCompatibleMeals>
+
+  
+  <PercentGrowth>{0} გაიზარდა</PercentGrowth>
+  <GrowthRate>ზრდის ტემპი</GrowthRate>
+  <FullyGrownIn>სრულად გაიზარდა {0} ზრდის პერიოდში.</FullyGrownIn>
+  <PlantNeedsLightLevel>სჭირდება სინათლის დონე</PlantNeedsLightLevel>
+  <PlantResting>დასვენება</PlantResting>
+  <OutOfIdealTemperatureRange>ტემპერატურის ზრდის მულტიპლიკატორი {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRangeNotGrowing>ტემპერატურის ზრდის დიაპაზონის გარეთ</OutOfIdealTemperatureRangeNotGrowing>
+  <ReadyToHarvest>მზადაა მოსავლისთვის.</ReadyToHarvest>
+  <Mature>მომწიფებული.</Mature>
+  <AveragePlantAge>მცენარის საშუალო ასაკი</AveragePlantAge>
+  <OldestPlantAge>მცენარის უძველესი ასაკი</OldestPlantAge>
+  <OutdoorGrowingPeriod>ზრდის პერიოდი</OutdoorGrowingPeriod>
+  <NoGrowingPeriod>არასდროს</NoGrowingPeriod>
+  <GrowYearRound>მთელი წელი</GrowYearRound>
+  <GrowSeasonHereNow>მზარდი სეზონი აქ არის.</GrowSeasonHereNow>
+  <CannotGrowBadSeasonTemperature>ვერ იზრდება (ცუდი სეზონური ტემპერატურა).</CannotGrowBadSeasonTemperature>
+  <Blighted>დაავადებული</Blighted>
+  <DyingBecauseExposedToLight>კვდება სინათლის ზემოქმედების გამო</DyingBecauseExposedToLight>
+  <DyingBecauseOfTerrain>კვდება არაიდეალური რელიეფიდან</DyingBecauseOfTerrain>
+  <AutoCutNow>გაჭრა ახლა</AutoCutNow>
+  <HarvestGerund>კრეფა</HarvestGerund>
+  <CutGerund>ჭრა</CutGerund>
+  <CutAllBlight>მოჭრილი ყველა სიწითლე</CutAllBlight>
+  <CutAllBlightDesc>მონიშნეთ ყველა დაბინძურებული მცენარე გასანადგურებლად. დაბინძურებული მცენარეები არ მოიტანს საკვებს ან რესურსს და უნდა განადგურდეს მანამ, სანამ არ გავრცელდება.</CutAllBlightDesc>
+
+  
+  <Zone>ზონა</Zone>
+  <GrowingZone>მზარდი ზონა</GrowingZone>
+  <GrowingGroup>მოყვანა</GrowingGroup>
+  <Stockpile>მარაგის ზონა</Stockpile>
+  <StockpileGroup>საწყობი</StockpileGroup>
+  <DumpingStockpile>გადაყრის მარაგის ზონა</DumpingStockpile>
+  <CorpseStockpile>გვამის მარაგის ზონა</CorpseStockpile>
+  <Priority>პრიორიტეტი</Priority>
+  <ClearAll>გაასუფთავე ყველა</ClearAll>
+  <AllowAll>დაუშვით ყველა</AllowAll>
+  
+  
+  <StorageGroup>ჯგუფი</StorageGroup>
+  <StorageLabel>სახელი</StorageLabel>
+  <StorageGroupLabel>შენახვის ჯგუფი</StorageGroupLabel>
+
+  
+  <HitPoints>{0} დარტყმის ქულები</HitPoints>
+  <AnyQuality>ნებისმიერი ხარისხის</AnyQuality>
+  <OnlyQuality>მხოლოდ {0}</OnlyQuality>
+
+  
+  <Undiscovered>აღმოუჩენელი</Undiscovered>
+  
+  
+  <AnimalSterilizeConfirm>დარწმუნებული ხართ, რომ გსურთ {PAWN_nameDef}-ის სტერილიზაცია? ამის გაკეთება გააბრაზებს {FACTION_name}-ს.</AnimalSterilizeConfirm>
+  <AnimalSlaughterConfirm>დარწმუნებული ხართ, რომ გსურთ {PAWN_nameDef}-ის დაკვლა? ამის გაკეთება გააბრაზებს {FACTION_name}-ს.</AnimalSlaughterConfirm>
+  <AnimalReleaseConfirm>დარწმუნებული ხართ, რომ გსურთ {PAWN_nameDef}-ის გამოშვება? ამის გაკეთება გააბრაზებს {FACTION_name}-ს.</AnimalReleaseConfirm>
+
+  
+  <ShowLearningHelperWhenEmptyToggleButton>ჩართეთ სასწავლო დამხმარე ხილვადობა, როცა ის ცარიელია.\n\nსწავლის დამხმარე ყოველთვის ჩანს, თუ გააქტიურებულია შესასწავლი კონცეფცია. ეს გადართვა ხდის მას ქრება, როდესაც არ არის აქტიური კონცეფცია.</ShowLearningHelperWhenEmptyToggleButton>
+  <ZoneVisibilityToggleButton>ზონების ხილვადობის გადართვა.</ZoneVisibilityToggleButton>
+  <ShowBeautyToggleButton>ჩართეთ სილამაზის ჩვენება.\n\nგვიჩვენებს სამყაროს სილამაზეს, როგორც აღიქმება პერსონაჟის მიერ, რომელიც დგას იქ, სადაც კურსორი მიუთითებს.</ShowBeautyToggleButton>
+  <ShowRoomStatsToggleButton>ოთახის სტატისტიკის ჩვენების გადართვა.\n\nგვიჩვენებს ოთახის სტატისტიკას, სადაც კურსორი მიუთითებს.</ShowRoomStatsToggleButton>
+  <ShowColonistBarToggleButton>გადართეთ კოლონისტის ზოლი.\n\nაჩვენებს ხატულებს და ძირითად სტატუსს ყველა კოლონისტისთვის ეკრანის ზედა ნაწილში.\n\nშეგიძლიათ ხელახლა დაალაგოთ კოლონისტები კოლონისტების ზოლში მარჯვენა ღილაკით და გადაიტანეთ ისინი.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButtonController>გადართეთ კოლონისტების ზოლი.\n\nაჩვენებს ხატულებს და ძირითად სტატუსს ყველა კოლონისტისთვის ეკრანის ზედა ნაწილში.\n\nშეგიძლიათ ხელახლა დაალაგოთ კოლონისტები კოლონისტების ზოლში მარცხენა ტრიგერის ღილაკზე დაჭერით და მათი გადაადგილებით.</ShowColonistBarToggleButtonController>
+  <AutoHomeAreaToggleButton>გადართეთ ახალი კონსტრუქციების გარშემო სახლის არეალის ავტომატურად გაფართოება.</AutoHomeAreaToggleButton>
+  <AutoRebuildButton>სახლის ტერიტორიაზე განადგურებული სტრუქტურების ავტომატური აღდგენის გადართვა.</AutoRebuildButton>
+  <CategorizedResourceReadoutToggleButton>რესურსის წაკითხვისას კატეგორიზებული რეჟიმის გადართვა.</CategorizedResourceReadoutToggleButton>
+  <ShowAnimalNamesToggleButton>გადართეთ ცხოველთა სახელების ჩვენება მოკრძალებული დასახელებული ცხოველებისთვის.</ShowAnimalNamesToggleButton>
+  <ShowRoofOverlayToggleButton>გადართეთ სახურავების ხილვადობა.</ShowRoofOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>გადართეთ ნაყოფიერების გადაფარვა.\n\nეს აჩვენებს, რამდენად ნოყიერია ნიადაგი, რაც გავლენას ახდენს იმაზე, თუ რა სახის მცენარეები შეიძლება გაიზარდოს და რამდენად სწრაფად იზრდებიან ისინი.</ShowFertilityOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>რელიეფის ხელმისაწვდომობის ხილვადობის გადართვა.\n\nეს ეხება იმას, თუ რა ტიპის შენობები შეიძლება აშენდეს თითოეულ ადგილას.\n\nმაგალითად, ზოგიერთი ტიპის გრუნტი იღებს მხოლოდ მსუბუქ ან საშუალო შენობებს, მაგრამ არა მძიმე. ხიდების აშენება მხოლოდ წყალზეა შესაძლებელი.</ShowTerrainAffordanceOverlayToggleButton>
+  <LockNorthUpToggleButton>ჩაკეტეთ კამერის ბრუნვა ისე, რომ ჩრდილოეთ პოლუსი ყოველთვის ზემოთ იყოს.</LockNorthUpToggleButton>
+  <UsePlanetDayNightSystemToggleButton>პლანეტის ხედზე დღის/ღამის განათების ჩართვა.</UsePlanetDayNightSystemToggleButton>
+  <ShowBasesExpandingIconsToggleButton>გადართეთ გაფართოებული ხატების ჩვენება სხვა ფრაქციების კუთვნილი დასახლებებისთვის.</ShowBasesExpandingIconsToggleButton>
+  <ShowImportantExpandingIconsToggleButton>გადართეთ გაფართოებული ხატების ჩვენება მნიშვნელოვანი მდებარეობებისთვის, როგორიცაა თქვენი კოლონიები, საძიებო ადგილები და აქტიური რუქები.</ShowImportantExpandingIconsToggleButton>
+  <ShowWorldFeaturesToggleButton>რელიეფის ფორმების სახელების ხილვადობის გადართვა.</ShowWorldFeaturesToggleButton>
+  <ShowTemperatureOverlayToggleButton>სითბოს გადაფარვის გადართვა. ეს აჩვენებს ჰაერის ტემპერატურას თითოეულ ოთახში და მის გარეთ.\n\nკოლონისტები უკმაყოფილო იქნებიან, თუ ტემპერატურა ძალიან მაღალი ან ძალიან დაბალია. ექსტრემალურ ტემპერატურაზე ზემოქმედებამ შეიძლება გამოიწვიოს ჰიპოთერმია, ყინვაგამძლე, სითბური დარტყმა, დამწვრობა და სიკვდილი.</ShowTemperatureOverlayToggleButton>
+
+  
+  <HotKeyTip>სწრაფი ღილაკი</HotKeyTip>
+  
+  
+  <FireOn>ცეცხლი {1_label}-ზე</FireOn>
+  <Burning>წვა</Burning>
+  <FireSizeLower>ხანძრის ზომა {0}</FireSizeLower>
+
+  
+  <GameConditionsTip>განსაკუთრებული პირობები, რომლებიც გავლენას ახდენენ ტერიტორიაზე ახლა.</GameConditionsTip>
+  <TimeLeft>დარჩენილი დრო</TimeLeft>
+  <ImpactDate>ზემოქმედების თარიღი</ImpactDate>
+  <SourceUnknown>წყარო უცნობია.</SourceUnknown>
+  <ClickToJumpToSource>დააწკაპუნეთ წყაროზე გადასასვლელად.</ClickToJumpToSource>
+  <ClickToJumpToFlashstorm>დააწკაპუნეთ, რომ გადახვიდეთ ქარბუქზე.</ClickToJumpToFlashstorm>
+  <CausedByQuest>გამოწვეული ქვესტი: {0}</CausedByQuest>
+
+  
+  <NoStuffsToBuildWith>თქვენ არ გაქვთ გამოსაყენებელი მასალა, საიდანაც ამის აშენება შეგიძლიათ.</NoStuffsToBuildWith>
+
+  
+  <WillGetWorkSpeedPenalty>{0}-ს ექნება სამუშაო სიჩქარის ჯარიმა</WillGetWorkSpeedPenalty>
+  <MustPlaceUnroofed>სახურავის ქვეშ მოთავსება შეუძლებელია.</MustPlaceUnroofed>
+  <MustPlaceUnderThickRoof>უნდა განთავსდეს სქელი სახურავის ქვეშ.</MustPlaceUnderThickRoof>
+  <MustPlaceOnWall>უნდა განთავსდეს კედელთან.</MustPlaceOnWall>
+  <SomethingPlacedOnThisWall>რაღაც უკვე მოთავსებულია ამ კედელზე.</SomethingPlacedOnThisWall>
+  <CannotSupportAttachment>ამ შენობას არ შეუძლია დანართების მხარდაჭერა.</CannotSupportAttachment>
+  <MustPlaceHeadOnShipBeam>უნდა განთავსდეს გემის სტრუქტურულ სხივზე დამაგრებული თავით.</MustPlaceHeadOnShipBeam>
+  <MustPlaceNextToHopperAccepter>უნდა განთავსდეს ისეთი ნივთის გვერდით, რომელსაც სჭირდება ბუნკერი.</MustPlaceNextToHopperAccepter>
+  <MustPlaceOnSteamGeyser>უნდა განთავსდეს პირდაპირ ორთქლის გეიზერზე.</MustPlaceOnSteamGeyser>
+  <MustPlaceCoolerWithFreeSpaces>გამაგრილებლის ორივე ცხელი და ცივი მხარე უნდა იყოს ღია.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>ჰაერის გასავლელად ორივე მხარე უნდა იყოს ღია.</MustPlaceVentWithFreeSpaces>
+  <MustPlaceAdjacentStandable>უნდა განთავსდეს მდგრადი სივრცით ყველა მხრიდან.</MustPlaceAdjacentStandable>
+  <MustPlaceNearFuelingPort>უნდა განთავსდეს პოდ გამშვების საწვავის პორტის გვერდით.</MustPlaceNearFuelingPort>
+  <MustPlaceOnDrillable>უნდა განთავსდეს საბურღი რესურსებზე.</MustPlaceOnDrillable>
+  <CannotPlaceAdjacentTrap>ხაფანგების გვერდით მოთავსება შეუძლებელია.</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentSameDef>არ შეიძლება განთავსდეს იმავე ტიპის სხვა შენობის გვერდით.</CannotPlaceAdjacentSameDef>
+
+  
+  <WindTurbine_WindPathIsBlockedBy>დაბლოკილია</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedByRoof>გადაკეტილია სახურავით</WindTurbine_WindPathIsBlockedByRoof>
+
+  
+  <Watermill_WaterUsedTwice>ნაკადი შემცირდა: ტურბულენტობა სხვა წყლის წისქვილიდან</Watermill_WaterUsedTwice>
+
+  
+  <CasketContains>შეიცავს</CasketContains>
+  <CasketWarning>გაფრთხილება!\n\n{PAWN_nameDef} არის თქვენი უკანასკნელი თავისუფალი კოლონისტი! თუ {PAWN_objective}-ს ნებას დართეთ ჩააბიჯოს ამ კალთაში, შესაძლოა ვერ გააგრძელოთ თამაში. დარწმუნებული ხართ, რომ გსურთ გაგრძელება?</CasketWarning>
+
+  
+  <ShipReportCannotLaunch>გაშვება შეუძლებელია.</ShipReportCannotLaunch>
+  <ShipReportCanLaunch>მზადაა გასაშვებად.</ShipReportCanLaunch>
+  <ShipReportMissingPart>აკლია კრიტიკული კომპონენტი</ShipReportMissingPart>
+  <ShipReportMissingPartRequires>საჭიროა</ShipReportMissingPartRequires>
+  <ShipReportNoFullPods>არ არის სრული კრიპტოძილის ყუთები</ShipReportNoFullPods>
+  <ShipReportHibernating>ჰიბერნაციის კომპონენტი</ShipReportHibernating>
+  <ShipReportNotReady>კომპონენტი ჯერ არ არის მზად</ShipReportNotReady>
+  <ShipNoSettlementToReturnTo>დასახლება არ არის დასაბრუნებელი. ჯერ შექმენით დასახლება.</ShipNoSettlementToReturnTo> 
+  <HibernateWarning>(*Name)Charlon Whitestone(/Name) მზადაა დაიწყოს რეაქტორის ჰიბერნაციის აღდგენის თანმიმდევრობა.\n\nის გაფრთხილებთ, რომ პროცესს დაახლოებით 15 დღე დასჭირდება და ენერგეტიკული ხელმოწერა დიდი დისტანციიდან იქნება შესამჩნევი.\n\nასეთი ენერგეტიკული ხელმოწერა მიუთითებს ვარსკვლავთშორისი ფრენის შესაძლებლობებზე და მიიზიდავს უფრო მკვდარ ომებს. მექანოიდები.\n\nშენზე თავდასხმას ისეთი ინტენსივობით მოახდენენ, რომელიც არასდროს გინახავს. ჯერ დარწმუნდით, რომ თქვენი თავდაცვა მომზადდება.</HibernateWarning>
+  <HibernateWarningStandalone>რეაქტორი მზადაა ჩართვისთვის.\n\nპროცესს დაახლოებით 15 დღე დასჭირდება და ენერგეტიკული ხელმოწერა დიდი დისტანციიდან იქნება შესამჩნევი. ასეთი სახის ენერგეტიკული ხელმოწერა მიუთითებს ვარსკვლავთშორისი ფრენის შესაძლებლობებზე და მიიზიდავს სასოწარკვეთილ თავდამსხმელთა ბანდას და მომაკვდინებელ მექანოიდების ჯგუფს.\n\nთქვენს შეურაცხყოფას მიაყენებენ ისეთი ინტენსივობით, რომელიც არასოდეს გინახავთ. ჯერ დარწმუნდით, რომ თქვენი თავდაცვა მომზადდება.</HibernateWarningStandalone>
+  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) მზადაა დაიწყოს რეაქტორის ჰიბერნაციის აღდგენის თანმიმდევრობა. ის გაფრთხილებთ, რომ პროცესი დაახლოებით 15 დღე გაგრძელდება.</HibernateWarningPacifist>
+  <HibernateWarningStandalonePacifist>რეაქტორი მზადაა ჩართვისთვის. პროცესი დაახლოებით 15 დღე გაგრძელდება.</HibernateWarningStandalonePacifist>
+
+  
+  <SkillNeurotrainerLabel>უნარის ტრენერი ({0})</SkillNeurotrainerLabel>
+  <SkillNeurotrainerUseLabel>გამოიყენეთ უნარების ტრენერი {0}-ის შესასწავლად</SkillNeurotrainerUseLabel>
+  <SkillNeurotrainerDescription>მექანიტების ერთჯერადი სუპერ დოზა, რომელიც ავარჯიშებს კონკრეტულ უნარს.\n\nდოზის შეყვანა ხდება თვალის ორბიტაზე. ტვინში გამოშვების შემდეგ, მექანიტები სწრაფად აუმჯობესებენ სუბიექტის უნარებს კონკრეტულ ზონაში, საჭიროების შემთხვევაში ნერვულ ქსოვილში გადაიქცევიან.</SkillNeurotrainerDescription>
+  <SkillNeurotrainerUsed>{USER_labelShort}-მა გამოიყენა {1} ნეიროტრეინერი {2} დონიდან {3} დონეზე გადასასვლელად.</SkillNeurotrainerUsed>
+
+  
+  <Installed>დაყენებული</Installed>
+  <NotInstalled>არ არის დაინსტალირებული</NotInstalled>
+  <MinifiedTreeWillDieIn>მოპოვებული ხე მოკვდება {time}-ში, თუ ხელახლა არ დარგეს.</MinifiedTreeWillDieIn>
+
+  
+  <Title>ტიტული</Title>
+  <Untitled>უსათაურო</Untitled>
+
+  
+  <UnfinishedItem>დაუმთავრებელი {0}</UnfinishedItem>
+  <UnfinishedItemWithStuff>დაუმთავრებელი {0} {1}</UnfinishedItemWithStuff>
+
+  
+  <Quality>ხარისხი</Quality>
+  <quality>ხარისხი</quality>
+  <QualityDescription>ნივთის ხარისხი არის ის, თუ რამდენად კარგად არის დამზადებული.</QualityDescription>
+  <QualityIs>ხარისხი: {0}</QualityIs>
+
+  
+  <Mood_MentalState>ფსიქიკური მდგომარეობა</Mood_MentalState>
+  <Mood_AboutToBreak>გატეხვას აპირებს</Mood_AboutToBreak>
+  <Mood_OnEdge>ზღვარზე</Mood_OnEdge>
+  <Mood_Stressed>სტრესული</Mood_Stressed>
+  <Mood_Neutral>ნეიტრალური</Mood_Neutral>
+  <Mood_Content>კმაყოფილი</Mood_Content>
+  <Mood_Happy>ბედნიერი</Mood_Happy>
+
+  
+  <GameOver>თამაში დასრულდა</GameOver>
+  <GameOverEveryoneDead>ყველა მოკვდა ან წავიდა. ეს ამბავი დასრულდა.\n\nიქნებ სხვამ იპოვოს ამ ადგილის ნანგრევების გამოყენება.</GameOverEveryoneDead>
+  <GameOverPlanetkillerImpact>სინათლის სიჩქარით პლანეტის მკვლელი იარაღი მიწაში ტრილიონი წყალბადის ბომბის ძალით დაეჯახა. თოფით ნასროლი წყლის ბუშტის მსგავსად, ეს სამყარო დარტყმის შედეგად გათხევადდა და თავისი გამდნარი ნაწლავები კოსმოსში გაფრინდა.\n\n{0}-ის ნაწილი ახლა ასტეროიდების პატარა სარტყელია. დანარჩენი არის დნობის, რადიოაქტიური ჯოჯოხეთის პეიზაჟი, რომელიც გამუდმებით ირევა კილომეტრების სიმაღლის პლანეტების მიწისძვრებით.\n\nთქვენ არ გადარჩით.</GameOverPlanetkillerImpact>
+  <GameOverShipLaunchedIntro>თქვენ გაუშვით გემი!</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedEnding>თქვენი ავტომატური პერსონა ახლა შეეცდება გემი უსაფრთხო ადგილას წაიყვანოს. შესაძლოა ამ სისტემაში აყვავებული პლანეტა აღმოაჩინოს. ან, შესაძლოა, მრავალსაუკუნოვანი მოგზაურობა სხვა ვარსკვლავამდე გაიაროს. შესაძლოა, მან გადაწყვიტოს რამდენიმე ათასი წლის განმავლობაში ასტეროიდის ყინულის ქვეშ დამალვა და დაელოდოს ვინმეს, რომ ააშენებს ახალ ბრჭყვიალა სამყაროს აქ.\n\nთქვენ გაიგებთ, როცა გაიღვიძებთ.</GameOverShipLaunchedEnding>
+  <GameOverColonistsEscaped>ეს კოლონისტები გაიქცნენ:\n\n{0}</GameOverColonistsEscaped>
+  <GameOverColonistsLeft>ეს კოლონისტები დატოვეს:\n\n{0}</GameOverColonistsLeft>
+  <GameOverInMemoryOf>ხსოვნას:\n</GameOverInMemoryOf>
+  <GameOverKeepWatching>გააგრძელე ყურება</GameOverKeepWatching>
+  <GameOverKeepWatchingForNow>განაგრძეთ ყურება</GameOverKeepWatchingForNow>
+  <GameOverCreateNewWanderers>შექმენით ახალი მოხეტიალეები</GameOverCreateNewWanderers>
+  <GameOverCreateNewWanderersText>ყველა მოკვდა ან წავიდა. იქნებ ვინმემ იპოვოს ამ ადგილის ნანგრევების გამოყენება.\n\nაირჩიეთ ახალი მოხეტიალეები, რომლებიც თქვენს კოლონიაში ჩავლენ და განაგრძეთ ისტორია.</GameOverCreateNewWanderersText>
+  <GameOverMainMenu>მთავარი მენიუ</GameOverMainMenu>
+  <NoColony>არანაირი კოლონია</NoColony>
+  <NoWandererDestination>ვერ მიაღწევს ნებისმიერ დანიშნულების ადგილს</NoWandererDestination>
+  <GameOverCreateNewWanderersWait>უნდა დაელოდო {0}h</GameOverCreateNewWanderersWait>
+
+  
+  <LifespanExpiry>ვადა იწურება:</LifespanExpiry>
+
+  
+  <InactiveFacility>არააქტიური</InactiveFacility>
+  <FacilityPotentiallyLinkedTo>ბმულები</FacilityPotentiallyLinkedTo>
+  <FacilityNoPotentialLinks>არ არის დაკავშირებული შენობასთან</FacilityNoPotentialLinks>
+  <FacilityMaxSimultaneousConnections>თითო შენობასთან დაკავშირებული მაქსიმუმი</FacilityMaxSimultaneousConnections>
+  <FacilityFrontBlocked>შენობის წინ გადაკეტილია.</FacilityFrontBlocked>
+
+  
+  <DiseaseGrowthModeChanged_Growing>{PAWN_labelShort}-ის {1} ახლა იზრდება.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Stable>{PAWN_labelShort}-ის {1} ახლა სტაბილურია.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Remission>{PAWN_labelShort}-ის {1} ახლა რემისიაშია.</DiseaseGrowthModeChanged_Remission>
+
+  
+  <MarriageSpotUsable>გამოყენებადია ახლა.</MarriageSpotUsable>
+  <MarriageSpotNotUsable>გამოუყენებელი: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotStandable>დაბლოკილი</MarriageSpotNotStandable>
+  <MarriageSpotDangerous>ძალიან საშიშია {1_labelShort}-ისთვის</MarriageSpotDangerous>
+  <MarriageSpotForbidden>აკრძალულია {1_labelShort}-ისთვის</MarriageSpotForbidden>
+  <MarriageSpotReserved>დაჯავშნული</MarriageSpotReserved>
+  <MarriageSpotUnreachable>მიუწვდომელია {1_labelShort}-ისთვის</MarriageSpotUnreachable>
+  <MarriageSpotInPrisonCell>ციხის საკანში</MarriageSpotInPrisonCell>
+  <NotEnjoyableOutsideTemperature>არასასიამოვნო ტემპერატურა</NotEnjoyableOutsideTemperature>
+
+  
+  <ActivityIconMedicalRest>სამედიცინო დასვენება</ActivityIconMedicalRest>
+  <ActivityIconSleeping>ძილი</ActivityIconSleeping>
+  <ActivityIconFleeing>გაქცევა</ActivityIconFleeing>
+  <ActivityIconAttacking>ბრძოლა</ActivityIconAttacking>
+  <ActivityIconIdle>მოცდა</ActivityIconIdle>
+  <ActivityIconBurning>წვა</ActivityIconBurning>
+  <ActivityIconFormingCaravan>ქარავნის ფორმირება</ActivityIconFormingCaravan>
+
+  
+  <DueForMaintenance>მოვლის გამო.</DueForMaintenance>
+  <DeterioratingDueToLackOfMaintenance>უარესდება მოვლის ნაკლებობის გამო.</DeterioratingDueToLackOfMaintenance>
+
+  
+  <ProgressToNextLump>პროგრესი შემდეგ ერთეულზე</ProgressToNextLump>
+  <ResourceBelow>რესურსი ქვემოთ</ResourceBelow>
+  <ProgressToNextPortion>გადასვლა შემდეგ ნაწილზე</ProgressToNextPortion>
+  <DeepDrillNoResources>ქვემოთ რესურსები არ არის.</DeepDrillNoResources>
+  <DeepDrillExhausted>ღრმა საბურღი რესურსები ამოწურულია, საბურღი ავტომატურად აკრძალულია. დაუკრძალავი {0}-ის მაინინგის დაწყება.</DeepDrillExhausted>
+  <DeepDrillExhaustedNoFallback>ღრმა საბურღი რესურსი ამოწურულია.</DeepDrillExhaustedNoFallback>
+
+  
+  <ChargesRemaining>დარჩენილი გადასახადები</ChargesRemaining>
+  
+  
+  <LearningHelper>სწავლის დამხმარე</LearningHelper>
+  <LearningHelperTooltip>თამაშშიდა დამრიგებელი, რომელიც მიზნად ისახავს გასწავლოთ ინფორმაცია თქვენი კოლონიის ამჟამინდელი მდგომარეობის შესაბამისი თემების შესახებ</LearningHelperTooltip>
+  <MarkLearned>მონიშნე როგორც ნასწავლი</MarkLearned>
+  <AlreadyLearned>უკვე ნასწავლი</AlreadyLearned>
+  <Filter>ფილტრი</Filter>
+
+  
+  <CompassTip>აჩვენებს ჩრდილოეთის მიმართულებას. დააწკაპუნეთ კამერის დასატრიალებლად ისე, რომ ჩრდილოეთ პოლუსი ზემოთ იყოს.</CompassTip>
+
+  
+  <RoutePlannerButtonTip>დააწკაპუნეთ დაგეგმვის რეჟიმში შესასვლელად, სადაც შეგიძლიათ დაგეგმოთ თქვენი მოგზაურობა და გამოთვალოთ მანძილი პუნქტებს შორის.</RoutePlannerButtonTip>
+  <RoutePlannerAddTwoOrMoreWaypoints>დაამატეთ ორი ან მეტი გზა.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>დაამატეთ ერთი ან მეტი გზა.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerEstTimeToFinalDest>მარშრუტის მთლიანი დრო: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>დაგეგმვის რეჟიმი იყენებს ქარავნის ნაგულისხმევ სიჩქარეს. თქვენი სიჩქარე შეიძლება განსხვავდებოდეს.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>გაანგარიშება: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>მაუსის მარჯვენა ღილაკი: დაამატეთ/ამოშალეთ პუნქტები.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>ტრიგერის მარცხენა ღილაკი: გზის წერტილების დამატება/წაშლა.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <RoutePlannerPressEscapeToExit>ESC: დაგეგმვის რეჟიმიდან გასვლა.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: დაგეგმვის რეჟიმიდან გასვლა.</RoutePlannerPressEscapeToExitController>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: დაბრუნება ქარავნის ფორმირების დიალოგში.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: დაბრუნება ქარავნის ფორმირების დიალოგში.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <EstimatedTimeToWaypoint>ეს მგზავრობის დრო: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypointFromPrevious>ეს მგზავრობის დრო (წინა პუნქტიდან): {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToTile>ეს მგზავრობის დრო: {0}</EstimatedTimeToTile>
+  <ForagedFoodAmount>საკვების რაოდენობა</ForagedFoodAmount>
+
+  
+  <OutfitAnything>ყველაფერი</OutfitAnything>
+  <OutfitWorker>მუშა</OutfitWorker>
+  <OutfitSoldier>ჯარისკაცი</OutfitSoldier>
+  <OutfitNudist>ნუდისტი</OutfitNudist>
+  <OutfitSpacefarer>კოსმონავტი</OutfitSpacefarer>
+
+  
+  <HibernatableHibernating>ჰიბერნაცია</HibernatableHibernating>
+  <HibernatableStartingUp>გაშვება</HibernatableStartingUp>
+
+  
+  <ClickToSeeAvailableOrders_WorldObject>{0}: იხილეთ ხელმისაწვდომი შეკვეთები...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_Empty>იხილეთ ხელმისაწვდომი შეკვეთები...</ClickToSeeAvailableOrders_Empty>
+  
+  
+  <PawnTooltipWithDescAndPrimaryEquip>{0} ({1})\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
+  <PawnTooltipWithDescNoPrimaryEquip>{0} ({1})\n{2}</PawnTooltipWithDescNoPrimaryEquip>
+  <PawnTooltipWithPrimaryEquipNoDesc>{0}\n{1}\n{2}</PawnTooltipWithPrimaryEquipNoDesc>
+  <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
+  <PawnTooltipPsychicEntropyStats>დაცემის სიჩქარე: {0} / წმ ({1}s ნულამდე)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyDesc>ნერვული სიცხე იზრდება ფსიქიკური ძალის გამოყენების შემდეგ. ნორმალური ლიმიტის გადალახვამ შეიძლება გამოიწვიოს ფსიქიკური აშლილობა, რომელიც გრძელდება დღეების განმავლობაში.\n\nნერვული სითბო დროთა განმავლობაში ბუნებრივად იშლება. ეს პროცესი შეიძლება დაჩქარდეს ელტექსის ტანსაცმლის ტარებით ან ტკივილით.</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyPainFocus>ტკივილის გაძლიერება\n\nტკივილი ყურადღებას ამახვილებს გონებაზე და აჩქარებს ნერვული სითბოს გაფრქვევას.\n\nტკივილის დონე: {0}\nბონუსი სითბოს აღდგენისთვის: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyLimit>ნერვული სითბოს შემზღუდველის გადართვა. სითბოს ლიმიტის გადაჭარბებამ შეიძლება გამოიწვიოს ფსიქიკური აშლილობა, რომელიც გრძელდება დღეების განმავლობაში. ეს არ გამოიწვევს მუდმივ ზიანს.</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsyfocus>ფსიფოკუსი: {0}</PawnTooltipPsyfocus>
+  
+  
+  <PawnTooltipGenderAndKindLabel>{0} {1}</PawnTooltipGenderAndKindLabel>
+
+  
+  <Reward_Pawn_DropPod>{0_age} წლის {0_title}, სახელად {0_nameDef}, ჩამოვა {0_relationInfoInParentheses} სატრანსპორტო განყოფილებაში</Reward_Pawn_DropPod>
+  <Reward_Pawn_WalkIn>ჩამოვა {0_age} წლის {0_title} სახელად {0_nameDef} და შემოგიერთდებით {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_Caravan>{0_age} წლის {0_title} სახელად {0_nameDef} შემოგიერთდებათ {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Items>ჩამოვა სატრანსპორტო რგოლები შემდეგი რესურსებით (ჯამური ღირებულება {1}):\n\n{0}</Reward_Items>
+  <Reward_Items_Caravan>თქვენ მიიღებთ (ჯამური ღირებულება {1}):\n\n{0}</Reward_Items_Caravan>
+  <Reward_Goodwill>თქვენი ფრაქციის ურთიერთობა {0_name}-თან გაუმჯობესდება {1}-ით</Reward_Goodwill>
+  <Reward_PassageOffworld>ვარსკვლავებთან წაგიყვანთ</Reward_PassageOffworld>
+  <Reward_PassageOffworld_Label>გაიარეთ სამყაროს გარეთ</Reward_PassageOffworld_Label>
+  <Reward_CampLoot>თქვენ შეგიძლიათ გაძარცოთ ყველაფერი ბანაკიდან</Reward_CampLoot>
+  <Reward_CampLoot_Label>ბანაკის ძარცვა</Reward_CampLoot_Label>
+  <Reward_Unknown>გაურკვეველია რა მოხდება, თუ დაეთანხმებით ამ ქვესტს</Reward_Unknown>
+  <Reward_Unknown_Label>უცნობი</Reward_Unknown_Label>
+  <Reward_VisitorsHelp>სტუმრები იმუშავებენ და იბრძოლებენ შენთვის</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp_Label>ვიზიტორთა დახმარება</Reward_VisitorsHelp_Label>
+  <Reward_BestowingCeremony_Label>ფსილინკის ახალი დონე</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony>{PAWNNAME} იძენს ფსილინკს</Reward_BestowingCeremony>
+  <Reward_ShuttleLoot_Label>შატლის ნაძარცვი</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot>შეგიძლიათ შატლის დეკონსტრუქცია და გაძარცვა</Reward_ShuttleLoot>
+  <Reward_PossibleFutureReward_Label>შესაძლო სამომავლო ჯილდო</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward>ჯილდო, რომელიც შესაძლოა მომავალში გაიცეს</Reward_PossibleFutureReward>
+  <Reward_Title_Label>{TITLE} სათაური</Reward_Title_Label>
+  <Reward_Title>{PAWNNAME} იძენს {TITLE} ტიტულს {FACTION}-ისგან</Reward_Title>
+  <TotalValue>ღირებულება {0}</TotalValue>
+  
+  
+  <BondedWith>მიბმული: {0}</BondedWith>
+  <NotBonded>ჯერ არ არის შეკრული</NotBonded>
+  <BladelinkBondedToSomeoneElse>სხვასთან მიბმული</BladelinkBondedToSomeoneElse>
+  <BladelinkAlreadyBonded>(არსებული ობლიგაცია)</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBondedDialog>ადამიანს შეუძლია ერთ ჯერზე მხოლოდ ერთ პერსონის იარაღთან დაკავშირება.\n\n{WEAPON_labelShort}-ის აღჭურვისა და დასაკავშირებლად, ჯერ უნდა განადგურდეს {PAWN_nameDef}-ის ამჟამად შეკრული იარაღი {BONDEDWEAPON_labelShort}.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} უკვე დაკავშირებულია {BONDEDWEAPON_labelShort}-თან</BladelinkAlreadyBondedMessage>
+
+  
+  <Biocoded>ბიოკოდირებული {0}</Biocoded>
+  <CodedFor>ბიოკოდირება: {0}</CodedFor>
+  <BiocodedCodedForSomeoneElse>ბიოკოდირებული</BiocodedCodedForSomeoneElse>
+
+  
+  <InterceptsProjectilesEvery>წყვეტს {0} ყოველ {1}-ს.</InterceptsProjectilesEvery>
+  <InterceptsProjectiles>კვეთს {0}.</InterceptsProjectiles>
+  <InterceptsProjectiles_BothProjectiles>სახმელეთო და საჰაერო ჭურვები</InterceptsProjectiles_BothProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>მიწის ჭურვები</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>საჰაერო ჭურვები</InterceptsProjectiles_AerialProjectiles>
+
+  
+  <AffectedGender>დაზარალებული სქესი</AffectedGender>
+
+  
+  <CausedByHediff>გამომწვევი: {0}</CausedByHediff>
+  
+  <DamageFactorWeakness>{DAMAGE_label} სისუსტე</DamageFactorWeakness>
+  <DamageFactorResistance>{DAMAGE_label} წინააღმდეგობა</DamageFactorResistance>
+  <DamageFactor>{DAMAGE_label} ზიანი, რომელსაც ეს არსება იღებს, მრავლდება ამ თანხაზე.</DamageFactor>
+  
+  
+  <HealingHealHediff>{0_nameDef}-ის {1} განიკურნა.</HealingHealHediff>
+  <HealingRestoreBodyPart>{0_nameDef}-ის {1} აღდგენილია.</HealingRestoreBodyPart>
+
+  <WarningBuildingCausesHostility>სიფრთხილე: შენობის აქ განთავსება გააბრაზებს {FACTION_name}-ს!</WarningBuildingCausesHostility>
+
+  <ChooseLandingSite>აირჩიეთ სადესანტო ადგილი</ChooseLandingSite>
+
+  
+  <LordJobOutcomeChances>შედეგის შანსები {0} ხარისხზე</LordJobOutcomeChances>
+  <ExpectedLordJobDuration>მოსალოდნელი ხანგრძლივობა</ExpectedLordJobDuration>
+
+  
+  <Ritual>რიტუალი</Ritual>
+
+  <RitualTakesPlaceAt>ტარდება</RitualTakesPlaceAt>
+  <RitualTargetThingDefsInfo>ნებისმიერი {0}</RitualTargetThingDefsInfo>
+  <LordReportAttending>ესწრება {0}</LordReportAttending>
+  <RitualCalledOff>{0} გაუქმდა.</RitualCalledOff>
+  <RitualNobodyAttended>{0} არ დასრულებულა დასწრების ნაკლებობის გამო.</RitualNobodyAttended>
+  <RitualFinished>{0} დასრულდა.</RitualFinished>
+  <RitualEndsIn>მთავრდება {0}-ში</RitualEndsIn>
+  <RitualStartAnyTime>ნებისმიერ დროს შეიძლება დაიწყოს</RitualStartAnyTime>
+  <RitualStartEvent>შეიძლება დაიწყოს მოვლენის შემდეგ</RitualStartEvent>
+  <RitualFocusObjects>ობიექტების ფოკუსირება</RitualFocusObjects>
+  <RitualParticipatingRoles>მონაწილე როლები</RitualParticipatingRoles>
+  <Organizers>ორგანიზატორები</Organizers>
+  <QualityFactors>ხარისხის ფაქტორები</QualityFactors>
+  <QualityFactorTooltipUncertain>ეს პირობა შეიძლება შესრულდეს იმის მიხედვით, თუ როგორ განვითარდება მოვლენები.\n\nთუ ის შესრულდება, იმოქმედებს ხარისხის ბონუსი.</QualityFactorTooltipUncertain>
+  <QualityFactorTooltipNotFulfilled>ეს პირობა არ არის შესრულებული.\n\nხარისხის ბონუსი არ ვრცელდება.</QualityFactorTooltipNotFulfilled>
+  <Spectators>მაყურებლები</Spectators>
+  <NotParticipating>არ მონაწილეობს</NotParticipating>
+  <DragPawnsToRolesInfo>გადაათრიეთ და ჩამოაგდეთ ან დააწკაპუნეთ მარცხნივ/მარჯვნივ, ხალხის გადასატანად.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfoController>გადაათრიეთ და ჩამოაგდეთ ან დააწკაპუნეთ ხალხის გადასატანად.</DragPawnsToRolesInfoController>
+  <RitualBeginSlaveDesc>მონა. სხვისი ადამიანური საკუთრება.</RitualBeginSlaveDesc>
+  <RitualBeginSleepingDesc>{0_labelShort} სძინავს. ღონისძიებაში ჩართვის შემთხვევაში, {0_pronoun} გაიღვიძებს მონაწილეობის მისაღებად.</RitualBeginSleepingDesc>
+  <RitualBeginSleepingWarning>ზოგიერთ შერჩეულ მონაწილეს სძინავს. ისინი გაიღვიძებენ, როგორც კი დაიწყებთ ღონისძიებას.</RitualBeginSleepingWarning>
+  <RitualRoleRequiresSocialRole>ამ თანამდებობას საუკეთესოდ აკეთებს კოლონისტი, რომელსაც აქვს სოციალური როლი {0}.\n\nთუ ვინმე ამ როლის გარეშე დაიკავებს ამ პოზიციას, თქვენ არ მიიღებთ შემდეგ ბონუს(ებ)ს</RitualRoleRequiresSocialRole>
+  <RitualRoleCantSubstitute>{0}-ის როლისთვის შემცვლელი არ არის ხელმისაწვდომი.</RitualRoleCantSubstitute>
+  <RitualOutcomeProgress>{0} პროგრესი</RitualOutcomeProgress>
+  <RitualOutcomeQualityAbstract>{0} ხარისხი დამოკიდებულია</RitualOutcomeQualityAbstract>
+  <RitualOutcomeQualitySpecific>{0} ჯამური ხარისხი იყო {1}, რომელიც განისაზღვრება ამ ფაქტორებით</RitualOutcomeQualitySpecific>
+  <RitualOutcomePerformedRecently>შესრულდა ცოტა ხნის წინ</RitualOutcomePerformedRecently>
+  <RitualQualityExpectations>{0} მოლოდინი</RitualQualityExpectations>
+  <RitualAmbienceSound>რიტუალური ატმოსფეროს ხმა</RitualAmbienceSound>
+  <RitualQualityLowWarning>ჯამური {0} ხარისხი {1}-ზე დაბალია. პროცესი, სავარაუდოდ, უარყოფითად იმოქმედებს თქვენს კოლონიაზე.\n\nდარწმუნებული ხართ?</RitualQualityLowWarning>
+  <AbilitySpeechDisabledNoSpot>მიუწვდომელი ადგილი არ არის სალაპარაკოდ.</AbilitySpeechDisabledNoSpot>
+  <AbilityDisabledNoCapacity>{0_labelShort} არ შეუძლია {1}-ს.</AbilityDisabledNoCapacity>
+  <RitualOutcomeExtraDesc_Mood>რიტუალში ყველა მონაწილე იძენს {0} განწყობას {1} დღის განმავლობაში.</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeNoQuality>ამ რიტუალს არ გააჩნია ხარისხის ოფსეტები, ამიტომ საუკეთესო შედეგი ყოველთვის მოსალოდნელია</RitualOutcomeNoQuality>
+
+  <Begin>დაწყება</Begin>
+  <BeginRitual>დაიწყეთ {0}</BeginRitual>
+  <BeginRitualFor>დაიწყეთ {0} {1}-ისთვის</BeginRitualFor>
+  <QualityOutOf>{0} ({1}-დან)</QualityOutOf>
+  <DateRitualNoObligation>{0} არის თარიღის სპეციფიკური რიტუალი. თქვენ შეძლებთ მის დაწყებას {1}-ში, {2}-ზე.</DateRitualNoObligation>
+
+  <PreceptReplaceWith>ჩანაცვლება ერთად</PreceptReplaceWith>
+  <RitualSeatOf>{IDEOS}-ის რიტუალური საჯდომი</RitualSeatOf>
+  <ExpectedLordJobQuality>მოსალოდნელი ხარისხი</ExpectedLordJobQuality>
+  <StartingQuality>საწყისი ხარისხი</StartingQuality>
+  <RitualPredictedOutcomeDescPawnStat>{PAWN_labelShort}-ის {1}</RitualPredictedOutcomeDescPawnStat>
+  <RitualPredictedOutcomeDescRoomBeauty>ოთახის სილამაზე</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescPawnExpectations>{PAWN_labelShort}-ის მოლოდინები</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualOutcomeLovedOnePresentLabel>საყვარელი ადამიანი საჩუქარი</RitualOutcomeLovedOnePresentLabel>
+  <RitualOutcomeLovedOnePresentTip>ნებისმიერი ადამიანი, რომელსაც {PAWN_labelShort} თვლის თავის მეგობრად ან უფრო მეტ მეგობრად.</RitualOutcomeLovedOnePresentTip>
+
+  <RitualOutcomeLabelAnyOfThese>რომელიმე მათგანი</RitualOutcomeLabelAnyOfThese>
+  <RitualRoleReplaces>ცვლის {PAWN_labelShort}</RitualRoleReplaces>
+
+  <Present>დამსწრე</Present>
+  <Used>მეორადი {0}</Used>
+  <StartingRitualQuality>{0} საწყისი ხარისხი</StartingRitualQuality>
+
+  <OutcomeBonusDesc_Quality>{0} ხარისხამდე</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_QualitySingleOffset>{0} ხარისხი</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
+  <MaxValue>{0} მაქს</MaxValue>
+
+  <ThingOf>{0}</ThingOf>
+  <ThingOfSource>{0} {1}-დან</ThingOfSource>
+  <ThingOfTwoSources>{0} {1}-დან და {2}-დან</ThingOfTwoSources>
+
+  
+  <BlindSmoke>ბრმა კვამლი</BlindSmoke>
+  <ToxGas>ტოქსიკური გაზი</ToxGas>
+  <RotStink>ლპობის სუნი</RotStink>
+  <DeadlifeDust>სასიკვდილო მტვერი</DeadlifeDust> 
+
+  
+  <AbilityDisabledUndrafted>უნდა იყოს შედგენილი.</AbilityDisabledUndrafted>
+  <AbilityOnCooldown>გაგრილების უნარი. ის ხელმისაწვდომი იქნება {0}-ში.</AbilityOnCooldown>
+  <AbilityNoCharges>შესაძლებლობა გადასახადის გარეშე.</AbilityNoCharges>
+  <AbilityAlreadyQueued>უნარი უკვე რიგშია.</AbilityAlreadyQueued>
+  <AbilityReadyLabel>{PAWN_nameDef}-ისთვის მზადების უნარი: {0}</AbilityReadyLabel>
+  <AbilitiesReadyLabel>{PAWN_nameDef}-ისთვის მზად უნარები: {0}</AbilitiesReadyLabel>
+  <AbilityReadyText>{0_nameDef} მზად არის გამოიყენოს {1}.</AbilityReadyText>
+  <AbilityDisabledInRitual>{0_labelShort} მონაწილეობს {1}-ში.</AbilityDisabledInRitual>
+  <Charges>მუხტი</Charges>
+
+  <PawnIsInMentalState>{0_nameDef} ფსიქიკურ მდგომარეობაშია.</PawnIsInMentalState>
+  <PawnIsInAggroMentalState>{0_nameDef} აგრესიულ ფსიქიკურ მდგომარეობაშია.</PawnIsInAggroMentalState>
+
+  <DisabledWorkLabel>ინვალიდი სამუშაო</DisabledWorkLabel>
+  <DisabledNeedsLabel>ინვალიდებს სჭირდებათ</DisabledNeedsLabel>
+
+  
+  <GlowerChangeColor>ფერის შეცვლა</GlowerChangeColor>
+  <GlowerChangeColorDescription>შეცვალეთ სინათლის ფერი.</GlowerChangeColorDescription>
+  <GlowerChangeColorNeedsResearch>თქვენ უნდა გამოიკვლიოთ {0} ღია ფერის შესაცვლელად.</GlowerChangeColorNeedsResearch>
+
+  
+  <ShieldPersonalTip>პირადი ფარი, რომელიც შეეცდება შეაჩეროს შემომავალი ჭურვები ან ნამსხვრევები. ის ხელს უშლის მფლობელს გასროლაში და მყისიერად ითიშება EMP-ის დარტყმის შემთხვევაში.</ShieldPersonalTip>
+
+  <UnrecruitableDesc>{PAWN_nameDef} იმდენად ერთგულია {PAWN_possessive} სახლის მიმართ, რომ {PAWN_pronoun} უარს იტყვის დაქირავებაზე ტყვედ ჩავარდნის შემთხვევაში.</UnrecruitableDesc>
+
+  <Random>შემთხვევითი</Random>
+
+  <PlantThing>მცენარე {0_label}</PlantThing>
+  <PlantThingDesc>დარგეთ {0_label} არჩეულ ტერიტორიაზე.</PlantThingDesc>
+  <CancelPlantThing>გააუქმეთ დარგვა {0_label}</CancelPlantThing>
+  <CancelPlantThingDesc>გააუქმეთ {0_label}-ის დარგვა.</CancelPlantThingDesc>
+
+  <AbilitySpeechDisabledAnotherGatheringInProgress>კიდევ ერთი შეკრება მიმდინარეობს.</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <AbilitySpeechCooldown>შემდეგი გამოსვლა მზად არის</AbilitySpeechCooldown>
+  <AbilitySpeechTargetsLabel>ინიცირებულია</AbilitySpeechTargetsLabel>
+  
+  
+
+  <Benefits>სარგებელი</Benefits>
+  <Dangers>საფრთხეები</Dangers>
+  <AlreadyUnlocked>უკვე განბლოკილია</AlreadyUnlocked>
+  <WhenDiscovered>როდესაც აღმოაჩინა</WhenDiscovered>
+  
+  <BookMentalBreakMessage>{0}-ის წაკითხვის შემდეგ გონებრივ შესვენებაში ჩავარდა.</BookMentalBreakMessage>
+  <BookReadProgress>{0} შესრულებულია (სრულდება {1} საათში)</BookReadProgress>
+  
+  <BookLearningModifier>სწავლის სიჩქარე</BookLearningModifier>
+  <BookMentalBreak>გონებრივი შესვენების შანსი</BookMentalBreak>
+  
+  <BookNotReadable>{BOOK_labelShort} არ იკითხება</BookNotReadable>
+  <BookCantRead>{PAWN_nameDef} ვერ კითხულობს</BookCantRead>
+  <BookCantBeStage>{PAWN_nameDef} უნდა იყოს {STAGES}</BookCantBeStage>
+  <BookBlind>{PAWN_nameDef} ბრმაა</BookBlind>
+  
+  <BookMaxLevel>მაქსიმალური დონე {0}</BookMaxLevel>
+  
+  <ReadingReportHeader>წაკითხვა {0}: {1} დასრულებულია (სრულდება {2} საათში)</ReadingReportHeader>
+  
+  <ReadingDialogTitle>მიანიჭეთ კითხვა</ReadingDialogTitle>
+  <ReadingAssignTo>მიანიჭეთ {0}</ReadingAssignTo>
+  <ReadingAssign>მინიჭება</ReadingAssign>
+
+  <ContainedBooksDesc>წიგნები ამჟამად ამ წიგნების თაროზეა.</ContainedBooksDesc>
+  
+  <BookshelfStoredInspect>შენახული წიგნები</BookshelfStoredInspect>
+  <BookshelfReadingBonusInspect>კითხვის ბონუსი ოთახში</BookshelfReadingBonusInspect>
+
+  <EjectBookTooltip>ამოიღეთ ეს წიგნი წიგნების თაროდან.</EjectBookTooltip>
+  
+  
+  <CommandPushTo>აიძულე...</CommandPushTo>
+  <RequiredCapacity>მოითხოვს {0}</RequiredCapacity>
+
+  
+  <UnableToEnterPortal>{0}-ში შესვლა შეუძლებელია, დანიშნულება დაბლოკილია</UnableToEnterPortal>
+
+  <ResearchNotDiscovered>კვლევის ეს კატეგორია არ არის აღმოჩენილი.</ResearchNotDiscovered>
+
+  <Emergence>გამოჩენა</Emergence>
+  
+  <RemovePart>ამოიღეთ {0}</RemovePart>
+
+  <DoWorkAtThing>{GERUND} {TARGETLABEL} ზე</DoWorkAtThing>
+  <CanBeStudiedInDuration>შეიძლება შეისწავლოს {0}-ში</CanBeStudiedInDuration>
+  
+  <AboutToExplode>აფეთქებას აპირებს</AboutToExplode>
+  <RefuelableNoFuelToEject>საწვავი არ არის ამოსატანი</RefuelableNoFuelToEject>
+  
+  <MainScreen_AnomalyAvailableNow>ახალი ანომალიის გაფართოება ხელმისაწვდომია ახლა!</MainScreen_AnomalyAvailableNow>
+
+  <DisabledByScenario>გამორთულია სცენარის მიხედვით</DisabledByScenario>
+
+  <BlockedByRoof>გადაკეტილია სახურავით</BlockedByRoof>
+  <BlockedByTerrain>დაბლოკილია რელიეფის მიხედვით (საჭიროებს {0_label} რელიეფის მხარდაჭერას)</BlockedByTerrain>
+
+  
+  <DesignatorFillIn>შეავსეთ</DesignatorFillIn>
+  <DesignatorFillInDesc>დანიშნეთ ეს კრატერი შესავსებლად. მშენებლობაზე დანიშნული კოლონისტი შეავსებს მას.</DesignatorFillInDesc>
+
+  
+  <HackProgress>გატეხვის პროგრესი</HackProgress>
+  <HackingSpeed>ჰაკერების სიჩქარე</HackingSpeed>
+  <HackingLastUser>{0}-ები</HackingLastUser>
+  <Hacked>გატეხილი</Hacked>
+  <TerminalsHacked>ტერმინალები გატეხილია</TerminalsHacked>
+  <IntellectualSkillPrerequisite>ინტელექტუალურია საჭირო</IntellectualSkillPrerequisite>
+  <AutoHack>ავტომატური ჰაკი</AutoHack>
+  <AutoHackDesc>როდესაც ჩართულია, მკვლევარები ავტომატურად გატეხენ ამას.</AutoHackDesc>
+
+  
+  <WorldSelectLayer>იხილეთ {LAYER_label}</WorldSelectLayer>
+  <WorldJumpTo>გადახტომა ადგილმდებარეობაზე</WorldJumpTo>
+  <WorldJumpToDesc>იპოვეთ კოლონია, ქარავანი ან საძიებო მდებარეობა მსოფლიო რუკაზე.</WorldJumpToDesc>
+  <NothingToJumpTo>არაფერზე გადახტომა.</NothingToJumpTo>
+  <CannotFunctionOnLayer>ვერ ფუნქციონირებს {0}-ში</CannotFunctionOnLayer>
+  <NewSettlement>ახალი დასახლება</NewSettlement>
+  <Settled>დასახლებული</Settled>
+  <Abandoned>მიტოვებული</Abandoned>
+  <CannotPerformPlanetLayer>შეუძლებელია {GERUND} {LAYER} შესრულება</CannotPerformPlanetLayer>
+  <ThisWillNotAffectLayer>ეს არ იმოქმედებს თქვენზე {GERUND} {LAYER}.</ThisWillNotAffectLayer>
+
+  
+  <EnterPortal>შეიყვანეთ {0}</EnterPortal>
+  <EnteringPortal>{0}-ის შეყვანა</EnteringPortal>
+  <CommandEnterPortalDesc>აირჩიეთ ხალხი და ელემენტი {0}-ში შესასვლელად.</CommandEnterPortalDesc>
+  <CommandCancelEnterPortal>შესვლის გაუქმება</CommandCancelEnterPortal>
+  <CommandCancelExitPortal>გააუქმეთ გასვლა</CommandCancelExitPortal>
+  <CommandCancelEnterPortalDesc>გააუქმეთ ხალხის ან ნივთების ჩატვირთვა მასში.</CommandCancelEnterPortalDesc>
+  <ExitPortal>გადით {0}</ExitPortal>
+
+  
+  <ShieldEnergy>ფარის ენერგია</ShieldEnergy>
+  <ShieldTimeToRecovery>ფარის გაგრილება</ShieldTimeToRecovery>
+  <ShieldDuration>ფარის ხანგრძლივობა</ShieldDuration>
+  <ShieldOnCooldown>გაგრილებაზე</ShieldOnCooldown>
+  <ShieldBelowMinHitpoints>მინიმალური ენერგიის ქვემოთ</ShieldBelowMinHitpoints>
+  <ProjectileInterceptorTip>დაბალი კუთხით დაპროექტებული ფარი, რომელიც შეეცდება შეაჩეროს შემომავალი ჭურვები ან ნამსხვრევები. ის მყისიერად ითიშება, თუ EMP მოხვდება.</ProjectileInterceptorTip>
+
+  <MaxOf>მაქსიმუმ {0}</MaxOf>
+
+  <CannotUseDueToHediff>შეუძლებელია {TARGETABLE_label}-ის გამოყენება: {TARGET_nameDef}-ს უკვე აქვს {2}.</CannotUseDueToHediff>
+
+  
+  <CannotUseScannerRoofed>გადაკეტილია სახურავით</CannotUseScannerRoofed>
+  <CannotUseScannerNoBedrock>Biome არ შეიცავს საბურღი რესურსებს</CannotUseScannerNoBedrock>
+  
+  
+  <CannotAcceptQuestFromLayer>ამ ქვესტს ვერ მივიღებთ {GERUND} {LAYER}.</CannotAcceptQuestFromLayer>
+  <CannotAcceptQuestNoMap>არ შეიძლება ამ ქვესტის მიღება მუდმივი კოლონიის გარეშე.</CannotAcceptQuestNoMap>
+
+  <GuildTradeShipName>{0} {1}-დან</GuildTradeShipName>
+  
+</LanguageData>

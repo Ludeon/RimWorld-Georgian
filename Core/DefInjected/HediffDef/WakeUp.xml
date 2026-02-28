@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <WakeUpAddiction.description>Wake-up-ზე ქიმიური დამოკიდებულება. ხანგრძლივმა ზემოქმედებამ უჯრედულ დონეზე ნევროლოგიური ადაპტაციები გამოიწვია, ამიტომ ტვინი მის გარეშე ვეღარ ფუნქციონირებს ნორმალურად.</WakeUpAddiction.description>
+  <WakeUpAddiction.label>გაღვიძების დამოკიდებულება</WakeUpAddiction.label>
+  <WakeUpAddiction.stages.1.label>გაყვანა</WakeUpAddiction.stages.1.label>
+  <WakeUpHigh.description>გაღვიძება სისხლში. ის ავსებს დასვენების მოთხოვნილებას ტვინის სტიმულირებით და ზრდის ფოკუსს, რაც უფრო სწრაფად მუშაობის საშუალებას იძლევა. ის ასევე ზრდის ფსიქოკუსის მიღწევებს მედიტაციის შედეგად.</WakeUpHigh.description>
+  <WakeUpHigh.label>მაღალი გაღვიძებისას</WakeUpHigh.label>
+  <WakeUpHigh.labelNoun>მაღალი გაღვიძება</WakeUpHigh.labelNoun>
+  <WakeUpTolerance.description>გაღვიძებული ტოლერანტობა. რაც უფრო მკაცრია ეს ტოლერანტობა, მით მეტი გამოღვიძებაა საჭირო იმავე ეფექტის მისაღწევად.</WakeUpTolerance.description>
+  <WakeUpTolerance.label>გაღვიძების ტოლერანტობა</WakeUpTolerance.label>
+</LanguageData>

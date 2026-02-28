@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <NeedThroneAssigned>საჭიროა ტახტის ოთახი</NeedThroneAssigned>
+  <NeedThroneAssignedDesc>თქვენს ერთ-ერთ ადამიანს აქვს სამეფო ტიტული, რომელიც მოითხოვს ტახტის ოთახს, მაგრამ არ არის დანიშნული ტახტი.\n\nდარწმუნდით, რომ ტიტულის მფლობელს ტახტი ენიჭება ტახტის შიგნით.\n\nტახტის ოთახი უნდა იყოს სათანადო ზომის და მორთული, რათა დააკმაყოფილოს ტიტულის სპეციფიკური მოთხოვნები.\n\nერთ ტახტში შეიძლება განთავსდეს მრავალი ტახტი.</NeedThroneAssignedDesc>
+
+  <UndignifiedBedroom>უღირსი საძინებელი</UndignifiedBedroom>
+  <UndignifiedBedroomDesc>თქვენს ერთ-ერთ ადამიანს აქვს სამეფო ტიტული, რომელიც მოითხოვს საძინებელს სპეციფიკური მახასიათებლებით. ან საძინებელი არ არის დანიშნული, ან გამოყოფილი საძინებელი არ აკმაყოფილებს მოთხოვნებს.</UndignifiedBedroomDesc>
+
+  <NeedBedroomAssigned>სათაური მოითხოვს საძინებელს</NeedBedroomAssigned>
+  <NeedBedroomAssignedDesc>თქვენს ერთ-ერთ ადამიანს აქვს სამეფო ტიტული, რომელიც მოითხოვს პირად საძინებელს, მაგრამ საძინებელი არ არის მინიჭებული.\n\nმიეცი მათ პირადი საძინებელი. საძინებელი უნდა იყოს შესაბამისი ზომის და გაფორმებული, რათა დააკმაყოფილოს სათაურის სპეციფიკური მოთხოვნები.</NeedBedroomAssignedDesc>
+
+  <UndignifiedThroneroom>უღირსი ტახტი</UndignifiedThroneroom>
+  <UndignifiedThroneroomDesc>თქვენს ერთ-ერთ ადამიანს აქვს სამეფო ტიტული და ტახტი, მაგრამ ტახტის ოთახი არ აკმაყოფილებს ტიტულის მოთხოვნებს.</UndignifiedThroneroomDesc>
+  
+  <RoyalNoAcceptableFood>არ არის მისაღები საკვები</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFoodDesc>თქვენს ერთ-ერთ ადამიანს აქვს სამეფო ტიტული საკვების სპეციფიკური მოთხოვნებით. მაგრამ არ არის ხელმისაწვდომი საკვები, რომელიც აკმაყოფილებს ამ მოთხოვნებს.</RoyalNoAcceptableFoodDesc>
+
+  <RoomRequirementGracePeriodDesc>{0} დღე მოთხოვნის დაწყებამდე</RoomRequirementGracePeriodDesc>
+
+  <ThroneroomInvalidConfiguration>ტახტი გამოუყენებელი</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfigurationDesc>ტახტი არ არის გამოსაყენებელი იმის გამო, თუ როგორ არის ის დაყენებული:</ThroneroomInvalidConfigurationDesc>
+  
+  <MonumentMarkerMissingBlueprints>ძეგლს აკლია ნახატები</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprintsDesc>ძეგლი არ დასრულდება, რადგან ნახატები არ არის განთავსებული მისი ყველა ნაწილისთვის.\n\nაირჩიეთ ძეგლის მარკერი და დააწკაპუნეთ „მოათავსეთ ნახატები“ ან მოათავსეთ ნახატები ხელით.</MonumentMarkerMissingBlueprintsDesc>
+
+  <ShipLandingBeaconUnusable>შუქურა გამოუსადეგარია</ShipLandingBeaconUnusable>
+  <ShipLandingBeaconUnusableDesc>გემის სადესანტო შუქურა იკვებება, მაგრამ მისი გამოყენება შეუძლებელია. გამოსაყენებლად, მათგან ოთხი უნდა განთავსდეს კვადრატის კუთხეებზე, სულ მცირე 9 კრამიტის სიგანით, ხოლო კვადრატული ფართობი სუფთა უნდა იყოს დაბრკოლებებისგან, შენობების, ადამიანებისა და ცხოველების ჩათვლით.</ShipLandingBeaconUnusableDesc>
+
+  <NeedMeditationSpotAlert>საჭიროა მედიტაციის ადგილი</NeedMeditationSpotAlert>
+  <NeedMeditationSpotAlertDesc>ამ კოლონისტებს აქვთ ფსიქოკუსის მოთხოვნილება ან დაგეგმილია მედიტაცია, მაგრამ არ აქვთ მათთვის ხელმისაწვდომი მედიტაციის ადგილები.\n{0}\n\nგანათავსეთ მედიტაციის ადგილი და დარწმუნდით, რომ ის ხელმისაწვდომი და გამოსაყენებელია. კოლონისტებს ურჩევნიათ მედიტაციის ადგილი საუკეთესო ფოკუსირებული ობიექტის მახლობლად, რომლის გამოყენებაც შეუძლიათ. კოლონისტები არ იმედიტირებენ სხვა კოლონისტის საძინებელში.</NeedMeditationSpotAlertDesc>
+
+  <UnusableMeditationFocusAlert>გამოუსადეგარი მედიტაციის ფოკუსი</UnusableMeditationFocusAlert>
+  <UnusableMeditationFocusAlertDesc>ეს კოლონისტები მედიტაციას ახდენენ ფოკუსირებული ობიექტის მახლობლად, რომელსაც ვერ გამოიყენებენ.\n{0}\n\nთითოეულ ადამიანს შეუძლია მედიტირება სხვადასხვა ობიექტზე, მედიტაციის ფოკუსის ტიპებიდან გამომდინარე. ადამიანის ფოკუსის ტიპები დამოკიდებულია მის ისტორიებზე, თვისებებზე და ტიტულებზე. პიროვნების მედიტაციის ფოკუსის ტიპების სანახავად, შეხედეთ მათი დეტალების ფანჯარას მათი არჩევით და ღილაკზე „i“ დაწკაპუნებით.</UnusableMeditationFocusAlertDesc>
+
+  <PermitChoiceReadyAlert>ნებართვის არჩევანი მზად არის</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef}-ს შეუძლია აირჩიოს ახალი ნებართვა.</PermitChoiceReadyAlertDesc>
+  
+  <BestowerWaitingAlert>დამრიგებელი ელოდება</BestowerWaitingAlert>
+  <BestowerWaitingAlertDesc>მიმნიჭებელი ელოდება დაჯილდოების ცერემონიის დაწყებას.</BestowerWaitingAlertDesc>
+  
+  <AnimaLinkingReadyLabel>ანიმას დამაკავშირებელი ცერემონია მზად არის</AnimaLinkingReadyLabel>
+  <AnimaLinkingReadyDesc>ანიმა ხეს აქვს საკმარისი ანიმა ბალახი, რომ განახორციელოს დამაკავშირებელი ცერემონია და ამ კოლონისტების ფსილინკის დონის ამაღლება</AnimaLinkingReadyDesc>
+  <AnimaLinkingReadyDescExtra>ცერემონიის დასაწყებად, აირჩიეთ კოლონისტი, დააწკაპუნეთ ღილაკზე „დაიწყეთ anima ხე დაკავშირება“ და აირჩიეთ anima ხე, რომლის გამოყენებაც გსურთ.</AnimaLinkingReadyDescExtra>
+  
+</LanguageData>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AnimalBed.description>რბილი საწოლი ცხოველების დასაძინებლად. უხდება ნებისმიერ ცხოველს.</AnimalBed.description>
+  <AnimalBed.label>ცხოველის საწოლი</AnimalBed.label>
+  <AnimalSleepingBox.description>პატარა ყუთი ცხოველების დასაძინებლად. ერგება პატარა ცხოველებს, როგორიცაა ქათმები, კატები ან პატარა ძაღლები.</AnimalSleepingBox.description>
+  <AnimalSleepingBox.label>ცხოველის საძილე ყუთი</AnimalSleepingBox.label>
+  <AnimalSleepingSpot.description>განსაზღვრავს ადგილზე ადგილზე, სადაც ცხოველებმა უნდა დაიძინონ.</AnimalSleepingSpot.description>
+  <AnimalSleepingSpot.label>ცხოველის საძილე ადგილი</AnimalSleepingSpot.label>
+  <Armchair.description>დიდი, რბილი, კომფორტული სავარძელი. შესანიშნავია დასვენებისთვის. შეიძლება გამოყენებულ იქნას მაგიდებზე, სამუშაო სადგურებზე და სხვაგან.</Armchair.description>
+  <Armchair.label>სავარძელი</Armchair.label>
+  <Bed.description>მყუდრო ლეიბი და ზეწრები ჩარჩოზე დასასვენებლად.</Bed.description>
+  <Bed.label>საწოლი</Bed.label>
+  <Bedroll.description>უბრალო საწოლი, რომელიც იატაკზე დევს, ჩვეულებრივ ნაჭრისგან ან ტყავისგან, ხშირად ბეწვით შემოსილი. ის მსუბუქი წონაა და მისი შემოხვევა შესაძლებელია მარტივი ტრანსპორტირებისთვის, მაგრამ არც ისე კომფორტულია, როგორც ჩვეულებრივი საწოლი. ქარავნებს შეუძლიათ გამოიყენონ საწოლები მოგზაურობისას უკეთესი ძილისთვის.</Bedroll.description>
+  <Bedroll.label>საწოლიანი</Bedroll.label>
+  <BedrollDouble.description>უბრალო ორმაგი განიერი საწოლი, რომელიც დევს იატაკზე, ჩვეულებრივ ნაჭრისგან ან ტყავისგან, ხშირად ბეწვით შემოსილი. ის მსუბუქი წონაა და მისი შემოხვევა შესაძლებელია მარტივი ტრანსპორტირებისთვის, მაგრამ არც ისე კომფორტულია, როგორც ჩვეულებრივი საწოლი. ქარავნებს შეუძლიათ გამოიყენონ საწოლები მოგზაურობისას უკეთესი ძილისთვის.</BedrollDouble.description>
+  <BedrollDouble.label>ორმაგი საწოლი</BedrollDouble.label>
+  <Bookcase.description>ფართო წიგნების კარადა ათამდე წიგნის შესანახად და გამოსატანად. აქ შენახული წიგნები პასიურად გააუმჯობესებს აკადემიურ სამუშაოს, რომელიც შესრულებულია იქვე და გაზრდის წიგნის კარადის სილამაზეს. შენახული წიგნები არასოდეს გაფუჭდება.</Bookcase.description>
+  <Bookcase.label>წიგნის კარადა</Bookcase.label>
+  <BookcaseSmall.description>ვიწრო წიგნების კარადა ხუთამდე წიგნის შესანახად და საჩვენებლად. აქ შენახული წიგნები პასიურად გააუმჯობესებს აკადემიურ სამუშაოს, რომელიც შესრულებულია იქვე და გაზრდის წიგნის კარადის სილამაზეს. შენახული წიგნები არასოდეს გაფუჭდება.</BookcaseSmall.description>
+  <BookcaseSmall.label>პატარა წიგნის კარადა</BookcaseSmall.label>
+  <Couch.description>დიდი ორმაგი განიერი სავარძელი, რომელიც ბალიშირებულია მაქსიმალური კომფორტისთვის. იდეალურია მდიდრული დასასვენებელი ოთახისთვის ან სახლში კითხვისთვის.</Couch.description>
+  <Couch.label>დივანი</Couch.label>
+  <DiningChair.description>კომფორტული და მიმზიდველი სკამი. შეიძლება გამოყენებულ იქნას მაგიდებზე, სამუშაო სადგურებზე და სხვაგან.</DiningChair.description>
+  <DiningChair.label>სასადილო სკამი</DiningChair.label>
+  <DoubleBed.description>მარტივი ორმაგი განიერი საწოლი, რომელიც ეტევა ორ ადამიანს.</DoubleBed.description>
+  <DoubleBed.label>ორადგილიანი საწოლი</DoubleBed.label>
+  <DoubleSleepingSpot.description>განსაზღვრავს ადგილს მიწაზე, სადაც ორ ადამიანს ერთად უნდა ეძინოს. არა კომფორტული.</DoubleSleepingSpot.description>
+  <DoubleSleepingSpot.label>ორმაგი საძილე ადგილი</DoubleSleepingSpot.label>
+  <Dresser.description>კომოდი. აძლევს მცირე კომფორტის ბონუსს ყველა ახლომდებარე საწოლს. ერთსა და იმავე საწოლთან ერთზე მეტი კომოდის განთავსებას არანაირი ეფექტი არ აქვს.</Dresser.description>
+  <Dresser.label>კომოდი</Dresser.label>
+  <EndTable.description>პატარა საწოლის მაგიდა, რომელიც ახლომდებარე საწოლებს ოდნავ უფრო კომფორტულს ხდის. უნდა განთავსდეს პირდაპირ საწოლის თავთან. ერთსა და იმავე საწოლთან ერთზე მეტი ბოლო მაგიდის განთავსებას არანაირი ეფექტი არ აქვს.</EndTable.description>
+  <EndTable.label>ბოლო მაგიდა</EndTable.label>
+  <FloodLight.description>მაღალი ინტენსივობის შუქი, რომელიც კარგია დიდი გარე სივრცეებისთვის.</FloodLight.description>
+  <FloodLight.label>წყალდიდობის შუქი</FloodLight.label>
+  <HospitalBed.description>საწოლი სპეციალურად შექმნილი საავადმყოფოებში გამოსაყენებლად. რეგულირებადი პაციენტისთვის და ჩაშენებული აღჭურვილობით, ის აუმჯობესებს სამედიცინო შედეგებს ჩვეულებრივ საწოლებთან შედარებით.</HospitalBed.description>
+  <HospitalBed.label>საავადმყოფოს საწოლი</HospitalBed.label>
+  <PlantPot.description>დარგეთ დეკორატიული ყვავილები აქ, რათა გაიუმჯობესოთ გუნება-განწყობა.</PlantPot.description>
+  <PlantPot.label>მცენარის ქოთანი</PlantPot.label>
+  <RoyalBed.description>ძვირადღირებული ოქროთი ჩასმული საწოლი შესაფერისია მაღალშობილებისთვის. ძალიან კომფორტული და ლამაზი, თავისთავად ხელოვნების ნიმუშია. უხდება ორს.</RoyalBed.description>
+  <RoyalBed.label>სამეფო საწოლი</RoyalBed.label>
+  <Shelf.description>სამმაგი თარო, რომელიც ცარიელ იატაკთან შედარებით სამჯერ მეტს იტევს. შიგნით შენახული ნივთები აღარ ფუჭდება და გარემოს სილამაზეზეც არ მოქმედებს.\n\nრადგან თარო სივრცეს ზოგავს, საწყობში ძალიან ეფექტურია.</Shelf.description>
+  <Shelf.label>თარო</Shelf.label>
+  <ShelfSmall.description>პატარა სამმაგი თარო, რომელიც ცარიელ იატაკთან შედარებით სამჯერ მეტს იტევს. შიგნით შენახული ნივთები აღარ ფუჭდება და გარემოს სილამაზეზეც არ მოქმედებს.\n\nრადგან თარო სივრცეს ზოგავს, მცირე საცავებისთვის ძალიან მოსახერხებელია.</ShelfSmall.description>
+  <ShelfSmall.label>პატარა თარო</ShelfSmall.label>
+  <SleepingSpot.description>განსაზღვრავს ადგილზე ადგილზე, სადაც ხალხს უნდა ეძინოს. არა კომფორტული.</SleepingSpot.description>
+  <SleepingSpot.label>საძილე ადგილი</SleepingSpot.label>
+  <StandingLamp.description>ელექტრო დამდგარი ნათურა, რომელიც ანათებს ტერიტორიას. ადამიანებს სინათლე სჭირდებათ გადაადგილებისთვის და მთელი სიჩქარით მუშაობისთვის.</StandingLamp.description>
+  <StandingLamp.label>მდგარი ნათურა</StandingLamp.label>
+  <Stool.description>მარტივი პლატფორმა, რომელზეც უნდა იჯდეს. არ არის ძალიან კომფორტული, მაგრამ ბევრად უკეთესია, ვიდრე არაფერი. შეიძლება გამოყენებულ იქნას მაგიდებზე, სამუშაო სადგურებზე და სხვაგან.</Stool.description>
+  <Stool.label>სკამი</Stool.label>
+  <SunLamp.description>სამრეწველო ნათურა, რომელიც საკმარისად ანათებს ტერიტორიას მოსავლის მოსაყვანად, მაგრამ მოიხმარს უზარმაზარ ენერგიას. ღამით ავტომატურად ითიშება.</SunLamp.description>
+  <SunLamp.label>მზის ნათურა</SunLamp.label>
+  <Table1x2c.label>მაგიდა (1x2)</Table1x2c.label>
+  <Table2x2c.label>მაგიდა (2x2)</Table2x2c.label>
+  <Table2x4c.label>მაგიდა (2x4)</Table2x4c.label>
+  <Table3x3c.label>მაგიდა (3x3)</Table3x3c.label>
+  <TorchLamp.description>ხის ჩირაღდანი ტერიტორიის გასანათებლად. ადამიანებს სინათლე სჭირდებათ გადაადგილებისთვის და მთელი სიჩქარით მუშაობისთვის. შესაძლებელია ავტომატურად შევსება ხით. გამოიმუშავებს მცირე რაოდენობით სითბოს.</TorchLamp.description>
+  <TorchLamp.label>ჩირაღდნის ნათურა</TorchLamp.label>
+  <TorchWallLamp.description>კედელზე დამონტაჟებული ხის ჩირაღდანი ტერიტორიის განათებისთვის. ის არ არის ისეთი კაშკაშა, როგორც ჩვეულებრივი ჩირაღდნის ნათურა, მაგრამ მისი დამონტაჟება შესაძლებელია კედლებზე. გამოიმუშავებს მცირე რაოდენობით სითბოს.</TorchWallLamp.description>
+  <TorchWallLamp.label>კედლის ჩირაღდნის ნათურა</TorchWallLamp.label>
+  <WallLamp.description>კედელზე დამონტაჟებული ნათურა, რომელიც ანათებს ტერიტორიას ელექტროენერგიის გამოყენებით. ის ნაკლებად მძლავრია ვიდრე მდგარი ნათურა, მაგრამ შეიძლება დამონტაჟდეს კედელზე.</WallLamp.description>
+  <WallLamp.label>კედლის ნათურა</WallLamp.label>
+</LanguageData>

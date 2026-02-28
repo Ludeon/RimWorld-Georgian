@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Ability_CastingTime.description>რამდენი დრო სჭირდება ამ უნარის შესრულებას.</Ability_CastingTime.description>
+  <Ability_CastingTime.label>ჩამოსხმის დრო</Ability_CastingTime.label>
+  <Ability_DetectChancePerEntropy.description>ალბათობა, რომ ამ ფსიქიკური ძალის გამოყენება აღმოჩენილი იქნება.\n\nზოგი ფრაქცია კანონებით ზღუდავს გარკვეული ძალების გამოყენებას და მათ მხოლოდ კონკრეტული ტიტულის მქონეებს აძლევს უფლებას. ასეთ ძალას თუ უკანონოდ გამოიყენებთ, ეს აღმოჩენის შანსზე იმოქმედებს.</Ability_DetectChancePerEntropy.description>
+  <Ability_DetectChancePerEntropy.label>გამოვლენის შანსი</Ability_DetectChancePerEntropy.label>
+  <Ability_Duration.description>რამდენ ხანს გრძელდება ამ უნარის ეფექტი.</Ability_Duration.description>
+  <Ability_Duration.label>ხანგრძლივობა</Ability_Duration.label>
+  <Ability_EffectRadius.description>ამ უნარის მოქმედების არეალის რადიუსი.</Ability_EffectRadius.description>
+  <Ability_EffectRadius.label>ეფექტის რადიუსი</Ability_EffectRadius.label>
+  <Ability_EntropyGain.description>რამდენი ნერვული სითბო დაემატება ამ უნარის შესრულების შედეგად.</Ability_EntropyGain.description>
+  <Ability_EntropyGain.label>ნერვული სითბოს მომატება</Ability_EntropyGain.label>
+  <Ability_GoodwillImpact.description>როგორ იმოქმედებს ვინმეზე ამ უნარის მინიჭება მათ ფრაქციასთან ურთიერთობაზე.</Ability_GoodwillImpact.description>
+  <Ability_GoodwillImpact.label>კეთილგანწყობის გავლენა</Ability_GoodwillImpact.label>
+  <Ability_PsyfocusCost.description>რამდენი ფსიფოკუსი უნდა დაიხარჯოს ამ უნარის შესასრულებლად.</Ability_PsyfocusCost.description>
+  <Ability_PsyfocusCost.label>ფსიფოკუსის ღირებულება</Ability_PsyfocusCost.label>
+  <Ability_Range.description>მაქსიმალური მანძილი ამ შესაძლებლობის სამიზნემდე, ან სამიზნე მდებარეობის ცენტრამდე.</Ability_Range.description>
+  <Ability_Range.label>დიაპაზონი</Ability_Range.label>
+  <Ability_RequiredPsylink.description>ამ შესაძლებლობის გამოსაყენებლად საჭირო ფსილინკის მინიმალური დონე.</Ability_RequiredPsylink.description>
+  <Ability_RequiredPsylink.label>ფსილინკის დონე</Ability_RequiredPsylink.label>
+</LanguageData>

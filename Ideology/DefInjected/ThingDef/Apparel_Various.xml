@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_Blindfold.description>ქსოვილის გრძელი ზოლი, რომელიც თვალებზეა გახვეული, მხედველობის დაბლოკვის მიზნით.</Apparel_Blindfold.description>
+  <Apparel_Blindfold.label>თვალდახუჭული</Apparel_Blindfold.label>
+  <Apparel_BodyStrap.description>ტანის ირგვლივ თასმების არასასიამოვნო განლაგება, რომელიც დამზადებულია მონებისთვის. ის ახსენებს მფლობელს მონის სტატუსს და ფსიქოლოგიურად თრგუნავს მათ, ამცირებს მონების აჯანყების შანსს.</Apparel_BodyStrap.description>
+  <Apparel_BodyStrap.label>მონის სხეულის სამაჯური</Apparel_BodyStrap.label>
+  <Apparel_Burka.description>დიდი სამოსი, რომელიც მალავს მატარებლის მთელ თავსა და სხეულს.</Apparel_Burka.description>
+  <Apparel_Burka.label>ბურკა</Apparel_Burka.label>
+  <Apparel_TortureCrown.description>გვირგვინისმაგვარი თავსაბურავი შიგადაშიგ მოქცეული შტრიხებით, რომლებიც თავს იჭერს. იგი გამოიყენება მატარებელში ტკივილის გამოსაწვევად.</Apparel_TortureCrown.description>
+  <Apparel_TortureCrown.label>წამების გვირგვინი</Apparel_TortureCrown.label>
+</LanguageData>

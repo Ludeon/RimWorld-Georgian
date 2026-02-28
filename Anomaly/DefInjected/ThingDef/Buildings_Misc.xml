@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AtmosphericHeater.description>თერმული საპროექციო მოწყობილობა, რომელიც იკვებება ბნელი არქოტექნოლოგიის გასუფთავებული ნატეხებით. მოწყობილობა წვავს ბიოფერიტს ატმოსფეროში გაზის მოლეკულების აჟიტირებისთვის, რაც ამაღლებს ადგილობრივ გარე ტემპერატურას. თავად შენობა ასევე გამოიმუშავებს დიდი რაოდენობით ნარჩენ სითბოს.</AtmosphericHeater.description>
+  <AtmosphericHeater.label>ატმოსფერული გამათბობელი</AtmosphericHeater.label>
+  <Bullet_TacticalTurret.label>ტაქტიკური კოშკის ტყვია</Bullet_TacticalTurret.label>
+  <DelayedMetalhorrorEmerger.label>დაგვიანებული მეტალჰორორის გამოჩენა</DelayedMetalhorrorEmerger.label>
+  <DirtCubeSculpture.label>ჭუჭყიანი კუბის ქანდაკება</DirtCubeSculpture.label>
+  <ElectricInhibitor.description>მოწყობილობა, რომელიც ასხივებს სპეციალურად მორგებულ ელექტრომაგნიტურ ველს, რომელიც აფერხებს დატყვევებული პირების ნერვულ აქტივობას. სანამ ის იკვებება, ის აუმჯობესებს ნებისმიერი დამჭერი პლატფორმის შეკავების ძალას, რომელზეც ის არის მიმართული. ელექტრული ველი არ მოქმედებს ადამიანებზე და ჩვეულებრივ ცხოველებზე.</ElectricInhibitor.description>
+  <ElectricInhibitor.label>ელექტრო ინჰიბიტორი</ElectricInhibitor.label>
+  <FloorEtching.description>A crude sketch drawn onto the ground.\n\nWith sufficient time, you may be able to decipher it. Select a colonist and right-click the etching to inspect it.</FloorEtching.description>
+  <FloorEtching.label>იატაკის გრავირება</FloorEtching.label>
+  <FrenzyInducer.description>ელექტრული სტიმულაციის ჩარჩოში დამაგრებული არქოტექნიკური ნატეხი. მოწყობილობა ქმნის გამაოგნებულ ფსიქიკურ ვიბრაციას ადგილობრივ არეალში, რომელიც ასტიმულირებს ყველა ახლო მახლობლად იმოძრაოს და იმუშაოს უფრო სწრაფად. თუმცა, ნებისმიერი გონებრივი შესვენება, რომელიც მათ აქვთ, გარანტირებულია ძალადობრივი.</FrenzyInducer.description>
+  <FrenzyInducer.label>სიგიჟის გამომწვევი</FrenzyInducer.label>
+  <GrayBox.description>უცნაური ნაცრისფერი კონტეინერი. უფუნქციოა და ზედაპირი გლუვია. მასალა არ არის ლითონი, ბეტონი ან რაიმე სხვა იდენტიფიცირებადი მასალა.</GrayBox.description>
+  <GrayBox.label>ნაცრისფერი ყუთი</GrayBox.label>
+  <GrayDoor.description>უცნაური ნაცრისფერი კარი.</GrayDoor.description>
+  <GrayWall.description>გაუვალი ნაცრისფერი კედელი.</GrayWall.description>
+  <GrayWall.label>კედელი</GrayWall.label>
+  <Gun_TacticalTurret.description>მარტივი ავტომატური იარაღი, რომელიც დამზადებულია კოშკზე დასამაგრებლად.</Gun_TacticalTurret.description>
+  <Gun_TacticalTurret.label>ტაქტიკური კოშკის იარაღი</Gun_TacticalTurret.label>
+  <HoldingPlatform.description>A platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for Anomaly knowledge. Increase containment strength by building strong walls and doors, and other special containment devices.</HoldingPlatform.description>
+  <HoldingPlatform.label>ჩატარების პლატფორმა</HoldingPlatform.label>
+  <HoldingSpot.description>A spot for holding dangerous entities. Not as good as a steel holding platform, but a lot better than nothing.\n\nDowned entities can be secured at a holding spot where they can be studied. Increase containment strength by building strong walls and doors, and other special containment devices.</HoldingSpot.description>
+  <HoldingSpot.label>ადგილის დაკავება</HoldingSpot.label>
+  <Noctolith.description>A twisted pillar of jagged blade-like structures made of dark, oily metal. It pulses with energy, powered by dark archotechnology at its core.\n\nIf you destroy the pillar, you can recover a shard of dark archotech.</Noctolith.description>
+  <Noctolith.label>ნოქტოლიტი</Noctolith.label>
+  <PitBurrow.description>მცირე ხვრელი, რომელიც აკავშირებს ზოგიერთ უხილავ გამოქვაბულთა ქსელს ზედაპირის ქვეშ. კედლები ზედმეტად ციცაბოა ასასვლელად. ის არსებითად არასტაბილურია და გარკვეული დროის შემდეგ იშლება.</PitBurrow.description>
+  <PitBurrow.label>ორმოს ბურუსი</PitBurrow.label>
+  <PitBurrowSpawner.description>აქ რაღაც მიწიდან ამოდის.</PitBurrowSpawner.description>
+  <PitBurrowSpawner.label>მიწისქვეშა გაჩენა</PitBurrowSpawner.label>
+  <PitGate.description>მასიური, წინამორბედი ხვრელი, რომელიც აკავშირებს ზედაპირს მიწისქვეშა გამოქვაბულების ბნელ ქსელთან. შესაძლებელია ქვემოთ გამოქვაბულებში ასვლა.</PitGate.description>
+  <PitGate.label>ორმოს კარიბჭე</PitGate.label>
+  <PitGateExit.label>ორმოს კარიბჭის გასასვლელი</PitGateExit.label>
+  <PitGateSpawner.description>აქ რაღაც მიწიდან ამოდის.</PitGateSpawner.description>
+  <PitGateSpawner.label>მიწისქვეშა გაჩენა</PitGateSpawner.label>
+  <ProximityDetector.description>სკანერი, რომელსაც შეუძლია აღმოაჩინოს უხილავი არსებები. მოწყობილობა აყენებს განგაშს, როდესაც აღმოაჩენს ფსიქიკურად უხილავი ბიოხელმოწერების არსებობას მის რადიუსში.</ProximityDetector.description>
+  <ProximityDetector.label>სიახლოვის დეტექტორი</ProximityDetector.label>
+  <SandCubeSculpture.label>ქვიშის კუბის ქანდაკება</SandCubeSculpture.label>
+  <ScrapCubeSculpture.label>ჯართის კუბის სკულპტურა</ScrapCubeSculpture.label>
+  <SecurityDoor.description>ძლიერად გამაგრებული კარი. ნელა იხსნება და ელექტროენერგიას საჭიროებს, მაგრამ ძალიან ძლიერია. ეს კარგი არჩევანია, თუ გსურთ რაიმე სახიფათო შენახვა - ან შიგნით.</SecurityDoor.description>
+  <SecurityDoor.label>უსაფრთხოების კარი</SecurityDoor.label>
+  <ShardInhibitor.description>A shard of dark archotechnology that resonates with psychic energy, increasing the containment strength of any holding platform or spot within its radius.\n\nThe effect does not stack.</ShardInhibitor.description>
+  <ShardInhibitor.label>ნაჭრის ინჰიბიტორი</ShardInhibitor.label>
+  <SleepSuppressor.description>გასუფთავებული არქოტექნიკური ნატეხი, რომელიც დამონტაჟებულია ელექტრო მართვის ჩარჩოში. მოწყობილობა ქმნის ფსიქიკურ პულსაციას ადგილობრივ მიდამოში, რომელიც ცვლის მიმდებარე ადამიანთა ტვინის ქიმიას, აჩერებს დაღლილობის ტოქსინების დაგროვებას და ხსნის ძილის საჭიროებას. თუმცა ახლომახლო ვინმეს აღიზიანებს.</SleepSuppressor.description>
+  <SleepSuppressor.label>ძილის დამთრგუნველი</SleepSuppressor.label>
+  <StoneCubeSculpture.label>ქვის კუბის ქანდაკება</StoneCubeSculpture.label>
+  <TrapIED_Deadlife.description>A pair of deadlife shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.\n\nThe trap needs corpses nearby to be raised by the deadlife dust.</TrapIED_Deadlife.description>
+  <TrapIED_Deadlife.label>IED სასიკვდილო ხაფანგი</TrapIED_Deadlife.label>
+  <Turret_TacticalTurret.description>მოკლე დისტანციის კოშკი. ის შეწყვეტს ფუნქციონირებას, როგორც კი ბატარეა ამოიწურება. თუ საკმარისად დაზიანებულია, შეიძლება აფეთქდეს.</Turret_TacticalTurret.description>
+  <Turret_TacticalTurret.label>ტაქტიკური კოშკი</Turret_TacticalTurret.label>
+</LanguageData>

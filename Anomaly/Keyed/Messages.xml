@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <MessageActivityRisingDamage>{0_definite}-ის აქტივობა იზრდება დაზიანების მიღების გამო.</MessageActivityRisingDamage>
+  <EntityDiedOnHoldingPlatform>{0_definite} გარდაიცვალა ჰოლდინგის პლატფორმაზე.</EntityDiedOnHoldingPlatform>
+  <MessageEntityDiscovered>აღმოჩენილია ახალი არსება</MessageEntityDiscovered>
+
+  
+  <MessageHateChantersAbsorbed>კულტისტები ტრანსში არიან და არ პასუხობენ თავდასხმის დროს.</MessageHateChantersAbsorbed>
+  <MessageHateChantIncreased>სიძულვილის გალობა გაიზარდა.</MessageHateChantIncreased>
+
+  
+  <SelfResurrectText>{0_nameDef}-ს შეუძლია თვითაღდგენა ბრძანებით სიკვდილის უარის გამოყენებით.</SelfResurrectText>
+  <MessageUsingSelfResurrection>{0_nameDef} იყენებს სიკვდილის უარს თვითაღდგენაზე.</MessageUsingSelfResurrection>
+
+  
+  <MessagePitGateCollapsed>ორმოს კარიბჭე ჩამოინგრა.</MessagePitGateCollapsed>
+  <MessagePitBurrowCollapsed>ორმოს ბურუსი ჩამოინგრა.</MessagePitBurrowCollapsed>
+
+  
+  <FleshmassContainedMessage>ხორცის ტომარაში რაღაც იყო</FleshmassContainedMessage>
+
+  
+  <MessagePsychicRitualAssault>{0_pawnsPluralDef} უტევს!</MessagePsychicRitualAssault>
+  <MessageAIPsychicRitualBegan>{FACTION_pawnsPluralDef} იწყებენ ფსიქიკურ რიტუალს</MessageAIPsychicRitualBegan>
+  
+  
+  <MessageBiomutationLanceInvalidTargetRace>დამიზნება შეუძლებელია: {0_nameDef} არ არის ცხოველი ან ადამიანი.</MessageBiomutationLanceInvalidTargetRace>
+  <MessageBiomutationLanceTargetTooBig>დამიზნება შეუძლებელია: {0_nameDef} ძალიან დიდია.</MessageBiomutationLanceTargetTooBig>
+
+  
+  <MessageNoRoomWithMinimumContainmentStrength>გაფრთხილება: არცერთ ოთახს არ აქვს მინიმალური შეკავების ძალა {0}-ისთვის. შეიძლება მალე გაქცევა.</MessageNoRoomWithMinimumContainmentStrength>
+  <MessageTargetBelowMinimumContainmentStrength>გაფრთხილება: {0} არის {1}-ის მინიმალური შეკავების სიძლიერის ქვემოთ. შეიძლება მალე გაქცევა.</MessageTargetBelowMinimumContainmentStrength>
+  <MessageHolderReserved>სხვის მიერ დაჯავშნილ {0}-ზე გადატანა შეუძლებელია.</MessageHolderReserved>
+  <MessageEntityExecuted>{EXECUTIONER_labelShort}-მა შეასრულა {VICTIM_kindIndef}.</MessageEntityExecuted>
+  <MessageOccupiedHoldingPlatformReinstalled>გაფრთხილება: დაკავებული ჰოლდინგის პლატფორმის ხელახალი ინსტალაცია გაათავისუფლებს ერთეულს. ჯერ გადაიტანეთ ობიექტი სხვა პლატფორმაზე.</MessageOccupiedHoldingPlatformReinstalled>
+  <MessageOccupiedHoldingPlatformUninstalled>გაფრთხილება: დაკავებული ჰოლდინგის პლატფორმის დეინსტალაცია გაათავისუფლებს ერთეულს. ჯერ გადაიტანეთ ობიექტი სხვა პლატფორმაზე.</MessageOccupiedHoldingPlatformUninstalled>
+  <MessageOccupiedHoldingPlatformDeconstructed>გაფრთხილება: დაკავებული ჰოლდინგის პლატფორმის დეკონსტრუქცია გაათავისუფლებს ერთეულს. ჯერ გადაიტანეთ ობიექტი სხვა პლატფორმაზე.</MessageOccupiedHoldingPlatformDeconstructed>
+  
+  
+  <MessageHostileDuplicate>გამოჩნდა {0_nameDef}-ის მტრული დუბლიკატი.</MessageHostileDuplicate>
+  
+  
+  <MessageProximityDetectorTriggered>სიახლოვის დეტექტორმა უხილავი არსება აღმოაჩინა.</MessageProximityDetectorTriggered>
+  
+   
+  <MessagePawnAttackedInDarkness>რაღაც სიბნელეში თავს დაესხა {0_nameDef}-ს.</MessagePawnAttackedInDarkness>
+  
+  
+  <MessageRevenantForcedVisibility>ფარული შურისძიება გამოვლინდა!</MessageRevenantForcedVisibility>
+  <MessageRevenantHeard>{PAWN_nameDef}-ს შეუძლია მოისმინოს გამოჩენილი {1} ახლოს!</MessageRevenantHeard>
+  
+  
+  <MessageCannotUseOnNonBleeder>{ABILITY_label} არ შეიძლება გამოყენებულ იქნას არსებებზე, რომლებსაც არ აქვთ სისხლი.</MessageCannotUseOnNonBleeder>
+  
+  <MessageFingerspikeDisturbed>{WAKER_nameDef}-მა დაარღვია თითის წვერა.</MessageFingerspikeDisturbed>
+  <MessageFingerspikeDisturbedPlural>{WAKER_nameDef}-მა დაარღვია რამდენიმე თითის წვერა.</MessageFingerspikeDisturbedPlural>
+
+  <DeathPallResurrectedMessage>სიკვდილმისჯილმა დაიწყო გვამების გაცოცხლება.</DeathPallResurrectedMessage>
+  
+</LanguageData>

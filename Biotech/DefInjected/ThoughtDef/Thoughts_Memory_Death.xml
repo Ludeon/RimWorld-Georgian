@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KilledChild.stages.0.description>ასეთი ახალგაზრდას მოკვლა არასწორია, მიუხედავად სიტუაციისა.</KilledChild.stages.0.description>
+  <KilledChild.stages.0.label>მოკლა ბავშვი</KilledChild.stages.0.label>
+  <KilledMyBirthMother.stages.0.label>მოკლა დედაჩემი</KilledMyBirthMother.stages.0.label>
+  <MyBirthMotherDied.stages.0.description>ჩემი დაბადების დედა გარდაიცვალა. ის სამუდამოდ წავიდა. ჩემს ცხოვრებაში ნახვრეტივითაა.</MyBirthMotherDied.stages.0.description>
+  <MyBirthMotherDied.stages.0.label>ჩემი დაბადების დედა {0} გარდაიცვალა</MyBirthMotherDied.stages.0.label>
+  <MyBirthMotherLost.stages.0.description>დედაჩემი დაიკარგა. იმედი მაქვს, ის ერთ დღეს დაგვიბრუნდება.</MyBirthMotherLost.stages.0.description>
+  <MyBirthMotherLost.stages.0.label>ჩემი დაბადების დედა {0} დაკარგა</MyBirthMotherLost.stages.0.label>
+</LanguageData>

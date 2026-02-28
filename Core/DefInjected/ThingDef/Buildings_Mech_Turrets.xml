@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Artillery_AutoMortar.label>ავტონაღმტყორცნები</Artillery_AutoMortar.label>
+  <Gun_ChargeBlasterHeavyTurret.description>პულსით დამუხტული სწრაფი ცეცხლის აფეთქება ტერიტორიის ხანძრისთვის.</Gun_ChargeBlasterHeavyTurret.description>
+  <Gun_ChargeBlasterHeavyTurret.label>მსუბუქი დამუხტვის ბლასტერი</Gun_ChargeBlasterHeavyTurret.label>
+  <Turret_AutoChargeBlaster.description>თვითმავალი კოშკი, რომელიც დამონტაჟებულია დამუხტვის ბლასტერით. ის ვერ გრძნობს სამიზნეებს ძალიან მოკლე მანძილზე.</Turret_AutoChargeBlaster.description>
+  <Turret_AutoChargeBlaster.label>ავტომატური დამუხტვის კოშკი</Turret_AutoChargeBlaster.label>
+  <Turret_AutoInferno.description>ჯოჯოხეთის ქვემეხით დამონტაჟებული თვითმმართველობითი კოშკი. ის ვერ გრძნობს სამიზნეებს ძალიან მოკლე მანძილზე.</Turret_AutoInferno.description>
+  <Turret_AutoInferno.label>ავტო ჯოჯოხეთის კოშკი</Turret_AutoInferno.label>
+  <Turret_AutoMortar.description>თვითმმართველობითი, თვითდამტენი, ავტომატური ნაღმტყორცნები. მას შეუძლია დაარტყას სამიზნეები ნებისმიერ მანძილზე, კედლებზე, მაგრამ საკმაოდ არაზუსტია.</Turret_AutoMortar.description>
+  <Turret_AutoMortar.label>ავტო ნაღმტყორცნები</Turret_AutoMortar.label>
+</LanguageData>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <RecipeRequiresMechanitor>რეცეპტი {0} მოითხოვს მექანიტორის მუშაობას. არცერთი თქვენი კოლონისტი არ არის მექანიტორი, ამიტომ არავინ გააკეთებს ამ კანონპროექტს.</RecipeRequiresMechanitor>
+
+  <GenepackPlural>გენ-პაკეტები</GenepackPlural>
+  <TraitsDevelopLaterBaby>თვისებები ბავშვობაში მოგვიანებით ვითარდება</TraitsDevelopLaterBaby>
+  <SkillsDevelopLaterBaby>უნარები ბავშვობაში მოგვიანებით ვითარდება</SkillsDevelopLaterBaby>
+  <TabGenes>გენები</TabGenes>
+
+  <ViewGenes>გენების ნახვა</ViewGenes>
+  <ViewGenesDesc>დააწკაპუნეთ {PAWN_nameDef}-ის გენების სანახავად.</ViewGenesDesc>
+
+  
+  <TabFeeding>კვება</TabFeeding>
+  <AutofeedSectionHeader>ავტომატური კვების პარამეტრები</AutofeedSectionHeader>
+  <AutofeedModeNever>არასდროს</AutofeedModeNever>
+  <AutofeedModeChildcare>ბავშვის მოვლა</AutofeedModeChildcare>
+  <AutofeedModeUrgent>სასწრაფო</AutofeedModeUrgent>
+  <AutofeedNone>ამ ბავშვს ვერავინ კვებავს.</AutofeedNone>
+  <AutofeedModeTooltipNever>{FEEDER_nameDef} ავტომატურად არ კვებავს {BABY_nameDef}-ს.</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} კვებავს {BABY_nameDef}-ს, როგორც ბავშვის მოვლის სამუშაოს.</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} კვებავს {BABY_nameDef}-ს დღე-ღამეში, მაშინაც კი, თუ {FEEDER_nameDef} არ არის დანიშნული ბავშვზე ზრუნვაზე ან არ შეუძლია ბავშვის მოვლა.</AutofeedModeTooltipUrgent>
+  <BabyFoodConsumables>მოხმარებადი საკვები</BabyFoodConsumables>
+
+  
+  <IdeoExposureSectionHeader>იდეოლიგიის გამოვლენა</IdeoExposureSectionHeader>
+  <IdeoExposureNoExposure>{BABY_labelShort} ჯერ არ გამოუჩენია არცერთ იდეოლიგიას.</IdeoExposureNoExposure>
+  <IdeoExposureNoExposureDetail>{BABY_pronoun} შეიძლება გამოვლინდეს იდეოლიგიების მიმართ იდეოლიგიის მიმდევრებთან ურთიერთობით. ეს ურთიერთქმედება მოიცავს ძუძუთი კვებას, ტარებას, თამაშს და სხვა. {CHILDAGE} წლის ასაკში {BABY_labelShort} შეუერთდება ერთ-ერთ იდეოლიგიას, რომელსაც {BABY_pronoun} ექვემდებარება.</IdeoExposureNoExposureDetail>
+  <IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort} არის {PERCENT}, სავარაუდოდ, შეუერთდება იდეოლიგიას {IDEO_name}.</IdeoExposurePointsTooltipJoinLikelihood>
+  <IdeoExposurePointsTooltipJoinDescription>რამდენადაც {BABY_labelShort} ურთიერთობს იდეოლიგიის მიმდევრებთან, {BABY_pronoun} უფრო სავარაუდოა, რომ შეუერთდეს ამ იდეოლიგიას. {BABY_labelShort} შეუერთდება ერთ-ერთ იდეოლიგიას, რომელსაც {BABY_pronoun} {CHILDAGE}-ის ასაკში გაუჩნდა.</IdeoExposurePointsTooltipJoinDescription>
+  <IdeoExposurePointsTooltipExposureDescription>იდეოლიგიის ექსპოზიცია იზომება ექსპოზიციის წერტილებით. ისეთი ურთიერთქმედება, როგორიცაა ძუძუთი კვება, ტარება ან თამაში, გამოიწვევს {BABY_labelShort}-ის მოპოვებას იმ იდეოლიგიებისთვის, რომლებსაც მოჰყვება {BABY_pronoun} ურთიერთქმედება.</IdeoExposurePointsTooltipExposureDescription>
+  <IdeoExposurePointsTooltipIdeoExposure>{IDEO_name} ექსპოზიციის წერტილები</IdeoExposurePointsTooltipIdeoExposure>
+  <IdeoExposurePointsTooltipTotalExposure>მთლიანი ექსპოზიციის წერტილები</IdeoExposurePointsTooltipTotalExposure>
+
+  
+  <TryRomanceButtonLabel>ფლირტი</TryRomanceButtonLabel>
+  <TryRomanceNoOptsMessage>არავის {0_labelShort} რომანტიკა.</TryRomanceNoOptsMessage>
+  <CantRomanceTargetUnreachable>მიუწვდომელი</CantRomanceTargetUnreachable>
+  <CantRomanceTargetSleeping>ძილი</CantRomanceTargetSleeping>
+  <CantRomanceTargetDowned>უუნარო</CantRomanceTargetDowned>
+  <CantRomanceTargetDrafted>ჯარი</CantRomanceTargetDrafted>
+  <CantRomanceTargetMentalState>გონებრივი შესვენება</CantRomanceTargetMentalState>
+  <CantRomanceTargetIncest>ინცესტი</CantRomanceTargetIncest>
+  <CantRomanceTargetOpinion>დაბალი აზრი</CantRomanceTargetOpinion>
+  <CantRomanceTargetSexuality>შეუთავსებელი ორიენტაცია</CantRomanceTargetSexuality>
+  <CantRomanceTargetPrisoner>პატიმარი</CantRomanceTargetPrisoner>
+  <CantRomanceTargetYoung>ძალიან ახალგაზრდა</CantRomanceTargetYoung>
+  <CantRomanceTargetZeroChance>ნულოვანი შანსი</CantRomanceTargetZeroChance>
+  <CantRomanceInitiateMessagePrisoner>{0_labelShort} ვერ ეცდება რომანტიკას, რადგან {0_pronoun} პატიმარია.</CantRomanceInitiateMessagePrisoner>
+  <CantRomanceInitiateMessageSlave>{0_labelShort} ვერ ეცდება რომანტიკას, რადგან {0_pronoun} მონაა.</CantRomanceInitiateMessageSlave>
+  <CantRomanceInitiateMessageAsexual>{0_labelShort}-ს არ შეუძლია რომანტიკა, რადგან {0_pronoun}-ს აქვს ასექსუალური თვისება.</CantRomanceInitiateMessageAsexual>
+  <CantRomanceInitiateMessageDowned>{0_labelShort} ვერ შეეცდება რომანტიკას, რადგან {0_pronoun} ქმედუუნაროა.</CantRomanceInitiateMessageDowned>
+  <CantRomanceInitiateMessageDrafted>{0_labelShort} ვერ შეეცდება რომანტიკას, რადგან {0_pronoun} შედგენილია.</CantRomanceInitiateMessageDrafted>
+  <CantRomanceInitiateMessageMentalState>{0_labelShort} ვერ ეცდება რომანტიკას, რადგან {0_pronoun} არის უვარგის ფსიქიკურ მდგომარეობაში.</CantRomanceInitiateMessageMentalState>
+  <CantRomanceInitiateMessageTalk>{0_labelShort}-ს არ შეუძლია რომანტიკა, რადგან {0_pronoun}-ს არ შეუძლია ლაპარაკი.</CantRomanceInitiateMessageTalk>
+  <CantRomanceInitiateMessageCooldown>{0_labelShort}-მა ცოტა ხნის წინ სცადა რომანი და უნდა დაელოდო {1}-ს ხელახლა ცდამდე.</CantRomanceInitiateMessageCooldown>
+  <TryRomanceFailedMessage>{0_labelShort}-ის მცდელობა რომანტიული {1_labelShort}-ისთვის წარუმატებელი აღმოჩნდა.</TryRomanceFailedMessage>
+  <RomanceExistingRelationshipWarning>{INITIATOR_nameDef} რომანტიულმა {TARGET_nameDef}-მა შეიძლება დათესოს უკმაყოფილება არსებულ პარტნიორებს შორის, გამოიწვიოს დაშლა და გამოიწვიოს ჩხუბი.</RomanceExistingRelationshipWarning>
+  <RomanceChance>რომანტიული შანსი</RomanceChance>
+  <RomanceChanceExistingRelation>უკვე {PAWN_nameDef}-ის {RELATION}</RomanceChanceExistingRelation>
+  <RomanceChanceCant>რომანტიკა არ შეიძლება</RomanceChanceCant>
+  <RomanceChanceAgeFactor>შედარებითი ასაკი</RomanceChanceAgeFactor>
+  <RomanceChanceBeautyFactor>სილამაზე</RomanceChanceBeautyFactor>
+  <RomanceChanceOpinionFactor>მოსაზრება</RomanceChanceOpinionFactor>
+  <RomanceChancePartnerFactor>პარტნიორის აზრი</RomanceChancePartnerFactor>
+  <RomanceFailedUnexpected>{0_labelShort}-მა ვერ შეძლო რომანი {1_labelShort}</RomanceFailedUnexpected>
+  <RomanceWarningMonogamous>{0_nameDef} უკვე ურთიერთობაშია.</RomanceWarningMonogamous>
+  <RomanceWarningPolygamous>{0_nameDef}-ს უკვე ჰყავს {1} პარტნიორები.</RomanceWarningPolygamous>
+
+  
+  <FactorForGenes>გენები</FactorForGenes>
+  <PrisonBreakingDisabledDueToGene>ციხის გატეხვა გამორთულია {GENE_label} გენით.</PrisonBreakingDisabledDueToGene>
+
+</LanguageData>

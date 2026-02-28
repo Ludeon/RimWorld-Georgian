@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChoppedStump_Gauranlen.description>გაურანლენის ხის მოჭრის შემდეგ დარჩენილი ღერო. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ ხეს იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</ChoppedStump_Gauranlen.description>
+  <ChoppedStump_Gauranlen.label>დაჭრილი gauranlen stump</ChoppedStump_Gauranlen.label>
+  <GauranlenSeed.description>გაურანლენის ხის თესლი. მისი დარგვა შესაძლებელია ახალი გაურანლენის ხის შესაქმნელად.</GauranlenSeed.description>
+  <GauranlenSeed.label>გაურანლენის თესლი</GauranlenSeed.label>
+  <Plant_Fibercorn.description>უჭამი, ბოჭკოვანი მცენარე, რომელიც წარმოქმნის მცირე რაოდენობით ხის მსგავს ნივთიერებას.</Plant_Fibercorn.description>
+  <Plant_Fibercorn.label>ბოჭკოვანი სიმინდი</Plant_Fibercorn.label>
+  <Plant_MossGauranlen.description>სიმბიოტური ხავსი, რომელიც იზრდება გაურანლენის ხეებთან.</Plant_MossGauranlen.description>
+  <Plant_MossGauranlen.label>გაურანლენის ხავსი</Plant_MossGauranlen.label>
+  <Plant_Nutrifungus.description>ხორციანი ბიოინჟინერიული სოკო, რომელიც გაიზარდა მისი კვებითი ღირებულებით. ის შეიძლება გაიზარდოს სოკოვან ხრეშზე, მაგრამ მხოლოდ სიბნელეში - ნებისმიერი სახის სინათლის, მათ შორის ბნელის შუქზე ზემოქმედება მოკლავს მას.</Plant_Nutrifungus.description>
+  <Plant_Nutrifungus.label>ნუტრიფუნგუსი</Plant_Nutrifungus.label>
+  <Plant_PodGauranlen.description>პატარა ჯიში, რომელიც იცავს ერთი გაურანლენის თესლს. ამ თესლის მოკრეფა და გაურანლენის ხის დასარგავად შესაძლებელია.</Plant_PodGauranlen.description>
+  <Plant_PodGauranlen.label>Gauranlen pod</Plant_PodGauranlen.label>
+  <Plant_TreeBonsai.description>პატარა ხე, გაკრეჭილი და ისეთი ფორმის, რომ ვიზუალურად სასიამოვნოდ გამოიყურებოდეს.</Plant_TreeBonsai.description>
+  <Plant_TreeBonsai.label>ბონსაის ხე</Plant_TreeBonsai.label>
+  <Plant_TreeGauranlen.description>A large, distinctive-looking tree with a unique life-cycle. Each Gauranlen tree contains a small non-conscious dryad queen. The queen births creatures called dryads which guard and tend the tree. In exchange, the tree nurtures its protectors by feeding them directly. From the outside, it appears the dryads are created by the tree directly and act as part of it.\n\nIt is possible for a person to form a connection with a Gauranlen tree and partially control the dryads it produces.\n\nSome say Gauranlen trees are the homes of nature spirits that follow humanity across worlds.</Plant_TreeGauranlen.description>
+  <Plant_TreeGauranlen.label>გაურანლენის ხე</Plant_TreeGauranlen.label>
+  <SmashedStump_Gauranlen.description>დაზიანებით განადგურებული გაურანლენის ხის ნარჩენები. მახინჯია. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ ხეს იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</SmashedStump_Gauranlen.description>
+  <SmashedStump_Gauranlen.label>დამტვრეული გაურანლენის ღერო</SmashedStump_Gauranlen.label>
+</LanguageData>

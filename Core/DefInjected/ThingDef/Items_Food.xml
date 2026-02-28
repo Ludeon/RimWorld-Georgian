@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Kibble.description>ცხოველთა საკვები დამზადებულია შერეული ხორცისა და მცენარეული წყაროებიდან. ადამიანებს შეუძლიათ მისი ჭამა, მაგრამ მათ ნამდვილად არ მოსწონთ.</Kibble.description>
+  <Kibble.label>კიბო</Kibble.label>
+  <MealFine.description>კომპლექსური კერძი, რომელიც აწყობილია ზრუნვით სხვადასხვა ინგრედიენტებისგან.</MealFine.description>
+  <MealFine.label>კარგი კვება</MealFine.label>
+  <MealFine_Meat.description>რთული კერძი, რომელიც მზადდება ხორცის ინგრედიენტებისგან.</MealFine_Meat.description>
+  <MealFine_Meat.label>მტაცებელი მშვენიერი კვება</MealFine_Meat.label>
+  <MealFine_Veg.description>კომპლექსური კერძი, რომელიც მზადდება ვეგეტარიანული ინგრედიენტებისგან.</MealFine_Veg.description>
+  <MealFine_Veg.label>გემრიელი ვეგეტარიანული კვება</MealFine_Veg.label>
+  <MealLavish.label>მდიდრული კვება</MealLavish.label>
+  <MealLavish_Meat.label>მტაცებელი მდიდრული კვება</MealLavish_Meat.label>
+  <MealLavish_Veg.label>მდიდრული ვეგეტარიანული კერძი</MealLavish_Veg.label>
+  <MealNutrientPaste.description>ცილების, ნახშირწყლების და ვიტამინების, ამინომჟავების და მინერალების სინთეზური ნაზავი. ყველაფერი სხეულს სჭირდება და აბსოლუტურად ამაზრზენი.</MealNutrientPaste.description>
+  <MealNutrientPaste.label>მკვებავი პასტის კვება</MealNutrientPaste.label>
+  <MealSimple.description>მარტივი კერძი სწრაფად მოხარშული ერთი ძირითადი ინგრედიენტისგან.</MealSimple.description>
+  <MealSimple.label>მარტივი კვება</MealSimple.label>
+  <MealSurvivalPack.description>მაღალი ხარისხის შეფუთული კვება, დამზადებულია გადარჩენის სიტუაციებში გამოსაყენებლად. მიუხედავად იმისა, რომ ის არასოდეს ლპება, ის მაინც შეიძლება გაუარესდეს, თუ გარეთ დარჩება. შესანიშნავია მოგზაურობისთვის.</MealSurvivalPack.description>
+  <MealSurvivalPack.label>შეფუთული გადარჩენის კვება</MealSurvivalPack.label>
+  <Pemmican.description>ცხიმოვანი და მცენარეული საკვების კონსერვირებული დაფქული ნარევი. გემოვნება რბილია, მაგრამ არა შეურაცხმყოფელი. ძალიან დიდხანს ძლებს მაცივრის გარეშე. შესანიშნავია მოგზაურობისთვის.</Pemmican.description>
+  <Pemmican.label>პემიკანი</Pemmican.label>
+</LanguageData>

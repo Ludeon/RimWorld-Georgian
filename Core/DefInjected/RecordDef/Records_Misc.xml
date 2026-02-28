@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalsSlaughtered.description>მე დაკლული ცხოველების რაოდენობა.</AnimalsSlaughtered.description>
+  <AnimalsSlaughtered.label>დაკლული ცხოველები</AnimalsSlaughtered.label>
+  <AnimalsTamed.description>იმ ცხოველთა რაოდენობა, რომელიც მე მოვითმინე.</AnimalsTamed.description>
+  <AnimalsTamed.label>მოთვინიერებული ცხოველები</AnimalsTamed.label>
+  <ArtifactsActivated.description>ჩემს მიერ გააქტიურებული არტეფაქტების რაოდენობა.</ArtifactsActivated.description>
+  <ArtifactsActivated.label>არტეფაქტები გააქტიურებულია</ArtifactsActivated.label>
+  <BodiesStripped.description>სხეულების რაოდენობა, რაც მე გავშიშვლდი.</BodiesStripped.description>
+  <BodiesStripped.label>სხეულები გაშიშვლებული</BodiesStripped.label>
+  <CellsMined.description>უჯრედების რაოდენობა, რომელიც მე გამოვიტანე.</CellsMined.description>
+  <CellsMined.label>უჯრედები დანაღმულია</CellsMined.label>
+  <ContainersOpened.description>კონტეინერების რაოდენობა გავხსენი.</ContainersOpened.description>
+  <ContainersOpened.label>კონტეინერები გახსნილია</ContainersOpened.label>
+  <CorpsesBuried.description>მიცვალებულთა რაოდენობა მე დავმარხე.</CorpsesBuried.description>
+  <CorpsesBuried.label>ცხედრები დაკრძალეს</CorpsesBuried.label>
+  <DamageDealt.description>ზარალის ოდენობა მე მივიღე.</DamageDealt.description>
+  <DamageDealt.label>მიყენებული ზიანი</DamageDealt.label>
+  <DamageTaken.description>მიყენებული ზიანის ოდენობა.</DamageTaken.description>
+  <DamageTaken.label>მიღებული ზიანი</DamageTaken.label>
+  <FiresExtinguished.description>ხანძრების რაოდენობა მე ჩავაქრო.</FiresExtinguished.description>
+  <FiresExtinguished.label>ხანძარი ჩაქრა</FiresExtinguished.label>
+  <Headshots.description>ჩემს მიერ გაკეთებული კადრების რაოდენობა.</Headshots.description>
+  <Headshots.label>თავდასხმები</Headshots.label>
+  <Kills.description>იმ არსებების რაოდენობა, რომლებიც მე მოვკალი.</Kills.description>
+  <Kills.label>კლავს</Kills.label>
+  <KillsAnimals.description>იმ ცხოველების რაოდენობა, რომლებიც მე მოვკალი.</KillsAnimals.description>
+  <KillsAnimals.label>კლავს (ცხოველებს)</KillsAnimals.label>
+  <KillsHumanlikes.description>ადამიანების მსგავსი პერსონაჟების რაოდენობა მე მოვკალი.</KillsHumanlikes.description>
+  <KillsHumanlikes.label>კლავს (ადამიანის მსგავსი)</KillsHumanlikes.label>
+  <KillsMechanoids.description>მექანოიდების რაოდენობა მოვკალი.</KillsMechanoids.description>
+  <KillsMechanoids.label>კლავს (მექანოიდები)</KillsMechanoids.label>
+  <MealsCooked.description>ჩემი მომზადებული კერძების რაოდენობა.</MealsCooked.description>
+  <MealsCooked.label>მოხარშული კერძები</MealsCooked.label>
+  <MessesCleaned.description>არეულობების რაოდენობა, რაც მე გავწმინდე.</MessesCleaned.description>
+  <MessesCleaned.label>არეულობა გაიწმინდა</MessesCleaned.label>
+  <NutritionEaten.description>საკვების რაოდენობა, რაც მე ვჭამე.</NutritionEaten.description>
+  <NutritionEaten.label>შეჭამეს კვება</NutritionEaten.label>
+  <OperationsPerformed.description>რამდენი სამედიცინო ოპერაცია მაქვს გაკეთებული.</OperationsPerformed.description>
+  <OperationsPerformed.label>შესრულებული ოპერაციები</OperationsPerformed.label>
+  <OperationsReceived.description>რამდენჯერ გამიკეთეს სამედიცინო ოპერაცია.</OperationsReceived.description>
+  <OperationsReceived.label>მიღებული ოპერაციები</OperationsReceived.label>
+  <PawnsDowned.description>არსებების რაოდენობა, რომელიც მე ჩამოვყარე.</PawnsDowned.description>
+  <PawnsDowned.label>მტრები ჩამოაგდეს</PawnsDowned.label>
+  <PawnsDownedAnimals.description>იმ ცხოველების რაოდენობა, რომლებიც მე ჩამოვართვი, ნადირობისას თუ საბრძოლო.</PawnsDownedAnimals.description>
+  <PawnsDownedAnimals.label>ჩამოგდებული მტრები (ცხოველები)</PawnsDownedAnimals.label>
+  <PawnsDownedHumanlikes.description>ადამიანების მსგავსი არსებების რაოდენობა, რომელიც მე ჩამოვყარე.</PawnsDownedHumanlikes.description>
+  <PawnsDownedHumanlikes.label>ჩამოგდებული მტრები (ადამიანები)</PawnsDownedHumanlikes.label>
+  <PawnsDownedMechanoids.description>მექანოიდების რაოდენობა მე ჩამოვუშვი.</PawnsDownedMechanoids.description>
+  <PawnsDownedMechanoids.label>ჩამოგდებული მტრები (მექანიკა)</PawnsDownedMechanoids.label>
+  <PeopleCaptured.description>ხალხის რაოდენობა, რომელიც მე დავიჭირე.</PeopleCaptured.description>
+  <PeopleCaptured.label>დატყვევებული ხალხი</PeopleCaptured.label>
+  <PlantsHarvested.description>იმ მცენარეთა რაოდენობა, რაც მოვიყვანე.</PlantsHarvested.description>
+  <PlantsHarvested.label>მოსავალი მცენარეები</PlantsHarvested.label>
+  <PlantsSown.description>მე დათესილი მცენარეების რაოდენობა.</PlantsSown.description>
+  <PlantsSown.label>დათესილი მცენარეები</PlantsSown.label>
+  <PrisonersChatted.description>რამდენჯერ მილაპარაკია პატიმრებთან.</PrisonersChatted.description>
+  <PrisonersChatted.label>პატიმრები საუბრობდნენ</PrisonersChatted.label>
+  <PrisonersRecruited.description>იმ პატიმართა რაოდენობა, რომელიც მე დავიქირავე.</PrisonersRecruited.description>
+  <PrisonersRecruited.label>აყვანილი პატიმრები</PrisonersRecruited.label>
+  <ResearchPointsResearched.description>მე გამოკვლეული კვლევითი პუნქტების რაოდენობა.</ResearchPointsResearched.description>
+  <ResearchPointsResearched.label>გამოკვლეული კვლევის პუნქტები</ResearchPointsResearched.label>
+  <ShotsFired.description>გასროლების რაოდენობა.</ShotsFired.description>
+  <ShotsFired.label>გასროლა</ShotsFired.label>
+  <SwitchesFlicked.description>გადამრთველების რაოდენობა, რომელიც მე გადავიტანე.</SwitchesFlicked.description>
+  <SwitchesFlicked.label>ჩამრთველები ატრიალდა</SwitchesFlicked.label>
+  <ThingsConstructed.description>ჩემს მიერ აშენებული ნივთების რაოდენობა.</ThingsConstructed.description>
+  <ThingsConstructed.label>აგებული ნივთები</ThingsConstructed.label>
+  <ThingsCrafted.description>ჩემი შექმნილ ნივთების რაოდენობა.</ThingsCrafted.description>
+  <ThingsCrafted.label>დამუშავებული ნივთები</ThingsCrafted.label>
+  <ThingsDeconstructed.description>იმ ნივთების რაოდენობა, რაც მე გავშალე.</ThingsDeconstructed.description>
+  <ThingsDeconstructed.label>დაშლილი ნივთები</ThingsDeconstructed.label>
+  <ThingsHauled.description>იმ ნივთების რაოდენობა, რაც მე გადმოვიტანე.</ThingsHauled.description>
+  <ThingsHauled.label>აზიდული ნივთები</ThingsHauled.label>
+  <ThingsInstalled.description>მე დაყენებული ნივთების რაოდენობა.</ThingsInstalled.description>
+  <ThingsInstalled.label>დაყენებული ნივთები</ThingsInstalled.label>
+  <ThingsRepaired.description>რამდენ რამეს შევაკეთე.</ThingsRepaired.description>
+  <ThingsRepaired.label>ნივთები გარემონტდა</ThingsRepaired.label>
+  <ThingsUninstalled.description>ნივთების რაოდენობა, რაც მაქვს დეინსტალირებული.</ThingsUninstalled.description>
+  <ThingsUninstalled.label>დეინსტალირებული ნივთები</ThingsUninstalled.label>
+  <TimesInMentalState.description>რამდენჯერ განვიცადე ფსიქიკური შესვენება.</TimesInMentalState.description>
+  <TimesInMentalState.label>ჯერ ფსიქიკურ მდგომარეობაში</TimesInMentalState.label>
+  <TimesOnFire.description>რამდენჯერ დამიწვა ცეცხლი.</TimesOnFire.description>
+  <TimesOnFire.label>ჯერ ცეცხლში</TimesOnFire.label>
+  <TimesTendedOther.description>რამდენჯერ მივმართე სხვების სამედიცინო მდგომარეობას.</TimesTendedOther.description>
+  <TimesTendedOther.label>ტენდენციები მოცემული</TimesTendedOther.label>
+  <TimesTendedTo.description>რამდენჯერ მქონდა ჩემი სამედიცინო პირობების მკურნალობა.</TimesTendedTo.description>
+  <TimesTendedTo.label>მიღებულ ტენდენციებს</TimesTendedTo.label>
+</LanguageData>

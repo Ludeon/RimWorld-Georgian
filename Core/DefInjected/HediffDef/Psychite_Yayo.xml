@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <PsychiteAddiction.description>ფსიქიტზე ქიმიური დამოკიდებულება. ფსიქიტის ხანგრძლივმა ზემოქმედებამ უჯრედულ დონეზე ნევროლოგიური ადაპტაციები გამოიწვია, ამიტომ ტვინი მის გარეშე ვეღარ ფუნქციონირებს ნორმალურად.</PsychiteAddiction.description>
+  <PsychiteAddiction.label>ფსიქიკაზე დამოკიდებულება</PsychiteAddiction.label>
+  <PsychiteAddiction.stages.1.label>გაყვანა</PsychiteAddiction.stages.1.label>
+  <PsychiteTolerance.description>ჩამოყალიბებული ტოლერანტობა ფსიქიტის მიმართ. რაც უფრო მკაცრია ეს ტოლერანტობა, მით მეტია ფსიქიაზე დაფუძნებული ნარკოტიკები, როგორიცაა იაიო ან ფანტელი, იგივე ეფექტის მისაღწევად.</PsychiteTolerance.description>
+  <PsychiteTolerance.label>ფსიქიკის ტოლერანტობა</PsychiteTolerance.label>
+  <YayoHigh.description>აქტიური იაიო სისხლში. წარმოქმნის ძლიერ ეიფორიულ ამაღლებას.</YayoHigh.description>
+  <YayoHigh.label>იაიოზე მაღალი</YayoHigh.label>
+  <YayoHigh.labelNoun>იაიო მაღალი</YayoHigh.labelNoun>
+</LanguageData>

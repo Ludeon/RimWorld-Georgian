@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DirtInEyes.description>ჭუჭყიანი თვალებში. ის აფერხებს მხედველობას, მაგრამ მისი გასუფთავება შესაძლებელია რამდენიმე წუთში.</DirtInEyes.description>
+  <DirtInEyes.label>ჭუჭყიანი</DirtInEyes.label>
+  <DirtInEyes.labelNoun>ჭუჭყიანი</DirtInEyes.labelNoun>
+  <GravelInEyes.description>ხრეში თვალებში. ის აფერხებს მხედველობას, მაგრამ მისი გასუფთავება შესაძლებელია რამდენიმე წუთში.</GravelInEyes.description>
+  <GravelInEyes.label>ხრეში</GravelInEyes.label>
+  <GravelInEyes.labelNoun>ხრეში</GravelInEyes.labelNoun>
+  <MudInEyes.description>თვალებში ტალახი. ის აფერხებს მხედველობას, მაგრამ მისი გასუფთავება შესაძლებელია რამდენიმე წუთში.</MudInEyes.description>
+  <MudInEyes.label>ტალახი</MudInEyes.label>
+  <MudInEyes.labelNoun>ტალახი</MudInEyes.labelNoun>
+  <SandInEyes.description>ქვიშა თვალებში. ის აზიანებს მხედველობას, მაგრამ მისი გასუფთავება შესაძლებელია რამდენიმე წუთში.</SandInEyes.description>
+  <SandInEyes.label>ქვიშა</SandInEyes.label>
+  <SandInEyes.labelNoun>ქვიშა</SandInEyes.labelNoun>
+  <WaterInEyes.description>წყალი თვალებში. ის აფერხებს მხედველობას, მაგრამ მისი გასუფთავება შესაძლებელია რამდენიმე წუთში.</WaterInEyes.description>
+  <WaterInEyes.label>წყალი</WaterInEyes.label>
+  <WaterInEyes.labelNoun>წყალი</WaterInEyes.labelNoun>
+</LanguageData>

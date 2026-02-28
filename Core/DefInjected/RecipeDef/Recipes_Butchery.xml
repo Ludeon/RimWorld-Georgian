@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ButcherCorpseFlesh.description>დახოცეთ არსება, რომ მიიღოთ მისი ხორცი, ტყავი და სხეულის სხვა პროდუქტები.</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.jobString>კეპავს.</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.label>ჯალათი არსება</ButcherCorpseFlesh.label>
+  <ButcherCorpseMechanoid.description>გახეხეთ მკვდარი მექანოიდი, რათა შეეცადოთ გადაარჩინოთ გამოსაყენებელი მასალა.</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.jobString>დაქუცმაცების მექანიზმი.</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.label>დაქუცმაცება mechanoid</ButcherCorpseMechanoid.label>
+  <SmashCorpseMechanoid.description>დაამტვრიეთ მკვდარი მექანოიდი მარტივი ხელსაწყოებით გამოსაყენებელი მასალის გადასარჩენად.</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.jobString>გამანადგურებელი მექანოიდი.</SmashCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.label>დაამტვრიე მეხანოიდი</SmashCorpseMechanoid.label>
+</LanguageData>

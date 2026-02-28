@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BioferriteGenerator.stages.0.description>იმ აფეთქებული აპარატის ზუზუნი გამაგიჟებს. ეს ჰგავს ლურსმნებს დაფაზე.</BioferriteGenerator.stages.0.description>
+  <BioferriteGenerator.stages.0.label>ბიოფერიტის გენერატორი</BioferriteGenerator.stages.0.label>
+  <BloodRage.stages.0.label>სისხლის გაბრაზება</BloodRage.stages.0.label>
+  <BloodRage.stages.1.description>მართლა გაბრაზებული ვარ. ვგრძნობ, რომ შემეძლო ვინმეს დარტყმა.</BloodRage.stages.1.description>
+  <BloodRage.stages.1.label>სისხლის გაბრაზება</BloodRage.stages.1.label>
+  <BloodRage.stages.2.description>მინდა რამე დავაშავო. ძალიან მინდა რაღაც ვატკინო.</BloodRage.stages.2.description>
+  <BloodRage.stages.2.label>სისხლის გაბრაზება</BloodRage.stages.2.label>
+  <BloodRage.stages.3.description>გაანადგურე ყველაფერი ნაწილებად! თქვენ ყველა იმსახურებთ ამას!</BloodRage.stages.3.description>
+  <BloodRage.stages.3.label>სისხლის გაბრაზება</BloodRage.stages.3.label>
+  <BloodRage.stages.4.description>მე გაგანადგურებ! მოგკლავ!</BloodRage.stages.4.description>
+  <BloodRage.stages.4.label>სისხლის გაბრაზება</BloodRage.stages.4.label>
+  <CubeSculptures.stages.0.description>ჩემი სკულპტურა... ჩემი ლამაზი ქანდაკება!</CubeSculptures.stages.0.description>
+  <CubeSculptures.stages.0.label>კუბის ქანდაკება</CubeSculptures.stages.0.label>
+  <CubeWithdrawl.stages.1.description>მე უნდა ვნახო ოქროს კუბი. მხოლოდ კიდევ ერთხელ. გთხოვთ.</CubeWithdrawl.stages.1.description>
+  <CubeWithdrawl.stages.1.label>კუბის გატანა</CubeWithdrawl.stages.1.label>
+  <CubeWithdrawl.stages.2.description>სად არის ეს კუბი? მენატრება. მე მჭირდება!</CubeWithdrawl.stages.2.description>
+  <CubeWithdrawl.stages.2.label>კუბის გატანა</CubeWithdrawl.stages.2.label>
+  <CubeWithdrawl.stages.3.description>სად არის ჩემი კუბი? სად არის?</CubeWithdrawl.stages.3.description>
+  <CubeWithdrawl.stages.3.label>კუბის გატანა</CubeWithdrawl.stages.3.label>
+  <DeadlifeDust.stages.0.description>ეს მტვერი ცუდად ქავდება.</DeadlifeDust.stages.0.description>
+  <DeadlifeDust.stages.0.label>სასიკვდილო მტვერი</DeadlifeDust.stages.0.label>
+  <DeadlifeDust.stages.1.description>ამ მტვრისგან გამონაყარი მატყდება. კანს მწვავს.</DeadlifeDust.stages.1.description>
+  <DeadlifeDust.stages.1.label>სასიკვდილო მტვერი</DeadlifeDust.stages.1.label>
+  <DeadlifeDust.stages.2.description>ეს მტვერი კბენს! თვალებში და ფილტვებში ვგრძნობ.</DeadlifeDust.stages.2.description>
+  <DeadlifeDust.stages.2.label>სასიკვდილო მტვერი</DeadlifeDust.stages.2.label>
+  <DeathPall.stages.0.description>სიკვდილის სუნი ასდის.</DeathPall.stages.0.description>
+  <DeathPall.stages.0.label>სიკვდილის პალი</DeathPall.stages.0.label>
+  <DeathPall.stages.1.description>სიკვდილის სუნი ასდის. თვალები მეჩხვლიტება და ჰაერი კბილებს შორის მიცურავს.</DeathPall.stages.1.description>
+  <DeathPall.stages.1.label>სიკვდილის სიფერმკრთალის ექსპოზიცია</DeathPall.stages.1.label>
+  <DeathRefusalSickness.stages.0.description>მკვდარი ვიყავი... მოვკვდი. ცივი და საშინელი იყო.</DeathRefusalSickness.stages.0.description>
+  <DeathRefusalSickness.stages.0.label>სიკვდილზე უარი</DeathRefusalSickness.stages.0.label>
+  <DestroyedCubeSculpture.stages.0.description>ჩემი სკულპტურა... ჩემი ლამაზი ქანდაკება...</DestroyedCubeSculpture.stages.0.description>
+  <DestroyedCubeSculpture.stages.0.label>ჩემი კუბური სკულპტურა განადგურდა</DestroyedCubeSculpture.stages.0.label>
+  <EntityInRoom.stages.0.description>მე ვერასოდეს დავიძინებ იმ აგრეხილ ნივთთან ერთად!</EntityInRoom.stages.0.description>
+  <EntityInRoom.stages.0.label>მონსტრი ჩემს საწოლთან</EntityInRoom.stages.0.label>
+  <FleshTentacle.stages.0.description>მომაშორე ეს საქმე!</FleshTentacle.stages.0.description>
+  <FleshTentacle.stages.0.label>ხორციანი საცეცები</FleshTentacle.stages.0.label>
+  <FleshWhip.stages.0.description>ის არასოდეს წყვეტს ცურვას. მეზიზღება.</FleshWhip.stages.0.description>
+  <FleshWhip.stages.0.label>ხორცის მათრახი</FleshWhip.stages.0.label>
+  <GrayPall.stages.0.description>ისეთი შეგრძნებაა, თითქოს სამყარო ავად არის და კვდება.</GrayPall.stages.0.description>
+  <GrayPall.stages.0.label>ნაცრისფერი ფერმკრთალი</GrayPall.stages.0.label>
+  <GrayPall.stages.1.description>ისეთი შეგრძნებაა, თითქოს სამყარო ავად არის და კვდება. გაფუჭებული ჰაერი მაიძულებს ღებინება.</GrayPall.stages.1.description>
+  <GrayPall.stages.1.label>ნაცრისფერი ფერმკრთალი ექსპოზიცია</GrayPall.stages.1.label>
+  <HarbingerScream.stages.0.description>იმ ხის დაღუპვის შემდეგ მტკივა თავის ტკივილი. მე მაინც მესმის...</HarbingerScream.stages.0.description>
+  <HarbingerScream.stages.0.label>ხის ყვირილი</HarbingerScream.stages.0.label>
+  <HateChantDrone.stages.0.description>მათი ჩურჩული მესმის, სადაც არ უნდა ვიყო. უსასრულოდ მეუბნებოდა არასწორ რაღაცეებს.</HateChantDrone.stages.0.description>
+  <HateChantDrone.stages.0.label>სიძულვილის გალობის ჩურჩული</HateChantDrone.stages.0.label>
+  <HateChantDrone.stages.1.description>მესმის მათი წუწუნი, სიძულვილით სავსე გონება, ჩემს თავში.</HateChantDrone.stages.1.description>
+  <HateChantDrone.stages.1.label>მშვიდი სიძულვილის გალობა</HateChantDrone.stages.1.label>
+  <HateChantDrone.stages.2.description>ეს სიტყვები ჩემში ყვიროდა, ჩურჩულით, გაბრაზებული გუგუნით. ჩემს თავში. მაგიჟებს!</HateChantDrone.stages.2.description>
+  <HateChantDrone.stages.2.label>სძულს გალობა</HateChantDrone.stages.2.label>
+  <HateChantDrone.stages.3.description>ყვირილი არ წყდება, გალობა, ჩემში, ჩემს თავში!</HateChantDrone.stages.3.description>
+  <HateChantDrone.stages.3.label>სიძულვილის ხმამაღალი გალობა</HateChantDrone.stages.3.label>
+  <HateChantDrone.stages.4.description>გაბრაზება ჩემს თავში, მკვლელი, კანი იმსახურებს მას შავი ოკეანის შიშის სიღრმეში...</HateChantDrone.stages.4.description>
+  <HateChantDrone.stages.4.label>უკიდურესი სიძულვილის გალობა</HateChantDrone.stages.4.label>
+  <ImprisonedWithEntity.stages.0.description>მე აქ ჩამწყვდეული ვარ იმ დაგრეხილი ნივთით!</ImprisonedWithEntity.stages.0.description>
+  <ImprisonedWithEntity.stages.0.label>დაპატიმრებული პირით</ImprisonedWithEntity.stages.0.label>
+  <JoyousPresence.stages.0.description>სადაც არ უნდა წავიდე, ვგრძნობ სიხარულს ჩემს გონებაში. თავს კარგად ვგრძნობ. ძალიან კარგი.</JoyousPresence.stages.0.description>
+  <JoyousPresence.stages.0.label>მხიარული ყოფნა</JoyousPresence.stages.0.label>
+  <JuggernautSerum.stages.0.description>ეს ყველაფერი ჩემს თავში მერევა. ყველაზე ცუდზე ფიქრს ვერ ვიკავებ.</JuggernautSerum.stages.0.description>
+  <JuggernautSerum.stages.0.label>ჯოგერნაუტის შრატი</JuggernautSerum.stages.0.label>
+  <NeurosisPulse.stages.0.description>დამანებე თავი! სამუშაო მაქვს!</NeurosisPulse.stages.0.description>
+  <NeurosisPulse.stages.0.label>ნევროზის პულსი</NeurosisPulse.stages.0.label>
+  <PleasurePulse.stages.0.description>ჩემი სხეული სიხარულისგან მიტრიალებს. სამყარო რბილი და ბუნდოვანი ადგილია.</PleasurePulse.stages.0.description>
+  <PleasurePulse.stages.0.label>სიამოვნების პულსი</PleasurePulse.stages.0.label>
+  <ReadingTome.stages.0.description>ეს თითქმის თითქოს პირადად მე მელაპარაკება.</ReadingTome.stages.0.description>
+  <ReadingTome.stages.0.label>მომხიბლავი ტომი</ReadingTome.stages.0.label>
+  <SleepSuppressor.stages.0.description>იმ ეშმაკის ხელსაწყოს გუგუნი ბადეებს. ვგრძნობ ამას ჩემს თავში. რა ბოროტი მანქანაა.</SleepSuppressor.stages.0.description>
+  <SleepSuppressor.stages.0.label>ძილის დამთრგუნველი</SleepSuppressor.stages.0.label>
+  <SpokeToDisturbingMood.stages.0.description>შემაშფოთებელმა საუბარმა ძალიან შემაშინა. არავინ არ უნდა იფიქროს და არ ისაუბროს ასეთ რამეებზე.</SpokeToDisturbingMood.stages.0.description>
+  <SpokeToDisturbingMood.stages.0.label>შემაშფოთებელი საუბარი</SpokeToDisturbingMood.stages.0.label>
+  <SwallowedByDarkness.stages.0.description>სიბნელე მახრჩობს. ვერ ვხედავ და ვერ ვფიქრობ!</SwallowedByDarkness.stages.0.description>
+  <SwallowedByDarkness.stages.0.label>სიბნელემ შთანთქა</SwallowedByDarkness.stages.0.label>
+  <UnnaturalCorpse.stages.0.description>სადაც არ უნდა წავიდე, ვგრძნობ, რომ მიყურებს. არასოდეს ჩერდება.</UnnaturalCorpse.stages.0.description>
+  <UnnaturalCorpse.stages.0.label>არაბუნებრივი გვამი</UnnaturalCorpse.stages.0.label>
+  <UnnaturalDarkness.stages.0.description>სიბნელის საბნის ქვეშ მახრჩობს.</UnnaturalDarkness.stages.0.description>
+  <UnnaturalDarkness.stages.0.label>არაბუნებრივი სიბნელე</UnnaturalDarkness.stages.0.label>
+  <UnnaturalDarkness.stages.1.description>სიმართლე საბოლოოდ მოდის და შთანთქავს ამ ცრუ სამყაროს.</UnnaturalDarkness.stages.1.description>
+  <UnnaturalDarkness.stages.1.label>არაბუნებრივი ცა</UnnaturalDarkness.stages.1.label>
+  <VoidFascination.stages.0.description>ასეთი დიდებული არსება. ამდენი საიდუმლო. ამდენი ძალა.</VoidFascination.stages.0.description>
+  <VoidFascination.stages.0.label>დატყვევებული ერთეული</VoidFascination.stages.0.label>
+  <VoidPleasure.stages.0.description>რეალობის ვიბრაციები იმპულსებს ჩემში და ამშვიდებს ყველაფერს.</VoidPleasure.stages.0.description>
+  <VoidPleasure.stages.0.label>ბათილი სიამოვნება</VoidPleasure.stages.0.label>
+  <Voidsight.stages.0.description>შრატი მაიძულებს კიდევ ბევრის დანახვას. კავშირები ყველგან, ემოციები მიედინება. სახეები ჩრდილში. იმდენი...</Voidsight.stages.0.description>
+  <Voidsight.stages.0.label>სიცარიელე</Voidsight.stages.0.label>
+  <WearingDreadLeather.stages.0.description>მეზიზღება ეს ნივთები. სუნავს.</WearingDreadLeather.stages.0.description>
+  <WearingDreadLeather.stages.0.label>მეშინია ტყავის {0}</WearingDreadLeather.stages.0.label>
+  <WearingDreadLeather.stages.1.description>ორი საშინელი ტყავის ნივთი. ესენი დისკომფორტს მიქმნის.</WearingDreadLeather.stages.1.description>
+  <WearingDreadLeather.stages.1.label>საშინელი ტყავი {0} (+1)</WearingDreadLeather.stages.1.label>
+  <WearingDreadLeather.stages.2.description>ეს სამი საშინელი ტყავის ნივთი მაწვალებს. საშინელი სუნი აქვთ.</WearingDreadLeather.stages.2.description>
+  <WearingDreadLeather.stages.2.label>საშინელი ტყავი {0} (+2)</WearingDreadLeather.stages.2.label>
+  <WearingDreadLeather.stages.3.description>მე ვარ დაფარული ამ საშინელებით.</WearingDreadLeather.stages.3.description>
+  <WearingDreadLeather.stages.3.label>ტყავის შიში {0} და ა.შ</WearingDreadLeather.stages.3.label>
+</LanguageData>

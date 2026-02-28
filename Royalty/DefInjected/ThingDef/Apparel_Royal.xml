@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_Beret.description>რბილი, მრგვალი, ბრტყელ-გვირგვინიანი ქუდი.</Apparel_Beret.description>
+  <Apparel_Beret.label>ბერეტი</Apparel_Beret.label>
+  <Apparel_Coronet.description>ლითონისგან დამზადებული პატარა გვირგვინის მსგავსი თავსაბურავი.</Apparel_Coronet.description>
+  <Apparel_Coronet.label>გვირგვინი</Apparel_Coronet.label>
+  <Apparel_Corset.description>ნაქარგი კორსეტი მავთულის ძლიერი საყრდენით ქალბატონის ფორმის შესანარჩუნებლად.</Apparel_Corset.description>
+  <Apparel_Corset.label>კორსეტი</Apparel_Corset.label>
+  <Apparel_Crown.description>ლითონის გვირგვინი დახვეწილი დიზაინით.</Apparel_Crown.description>
+  <Apparel_Crown.label>გვირგვინი</Apparel_Crown.label>
+  <Apparel_CrownStellic.description>ლითონის გრანდიოზული გვირგვინი დახვეწილი, გამძლე დიზაინით.</Apparel_CrownStellic.description>
+  <Apparel_CrownStellic.label>სტელიური გვირგვინი</Apparel_CrownStellic.label>
+  <Apparel_HatLadies.description>დეკორატიული ტრადიციული ქუდი რთული ნაქარგებით.</Apparel_HatLadies.description>
+  <Apparel_HatLadies.label>ქალის ქუდი</Apparel_HatLadies.label>
+  <Apparel_HatTop.description>მაღალი, ხისტი, მბზინავი ქუდი.</Apparel_HatTop.description>
+  <Apparel_HatTop.label>ზედა ქუდი</Apparel_HatTop.label>
+  <Apparel_RobeRoyal.description>გრძელი, მოქნილი მოსასხამი, ნაქარგი რთული დეკორატიული დიზაინით.</Apparel_RobeRoyal.description>
+  <Apparel_RobeRoyal.label>პრესტიჟული სამოსი</Apparel_RobeRoyal.label>
+  <Apparel_ShirtRuffle.description>გაფორმებული ოფიციალური პერანგი ღილებით.</Apparel_ShirtRuffle.description>
+  <Apparel_ShirtRuffle.label>ოფიციალური პერანგი</Apparel_ShirtRuffle.label>
+  <Apparel_VestRoyal.description>რთული დეკორატიული დიზაინით ნაქარგი ჟილეტი.</Apparel_VestRoyal.description>
+  <Apparel_VestRoyal.label>ოფიციალური ჟილეტი</Apparel_VestRoyal.label>
+</LanguageData>

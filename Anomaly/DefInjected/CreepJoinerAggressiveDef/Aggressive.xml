@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Assault.label>ძირითადი თავდასხმა</Assault.label>
+  <Assault.message>{PAWN_nameDef} გახდა მტრული!</Assault.message>
+  <FleshbeastEmergence.label>ხორცის მხეცის გაჩენა</FleshbeastEmergence.label>
+  <FleshbeastEmergence.letterLabel>{PAWN_nameDef} გარდაიქმნა</FleshbeastEmergence.letterLabel>
+  <SightstealerAttack.label>სანახაობრივი თავდასხმა</SightstealerAttack.label>
+  <SightstealerAttack.letterLabel>{PAWN_nameDef}-ის ყვირილი</SightstealerAttack.letterLabel>
+</LanguageData>

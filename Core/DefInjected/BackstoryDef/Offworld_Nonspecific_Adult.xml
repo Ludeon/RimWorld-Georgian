@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Actor72.description>[PAWN_nameDef] იმოგზაურა მსახიობების კომპანიასთან ერთად, თამაშობდა გადატვირთულ თეატრებში და ყველგან მოსიყვარულე მაყურებელი. [PAWN_pronoun] იყო პერფექციონისტი და [PAWN_possessive] საკუთარი რეკვიზიტები და კოსტიუმები გააკეთა, ვიდრე გამოიყენა ის, რაც [PAWN_pronoun] იყო მოცემული.</Actor72.description>
+  <Actor72.title>მსახიობი</Actor72.title>
+  <Actor72.titleShort>მსახიობი</Actor72.titleShort>
+  <AnimalFarmer21.description>[PAWN_nameDef]-მა გაზარდა სხვადასხვა ცხოველი ხორცის, რძის, კვერცხისა და ტყავის უზრუნველსაყოფად.</AnimalFarmer21.description>
+  <AnimalFarmer21.title>მეცხოველეობის ფერმერი</AnimalFarmer21.title>
+  <AnimalFarmer21.titleShort>მეცხოველეობის ფერმერი</AnimalFarmer21.titleShort>
+  <AsceticPriest84.description>დუმილის აღთქმის დადების შემდეგ [PAWN_nameDef] მონასტერში შევიდა, რათა [PAWN_possessive] დღეები მშვიდ დაფიქრებაში გაეტარებინა.
+
+[PAWN_pronoun] ბედნიერებას ბაღში ბოსტნეულის მოყვანასა და მონასტრის სარდაფებში ყველის დამზადებაში პოულობდა.</AsceticPriest84.description>
+  <AsceticPriest84.title>ასკეტი მღვდელი</AsceticPriest84.title>
+  <AsceticPriest84.titleShort>მღვდელი</AsceticPriest84.titleShort>
+  <Bartender62.description>[PAWN_nameDef] მუშაობდა ბარმენად სათესლე დაწესებულებაში. სამუშაო იყო ერთი ნაწილი სასმელის შერევა, ნაწილი დიპლომატია და ნაწილი თავის დარტყმა.</Bartender62.description>
+  <Bartender62.title>ბარმენი</Bartender62.title>
+  <Bartender62.titleShort>ყეფა</Bartender62.titleShort>
+  <Bodyguard58.description>[PAWN_nameDef] იცავდა ვინც გადაიხადა [PAWN_objective]. [PAWN_pronoun] მოიპოვა ცოდნა სხვადასხვა საბრძოლო ფორმებში და ცნობილი იყო [PAWN_possessive] დაუნდობლობით მათ მიმართ, ვინც გადაკვეთა [PAWN_objective].</Bodyguard58.description>
+  <Bodyguard58.title>მცველი</Bodyguard58.title>
+  <Bodyguard58.titleShort>მცველი</Bodyguard58.titleShort>
+  <CaveExplorer45.description>[PAWN_nameDef] ღირებული მინერალების საძიებლად ბნელ გვირაბებსა და თითქმის მიუწვდომელ ნაპრალებს აგროვებდა. [PAWN_possessive] მუშაობა ძალიან საშიში იყო, მაგრამ ანაზღაურება კარგი იყო.</CaveExplorer45.description>
+  <CaveExplorer45.title>გამოქვაბულის მკვლევარი</CaveExplorer45.title>
+  <CaveExplorer45.titleShort>გამოქვაბულის მკვლევარი</CaveExplorer45.titleShort>
+  <Chef52.description>[PAWN_nameDef] იყო ვარსკვლავური შეფ-მზარეული მაღალი კლასის მსოფლიო რესტორანში. [PAWN_pronoun] მფარველებს შორის ცნობილი იყო [PAWN_possessive] შემოქმედებითი კულინარიული სპეციალობებით და სამარცხვინო იყო სამზარეულოს პერსონალში [PAWN_possessive] შემთხვევითი ზიზღით ღრიანცული სამუშაოსთვის.</Chef52.description>
+  <Chef52.title>შეფ-მზარეული</Chef52.title>
+  <Chef52.titleShort>შეფ-მზარეული</Chef52.titleShort>
+  <CivilServant2.description>[PAWN_nameDef] მუშაობდა მომაკვდავი სამთავრობო ბიუროკრატიის დაბალი რანგის ადმინისტრატორად. [PAWN_pronoun] ყველაზე ხშირად სახლში ავსებს რთულ საბუთებს და თამაშობს საოფისე პოლიტიკას.</CivilServant2.description>
+  <CivilServant2.title>საჯარო მოხელე</CivilServant2.title>
+  <CivilServant2.titleShort>ბიუროკრატი</CivilServant2.titleShort>
+  <ConArtist80.description>[PAWN_nameDef] არასოდეს შექმნია არაფერი [PAWN_possessive] ცხოვრებაში. თუმცა, [PAWN_pronoun] ბუნებრივი იყო, რომ სხვებმა მისცეს [PAWN_objective] ის, რაც შექმნეს.</ConArtist80.description>
+  <ConArtist80.title>თაღლითი</ConArtist80.title>
+  <ConArtist80.titleShort>თაღლითი</ConArtist80.titleShort>
+  <ConceptualArtist39.description>[PAWN_nameDef] [PAWN_possessive] მშობლიურ სამყაროში ხელოვნების წრეებში [PAWN_possessive] უნიკალური და შემოქმედებითი კონცეპტუალური ნამუშევრებით იყო ცნობილი.
+
+ზუსტად ვერავინ ამბობდა, რის გადმოცემას ცდილობდა [PAWN_pronoun], მაგრამ [PAWN_possessive] ნამუშევრებს კოლექციონერები ძალიან აფასებდნენ.</ConceptualArtist39.description>
+  <ConceptualArtist39.title>კონცეპტუალური მხატვარი</ConceptualArtist39.title>
+  <ConceptualArtist39.titleShort>მხატვარი</ConceptualArtist39.titleShort>
+  <ConstructionEngineer32.description>[PAWN_nameDef] მშენებელი იყო. [PAWN_pronoun] ხელმძღვანელობდა გუნდს, რომელიც ყველაფერს აშენებდა — საოფისე შენობებიდან ტაძრებამდე.
+
+[PAWN_possessive] დატვირთული სამუშაოსა და მახლობლად არსებული სწრაფი კვების ადგილების გამო [PAWN_pronoun] საკუთარი თავისთვის არასოდეს ამზადებდა.</ConstructionEngineer32.description>
+  <ConstructionEngineer32.title>სამშენებლო ინჟინერი</ConstructionEngineer32.title>
+  <ConstructionEngineer32.titleShort>მშენებელი</ConstructionEngineer32.titleShort>
+  <ContractMiner86.description>[PAWN_nameDef] გადადიოდა სამსახურიდან სამუშაოზე, მინერალებისა და უძველესი ფასეულობების მოპოვებით გვირაბებში და მაღაროებში. ნამუშევარი მკაცრი და ბინძური იყო, მაგრამ [PAWN_pronoun] დაჯილდოვდა.</ContractMiner86.description>
+  <ContractMiner86.title>კონტრაქტის მაინერი</ContractMiner86.title>
+  <ContractMiner86.titleShort>კონტრაქტის მაინერი</ContractMiner86.titleShort>
+  <CorporateManager76.description>[PAWN_nameDef] უზარმაზარ ღია ტიპის ოფისში მუშაობდა და ზრუნავდა, რომ [PAWN_possessive] დაქვემდებარებული თანამშრომლების გუნდი ძირითადად საქმეზე ყოფილიყო.
+
+ეს სამსახური ძლიერ პოლიტიზებული იყო. წინსვლისთვის [PAWN_nameDef]-მა ისწავლა საქმეების ისე მოწყობა, რომ თითქმის ნებისმიერმა შესრულებულმა მუშაობამ [PAWN_pronoun]-ს ქულები მოუტანოს.</CorporateManager76.description>
+  <CorporateManager76.title>კორპორატიული მენეჯერი</CorporateManager76.title>
+  <CorporateManager76.titleShort>მენეჯერი</CorporateManager76.titleShort>
+  <Counselor26.description>საშინელმა ტრავმამ, როდესაც [PAWN_nameDef] მოზარდი იყო, გამოიწვია [PAWN_objective] სერიოზული კვებითი აშლილობის განვითარება. კონსულტაციის შედეგად [PAWN_pronoun] ისწავლა უფრო ჯანსაღი ურთიერთობა საკვებთან და გადაწყვიტა გამოეყენებინა [PAWN_possessive] ახალი უნარები, რათა დაეხმარა სხვებს ემოციური პრობლემების დაძლევაში.</Counselor26.description>
+  <Counselor26.title>მრჩეველი</Counselor26.title>
+  <Counselor26.titleShort>მრჩეველი</Counselor26.titleShort>
+  <CropFarmer17.description>[PAWN_nameDef] აწარმოებდა მოსავლის ფერმას. [PAWN_pronoun]-მა გააანალიზა ნიადაგი, სასოფლო-სამეურნეო ტექნიკა, ამინდის ნიმუშები და ფასების ტენდენციები, რათა ოპტიმიზაცია მოეხდინა მასიური კულტურების დარგვისა და მოსავლის აღების მიზნით.</CropFarmer17.description>
+  <CropFarmer17.title>მოსავლის ფერმერი</CropFarmer17.title>
+  <CropFarmer17.titleShort>ფერმერი</CropFarmer17.titleShort>
+  <Defector78.description>[PAWN_possessive] ზრდასრულობის დასაწყისში [PAWN_nameDef]-მა გადაწყვიტა დაეტოვებინა მჩაგვრელი დიქტატურა, სადაც [PAWN_pronoun] ცხოვრობდა. [PAWN_possessive] გაქცევას ცუდად შეხვდნენ და [PAWN_objective]-ის დასაჭერად აგენტები გაგზავნეს.
+
+წლების განმავლობაში [PAWN_pronoun] გაქცევაში ცხოვრობდა და საკუთარ ჭრილობებს თვითონ იხვევდა, რათა ვერც ერთ ექიმს ვერ გაეცა [PAWN_objective]. ამ განსაცდელმა [PAWN_objective] გააბოროტა და უნდობლად აქცია.</Defector78.description>
+  <Defector78.title>დეფექტორი</Defector78.title>
+  <Defector78.titleShort>დეფექტორი</Defector78.titleShort>
+  <Drifter67.description>[PAWN_nameDef]-მა ვერასდროს გაარკვია, რა უნდა ექნა [PAWN_possessive] ცხოვრებაში. [PAWN_pronoun] ხშირად მოგზაურობდა და სადაც სამუშაო გამოჩნდებოდა, იქ დროებით საქმეს ჰკიდებდა ხელს.
+
+ხანდახან [PAWN_pronoun] იმ რომანზეც მუშაობდა, რომელიც, [PAWN_pronoun]-ის აზრით, ბესტსელერი გახდებოდა — როგორც კი ბოლოს და ბოლოს ისეთ გამომცემელს იპოვიდა, ვისაც ეს დააინტერესებდა.</Drifter67.description>
+  <Drifter67.title>დრიფტერი</Drifter67.title>
+  <Drifter67.titleShort>დრიფტერი</Drifter67.titleShort>
+  <EscapedConvict90.description>[PAWN_nameDef] უარყოფს მონაწილეობას იმ დანაშაულებში, რამაც გამოიწვია [PAWN_possessive] პატიმრობა სასტიკ სასჯელაღსრულების კოლონიაში. [PAWN_pronoun] გაიქცა პერიმეტრის ქვეშ გვირაბით, შეცვლილი დანაჩანგლის გამოყენებით.</EscapedConvict90.description>
+  <EscapedConvict90.title>გაქცეული მსჯავრდებული</EscapedConvict90.title>
+  <EscapedConvict90.titleShort>გაქცეული</EscapedConvict90.titleShort>
+  <Evangelist39.description>ახალგაზრდობაში [PAWN_nameDef] განიცადა რელიგიური გამოღვიძება. [PAWN_pronoun]-მა გადაწყვიტა დარჩენილიყო [PAWN_possessive] ცხოვრების გავრცელებაზე [PAWN_possessive] ღვთაების სიტყვის, მისი კულტურის სილამაზისა და მისი უჩვეულო სამედიცინო ტრადიციის გავრცელებით.</Evangelist39.description>
+  <Evangelist39.title>მახარებელი</Evangelist39.title>
+  <Evangelist39.titleShort>მახარებელი</Evangelist39.titleShort>
+  <ExplosivesExpert26.description>[PAWN_nameDef] იყო ფეთქებადი ინჟინერი, დასაქმებული მაღაროებში. [PAWN_pronoun] ძალიან სერიოზულად ეკიდებოდა [PAWN_possessive] სამუშაოს და კარგად ერკვეოდა ტექნიკურ საკითხებში - იმდენად, რომ [PAWN_pronoun] უარი თქვა [PAWN_objective]საკუთარი თავის დაკნინებაზე და დაეხმარა გაწმენდაში, როგორც კი [PAWN_possessive] საგულდაგულოდ გათვლილი აფეთქება დასრულდა.</ExplosivesExpert26.description>
+  <ExplosivesExpert26.title>ასაფეთქებელი ნივთიერებების ექსპერტი</ExplosivesExpert26.title>
+  <ExplosivesExpert26.titleShort>ბლასტერი</ExplosivesExpert26.titleShort>
+  <Forester96.description>[PAWN_nameDef] გაიზარდა და აიღო ტყეები. [PAWN_pronoun] ესმოდა როგორც ნიადაგის ტიპების, ქარისა და წვიმის პრაქტიკული გამოწვევები, ასევე ტყის ზრდის გრძელვადიანი დაგეგმვა.</Forester96.description>
+  <Forester96.title>მეტყევე</Forester96.title>
+  <Forester96.titleShort>მეტყევე</Forester96.titleShort>
+  <FurnitureBuilder83.description>[PAWN_nameDef] გაიზარდა ტყეებთან ახლოს. [PAWN_pronoun] დახარჯა [PAWN_possessive] დრო ლამაზი ავეჯის შექმნაზე მდიდარი ბრჭყვიალა სამყაროს კლიენტებისთვის.</FurnitureBuilder83.description>
+  <FurnitureBuilder83.title>ავეჯის მშენებელი</FurnitureBuilder83.title>
+  <FurnitureBuilder83.titleShort>მშენებელი</FurnitureBuilder83.titleShort>
+  <Gardener99.description>[PAWN_nameDef] მუშაობდა ძლიერი ოჯახის სასახლეში, მდიდრულ ბაღებს უვლიდა, როგორც მოსამსახურეთა გუნდის ნაწილი.</Gardener99.description>
+  <Gardener99.title>მებაღე</Gardener99.title>
+  <Gardener99.titleShort>მებაღე</Gardener99.titleShort>
+  <Geologist66.description>[PAWN_nameDef] მაღაროელებთან და გამოქვაბულების მთხრელებთან მუშაობდა, ადგენდა ქანების სახეობებს და ბუნებრივ წარმონაქმნებს.
+
+მიწისქვეშ გატარებულ წლებში [PAWN_pronoun]-მა საბურღი მანქანებისა და სხვა ტექნიკური მოწყობილობების შეკეთებაშიც მიიღო გამოცდილება.</Geologist66.description>
+  <Geologist66.title>გეოლოგი</Geologist66.title>
+  <Geologist66.titleShort>გეოლოგი</Geologist66.titleShort>
+  <Housemate8.description>როგორც ზრდასრული, [PAWN_nameDef] ინახავდა სახლს და ზრუნავდა [PAWN_possessive] ბავშვებზე, სანამ [PAWN_possessive] მეუღლე მუშაობდა.</Housemate8.description>
+  <Housemate8.title>დიასახლისი</Housemate8.title>
+  <Housemate8.titleFemale>დიასახლისი</Housemate8.titleFemale>
+  <Housemate8.titleShort>დიასახლისი</Housemate8.titleShort>
+  <Housemate8.titleShortFemale>დიასახლისი</Housemate8.titleShortFemale>
+  <HouseServant63.description>[PAWN_nameDef] მდიდარი სახლის მფლობელების შინამოსამსახურე იყო.
+
+[PAWN_pronoun] კარგად იცნობდა [PAWN_possessive] ბატონის სასახლის სამზარეულოებსა და სარდაფებს, მაგრამ გარეთ არასოდეს მუშაობდა.</HouseServant63.description>
+  <HouseServant63.title>სახლის მსახური</HouseServant63.title>
+  <HouseServant63.titleShort>მსახური</HouseServant63.titleShort>
+  <Hunter89.description>[PAWN_nameDef] ნადირობდა გარეულ ცხოველებზე, რათა დაეხმაროს [PAWN_possessive] საზოგადოების კვებაში. როდესაც დრო რთული ხდებოდა, სხვები თვლიდნენ, რომ [PAWN_objective] ეხმარებოდა ადამიანებს მძიმე სეზონში.</Hunter89.description>
+  <Hunter89.title>მონადირე</Hunter89.title>
+  <Hunter89.titleShort>მონადირე</Hunter89.titleShort>
+  <Inventor6.description>[PAWN_possessive] homeworld-ზე, [PAWN_nameDef] მუშაობდა ზომიერად წარმატებული გამომგონებლად. [PAWN_pronoun]-მა შეიმუშავა რამდენიმე მცირე ტექნოლოგია.</Inventor6.description>
+  <Inventor6.title>გამომგონებელი</Inventor6.title>
+  <Inventor6.titleShort>გამომგონებელი</Inventor6.titleShort>
+  <Jailbird40.description>[PAWN_nameDef]-მა [PAWN_possessive] ცხოვრების უმეტესი ნაწილი გაატარა ციხეებში, სადაც [PAWN_pronoun] მუშაობდა სამზარეულოში. [PAWN_pronoun]-ს ჰქონდა ჩხუბის ჩვევა და გამოუმუშავდა ლაპარაკის აგრესიული ხერხი.</Jailbird40.description>
+  <Jailbird40.title>ციხისტყაოსანი</Jailbird40.title>
+  <Jailbird40.titleShort>ციხისტყაოსანი</Jailbird40.titleShort>
+  <LivestockFarmer8.description>[PAWN_nameDef] მართავდა მეცხოველეობის ფერმას. [PAWN_pronoun] გააანალიზა ცხოველთა გენეტიკა, საკვების ტიპები, დაბადებისა და დაკვლის მეთოდები და ფასების ტენდენციები, რათა ოპტიმიზაცია მოეხდინა ცხოველთა უზარმაზარი ნახირის მოშენების მიზნით.</LivestockFarmer8.description>
+  <LivestockFarmer8.title>მეცხოველეობის ფერმერი</LivestockFarmer8.title>
+  <LivestockFarmer8.titleShort>ფერმერი</LivestockFarmer8.titleShort>
+  <Logger95.description>[PAWN_nameDef]-მა წაიღო ხეები და შეაგროვა ხე მთიან უღელტეხილებსა და ხევებში. [PAWN_pronoun]-მა ისწავლა ხეების უსაფრთხოდ ჩამოყრა და ტყის მართვა მისი ჯანმრთელობის შესანარჩუნებლად.</Logger95.description>
+  <Logger95.title>ლოგერი</Logger95.title>
+  <Logger95.titleShort>ლოგერი</Logger95.titleShort>
+  <LowWageWorker7.description>[PAWN_nameDef] მუშაობდა სხვადასხვა შემთხვევით სამუშაოზე, რათა მხარდაჭერილიყო [PAWN_possessive] ოჯახი, მოიპოვა ძირითადი პრაქტიკული უნარები.</LowWageWorker7.description>
+  <LowWageWorker7.title>დაბალანაზღაურებადი მუშაკი</LowWageWorker7.title>
+  <LowWageWorker7.titleShort>წუწუნი</LowWageWorker7.titleShort>
+  <MachineCollector55.description>[PAWN_nameDef] ძველი მანქანებითა და უცნაური ტექნოლოგიური ნივთებით იყო შეპყრობილი. [PAWN_pronoun] მათ ყველგან ეძებდა, სადაც კი შეეძლო, და დიდი სიამოვნებით შლიდა, რათა გაეგო, როგორ მუშაობდნენ.
+
+[PAWN_pronoun]-ს ჩვევა ჰქონდა [PAWN_possessive] კოლექციაზე ლაპარაკი მაშინაც კი გაეგრძელებინა, როცა გარშემო მყოფები [PAWN_objective]-ს უკვე აღარ უსმენდნენ.</MachineCollector55.description>
+  <MachineCollector55.title>მანქანების კოლექტორი</MachineCollector55.title>
+  <MachineCollector55.titleShort>კოლექციონერი</MachineCollector55.titleShort>
+  <Mathematician6.description>[PAWN_nameDef] უნივერსიტეტში მათემატიკურ კვლევებს ატარებდა.
+
+[PAWN_pronoun] თავისუფალი დროის დიდ ნაწილს სასროლო სიმულაციებში ატარებდა, თუმცა სხვა მოთამაშეები ხშირად დასცინოდნენ [PAWN_objective]-ს [PAWN_possessive] ცუდი დამიზნების გამო.</Mathematician6.description>
+  <Mathematician6.title>მათემატიკოსი</Mathematician6.title>
+  <Mathematician6.titleShort>მათემატიკის პროფ</Mathematician6.titleShort>
+  <Model99.description>[PAWN_nameDef] აყალიბებდა ტანსაცმლისა და სამკაულების მოდელირებას რეკლამის განმთავსებლებისთვის და ასევე გამოიყენებოდა, როგორც ფიზიკური ნახატი პერსონაჟებისთვის ვირტუალური რეალობის სიმულაციებში.</Model99.description>
+  <Model99.title>მოდელი</Model99.title>
+  <Model99.titleShort>მოდელი</Model99.titleShort>
+  <Nurse61.description>[PAWN_nameDef] საავადმყოფოში მუშაობდა და რუტინულ საქმეებს ასრულებდა, მაგალითად, სახვევების გამოცვლასა და ტემპერატურის გაზომვას.
+
+სამუშაო დატვირთული იყო, მაგრამ [PAWN_pronoun] ყოველთვის პოულობდა დროს პაციენტთან სასაუბროდ.</Nurse61.description>
+  <Nurse61.title>მედდა</Nurse61.title>
+  <Nurse61.titleShort>მედდა</Nurse61.titleShort>
+  <Paramedic45.description>[PAWN_nameDef]-ის საქმე იყო სამედიცინო საგანგებო შემთხვევებზე სწრაფად რეაგირება. [PAWN_pronoun] მიჩვეულია მძიმე დაზიანებებთან გამკლავებას მაშინაც კი, როცა სამედიცინო მარაგი შეზღუდულია.
+
+წლების განმავლობაში იმდენი ცეცხლსასროლი ჭრილობა უმკურნალია, რომ იარაღის დანახვაც კი [PAWN_objective]-ს დისკომფორტს უქმნის.</Paramedic45.description>
+  <Paramedic45.title>პარამედიკოსი</Paramedic45.title>
+  <Paramedic45.titleShort>პარამედიკოსი</Paramedic45.titleShort>
+  <Policeman45.description>[PAWN_nameDef] მუნიციპალური საზოგადოებრივი წესრიგის სამსახურში რიგით ოფიცრად ინარჩუნებდა წესრიგს.
+
+[PAWN_pronoun] გაწვრთნილი იყო დეესკალაციაში, ფიზიკურ შეკავებაში, სროლასა და სხვა პოლიციურ უნარებში.</Policeman45.description>
+  <Policeman45.title>პოლიციელი</Policeman45.title>
+  <Policeman45.titleFemale>პოლიციელი</Policeman45.titleFemale>
+  <Policeman45.titleShort>პოლიციელი</Policeman45.titleShort>
+  <Policeman45.titleShortFemale>პოლიციელი</Policeman45.titleShortFemale>
+  <QuarryWorker29.description>[PAWN_nameDef] მუშაობდა კარიერში და ეხმარებოდა მთის ფერდობიდან ძვირფასი ქვის ამოღებას. [PAWN_pronoun] ისწავლა ქვაში არსებული შესაძლებლობებისა და საფრთხის შეგრძნება მხედველობით, შეხებით და ინტუიციით.</QuarryWorker29.description>
+  <QuarryWorker29.title>კარიერის მუშა</QuarryWorker29.title>
+  <QuarryWorker29.titleShort>კარიერის მუშა</QuarryWorker29.titleShort>
+  <Rancher43.description>[PAWN_nameDef] ფლობდა და მართავდა წარმატებულ რანჩოს, სადაც ხორცისა და მატყლისთვის ცხოველებს ზრდიდა.
+
+[PAWN_pronoun] უარს ამბობდა ნებისმიერ სულელურ ფიზიკურ სამუშაოზე, რომლის გაკეთებაშიც შეეძლო სხვას გადახდოდა.</Rancher43.description>
+  <Rancher43.title>რანჩერი</Rancher43.title>
+  <Rancher43.titleShort>რანჩერი</Rancher43.titleShort>
+  <Ranger96.description>[PAWN_nameDef] თვალყურს ადევნებდა ცხოველებს და ადამიანებს კლიენტების ფართო სპექტრისთვის. [PAWN_pronoun] დახელოვნებული გახდა სპურის კითხვაში, ველურში საკვების პოვნაში და მტაცებლის თვალყურის დევნებაში.</Ranger96.description>
+  <Ranger96.title>რეინჯერი</Ranger96.title>
+  <Ranger96.titleShort>რეინჯერი</Ranger96.titleShort>
+  <Recruiter14.description>[PAWN_nameDef] ეკუთვნოდა საბრძოლო ხელოვნების პატივცემულ ორდენს, რომელიც სახელგანთქმული იყო როგორც ბრძოლის ოსტატობით, ისე დაჭრილების მკურნალობაზე უარის თქმით.
+
+[PAWN_pronoun] [PAWN_possessive] მშობლიურ სამყაროში მოგზაურობდა და ახალგაზრდებს აფასებდა, რათა დაედგინა, თუ ვინ შეიძლებოდა ყოფილიყო შესაფერისი მომზადებისთვის.</Recruiter14.description>
+  <Recruiter14.title>დამსაქმებელი</Recruiter14.title>
+  <Recruiter14.titleShort>დამსაქმებელი</Recruiter14.titleShort>
+  <Slaughterer58.description>[PAWN_nameDef] კლავდა ცხოველებს საცხოვრებლად. სხვები უყურებდნენ ამ საქმეს, როგორც ბინძურს, მაგრამ დიდი რაოდენობით ცხოველების მართვისა და სუფთად დასაკლავად საჭირო უნარები არასოდეს ყოფილა მარტივი.</Slaughterer58.description>
+  <Slaughterer58.title>საკლავი</Slaughterer58.title>
+  <Slaughterer58.titleShort>საკლავი</Slaughterer58.titleShort>
+  <Teacher20.description>[PAWN_nameDef] განათლება მიიღო ლიბერალურ ხელოვნებაში და ასწავლიდა საჯარო სკოლაში. [PAWN_pronoun] ფართოდ იყო მცოდნე და მოწონებული [PAWN_possessive] სტუდენტების მიერ.</Teacher20.description>
+  <Teacher20.title>მასწავლებელი</Teacher20.title>
+  <Teacher20.titleShort>მასწავლებელი</Teacher20.titleShort>
+  <Torturer37.description>მუშაობდა ტირან დიქტატორთან, [PAWN_nameDef]-მა მოიპოვა "დარწმუნების" ექსპერტის რეპუტაცია. ნებისმიერი პატიმარი, რომელიც ჩასული იყო დუნდულებში, საიდუმლოების გარეშე ტოვებდა - და [PAWN_nameDef]-ის ღიმილით სამუდამოდ იჭრებოდა მათი კოშმარები.</Torturer37.description>
+  <Torturer37.title>მტანჯველი</Torturer37.title>
+  <Torturer37.titleShort>მტანჯველი</Torturer37.titleShort>
+  <Veterinarian99.description>[PAWN_nameDef] მკურნალობდა ავადმყოფ და დაშავებულ ცხოველებს საცხოვრებლად. მათი ტანჯვის დანახვამ გავლენა მოახდინა [PAWN_possessive] პოზიციაზე ხორცის ჭამაზე და მრავალი წლის განმავლობაში [PAWN_pronoun] ცხოვრობდა როგორც ვეგეტარიანელი.</Veterinarian99.description>
+  <Veterinarian99.title>ვეტერინარი</Veterinarian99.title>
+  <Veterinarian99.titleShort>ვეტერინარი</Veterinarian99.titleShort>
+</LanguageData>

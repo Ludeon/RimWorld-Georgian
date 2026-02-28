@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallDrillArm.description>დააინსტალირეთ საბურღი მკლავი.</InstallDrillArm.description>
+  <InstallDrillArm.jobString>საბურღი მკლავის დაყენება.</InstallDrillArm.jobString>
+  <InstallDrillArm.label>საბურღი მკლავის დაყენება</InstallDrillArm.label>
+  <InstallElbowBlade.description>დააინსტალირეთ იდაყვის დანა.</InstallElbowBlade.description>
+  <InstallElbowBlade.jobString>იდაყვის დანის დაყენება.</InstallElbowBlade.jobString>
+  <InstallElbowBlade.label>დააინსტალირეთ იდაყვის დანა</InstallElbowBlade.label>
+  <InstallFieldHand.description>დააინსტალირეთ საველე ხელი.</InstallFieldHand.description>
+  <InstallFieldHand.jobString>საველე ხელის დაყენება.</InstallFieldHand.jobString>
+  <InstallFieldHand.label>დააინსტალირეთ საველე ხელი</InstallFieldHand.label>
+  <InstallHandTalon.description>დააინსტალირეთ ხელის ტალონი.</InstallHandTalon.description>
+  <InstallHandTalon.jobString>ხელის ბალონის დაყენება.</InstallHandTalon.jobString>
+  <InstallHandTalon.label>დააინსტალირეთ ხელის ტალონი</InstallHandTalon.label>
+  <InstallKneeSpike.description>დააინსტალირეთ მუხლზე მწვერვალი.</InstallKneeSpike.description>
+  <InstallKneeSpike.jobString>მუხლის მწვერვალის დაყენება.</InstallKneeSpike.jobString>
+  <InstallKneeSpike.label>დააინსტალირეთ მუხლის წვეტი</InstallKneeSpike.label>
+  <InstallMindscrew.description>დააინსტალირეთ გონებამახვილი.</InstallMindscrew.description>
+  <InstallMindscrew.jobString>ჭურჭლის დაყენება.</InstallMindscrew.jobString>
+  <InstallMindscrew.label>დააინსტალირეთ გონება</InstallMindscrew.label>
+  <InstallVenomFangs.description>დააინსტალირეთ შხამის ღობეები.</InstallVenomFangs.description>
+  <InstallVenomFangs.jobString>შხამის ფანჯრების დაყენება.</InstallVenomFangs.jobString>
+  <InstallVenomFangs.label>დააინსტალირეთ შხამის ღობეები</InstallVenomFangs.label>
+  <InstallVenomTalon.description>დააინსტალირეთ შხამის ტალონი.</InstallVenomTalon.description>
+  <InstallVenomTalon.jobString>შხამის ტალონის დაყენება.</InstallVenomTalon.jobString>
+  <InstallVenomTalon.label>დააინსტალირეთ შხამი</InstallVenomTalon.label>
+  <RemoveElbowBlade.description>ამოიღეთ იდაყვის დანა.</RemoveElbowBlade.description>
+  <RemoveElbowBlade.jobString>იდაყვის დანის ამოღება.</RemoveElbowBlade.jobString>
+  <RemoveElbowBlade.label>ამოიღეთ იდაყვის დანა</RemoveElbowBlade.label>
+  <RemoveHandTalon.description>ამოიღეთ ხელის ბალონი.</RemoveHandTalon.description>
+  <RemoveHandTalon.jobString>ხელის ბალიშის მოხსნა.</RemoveHandTalon.jobString>
+  <RemoveHandTalon.label>ამოიღეთ ხელის ბალონი</RemoveHandTalon.label>
+  <RemoveKneeSpike.description>ამოიღეთ მუხლის წვეტი.</RemoveKneeSpike.description>
+  <RemoveKneeSpike.jobString>მუხლის წვერის მოცილება.</RemoveKneeSpike.jobString>
+  <RemoveKneeSpike.label>ამოიღეთ მუხლის წვეტი</RemoveKneeSpike.label>
+  <RemoveVenomFangs.description>ამოიღეთ შხამის ღობეები.</RemoveVenomFangs.description>
+  <RemoveVenomFangs.jobString>შხამის კბილთა მოცილება.</RemoveVenomFangs.jobString>
+  <RemoveVenomFangs.label>მოაშორეთ შხამის კბილებს</RemoveVenomFangs.label>
+  <RemoveVenomTalon.description>ამოიღეთ შხამი.</RemoveVenomTalon.description>
+  <RemoveVenomTalon.jobString>შხამის ღეროს ამოღება.</RemoveVenomTalon.jobString>
+  <RemoveVenomTalon.label>ამოიღეთ შხამი</RemoveVenomTalon.label>
+</LanguageData>

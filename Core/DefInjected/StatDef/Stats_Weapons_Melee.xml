@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BluntDamageMultiplier.description>ამ მასალისგან დამზადებულ იარაღზე ბლაგვი ტიპის თავდასხმების დაზიანების მულტიპლიკატორი.</BluntDamageMultiplier.description>
+  <BluntDamageMultiplier.label>ბლაგვი დაზიანება</BluntDamageMultiplier.label>
+  <MeleeWeapon_AverageArmorPenetration.description>ჯავშანტექნიკის საშუალო შეღწევა მელეის ბრძოლაში.</MeleeWeapon_AverageArmorPenetration.description>
+  <MeleeWeapon_AverageArmorPenetration.label>ჯავშანტექნიკის შეღწევა</MeleeWeapon_AverageArmorPenetration.label>
+  <MeleeWeapon_AverageDPS.description>საშუალო ზარალი მიყენებული წამში მელეის ბრძოლაში, თუ ყველა შეტევა მოხვდა.</MeleeWeapon_AverageDPS.description>
+  <MeleeWeapon_AverageDPS.label>melee დაზიანება წამში</MeleeWeapon_AverageDPS.label>
+  <MeleeWeapon_CooldownMultiplier.description>ამ მასალისგან დამზადებული იარაღის შეტევის დაგვიანების მულტიპლიკატორი.</MeleeWeapon_CooldownMultiplier.description>
+  <MeleeWeapon_CooldownMultiplier.label>ახლო ბრძოლის დაყოვნება</MeleeWeapon_CooldownMultiplier.label>
+  <MeleeWeapon_DamageMultiplier.description>ზიანის მულტიპლიკატორი გამოყენებულია მელეის ბრძოლაზე.</MeleeWeapon_DamageMultiplier.description>
+  <MeleeWeapon_DamageMultiplier.label>melee ზიანის მულტიპლიკატორი</MeleeWeapon_DamageMultiplier.label>
+  <SharpDamageMultiplier.description>ამ მასალისგან დამზადებული იარაღის მკვეთრი ტიპის თავდასხმების დაზიანების მულტიპლიკატორი.</SharpDamageMultiplier.description>
+  <SharpDamageMultiplier.label>მკვეთრი დაზიანება</SharpDamageMultiplier.label>
+</LanguageData>

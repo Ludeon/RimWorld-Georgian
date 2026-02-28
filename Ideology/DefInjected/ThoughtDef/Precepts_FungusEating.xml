@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteFungus_Despised.stages.0.description>ამ სოკოს ნესტიანი ნაწიბურების სუნი ასდიოდა და უკეთესი გემო არ ჰქონდა.</AteFungus_Despised.stages.0.description>
+  <AteFungus_Despised.stages.0.label>ჭამდა სოკო უმი</AteFungus_Despised.stages.0.label>
+  <AteFungus_Preferred.stages.0.description>მე ვჭამე სოკო და ეს იყო ის, რაც მე მომწონს!</AteFungus_Preferred.stages.0.description>
+  <AteFungus_Preferred.stages.0.label>შეჭამა სოკო</AteFungus_Preferred.stages.0.label>
+  <AteFungusAsIngredient_Despised.stages.0.description>მთელი ამ საჭმელს უმოქმედო აუზში დარჩენილი მკვდარი ვირთხის სუნი ასდიოდა.</AteFungusAsIngredient_Despised.stages.0.description>
+  <AteFungusAsIngredient_Despised.stages.0.label>შეჭამა სოკო მოხარშული</AteFungusAsIngredient_Despised.stages.0.label>
+  <AteFungusAsIngredient_Preferred.stages.0.description>ვჭამე სოკოთი. არის რაიმე კერძი, რომელიც არ ავსებს?</AteFungusAsIngredient_Preferred.stages.0.description>
+  <AteFungusAsIngredient_Preferred.stages.0.label>შეჭამა მოხარშული სოკო</AteFungusAsIngredient_Preferred.stages.0.label>
+  <AteNonFungusMealWithPlants_Despised.stages.0.description>ვჭამე მსუბუქი მცენარეებით. ვისურვებდი, რომ ეს იყო სოკო.</AteNonFungusMealWithPlants_Despised.stages.0.description>
+  <AteNonFungusMealWithPlants_Despised.stages.0.label>ჭამდა არა სოკოს მცენარეს მოხარშული</AteNonFungusMealWithPlants_Despised.stages.0.label>
+  <AteNonFungusPlant_Despised.stages.0.description>მე უნდა მეჭამა არა სოკოს მცენარეული საკვები, რომელიც მე მეზიზღება. სოკო მირჩევნია.</AteNonFungusPlant_Despised.stages.0.description>
+  <AteNonFungusPlant_Despised.stages.0.label>ჭამდა უმი სოკოს მცენარეს</AteNonFungusPlant_Despised.stages.0.label>
+</LanguageData>

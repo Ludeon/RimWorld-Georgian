@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Art.description>შექმენით ულამაზესი ხელოვნების ნიმუშები ნედლეულისგან.</Art.description>
+  <Art.gerundLabel>ხელოვნება</Art.gerundLabel>
+  <Art.verb>გააკეთე ხელოვნება</Art.verb>
+  <BasicWorker.description>არაკვალიფიციური და მარტივი ამოცანები. გაათავისუფლეთ პატიმრები და ჩართე მანქანები.</BasicWorker.description>
+  <BasicWorker.gerundLabel>ძირითადი ამოცანები</BasicWorker.gerundLabel>
+  <BasicWorker.verb>გაუმკლავდეთ</BasicWorker.verb>
+  <Cleaning.description>გაასუფთავეთ თოვლი და გაასუფთავეთ იატაკი სახლის ტერიტორიაზე.</Cleaning.description>
+  <Cleaning.gerundLabel>გაწმენდა</Cleaning.gerundLabel>
+  <Cleaning.verb>სუფთა</Cleaning.verb>
+  <Construction.description>ააშენეთ ნივთები, რომლებიც თქვენ დანიშნეთ და შეასწორეთ დაზიანებული ან დანგრეული შენობები.</Construction.description>
+  <Construction.gerundLabel>მშენებლობა</Construction.gerundLabel>
+  <Construction.verb>ააშენე</Construction.verb>
+  <Cooking.description>მოამზადეთ კერძები და დაჭერით ხორცი.</Cooking.description>
+  <Cooking.gerundLabel>სამზარეულო</Cooking.gerundLabel>
+  <Cooking.verb>საზ</Cooking.verb>
+  <Crafting.description>შეასრულეთ ზოგადი დაბალკვალიფიციური შრომა სამუშაო სადგურებზე. ეს მოიცავს ქვის ჭრას, დნობას და სხვა.</Crafting.description>
+  <Crafting.gerundLabel>ხელოსნობა</Crafting.gerundLabel>
+  <Crafting.verb>ხელობა at</Crafting.verb>
+  <Doctor.description>უმკურნალეთ ავადმყოფებს, მიიტანეთ საკვები, გაახალისეთ ისინი და ჩაატარეთ დანიშნული ოპერაციები. ექიმები იზრუნებენ როგორც კოლონისტებზე, ასევე პატიმრებზე.</Doctor.description>
+  <Doctor.gerundLabel>დოქტორანტურა</Doctor.gerundLabel>
+  <Doctor.verb>ზრუნვა</Doctor.verb>
+  <Firefighter.description>ჩააქრეთ ხანძარი კოლონიაში.</Firefighter.description>
+  <Firefighter.gerundLabel>ხანძარსაწინააღმდეგო</Firefighter.gerundLabel>
+  <Firefighter.verb>ჩაქრობა</Firefighter.verb>
+  <Growing.description>დარგე თესლები, მოსავლის აღება და საკვები ველური მცენარეებისთვის.</Growing.description>
+  <Growing.gerundLabel>მზარდი</Growing.gerundLabel>
+  <Growing.verb>გაიზარდე</Growing.verb>
+  <Handling.description>მოათვინიერეთ, მოამზადეთ, აიღეთ რესურსები და დახოცეთ ცხოველები.</Handling.description>
+  <Handling.gerundLabel>დამუშავება</Handling.gerundLabel>
+  <Handling.verb>სახელური</Handling.verb>
+  <Hauling.description>გადაიტანეთ ნივთები იქ, სადაც უნდა იყოს.</Hauling.description>
+  <Hauling.gerundLabel>გადაზიდვა</Hauling.gerundLabel>
+  <Hauling.verb>ზიდვა</Hauling.verb>
+  <Hunting.description>მოკალი ცხოველები, რომლებიც დანიშნულია სანადიროდ.</Hunting.description>
+  <Hunting.gerundLabel>ნადირობა</Hunting.gerundLabel>
+  <Hunting.verb>ნადირობა</Hunting.verb>
+  <Mining.description>თხრა და ბურღვა.</Mining.description>
+  <Mining.gerundLabel>სამთო მოპოვება</Mining.gerundLabel>
+  <Mining.verb>ჩემი</Mining.verb>
+  <Patient.description>მიმართეთ სამედიცინო საწოლს სამკურნალოდ, თუ თქვენ გაქვთ სიცოცხლისთვის საშიში მდგომარეობა.</Patient.description>
+  <Patient.gerundLabel>მოთმინება</Patient.gerundLabel>
+  <Patient.verb>გახდი მომთმენი</Patient.verb>
+  <PatientBedRest.description>დაისვენეთ საწოლში, რათა გამოჯანმრთელდეთ სიცოცხლისთვის საშიში სამედიცინო პრობლემებისგან.</PatientBedRest.description>
+  <PatientBedRest.gerundLabel>საწოლში დასვენება</PatientBedRest.gerundLabel>
+  <PatientBedRest.verb>გახდი მომთმენი</PatientBedRest.verb>
+  <PlantCutting.description>მოჭრილი ან მოსავალი მცენარეები, როგორც დანიშნულია.</PlantCutting.description>
+  <PlantCutting.gerundLabel>მცენარის მოჭრა</PlantCutting.gerundLabel>
+  <PlantCutting.verb>გაჭრა</PlantCutting.verb>
+  <Research.description>შეასრულეთ კვლევითი სამუშაო.</Research.description>
+  <Research.gerundLabel>იკვლევს</Research.gerundLabel>
+  <Research.verb>კვლევა ზე</Research.verb>
+  <Smithing.description>შექმენით იარაღი და ხელსაწყოები ნედლეულისგან, მჭედლად ან დამუშავებით.</Smithing.description>
+  <Smithing.gerundLabel>სამჭედლო</Smithing.gerundLabel>
+  <Smithing.verb>სმიტი ზე</Smithing.verb>
+  <Tailoring.description>შექმენით ტანსაცმელი ნედლეულისგან.</Tailoring.description>
+  <Tailoring.gerundLabel>სამკერვალო</Tailoring.gerundLabel>
+  <Tailoring.verb>მკერავი ზე</Tailoring.verb>
+  <Warden.description>მართეთ, იკვებეთ, ესაუბრეთ და დაკომპლექტდით პატიმრებთან.</Warden.description>
+  <Warden.gerundLabel>მეთვალყურეობა</Warden.gerundLabel>
+  <Warden.verb>სახელური</Warden.verb>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActivatorCountdown.description>დროული მექანიკური აქტივაციის ერთეული. ჩამოთვლის შემდეგ ის გაიღვიძებს მიმდებარედ მიძინებულ მექანოიდებსა და სტრუქტურებს.</ActivatorCountdown.description>
+  <ActivatorCountdown.label>ათვლის აქტივატორი</ActivatorCountdown.label>
+  <ActivatorProximity.description>სიახლოვის სიგნალიზაცია მიძინებული მექანოიდებისთვის. თუ იგი ახლოს აღმოაჩენს ადამიანის მსგავს საფრთხეს, ის გააღვიძებს ნებისმიერ მიძინებულ მექანოიდს ან სტრუქტურას.</ActivatorProximity.description>
+  <ActivatorProximity.label>სიახლოვის აქტივატორი</ActivatorProximity.label>
+</LanguageData>

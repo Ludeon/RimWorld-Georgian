@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <LetterLabelConvertIdeoAttempt_Success>კონვერსია</LetterLabelConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef}-მა წარმატებით დააშორა {RECIPIENT_nameDef} {OLDIDEO_name}-ს და {IDEO_name}-ისკენ.</LetterConvertIdeoAttempt_Success>
+
+  
+  <LetterLabelGrandSlaveRebellion>დიდი მონათა აჯანყება</LetterLabelGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>მონების დიდი აჯანყება დაიწყო! ყველა შენი მონა დგება შენს წინააღმდეგ საბრძოლველად. ისინი დაეძებენ იარაღს და შეეცდებიან გაანადგურონ თქვენი კოლონისტები.\n\nჩართულია ეს მონები:\n\n{0}</LetterGrandSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>ადგილობრივი მონების აჯანყება</LetterLabelLocalSlaveRebellion>
+  <LetterLocalSlaveRebellion>ადგილობრივი მონების აჯანყება დაიწყო! {0_nameDef} და რამდენიმე ახლომდებარე მონა დგებიან თქვენს წინააღმდეგ საბრძოლველად. ისინი დაეძებენ იარაღს და შეეცდებიან გაანადგურონ თქვენი კოლონისტები.\n\nჩართულია ეს მონები:\n\n{1}</LetterLocalSlaveRebellion> 
+  <LetterLabelSingleSlaveRebellion>მონების აჯანყება</LetterLabelSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>{0_nameDef} აჯანყებულია! {0_pronoun} ეძებს იარაღს და შეეცდება გაანადგუროს თქვენი კოლონისტები.</LetterSingleSlaveRebellion>
+
+  
+  <LetterLabelGrandSlaveEscape>დიდი მონის გაქცევა</LetterLabelGrandSlaveEscape>
+  <LetterGrandSlaveEscape>გრანდიოზული მონების გაქცევა დაიწყო! ყველა თქვენი მონა ამისთვის შესვენებას აკეთებს.\n\nეს მონა ჩართულია:\n\n{0}</LetterGrandSlaveEscape>
+  <LetterLabelLocalSlaveEscape>ადგილობრივი მონების გაქცევა</LetterLabelLocalSlaveEscape>
+  <LetterLocalSlaveEscape>ადგილობრივი მონების გაქცევა დაიწყო! {0_nameDef} და რამდენიმე ახლომახლო მონა წყვეტს მას.\n\nეს მონები მონაწილეობენ:\n\n{1}</LetterLocalSlaveEscape>
+  <LetterLabelSingleSlaveEscape>მონების გაქცევა</LetterLabelSingleSlaveEscape>
+  <LetterSingleSlaveEscape>{0_nameDef} ცდილობს გაქცევას!</LetterSingleSlaveEscape>
+
+  <SlaveRebellionSuppressionExplanation>მონები უფრო მეტად აჯანყდებიან, როდესაც მათი ჩახშობის დონე დაბალია.</SlaveRebellionSuppressionExplanation>
+  
+  
+  <LetterLabelRoleActive>{0} როლი გააქტიურებულია</LetterLabelRoleActive>
+  <LetterLabelRoleActiveDesc>თქვენს კოლონიაში {0}-ების რაოდენობამ მიაღწია {1}-ს. ახლა შეგიძლიათ {ROLE_labelDef}-ის როლი მიანიჭოთ თქვენს ერთ-ერთ კოლონისტს.\n\nროლის მინიჭებისთვის გამოიყენეთ ადამიანის სოციალური ჩანართი, ან აირჩიეთ რიტუალური ადგილი ან საკურთხეველი და დააჭირეთ ღილაკს „როლის შეცვლის დაწყება“.</LetterLabelRoleActiveDesc>
+
+  <LetterLabelRoleInactive>{0} როლი გამორთულია</LetterLabelRoleInactive>
+  <LetterLabelRoleInactiveDesc>{0}-ების რაოდენობა თქვენს კოლონიაში დაეცა {1}-მდე. {ROLE_labelDef} როლი აღარ არის აქტიური. ეს როლი კიდევ ერთხელ გახდება ხელმისაწვდომი, როდესაც {0}-ების რაოდენობა {2}-ს მიაღწევს.</LetterLabelRoleInactiveDesc>
+
+  <LetterLabelRoleLost>{PAWN_labelShort}-ის {ROLE_labelIndef} როლი დაიკარგა</LetterLabelRoleLost>
+  <LetterRoleLostDesc>{PAWN_labelShort}-ს აღარ აქვს {ROLE_labelIndef}-ის როლი. მიზეზი:</LetterRoleLostDesc>
+  <LetterRoleLostReasonUnassignedDesc>{PAWN_pronoun} არ იყო მინიჭებული.</LetterRoleLostReasonUnassignedDesc>
+  <LetterRoleLostReasonLowBelieversDesc>როლი არააქტიური გახდა {0} დაბალი რაოდენობის გამო.</LetterRoleLostReasonLowBelieversDesc>
+  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort}-მა დაკარგა {PAWN_possessive} პოზიცია, როგორც {ROLE_labelDef}, რადგან {PAWN_pronoun}-მა მიატოვა {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterObligationRoleInactive>{0} გამოტოვებულია</LetterObligationRoleInactive>
+  <LetterObligationRoleInactiveDateDesc>{0} არის {1}-ის თარიღი, მაგრამ ვინაიდან {ROLE_labelDef} როლი არააქტიურია, {2}s გამოტოვებს {1}-ს.</LetterObligationRoleInactiveDateDesc>
+  
+  
+  <LetterSpeechConvertedListeners>{PAWN_pronoun}-ის გამოსვლამ შემდეგი ხალხი გადააქცია {IDEO}-ად</LetterSpeechConvertedListeners>
+
+  <LetterTitleObligationsActivated>გააქტიურებულია {0} რიტუალები</LetterTitleObligationsActivated>
+  <LetterTitleObligationsDeactivated>{0} რიტუალები გამორთულია</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivatedTooFewBelievers>ახლა თქვენს ფრაქციაში {1} {IDEO_memberNamePlural}-ზე ნაკლებია. ამიტომ, {IDEO_memberNamePlural} არ მოითხოვს {IDEO}-ის რიტუალების ჩატარებას მანამ, სანამ თქვენს ფრაქციაში არ იქნება მათი მინიმუმ {1}.</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <LetterTitleObligationsActivatedEnoughBelievers>ვინაიდან ახლა თქვენს ფრაქციაში არის {1} {IDEO_memberNamePlural}, ისინი მოითხოვენ {IDEO}-ის რიტუალების შესრულებას.</LetterTitleObligationsActivatedEnoughBelievers>
+  <LetterTitleObligationsActivatedIdeoBecameMajor>ვინაიდან {IDEO} ახლა თქვენი ფრაქციის ძირითადი იდეოლიგიაა, {IDEO_memberNamePlural} მოითხოვს {IDEO}-ის რიტუალების შესრულებას.</LetterTitleObligationsActivatedIdeoBecameMajor>
+
+  <LetterBondRemoved>ბონდ(ებ)ი ამოღებულია</LetterBondRemoved>
+  <LetterBondRemovedDesc>{PAWN_nameDef} გადაკეთდა {IDEO}-ად. ვინაიდან {IDEO} არ ეთანხმება ცხოველებთან შეკავშირებას, {PAWN_pronoun}-მა უარყო {PAWN_possessive} კავშირები შემდეგ ცხოველებთან:\n\n{BONDS}</LetterBondRemovedDesc>
+
+  
+  <LetterLabelEnslavementSuccess>დამონებული</LetterLabelEnslavementSuccess>
+  <LetterEnslavementSuccess>{0_nameDef}-მა წარმატებით დაიმონა {1_nameDef}.</LetterEnslavementSuccess>
+
+  
+  <LetterLabelNewPrimaryIdeo>შეიცვალა პირველადი იდეოლიგია</LetterLabelNewPrimaryIdeo>
+  <LetterNewPrimaryIdeo>თქვენი ფრაქციის ძირითადი იდეოლიგია შეიცვალა {OLDIDEO_name}-დან {NEWIDEO_name}-მდე.\n\nეს იმიტომ მოხდა, რომ {NEWIDEO_name} ახლა უფრო ხშირია თქვენს {FACTION_pawnsPlural}-ში, ვიდრე ნებისმიერ სხვა იდეოლიგიაში.\n\nთქვენი ძირითადი იდეოლიგია გავლენას ახდენს სხვა ფრაქციებთან ურთიერთობაზე, იმის მიხედვით, თუ რამდენად შეესაბამება თქვენი რწმენა მათ რწმენას.</LetterNewPrimaryIdeo>
+
+  
+  <JoinerCharityInfo>ეს არის საქველმოქმედო ინციდენტი. თუ {0}-ს გადაუხვევთ, საქველმოქმედო რწმენის მქონე მორწმუნეები უბედურები იქნებიან.</JoinerCharityInfo>
+  <AfflictedJoinerChartityInfo>ეს არის საქველმოქმედო ინციდენტი. თუ {0} მოკვდება მოვლის გარეშე (და {1}-ის შემდეგ), საქველმოქმედო რწმენის მქონე მორწმუნეები უბედურები იქნებიან. თუ {0}-ს აკვირდებიან ან აიყვანენ, მორწმუნეები ბედნიერები იქნებიან.</AfflictedJoinerChartityInfo>
+  <PawnsHaveCharitableBeliefs>შემდეგ მორწმუნეებს აქვთ საქველმოქმედო რწმენა</PawnsHaveCharitableBeliefs>
+
+  
+  <LetterIdeoChangeConverted>{PAWN_pronoun}-მა გადაწყვიტა, რომ {PAWN_possessive}-ის რწმენას {OLDIDEO_name}-ში აზრი აღარ აქვს.\n\n{PAWN_pronoun}-ს ახლა სჯერა {NEWIDEO_name}-ის.</LetterIdeoChangeConverted>
+  <LetterIdeoChangeNotConverted>{PAWN_nameDef}-ის დარწმუნება {PAWN_possessive}-ის რწმენით {OLDIDEO_name}-ზე შემცირდა {NEWCERTAINTY}-მდე.</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangedWanderOwnRoom>{PAWN_possessive} რწმენასთან შესაგუებლად, {PAWN_nameDef} ახლა იმალება {PAWN_possessive} ოთახში.</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedSadWander>{PAWN_nameDef} ახლა შოკში ტრიალებს {PAWN_possessive}-ის რწმენებთან ბრძოლაში.</LetterIdeoChangedSadWander>
+
+  
+  <LetterIdeoChangedDivorce>განქორწინება</LetterIdeoChangedDivorce>
+  <LetterIdeoChangedDivorcedPawns>{PAWN_nameDef}-ის ახალი რწმენა კრძალავს {PAWN_possessive}-ის ამჟამინდელ მეუღლეთა რაოდენობას.\n\n{PAWN_nameDef}-მა გადაწყვიტა განქორწინდეს ეს ადამიანები:\n{1}</LetterIdeoChangedDivorcedPawns>
+
+  
+  <LetterLabelSurpriseReinforcements>სიურპრიზი გაძლიერება!</LetterLabelSurpriseReinforcements>
+  <LetterSurpriseReinforcements>მოვიდა სიურპრიზები {1}-ისგან! ისინი გადადიან დასახმარებლად {0}-დან {1}-დან.</LetterSurpriseReinforcements>
+
+  
+  <LetterWantLookChange>ხედის შეცვლა სასურველია</LetterWantLookChange>
+  <LetterWantLookChangeDesc>{PAWN_nameDef}-ს სურს შეცვალოს {PAWN_possessive} იერი, რადგან ის აღარ ემთხვევა იმას, რასაც {PAWN_pronoun} სჯერა.\n\n{PAWN_pronoun} ავტომატურად გამოიყენებს ხელმისაწვდომ სტილის სადგურს და აირჩევს სახეს. თუ გსურთ {PAWN_possessive} იერის მორგება, აირჩიეთ {PAWN_objective} და დააწკაპუნეთ მაუსის მარჯვენა ღილაკით სტილის სადგურზე.</LetterWantLookChangeDesc>
+
+  
+  <LetterLabelSpacedroneIncoming>Spacedrone შემოვიდა</LetterLabelSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>ახლომახლო კოსმოსური თვითმფრინავი ეშვება.</LetterTextSpacedroneIncoming>
+  <LetterTextRaidSpacedrone>{0}-ის რეიდი მოვიდა {1}-ის განადგურების მიზნით, რომელიც იძულებული გახდა დაეშვა იქვე.</LetterTextRaidSpacedrone>
+
+  
+  <LetterTextSpacedroneHacked>თქვენ დაასრულეთ {0}-ის გატეხვა და შეიტყვეთ მეტი უძველესი {1} რელიქვიის შესახებ.</LetterTextSpacedroneHacked>
+
+  
+  <LetterLabelRelicDestroyed>განადგურდა რელიქვია</LetterLabelRelicDestroyed>
+  <LetterTextRelicDestroyed>{0} განადგურდა!\n\nგანწყობის დაქვეითებას განიცდიან შემდეგი ადამიანები:\n{1}</LetterTextRelicDestroyed>
+  
+  
+  <LetterLabelRelicLost>რელიქვია დაკარგული</LetterLabelRelicLost>
+  <LetterTextRelicLost>{0} დაიკარგა!\n\nშემდეგი ადამიანები განწყობის დაქვეითებას განიცდიან:\n{1}</LetterTextRelicLost>
+
+  
+  <LetterOnlySlaveCaravanColonistsLeft>{0}-ის ყველა არამონური წევრი გარდაიცვალა. დარჩენილი მონები წავიდნენ. ქარავანი დაიშალა.</LetterOnlySlaveCaravanColonistsLeft>
+
+  
+  <LetterLabelLastHackerLost>ბოლო ჰაკერი წააგო</LetterLabelLastHackerLost>
+  <LetterTextLastHackerLost>ბოლო ჰაკერი, რომელსაც შეეძლო უძველესი კომპლექსის საიდუმლოებების განბლოკვა, დაკარგულია. დაურეკეთ გამაძლიერებლებს, რომლებსაც შეუძლიათ ჰაკერები, ან მიატოვეთ ქვესტი.</LetterTextLastHackerLost>
+
+  
+  <LetterLabelRelicFound>ნაპოვნია რელიქვია</LetterLabelRelicFound>
+  <LetterTextRelicFoundLocation>თქვენ საბოლოოდ შეიტყვეთ {0} რელიქვიის მდებარეობა!</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundSecurityThreats>რელიქვია ინახება უძველეს ნაგებობაში. იგი დაცულია უსაფრთხოების სისტემით მრავალი დამოუკიდებელი ერთეულით. თქვენ შეგიძლიათ აირჩიოთ უშიშროების ძალების დამარცხება თითო ერთეული რელიქვიის აღებამდე, ან სცადოთ მისი ხელში ჩაგდება და გაქცევა, სანამ ისინი დაგიშავებენ.\n\n{0}-ის შემდეგ, უსაფრთხოების ყველა სისტემა გაფრთხილებული იქნება.</LetterTextRelicFoundSecurityThreats>
+
+  
+  <LetterLabelRelicsCollected>შეგროვებული სიწმინდეები</LetterLabelRelicsCollected>
+  <LetterTextRelicsCollected>{0}-ის კუთვნილი ყველა რელიქვია შეგროვდა. შემდეგი ხალხი აღფრთოვანებული იქნება</LetterTextRelicsCollected>
+  <LetterTextRelicsCollectedClassic>თქვენ შეაგროვეთ ამ სამყაროს ყველა ცნობილი რელიქვია. შემდეგი ხალხი აღფრთოვანებული იქნება</LetterTextRelicsCollectedClassic>
+
+  
+  <LetterLabelPawnConnected>{TREE_label} კავშირი</LetterLabelPawnConnected>
+  <LetterTextPawnConnected>{CONNECTOR_nameDef} დაუკავშირდა {TREE_definite}-ს.\n\n{TREE_definite} წარმოქმნის პატარა ცხოველებს, რომლებსაც დრიადებს უწოდებენ, მათ ძირში მდებარე ბუდეებში გაზრდით. ეს დრიადები შეიძლება სპეციალიზირებული იყოს სხვადასხვა კასტებში. თქვენ შეგიძლიათ აირჩიოთ დრიადების რომელი კასტა გსურთ, რომ ხე წარმოქმნას.\n\nრაც უფრო ძლიერია კავშირი ხესა და ადამიანს შორის, მით უფრო მეტი დრიადების შენარჩუნება შეუძლია {TREE_definite}-ს. {CONNECTOR_nameDef}-ს შეუძლია გააძლიეროს კავშირი {TREE_definite}-ის გასხვლით. კავშირის უფრო მაღალი სიმტკიცის შესანარჩუნებლად საჭიროა უფრო ხშირი მორთვა.</LetterTextPawnConnected>
+  <LetterLabelConnectedTreeDestroyed>დაკავშირებული {TREE_label} განადგურდა</LetterLabelConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>{TREE_label}, რომელიც დაკავშირებულია {CONNECTEDPAWN_nameDef}-თან, განადგურდა, რის შედეგადაც მოკვდა შიგნით მოთავსებული დრიადის დედოფალი.\n\nდედოფლის გარეშე, დრიადის ჭკუა დაინგრა. ამ ხისგან ყველა დრიადი მოკვდა.</LetterTextConnectedTreeDestroyed>
+
+  
+  <LetterLabelArchonexusWealthReached>Quest '{0}' ხელმისაწვდომია</LetterLabelArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>თქვენ მიაღწიეთ სიმდიდრის მოთხოვნას ქვესტისთვის '{0}'. ახლა თქვენ შეგიძლიათ მიიღოთ ქვესტი.</LetterTextArchonexusWealthReached>
+  <LetterLabelArchonexusStructureResearched>{0_labelShort} შეისწავლა</LetterLabelArchonexusStructureResearched>
+  <LetterTextArchonexusStructureResearched>თქვენ დაასრულეთ {0_labelShort}-ის შესწავლა.\n\nვერ იტყვით, რომ თქვენ გესმით იგი სრულყოფილად, მაგრამ თქვენ აღმოაჩინეთ შაბლონები მის ქცევაში და ინფორმაციის გამოხატვის გზაზე.\n\nამ ცოდნით, თქვენ შეძლებთ არქოქსუსის რუკის შემდეგი ნაწილის ინტერპრეტაციას.</LetterTextArchonexusStructureResearched>
+  <LetterLabelArchotechStructuresAbandoned>არქოტექნიკური სტრუქტურები მიტოვებული</LetterLabelArchotechStructuresAbandoned>
+  <LetterTextArchotechStructuresAbandoned>თქვენ მიატოვეთ არქოტექნიკური სტრუქტურები {0_definite}-ზე.\n\nშორეული დამკვირვებლები ამბობენ, რომ მათ დაინახეს დიდი ციმციმი, რომელიც წარმოიშვა ამ ადგილიდან თქვენი წასვლის შემდეგ.</LetterTextArchotechStructuresAbandoned>
+
+  
+  <LetterLabelReformIdeo>რეფორმის იდეოლიგია</LetterLabelReformIdeo>
+  <LetterTextReformIdeo>თქვენ გაქვთ საკმარისი განვითარების წერტილები {0}-ის რეფორმირებისთვის!\n\nრეფორმირება საშუალებას გაძლევთ განახორციელოთ ერთ-ერთი შემდეგი:\n\n- დაამატეთ meme\n- წაშალეთ meme\n- შეცვალეთ სტრუქტურა\n- შეცვალეთ სტილი\n\nასევე შეგიძლიათ შეუზღუდავი ცვლილებები შეიტანოთ მითითებებში, ღვთაებებში, თხრობის ტექსტში და სხვა სიმბოლოებში.\n\nგახსენით იდეები იდეებში. ჩანართი, გახსენით იდეები.</LetterTextReformIdeo>
+
+</LanguageData>

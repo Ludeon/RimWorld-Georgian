@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PreferredXenotype.stages.0.label>სასურველი ქსენოტიპი</PreferredXenotype.stages.0.label>
+  <PreferredXenotype.stages.1.label>არ მოსწონდა ქსენოტიპი</PreferredXenotype.stages.1.label>
+  <PreferredXenotypeMakeup.stages.0.description>ჩვენ შევქმენით მხოლოდ კარგი და ძლიერი ქსენოტიპების საზოგადოება.</PreferredXenotypeMakeup.stages.0.description>
+  <PreferredXenotypeMakeup.stages.0.label>ყველა სასურველი ქსენოტიპი</PreferredXenotypeMakeup.stages.0.label>
+  <PreferredXenotypeMakeup.stages.1.description>ეს ქსენოტიპები ჩვენს საზოგადოებაშია. მე არ მინდა ისინი აქ.</PreferredXenotypeMakeup.stages.1.description>
+  <PreferredXenotypeMakeup.stages.1.label>ზოგიერთს არ მოსწონდა ქსენოტიპები</PreferredXenotypeMakeup.stages.1.label>
+  <PreferredXenotypeMakeup.stages.2.description>ამ ქსენოტიპებიდან ბევრია ჩვენს საზოგადოებაში. ისინი აქ არ უნდა იყვნენ.</PreferredXenotypeMakeup.stages.2.description>
+  <PreferredXenotypeMakeup.stages.2.label>ბევრს არ მოსწონდა ქსენოტიპი</PreferredXenotypeMakeup.stages.2.label>
+  <PreferredXenotypeMakeup.stages.3.description>მე იმ ქსენოტიპებით ვარ გარშემორტყმული. They don't belong here.</PreferredXenotypeMakeup.stages.3.description>
+  <PreferredXenotypeMakeup.stages.3.label>ტონა საძულველი ქსენოტიპები</PreferredXenotypeMakeup.stages.3.label>
+  <SelfDislikedXenotype.stages.0.description>მე ვარ {XENOTYPENAME}. მე არ ვარ ერთ-ერთი კარგი ტიპი.</SelfDislikedXenotype.stages.0.description>
+  <SelfDislikedXenotype.stages.0.label>არ მომწონს ქსენოტიპი</SelfDislikedXenotype.stages.0.label>
+</LanguageData>

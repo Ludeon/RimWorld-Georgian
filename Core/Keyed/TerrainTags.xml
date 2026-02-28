@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <TerrainTagWater>წყალი და ჭაობი</TerrainTagWater>
+  <TerrainTagRiver>მდინარე</TerrainTagRiver>
+  <TerrainTagOcean>ოკეანე</TerrainTagOcean>
+  <TerrainTagIce>ყინული</TerrainTagIce>
+  <TerrainTagFineFloor>მშვენიერი იატაკი</TerrainTagFineFloor>
+  <TerrainTagSoil>ნიადაგი</TerrainTagSoil>
+  <TerrainTagRoad>გზა</TerrainTagRoad>
+  <TerrainTagFloor>იატაკი</TerrainTagFloor>
+  <TerrainTagSubstructure>სუბსტრუქტურა</TerrainTagSubstructure>
+  <TerrainTagInsect>მწერი</TerrainTagInsect>
+
+</LanguageData>

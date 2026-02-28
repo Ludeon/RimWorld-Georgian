@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeditationPlantGrowthOffset.description>ოფსეტური გამოიყენება მცენარეების ზრდის ტემპზე, როგორიცაა ანიმა ბალახი, მედიტაციის შედეგად. ეს მნიშვნელობა შეიძლება შეიცვალოს მიმდებარე ხელოვნური შენობების რაოდენობის მიხედვით.</MeditationPlantGrowthOffset.description>
+  <MeditationPlantGrowthOffset.label>მედიტაციის მცენარეთა ზრდის კომპენსირება</MeditationPlantGrowthOffset.label>
+</LanguageData>

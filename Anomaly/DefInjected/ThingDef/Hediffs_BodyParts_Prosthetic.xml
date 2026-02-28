@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdrenalHeart.description>A special bioferrite prosthetic that allows a ghoul to saturate its bloodstream with stress hormones and liquid energy. The ghoul will move and attack at incredible speeds for a short amount of time. The prosthetic slightly increases the ghoul's metabolism, causing it to eat more.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement.</AdrenalHeart.description>
+  <AdrenalHeart.label>თირკმელზედა ჯირკვლის გული</AdrenalHeart.label>
+  <CorrosiveHeart.description>A special bioferrite prosthetic that allows the ghoul to spray a corrosive fluid. The prosthetic repurposes a chamber of the ghoul's heart to create a strong acid, which can be projected from the ghoul's mouth.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement.</CorrosiveHeart.description>
+  <CorrosiveHeart.label>კოროზიული გული</CorrosiveHeart.label>
+  <GhoulBarbs.description>A number of barbed bioferrite spikes that can be surgically attached to a ghoul. They drastically increase a ghoul's melee damage but also limit its range of motion, slowing it down.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement.</GhoulBarbs.description>
+  <GhoulBarbs.label>ღრიალი ბარბი</GhoulBarbs.label>
+  <GhoulPlating.description>Bioferrite plates that can be surgically attached to a ghoul, protecting vulnerable areas. The plates will reduce incoming damage significantly but also slow the ghoul down.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement.</GhoulPlating.description>
+  <GhoulPlating.label>ghoul plating</GhoulPlating.label>
+  <MetalbloodHeart.description>A special bioferrite prosthetic that can pump a small amount of metalblood into a ghoul's bloodstream, making it more resistant to damage for a short period of time. Metalblood also makes the ghoul more vulnerable to fire. The prosthetic causes widespread swelling, slowing the ghoul down.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement.</MetalbloodHeart.description>
+  <MetalbloodHeart.label>ლითონის სისხლიანი გული</MetalbloodHeart.label>
+  <RevenantVertebrae.description>ხერხემლის პროთეზი, რომელიც საშუალებას აძლევს მომხმარებელს დროებით გახდეს უხილავი. პროთეზი დამზადებულია მოდიფიცირებული რევენანტი ხერხემლისგან და იყენებს არქოტექნიკის ნატეხებს მიძინებული რევენანტის შესაკავებლად. მომხმარებელს შეუძლია მანიპულირება მოახდინოს მახლობლად მყოფთა ვიზუალური ცენტრებით, ფაქტობრივად, უხილავი გახდეს მცირე ხნით.</RevenantVertebrae.description>
+  <RevenantVertebrae.label>გამობრუნებული ხერხემლიანები</RevenantVertebrae.label>
+  <UnfinishedHealthItemGhoul.description>დაუმთავრებელი ღორის პროთეზი.</UnfinishedHealthItemGhoul.description>
+  <UnfinishedHealthItemGhoul.label>დაუმთავრებელი ღორის პროთეზი</UnfinishedHealthItemGhoul.label>
+</LanguageData>

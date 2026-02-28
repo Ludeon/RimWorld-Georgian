@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Animals.description>დააკონფიგურირეთ, როგორ უნდა მოექცნენ კოლონიის თავმდაბალ ცხოველებს.</Animals.description>
+  <Animals.label>ცხოველები</Animals.label>
+  <Architect.description>მიუთითეთ სად უნდა აშენდეს, ფერმა, შეინახოს ნივთები და ა.შ.</Architect.description>
+  <Architect.label>არქიტექტორი</Architect.label>
+  <Assign.description>მიანიჭეთ კოლონისტებს ისეთი ქცევები, როგორიცაა რა უნდა ატარონ, რა წამლები მიიღონ ან როგორ უპასუხონ მტრებს.</Assign.description>
+  <Assign.label>დაავალოს</Assign.label>
+  <Factions.description>გადახედეთ ამ სამყაროს სხვა ფრაქციებს და მათ ურთიერთობებს.</Factions.description>
+  <Factions.label>ფრაქციები</Factions.label>
+  <History.description>გადახედეთ ისტორიულ ჩანაწერებს.</History.description>
+  <History.label>ისტორია</History.label>
+  <Inspect.label>შეამოწმოს</Inspect.label>
+  <Menu.description>შეცვალეთ ოფციები, შეინახეთ, ჩატვირთეთ ან თამაში დატოვეთ.</Menu.description>
+  <Menu.label>მენიუ</Menu.label>
+  <Quests.description>იხილეთ ხელმისაწვდომი, აქტიური და ისტორიული ქვესტები.</Quests.description>
+  <Quests.label>ქვესტი</Quests.label>
+  <Research.description>შეისწავლეთ და გადაწყვიტეთ კვლევითი პროექტები.</Research.description>
+  <Research.label>კვლევა</Research.label>
+  <Schedule.description>დაგეგმეთ კოლონისტების აქტივობები დღის გარკვეულ დროში და დააწესეთ მათი ნებადართული ადგილები.</Schedule.description>
+  <Schedule.label>განრიგი</Schedule.label>
+  <Wildlife.description>ჩამოთვალეთ რაიონში არსებული გარეული ცხოველები და დანიშნეთ ისინი სანადიროდ ან მოსათვინიერებლად.</Wildlife.description>
+  <Wildlife.label>ველური ბუნება</Wildlife.label>
+  <Work.description>აირჩიეთ რომელი კოლონისტი რა სახის სამუშაოს ასრულებს და რა თანმიმდევრობით.</Work.description>
+  <Work.label>მუშაობა</Work.label>
+  <World.description>შეისწავლეთ მსოფლიო რუკა, ჩამოაყალიბეთ და მართეთ ქარავნები.</World.description>
+  <World.label>მსოფლიო</World.label>
+</LanguageData>

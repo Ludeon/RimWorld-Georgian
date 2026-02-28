@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Artilleryman28.description>[PAWN_nameDef]-მა დატვირთა ჭურვები და დაუმიზნა არტილერიას [PAWN_possessive] არმიის მტრების დასარტყმელად შორიდან.</Artilleryman28.description>
+  <Artilleryman28.title>არტილერისტი</Artilleryman28.title>
+  <Artilleryman28.titleFemale>არტილერისტი ქალი</Artilleryman28.titleFemale>
+  <Artilleryman28.titleShort>არტილერისტი</Artilleryman28.titleShort>
+  <BrokenSoldier29.description>[PAWN_pronoun] was a strong soldier in a long war of succession. In [PAWN_possessive] final battle, [PAWN_possessive] unit was sacrificed to cover a retreat. [PAWN_nameDef] watched [PAWN_possessive] comrades die and was the only survivor.
+\nThe experience broke [PAWN_objective] inside, leaving [PAWN_objective] without the coping strategies to moderate [PAWN_possessive] emotions.
+\n[PAWN_nameDef] learned to draw in the hospital.</BrokenSoldier29.description>
+  <BrokenSoldier29.title>გატეხილი ჯარისკაცი</BrokenSoldier29.title>
+  <BrokenSoldier29.titleShort>ჯარისკაცი</BrokenSoldier29.titleShort>
+  <Demolitionist39.description>[PAWN_nameDef] აწარმოებდა და აყენებდა ასაფეთქებელ ნივთიერებებს, რომლებიც გამოიყენებოდა მტრის თავდაცვის გასარღვევად. ასაფეთქებელ ნივთიერებებთან ყოველდღიურად მუშაობა ასწავლიდა [PAWN_objective] დონის თავისა და სტაბილური ხელის შენარჩუნებას.</Demolitionist39.description>
+  <Demolitionist39.title>დემონტაჟისტი</Demolitionist39.title>
+  <Demolitionist39.titleShort>დემონტაჟისტი</Demolitionist39.titleShort>
+  <Deserter65.description>უამრავი ბრძოლის შემდეგ იმ მიზეზით, რისი მიზეზიც [PAWN_pronoun] არ სჯეროდა, [PAWN_nameDef] დააგდო [PAWN_possessive] იარაღი და მიატოვა. [PAWN_nameDef] იზოლირებულად ცხოვრობდა, ნადირობდა ისინი, ვინც [PAWN_pronoun] მიტოვებულები იყვნენ.</Deserter65.description>
+  <Deserter65.title>დეზერტირი</Deserter65.title>
+  <Deserter65.titleShort>დეზერტირი</Deserter65.titleShort>
+  <DisgracedOfficer19.description>[PAWN_nameDef] was an officer in an imperial battalion. [PAWN_pronoun] developed the social and combat skills to do [PAWN_possessive] job well and was respected by the men.
+\nWhen [PAWN_possessive] unit came under direct fire for the first time, [PAWN_nameDef] fled to a bunker and hid. [PAWN_pronoun] was demoted and never escaped the disgrace.</DisgracedOfficer19.description>
+  <DisgracedOfficer19.title>შერცხვენილი ოფიცერი</DisgracedOfficer19.title>
+  <DisgracedOfficer19.titleShort>ოფიცერი</DisgracedOfficer19.titleShort>
+  <Firebomber51.description>[PAWN_nameDef] piloted a small fighter-bomber design specialized in spreading incendiary gel on flammable targets.
+\nConditioned to love the sight of a target lighting up, [PAWN_pronoun] grew to love fire in all its forms - war, cooking, and even for cauterizing wounds in the hospital.</Firebomber51.description>
+  <Firebomber51.title>ცეცხლსასროლი იარაღი</Firebomber51.title>
+  <Firebomber51.titleShort>ცეცხლსასროლი იარაღი</Firebomber51.titleShort>
+  <InfantryEngineer46.description>მიუხედავად ქვეითი ბატალიონში ყოფნისა, [PAWN_nameDef] იშვიათად ისროდა იარაღს. [PAWN_possessive] სპეციალობა იყო თავდაცვითი, ხაფანგების, თავდაცვითი დანადგარებისა და ასაღები გვირაბების სწრაფი მშენებლობა.</InfantryEngineer46.description>
+  <InfantryEngineer46.title>ქვეითი ინჟინერი</InfantryEngineer46.title>
+  <InfantryEngineer46.titleShort>ინჟინერი</InfantryEngineer46.titleShort>
+  <InfantryMedic6.description>[PAWN_nameDef] მკურნალობდა [PAWN_possessive] დაღუპული თანამებრძოლების საბრძოლო ჭრილობებს.</InfantryMedic6.description>
+  <InfantryMedic6.title>ქვეითი მედიკოსი</InfantryMedic6.title>
+  <InfantryMedic6.titleShort>მედიკოსი</InfantryMedic6.titleShort>
+  <InfantryOfficer49.description>[PAWN_nameDef] იყო იმპერიული ბატალიონის ოფიცერი. [PAWN_pronoun]-მა განუვითარა სოციალური და საბრძოლო უნარები, რათა კარგად შეესრულებინა [PAWN_possessive] სამუშაო და მას პატივს სცემდნენ მამაკაცები.</InfantryOfficer49.description>
+  <InfantryOfficer49.title>ქვეითი ოფიცერი</InfantryOfficer49.title>
+  <InfantryOfficer49.titleShort>ოფიცერი</InfantryOfficer49.titleShort>
+  <IntelligenceAgent21.description>[PAWN_nameDef] იყო მაღალი რანგის კონტრდაზვერვის აგენტი, რომელსაც ევალებოდა მტრის ჯაშუშების ჩაშლა.</IntelligenceAgent21.description>
+  <IntelligenceAgent21.title>დაზვერვის აგენტი</IntelligenceAgent21.title>
+  <IntelligenceAgent21.titleShort>ინტელი</IntelligenceAgent21.titleShort>
+  <LineInfanteer20.description>[PAWN_nameDef] was an ordinary infanteer in an imperial battalion.
+\nConscripted at a young age to add bodies the army, [PAWN_nameDef] learned the methods of fighting well enough to satisfy [PAWN_possessive] officers. However, [PAWN_pronoun] never quite understood what was going on around [PAWN_objective] enough to really believe in it.</LineInfanteer20.description>
+  <LineInfanteer20.title>ხაზის ჩვილი</LineInfanteer20.title>
+  <LineInfanteer20.titleShort>ჩვილი ბავშვი</LineInfanteer20.titleShort>
+  <LoyalJanissary59.description>[PAWN_nameDef] იყო იანიჩარი დიდი ბატონის არმიაში. უფრო მეტად, ვიდრე სხვა ჯარები, [PAWN_pronoun] გრძნობდა მოვალეობის გრძნობას და [PAWN_pronoun] მიითვისა [PAWN_possessive] ცხოვრების აზრი იმ ძალისხმევით, რომელიც [PAWN_pronoun] შეასრულა [PAWN_possessive] მოვალეობა.</LoyalJanissary59.description>
+  <LoyalJanissary59.title>ერთგული იანიჩარი</LoyalJanissary59.title>
+  <LoyalJanissary59.titleShort>იანიჩარი</LoyalJanissary59.titleShort>
+  <MilitaryChaplain10.description>[PAWN_nameDef] stayed with the troops in training and in combat, administering to the dying and reinforcing the faith of the living.
+\nLike all imperial chaplains, [PAWN_pronoun] vowed never to fight [PAWN_objective]self. However, [PAWN_pronoun] acted as a medic and treated the wounded.</MilitaryChaplain10.description>
+  <MilitaryChaplain10.title>სამხედრო კაპელანი</MilitaryChaplain10.title>
+  <MilitaryChaplain10.titleShort>კაპელანი</MilitaryChaplain10.titleShort>
+  <MilitaryCommissar71.description>[PAWN_nameDef] იყო შიდა ჯაშუშური იმპერიული არმიის ბატალიონში. [PAWN_pronoun] დარწმუნდა, რომ კაცები ერთგულები იყვნენ და უკან არ დაბრუნდნენ, თუ უბრძანებდნენ. ამან [PAWN_objective] არაპოპულარული გახადა, მაგრამ [PAWN_pronoun] მოიპოვა დიდი უნარი ოდნავი არაკეთილსინდისიერების გამოვლენაში.</MilitaryCommissar71.description>
+  <MilitaryCommissar71.title>სამხედრო კომისარი</MilitaryCommissar71.title>
+  <MilitaryCommissar71.titleShort>კომისარი</MilitaryCommissar71.titleShort>
+  <MilitaryCook18.description>They say an army marches on its stomach. [PAWN_nameDef]'s job was to prepared chow to keep [PAWN_possessive] unit marching, no matter the conditions.
+\nThe job required [PAWN_objective] to pay attention to both the nutritional and psychological needs of the troops.</MilitaryCook18.description>
+  <MilitaryCook18.title>სამხედრო მზარეული</MilitaryCook18.title>
+  <MilitaryCook18.titleShort>ჯარის მზარეული</MilitaryCook18.titleShort>
+  <PiousSoldier67.description>როდესაც არ ვარჯიშობდა ან არ იბრძოდა, [PAWN_nameDef] ხშირად იყო კაპელანის გვერდით. [PAWN_pronoun]-მა მიუძღვნა [PAWN_possessive] სიცოცხლე როგორც [PAWN_possessive] უფლისა და [PAWN_possessive] რელიგიის მსახურებას.</PiousSoldier67.description>
+  <PiousSoldier67.title>ღვთისმოსავი ჯარისკაცი</PiousSoldier67.title>
+  <PiousSoldier67.titleShort>ღვთისმოსავი ჯარისკაცი</PiousSoldier67.titleShort>
+  <Propagandist86.description>[PAWN_nameDef] იყო გამოცდილი ხელოვანი და სამხედრო პროპაგანდისტი. [PAWN_pronoun] შექმნა ხელოვნების ნიმუშები, რომლებიც ასახავს [PAWN_მფლობელობაში] ბატონებს და არმიებს დადებითად.</Propagandist86.description>
+  <Propagandist86.title>პროპაგანდისტი</Propagandist86.title>
+  <Propagandist86.titleShort>პროპაგანდისტი</Propagandist86.titleShort>
+  <ReconSniper89.description>[PAWN_nameDef] იყო პროფესიონალი სამხედრო სნაიპერი. [PAWN_pronoun] გაწვრთნილი იყო იმისთვის, რომ სწრაფად მიეღწია მოულოდნელ საცეცხლე პოზიციებზე, სნაიფის საკვანძო სამიზნეებზე და გაქცევაზე, სანამ მტრები შეძლებდნენ [PAWN_possessive] მდებარეობის განსაზღვრას.</ReconSniper89.description>
+  <ReconSniper89.title>სნაიპერი</ReconSniper89.title>
+  <ReconSniper89.titleShort>სნაიპერი</ReconSniper89.titleShort>
+  <RoyalGuard51.description>[PAWN_nameDef] guarded the personal palace of a powerful lord.
+\nWhile violence was rare, palace intrigue was constant. [PAWN_nameDef]'s work taught [PAWN_pronoun] to handle both words and guns.</RoyalGuard51.description>
+  <RoyalGuard51.title>სამეფო მცველი</RoyalGuard51.title>
+  <RoyalGuard51.titleShort>მცველი</RoyalGuard51.titleShort>
+  <Shipcracker37.description>[PAWN_nameDef]'s role was to launch through the vacuum of space, land on the enemy ship's hull, punch holes to the interior, and conquer it in room-to-room combat. [PAWN_pronoun] became very good at wielding heavy cataphract weapons to cut both steel and flesh.
+\n[PAWN_pronoun] also developed a taste for the drugs [PAWN_pronoun] used to cope with the overwhelming stress.</Shipcracker37.description>
+  <Shipcracker37.title>გემთმტეხი</Shipcracker37.title>
+  <Shipcracker37.titleShort>გემთმტეხი</Shipcracker37.titleShort>
+  <Warmonger35.description>[PAWN_nameDef] ტკბებოდა სისხლისღვრით. ჯარისკაცები, რომლებიც [PAWN_objective]-თან ერთად მსახურობდნენ, ეშინოდათ [PAWN_possessive] სისასტიკის. ისინი იშვიათად ახდენდნენ სოციალიზაციას [PAWN_nameDef]-თან და [PAWN_pronoun] არ აწუხებდა იზოლაციას.</Warmonger35.description>
+  <Warmonger35.title>მებრძოლი</Warmonger35.title>
+  <Warmonger35.titleShort>მებრძოლი</Warmonger35.titleShort>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chemical.label>ქიმიური მოხმარება</Chemical.label>
+  <Gaming_Cerebral.label>ცერებრალური თამაში</Gaming_Cerebral.label>
+  <Gaming_Dexterity.label>მოხერხებულობის თამაში</Gaming_Dexterity.label>
+  <Gluttonous.label>საკვების მოხმარება</Gluttonous.label>
+  <HighCulture.label>მუსიკა</HighCulture.label>
+  <Meditative.label>მარტოხელა დასვენება</Meditative.label>
+  <Reading.label>კითხვა</Reading.label>
+  <Social.label>სოციალური ინტერაქცია</Social.label>
+  <Telescope.label>ტელესკოპის შესწავლა</Telescope.label>
+  <Television.label>ტელევიზორის ყურება</Television.label>
+</LanguageData>

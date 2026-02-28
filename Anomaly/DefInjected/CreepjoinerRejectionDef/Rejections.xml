@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AggressiveRejection.label>აგრესიული</AggressiveRejection.label>
+  <AggressiveRejection.letterLabel>{PAWN_nameDef} მტრულად განწყობილი</AggressiveRejection.letterLabel>
+  <Departure.label>გამგზავრება</Departure.label>
+  <Departure.letterLabel>{PAWN_nameDef} გამგზავრება</Departure.letterLabel>
+</LanguageData>

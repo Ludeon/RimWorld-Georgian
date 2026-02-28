@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <GravcoreAbandonedSettlementRaid>{FACTION_pawnsPlural} {FACTION_name}-დან უტევს! მათ გამოიყენეს გრავკორი, რათა ჩასაფრებულები მოგატყუონ.</GravcoreAbandonedSettlementRaid>
+  <GravcoreAbandonedSettlementRaid_Reinforcements>მეტი გაძლიერება გზაშია და უახლოეს დღეებში ჩამოვა. მოემზადეთ მათი თავდასხმისთვის, ან გაიქცეთ მათ მოსვლამდე.</GravcoreAbandonedSettlementRaid_Reinforcements>
+  
+  <GravcoreMechRelayRaidLetterLabel>სარელეო თავდაცვის პასუხი</GravcoreMechRelayRaidLetterLabel>
+  <GravcoreMechRelayRaidLetterText>მექანოიდები მოდიან რელეს დასაცავად!\n\nისინი ჩამოდიან სატრანსპორტო რგოლებით და დაუყოვნებლივ შეუტევენ.</GravcoreMechRelayRaidLetterText>
+  
+  <GravEngineInspectedLetterContents>ჩამოვარდნილი მექანოიდური პლატფორმის ნარჩენებს შორის, ჯერ კიდევ ხელუხლებელი გრავიტაციული ძრავა ენერგიით გუგუნებს.\n\nშეგიძლიათ ძრავის ირგვლივ ააწყოთ საზიდავი ქვესტრუქტურა, რომ შექმნათ ახალი საზიდავი. ძრავა უბიძგებს გრავიტაციას, აფრქვევს გემს და საშუალებას აძლევს შორ მანძილზე მგზავრობას.\n\nგაუშვით გრავიტაცია ძირითადი გრავიტექნიკის გამოკვლევით, შემდეგ საწვავის ავზების, მამოძრავებელი აპარატების და საპილოტე კონსოლის შექმნით.\n\nგავმომარაგების გაშვება მიატოვებს თქვენს ამჟამინდელ რუკას, თუ ჯერ არ ააწყობთ grav anchor-ს.\n\n-ის გახსნა. საფლავის ქვეკონსტრუქცია</GravEngineInspectedLetterContents>
+  <ViewQuest>ქვესტის ნახვა</ViewQuest>
+  
+  
+  <AsteroidLetter>{RESOURCE} ასტეროიდი</AsteroidLetter> 
+  <AsteroidLetterText>თქვენ აღმოაჩინეთ პლანეტის გარშემო მოძრავი ასტეროიდის მდებარეობა. ის შეიცავს {RESOURCE}-ის მნიშვნელოვან რაოდენობას და პოტენციურად სხვა რესურსებს.\n\nორბიტალური მაღაროელები ძვირფას ასტეროიდებს პლანეტის ორბიტაში ატარებენ, რათა მათი ადვილად მოპოვება და გაყიდვა ორბიტალური მოვაჭრეებისთვის იყოს შესაძლებელი. ამ ასტეროიდიდან სიცოცხლის ნიშანს ვერ აღმოაჩენთ.\n\nასტეროიდამდე შეგიძლიათ მიხვიდეთ სატრანსპორტო ღობეებით, შატლებით ან სამარხით.</AsteroidLetterText>
+
+  <AsteroidName>{RESOURCE} ასტეროიდი</AsteroidName>
+
+  
+  <AncientReactorArrivedLetter>უძველესი რეაქტორი</AncientReactorArrivedLetter>
+  <AncientReactorArrivedLetterText>უძველესი რეაქტორი იმალება ახლომდებარე ნანგრევებში. რეაქტორი დაზიანებულია და ჟონავს, რის შედეგადაც რეგიონი ტოქსიკური ნალექით არის დაფარული. იპოვნეთ და გამორთეთ რეაქტორი გრავკორის მისაღებად და ვარდნის შესაჩერებლად.</AncientReactorArrivedLetterText>
+
+  
+  <FrozenTerraformerArrivedLetter>უძველესი ტერაფორმატორი</FrozenTerraformerArrivedLetter>
+  <FrozenTerraformerArrivedLetterText>გაუმართავი ტერაფორმერი მყარ ყინულშია ჩასმული. gravcore ენერგიის სიგნალი სადღაც შიგნიდან მოდის. იპოვეთ და გაანადგურეთ ტერაფორმერი გრავკორის მისაღებად.</FrozenTerraformerArrivedLetterText>
+
+  
+  <AncientStockpileArrivedLetter>უძველესი მარაგი</AncientStockpileArrivedLetter>
+  <AncientStockpileArrivedLetterText>gravcore ენერგიის სიგნალი მოდის ერთ-ერთი ახლომდებარე მიწისქვეშა მარაგიდან. გატეხეთ სადარბაზოები და მოძებნეთ მარაგები, რომ იპოვოთ გრავკორი.\n\nფრთხილად იყავით, ზოგიერთი თავდაცვის სისტემა შესაძლოა კვლავ აქტიური იყოს.</AncientStockpileArrivedLetterText>
+
+  
+  <OrbitalMechanoidPlatformLetterArrived>მექანიკური პლატფორმა</OrbitalMechanoidPlatformLetterArrived>
+  <OrbitalMechanoidPlatformLetterArrivedText>ეს ორბიტალური პლატფორმა შექმნილია საბრძოლო მექანოიდების მომსახურებისა და განლაგებისთვის, სავარაუდოდ, როგორც უძველესი პლანეტაზე გაშლილი საბრძოლო მანქანის ნაწილი.\n\nგრავკორის სიგნალი სადღაც შიგნიდან მოდის.</OrbitalMechanoidPlatformLetterArrivedText>
+
+  
+  <OrbitalAncientPlatformLetterArrived>უძველესი პლატფორმა</OrbitalAncientPlatformLetterArrived>
+  <OrbitalAncientPlatformLetterArrivedText>ადამიანები, რომლებიც ოდესღაც ბინადრობდნენ ამ ორბიტალურ პლატფორმაზე, დიდი ხანია გაქრა და მისი თავდაპირველი დანიშნულება დიდი ხანია დავიწყებულია.\n\nგრავკორის სიგნალი სადღაც შიგნიდან მოდის.</OrbitalAncientPlatformLetterArrivedText>
+  
+  
+  <CrashedPlatformArrivedLetter>ჩამოვარდა მექანოიდური პლატფორმა</CrashedPlatformArrivedLetter>
+  <CrashedPlatformArrivedLetterText>ორბიტალური პლატფორმის ნაშთები მიმოფანტულია იქვე. ფრთხილად იყავით, ნამსხვრევები შეიცავს მტრულ მექანოიდებს.\n\nგრავკორის სიგნალი მოდის სადღაც ავარიის ადგილიდან.</CrashedPlatformArrivedLetterText>
+
+  
+  <LetterLabelLavaEmergence>ლავის გაჩენა</LetterLabelLavaEmergence>
+  <LetterLavaEmergence>ლავა გამოდის მიწის ნაპრალებიდან! ის გააგრძელებს გაერთიანებას, სანამ არ შექმნის პატარა ტბას. შემდეგ გაგრილებას რამდენიმე დღე დასჭირდება, რის შემდეგაც მისი ამოღება შესაძლებელია.</LetterLavaEmergence>
+  <LetterLabelLavaFlow>ლავის ნაკადი</LetterLabelLavaFlow>
+  <LetterLavaFlow>რეგიონში ლავამ დაიწყო ჩაღვრა და დატბორა ვულკანური კლდე. შეინახეთ თქვენი კოლონისტები საფრთხისგან!</LetterLavaFlow>
+
+  
+  <LetterLabelSeasonalFlooding>სეზონური წყალდიდობა</LetterLabelSeasonalFlooding>
+  <LetterSeasonalFlooding>ნალექი ზევით იწვევს მდინარის ადიდებას. წყალდიდობა რამდენიმე დღის შემდეგ შემცირდება.</LetterSeasonalFlooding>
+  <MessageSeasonalFloodingFrozen>დაბალმა ტემპერატურამ მდინარის გაყინვა დაიწყო. წყალდიდობა იკლებს.</MessageSeasonalFloodingFrozen>
+  <MessageFloodingSubsiding>წყალდიდობა იკლებს.</MessageFloodingSubsiding>
+
+  
+  <LetterLabelRareCatch>იშვიათი დაჭერა</LetterLabelRareCatch>
+  <LetterTextRareCatch>თევზაობისას {PAWN_nameDef}-მა უჩვეულო დაჭერა გააკეთა</LetterTextRareCatch>
+
+  
+  <LetterLabelMechanoidThreat>შემომავალი მექანოიდები</LetterLabelMechanoidThreat>
+  <LetterTextMechanoidThreat>Mechhive-ის სკანირების პროცესი ახლოს არის თქვენი მდებარეობის დადგენასთან. როდესაც ის აღმოაჩენს თქვენს სამარხს, ის გამოგიგზავნით უზარმაზარ მექანოიდურ ძალას თქვენს მოსაკლავად.\n\nშეაგროვეთ თქვენი მარაგი, შემდეგ გაიქცეთ რუკაზე პილოტის კონსოლის არჩევით და გაშვების არჩევით.</LetterTextMechanoidThreat>
+
+  
+  <LetterLabelMechhiveWarning>მეხივის სიგნალი</LetterLabelMechhiveWarning>
+  <LetterTextMechhiveWarning>თქვენ აღმოაჩინეთ გრავტექს ენერგიის მასიური მაჩვენებელი, რომელიც მიუთითებს იმაზე, რომ მეხივი იმალება სადღაც ორბიტაზე. თუ იპოვნეთ, შეგიძლიათ გამორთოთ იგი - ან გამოიყენოთ მისი ძალა.\n\nMechhives წარმოებისა და კონტროლის პლატფორმებია, რომლებიც შობს მექანიზმებს და კოორდინაციას უწევს მათ მოქმედებებს პლანეტის გარშემო. ისინი იკვებება პერსონაჟის ბირთვით.\n\nშეაგროვეთ მეტი gravship ტექნოლოგია, რათა თვალყური ადევნოთ მეხივის მდებარეობას.</LetterTextMechhiveWarning>
+
+  <OrbitalMechhiveLetterArrived>ცერებრექსის ბირთვი</OrbitalMechhiveLetterArrived>
+  <OrbitalMechhiveLetterArrivedText>ორბიტალური პლატფორმის ცენტრში დგას მასიური მექანოიდური სტრუქტურა, რომელიც დამზადებულია თმის თხელი ულტრატექნიკური ძაფებისგან, რომელიც მხარს უჭერს ხელოვნური ინტელექტის პერსონალის ბირთვს. ეს არის მეხივის დაზვერვის ბირთვი, რომელიც მართავს მექანოიდებს მთელ პლანეტაზე.\n\nსტრუქტურა დაცულია ახლომდებარე სტაბილიზატორებით, რაც მას თითქმის დაუცველს ხდის. იპოვეთ და გაანადგურეთ ცერებრექსის სტაბილიზატორები, რათა შეამცირონ ბირთვის დაცვა.</OrbitalMechhiveLetterArrivedText>
+
+  <MechhiveRaidLetterLabel>მექანიკური თავდასხმა</MechhiveRaidLetterLabel>
+  <MechhiveRaidLetterText>ცერებრექსის ბირთვი აგზავნის მექანოიდებს თქვენზე თავდასხმისთვის. მოემზადე!</MechhiveRaidLetterText>
+
+  <MechhiveDefenseResponseLetterLabel>თავდაცვის პასუხი</MechhiveDefenseResponseLetterLabel>
+  <MechhiveDefenseResponseLetterText>მექანოიდურმა სკამ გამოიძახა მექანოიდური გამაგრება თავის დასაცავად. ისინი ჩამოდიან სატრანსპორტო საშუალებით და სასწრაფოდ თავს დაესხმებიან!</MechhiveDefenseResponseLetterText>
+
+  <CerebrexCoreLoweredLetterLabel>ცერებრექსის ბირთვი</CerebrexCoreLoweredLetterLabel>
+  <CerebrexCoreLoweredLetterText>სტაბილიზატორების განადგურებით, თქვენ შეამცირეთ ცერებრექსის ბირთვის დაცვა. გაგზავნეთ კოლონისტი ბირთვის შესამოწმებლად.</CerebrexCoreLoweredLetterText>
+
+  <CerebrexCoreDestroyedLetterLabel>მექანოიდები გამორთულია</CerebrexCoreDestroyedLetterLabel>
+  <CerebrexCoreDestroyedLetterText>ცერებრექსის ბირთვის განადგურებით {PAWN_nameDef}-მა გააუქმა მექანოიდები მთელ პლანეტაზე.\n\nმექანოიდური საფრთხე დასრულდა.</CerebrexCoreDestroyedLetterText>
+
+  <CerebrexCoreScavengedLetterLabel>ცერებრექსის კვანძი</CerebrexCoreScavengedLetterLabel>
+  <CerebrexCoreScavengedLetterText>ცერებრექსის ბირთვიდან ამოღებული კვანძი ახლოს მდებარეობს. ის მკაცრად პასუხობს ბირთვს, აშკარად ჯერ კიდევ მასთან დაკავშირებული.\n\nაღჭურვა კვანძი კოლონისტთან, რათა გამოიყენოს იგი.</CerebrexCoreScavengedLetterText>
+
+  
+  <LetterLabelGravshipEnteredEnemyBase>შეტევა დაიწყო</LetterLabelGravshipEnteredEnemyBase>
+  <LetterGravshipEnteredEnemyBase>თქვენი გემი დაეშვა {0}-ზე და მზად არის შეტევის დასაწყებად.</LetterGravshipEnteredEnemyBase>
+  
+  
+  <LetterLabelSurveyScannerArrived>გეოდეზიური სკანერი</LetterLabelSurveyScannerArrived>
+  <LetterSurveyScannerArrived>დაიცავით სკანერი ტერიტორიის დათვალიერების დასრულებამდე. ამას დასჭირდება {DURATION}.</LetterSurveyScannerArrived>
+  
+  
+  <LetterInspirationBeginPsilocap>ფსილოკაპების მიღების გამო, [PAWN_nameIndef]-მა მიიღო შთაგონება!</LetterInspirationBeginPsilocap>
+  <MentalBreakReason_Psilocap>ეს მოხდა ფსილოკაპების მიღების გამო.</MentalBreakReason_Psilocap>
+
+  <EnteredMegahiveLabel>მწერების ბუნაგი</EnteredMegahiveLabel>
+  <EnteredMegahiveText>{PAWN_nameDef} ჩავიდა მწერების მასიური მიწისქვეშა ბუნაგის სიღრმეში. ჰაერი მძიმეა მწერების გამონადენის სუნით.</EnteredMegahiveText>
+  <EnteredMegahiveGravcoreExtra>გრავკორის სიგნალი სადღაც ბურუსის კედლების მიღმა მოდის. შეუტიეთ ბურუსის კედლებს შემდგომი შესასწავლად.</EnteredMegahiveGravcoreExtra>
+
+</LanguageData>

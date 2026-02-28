@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimaTreeLinking.roles.0.label>დამაკავშირებელი</AnimaTreeLinking.roles.0.label>
+  <AnimaTreeLinking.spectatorFilter.description>უნდა ჰქონდეს ბუნებრივი ფოკუსის ტიპი.</AnimaTreeLinking.spectatorFilter.description>
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort} is giving a speech from the throne.
+\nIf all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities.</ThroneSpeech.letterText>
+  <ThroneSpeech.roles.0.label>ორგანიზატორი</ThroneSpeech.roles.0.label>
+</LanguageData>

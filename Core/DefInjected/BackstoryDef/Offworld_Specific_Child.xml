@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ApocalypseSurvivor23.description>[PAWN_nameDef] დაიბადა არეულობის დროს [PAWN_possessive] საშინაო სამყაროში, რადგან კლიმატის ცვლილება ემუქრებოდა მასობრივ შიმშილს და წყალდიდობას. როგორც [PAWN_pronoun] იზრდებოდა სიტუაცია გაუარესდა - მილიარდები დაიღუპნენ და მშვიდობიანი სახელმწიფოები ანარქიაში ჩავარდა. [PAWN_nameDef] და [PAWN_possessive] მშობლებმა გააკეთეს ყველაფერი, რაც უნდა გაეკეთებინათ გადარჩენისთვის.</ApocalypseSurvivor23.description>
+  <ApocalypseSurvivor23.title>აპოკალიფსის გადარჩენილი</ApocalypseSurvivor23.title>
+  <ApocalypseSurvivor23.titleShort>გადარჩენილი</ApocalypseSurvivor23.titleShort>
+  <CaveworldTender26.description>[PAWN_nameDef] გაიზარდა გამოქვაბულების კომპლექსში, არასასიამოვნო სამყაროს ზედაპირის ქვეშ. [PAWN_pronoun] სხვა ბავშვებთან ერთად მუშაობდა ტომის სოკოების მოსავლელად.</CaveworldTender26.description>
+  <CaveworldTender26.title>გამოქვაბულის სამყაროს ტენდერი</CaveworldTender26.title>
+  <CaveworldTender26.titleShort>გამოქვაბულის ბავშვი</CaveworldTender26.titleShort>
+  <CaveworldTunneler48.description>[PAWN_nameDef] უზარმაზარ მიწისქვეშა გამოქვაბულების კომპლექსში მთხრელად მუშაობდა.\n\n[PAWN_pronoun] ქვას იმდენად კარგად იცნობს, რომ თითქმის სუნითაც კი შეუძლია გამოქვაბულებში გზის პოვნა.</CaveworldTunneler48.description>
+  <CaveworldTunneler48.title>გამოქვაბულის სამყაროს გვირაბი</CaveworldTunneler48.title>
+  <CaveworldTunneler48.titleShort>გვირაბი</CaveworldTunneler48.titleShort>
+  <IndustrialOrphan13.description>[PAWN_nameDef]-ს მშობლები არასდროს უნახავს. [PAWN_possessive] ყველაზე ადრეული მოგონებები [PAWN_possessive] ინდუსტრიული სამყაროს მაღაროებსა და სამუშაო სახლებში გატარებულ მძიმე შრომას უკავშირდება.\n\nამის გამო [PAWN_pronoun]-ს ნორმალური განათლება არასდროს მიუღია.</IndustrialOrphan13.description>
+  <IndustrialOrphan13.title>სამრეწველო ობოლი</IndustrialOrphan13.title>
+  <IndustrialOrphan13.titleShort>ობოლი</IndustrialOrphan13.titleShort>
+  <Scout44.description>რიმვორლდის კოლონიის ადმინისტრატორების ოჯახში დაბადებული [PAWN_nameDef] ახალგაზრდულ პროგრამაში ჩარიცხეს, სადაც სამხედრო მზვერავის უნარებს ასწავლიდნენ.\n\n[PAWN_pronoun]-მა ისწავლა ველურ ბუნებაში გადარჩენა, მორჩილება და ზედმეტი კითხვების არ დასმა.</Scout44.description>
+  <Scout44.title>მზვერავი</Scout44.title>
+  <Scout44.titleShort>მზვერავი</Scout44.titleShort>
+  <ShelterChild50.description>[PAWN_nameDef] გაიზარდა თავშესაფარში ღრმად ტოქსიკური სამყაროს ქვეშ. [PAWN_pronoun] მიიღო ყოვლისმომცველი განათლება, მაგრამ არ ჰქონდა ფიზიკური შრომის შესაძლებლობა.</ShelterChild50.description>
+  <ShelterChild50.title>თავშესაფარი ბავშვი</ShelterChild50.title>
+  <ShelterChild50.titleShort>თავშესაფარი</ShelterChild50.titleShort>
+  <TestSubject15.description>ყველაზე კორუმპირებულ ქალაქურ სამყაროში, მეცნიერები მორალური კომპასის გარეშე ჩადიან ენით აუწერელ სისასტიკეს კვლევის სახელით. [PAWN_nameDef] დაბადებიდან ინახებოდა მარტო დალუქულ დაწესებულებაში და ჩაუტარდა სხვადასხვა ქცევის ექსპერიმენტებს, რათა [PAWN_objective] სრულყოფილ სუპერ ჯარისკაცად გადაექცია.</TestSubject15.description>
+  <TestSubject15.title>ტესტის საგანი</TestSubject15.title>
+  <TestSubject15.titleShort>ტესტირებული</TestSubject15.titleShort>
+  <UrbworldUrchin61.description>ურბსამყაროები - უძველესი და ღრმა ინდუსტრიული პეიზაჟები კაცობრიობითა და შხამით სავსე. [PAWN_nameDef] გაიზარდა ასეთი ადგილის ბნელ, არასასურველ მიდამოებში. [PAWN_pronoun] მოუწია ბრძოლა საკვების ყველა ნარჩენისთვის.</UrbworldUrchin61.description>
+  <UrbworldUrchin61.title>urbworld ზღარბი</UrbworldUrchin61.title>
+  <UrbworldUrchin61.titleShort>ჭინჭრის ციება</UrbworldUrchin61.titleShort>
+  <WreckageExplorer93.description>[PAWN_nameDef]-ს დაევალა ყურება [PAWN_possessive] ოჯახის ნახირებზე, მაგრამ ხშირად თავს არიდებდა [PAWN_possessive] მოვალეობებს პლანეტაზე მიმოფანტული ავარიული ხომალდების შესასწავლად.</WreckageExplorer93.description>
+  <WreckageExplorer93.title>ნანგრევების მკვლევარი</WreckageExplorer93.title>
+  <WreckageExplorer93.titleShort>მკვლევარი</WreckageExplorer93.titleShort>
+</LanguageData>

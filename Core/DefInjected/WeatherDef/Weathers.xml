@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Clear.description>ნათელი დღე. არანაირი ჯარიმა ან მოდიფიკატორი.</Clear.description>
+  <Clear.label>ნათელი</Clear.label>
+  <DryThunderstorm.description>მშრალი ჭექა-ქუხილი საშიშია, რადგან ელვას შეუძლია ხანძრის გაჩენა და არ არის წვიმა მათ ჩასაქრობად.</DryThunderstorm.description>
+  <DryThunderstorm.label>მშრალი ჭექა-ქუხილი</DryThunderstorm.label>
+  <Fog.description>ნისლი ამცირებს სროლის იარაღის სიზუსტეს.</Fog.description>
+  <Fog.label>ნისლი</Fog.label>
+  <FoggyRain.description>ამცირებს სიზუსტეს და მოძრაობის სიჩქარეს.</FoggyRain.description>
+  <FoggyRain.label>ნისლიანი წვიმა</FoggyRain.label>
+  <Rain.description>წვიმა ამცირებს სროლის იარაღის სიზუსტეს, აქრობს ცეცხლს და ანელებს ადამიანებს.</Rain.description>
+  <Rain.label>წვიმა</Rain.label>
+  <RainyThunderstorm.description>ელვა აანთებს, მაგრამ წვიმა ჩააქროლებს. წვიმა ასევე ამცირებს მოძრაობის სიჩქარეს და სროლის სიზუსტეს.</RainyThunderstorm.description>
+  <RainyThunderstorm.label>წვიმიანი ჭექა-ქუხილი</RainyThunderstorm.label>
+  <SnowGentle.description>თოვლი ამცირებს სროლის იარაღის სიზუსტეს, აქრობს ცეცხლს და ანელებს ადამიანებს.</SnowGentle.description>
+  <SnowGentle.label>ნაზი თოვლი</SnowGentle.label>
+  <SnowHard.description>თოვლი ამცირებს სროლის იარაღის სიზუსტეს, აქრობს ცეცხლს და ანელებს ადამიანებს.</SnowHard.description>
+  <SnowHard.label>მძიმე თოვლი</SnowHard.label>
+  <Underground.description>მიწისქვეშა ამინდი არ არის.</Underground.description>
+  <Underground.label>მიწისქვეშა</Underground.label>
+</LanguageData>

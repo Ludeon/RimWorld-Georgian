@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BioluminescentSpores.description>სოკოების ზოგიერთი სახეობა ყვავის და ათავისუფლებს ბიოლუმინესცენტურ სპორებს! სპორები უცნაურად ლამაზია და არ წარმოადგენს საფრთხეს.</BioluminescentSpores.description>
+  <BioluminescentSpores.label>ბიოლუმინესცენტური სპორები</BioluminescentSpores.label>
+  <BioluminescentSpores.letterText>სოკოების ზოგიერთი სახეობა ყვავის და ათავისუფლებს ბიოლუმინესცენტურ სპორებს! სპორები არანაირ საშიშროებას არ წარმოადგენს და მბზინავი ვიზუალი გააუმჯობესებს განწყობას ყველას, ვინც მათ ხედავს.</BioluminescentSpores.letterText>
+  <DarkenedSkies.description>სქელი შავი ღრუბლები ბლოკავს ცას და მზეს.</DarkenedSkies.description>
+  <DarkenedSkies.label>ჩაბნელებული ცა</DarkenedSkies.label>
+  <DeepFreeze.description>უძველესი, იდუმალი მოწყობილობა მკვეთრად ამცირებს ტემპერატურას ამ მხარეში.</DeepFreeze.description>
+  <DeepFreeze.label>ღრმა გაყინვა</DeepFreeze.label>
+  <Drought.description>დაბალი ნალექის ხანგრძლივი პერიოდი. გვალვის დროს მცენარე უფრო ნელა გაიზრდება.</Drought.description>
+  <Drought.label>გვალვა</Drought.label>
+  <Drought.letterText>ბოლოდროინდელი წვიმის ნაკლებობის გამო გვალვა დაიწყო. გარე მცენარეები მნიშვნელოვნად ნელა გაიზრდება.</Drought.letterText>
+  <DroughtInitial.description>გვალვის საწყისი ნიშნები. თუ ასე გაგრძელდა, სრული გვალვა მოხდება.</DroughtInitial.description>
+  <DroughtInitial.label>საწყისი გვალვის პირობები</DroughtInitial.label>
+  <GillRot.description>თევზის პოპულაცია ნელ-ნელა მცირდება პარაზიტული სოკოს გამო, რომელიც ცნობილია როგორც ღრძილების ლპობა. სოკო უვნებელია ადამიანებისთვის.</GillRot.description>
+  <GillRot.label>ღრძილების ლპობა</GillRot.label>
+  <GillRot.letterText>A parasitic fungus called gill rot has appeared among the local fish populations. While harmless to humans, the fungus will cause fish populations to steadily decline for some time.\n\nLow fish populations will make fishing less productive.</GillRot.letterText>
+  <HeatVentHeat.description>ახლომდებარე მიწისქვეშა სავენტილაციო სიცხე ამაღლებს ტემპერატურას ტერიტორიაზე.</HeatVentHeat.description>
+  <HeatVentHeat.label>სითბოს სავენტილაციო გამონაბოლქვი</HeatVentHeat.label>
+  <LavaFlow.description>ტერიტორიაზე ლავას ასვლა დაიწყო. ის გადავა დაბალ ვულკანურ კლდეზე, მაგრამ დაზოგავს სხვა რელიეფს. შეინახეთ თქვენი კოლონისტები საფრთხისგან!</LavaFlow.description>
+  <LavaFlow.label>ლავის ნაკადი</LavaFlow.label>
+  <VolcanicAsh.description>ახლომდებარე ვულკანური ამოფრქვევის ფერფლი ავსებს ცას. მზე იკეტება და მჟავე ჰაერი წვავს ფილტვებს. ღრუბელი რამდენიმე დღე გაგრძელდება.</VolcanicAsh.description>
+  <VolcanicAsh.label>ვულკანური ფერფლი</VolcanicAsh.label>
+  <VolcanicAsh.letterText>ახლომდებარე ვულკანური ამოფრქვევის ფერფლი ავსებს ცას. მზე იკეტება და მჟავე ჰაერი წვავს ფილტვებს. ღრუბელი რამდენიმე დღე გაგრძელდება.</VolcanicAsh.letterText>
+  <VolcanicDebris.description>ახლომდებარე ვულკანური ამოფრქვევა ადიდებს რეგიონს გამდნარი ლავით!</VolcanicDebris.description>
+  <VolcanicDebris.label>ვულკანური ნამსხვრევები</VolcanicDebris.label>
+  <VolcanicDebris.letterText>ახლომდებარე ვულკანური ამოფრქვევა ადიდებს რეგიონს გამდნარი ლავით!</VolcanicDebris.letterText>
+  <WindyGameCondition.description>ამ მხარეში ქარი გაცილებით ძლიერია.</WindyGameCondition.description>
+  <WindyGameCondition.label>ქარიანი</WindyGameCondition.label>
+</LanguageData>

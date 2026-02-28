@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientHeatVent.description>უძველესი არხები რეგულარულად გამოჰყოფს სითბოს მიწისქვეშა მეგასტრუქტურიდან, რაც მკვეთრად ზრდის მიმდებარე ტერიტორიის ტემპერატურას.</AncientHeatVent.description>
+  <AncientHeatVent.label>უძველესი სითბოს გამწოვი</AncientHeatVent.label>
+  <AncientQuarry.description>ეს ტერიტორია ოდესღაც მოპოვებული იყო ბუნებრივი რესურსებისთვის და უძველესი კარიერის ნაშთები ჯერ კიდევ აქ არის.</AncientQuarry.description>
+  <AncientQuarry.label>უძველესი კარიერი</AncientQuarry.label>
+  <AncientRuins.description>უძველესი დასახლების ნაშთები. ეს ნანგრევები შეიძლება შეიცავდეს მრავალფეროვან შესაძლო საფრთხეებს.</AncientRuins.description>
+  <AncientRuins.label>ნანგრევები</AncientRuins.label>
+  <AncientRuins_Frozen.description>უძველესი დასახლების ნანგრევები, ახლა მყარ ყინულში ჩასმული. ეს ნანგრევები შეიძლება შეიცავდეს უთქმელ საფრთხეებს.</AncientRuins_Frozen.description>
+  <AncientRuins_Frozen.label>გაყინული ნანგრევები</AncientRuins_Frozen.label>
+  <AncientSmokeVent.description>ამ ზონას აქვს მრავალი მასიური გამონაბოლქვი ხვრელები. უძველესი მექანიზმი, რომელიც ღრმად არის ჩაფლული დედამიწის ქვეშ, ხანდახან გამოყოფს დიდი რაოდენობით კვამლს, ბლოკავს მზეს დღის განმავლობაში.</AncientSmokeVent.description>
+  <AncientSmokeVent.label>უძველესი კვამლის გამწოვი</AncientSmokeVent.label>
+  <AncientToxVent.description>მასიური ტოქსიკური ვენტილატორები რეგულარულად აფრქვევენ ჰაერში ტოქსიკურ ნაკადს. ხვრელები უკავშირდებიან უძველეს სუბსტრუქტურას, რომელიც ღრმად არის ჩაფლული დედამიწის ქვეშ.</AncientToxVent.description>
+  <AncientToxVent.label>უძველესი ტოქსიკური გამწოვი</AncientToxVent.label>
+  <AncientUplink.description>ეს ზონა შეიცავს ზედა ბმულს, რომელიც გამოიყენება დაბალი ორბიტის თანამგზავრთან კომუნიკაციისთვის. ზედა ბმულის გატეხვა გამოავლენს დამალულ ადგილს ორბიტაზე.</AncientUplink.description>
+  <AncientUplink.label>უძველესი აღმავალი</AncientUplink.label>
+  <Harbor.description>მიტოვებული სანაპირო დასახლება.</Harbor.description>
+  <Harbor.label>ნავსადგური</Harbor.label>
+  <Stockpile.description>ეს ტერიტორია შეიცავს რესურსების მიწისქვეშა მარაგს. ფრთხილად იყავით, ზოგიერთი უძველესი თავდაცვის სისტემა შესაძლოა კვლავ აქტიური იყოს.</Stockpile.description>
+  <Stockpile.label>მარაგი</Stockpile.label>
+</LanguageData>

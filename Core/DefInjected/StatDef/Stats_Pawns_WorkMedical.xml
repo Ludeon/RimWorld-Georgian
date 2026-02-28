@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <MedicalOperationSpeed.description>სიჩქარე, რომლითაც პერსონაჟი ასრულებს სამედიცინო ოპერაციებს.</MedicalOperationSpeed.description>
+  <MedicalOperationSpeed.label>სამედიცინო ოპერაციის სიჩქარე</MedicalOperationSpeed.label>
+  <MedicalSurgerySuccessChance.description>საბაზისო შანსი, რომ პერსონაჟი სამედიცინო ოპერაციას წარმატებით ჩაატარებს.\n\nრეალურ წარმატების შანსზე ასევე მოქმედებს გარემო, ოთახის სისუფთავე, გამოყენებული ინსტრუმენტები და სხვა ფაქტორები.</MedicalSurgerySuccessChance.description>
+  <MedicalSurgerySuccessChance.label>სამედიცინო ქირურგიის წარმატების შანსი</MedicalSurgerySuccessChance.label>
+  <MedicalTendQuality.description>საბაზისო მკურნალობის ხარისხი ჭრილობებისა და დაავადებების მოვლისას.\n\nრეალური ხარისხი ასევე დამოკიდებულია გამოყენებულ მედიკამენტზე, პირობებზე, იღბალსა და სხვა ფაქტორებზე.</MedicalTendQuality.description>
+  <MedicalTendQuality.label>სამედიცინო ტენდენციის ხარისხი</MedicalTendQuality.label>
+  <MedicalTendSpeed.description>სიჩქარე, რომლითაც პერსონაჟი მიდრეკილია ჭრილობებისა და დაავადებებისკენ.</MedicalTendSpeed.description>
+  <MedicalTendSpeed.label>სამედიცინო ტენდენცია სიჩქარე</MedicalTendSpeed.label>
+</LanguageData>
