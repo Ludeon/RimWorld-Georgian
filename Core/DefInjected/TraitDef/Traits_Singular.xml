@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Abrasive.degreeDatas.0.description>{PAWN_nameDef} ყოველთვის ზუსტად ამბობს იმას, რაც {PAWN_possessive} გონებაშია, განსაკუთრებით თუ აწუხებს {PAWN_objective}. ეს ადამიანებს არასწორად აფერხებს.</Abrasive.degreeDatas.0.description>
+  <Abrasive.degreeDatas.0.label>აბრაზიული</Abrasive.degreeDatas.0.label>
+  <AnnoyingVoice.degreeDatas.0.description>{PAWN_nameDef}-ის ხმას აქვს განსაკუთრებულად გახეხილი, ცხვირის ხარისხი და {PAWN_pronoun} მიდრეკილია ლაპარაკი ატეხილი, გაუგებარი ფრაზებით. ეს იწვევს სხვებს არ მოსწონდეს {PAWN_objective}.</AnnoyingVoice.degreeDatas.0.description>
+  <AnnoyingVoice.degreeDatas.0.label>შემაშფოთებელი ხმა</AnnoyingVoice.degreeDatas.0.label>
+  <Ascetic.degreeDatas.0.description>{PAWN_nameDef} მიატოვა ფიზიკური კომფორტი და სიამოვნება მარტივი, სუფთა ცხოვრების წესის სასარგებლოდ. {PAWN_pronoun} გახდება უბედური, თუ {PAWN_pronoun}-ს აქვს საძინებელი, რომელიც ძალიან შთამბეჭდავია. {PAWN_pronoun}-ს ასევე არ მოსწონს ლამაზი საკვები და ურჩევნია უმი ჭამა. {PAWN_pronoun} არასოდეს განსჯის სხვებს გარეგნობით.</Ascetic.degreeDatas.0.description>
+  <Ascetic.degreeDatas.0.label>ასკეტური</Ascetic.degreeDatas.0.label>
+  <Asexual.degreeDatas.0.description>{PAWN_nameDef}-ს საერთოდ არ აქვს სექსუალური მიზიდულობა ვინმეს მიმართ.</Asexual.degreeDatas.0.description>
+  <Asexual.degreeDatas.0.label>ასექსუალური</Asexual.degreeDatas.0.label>
+  <Bisexual.degreeDatas.0.description>{PAWN_nameDef} რომანტიკულად იზიდავს როგორც მამაკაცებს, ასევე ქალებს.</Bisexual.degreeDatas.0.description>
+  <Bisexual.degreeDatas.0.label>ბისექსუალი</Bisexual.degreeDatas.0.label>
+  <Bloodlust.degreeDatas.0.description>{PAWN_nameDef} აწუხებს ხალხის ტკივილს და არ აინტერესებს სისხლის ან სიკვდილის ხილვა. {PAWN_pronoun} არის ოთხჯერ მეტი შანსი, რომ დაიწყოს სოციალური ბრძოლა, ვიდრე სხვები.</Bloodlust.degreeDatas.0.description>
+  <Bloodlust.degreeDatas.0.label>სისხლის ლტოლვა</Bloodlust.degreeDatas.0.label>
+  <BodyPurist.degreeDatas.0.description>{PAWN_nameDef} თვლის, რომ ადამიანის სხეული შეზღუდულია გარკვეული მიზეზის გამო. {PAWN_objective}-სთვის სხეულის ხელოვნური ნაწილები და ქსენოგენები არაეთიკური და ამაზრზენი არიან.</BodyPurist.degreeDatas.0.description>
+  <BodyPurist.degreeDatas.0.label>სხეულის გამწმენდი</BodyPurist.degreeDatas.0.label>
+  <Brawler.degreeDatas.0.description>{PAWN_nameDef}-ს უყვარს ახლო და პირადად ჩხუბი. {PAWN_possessive} სიზუსტე საგრძნობლად არის გაზრდილი ორთაბრძოლაში, მაგრამ {PAWN_pronoun} იქნება ძალიან უკმაყოფილო, თუ მოთხოვნილია ატაროს სროლის იარაღი.</Brawler.degreeDatas.0.description>
+  <Brawler.degreeDatas.0.label>კამათელი</Brawler.degreeDatas.0.label>
+  <Cannibal.degreeDatas.0.description>{PAWN_nameDef}-ს ასწავლეს, რომ ადამიანის ხორცის ჭამა არასწორი და საშინელია. მაგრამ ერთხელ, დიდი ხნის წინ, {PAWN_pronoun} სცადა... და {PAWN_pronoun} მოეწონა.</Cannibal.degreeDatas.0.description>
+  <Cannibal.degreeDatas.0.label>კანიბალი</Cannibal.degreeDatas.0.label>
+  <CreepyBreathing.degreeDatas.0.description>{PAWN_nameDef} მუდმივად სუნთქავს და მუდმივად ოფლიანობს. ხალხი მას საშინლად თვლის.</CreepyBreathing.degreeDatas.0.description>
+  <CreepyBreathing.degreeDatas.0.label>საშინელი სუნთქვა</CreepyBreathing.degreeDatas.0.label>
+  <DislikesMen.degreeDatas.0.description>{PAWN_nameDef} ნამდვილად არ მოსწონს და არ ენდობა მამაკაცებს.</DislikesMen.degreeDatas.0.description>
+  <DislikesMen.degreeDatas.0.label>მიზანდრისტი</DislikesMen.degreeDatas.0.label>
+  <DislikesWomen.degreeDatas.0.description>{PAWN_nameDef} ნამდვილად არ მოსწონს და არ ენდობა ქალები.</DislikesWomen.degreeDatas.0.description>
+  <DislikesWomen.degreeDatas.0.label>ქალთმოძულე</DislikesWomen.degreeDatas.0.label>
+  <FastLearner.degreeDatas.0.description>{PAWN_nameDef}-ს აქვს სწავლის უნარი. {PAWN_pronoun} სხვაზე ბევრად სწრაფად არჩევს ნივთებს.</FastLearner.degreeDatas.0.description>
+  <FastLearner.degreeDatas.0.label>სწრაფი შემსწავლელი</FastLearner.degreeDatas.0.label>
+  <Gay.degreeDatas.0.description>{PAWN_nameDef} რომანტიკულად იზიდავს {PAWN_possessive} საკუთარი სქესის ადამიანებს.</Gay.degreeDatas.0.description>
+  <Gay.degreeDatas.0.label>გეი</Gay.degreeDatas.0.label>
+  <Gourmand.degreeDatas.0.description>{PAWN_nameDef}-ის ცხოვრება საკვების გარშემო ტრიალებს. {PAWN_pronoun} სწრაფად შიმშილდება და დროდადრო მას დაძლევს უხამსი ჭამის სურვილი, მაშინაც კი, როცა არ შია.</Gourmand.degreeDatas.0.description>
+  <Gourmand.degreeDatas.0.label>გურმანი</Gourmand.degreeDatas.0.label>
+  <GreatMemory.degreeDatas.0.description>{PAWN_nameDef}-ს აქვს ფანტასტიკური მეხსიერება დეტალებისთვის. {PAWN_pronoun} დაკარგავს გამოუყენებელ უნარებს სხვა ადამიანებთან შედარებით.</GreatMemory.degreeDatas.0.description>
+  <GreatMemory.degreeDatas.0.label>დიდი მეხსიერება</GreatMemory.degreeDatas.0.label>
+  <Greedy.degreeDatas.0.description>{PAWN_nameDef} სჭირდება მართლაც შთამბეჭდავი საძინებელი. {PAWN_pronoun} კარგავს განწყობას, თუ {PAWN_pronoun} არ მიიღებს იმას, რაც {PAWN_pronoun}-ს სურს.</Greedy.degreeDatas.0.description>
+  <Greedy.degreeDatas.0.label>გაუმაძღარი</Greedy.degreeDatas.0.label>
+  <Jealous.degreeDatas.0.description>{PAWN_nameDef}-სთვის დამამცირებელია სხვებზე ნაკლებად შთამბეჭდავი საძინებლის ქონა. {PAWN_pronoun} კარგავს განწყობას, თუ რომელიმე კოლონისტს აქვს უფრო შთამბეჭდავი საძინებელი.</Jealous.degreeDatas.0.description>
+  <Jealous.degreeDatas.0.label>ეჭვიანი</Jealous.degreeDatas.0.label>
+  <Kind.degreeDatas.0.description>{PAWN_nameDef} არის განსაკუთრებულად სასიამოვნო და მომცემი ადამიანი. {PAWN_pronoun} იშვიათად აყენებს შეურაცხყოფას სხვებს ან იწყებს ჩხუბს და ზოგჯერ კეთილ სიტყვებს შესთავაზებს გარშემომყოფთა განწყობას {PAWN_objective}-ის გასაუმჯობესებლად. {PAWN_pronoun} ასევე არასოდეს განსჯის ადამიანებს გარეგნობის მიხედვით.</Kind.degreeDatas.0.description>
+  <Kind.degreeDatas.0.label>კეთილი</Kind.degreeDatas.0.label>
+  <Masochist.degreeDatas.0.description>{PAWN_nameDef}-სთვის არის რაღაც ამაღელვებელი ტკივილის მიღებაში. {PAWN_pronoun} არ იცის რატომ, {PAWN_pronoun} უბრალოდ სხვაგვარად არის მიბმული.</Masochist.degreeDatas.0.description>
+  <Masochist.degreeDatas.0.label>მაზოხისტი</Masochist.degreeDatas.0.label>
+  <NightOwl.degreeDatas.0.description>{PAWN_nameDef}-ს ღამით სიფხიზლე და დღისით ძილი ურჩევნია.\n\n{PAWN_pronoun} განწყობის ბონუსს იღებს, თუ ღამით (23სთ-6სთ) ფხიზლად არის, და განწყობას კარგავს, თუ დღისით (11სთ-18სთ) ფხიზლობს.\n\n{PAWN_pronoun} სიბნელეში ყოფნისთვის განწყობის ჯარიმას არ იღებს.</NightOwl.degreeDatas.0.description>
+  <NightOwl.degreeDatas.0.label>ღამის ბუ</NightOwl.degreeDatas.0.label>
+  <Nimble.degreeDatas.0.description>{PAWN_nameDef} აქვს შესანიშნავი კინესთეტიკური ინტელექტი. {PAWN_pronoun}, როგორც ჩანს, ცეკვავს საფრთხის ირგვლივ წინარებუნებრივი მადლით.</Nimble.degreeDatas.0.description>
+  <Nimble.degreeDatas.0.label>მოხერხებული</Nimble.degreeDatas.0.label>
+  <Nudist.degreeDatas.0.description>{PAWN_nameDef} სარგებლობს თავისუფლების გრძნობით, რომელიც მოდის სიშიშვლისგან. {PAWN_pronoun}-ს შეუძლია გაუმკლავდეს ტანსაცმელს, მაგრამ მის გარეშე უფრო ბედნიერი იქნება.</Nudist.degreeDatas.0.description>
+  <Nudist.degreeDatas.0.label>ნუდისტი</Nudist.degreeDatas.0.label>
+  <Psychopath.degreeDatas.0.description>{PAWN_nameDef} არ აქვს თანაგრძნობა. სხვების ტანჯვა საერთოდ არ აწუხებს {PAWN_objective}-ს. {PAWN_pronoun}-ს არ აინტერესებს, თუ სხვები დახოცონ, დაუმარხონ, დააპატიმრონ ან მონებად გაყიდონ - თუ ეს არ შეეხება {PAWN_objective}-ს. {PAWN_pronoun} ასევე არ გრძნობს განწყობის ამაღლებას სოციალიზაციისგან.</Psychopath.degreeDatas.0.description>
+  <Psychopath.degreeDatas.0.label>ფსიქოპათი</Psychopath.degreeDatas.0.label>
+  <Pyromaniac.degreeDatas.0.description>{PAWN_nameDef} უყვარს ცეცხლი. {PAWN_pronoun} არასოდეს ჩააქრობს ხანძარს და ხანდახან დაიწყებს შემთხვევით ცეცხლს. {PAWN_pronoun} ბედნიერი იქნება ცეცხლის გარშემო და უფრო ბედნიერი იქნება ცეცხლგამჩენი იარაღის გამოყენებისას.</Pyromaniac.degreeDatas.0.description>
+  <Pyromaniac.degreeDatas.0.label>პირომანი</Pyromaniac.degreeDatas.0.label>
+  <QuickSleeper.degreeDatas.0.description>{PAWN_nameDef} არ სჭირდება იმდენი ძილი, როგორც ჩვეულებრივ ადამიანს. მიუხედავად იმისა, {PAWN_pronoun} სძინავს საწოლზე თუ მიწაზე, {PAWN_pronoun} სრულად დაისვენებს ჩვეულებრივი დროის დაახლოებით ორ მესამედში.</QuickSleeper.degreeDatas.0.description>
+  <QuickSleeper.degreeDatas.0.label>სწრაფი მძინარე</QuickSleeper.degreeDatas.0.label>
+  <SlowLearner.degreeDatas.0.description>{PAWN_nameDef} ნელია ათვისებაში. {PAWN_pronoun} სწავლობს ბევრად ნელა, ვიდრე სხვები.</SlowLearner.degreeDatas.0.description>
+  <SlowLearner.degreeDatas.0.label>ნელი მოსწავლე</SlowLearner.degreeDatas.0.label>
+  <TooSmart.degreeDatas.0.description>{PAWN_nameDef} ძალიან ჭკვიანია {PAWN_possessive} საკუთარი სიკეთისთვის. {PAWN_pronoun} სწავლობს ყველაფერს ბევრად უფრო სწრაფად, ვიდრე ყველა, მაგრამ შეიძლება იყოს საკმაოდ ექსცენტრიული.</TooSmart.degreeDatas.0.description>
+  <TooSmart.degreeDatas.0.label>ძალიან ჭკვიანი</TooSmart.degreeDatas.0.label>
+  <TorturedArtist.degreeDatas.0.description>{PAWN_nameDef} გრძნობს თავს გაუცხოებულად და გაუგებრად სხვა ადამიანების მიერ. {PAWN_pronoun}-ს ექნება მუდმივი განწყობის დაქვეითება, მაგრამ მოიპოვებს შანსს (50%), მიიღო კრეატიულობის შთაგონება გონებრივი შესვენების შემდეგ.</TorturedArtist.degreeDatas.0.description>
+  <TorturedArtist.degreeDatas.0.label>ნაწამები მხატვარი</TorturedArtist.degreeDatas.0.label>
+  <Tough.degreeDatas.0.description>{PAWN_nameDef} აქვს სქელი კანი, მკვრივი ხორცი და გამძლე ძვლები. {PAWN_pronoun} იღებს ბევრად ნაკლებ ზიანს, ვიდრე სხვა ადამიანები იგივე დარტყმისგან. {PAWN_pronoun} ძალიან რთული მოსაკლავია.</Tough.degreeDatas.0.description>
+  <Tough.degreeDatas.0.label>მკაცრი</Tough.degreeDatas.0.label>
+  <Transhumanist.degreeDatas.0.description>{PAWN_nameDef} თავს შეზღუდულად გრძნობს {PAWN_possessive} სუსტ ადამიანის სხეულში. {PAWN_pronoun} ხშირად ოცნებობს გაძლიერდეს სხეულის ხელოვნური ნაწილებით ან ქსენოგენეტიკით.</Transhumanist.degreeDatas.0.description>
+  <Transhumanist.degreeDatas.0.label>სხეულის მოდერატორი</Transhumanist.degreeDatas.0.label>
+  <Undergrounder.degreeDatas.0.description>{PAWN_nameDef}-ს არ სჭირდება გასინჯვა ან სინათლე. {PAWN_pronoun} ვერასდროს იგრძნობს თავს შეგუებულად და არ დაავადდება სალონში და არ აწუხებს სიბნელე. თუმცა, {PAWN_nameDef} უკმაყოფილო იქნება გარეთ ყოფნისას.</Undergrounder.degreeDatas.0.description>
+  <Undergrounder.degreeDatas.0.label>მიწისქვეშა</Undergrounder.degreeDatas.0.label>
+  <Wimp.degreeDatas.0.description>{PAWN_nameDef} სუსტი და მშიშარაა. ოდნავი ტკივილიც კი გააუძრავებს {PAWN_objective}-ს.</Wimp.degreeDatas.0.description>
+  <Wimp.degreeDatas.0.label>გაწბილება</Wimp.degreeDatas.0.label>
+</LanguageData>

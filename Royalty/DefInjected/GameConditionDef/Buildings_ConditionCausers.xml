@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ClimateAdjustment.description>ახლომდებარე კლიმატის მარეგულირებელი ცვლის ტემპერატურას.</ClimateAdjustment.description>
+  <ClimateAdjustment.label>კლიმატის რეგულირება</ClimateAdjustment.label>
+  <ClimateAdjustment.letterText>კლიმატის რეგულირების მანქანამ დაიწყო ტემპერატურის შეცვლა.</ClimateAdjustment.letterText>
+  <EMIField.description>ელექტრომაგნიტური ჩარევის დინამო აპროექტებს EM ჩარევის ველს, რაც გამორთავს ელექტრო მოწყობილობებს.</EMIField.description>
+  <EMIField.label>EMI ველი</EMIField.label>
+  <EMIField.letterText>შეიქმნა EMI ველი. ეს არის ელექტრო მოწყობილობების გამორთვა.</EMIField.letterText>
+  <GiantSmokeCloud.description>ახლომდებარე კვამლის მფრქვეველი ამცირებს მზის შუქს ამ რეგიონში.</GiantSmokeCloud.description>
+  <GiantSmokeCloud.label>გიგანტური კვამლის ღრუბელი</GiantSmokeCloud.label>
+  <GiantSmokeCloud.letterText>კვამლის მფრქვეველმა მანქანამ მზის დაჩრდილვა დაიწყო.</GiantSmokeCloud.letterText>
+  <PsychicSuppression.description>ფსიქიკური ჩახშობის ველი გავლენას ახდენს {0}ებზე და ამცირებს მათ ცნობიერებას. ეფექტი მოდულირებულია ინდივიდის ფსიქიკური მგრძნობელობით.</PsychicSuppression.description>
+  <PsychicSuppression.label>ფსიქიკური ჩახშობა</PsychicSuppression.label>
+  <PsychicSuppression.letterText>ფსიქიკურმა დამთრგუნველმა ველმა დაიწყო {0}-ების ცნობიერების შემცირება მთელ რეგიონში. ეფექტი მოდულირებულია ინდივიდის ფსიქიკური მგრძნობელობით.</PsychicSuppression.letterText>
+  <SunBlocker.description>ახლომდებარე მზის ბლოკატორი მანქანა ატმოსფეროს ზედა ნაწილს გაუმჭვირვალედ აქცევს, ბლოკავს მზეს.</SunBlocker.description>
+  <SunBlocker.label>მზე დაბლოკილია</SunBlocker.label>
+  <SunBlocker.letterText>მზის ბლოკირების აპარატმა მზის დაბლოკვა დაიწყო.</SunBlocker.letterText>
+  <ToxicSpewer.description>ახლომახლო ტოქსიკური მფრინავი შხამით ფარავს მთელ ამ რეგიონს.</ToxicSpewer.description>
+  <ToxicSpewer.label>ტოქსიკური შუერი</ToxicSpewer.label>
+  <ToxicSpewer.letterText>ტოქსიკურმა ჭურჭლის აპარატმა მთელი რეგიონი შხამით დაფარა.</ToxicSpewer.letterText>
+  <WeatherController.description>ახლომდებარე ამინდის კონტროლერი აიძულებს ამინდს ამ კონფიგურაციაში.</WeatherController.description>
+  <WeatherController.label>იძულებითი ამინდი</WeatherController.label>
+  <WeatherController.letterText>ამინდის კონტროლერმა ამინდზე ზემოქმედება დაიწყო.</WeatherController.letterText>
+</LanguageData>

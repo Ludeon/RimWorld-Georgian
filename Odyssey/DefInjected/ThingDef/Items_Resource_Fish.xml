@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fish_Bass.description>ჩვეულებრივი მტკნარი წყლის თევზი, რომელიც ცნობილია თავისი აგრესიულობითა და რბილი გემოთი.</Fish_Bass.description>
+  <Fish_Bass.label>ბასი</Fish_Bass.label>
+  <Fish_Bluefish.description>ჩვეულებრივი თევზი, რომელიც ცნობადია ჩანგალი კუდით. ცისფერი თევზი ფართოდ არის მოშენებული ზოგიერთ ქალაქურ სამყაროში.</Fish_Bluefish.description>
+  <Fish_Bluefish.label>ლურჯი თევზი</Fish_Bluefish.label>
+  <Fish_Catfish.description>დიდი მტკნარი წყლის თევზი მკაფიო ულვაშის მსგავსი ორგანოებით. მათი დიდი ზომა ნიშნავს, რომ ისინი უფრო მეტ საკვებს უზრუნველყოფენ, ვიდრე თევზის უმეტესობა.</Fish_Catfish.description>
+  <Fish_Catfish.label>ლოქო</Fish_Catfish.label>
+  <Fish_Cod.description>ცივი წყლის თევზი, რომელიც ცნობადია ქვედა ყბაზე თავისი მკაფიო ულვაშივით.</Fish_Cod.description>
+  <Fish_Cod.label>ვირთევზა</Fish_Cod.label>
+  <Fish_Dogfish.description>ზვიგენის პატარა სახეობა. მათი დიდი ზომა ნიშნავს, რომ ისინი უფრო მეტ საკვებს უზრუნველყოფენ, ვიდრე თევზის უმეტესობა. თუმცა, ზოგი ჩივის, რომ მათ აქვთ უსიამოვნო გემო.</Fish_Dogfish.description>
+  <Fish_Dogfish.label>ძაღლთევზა</Fish_Dogfish.label>
+  <Fish_Flounder.description>დიდი ბრტყელი თევზი, რომელიც ჩვეულებრივ გვხვდება სანაპირო წყლებში. ისინი იკვებებიან ოკეანის ფსკერის ტალახიან ადგილებში.</Fish_Flounder.description>
+  <Fish_Flounder.label>ფლაკონი</Fish_Flounder.label>
+  <Fish_Frostfish.description>დიდი ბიოინჟინერიით შექმნილი თევზი, რომელიც შექმნილია შორ მანძილზე გადაზიდვისთვის. ისინი მშვენიერი გემოთი წლების განმავლობაში მყარი გაყინვის შემდეგაც კი. მათი დიდი ზომა ნიშნავს, რომ ისინი უფრო მეტ საკვებს უზრუნველყოფენ, ვიდრე თევზის უმეტესობა.</Fish_Frostfish.description>
+  <Fish_Frostfish.label>ყინვაგამძლე თევზი</Fish_Frostfish.label>
+  <Fish_Guppy.description>პატარა, ფერადი მტკნარი წყლის თევზი. საკვების მიღებისას, გუპებს იშვიათად მიირთმევენ მათი მცირე ზომისა და დაბალი კვების ღირებულების გამო. სამაგიეროდ, გუპი ჩვეულებრივ იყიდება მათი ძლიერი სასწორისთვის.</Fish_Guppy.description>
+  <Fish_Guppy.label>გუპი</Fish_Guppy.label>
+  <Fish_Marlin.description>დიდი ოკეანეური თევზი შუბისმაგვარი შუბით ჩვეულებრივ გვხვდება ზომიერ და ტროპიკულ წყლებში. მათი დიდი ზომა ნიშნავს, რომ ისინი უფრო მეტ საკვებს უზრუნველყოფენ, ვიდრე თევზის უმეტესობა.</Fish_Marlin.description>
+  <Fish_Marlin.label>მარლინი</Fish_Marlin.label>
+  <Fish_Piranha.description>მტკნარი წყლის თევზი ბასრი კბილებით და ძლიერი ყბებით. მიუხედავად იმისა, რომ ისინი აგრესიულები არიან, ისინი მცირე რეალურ საფრთხეს წარმოადგენენ ადამიანებისთვის. მათ ჩვეულებრივ ეძებენ ტროფეებზე მონადირეები, რაც იმას ნიშნავს, რომ მათ შეუძლიათ მიიღონ სამართლიანი ფასი.</Fish_Piranha.description>
+  <Fish_Piranha.label>პირანა</Fish_Piranha.label>
+  <Fish_Salmon.description>თევზი, რომელიც ცნობილია თავისი მდიდარი ვარდისფერი ხორცით. ორაგული თავისი ცხოვრების ნაწილს ატარებს როგორც მტკნარ წყალში, ასევე მარილიან წყალში.</Fish_Salmon.description>
+  <Fish_Salmon.label>ორაგული</Fish_Salmon.label>
+  <Fish_Tilapia.description>მყარი მტკნარი წყლის თევზი, გავრცელებულია თბილ მდინარეებსა და ტბებში.</Fish_Tilapia.description>
+  <Fish_Tilapia.label>ტილაპია</Fish_Tilapia.label>
+  <Fish_Toxfish.description>თევზი, რომელიც დაბინძურებულმა წყალმა მუტაცია მოახდინა. უმი მიღებისას მას აქვს კვებითი მოწამვლის დიდი შანსი. მისი უსაფრთხოდ გამოყენება შესაძლებელია საჭმლის მოსამზადებლად, მაგრამ მცირე კვებას იძლევა.</Fish_Toxfish.description>
+  <Fish_Toxfish.label>Toxfish</Fish_Toxfish.label>
+  <Fish_Tuna.description>დიდი გადამფრენი თევზი, რომელიც ბინადრობს თბილ ზღვებში. მათი დიდი ზომა ნიშნავს, რომ ისინი უფრო მეტ საკვებს უზრუნველყოფენ, ვიდრე თევზის უმეტესობა.</Fish_Tuna.description>
+  <Fish_Tuna.label>ტუნა</Fish_Tuna.label>
+</LanguageData>

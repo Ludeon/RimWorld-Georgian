@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlindingCeremony.description>მჭრელი რიტუალისტურად დააბრმავებს მიზანს. აუდიტორია უყურებს, როგორ გამოდის მჭრელი, აჭრის ორივე თვალს და ამბობს რამდენიმე დახურულ სიტყვას. სამიზნე დარჩება სისხლდენით და საჭიროებს სასწრაფო სამედიცინო დახმარებას.</BlindingCeremony.description>
+  <BlindingCeremony.label>დაბრმავება</BlindingCeremony.label>
+  <Classic_DanceParty.label>საცეკვაო წვეულება</Classic_DanceParty.label>
+  <Classic_DrumParty.label>დრამის წვეულება</Classic_DrumParty.label>
+  <Conversion.description>შეეცადეთ დაარწმუნოთ ვინმე, რომ შეუერთდეს თქვენს იდეოლიგიას.</Conversion.description>
+  <Conversion.label>გარდასახვის რიტუალი</Conversion.label>
+  <DateRitualConsumable.label>ნაძვის ხის წვეულება</DateRitualConsumable.label>
+  <Execution.description>ჯალათი საჯაროდ აღასრულებს პატიმარს. ჯალათი წაიკითხავს მოკლე სიტყვას, დახვრიტეს პატიმარს ჭრით და იტყვის რამდენიმე დასკვნით სიტყვას. მაყურებელი მონები შეშინდებიან და შეშინდებიან, ხოლო კოლონისტები აღფრთოვანებულად ან ზიზღით გრძნობენ თავს, მათი რწმენიდან გამომდინარე.</Execution.description>
+  <Execution.label>საჯარო აღსრულება</Execution.label>
+  <Festival.label>სოციალური ფესტივალი</Festival.label>
+  <Funeral.label>დაკრძალვა</Funeral.label>
+  <FuneralNoCorpse.label>დაკრძალვა (ცხედრის გარეშე)</FuneralNoCorpse.label>
+  <GladiatorDuel.description>დუელი პატიმრებსა თუ მონებს შორის. ორგანიზატორი სიტყვით გამოვა გულშემატკივართა აღგზნების მიზნით, შემდეგ დუელისტები იბრძვიან სანამ ერთ-ერთი მათგანი არ დაეცემა ან დრო ამოიწურება. თუ იარაღი ასპარეზზეა, დუელისტები აიღებენ და გამოიყენებენ მათ.</GladiatorDuel.description>
+  <GladiatorDuel.label>გლადიატორთა დუელი</GladiatorDuel.label>
+  <LeaderSpeech.description>ამაღელვებელი გამოსვლა, რომელიც მიზნად ისახავს მორალის გაუმჯობესებას. კოლონისტები შეიკრიბებიან და ლიდერი რამდენიმე საათის განმავლობაში ისაუბრებს. თუ ყველაფერი კარგად წავა, მსმენელები შთაგონებულები იქნებიან და ლიდერის პატივისცემას მოიპოვებენ. თუ ის ცუდად წავა, მეტყველება სოციალურ ზიანს აყენებს.</LeaderSpeech.description>
+  <LeaderSpeech.label>ლიდერის გამოსვლა</LeaderSpeech.label>
+  <RoleChange.description>სოციალური როლების შეცვლის ცერემონია. როლების შემცვლელი სიტყვით გამოდის, სანამ სხვები იკრიბებიან გარშემო. საჭირო რაოდენობის მაყურებელი უნდა დაესწროს.</RoleChange.description>
+  <RoleChange.label>როლის შეცვლა</RoleChange.label>
+  <ScarificationCeremony.description>რიტუალისტური ნაწიბური, სადაც მჭრელი იდეოლიგიურ სიმბოლოებს კვეთს სამიზნეში. აუდიტორია უყურებს, როდესაც მჭრელი გამოდის სიტყვას, ასრულებს ჭრას, შემდეგ ამბობს რამდენიმე დასრულებულ სიტყვას.</ScarificationCeremony.description>
+  <ScarificationCeremony.label>სკარიფიკაცია</ScarificationCeremony.label>
+  <TreeConnection.description>დამაკავშირებელი დაუკავშირდება Gauranlen ხეს. კონექტორი შეეხება გაურანლენის ხეს და ესაუბრება მას, ქმნის მუდმივ კავშირს. სხვები იკრიბებიან წრეში, რათა უყურონ და ძალა შესძინონ რიტუალს.</TreeConnection.description>
+  <TreeConnection.label>ხეების შეერთების რიტუალი</TreeConnection.label>
+  <Trial.description>სასამართლო პროცესი რაღაც ამაზრზენი ბრალდებისთვის. ინიციატორი ვინმეს დაადანაშაულებს საშინელ დანაშაულში და შეკრებს ხალხს სასამართლო პროცესზე. მაყურებლები მოუსმენენ, როცა ბრალდებული და ბრალდებული კამათობენ წინ და უკან, შემდეგ გადაწყვეტენ, არის თუ არა ბრალდება სიმართლე. თუ ბრალდებული მსჯავრდებულია, შეგიძლიათ თავისუფლად განდევნოთ, დააპატიმროთ ან დაისაჯოთ ისინი და არავის შეეწინააღმდეგება. მსჯავრდებულის შანსი დამოკიდებულია ბრალდებულისა და ბრალდებულის სოციალურ შესაძლებლობებზე და მაყურებელთა რაოდენობაზე.</Trial.description>
+  <Trial.label>სასამართლო პროცესი</Trial.label>
+</LanguageData>

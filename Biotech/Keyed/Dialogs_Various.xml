@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <AnyMechanitor>ნებისმიერი მექანიტორი</AnyMechanitor>
+  <BossgroupWarningDialog>{LEADERKIND_label} საფრთხის გამოძახებით გამოიძახებს შემდეგი მტრული მექანოიდები:\n\n{PAWNS}\n\nმექანოიდები ჩამოვა მომდევნო რამდენიმე საათში ან დღეში. მზად ხარ საბრძოლველად?</BossgroupWarningDialog>
+  <MechControllerDowned>{PAWN_labelShort} ჩამოშლილია.</MechControllerDowned>
+  <MechControllerImprisoned>{PAWN_labelShort} არის პატიმარი.</MechControllerImprisoned>
+  <MechControllerInsideContainer>{PAWN_labelShort} არის {CONTAINER}-ის შიგნით</MechControllerInsideContainer>
+  <MechControllerInsufficientBandwidth>{PAWN_labelShort}-ს აქვს არასაკმარისი გამტარობა</MechControllerInsufficientBandwidth>
+  <MechControllerMentalState>{PAWN_labelShort} არის '{MENTALSTATE_label}' ფსიქიკურ მდგომარეობაში.</MechControllerMentalState>
+  <ConfirmDisassemblingMech>ნამდვილად გსურთ {0}-ის სამუდამოდ დაშლა?\n\n{0}-ის სამუდამოდ დაშლა აღდგება</ConfirmDisassemblingMech>
+  <ConfirmInstallMechlink_Smithing>მექანიტორს უნდა შეეძლოს მჭედლობა, რათა შექმნას მექანოიდები.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</ConfirmInstallMechlink_Smithing>
+  <ConfirmInstallMechlink_Intellectual>მექანიტორს უნდა შეეძლოს ინტელექტუალური ამოცანების შესრულება მექანიტორის კვლევის განსაბლოკად.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</ConfirmInstallMechlink_Intellectual>
+  <InsufficientBandwidth>არასაკმარისი გამტარობა</InsufficientBandwidth>
+  <MechanitorLeftMapWithoutMechs>შემდეგი მექანიკა დატოვა {PAWN_labelShort}-მა:\n\n{MECHS}\n\nმექანიკოსები აქ დარჩებიან მანამ, სანამ არ აიყვანენ.\n\nგსურთ, დააყენოთ მათი მუშაობის რეჟიმი ბადრაგზე, რათა მიჰყვნენ {PAWN_labelShort}-ს რუკიდან?</MechanitorLeftMapWithoutMechs>
+
+  
+  <ApparelRequirementAnyMechlordApparel>ნებისმიერი მეკლორდის ტანსაცმელი</ApparelRequirementAnyMechlordApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>ან ფსიკასტერის, პრესტიჟის ან მეკლორდის სამოსი</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
+
+  
+  <GestationCyclesCompleted>ორსულობის ციკლები დასრულდა</GestationCyclesCompleted>
+  <FormerIngredients>შეკრიბა ინგრედიენტები</FormerIngredients>
+
+  
+  <ConfirmRipscanPawn>Ripscanning {PAWN_nameDef} მოკლავს {PAWN_objective}-ს. დარწმუნებული ხართ, რომ გსურთ გაგრძელება?</ConfirmRipscanPawn>
+  <ConfirmCancelRipscan>ripscan-ის გაუქმება მაინც მოკლავს {PAWN_nameDef}-ს. დარწმუნებული ხართ, რომ გსურთ გაგრძელება?</ConfirmCancelRipscan>
+
+  
+  <AssembleGenes>შეაგროვეთ გენები</AssembleGenes>
+  <CreateXenotype>შექმენით ქსენოტიპი</CreateXenotype>
+  <SelectIcon>აირჩიეთ ხატულა</SelectIcon>
+  <SelectIconDesc>ამ ქსენოტიპის ხატი.</SelectIconDesc>
+  <InspectGenesDesc>შეამოწმეთ გენები {0_labelShort}-ში.</InspectGenesDesc>
+  <InspectGenesHediffDesc>შეამოწმეთ არ დაბადებული ბავშვის გენები.</InspectGenesHediffDesc>
+  <InspectGenesEmbryoDesc>შეამოწმეთ ემბრიონის გენები.</InspectGenesEmbryoDesc>
+  <NoGenePacks>არ არის გენიპაკეტები</NoGenePacks>
+  <StartCombining>დაიწყეთ კომბინირება</StartCombining>
+  <SelectedGenepacks>შერჩეული გენეპაკეტები</SelectedGenepacks>
+  <GenepackLibrary>Genepack ბიბლიოთეკა</GenepackLibrary>
+  <ClickToAddOrRemove>დააწკაპუნეთ დასამატებლად ან წასაშლელად</ClickToAddOrRemove>
+  <ClickToAdd>დააწკაპუნეთ დასამატებლად</ClickToAdd>
+  <ClickToRemove>დააწკაპუნეთ წასაშლელად</ClickToRemove>
+  <SelectXenogerm>აირჩიეთ ქსენოგერმი</SelectXenogerm>
+  <WarningPawnWillDieFromReimplanting>გაფრთხილება: {PAWN_nameDef}-ის გენები ამჟამად ხელახლა იზრდება. თუ {PAWN_pronoun} იმპლანტებს {PAWN_possessive} ქსენოგერმს {PAWN_possessive} გენების სრულად გამრავლებამდე, ის მოკლავს {PAWN_objective}-ს.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</WarningPawnWillDieFromReimplanting>
+  <NotEnoughArchites>არქიტის კაფსულები საკმარისი არ არის.</NotEnoughArchites>
+  <XenogenesDesc>ქსენოგენები არის იმპლანტირებული ქსენოგერმისგან მიღებული გენები. თუ ქსენოგერმი ამოღებულია ან ჩანაცვლდება, ქსენოგენები მასთან ერთად მიდიან. ვინაიდან ქსენოგენები არ არის ორგანიზმის საკუთარი ჩანასახის დნმ-ის ნაწილი, ისინი არ გადაეცემა ბავშვებს.</XenogenesDesc>
+  <EndogenesDesc>ჩანასახის გენები ბუნებრივად მემკვიდრეობით მიღებული გენებია, რომლებიც ორგანიზმის ყველა უჯრედშია და არ საჭიროებს რაიმე გარე მხარდაჭერას. ისინი გადადიან მშობლიდან შვილზე.</EndogenesDesc>
+  <MemberXenotypeChances>წევრების ქსენოტიპები</MemberXenotypeChances>
+  <XenotypeName>ქსენოტიპის სახელი</XenotypeName>
+  <LockNameButtonDesc>ჩაკეტეთ ან განბლოკეთ ქსენოტიპის სახელი. როდესაც დაბლოკილია, ქსენოტიპის სახელი ავტომატურად არ აღდგება გენეპაკეტების დამატების ან წაშლისას.</LockNameButtonDesc>
+  <LockNameOn>ქსენოტიპის სახელის დაბლოკვა ჩართულია. ქსენოტიპის სახელი არ აღდგება გენეპაკეტების დამატების ან ამოღებისას.</LockNameOn>
+  <LockNameOff>ქსენოტიპის სახელის დაბლოკვა გამორთულია. ქსენოტიპის სახელი აღდგება გენეპაკეტების დამატების ან წაშლისას.</LockNameOff>
+  <CreatingXenogerm>ქსენოგერმის შექმნა</CreatingXenogerm>
+  <GenepackUnusableGenebankUnpowered>ეს გენოპაკეტი მოთავსებულია უძრავ გენბანკში. თუ დაემატება, ქსენოგერმზე წარმოება შეჩერდება, სანამ ელექტროენერგია არ აღდგება.</GenepackUnusableGenebankUnpowered>
+  <GeneProcessorUnpowered>ეს ქსენოგერმი უფრო მეტ გენეტიკურ სირთულეს მოითხოვს, ვიდრე გენის ასამბლერს და ახლომდებარე გენის პროცესორებს შეუძლიათ.</GeneProcessorUnpowered>
+  <RecombineDuration>სავარაუდო რეკომბინაციის დრო</RecombineDuration>
+  <RecombineDurationDesc>რამდენი დრო დასჭირდება საშუალო მუშაკს შერჩეული გენების ქსენოგერმად გაერთიანებას. რეკომბინაციის დრო იზრდება ქსენოგერმის გენების მთლიანი სირთულესთან ერთად.</RecombineDurationDesc>
+  <MustResearchProject>თქვენ უნდა გამოიკვლიოთ {0_label}, სანამ შეძლებთ ქსენოგერმის შეკრებას, რომელიც მოითხოვს არქიტის კაფსულებს.</MustResearchProject>
+  <AssemblingRequiresResearch>არქიტის გენებით ქსენოგერმების შეკრება მოითხოვს {0_label} კვლევას.</AssemblingRequiresResearch>
+  <ConfirmStartNewXenogerm>თქვენ ამჟამად აერთიანებთ {XENOGERMNAME} ქსენოგერმს. თუ დაიწყებთ ახალი ქსენოგერმის გაერთიანებას, ის გააუქმებს თქვენს ამჟამინდელ ქსენოგერმს.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</ConfirmStartNewXenogerm>
+  <SelectAGeneToRandomizeName>აირჩიეთ მინიმუმ ერთი გენი ამ ქსენოტიპისთვის სახელის შემთხვევითობისთვის.</SelectAGeneToRandomizeName>
+  <SelectAGeneToChooseAName>აირჩიეთ მინიმუმ ერთი გენი ამ ქსენოტიპისთვის სახელის ასარჩევად.</SelectAGeneToChooseAName>
+
+  
+  <InspectGenes>შეამოწმეთ გენები</InspectGenes>
+  <InspectBabyGenes>შეამოწმეთ ბავშვის გენები</InspectBabyGenes>
+  <NoXenogermImplanted>ქსენოგერმი არ არის იმპლანტირებული</NoXenogermImplanted>
+  <Endogenes>ჩანასახის გენები</Endogenes>
+  <Xenogenes>კსენოგენები</Xenogenes>
+  <Overridden>გადაწერილი</Overridden>
+  <OverriddenByGene>გენი გადალახულია</OverriddenByGene>
+  <OverriddenByIdenticalGene>იდენტური გენით გადაფარებული</OverriddenByIdenticalGene>
+  <MoreInfoInInfoScreen>დამატებითი ინფორმაცია ხელმისაწვდომია ამ ქსენოტიპის საინფორმაციო ეკრანზე.</MoreInfoInInfoScreen>
+  <TakesEffectAfterAge>მოქმედებს ასაკის შემდეგ</TakesEffectAfterAge>
+
+  
+  <XenotypeEditor>ქსენოტიპის რედაქტორი</XenotypeEditor>
+  <AnyNonArchite>ნებისმიერი (არაარქიტული)</AnyNonArchite>
+  <SelectedGenes>შერჩეული გენები</SelectedGenes>
+  <Custom>საკუთარი</Custom>
+  <Hybrid>ჰიბრიდი</Hybrid>
+  <GenesAreInheritable>გენები მემკვიდრეობითია</GenesAreInheritable>
+  <GenesAreInheritableXenotypeDef>შეიძლება თუ არა ეს ქსენოტიპი გადაეცეს ბავშვებს.</GenesAreInheritableXenotypeDef>
+  <GenesAreInheritableDesc>ამ ქსენოტიპის ყველა გენი შეიძლება გადაეცეს ბავშვებს.</GenesAreInheritableDesc>
+  <GeneWillBeRandomChosen>თითოეული ინდივიდისთვის, ერთ-ერთი ქვემოთ ჩამოთვლილი გენი შემთხვევითად შეირჩევა აქტიური</GeneWillBeRandomChosen>
+  <GeneIncompatibleDesc>ეს გენი შეუთავსებელია ამ ქსენოტიპის სხვა გენებთან. ამ გენიდან მხოლოდ ერთი იქნება აქტიური</GeneIncompatibleDesc>
+  <GeneLeftmostActive>შემდეგი გენებიდან ყველაზე მარცხენა ყოველთვის მოქმედებს, ხოლო დანარჩენები დათრგუნულია</GeneLeftmostActive>
+  <GeneOneActive>შემდეგი გენებიდან მხოლოდ ერთი გამოიყენება და დანარჩენები დათრგუნული იქნება</GeneOneActive>
+  <WarnChangingXenotypeWillRandomizePawn>ქსენოტიპის შეცვლა ამ კოლონისტს რანდომიზირებს.\n\nგაგრძელება მაინც?</WarnChangingXenotypeWillRandomizePawn>
+  <DeleteThisXenotype>წაშალე ეს ქსენოტიპი.</DeleteThisXenotype>
+  <IgnoreRestrictions>იგნორირება შეზღუდვები</IgnoreRestrictions>
+  <IgnoreRestrictionsDesc>შექმნილ ქსენოტიპებს არ აქვთ ბიოსტატის საზღვრები. შეიძლება დაემატოს გენები, რომლებიც საჭიროებენ არქიტის კაფსულებს.</IgnoreRestrictionsDesc>
+  <XenotypeBreaksLimits>ეს ქსენოტიპი არღვევს თამაშის ნორმალურ საზღვრებს</XenotypeBreaksLimits>
+  <XenotypeBreaksLimits_Archites>ის შეიცავს არქიტის გენებს და არის მემკვიდრეობითი, მაგრამ არქიტის გენები, როგორც წესი, არასოდეს არის მემკვიდრეობითი.</XenotypeBreaksLimits_Archites>
+  <XenotypeBreaksLimits_Exceeds>{STAT} არის {VALUE}, რომელიც აღემატება {MAX}-ის ნორმალურ ზღვარს.</XenotypeBreaksLimits_Exceeds>
+  <XenotypeBreaksLimits_Below>{STAT} არის {VALUE}, რომელიც {MIN}-ის ნორმალურ ზღვარზე დაბალია.</XenotypeBreaksLimits_Below>
+  <SaveAnyway>შენახვა მაინც?</SaveAnyway>
+  <IgnoreRestrictionsConfirmation>შეზღუდვების იგნორირება საშუალებას გაძლევთ შექმნათ შეუძლებელი გენების კომბინაციები ბიოსტატის ლიმიტების გადაჭარბებით. ის ასევე გაძლევთ წვდომას მძლავრ არქიტის გენებზე, რამაც შეიძლება თამაში ძალიან გააადვილოს.\n\nდარწმუნებული ხართ, რომ გსურთ უგულებელყოთ შეზღუდვები?</IgnoreRestrictionsConfirmation>
+  <DevelopmentalAgeSelectionDesc>კოლონისტები ყოველთვის იქნებიან განვითარების ამ ეტაპის ასაკობრივ დიაპაზონში გენერირებისას.</DevelopmentalAgeSelectionDesc>
+  <XenotypeSelectionDesc>კოლონისტებს ყოველთვის ექნებათ ამ ქსენოტიპით განსაზღვრული გენები.</XenotypeSelectionDesc>
+  <SaveAndApply>შეინახეთ და მიმართეთ</SaveAndApply>
+  <LoadCustom>საბაჟო ჩატვირთვა</LoadCustom>
+  <LoadPremade>ჩატვირთეთ წინასწარ დამზადებული</LoadPremade>
+  <GenesConflict>გენების კონფლიქტი</GenesConflict>
+  <GenesConflictDesc>{FIRST_label}, {SECOND_label}</GenesConflictDesc>
+
+  
+  <LoadXenogermTemplate>შაბლონის ჩატვირთვა</LoadXenogermTemplate>
+  <SaveXenogermTemplate>შაბლონის შენახვა</SaveXenogermTemplate>
+  <CannotSaveXenogermTemplate>შაბლონის შენახვა {0}-ის გარეშე შეუძლებელია.</CannotSaveXenogermTemplate>
+  <XenogermTemplateSaved>{NAME} შაბლონი შენახულია</XenogermTemplateSaved>
+  <MissingGenepacksForXenogerm>აკლია {COUNT} გენიპაკეტები {NAME} შაბლონისთვის.</MissingGenepacksForXenogerm>
+  <MissingGenepackForXenogerm>აკლია გენეპაკეტი {NAME} შაბლონისთვის</MissingGenepackForXenogerm>
+  <DeleteThisXenogerm>წაშალე ეს ქსენოგერმი.</DeleteThisXenogerm>
+
+  
+  <ChooseChildOrAdult>აირჩიეთ მინიმუმ ერთი ბავშვი ან ზრდასრული.</ChooseChildOrAdult>
+
+  
+  <WarningWakingInterruptsDeathrest>{PAWN_nameDef}-ის გაღვიძება {MINDURATION}-ის გასვლამდე შეწყვეტს {PAWN_possessive} სიკვდილიანობას, რის გამოც {PAWN_objective} დაავადდება რამდენიმე დღის განმავლობაში, სანამ {PAWN_pronoun} გამოჯანმრთელდება. ადრე გაღვიძება ნიშნავს, რომ {PAWN_nameDef} არ მიიღებს სარგებელს სიკვდილის დასასვენებელი შენობებით. {PAWN_pronoun} სასიკვდილო იყო {CURDURATION}-ისთვის.\n\nდარწმუნებული ხართ, რომ გსურთ {PAWN_nameDef}-ის გაღვიძება?</WarningWakingInterruptsDeathrest>
+
+  
+  <NumWoundsTended>{0} ჭრილობები მოჭრილი</NumWoundsTended>
+
+  
+  <MechWeightClass>წონის კლასი</MechWeightClass>
+  <MechWeightClassExplanation>ამ მექანიკის წონითი კლასი.</MechWeightClassExplanation>
+  <MechOverseer>ამ მექანიკის ზედამხედველია {0}.</MechOverseer>
+  <MechWorkActivities>სამუშაო აქტივობები</MechWorkActivities>
+  <MechWorkActivitiesExplanation>სამუშაო აქტივობები, რომლებიც შეიძლება შესრულდეს ამ მექანოიდის მიერ.\n\nშემდეგ სიაში დეტალურადაა აღწერილი, თუ რომელი სამუშაო აქტივობები შეიძლება შესრულდეს თითოეული სამუშაო ტიპის ფარგლებში</MechWorkActivitiesExplanation>
+  <MechRechargeSettingsTitle>დატენვის პარამეტრები</MechRechargeSettingsTitle>
+  <MechRechargeSettingsExplanation>შეცვალეთ მექანოიდების დაწყების და დატენვის შეწყვეტა.\n\nამ დიაპაზონში დაბალი ენერგიის მქონე მექანოიდები ავტომატურად მოიძიებენ დამტენს. ისინი შეწყვეტენ დატენვას, როგორც კი მიაღწევენ ამ დიაპაზონის მწვერვალს. ეს პარამეტრები გამოიყენება მხოლოდ სამუშაო რეჟიმში.</MechRechargeSettingsExplanation>
+  <MechWorkSkill>მუშაობის უნარი</MechWorkSkill>
+  <MechWorkSkillDesc>უნარების დონე, რომლითაც მოქმედებს ეს მექანოიდი.</MechWorkSkillDesc>
+  <AnyMech>ნებისმიერი მექ</AnyMech>
+  <AnyNonMech>ნებისმიერი ადამიანი</AnyNonMech>
+  <CaravanLacksMechMechanitorWarning>თქვენი ქარავანი შეიცავს მექანოიდს, მაგრამ არა მათ ზედამხედველს. თქვენ გექნებათ შეზღუდული კონტროლი მექანოიდზე, როდესაც მიხვალთ დანიშნულების ადგილზე.</CaravanLacksMechMechanitorWarning>
+  <MechsSection>მექანოიდები</MechsSection>
+
+  
+  <RenameMech>გადარქმევა მექანიკა</RenameMech>
+  <MechGainsName>მექანიკოსის სახელი ახლა არის {0}.</MechGainsName>
+
+  <FertilizeOvumInbredChance>{FATHER_nameDef} არის {MOTHER_nameDef}-ის {RELATION}. არსებობს {CHANCE} შანსი, რომ ბავშვს ექნება გენეტიკური დარღვევები შეჯვარების გამო.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</FertilizeOvumInbredChance>
+
+  <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef} ორსულია. IUD-ის ჩადგმა {PAWN_pronoun} ორსულობის {PAWN_possessive} პირველ ტრიმესტრში შეწყვეტს ორსულობას.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</ConfirmationPawnPregnancyTerminated>
+
+  
+  <ConfirmSettleNearPollution>ეს ფილა ახლოსაა დაბინძურებულ ფილებთან, ამიტომ აქ მჟავე სმოგი იქნება დაახლოებით ყოველ {0} დღეში. მჟავე სმოგი ანელებს მცენარის ზრდას, აფუჭებს დაუცველ ნივთებს და ადამიანებს უბედურს ხდის.</ConfirmSettleNearPollution>
+
+  
+  <PawnIsAway>{PAWN_nameDef} არის დაშორებული.</PawnIsAway>
+  <PawnsHaveSameGender>{PAWN1_nameDef} და {PAWN2_nameDef} ერთი და იგივე სქესისაა.</PawnsHaveSameGender>
+  <PawnsAreSterile>{PAWN1_nameDef} და {PAWN2_nameDef} სტერილურია.</PawnsAreSterile>
+  <PawnIsSterile>{PAWN_nameDef} არის სტერილური.</PawnIsSterile>
+  <PawnsAreInfertile>{PAWN1_nameDef} და {PAWN2_nameDef} უნაყოფოა.</PawnsAreInfertile>
+  <PawnIsInfertile>{PAWN_nameDef} არის უნაყოფო.</PawnIsInfertile>
+  <PawnsAreTooYoung>{PAWN1_nameDef} და {PAWN2_nameDef} ძალიან პატარები არიან ბავშვების გასაჩენად.</PawnsAreTooYoung>
+  <PawnIsTooYoung>{PAWN_nameDef} ძალიან ახალგაზრდაა შვილების გასაჩენად.</PawnIsTooYoung>
+  <PawnIsDead>{PAWN_nameDef} მოკვდა.</PawnIsDead>
+
+  <PsychicBondDistanceWillBeActive_Cryptosleep>{PAWN_nameDef}-ის კრიპტოძილში მოთავსება დაძაბავს {PAWN_possessive} ფსიქიკურ კავშირს {BOND_nameDef}-თან, რაც იწვევს სტრესს ორივე პარტნიორში.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</PsychicBondDistanceWillBeActive_Cryptosleep>
+  <PsychicBondDistanceWillBeActive_Caravan>ამ ქარავანში ვინმე პარტნიორთან ფსიქიკურად შეკრული არ მოდის მათთან. ეს ადამიანები სტრესს განიცდიან, თუ დაშორდებიან თავიანთ ობლიგაციურ პარტნიორებს</PsychicBondDistanceWillBeActive_Caravan>
+  <Partner>პარტნიორი {0_nameFull}</Partner>
+
+
+  <ChooseMechAccentColor>აირჩიეთ მექანიკური აქცენტის ფერი</ChooseMechAccentColor>
+
+  
+  <PigFactionGreetingHostile>{0} ლანძღავს მიკროფონში წყევლის წყებას და გათიშავს.</PigFactionGreetingHostile>
+  <PigFactionGreetingHostileAppreciative>გაბრაზებული, {0} მოითხოვს, რომ გააკეთოთ ერთიანობის ჟესტი, როგორიცაა საჩუქრების მიტანა {0_possessive} დასახლებაში ან {0_possessive} ფრაქციის პატიმრების უვნებლად გათავისუფლება. მანამდე {0_pronoun}-ს არ სურს ლაპარაკი.\n\nშეურაცხყოფის მიცემით, {0_pronoun} გათიშულია.</PigFactionGreetingHostileAppreciative>
+  <PigFactionGreetingWary>{0} ულოცავს მისალმებას და ეკითხება, რა ბიზნესი გჭირდებათ.</PigFactionGreetingWary>
+  <PigFactionGreetingWarm>ენთუზიაზმით, {0} მიესალმება {NEGOTIATOR_labelShort}-ს და გეკითხებათ, რისი გაკეთება შეუძლია {LEADER_pronoun}-ს თქვენს დასახმარებლად.</PigFactionGreetingWarm>
+  <PigMilitaryAidSent>{0} თანახმაა გამოაგზავნოს ღორის ტყავის მებრძოლები თქვენს დასახმარებლად.</PigMilitaryAidSent>
+
+  <YttakinFactionGreetingHostile>{0} ღრიალებს მიკროფონში და ითიშება.</YttakinFactionGreetingHostile>
+  <YttakinFactionGreetingHostileAppreciative>{0_possessive} სუნთქვის ქვეშ ღრიალით, {0} მოითხოვს, რომ გააკეთოთ მეგობრული ჟესტი, როგორიცაა საჩუქრების მიტანა {0_possessive} დასახლებაში ან {0_possessive} ფრაქციის პატიმრების უვნებლად გათავისუფლება. მანამდე, {0_pronoun}-ს არ სურს ლაპარაკი.\n\nშეურაცხყოფის გამო, {0_pronoun} გათიშულია.</YttakinFactionGreetingHostileAppreciative>
+  <YttakinFactionGreetingWary>{0} წუწუნებს ულოცავს {NEGOTIATOR_labelShort}-ს და ეკითხება, რატომ ურეკავ.</YttakinFactionGreetingWary>
+  <YttakinFactionGreetingWarm>{0} მიესალმება მეგობრულ მისალმებას და გეკითხებათ, რისი გაკეთება შეუძლია {LEADER_pronoun}-ს თქვენს დასახმარებლად.</YttakinFactionGreetingWarm>
+
+  <NeanderthalFactionGreetingHostile>{0} გაბრაზებული წუწუნებს და წყვეტს.</NeanderthalFactionGreetingHostile>
+  <NeanderthalFactionGreetingHostileAppreciative>{0} აგრესიულად ღრიალებს. სანამ კეთილგანწყობის ჟესტს არ გააკეთებთ, {0_pronoun} არ იმუშავებს თქვენთან. თქვენ შეგიძლიათ გააუმჯობესოთ ურთიერთობები მთელი რიგი აქტივობებით, როგორიცაა საჩუქრების მიტანა {0_possessive} დასახლებაში ან {0_possessive} ფრაქციის პატიმრების უვნებლად გათავისუფლება.\n\n{0_pronoun} უეცრად წყდება.</NeanderthalFactionGreetingHostileAppreciative>
+  <NeanderthalFactionGreetingWary>{0} ღრიალებს მისალმებას.</NeanderthalFactionGreetingWary>
+  <NeanderthalFactionGreetingWarm>{0} თბილად ულოცავს {NEGOTIATOR_labelShort}-ს.</NeanderthalFactionGreetingWarm>
+
+  <MaxTier>მაქსიმალური იარუსი</MaxTier>
+  <MaxTierDesc>{PAWN_nameDef}-მა დააგროვა ზრდის ქულების მაქსიმალური რაოდენობა.</MaxTierDesc>
+  <ProgressToNextGrowthTier>პროგრესი ზრდის შემდეგ ეტაპზე</ProgressToNextGrowthTier>
+  <ThisGrowthTier>ეს ზრდის იარუსი</ThisGrowthTier>
+  <NextGrowthTier>შემდეგი ზრდის დონე</NextGrowthTier>
+  <NumPassionsFromOptions>აირჩიეთ {0} ვნებები {1} ვარიანტებიდან.</NumPassionsFromOptions>
+  <NumTraitsFromOptions>აირჩიეთ {0} თვისება {1} ვარიანტებიდან.</NumTraitsFromOptions>
+  <NextGrowthMomentAt>შემდეგი ზრდის მომენტი ასაკში</NextGrowthMomentAt>
+
+  <RoomRequirementNoBiotechBuildings>დაუშვებელია ბიოტექნოლოგიური შენობები</RoomRequirementNoBiotechBuildings>
+
+  <WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>{PAWN_nameDef}-ზე სისხლით კვება გამოიწვევს სისხლის სერიოზულ დაკარგვას, რაც {PAWN_objective}-ს უგონო მდგომარეობაში დატოვებს.\n\nდარწმუნებული ხართ?</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
+  <WarningPawnWillDieFromBloodfeeding>{PAWN_nameDef}-ზე სისხლით კვება მოკლავს {PAWN_objective}-ს.\n\nდარწმუნებული ხართ?</WarningPawnWillDieFromBloodfeeding>
+
+  <AbilityMustHaveTendableWound>{0_labelShort}-ს უნდა ჰქონდეს დასაკეცი ჭრილობა.</AbilityMustHaveTendableWound>
+
+  
+  <ConfirmAbandonHomeWithColonyPawnsIncMechs>თქვენი ზოგიერთი კოლონისტი, ცხოველი ან მექანოიდი ამ მხარეშია. დარწმუნებული ხართ, რომ გსურთ მისი მიტოვება?\n\nშემდეგი ხალხი, ცხოველები და მექანიზები დარჩება:\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs>
+
+</LanguageData>

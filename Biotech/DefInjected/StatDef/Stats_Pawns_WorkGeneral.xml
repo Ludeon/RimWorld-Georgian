@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorkSpeedGlobalOffsetMech.description>სამუშაო სიჩქარის ოფსეტი, რომელიც გამოიყენება მექანიტორის მექანიზმებზე.</WorkSpeedGlobalOffsetMech.description>
+  <WorkSpeedGlobalOffsetMech.label>მექანიკური მუშაობის სიჩქარის კომპენსირება</WorkSpeedGlobalOffsetMech.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Captured.label>დატყვევებული პირი</Captured.label>
+  <DefeatedHostileFactionLeader.label>დაამარცხა მტრული ლიდერი</DefeatedHostileFactionLeader.label>
+  <DidSurgery.label>ჩატარებული ოპერაცია</DidSurgery.label>
+  <ExecutedPrisoner.label>პატიმარი დახვრიტეს</ExecutedPrisoner.label>
+  <Hunted.label>ცხოველზე ნადირობა</Hunted.label>
+  <KidnappedColonist.label>კოლონისტი გაიტაცეს</KidnappedColonist.label>
+  <KilledBy.label>სიკვდილი</KilledBy.label>
+  <KilledColonist.label>კოლონისტი მოკლეს</KilledColonist.label>
+  <KilledColonyAnimal.label>მოკლული კოლონიის ცხოველი</KilledColonyAnimal.label>
+  <Recruited.label>დაქირავებული ადამიანი</Recruited.label>
+  <SoldPrisoner.label>გაყიდული პატიმარი</SoldPrisoner.label>
+  <TamedAnimal.label>მოთვინიერებული ცხოველი</TamedAnimal.label>
+  <TradedWith.label>ვინმესთან ვაჭრობდა</TradedWith.label>
+  <TrainedAnimal.label>გაწვრთნილი ცხოველი</TrainedAnimal.label>
+</LanguageData>

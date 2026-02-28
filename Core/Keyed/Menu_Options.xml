@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <Audiovisuals>ვიდეო/აუდიო</Audiovisuals>
+  <MasterVolume>სამაგისტრო მოცულობა</MasterVolume>
+  <GameVolume>თამაშის მოცულობა</GameVolume>
+  <MusicVolume>მუსიკის მოცულობა</MusicVolume>
+  <AmbientVolume>ატმოსფეროს მოცულობა</AmbientVolume>
+  <UIVolume>UI მოცულობა</UIVolume>
+  <MasterVolumeTooltip>გავლენას ახდენს ყველა ბგერაზე.</MasterVolumeTooltip>
+  <GameVolumeTooltip>გავლენას ახდენს ყველა მსოფლიო ბგერებში, მაგ. ხეების ჭრა, კედლების აშენება.</GameVolumeTooltip>
+  <MusicVolumeTooltip>გავლენას ახდენს მუსიკაზე.</MusicVolumeTooltip>
+  <AmbientVolumeTooltip>გავლენას ახდენს გარემოს ყველა ბგერაზე, მაგ. ქარი, მწერები.</AmbientVolumeTooltip>
+  <UIVolumeTooltip>გავლენას ახდენს ყველა ინტერფეისის ხმაზე, მაგ. ღილაკზე დაწკაპუნება, შეტყობინებები.</UIVolumeTooltip>
+  <Antialiasing>ანტი-ალიასინგი</Antialiasing>
+
+  
+  <RememberDrawStyle>დაიმახსოვრე ხატვის სტილები</RememberDrawStyle>
+  <RememberDrawStyle_Tooltip>როდესაც ჩართულია, ახალი შენობების ან ზონების განთავსებისას დახატვის სტილები არ აღდგება ნაგულისხმევი გათამაშების სტილზე.</RememberDrawStyle_Tooltip>
+  <ZoomSwitchLayer>Zoom ცვლის მსოფლიო რუქის ფენებს</ZoomSwitchLayer>
+  <ZoomSwitchLayer_Tooltip>როდესაც ჩართულია, მსოფლიო რუკაზე მასშტაბირება გადავა ორბიტალურ ხედზე. მასშტაბირება კვლავ აჩვენებს პლანეტას.</ZoomSwitchLayer_Tooltip>
+  <EdgeScreenScroll>მაუსის ეკრანის კიდეზე გადახვევა</EdgeScreenScroll>
+  <ZoomToMouse>მაუსის მასშტაბირება</ZoomToMouse>
+  <PauseOnLoad>პაუზა დატვირთვისას</PauseOnLoad>
+  <PauseOnUrgentLetter>სასწრაფო წერილზე პაუზა</PauseOnUrgentLetter>
+  <AutomaticPauseModeSetting>პაუზა წერილზე</AutomaticPauseModeSetting>
+  <CustomCursor>თამაშის სპეციფიკური კურსორის გამორთვა</CustomCursor>
+  <HatsShownOnlyOnMap>დამალეთ ქუდები UI-ზე</HatsShownOnlyOnMap>
+  <UIScale>UI მასშტაბი</UIScale>
+  <KeyboardConfig>კლავიატურის კონფიგურაცია</KeyboardConfig>
+  <ControllerConfig>კონტროლერის კონფიგურაცია</ControllerConfig>
+  <ModifyConfig>შეცვლა</ModifyConfig>
+  <ChooseLanguage>აირჩიეთ ენა</ChooseLanguage>
+  <ResetAdaptiveTutor>სწავლის დამხმარე გადატვირთვა</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>დამრიგებელი გადატვირთულია. თქვენ ახლა ხელახლა გასწავლით ყველა გაკვეთილს ნულიდან.</AdaptiveTutorIsReset>
+  <SteamDeckKeyboardMode>კლავიატურის რეჟიმი</SteamDeckKeyboardMode>
+  <RunInBackground>ფონზე გაშვება</RunInBackground>
+  <DevelopmentMode>განვითარების რეჟიმი</DevelopmentMode>
+  <ResetModsConfigOnCrash>ავტომატური გადატვირთვის რეჟიმის კონფიგურაცია ავარიის დროს</ResetModsConfigOnCrash>
+  <DisableQuickStartCryptoSickness>სწრაფ დაწყებას არ აქვს კრიპტოძილის დაავადება</DisableQuickStartCryptoSickness>
+  <StartDevPaletteOn>დაიწყეთ თამაში დეველოპერის პალიტრით</StartDevPaletteOn>
+  <OpenLogOnWarnings>გახსენით ჟურნალი გაფრთხილებებზე</OpenLogOnWarnings>
+  <CloseLogWindowOnEscape>ჟურნალის დახურვა გაუქმების დაჭერით</CloseLogWindowOnEscape>
+  <LogVerbose>სიტყვიერი ჭრა</LogVerbose>
+  <SaveGameDataFolder>მონაცემთა საქაღალდის შენახვა</SaveGameDataFolder>
+  <SaveGameDataLocation>მონაცემთა მდებარეობის შენახვა</SaveGameDataLocation>
+  <LogFileFolder>ჟურნალის ფაილის საქაღალდე</LogFileFolder>
+  <LogFileLocation>ჟურნალის ფაილის ადგილმდებარეობა</LogFileLocation>
+  <OpenFolder>გახსნა</OpenFolder>
+  <ShowFolder>ჩვენება</ShowFolder>
+  <NamesYouWantToSee>სასურველი სიმბოლოები "სახელი თამაშში".</NamesYouWantToSee>
+  <NamesYouWantToSeeSubText>ეს პერსონაჟები უფრო მეტად შემთხვევით გამოჩნდებიან თამაშის დროს.</NamesYouWantToSeeSubText>
+  <AddName>სახელის დამატება</AddName>
+  <TypeFirstNickOrLastName>ჩაწერეთ სახელი, მეტსახელი ან გვარი.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>ეს სახელი უკვე სასურველ სიაშია.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>მთხრობელის პარამეტრები</ChangeStoryteller>
+  <AutosaveInterval>ავტომატური შენახვის ინტერვალი</AutosaveInterval>
+  <AutosaveIntervalTooltip>თამაშის დღეების რაოდენობა თითოეულ ავტო შენახვას შორის.</AutosaveIntervalTooltip>
+  <TemperatureMode>ტემპერატურის ერთეული</TemperatureMode>
+  <ShowRealtimeClock>რეალურ დროში საათის ჩვენება</ShowRealtimeClock>
+  <TwelveHourClockMode>გამოიყენეთ 12 საათიანი საათი</TwelveHourClockMode>
+  <DisableTinyText>გამორთეთ პატარა შრიფტი</DisableTinyText>
+  <MaxNumberOfPlayerSettlements>კოლონიების მაქსიმალური რაოდენობა: {0}</MaxNumberOfPlayerSettlements>
+  <AutosavesCount>ავტომატური შენახვების რაოდენობა: {0}</AutosavesCount>
+  <MapDragSensitivity>რუკის მაუსის გადაწევის მგრძნობელობა</MapDragSensitivity>
+  <PlantWindSway>მცენარეთა ქარის რხევა</PlantWindSway>
+  <EnableTestMapSizes>ჩართეთ სატესტო რუქის ზომები</EnableTestMapSizes>
+  <MaxPermadeathAutosaveIntervalInfo>ავტომატური შენახვის მაქსიმალური ინტერვალი permadeath რეჟიმში არის {0} დღე.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>მოდის პარამეტრები</ModSettings>
+  <PermanentlyDisableDevMode>სამუდამოდ გამორთეთ განვითარების რეჟიმი</PermanentlyDisableDevMode>
+  <TextureCompression>ტექსტურის შეკუმშვა</TextureCompression>
+  <TextureCompression_Tooltip>ტექსტურის შეკუმშვის გამორთვა ბევრად მეტ ვიდეო მეხსიერებას გამოიყენებს, მაგრამ ტექსტურებს ოდნავ უკეთესად გამოიყურება დეტალურ ადგილებში. გამორთეთ ეს მხოლოდ იმ შემთხვევაში, თუ იცით, რომ გაქვთ ბევრი დამატებითი ვიდეო მეხსიერება.\n\nგაითვალისწინეთ, რომ გარკვეული რეჟიმის გამოყენება ხშირად მოიხმარს ბევრად მეტ ვიდეო მეხსიერებას, ამიტომ შეიძლება დაგჭირდეთ ამის ჩართვა, თუ დაამატებთ გარკვეულ რეჟიმებს.</TextureCompression_Tooltip>
+  <SmoothCameraJumps>კამერის გლუვი ხტუნვა</SmoothCameraJumps>
+  <SmoothCameraJumpsDesc>როდესაც ჩართულია, კამერა სწრაფად გადაივლის ახალ მდებარეობაზე ფოკუსირებისას. როდესაც გამორთულია, კამერა მყისიერად გადახტება.</SmoothCameraJumpsDesc>
+  <GravshipCutscenes>საფლავის სცენები</GravshipCutscenes>
+  <GravshipCutscenesDesc>როდესაც გამორთულია, სამარხები მყისიერად აფრინდება და დაეშვება.</GravshipCutscenesDesc>
+
+  
+  <Resolution>გარჩევადობა</Resolution>
+  <Fullscreen>სრული ეკრანი</Fullscreen>
+  <BorderlessFullscreen>უსაზღვრო სრული ეკრანი</BorderlessFullscreen>
+  <BorderlessFullscreenInstructions>RimWorld-ის უსაზღვრო სრულეკრანიან რეჟიმში გასაშვებად:\n\n1) გახსენით Steam\n2) გადადით "Library" ჩანართზე ზედა\n3) იპოვეთ RimWorld სიაში და დააწკაპუნეთ მასზე მარჯვენა ღილაკით\n4) აირჩიეთ "Properties..."\n5) დაამატეთ "-popupwindow" ბრჭყალების გარეშე "გაშვების\n) ჩანართზე "Launch\n) Rest. სწორად გაკეთებული, ამ ფანჯარას ვერ ნახავთ\n\nმინიშნება: გამოიყენეთ Windows Key + Shift + Left/Right ფანჯრის მონიტორებს შორის გადასატანად.</BorderlessFullscreenInstructions>
+
+  
+  <SelectMod>აირჩიეთ რეჟიმი...</SelectMod>
+  <NoConfigurableMods>არ არის ჩატვირთული კონფიგურირებადი მოდიფიკაციები.</NoConfigurableMods>
+  
+  
+  <RestoreToDefaultSettingsLabel>აღადგინეთ ყველა პარამეტრი ნაგულისხმევად</RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettings>ნაგულისხმევი პარამეტრების აღდგენა</RestoreToDefaultSettings>
+  <ResetAndRestart>ყველა პარამეტრი გადატვირთულია. თამაში ახლა ავტომატურად გადაიტვირთება.</ResetAndRestart>
+  <ResetAndRestartConfirmationDialog>ყველა პარამეტრი აღდგება ნაგულისხმევად და თამაში გადაიტვირთება. შენახული პროგრესი დაიკარგება,\n\nგაგრძელება?</ResetAndRestartConfirmationDialog>
+  <ChangedTextureCompressionRestart>ტექსტურის შეკუმშვის პარამეტრების შეცვლა საჭიროებს გადატვირთვას. შენახული პროგრესი დაიკარგება.\n\nგაგრძელება?</ChangedTextureCompressionRestart>
+  
+  
+  <SetBackgroundImage>მენიუს ფონი</SetBackgroundImage>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BrainwipeTarget.label>სამიზნე</BrainwipeTarget.label>
+  <ChronophagyTarget.label>სამიზნე</ChronophagyTarget.label>
+  <Defender.description>დამცველები იცავენ რიტუალის მონაწილეებს ზიანისგან.</Defender.description>
+  <Defender.label>დამცველები</Defender.label>
+  <Invoker.label>გამომწვევი</Invoker.label>
+  <PhilophagyTarget.label>სამიზნე</PhilophagyTarget.label>
+  <PsychophagyTarget.label>სამიზნე</PsychophagyTarget.label>
+</LanguageData>

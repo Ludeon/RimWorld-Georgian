@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BandwidthCost.description>რამდენ სიჩქარეს მოიხმარს ეს მექანიზმი მექანიტორის კონტროლის დროს.</BandwidthCost.description>
+  <BandwidthCost.label>გამტარუნარიანობის ღირებულება</BandwidthCost.label>
+  <CancerRate.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სავარაუდოა ამ ადამიანს კიბოს განვითარება ნებისმიერ მოცემულ დროში.</CancerRate.description>
+  <CancerRate.label>კიბოს სიხშირის ფაქტორი</CancerRate.label>
+  <ControlTakingTime.description>რამდენი წამი დასჭირდება მექანიტორს ამ მექანიზმის კონტროლისთვის.</ControlTakingTime.description>
+  <ControlTakingTime.label>დროის აღების კონტროლი</ControlTakingTime.label>
+  <Fertility.description>ნაყოფიერება გავლენას ახდენს ორსულობის დადგომის შანსზე. ორსულობის შანსი დამოკიდებულია ორივე პარტნიორის ნაყოფიერებაზე. ეს ასევე გავლენას ახდენს სუროგატში ემბრიონის წარმატებით იმპლანტაციის შანსზე.</Fertility.description>
+  <Fertility.label>ნაყოფიერება</Fertility.label>
+  <GrowthVatOccupantSpeed.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად გაიზრდება ეს ადამიანი ზრდის ღუმელში.</GrowthVatOccupantSpeed.description>
+  <GrowthVatOccupantSpeed.label>ზრდის დღგ ოკუპანტის სიჩქარე</GrowthVatOccupantSpeed.label>
+  <HemogenGainFactor.description>მულტიპლიკატორი მოპოვებული ჰემოგენის რაოდენობაზე.</HemogenGainFactor.description>
+  <HemogenGainFactor.label>ჰემოგენის მომატების მულტიპლიკატორი</HemogenGainFactor.label>
+  <LearningRateFactor.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად სრულდება ბავშვის სასწავლო მოთხოვნილება სასწავლო აქტივობებით.</LearningRateFactor.description>
+  <LearningRateFactor.label>სწავლის სიჩქარის ფაქტორი</LearningRateFactor.label>
+  <MechBandwidth.description>How much bandwidth a mechanitor has. More bandwidth allows a mechanitor to produce and control more mechs at the same time.\n\nLosing bandwidth means losing control of mechs, leaving them without an overseer. Such mechs can eventually become feral if not re-dominated.</MechBandwidth.description>
+  <MechBandwidth.label>მექანიკური გამტარობა</MechBandwidth.label>
+  <MechControlGroups.description>რამდენი საკონტროლო ჯგუფის მართვა შეუძლია ამ მექანიტორს დამოუკიდებლად. თითოეულ საკონტროლო ჯგუფს შეიძლება მიეცეს საკუთარი ცალკეული ბრძანებები.</MechControlGroups.description>
+  <MechControlGroups.label>მექანიკური კონტროლის ჯგუფები</MechControlGroups.label>
+  <MechEnergyLossPerHP.description>ენერგიის რაოდენობა, რომელსაც ეს მექანოიდი კარგავს ყოველი 100 გამოსწორებული დაზიანებისთვის.</MechEnergyLossPerHP.description>
+  <MechEnergyLossPerHP.label>ენერგიის შეკეთების ღირებულება</MechEnergyLossPerHP.label>
+  <MechEnergyUsageFactor.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად მოიხმარს მექანოიდი თავის ენერგეტიკულ რეზერვებს მუშაობის დროს.</MechEnergyUsageFactor.description>
+  <MechEnergyUsageFactor.label>ენერგიის მოხმარების მულტიპლიკატორი</MechEnergyUsageFactor.label>
+  <MechFormingSpeed.description>მულტიპლიკატორი სიჩქარეზე, რომლითაც ამ მექანიტორს შეუძლია გესტატორში ახალი მექანოიდების შექმნა.</MechFormingSpeed.description>
+  <MechFormingSpeed.label>მექანიკური ორსულობის სიჩქარე</MechFormingSpeed.label>
+  <MechRemoteRepairDistance.description>რამდენად შორს შეიძლება იყოს მექანიკა დისტანციური შეკეთების დროს.</MechRemoteRepairDistance.description>
+  <MechRemoteRepairDistance.label>მექანიკური დისტანციური სარემონტო მანძილი</MechRemoteRepairDistance.label>
+  <MechRemoteShieldDistance.description>მაქსიმალური დიაპაზონი, რომლის დროსაც მექანიტორს შეუძლია ფარის დაყენება მექანოიდზე.</MechRemoteShieldDistance.description>
+  <MechRemoteShieldDistance.label>მექანიკური დისტანციური ფარის მანძილი</MechRemoteShieldDistance.label>
+  <MechRemoteShieldEnergy.description>ენერგია ექნება დისტანციურ ფარს მექანიტორის მიერ შექმნისას.</MechRemoteShieldEnergy.description>
+  <MechRemoteShieldEnergy.label>მექანიკური დისტანციური ფარის ენერგია</MechRemoteShieldEnergy.label>
+  <MechRepairSpeed.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად შეუძლია მექანიტორს მექანოიდების შეკეთება.</MechRepairSpeed.description>
+  <MechRepairSpeed.label>მექანიკური შეკეთების სიჩქარე</MechRepairSpeed.label>
+  <RawNutritionFactor.description>მულტიპლიკატორი იმისა, თუ რამდენად მკვებავია უმი საკვები ამ ადამიანისთვის. გაითვალისწინეთ, რომ იმის გამო, რომ საკვებს, როგორც წესი, აქვს უფრო მეტი საკვები, ვიდრე მათი ნედლეული ინგრედიენტები, ამ სტატისტიკის გაზრდა შეიძლება მხოლოდ იმას ნიშნავს, რომ ადამიანი იღებს იმავე საკვებს უმი საკვებიდან, თითქოს ის მოხარშული იყოს.</RawNutritionFactor.description>
+  <RawNutritionFactor.label>ნედლეული კვების მულტიპლიკატორი</RawNutritionFactor.label>
+  <SubcoreEncodingSpeed.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად შეუძლია მექანიტორს შექმნას ქვებირთვები.</SubcoreEncodingSpeed.description>
+  <SubcoreEncodingSpeed.label>ქვებირთვიანი კოდირების სიჩქარე</SubcoreEncodingSpeed.label>
+  <WastepacksPerRecharge.description>რამდენ ტოქსიკურ ნარჩენ პაკეტს გამოიმუშავებს ეს მექანიოიდი მექანიკურ დამტენზე, როდესაც გადადის 0-დან 100%-მდე ენერგიაზე. უფრო დიდი მექანოიდები ზოგადად უფრო ტოქსიკურ ნარჩენებს შექმნის.</WastepacksPerRecharge.description>
+  <WastepacksPerRecharge.label>ნარჩენების პაკეტები თითო შევსებაზე</WastepacksPerRecharge.label>
+</LanguageData>

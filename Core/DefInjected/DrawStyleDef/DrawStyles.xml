@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AngledLine.label>დახრილი ხაზი</AngledLine.label>
+  <EmptyOval.label>ცარიელი ოვალური</EmptyOval.label>
+  <EmptyRectangle.label>ცარიელი მართკუთხედი</EmptyRectangle.label>
+  <FilledOval.label>შევსებული ოვალური</FilledOval.label>
+  <FilledRectangle.label>შევსებული მართკუთხედი</FilledRectangle.label>
+  <Line.label>ხაზი</Line.label>
+</LanguageData>

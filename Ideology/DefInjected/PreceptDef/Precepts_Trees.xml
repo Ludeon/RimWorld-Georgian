@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GauranlenConnection_Strong.description>განსაკუთრებული კავშირი გვაქვს გაურანლენის ხეებთან. ხეები ადვილად ახდენენ წარმოების ფოკუსირებას ჩვენი გავლენის ქვეშ და ჩვენ არ ვართ კმაყოფილი, თუ ეს კავშირი არ გვაქვს.</GauranlenConnection_Strong.description>
+  <GauranlenConnection_Strong.label>ძლიერი</GauranlenConnection_Strong.label>
+  <Trees_Desired.description>აუცილებელია ლამაზი ხეებით გარშემორტყმული ცხოვრება.</Trees_Desired.description>
+  <Trees_Desired.label>სასურველი</Trees_Desired.label>
+</LanguageData>

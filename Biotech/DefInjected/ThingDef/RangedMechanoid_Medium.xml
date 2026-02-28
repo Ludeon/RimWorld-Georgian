@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_ToxicNeedleGun.label>ტოქსიკური ნემსი</Bullet_ToxicNeedleGun.label>
+  <Gun_BeamGraser.description>გამა სხივების ლაზერი, რომელიც ასხივებს გამაოგნებელ სხივს. ვიწრო, მაღალი ენერგიის სხივს შეუძლია სქელი ჯავშნის გახვრეტა და სამიზნეების ანთება.</Gun_BeamGraser.description>
+  <Gun_BeamGraser.label>სხივის გრეისერი</Gun_BeamGraser.label>
+  <Gun_NeedleLauncher.description>ეს მექანოიდური იარაღი არის ნემსის იარაღის კომპაქტური ვერსია. ნემსისმაგვარი ჭურვების მიხედვით დაარქვეს და დიდი სიზუსტით ისვრის ერთ გასროლას. ნემსის გამშვებს აქვს ნაკლები დიაპაზონი, ვიდრე მის კოლეგას, მაგრამ არის მსუბუქი, რაც საშუალებას აძლევს მას გამოიყენოს სწრაფად მოძრავი მექანიზმები.</Gun_NeedleLauncher.description>
+  <Gun_NeedleLauncher.label>ნემსის გამშვები</Gun_NeedleLauncher.label>
+  <Gun_ToxicNeedle.description>მექანიკური აგებულების იარაღი, რომელიც ისვრის ტოქსინით გაჟღენთილ მეტალის ნემსებს. მას შეუძლია შორ მანძილზე სროლა და ფიზიკური ზიანის მიყენების გარდა სამიზნეს მოწამლას.</Gun_ToxicNeedle.description>
+  <Gun_ToxicNeedle.label>ტოქსიკური ნემსის იარაღი</Gun_ToxicNeedle.label>
+</LanguageData>

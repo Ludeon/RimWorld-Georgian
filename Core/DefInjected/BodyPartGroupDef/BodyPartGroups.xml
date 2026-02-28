@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Arms.label>იარაღი</Arms.label>
+  <Beak.label>წვერი</Beak.label>
+  <Eyes.label>თვალები</Eyes.label>
+  <Feet.label>ფეხები</Feet.label>
+  <FrontLeftClaws.label>წინა მარცხენა კლანჭები</FrontLeftClaws.label>
+  <FrontLeftLeg.label>წინა მარცხენა ფეხი</FrontLeftLeg.label>
+  <FrontLeftPaw.label>წინა მარცხენა თათი</FrontLeftPaw.label>
+  <FrontRightClaws.label>წინა მარჯვენა კლანჭები</FrontRightClaws.label>
+  <FrontRightLeg.label>წინა მარჯვენა ფეხი</FrontRightLeg.label>
+  <FrontRightPaw.label>წინა მარჯვენა თათი</FrontRightPaw.label>
+  <FullHead.label>სრული თავი</FullHead.label>
+  <Hands.label>ხელები</Hands.label>
+  <HeadAttackTool.label>ხელმძღვანელი</HeadAttackTool.label>
+  <HeadClaw.label>კლანჭა</HeadClaw.label>
+  <HornAttackTool.label>რქა</HornAttackTool.label>
+  <LeftBlade.label>მარცხენა დანა</LeftBlade.label>
+  <LeftHand.label>მარცხენა მუშტი</LeftHand.label>
+  <Legs.label>ფეხები</Legs.label>
+  <MiddleFingers.label>შუა თითი</MiddleFingers.label>
+  <Mouth.label>პირი</Mouth.label>
+  <Neck.label>კისერი</Neck.label>
+  <RightBlade.label>მარჯვენა დანა</RightBlade.label>
+  <RightHand.label>მარჯვენა მუშტი</RightHand.label>
+  <Shoulders.label>მხრები</Shoulders.label>
+  <Teeth.label>კბილები</Teeth.label>
+  <Torso.label>ტორსი</Torso.label>
+  <TurtleBeakAttackTool.label>წვერი</TurtleBeakAttackTool.label>
+  <TuskAttackTool.label>ტოტები</TuskAttackTool.label>
+  <UpperHead.label>ზედა თავი</UpperHead.label>
+  <Waist.label>კომუნალური სლოტი</Waist.label>
+</LanguageData>

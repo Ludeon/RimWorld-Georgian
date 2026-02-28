@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ability.label>უნარი</Ability.label>
+  <AnimalProductivity.label>ცხოველთა პროდუქტიულობა</AnimalProductivity.label>
+  <Animals.label>ცხოველი</Animals.label>
+  <Apparel.label>ტანსაცმელი</Apparel.label>
+  <Basics.label>საფუძვლები</Basics.label>
+  <BasicsImportant.label>საფუძვლები</BasicsImportant.label>
+  <BasicsNonPawn.label>საფუძვლები</BasicsNonPawn.label>
+  <BasicsNonPawnImportant.label>საფუძვლები</BasicsNonPawnImportant.label>
+  <BasicsPawn.label>საფუძვლები</BasicsPawn.label>
+  <BasicsPawnImportant.label>საფუძვლები</BasicsPawnImportant.label>
+  <Building.label>შენობა</Building.label>
+  <CapacityEffects.label>ეფექტები</CapacityEffects.label>
+  <Drug.label>ნარკოტიკი</Drug.label>
+  <DrugAddiction.label>ნარკომანია</DrugAddiction.label>
+  <EquippedStatOffsets.label>ოფსეტები, როდესაც აღჭურვილია</EquippedStatOffsets.label>
+  <Genetics.label>გენეტიკა</Genetics.label>
+  <Implant.label>იმპლანტი</Implant.label>
+  <Mechanoid.label>მექანოიდი</Mechanoid.label>
+  <Meditation.label>მედიტაცია</Meditation.label>
+  <PawnCombat.label>საბრძოლო</PawnCombat.label>
+  <PawnFood.label>საჭმელი</PawnFood.label>
+  <PawnHealth.label>ჯანმრთელობა</PawnHealth.label>
+  <PawnMisc.label>სხვადასხვა</PawnMisc.label>
+  <PawnPsyfocus.label>ფსიფოკუსი</PawnPsyfocus.label>
+  <PawnResistances.label>წინააღმდეგობები და მგრძნობელობა</PawnResistances.label>
+  <PawnSocial.label>სოციალური</PawnSocial.label>
+  <PawnWork.label>მუშაობა</PawnWork.label>
+  <Source.label>შინაარსის წყარო</Source.label>
+  <StuffOfEquipmentStatFactors.label>მულტიპლიკატორები, როდესაც მოწყობილობა მზადდება ამისგან</StuffOfEquipmentStatFactors.label>
+  <StuffStatFactors.label>მულტიპლიკატორები, როდესაც მზადდება ამ</StuffStatFactors.label>
+  <StuffStatOffsets.label>ოფსეტები, როდესაც მზადდება ამ</StuffStatOffsets.label>
+  <Surgery.label>ქირურგიული</Surgery.label>
+  <Terrain.label>რელიეფი</Terrain.label>
+  <Weapon.label>იარაღი</Weapon.label>
+  <Weapon_Melee.label>იარაღი (melee)</Weapon_Melee.label>
+  <Weapon_Ranged.label>იარაღი (დისტანციური)</Weapon_Ranged.label>
+</LanguageData>

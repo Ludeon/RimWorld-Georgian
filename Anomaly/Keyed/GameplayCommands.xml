@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <CommandSelfResurrect>თვითაღდგომა</CommandSelfResurrect>
+  <CommandSelfResurrectDesc>უბრძანე ამ ადამიანს თვითაღდგენა, ჭრილობების შეხორცება და სხეულის დაზიანებული ნაწილების აღდგენა. პროცესი არ არის სრულყოფილი და შეიძლება გამოიწვიოს ნაწიბურები.</CommandSelfResurrectDesc>
+
+  <ToggleStudy>შესწავლა</ToggleStudy>
+  <ToggleStudyDesc>როდესაც ჩართულია, მკვლევარი ავტომატურად შეისწავლის ამ ჰოლდინგის პლატფორმაზე შეზღუდულ ერთეულს.</ToggleStudyDesc>
+
+</LanguageData>

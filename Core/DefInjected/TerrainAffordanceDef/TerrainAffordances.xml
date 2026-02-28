@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bridgeable.label>ხიდი</Bridgeable.label>
+  <Diggable.label>თხრიან</Diggable.label>
+  <GrowSoil.label>მზარდი</GrowSoil.label>
+  <Heavy.label>მძიმე</Heavy.label>
+  <Light.label>სინათლე</Light.label>
+  <Medium.label>საშუალო</Medium.label>
+  <MovingFluid.label>მოძრავი წყალი</MovingFluid.label>
+  <ShallowWater.label>არაღრმა წყალი</ShallowWater.label>
+  <SmoothableStone.label>გლუვი</SmoothableStone.label>
+  <Walkable.label>ფეხით მოსიარულე</Walkable.label>
+  <WaterproofConduitable.label>წყალგაუმტარი მილი</WaterproofConduitable.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bulbfreak.description>ბევრი პატარა ხორციანი ცხოველის საშინელი შერწყმა, რომლებიც კონტროლდება დაკავშირებული ნერვული სისტემის მიერ. მას აქვს ორი დიდი კლანჭი, რომელსაც ის იყენებს მსხვერპლთა დასალევად. ბოლქვების სურნელს ხშირად აგრძნობინებენ, სანამ არ დაინახავენ, რაც გამოსდის გახეხილი ხორცის უსიამოვნო სუნს. ისინი შედარებით ნელი და ადვილად მოსაკლავი არიან, მაგრამ როგორც კი დაიღუპებიან, ისინი აფეთქებენ პატარა ხორცის მხეცების ურდოს.</Bulbfreak.description>
+  <Bulbfreak.label>bulbfreak</Bulbfreak.label>
+  <Dreadmeld.description>ათობით პატარა ხორციანი ცხოველის უზარმაზარი გაერთიანება, რომლებიც ერთმანეთთან დაკავშირებულია თავისუფლად საერთო ცენტრალური ნერვული სისტემით. ის იყენებს თავის მასიურ კლანჭებს გვირაბების გათხრას მყარ კლდეში. Fleshbeast dreadmelds იშვიათად ჩანს მიწის ზემოთ, ნაცვლად თავშესაფარი გამოქვაბულები აშენებული ცოცხალი ხორცი. ისინი იზიარებენ ფსიქიკურ კავშირს ხორცთან, რომელიც გამოიყენება მათი ბურუსის შესაქმნელად.</Dreadmeld.description>
+  <Dreadmeld.label>დრედმელდი</Dreadmeld.label>
+  <Fingerspike.description>ძაღლის ზომის ხორციანი არსება ერთი წვეტიანი კიდურით. მოკლე ფეხების მიუხედავად, თითებს შეუძლიათ საოცრად სწრაფად მოძრაობა.</Fingerspike.description>
+  <Fingerspike.label>თითის წვერა</Fingerspike.label>
+  <Toughspike.description>A fleshy man-sized creature with two spiked limbs and an armored carapace. Toughspikes throw hardened keratin spikes to take down victims from a distance.\n\nToughspike corpses will dissolve into puddles of liquefied flesh if they're not butchered quickly.</Toughspike.description>
+  <Toughspike.label>ხისტი</Toughspike.label>
+  <Trispike.description>ადამიანის ზომის რამდენიმე პატარა ხორცის მხეცის გაერთიანება. არსების თითოეულ კიდურს შეუძლია დამოუკიდებლად გადარჩეს. სიკვდილის შემდეგ, ტრიპიკები შეიძლება გაიყოს ცალკეულ თითებად, რადგან თითოეული კიდური თავისუფლდება და უტევს.</Trispike.description>
+  <Trispike.label>სამწვერა</Trispike.label>
+</LanguageData>

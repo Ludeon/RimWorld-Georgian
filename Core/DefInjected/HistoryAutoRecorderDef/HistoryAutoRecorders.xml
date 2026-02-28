@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Adaptation.label>აღდგენა</Adaptation.label>
+  <ColonistMood.label>განწყობა</ColonistMood.label>
+  <FreeColonists.label>თავისუფალი კოლონისტები</FreeColonists.label>
+  <PopAdaptation.label>პოპ აღდგენა</PopAdaptation.label>
+  <PopIntent.label>მოსახლეობის მიზანი x10</PopIntent.label>
+  <Prisoners.label>პატიმრები</Prisoners.label>
+  <ThreatPoints.label>საფრთხის ქულები /10</ThreatPoints.label>
+  <Wealth_Buildings.label>სიმდიდრე (შენობები)</Wealth_Buildings.label>
+  <Wealth_Items.label>სიმდიდრე (ნივთები)</Wealth_Items.label>
+  <Wealth_Pawns.label>სიმდიდრე (არსებები)</Wealth_Pawns.label>
+  <Wealth_Total.label>სიმდიდრე (სულ)</Wealth_Total.label>
+</LanguageData>

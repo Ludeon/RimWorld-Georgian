@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BedRestEffectiveness.description>რამდენად სწრაფად ისვენებენ ამ ზემოდან მძინარე ადამიანები.</BedRestEffectiveness.description>
+  <BedRestEffectiveness.label>დასვენების ეფექტურობა</BedRestEffectiveness.label>
+  <DoorOpenSpeed.description>რა სიჩქარით იღება კარი ელექტროენერგიის გარეშე.\n\nნელი კარები ყველას ანელებს, ვინც მათ იყენებს.</DoorOpenSpeed.description>
+  <DoorOpenSpeed.label>კარის გახსნის სიჩქარე</DoorOpenSpeed.label>
+  <ImmunityGainSpeedFactor.description>იმუნიტეტის მომატების სიჩქარე მრავლდება ამ მნიშვნელობაზე.</ImmunityGainSpeedFactor.description>
+  <ImmunityGainSpeedFactor.label>იმუნიტეტის მომატების სიჩქარის ფაქტორი</ImmunityGainSpeedFactor.label>
+  <JoyGainFactor.description>რამდენად ეფექტურად ართობს ეს ნივთი ადამიანებს და აკმაყოფილებს დასვენების საჭიროებას.</JoyGainFactor.description>
+  <JoyGainFactor.label>დასვენების ძალა</JoyGainFactor.label>
+  <MedicalTendQualityOffset.description>სამედიცინო ტენდენციას ხარისხი კომპენსირდება ამ მნიშვნელობით.</MedicalTendQualityOffset.description>
+  <MedicalTendQualityOffset.label>სამედიცინო ტენდენცია ხარისხის ოფსეტური</MedicalTendQualityOffset.label>
+  <PowerPlantMaxPowerOuput.description>მაქსიმალური სიმძლავრე, რომელიც ამ გენერატორს შეუძლია გამოიმუშაოს იდეალურ პირობებში.</PowerPlantMaxPowerOuput.description>
+  <PowerPlantMaxPowerOuput.label>მაქსიმალური სიმძლავრე</PowerPlantMaxPowerOuput.label>
+  <ResearchSpeedFactor.description>სიჩქარე, რომლითაც ადამიანები აკეთებენ კვლევას, მრავლდება ამ მნიშვნელობაზე.</ResearchSpeedFactor.description>
+  <ResearchSpeedFactor.label>კვლევის სიჩქარის ფაქტორი</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.parts.3.customLabel>ოთახის სისუფთავე</ResearchSpeedFactor.parts.3.customLabel>
+  <ResearchSpeedFactor.parts.4.customLabel>კითხვის ბონუსი</ResearchSpeedFactor.parts.4.customLabel>
+  <RoomReadingBonus.description>უზრუნველყოფს ბონუსს კვლევის სიჩქარეზე, კითხვით მიღებულ XP-ზე და წიგნების კარადის იმავე ოთახში კითხვით მიღებულ დასვენებაზე. ეს იზრდება წიგნების კარადაში მეტი და უფრო მაღალი ხარისხის წიგნების განთავსებით.</RoomReadingBonus.description>
+  <RoomReadingBonus.label>კითხვის ბონუსი</RoomReadingBonus.label>
+  <RoomReadingBonus.parts.0.customLabel>კითხვის ბონუსი</RoomReadingBonus.parts.0.customLabel>
+  <SurgerySuccessChanceFactor.description>გამამრავლებელი ოპერაციის წარმატების შანსისთვის, როცა იგი აქ ტარდება.\n\nწარმატების შანსზე გავლენას ბევრი სხვა ფაქტორიც ახდენს, მათ შორის ქირურგის უნარი და ოთახის სისუფთავე.</SurgerySuccessChanceFactor.description>
+  <SurgerySuccessChanceFactor.label>ოპერაციის წარმატების შანსის ფაქტორი</SurgerySuccessChanceFactor.label>
+  <SurgerySuccessChanceFactor.parts.0.customLabel>ოთახის სისუფთავე</SurgerySuccessChanceFactor.parts.0.customLabel>
+  <TrapMeleeDamage.description>რამდენ ზიანს აყენებს ეს ხაფანგი საშუალოდ თითო მოხვედრაზე. თითოეული ხაფანგი რამდენჯერმე ურტყამს.\n\nრეალური ზიანი ყოველ ჯერზე შემთხვევით იცვლება.</TrapMeleeDamage.description>
+  <TrapMeleeDamage.label>ხაფანგში melee დაზიანება</TrapMeleeDamage.label>
+  <TrapSpringChance.description>ალბათობა იმისა, რომ ხაფანგი გაჩნდება, როდესაც მასზე გაუცნობიერებელი არსება გაივლის.</TrapSpringChance.description>
+  <TrapSpringChance.label>ხაფანგში გაზაფხულის შანსი</TrapSpringChance.label>
+  <WorkTableEfficiencyFactor.description>მუშაობის ეფექტურობა მრავლდება ამ მნიშვნელობაზე.</WorkTableEfficiencyFactor.description>
+  <WorkTableEfficiencyFactor.label>მუშაობის ეფექტურობის ფაქტორი</WorkTableEfficiencyFactor.label>
+  <WorkTableWorkSpeedFactor.description>მუშაობის სიჩქარე მრავლდება ამ მნიშვნელობაზე.</WorkTableWorkSpeedFactor.description>
+  <WorkTableWorkSpeedFactor.label>მუშაობის სიჩქარის ფაქტორი</WorkTableWorkSpeedFactor.label>
+  <WorkToBuild.description>საბაზისო სამუშაოს რაოდენობა, რომელიც საჭიროა ნაგებობის ასაგებად მასალების მოგროვების შემდეგ.\n\nნაგებობის დაშლისთვის საჭირო შრომაც ამავე მნიშვნელობას ეფუძნება.</WorkToBuild.description>
+  <WorkToBuild.label>მუშაობა ასაშენებლად</WorkToBuild.label>
+</LanguageData>

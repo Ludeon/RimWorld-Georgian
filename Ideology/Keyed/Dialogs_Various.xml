@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <TradingAnimalProduceBonus>ცხოველური პროდუქტებით ვაჭრობის ბონუსი</TradingAnimalProduceBonus>
+  <SlavesSection>მონები</SlavesSection>
+  <DominantStyle>დომინანტური სტილი</DominantStyle>
+  <Date>თარიღი</Date>
+  <RitualDevelopmentPointRewards>შემდეგი განვითარების ქულები მიენიჭება რიტუალის შედეგის მიხედვით</RitualDevelopmentPointRewards>
+  <UseGlobalStyle>გამოიყენეთ გლობალური სტილი</UseGlobalStyle>
+  <NoStylesAvailable>სტილის ვარიაციები არ არის ხელმისაწვდომი</NoStylesAvailable>
+
+  <ChooseStructureMemesInfo>აირჩიეთ თქვენი იდეოლიგიის სიმბოლური სტრუქტურა. ეს გავლენას ახდენს მხოლოდ სიმბოლოებზე - ეს არ მოქმედებს თამაშზე.</ChooseStructureMemesInfo>
+  <ChooseNormalMemesInfo>აირჩიეთ {0}-{1} მემები, რათა ჩამოაყალიბოთ ამ იდეოლიგიის ფუნდამენტური იდეები.</ChooseNormalMemesInfo>
+  <NotEnoughMemes>აირჩიეთ მინიმუმ {0} meme.</NotEnoughMemes>
+  <TooManyMemes>აირჩიეთ მაქსიმუმ {0} მემები.</TooManyMemes>
+  <ChooseStructureMeme>აირჩიეთ სტრუქტურა.</ChooseStructureMeme>
+  <IncompatibleMemes>{0_label} და {1_label} შეუთავსებელია.</IncompatibleMemes>
+  <SomeMemesHaveMoreImpact>ზოგიერთ მათგანს გაცილებით მეტი გავლენა აქვს თამაშზე, ვიდრე სხვები.</SomeMemesHaveMoreImpact>
+  <ChooseNormalMemesFluidIdeoInfo>აირჩიეთ ერთი მემი ამ იდეოლიგიის საწყისი იდეის შესაქმნელად. თქვენ დაამატებთ მეტ მემებს, როგორც დროთა განმავლობაში იდეოლიგია ვითარდება.</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseOrRemoveMeme>აირჩიეთ მემი ან წაშალეთ მემი.</ChooseOrRemoveMeme>
+  <ReformIdeoResetChanges>ცვლილებების გადატვირთვა</ReformIdeoResetChanges>
+  <NotEnoughMemesFluidIdeo>აირჩიეთ {0} meme.</NotEnoughMemesFluidIdeo>
+
+  <ChangesRandomizePrecepts>{0} ხელახლა მოაწყობს თქვენს მიერ რედაქტირებულ ყველა პრინციპს.\n\nგსურთ გაგრძელება?</ChangesRandomizePrecepts>
+  <ChangesRemovePrecepts>შემდეგი პრინციპები შეუთავსებელია მემების ამ ახალ არჩევანთან და წაიშლება:\n\n{0}\n\nგსურთ გაგრძელება?</ChangesRemovePrecepts>
+  
+  <RoomRequirements>ოთახის მოთხოვნები</RoomRequirements>
+  <ConfirmChangeMemesForFluidIdeo>იდეოლიგიას, რომელსაც ატვირთავთ, აქვს მემები, რომლებიც შეუთავსებელია ახალ თხევად იდეოლიგიასთან და მისი მემები ხელახლა უნდა შეირჩეს (თხევადი იდეოლიგიები შეიძლება დაიწყოს მხოლოდ ერთი დაბალი ზემოქმედების მემით).</ConfirmChangeMemesForFluidIdeo>
+  <ConfirmIncompatibleMemes>შემდეგი მემები შეუთავსებელია</ConfirmIncompatibleMemes>
+  <ConfirmChangeMemesForFluidIdeoContinue>გსურთ გაგრძელება?</ConfirmChangeMemesForFluidIdeoContinue>
+
+  <Role>როლი</Role>
+  <ChooseRole>როლის მინიჭება</ChooseRole>
+  <ChooseNewRole>აირჩიეთ ახალი როლი</ChooseNewRole>
+  <NoRoleAssigned>როლი არ არის დანიშნული</NoRoleAssigned>
+  <ChildNoRoleAssigned>ბავშვებს არ შეუძლიათ როლების შესრულება</ChildNoRoleAssigned>
+  <RemoveRole>წაშალეთ {0} როლი</RemoveRole>
+  <ChooseRoleConfirmAssign>თქვენ აპირებთ {ROLE_labelDef}-ის როლს {PAWN_labelShort}-ს მიანიჭოთ.</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssignPostfix>დარწმუნებული ხარ?</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} ამჟამად ფლობს ამ როლს და უკმაყოფილო იქნება მისი დაკარგვა.</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} ამჟამად ფლობს {ROLE_label}-ის როლს და უკმაყოფილო იქნება მისი დაკარგვა.</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignReplaceLeader>შეიძლება იყოს მხოლოდ ერთი ლიდერი. ეს გააუქმებს {PAWN_labelShort}-ს მათი {OTHERROLE_labelDef} როლიდან, რაც გააღიზიანებს {PAWN_objective}-ს.</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmUnassign>თქვენ აპირებთ გაათავისუფლოთ {PAWN_labelShort} {ROLE_labelIndef}-ის როლიდან. ეს გააფუჭებს {PAWN_objective}-ს.</ChooseRoleConfirmUnassign>
+  <ChooseRoleListAbilities>{PAWN_labelShort} მიიღებს შემდეგ უნარებს</ChooseRoleListAbilities>
+  <ChooseRoleListApparelDemands>{ROLE_label} როლი მოითხოვს შემდეგ ტანსაცმელს</ChooseRoleListApparelDemands>
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} უარს იტყვის ამ ტიპის სამუშაოების შესრულებაზე</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleHint>ხანდახან შეიძლება უკეთესი იყოს დაელოდოთ სანამ თქვენი კოლონია ჩამოყალიბდება როლების მინიჭებამდე.</ChooseRoleHint>
+  <UnlockedByMeme>განბლოკილია მიერ</UnlockedByMeme>
+  <Origin>წარმოშობა</Origin>
+  <MemeUnlocksRoles>განბლოკილი როლები</MemeUnlocksRoles>
+  <MemeUnlocksRituals>განბლოკილი რიტუალები</MemeUnlocksRituals>
+  <ChooseRoleRequiredWorkTagsDisabled>გაფრთხილება: {PAWN_nameDef}-ს არ შეუძლია შეასრულოს სამუშაო, რომელიც საჭიროა {ROLE_label}-ის როლისთვის. თუ გადაწყვეტთ {PAWN_objective}-ს ამ როლის მინიჭებას, {PAWN_pronoun}-მა შესაძლოა ვერ გამოიყენოს {ROLE_label}-თან დაკავშირებული შესაძლებლობები. სამუშაოს ტიპები აკლია</ChooseRoleRequiredWorkTagsDisabled>
+  <YourLeaderTradeBonus>ლიდერის ბონუსი</YourLeaderTradeBonus>
+  <CannotNotAddRoleApparelDueToMeme>Meme {MEME} ხელს უშლის როლებისთვის ტანსაცმლის მოთხოვნების დამატებას.</CannotNotAddRoleApparelDueToMeme>
+  <CannotBeWornWith>არ შეიძლება {0_label}-თან ერთად ტარება</CannotBeWornWith>
+
+  <AbilityIdeoConvertBreakdownLabel>სიზუსტის შემცირება</AbilityIdeoConvertBreakdownLabel>
+  <AbilityIdeoConvertBreakdownUsingAbility>{ABILITY} უნარის გამოყენება</AbilityIdeoConvertBreakdownUsingAbility>
+  <AbilityIdeoConvertBreakdownConversionPower>{PAWN_labelShort}-ის კონვერტაციის ძალა</AbilityIdeoConvertBreakdownConversionPower>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>{PAWN_labelShort}-ის სიზუსტის დაკარგვის ფაქტორი {IDEO_name}-დან</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} არის {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownTrait>თვისება {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownPercept>პრინციპი {PRECEPT}</AbilityIdeoConvertBreakdownPercept>
+  <AbilityIdeoConvertBreakdownRelic>{RELICCOUNT}-მა დააინსტალირა რელიქვიები რუკაზე</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownSocialSkill>{PAWN_labelShort}-ის სოციალური უნარი</AbilityIdeoConvertBreakdownSocialSkill>
+  <AbilityIdeoConvertBreakdownOpinion>{RECIPIENT_labelShort}-ის აზრი {INITIATOR_labelShort}-ზე</AbilityIdeoConvertBreakdownOpinion>
+  <AbilityIdeoConvertBreakdownPawnIdeo>{PAWN_nameDef}-ის იდეოლიგია</AbilityIdeoConvertBreakdownPawnIdeo>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} vs {TRAIT} თვისება</AbilityIdeoConvertBreakdownMemeVsTrait>
+
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} უკვე კონსულტირებული იყო ცოტა ხნის წინ.</AbilityCantApplyAlreadyCounselled>
+
+  <ReformIdeo>რეფორმა...</ReformIdeo>
+  <ReformIdeoligion>რეფორმის იდეოლიგია</ReformIdeoligion>
+  <ReformIdeoligionDesc>შეცვალეთ თქვენი იდეოლიგია მისი სტრუქტურის, მემების ან სტილის შეცვლით.</ReformIdeoligionDesc>
+  <ReformIdeoChangeStyles>სტილის შეცვლა</ReformIdeoChangeStyles>
+  <ReformIdeoAddOrRemoveMeme>დაამატეთ ან წაშალეთ მემი</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddMeme>დაამატეთ მემი</ReformIdeoAddMeme>
+  <ReformIdeoChooseOneChange>აირჩიე ერთი</ReformIdeoChooseOneChange>
+  <ReformIdeoChangeStructure>სტრუქტურის შეცვლა</ReformIdeoChangeStructure>
+  <ReformIdeoChangeAny>შეცვალეთ რომელიმე ქვემოთ ჩამოთვლილი</ReformIdeoChangeAny>
+  <ReformIdeoRelicHuntQuestEnd>{0}-ის რელიქვიას თქვენი კოლონისტები არ სცემენ თაყვანს ამ იდეოლიგიის რეფორმირების შემდეგ. ვინაიდან ქვესტი '{0}' ეძებს ამ რელიქვიას, ის დეაქტივირებული იქნება.</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoCancelRituals>რიტუალი {0} მიმდინარეობს და გაუქმდება.</ReformIdeoCancelRituals>
+  <ReformIdeoContinue>გსურთ გაგრძელება?</ReformIdeoContinue>
+
+  
+  <CannotAssignBedToSlave>მონა</CannotAssignBedToSlave>
+  <CannotAssignBedToColonist>კოლონისტი</CannotAssignBedToColonist>
+  <AnySlave>ნებისმიერი მონა</AnySlave>
+  <NegotiatorWillNotTradeSlaves>{0_nameDef} უარს ამბობს ხალხის მონებად გაყიდვაზე {0_possessive} რწმენის მიხედვით.</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlavesTip>მომლაპარაკებელი, {0_nameDef}, არ აქცევს ხალხს მონობაში {0_possessive} {1}-ის რწმენის გამო.\n\nგაითვალისწინეთ, რომ {0_nameDef} მზადაა გამოისყიდოს ვინმე {0_possessive} საკუთარ ფრაქციაში, მაგრამ არ სურს მიყიდოს ვინმე სხვა ფრაქციას.</NegotiatorWillNotTradeSlavesTip>
+
+  <LastHumanMeat>ადამიანის ბოლო ხორცი</LastHumanMeat>
+  <LastHumanMeatDesc>{PAWN_possessive} {IDEO_name}-ის რწმენის გამო, {PAWN_nameDef} გახდება უბედური, თუ {PAWN_pronoun} {DURATION} დღეზე მეტხანს გაგრძელდება ადამიანის ხორცის გარეშე.</LastHumanMeatDesc>
+
+  <ExectueNeutralFactionSlave>{PAWN_labelShort}-ის შესრულება უარყოფითად იმოქმედებს {FACTION_name}-თან ურთიერთობაზე.</ExectueNeutralFactionSlave>
+
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>თქვენ უნდა დანიშნოთ მინიმუმ ერთი არა-მონა კოლონისტი, რომელსაც შეუძლია სიარული.</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>თქვენ უნდა დატოვოთ მინიმუმ არამონა კოლონისტი, რომელსაც შეუძლია სიარული.</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+
+  
+  <StylePawn>სტილი</StylePawn>
+  <Hair>თმა</Hair>
+  <Beard>წვერი</Beard>
+  <TattooFace>სახის ტატუ</TattooFace>
+  <TattooBody>სხეულის ტატუ</TattooBody>
+  <ApparelColor>ტანსაცმლის ფერი</ApparelColor>
+  <HairColor>თმის ფერი</HairColor>
+  <ShowHeadgear>თავსაბურავის ჩვენება</ShowHeadgear>
+  <ShowApparel>ტანსაცმლის ჩვენება</ShowApparel>
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef} უკმაყოფილო იქნება შემდეგი</PawnUnhappyWithStyleItems>
+  <StyleCategoryDescription>სტილის კატეგორიები გავლენას ახდენს {IDEO_memberNamePlural}-ის მიერ დამზადებულ ზოგიერთი შენობის, ტანსაცმლისა და იარაღის გარეგნობაზე. თუ ერთზე მეტი კატეგორია გავლენას ახდენს ერთსა და იმავე საგანზე, გამოიყენება ყველაზე მარცხენა.</StyleCategoryDescription>
+  <StyleCategoryDescriptionAbstract>სტილის კატეგორიები გავლენას ახდენს თქვენი კოლონიის მიერ დამზადებულ ზოგიერთი შენობის, ტანსაცმლისა და იარაღის იერსახეზე. თუ ერთზე მეტი კატეგორია გავლენას ახდენს ერთსა და იმავე საგანზე, გამოიყენება ყველაზე მარცხენა.</StyleCategoryDescriptionAbstract>
+  <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} მოხარული იქნება, თუ შეამჩნევს შენობებს, იატაკებს და ამ სტილის შესატყვისს ხელოვნებას.</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominanceAbstract>იდეოლიგიის წევრები კმაყოფილი იქნებიან, თუ შეამჩნევენ ამ სტილის შესატყვის შენობებს, იატაკებსა და ხელოვნებას.</StyleCategoryDescStyleDominanceAbstract>
+  <StyleCategoryDetails>{0} სტილის კატეგორია გავლენას ახდენს</StyleCategoryDetails>
+  <OverriddenByStyle>გადალახულია {0}-ის მიერ</OverriddenByStyle>
+  <IdeoMakesBuildingBuildable>ახალი ასაშენებელი</IdeoMakesBuildingBuildable>
+  <NoneUsableForPawn>არცერთი არ არის გამოსაყენებელი {PAWN_nameDef}-ისთვის</NoneUsableForPawn> 
+  <HairAndBeards>თმა და წვერი</HairAndBeards>
+  <HairAndBeardsDesc>ეს პარამეტრები განსაზღვრავს, თუ რამდენად ხშირად ჩნდება თითოეული სტილი ამ იდეოლიგიის წევრებზე.</HairAndBeardsDesc>
+  <Tattoos>ტატუ</Tattoos>
+  <TattoosDesc>ეს პარამეტრები განსაზღვრავს, თუ რამდენად ხშირად ჩნდება თითოეული ტატუ ამ იდეოლიგიის წევრებზე.</TattoosDesc>
+  <StyleItemFrequencyNever>არასდროს</StyleItemFrequencyNever>
+  <StyleItemFrequencyRare>იშვიათი</StyleItemFrequencyRare>
+  <StyleItemFrequencyUncommon>არაჩვეულებრივი</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyNormal>ჩვეულებრივი</StyleItemFrequencyNormal>
+  <StyleItemFrequencyCommon>გავრცელებული</StyleItemFrequencyCommon>
+  <StyleItemFrequencyFrequent>ხშირი</StyleItemFrequencyFrequent>
+  <EditAppearanceItems>გარეგნობის რედაქტირება</EditAppearanceItems>
+  <NumAvailable>{0} გამოიყენება</NumAvailable>
+  <ResetButtonDesc>აღადგენს სტილის ყველა ელემენტს ნაგულისხმევ მნიშვნელობებზე.</ResetButtonDesc>
+
+  
+  <SendShuttleAnyway>მაინც გაგზავნეთ შატლი</SendShuttleAnyway>
+  <ReLoadShuttle>ხელახლა ჩატვირთეთ შატლი</ReLoadShuttle>
+
+  
+  <MedGroupSlaves>მონები</MedGroupSlaves>
+  <MedGroupSlavesDesc>თქვენი კოლონიის დამონებული წევრები.</MedGroupSlavesDesc>
+
+  
+  <ChangeMode>აირჩიეთ დრიადის კასტა</ChangeMode>
+  <RequiredMemes>საჭირო მემები</RequiredMemes>
+  <RequiredStage>საჭირო კასტა</RequiredStage>
+  <MissingRequiredMemes>აკლია საჭირო მემები</MissingRequiredMemes>
+  <MissingRequiredCaste>აკლია საჭირო კასტა</MissingRequiredCaste>
+  <AlreadySelected>უკვე შერჩეული</AlreadySelected>
+  <ChooseProductionModeInitialDesc>აქ შეგიძლიათ აირჩიოთ დრიადების რომელ კასტას შექმნის ეს {TREE_label}.\n\nდრიადები წარმოიქმნება ხის ძირში ამოსული ბუსუსებიდან. დრიადების მაქსიმალური რაოდენობა ეფუძნება კავშირის სიძლიერეს {TREE_definite}-სა და დაკავშირებულ პირს შორის.</ChooseProductionModeInitialDesc>
+
+  
+  <ChooseColonistsForIdeoTitle>აირჩიე ვინ მოაქცია შენს იდეოლიგიაში</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoDesc>ახალი კოლონიის შექმნისას შეგიძლიათ ხალხი გადაიყვანოთ თქვენს მთავარ იდეოლიგიაზე.</ChooseColonistsForIdeoDesc>
+  <ChooseThingsForNewColonyTitle>ახალი კოლონია</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyDesc>აირჩიეთ რომელი კოლონისტები, ცხოველები და რელიქვიები მოიტანოთ ახალ კოლონიაში.</ChooseThingsForNewColonyDesc>
+  <ChooseThingsDesc>აირჩიეთ მდე {0} {1}.</ChooseThingsDesc>
+  <ChoosePeopleDesc>აირჩიეთ მაქსიმუმ {0} ადამიანი.</ChoosePeopleDesc>
+  <ChooseOnlySlavesInfo>თუ მხოლოდ მონებს აირჩევთ, მათ შემდეგ კოლონიაში კოლონისტებად ითამაშებთ.</ChooseOnlySlavesInfo>
+  <ConfirmDecisionsTitle>დაადასტურეთ გადაწყვეტილებები</ConfirmDecisionsTitle>
+  <ShipEscapeWillEndDescription>ჰიბერნირებული ვარსკვლავური ხომალდი, რომელსაც აცნობებს AI (*Name)Charlon Whitestone(/Name) გაფრინდება ახალი კოლონიის შექმნის დროისთვის. ამ გემზე მოგზაურობით პლანეტაზე თავის დაღწევა აღარ იქნება შესაძლებელი.</ShipEscapeWillEndDescription>
+  <ArchonexusRelicNotChosen>ახალ კოლონიაში მოსატანად არც ერთი რელიქვია არ შეირჩა.</ArchonexusRelicNotChosen>
+  <ArchonexusItemsNotChosen>{0} შესაძლო {1} ელემენტიდან შეირჩა ახალ კოლონიაში მოსატანად.</ArchonexusItemsNotChosen>
+  <RemoveEquippedRelicsDescription>კოლონიის მყიდველები მხოლოდ ერთი რელიქვიის აღების საშუალებას მოგცემთ. ნებისმიერი სხვა რელიქვია დარჩება (თუნდაც კოლონისტი აღჭურვილი იყოს), მათ შორის:</RemoveEquippedRelicsDescription>
+  <WantToProceed>გსურთ გაგრძელება? ამ მომენტის შემდეგ, უკან დაბრუნება აღარ არის.</WantToProceed>
+  <ConvertToPlayerIdeoligion>კონვერსია</ConvertToPlayerIdeoligion>
+  <RevertToPreviousIdeoligion>დაბრუნება</RevertToPreviousIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>არსებული მიმდევარი</ExistingFollowerOfPlayerIdeoligion>
+  <AbandonArchotechStructuresWarningDialog>თქვენ ტოვებთ საიტს, რომელიც შეიცავს არქოტექნიკურ სტრუქტურებს, რომლებიც ჯერ ბოლომდე არ შეგისწავლიათ.\n\nაქ მოგვიანებით დასახლებას შეძლებთ, მაგრამ თქვენი კოლონია წაიშლება.</AbandonArchotechStructuresWarningDialog>
+  <ItemQuantityTooltip>{0} რაოდენობა, რომელიც შეიძლება შეიყვანოთ ახალ კოლონიაში.\n\nმაქსიმალური დასაშვები რაოდენობაა: {1}</ItemQuantityTooltip>
+  <SoldColonyDescription>შენი კოლონია გაიყიდა. მისი მყიდველები მზად არიან, აირჩიონ, სად დაჯდეს შემდეგ.</SoldColonyDescription>
+
+  <ConfirmHackEnemyTerminal>ამ {0}-ის გატეხვა გააფრთხილებს მტრებს და გამოიწვევს მათ თავდასხმას. ნამდვილად გსურთ {0}-ის გატეხვა?</ConfirmHackEnemyTerminal>
+
+  <RelicsSection>რელიკვიები</RelicsSection>
+
+  
+  <FoodRestrictionVegetarian>მცენარეული</FoodRestrictionVegetarian>
+  <FoodRestrictionCarnivore>ხორცი</FoodRestrictionCarnivore>
+  <FoodRestrictionCannibal>ადამიანის მჭამელი</FoodRestrictionCannibal>
+  <FoodRestrictionInsectMeat>მწერების ხორცი</FoodRestrictionInsectMeat>
+
+  <StylesInUse>გამოყენებული სტილები</StylesInUse>
+  <StyleCategoryAddDesc>დაამატეთ სტილი.</StyleCategoryAddDesc>
+</LanguageData>

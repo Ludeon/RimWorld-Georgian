@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodWarmer.description>მოდიფიცირებული ადამიანის თირკმელი, რომელიც ხელახლა არის კონფიგურირებული ღორის სისხლის გასათბობად, რაც საშუალებას იძლევა გადარჩეს უკიდურესად ცივ გარემოში.</BloodWarmer.description>
+  <BloodWarmer.label>სისხლის გამათბობელი</BloodWarmer.label>
+  <PilotAssistant.description>დამონტაჟებული პილოტის ასისტენტი. ეს ნერვული ინტერფეისი აკავშირებს პილოტის ტვინს პირდაპირ მანქანასთან, აძლიერებს პილოტის კონტროლს და რეაქციის სიჩქარეს.</PilotAssistant.description>
+  <PilotAssistant.label>პილოტის ასისტენტი</PilotAssistant.label>
+  <PilotAssistant.labelNoun>პილოტის ასისტენტი</PilotAssistant.labelNoun>
+  <SentienceCatalyst.description>სპეციალურმა მექანიტებმა გააძლიერეს ამ ცხოველის ნერვული გზები, რაც სხვაგვარად შეუძლებელი ვარჯიშის საშუალებას იძლევა.</SentienceCatalyst.description>
+  <SentienceCatalyst.label>გრძნობების კატალიზატორი</SentienceCatalyst.label>
+  <SentienceCatalyst.labelNoun>გრძნობების კატალიზატორი</SentienceCatalyst.labelNoun>
+  <VacskinGland.description>დაინსტალირებული ვაქცინის ჯირკვალი. ათავისუფლებს ცვილისებრ ნივთიერებას, რომელიც ქმნის საიზოლაციო ბარიერს კანზე, ხელს უშლის ვაკუუმურ დამწვრობას, მაგრამ ზღუდავს მოძრაობას. ჯირკვალი ასევე არეგულირებს სისხლში ჟანგბადის დონეს, რაც საშუალებას იძლევა უფრო დიდხანს გადარჩეს სივრცის ვაკუუმში.</VacskinGland.description>
+  <VacskinGland.label>ვაკსკანის ჯირკვალი</VacskinGland.label>
+  <VacskinGland.labelNoun>ვაკსინ ჯირკვალი</VacskinGland.labelNoun>
+</LanguageData>

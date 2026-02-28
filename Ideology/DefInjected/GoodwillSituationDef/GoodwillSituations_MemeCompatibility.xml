@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalPersonhood_AnimalPersonhood.label>ცხოველთა პიროვნების შეთანხმება</AnimalPersonhood_AnimalPersonhood.label>
+  <Cannibal_Cannibal.label>კანიბალიზმის შეთანხმება</Cannibal_Cannibal.label>
+  <Cannibal_FleshPurity.label>კანიბალი vs ხორცის სისუფთავე</Cannibal_FleshPurity.label>
+  <Cannibal_PainIsVirtue.label>კანიბალი ტკივილის წინააღმდეგ სათნოებაა</Cannibal_PainIsVirtue.label>
+  <Collectivist_Collectivist.label>კოლექტივისტური შეთანხმება</Collectivist_Collectivist.label>
+  <Collectivist_Individualist.label>კოლექტივისტი ინდივიდუალისტის წინააღმდეგ</Collectivist_Individualist.label>
+  <FemaleSupremacy_FemaleSupremacy.label>ქალის უზენაესობის შეთანხმება</FemaleSupremacy_FemaleSupremacy.label>
+  <FemaleSupremacy_Individualist.label>ქალის უზენაესობა ინდივიდუალისტის წინააღმდეგ</FemaleSupremacy_Individualist.label>
+  <FemaleSupremacy_MaleSupremacy.label>ქალის უზენაესობა vs მამაკაცის უზენაესობა</FemaleSupremacy_MaleSupremacy.label>
+  <FleshPurity_FleshPurity.label>ხორცის სისუფთავის შეთანხმება</FleshPurity_FleshPurity.label>
+  <FleshPurity_Transhumanist.label>ხორცის სიწმინდე ტრანსჰუმანისტის წინააღმდეგ</FleshPurity_Transhumanist.label>
+  <Guilty_All.label>დამნაშავე</Guilty_All.label>
+  <HighLife_FleshPurity.label>მაღალი სიცოცხლე vs ხორცის სიწმინდე</HighLife_FleshPurity.label>
+  <HighLife_HighLife.label>მაღალი ცხოვრებისეული შეთანხმება</HighLife_HighLife.label>
+  <HumanPrimacy_AnimalPersonhood.label>ადამიანის პირველობა ცხოველთა პიროვნების წინააღმდეგ</HumanPrimacy_AnimalPersonhood.label>
+  <HumanPrimacy_FleshPurity.label>ადამიანის პირველობა ხორციელი სიწმინდის წინააღმდეგ</HumanPrimacy_FleshPurity.label>
+  <HumanPrimacy_HumanPrimacy.label>ადამიანის პირველობის შეთანხმება</HumanPrimacy_HumanPrimacy.label>
+  <HumanPrimacy_Transhumanist.label>ადამიანის პირველობა ტრანსჰუმანისტის წინააღმდეგ</HumanPrimacy_Transhumanist.label>
+  <Individualist_Cannibal.label>ინდივიდუალისტი vs კანიბალი</Individualist_Cannibal.label>
+  <Individualist_Individualist.label>ინდივიდუალისტური შეთანხმება</Individualist_Individualist.label>
+  <Individualist_Proselytizer.label>ინდივიდუალისტი vs პროზელიტიზატორი</Individualist_Proselytizer.label>
+  <Loyalist_All.label>ერთგული</Loyalist_All.label>
+  <MaleSupremacy_Individualist.label>მამაკაცის უზენაესობა ინდივიდუალისტის წინააღმდეგ</MaleSupremacy_Individualist.label>
+  <MaleSupremacy_MaleSupremacy.label>მამაკაცის უზენაესობის შეთანხმება</MaleSupremacy_MaleSupremacy.label>
+  <NaturePrimacy_AnimalPersonhood.label>ბუნების უპირატესობა ცხოველთა პიროვნების წინააღმდეგ</NaturePrimacy_AnimalPersonhood.label>
+  <NaturePrimacy_HumanPrimacy.label>ბუნების პირველობა ადამიანის პრიმატის წინააღმდეგ</NaturePrimacy_HumanPrimacy.label>
+  <NaturePrimacy_NaturePrimacy.label>ბუნების პრიმატის შეთანხმება</NaturePrimacy_NaturePrimacy.label>
+  <NaturePrimacy_Transhumanist.label>ბუნების პირველობა ტრანსჰუმანისტის წინააღმდეგ</NaturePrimacy_Transhumanist.label>
+  <Nudism_Nudism.label>ნუდიზმის შეთანხმება</Nudism_Nudism.label>
+  <PainIsVirtue_PainIsVirtue.label>ტკივილი სათნო შეთანხმებაა</PainIsVirtue_PainIsVirtue.label>
+  <Raider_All.label>რეიდერი</Raider_All.label>
+  <Rancher_AnimalPersonhood.label>რანჩერი ცხოველთა პიროვნების წინააღმდეგ</Rancher_AnimalPersonhood.label>
+  <Rancher_NaturePrimacy.label>რანჩერი ბუნების პრიმატის წინააღმდეგ</Rancher_NaturePrimacy.label>
+  <SameIdeo.label>ორივე მიჰყვება {0_name}</SameIdeo.label>
+  <Supremacist_All.label>უზენაესი</Supremacist_All.label>
+  <Transhumanist_Transhumanist.label>ტრანსჰუმანისტური შეთანხმება</Transhumanist_Transhumanist.label>
+</LanguageData>

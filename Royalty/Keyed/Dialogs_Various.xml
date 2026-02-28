@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <RoyalFavorDescription>თანხა {FACTION_royalFavorLabel}, რომელსაც თქვენი მომლაპარაკებელი პირადად მიიღებს ამ გარიგების შედეგად.</RoyalFavorDescription>
+  <RoyalTitleTooltipRequiredApparel>საჭირო ტანსაცმელი</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparelQuality>ტანსაცმლის მინიმალური ხარისხი</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipBedroomRequirements>საძინებლის მოთხოვნები</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>ტახტის ოთახის მოთხოვნები</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipPermits>ტიტულის პრივილეგიები</RoyalTitleTooltipPermits>
+  <RoyalTitleRequiredApparelStatDescription>ამ ტიტულის მფლობელები უნდა იყვნენ დაფარული რაღაც კომბინაციით</RoyalTitleRequiredApparelStatDescription>
+  <ApparelRequirementAnyPrestigeArmor>ნებისმიერი პრესტიჟული ჯავშანი</ApparelRequirementAnyPrestigeArmor>
+  <ApparelRequirementAnyPsycasterApparel>ნებისმიერი ფსიქოსტერის ტანსაცმელი</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>ან ნებისმიერი ფსიქოსტერის ან პრესტიჟული სამოსი</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <DisabledWorkTypes>სამუშაოს აკრძალული ტიპები</DisabledWorkTypes>
+  <RoyalTitleRequiredMeals>ნებადართული საკვები</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMealsDesc>ამ ტიტულის მფლობელი მხოლოდ ამ საკვებს მიირთმევს, გარდა იმ შემთხვევისა, როცა შიმშილობს ან ქარავანს.</RoyalTitleRequiredMealsDesc>
+
+  
+  <RoyalImplantIllegalUseWarning>{FACTION_name}-ის კანონების თანახმად, {IMPLANT}-ის ლეგალურად გამოსაყენებლად საჭიროა {TITLE}-ის ტიტული.\n\n{VIOLATIONTRIGGER}, არსებობს შანსი, რომ {FACTION_name}-მა აღმოაჩინოს მისი ფსიქიკური ხელმოწერა. ეს გამოიწვევს დიპლომატიურ შედეგებს.</RoyalImplantIllegalUseWarning>
+  <RoyalImplantInstallConfirmation>მაინც დააინსტალირეთ ეს იმპლანტი?</RoyalImplantInstallConfirmation>
+  <RoyalImplantUpgradeConfirmation>განაახლეთ ეს იმპლანტი მაინც?</RoyalImplantUpgradeConfirmation>
+
+  
+  <BladelinkEquipWarning>მას შემდეგ, რაც იარაღის პერსონა დაუკავშირდება მფლობელს, უარს იტყვის სხვის ტარებაზე.</BladelinkEquipWarning>
+  <BladelinkEquipWarningTraits>იარაღს აქვს შემდეგი თვისებები</BladelinkEquipWarningTraits>
+  <RoyalWeaponEquipConfirmation>დარწმუნებული ხართ, რომ გსურთ ამ ელემენტის აღჭურვა?</RoyalWeaponEquipConfirmation>
+  
+  
+  <AbilityTargetPsychicallyDeaf>სამიზნე ფსიქიკურად ყრუა.</AbilityTargetPsychicallyDeaf>
+  <PsycastIsIllegal>ეს უკანონოა {PAWN_labelShort}-ისთვის. საჭიროებს {TITLE} სათაურს.</PsycastIsIllegal>
+
+  
+  <CannotSkipTarget>{PAWN_labelShort}-ის გამოტოვება შეუძლებელია</CannotSkipTarget>
+  <CannotSkipTargetTooLarge>ძალიან დიდი</CannotSkipTargetTooLarge>
+  <CannotSkipTargetPsychicResistant>ფსიქიკური წინააღმდეგობა</CannotSkipTargetPsychicResistant>
+
+  
+  <QuestGivesRoyalFavor>ეს ქვესტი დააჯილდოებს {FACTION_royalFavorLabel}-ს და, შესაბამისად, სამეფო ტიტულებს {PAWN_labelShort}-ისთვის.</QuestGivesRoyalFavor>
+  <RoyalIncapableOfSocial>{PAWN_labelShort} არ შეუძლია სოციალური ამოცანების შესრულება. სამეფო ტიტულების მქონეებს დიდი სჭირდებათ სოციალური უნარები, ასე რომ, თუ {PAWN_labelShort} მოიპოვებს ტიტულს, {PAWN_pronoun}-ს შეიძლება გაუჭირდეს. კიდევ ერთი კოლონისტი შეიძლება იყოს სოციალურად უფრო კომპეტენტური.</RoyalIncapableOfSocial>
+  <RoyalWithConceitedTrait>ვინაიდან {PAWN_labelShort} არის {2}, {PAWN_pronoun} მოითხოვს ტიტულის პრივილეგიების სრულად დაცვას. {PAWN_labelShort}-მა შეიძლება უარი თქვას გარკვეული ტიპის სამუშაოების შესრულებაზე ან დაბალი კლასის საკვების მიღებაზე და გამოსცემს განკარგულებებს. სხვა კოლონისტი ალბათ უფრო მოქნილი იქნებოდა.</RoyalWithConceitedTrait>
+  <RoyalWithTraitAffectingPsylinkNegatively>ვინაიდან {PAWN_labelShort} არის {2}, ფსილინკი შესაძლოა არ იყოს გამოსადეგი {PAWN_objective}-ისთვის.</RoyalWithTraitAffectingPsylinkNegatively>
+  <PsylinkTooLowForGainAbility>{PAWN_labelShort}-ის ფსილინკი არ არის საკმარისად მაღალ დონეზე {ABILITY}-ის გამოსაყენებლად.\n\nმაინც მოიპოვეთ ეს ძალა?</PsylinkTooLowForGainAbility>
+  <SendShuttleWithNoContents>ეს შატლი ცარიელია. თუ გააგზავნით, ვეღარ გამოიყენებთ.\n\nმაინც გაიგზავნოთ?</SendShuttleWithNoContents>
+  <DropResourcesOverweightConfirm>ეს რესურსები ამძიმებდა ქარავანს და გადაადგილებას ვეღარ შეძლებდა.\n\nმაინც დაურეკავთ?</DropResourcesOverweightConfirm>
+
+</LanguageData>

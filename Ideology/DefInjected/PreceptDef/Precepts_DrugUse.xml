@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DrugUse_MedicalOnly.description>რეკრეაციული მიზნებისთვის სხეულის მოწამვლა ღრმად ამორალური ქმედებაა.</DrugUse_MedicalOnly.description>
+  <DrugUse_MedicalOnly.label>მხოლოდ სამედიცინო</DrugUse_MedicalOnly.label>
+  <DrugUse_MedicalOrSocial.description>კვამლის შემცველი სასმელი კარგია, განსაკუთრებით მეგობრებთან ერთად, მაგრამ ორგანიზმის ძლიერი ქიმიკატებით მოწამვლა არასწორია.</DrugUse_MedicalOrSocial.description>
+  <DrugUse_MedicalOrSocial.label>მხოლოდ სამედიცინო ან სოციალური</DrugUse_MedicalOrSocial.label>
+  <DrugUse_Prohibited.description>ორგანიზმი აბსოლუტურად არ უნდა იყოს მოწამლული ქიმიკატებით. ერთადერთი გამონაკლისი არის მედიკამენტების გამოყენება უშუალო სამედიცინო დახმარებაში.</DrugUse_Prohibited.description>
+  <DrugUse_Prohibited.label>აკრძალულია</DrugUse_Prohibited.label>
+</LanguageData>

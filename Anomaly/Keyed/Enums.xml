@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <HateChantDroneLevel_None>არ არის</HateChantDroneLevel_None>
+  <HateChantDroneLevel_VeryLow>ჩურჩული</HateChantDroneLevel_VeryLow>
+  <HateChantDroneLevel_Low>მშვიდი</HateChantDroneLevel_Low>
+  <HateChantDroneLevel_Medium>ზომიერი</HateChantDroneLevel_Medium>
+  <HateChantDroneLevel_High>ხმამაღალი</HateChantDroneLevel_High>
+  <HateChantDroneLevel_Extreme>ძალიან ხმამაღალი</HateChantDroneLevel_Extreme>
+
+  <MonolithGenerationMethod_Disabled>გამორთული</MonolithGenerationMethod_Disabled>
+  <MonolithGenerationMethod_NearColonists>კოლონისტებთან ახლოს</MonolithGenerationMethod_NearColonists>
+
+</LanguageData>

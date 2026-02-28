@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <MissingRequiredMechanitor>გვესაჭიროება მექანიტორი კოლონისტი</MissingRequiredMechanitor>
+  <NotStudied>{0} არ არის შესწავლილი</NotStudied>
+  <StudyRequirements>მოითხოვს შესწავლას</StudyRequirements>
+  <PreferredXenotypes>სასურველი ქსენოტიპები</PreferredXenotypes>
+
+  
+  <WorkDisabledAge>{0_nameDef} მხოლოდ {1} წლისაა. {2} სამუშაო შეიძლება გაკეთდეს მხოლოდ {3} ასაკიდან</WorkDisabledAge>
+  <ClickToChangeWorkMode>დააწკაპუნეთ სამუშაო რეჟიმის შესაცვლელად.</ClickToChangeWorkMode>
+
+
+</LanguageData>

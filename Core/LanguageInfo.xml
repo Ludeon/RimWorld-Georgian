@@ -1,0 +1,12 @@
+<LanguageInfo>
+  <friendlyNameNative>ქართული</friendlyNameNative>
+  <friendlyNameEnglish>Georgian</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
+  <credits>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>Levan Khutsishvili (Sallyvan)</creditee>
+    </li>
+  </credits>
+</LanguageInfo>

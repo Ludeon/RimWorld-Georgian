@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodRain.description>ნებისმიერი ადამიანი, რომელიც საკმარისად დიდხანს ექვემდებარება სისხლის წვიმას, გაბრაზებული იქნება. გარკვეული თვისებები და ფსიქიკური მგრძნობელობა გავლენას ახდენს ბერსერკის ეფექტზე.</BloodRain.description>
+  <BloodRain.label>სისხლის წვიმა</BloodRain.label>
+  <GrayPall.description>ბურუსიანი ნისლი ეკვრის ჰაერს. სუნი დამპალი და მჟავეა. ეს არაბუნებრივი ამინდი შიშის გრძნობას იწვევს.</GrayPall.description>
+  <GrayPall.label>ნაცრისფერი ფერმკრთალი</GrayPall.label>
+  <MetalHell.label>ლითონის ჯოჯოხეთი</MetalHell.label>
+  <Undercave.label>მიწისქვეშა</Undercave.label>
+  <UnnaturalDarkness_Stage1.description>ფსიქიკური ფენომენი, რომელიც გავლენას ახდენს თქვენს კოლონისტებზე. ცა იბზარება და იშლება, სამყაროს ჩაძირავს არაბუნებრივი სიბნელეში. ეს სიბნელე დროთა განმავლობაში გაღრმავდება და სახიფათო გახდება.</UnnaturalDarkness_Stage1.description>
+  <UnnaturalDarkness_Stage2.description>ფსიქიკური ფენომენი, რომელიც გავლენას ახდენს თქვენს კოლონისტებზე. როგორც ჩანს, თავად ცა დაინგრა და სამყარო ჩაეფლო არაბუნებრივი სიბნელეში. დარჩით სინათლეში.</UnnaturalDarkness_Stage2.description>
+  <UnnaturalFog.description>A death-gray cloud of black dust has descended on this area. The smell is ancient and putrid as the diffuse dust enters every crack and crevice.\n\nThe dust is made of corrupted archites that will enter corpses and reanimate them into a twisted imitation of life.\n\nThe dead will rise! Burn, bury, destroy, or move corpses indoors to prevent them from resurrecting.</UnnaturalFog.description>
+  <UnnaturalFog.label>სიკვდილის პალი</UnnaturalFog.label>
+</LanguageData>

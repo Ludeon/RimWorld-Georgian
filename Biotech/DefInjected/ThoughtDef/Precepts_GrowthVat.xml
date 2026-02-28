@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GrowthVat_Essential_ChildNotInGrowthVat.stages.0.description>მე არ ვგრძნობ თავს დაცულად, როცა ჩემი შვილი დარბის. ისინი უსაფრთხოდ უნდა გაიზარდონ ღუმელში.</GrowthVat_Essential_ChildNotInGrowthVat.stages.0.description>
+  <GrowthVat_Essential_ChildNotInGrowthVat.stages.0.label>ბავშვი არ არის ზრდის ქვაბში</GrowthVat_Essential_ChildNotInGrowthVat.stages.0.label>
+  <GrowthVat_Essential_Pregnant.stages.0.description>მშობიარობა საშინელი აზრია. ჩვენ უნდა გვქონდეს ღვეზელები, რომ უსაფრთხოდ გავზარდოთ ჩვენი შვილები.</GrowthVat_Essential_Pregnant.stages.0.description>
+  <GrowthVat_Essential_Pregnant.stages.0.label>ბუნებრივი ორსულობა</GrowthVat_Essential_Pregnant.stages.0.label>
+  <GrowthVat_Prohibited_ChildInGrowthVat.stages.0.description>ვერ ვიტან იმაზე ფიქრს, რომ ჩემი შვილი ამ საშინელ მანქანაში ცურავს.</GrowthVat_Prohibited_ChildInGrowthVat.stages.0.description>
+  <GrowthVat_Prohibited_ChildInGrowthVat.stages.0.label>ჩემი შვილი ზრდის ქვაბშია</GrowthVat_Prohibited_ChildInGrowthVat.stages.0.label>
+  <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.0.description>მიხარია, რომ ჩემი შვილები ბავშვები არიან. მათი ბავშვობა ზედმეტად ძვირფასია იმისთვის, რომ ქოთანში დაკარგონ.</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.0.description>
+  <GrowthVat_Prohibited_ChildNotInGrowthVat.stages.0.label>ბავშვი არ არის ზრდის ქვაბში</GrowthVat_Prohibited_ChildNotInGrowthVat.stages.0.label>
+  <GrowthVat_Prohibited_GrowthVatInColony.stages.0.description>მე მძულს იმის ფიქრი, რომ ეს საშინელი ზრდის ღუმელი ჩვენს კოლონიაშია.</GrowthVat_Prohibited_GrowthVatInColony.stages.0.description>
+  <GrowthVat_Prohibited_GrowthVatInColony.stages.0.label>ზრდის ღვეზე</GrowthVat_Prohibited_GrowthVatInColony.stages.0.label>
+</LanguageData>

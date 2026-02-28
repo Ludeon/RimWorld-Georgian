@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Guilty.description>ჩვენი ხალხი წარსულში ატარებს დანაშაულს. სხვები უფრო ღირსნი არიან.</Guilty.description>
+  <Guilty.label>დამნაშავე</Guilty.label>
+  <Loyalist.description>ჩვენ ვდგავართ საკუთარი თავისთვის სხვების წინაშე.</Loyalist.description>
+  <Loyalist.label>ერთგული</Loyalist.label>
+  <Supremacist.description>ჩვენმა ხალხმა უნდა გააბატონოს ყველა სხვაზე.</Supremacist.description>
+  <Supremacist.label>უზენაესი</Supremacist.label>
+</LanguageData>

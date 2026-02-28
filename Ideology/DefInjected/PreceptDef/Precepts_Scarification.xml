@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Scarification_Extreme.description>ყველა ადამიანმა უნდა ატაროს რიტუალური ნაწიბურები - მთელი.</Scarification_Extreme.description>
+  <Scarification_Extreme.label>უკიდურესი</Scarification_Extreme.label>
+  <Scarification_Heavy.description>ყველა ადამიანმა უნდა ატაროს რიტუალური ნაწიბურები - ბევრი მათგანი.</Scarification_Heavy.description>
+  <Scarification_Heavy.label>მძიმე</Scarification_Heavy.label>
+  <Scarification_Horrible.description>იდეოლიგიური მიზეზების გამო ადამიანების შეშინება საშინელებაა.</Scarification_Horrible.description>
+  <Scarification_Horrible.label>საზარელი</Scarification_Horrible.label>
+  <Scarification_Minor.description>ყველა ადამიანს უნდა ჰქონდეს რიტუალური ნაწიბური.</Scarification_Minor.description>
+  <Scarification_Minor.label>მცირეწლოვანი</Scarification_Minor.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AgeReversalDemanded.stages.0.description>ვბერდები. მე უნდა მივიღო ასაკის შეცვლა ბიოსკულპტერის პოდში.</AgeReversalDemanded.stages.0.description>
+  <AgeReversalDemanded.stages.0.label>მავნე დაბერება</AgeReversalDemanded.stages.0.label>
+  <AgeReversalDemanded.stages.1.description>ჩემი ახალგაზრდობა იწურება. მე უნდა მივიღო ასაკის შეცვლა ბიოსკულპტერის პოდში.</AgeReversalDemanded.stages.1.description>
+  <AgeReversalDemanded.stages.1.label>საშინელი სიბერე</AgeReversalDemanded.stages.1.label>
+  <AgeReversalDemanded.stages.2.description>ხაფანგში ვარ გახრწნილი ხორცის ციხეში! მე უნდა მივიღო ასაკის შეცვლა ბიოსკულპტერის პოდში.</AgeReversalDemanded.stages.2.description>
+  <AgeReversalDemanded.stages.2.label>საშინელი სიბერე</AgeReversalDemanded.stages.2.label>
+  <AgeReversalReceived.stages.0.description>სიბერე და სიკვდილი არ მაწუხებს. მე ვარ სამუდამოდ, როგორც გაძლიერებული ადამიანი უნდა იყოს.</AgeReversalReceived.stages.0.description>
+  <AgeReversalReceived.stages.0.label>მიიღო ასაკობრივი ცვლილება</AgeReversalReceived.stages.0.label>
+  <BioSculpterDespised.stages.0.description>ჩემი სხეული გაფუჭდა ბიოსკულპტერის ჯიშის გამოყენებით.</BioSculpterDespised.stages.0.description>
+  <BioSculpterDespised.stages.0.label>გამოყენებული biosculpter pod</BioSculpterDespised.stages.0.label>
+  <NeedNeuralSupercharge.stages.0.description>ნერვული გადატვირთვის გარეშე, ჩემს ნამდვილ შესაძლებლობებზე დაბლა ვმოძრაობ. დამთრგუნველია.</NeedNeuralSupercharge.stages.0.description>
+  <NeedNeuralSupercharge.stages.0.label>მინდა ნერვული სუპერჩამუხტვა</NeedNeuralSupercharge.stages.0.label>
+  <SleptUsingSleepAccelerator.stages.0.description>ძილის ამაჩქარებლით მეძინა. ეს მეხმარება ჩემი ნამდვილი პოტენციალის მიღწევაში, როგორც უნდა.</SleptUsingSleepAccelerator.stages.0.description>
+  <SleptUsingSleepAccelerator.stages.0.label>გამოყენებული ძილის ამაჩქარებელი</SleptUsingSleepAccelerator.stages.0.label>
+</LanguageData>

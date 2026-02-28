@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChildInLaw.label>სიძე</ChildInLaw.label>
+  <ChildInLaw.labelFemale>რძალი</ChildInLaw.labelFemale>
+  <ExLover.label>ყოფილი შეყვარებული</ExLover.label>
+  <ExSpouse.label>ყოფილი ქმარი</ExSpouse.label>
+  <ExSpouse.labelFemale>ყოფილი ცოლი</ExSpouse.labelFemale>
+  <Fiance.label>საქმრო</Fiance.label>
+  <Fiance.labelFemale>საცოლე</Fiance.labelFemale>
+  <Lover.label>შეყვარებული</Lover.label>
+  <ParentInLaw.label>მამამთილი</ParentInLaw.label>
+  <ParentInLaw.labelFemale>დედამთილი</ParentInLaw.labelFemale>
+  <Spouse.label>ქმარი</Spouse.label>
+  <Spouse.labelFemale>ცოლი</Spouse.labelFemale>
+  <Stepchild.label>დედინაცვალი</Stepchild.label>
+  <Stepchild.labelFemale>დედინაცვალი</Stepchild.labelFemale>
+  <Stepparent.label>მამინაცვალი</Stepparent.label>
+  <Stepparent.labelFemale>დედინაცვალი</Stepparent.labelFemale>
+</LanguageData>

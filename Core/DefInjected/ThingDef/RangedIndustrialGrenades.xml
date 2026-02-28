@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Proj_GrenadeEMP.label>EMP ყუმბარა</Proj_GrenadeEMP.label>
+  <Proj_GrenadeFrag.label>ფრაგმენტული ყუმბარა</Proj_GrenadeFrag.label>
+  <Proj_GrenadeMolotov.label>მოლოტოვის კოქტეილი</Proj_GrenadeMolotov.label>
+  <Weapon_GrenadeEMP.description>ელექტრომაგნიტური იმპულსური ყუმბარები, რომლებიც აზიანებენ ელექტრონულ აღჭურვილობას.</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.label>EMP ყუმბარები</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeFrag.description>ძველი სკოლის ფრაგმენტაციის ყუმბარები. ისინი შეიძლება გადააგდონ მცირე მანძილზე, სადაც ისინი აფეთქდებიან და დააზიანებს ყველაფერს და ნებისმიერს, ვინც ახლოსაა.</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.label>ფრაგმენტული ყუმბარები</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeMolotov.description>შუშის ბოთლები სავსე აალებადი სითხით, კისერში დამწვარი ქსოვილით. ხულიგნების და სასოწარკვეთილი მეომრების საყვარელი იარაღი რგოლებიდან რგოლებამდე.</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.label>მოლოტოვის კოქტეილები</Weapon_GrenadeMolotov.label>
+</LanguageData>

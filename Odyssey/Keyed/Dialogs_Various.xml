@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <ConfirmGravEngineLaunch>დარწმუნებული ხართ, რომ გსურთ გაშვება?\n\nთქვენი ამჟამინდელი რუკა, ისევე როგორც ყველაფერი, რაც არ არის სატვირთო გემის ქვეშ, სამუდამოდ დაიკარგება. გაშვების პროცესი დესტრუქციულია, რაც იმას ნიშნავს, რომ თქვენ ვერ შეძლებთ დაბრუნებას. შექმენით გრავ-წამყვანი ამ რუკის განადგურების თავიდან ასაცილებლად.</ConfirmGravEngineLaunch>
+  <GravEngineWarning>გაფრთხილება</GravEngineWarning>
+  <PeopleWillBeLeftBehind>შემდეგი ხალხი დარჩება</PeopleWillBeLeftBehind>
+  <AnimalsWillBeLeftBehind>შემდეგი დარჩება უკან</AnimalsWillBeLeftBehind>
+  <PawnsKidnappedOnGravship>თქვენთან ერთად წაიყვანენ შემდეგ ადამიანებს და ცხოველებს სხვა ფრაქციისგან. ეს გააბრაზებს მათ ფრაქციას, პოტენციურად მტრულად გადააქცევს მათ</PawnsKidnappedOnGravship>
+  <BuildingsWillBeLeftBehind>შემდეგი შენობები სრულად არ არის საფლავზე და დარჩება</BuildingsWillBeLeftBehind>
+  <SubstructureWillBeLeftBehind>ზოგიერთ ქვესტრუქტურას აქვს არასწორი განლაგება და დარჩება უკან</SubstructureWillBeLeftBehind>
+  <DisconnectedSubstructure>გათიშულია გრავ ძრავიდან</DisconnectedSubstructure>
+  <SubstructureUnderRockRoof>კლდის სახურავის ქვეშ</SubstructureUnderRockRoof>
+  <SubstructureOutsideFootprint>დიაპაზონის გარეთ</SubstructureOutsideFootprint>
+
+  <NamePlayerGravshipMessage>{0} დიდ იმედებს ამყარებს თქვენს ახალ გემზე და სურს, რომ ის კარგი სახელით მონათლოს. რა უნდა ერქვას შენს სამარხს?</NamePlayerGravshipMessage>
+  <PlayerGravshipGainsName>გემი ახლა ცნობილია როგორც {0}.</PlayerGravshipGainsName>
+  <PlayerGravshipNameIsInvalid>ეს სახელი არასწორია.</PlayerGravshipNameIsInvalid>
+
+  <GravshipForceVisitorsToLeaveLabel>აიძულეთ ვიზიტორები დატოვონ</GravshipForceVisitorsToLeaveLabel>
+  <GravshipForceVisitorsToLeaveTooltip>დაელოდეთ სანამ ყველა ვიზიტორი დატოვებს საფლავის გაშვებას. ეს არ იმოქმედებს მტრებზე, პატიმრებზე ან ჩამოგდებულ სტუმრებზე.</GravshipForceVisitorsToLeaveTooltip>
+  <GravshipBoardColonyAnimalsLabel>გამგეობის კოლონიის ცხოველები</GravshipBoardColonyAnimalsLabel>
+  <GravshipBoardColonyAnimalsTooltip>უბრძანე ყველა კოლონიის ცხოველს ასვლა საფლავზე. გემი არ გაიშვება მანამ, სანამ ისინი გემზე არ იქნებიან.</GravshipBoardColonyAnimalsTooltip>
+  <GravshipBoardColonyMechsLabel>გამგეობის კოლონიის მექანოიდები</GravshipBoardColonyMechsLabel>
+  <GravshipBoardColonyMechsTooltip>შეუკვეთეთ ყველა კოლონიის მექანოიდი, რომ ჩაჯდეს საგრაფტო გემზე. გემი არ გაიშვება მანამ, სანამ ისინი გემზე არ იქნებიან.</GravshipBoardColonyMechsTooltip>
+
+  <ConfirmLandOnHostileFactionBase>{0} მტრულად განწყობილია. თუ აქ ჩამოხვალ, ისინი თავს დაესხმებიან.</ConfirmLandOnHostileFactionBase>
+  <ConfirmLandOnNeutralFactionBase>აქ დაშვება {0}-ის აგრესიულ აქტად განიხილება. ისინი მტრულად განწყობილნი იქნებიან და თავს დაესხმებიან.</ConfirmLandOnNeutralFactionBase>
+
+  <ConfirmLand>მაინც აქ მიწა?</ConfirmLand>
+
+  <OrbitalWarning>ორბიტალური ადგილები საშიშია. დარწმუნდით, რომ მზად ხართ:\n - აღჭურვეთ თქვენი კოლონისტები ვაკე კოსტიუმებით ან სხვა მოწინავე ჯავშნით.\n - დაგეგმეთ თქვენი დაბრუნება. ორბიტაზე ხანგრძლივი პერიოდის განმავლობაში ცხოვრება უკიდურესად რთულია.</OrbitalWarning>
+  <OrbitalWarning_Gravship>მოამზადეთ თქვენი საზიდავი ორბიტაზე:\n- გამოიყენეთ ჰერმეტული კედლები და კარები.\n- დარწმუნდით, რომ ოთახები კარგად არის გაცხელებული და სრულად გადახურული.\n- ააშენეთ ჟანგბადის ტუმბოები.</OrbitalWarning_Gravship>
+  <OrbitalWarning_Warning>გაფრთხილება</OrbitalWarning_Warning>
+  <OrbitalWarning_Vacuum>ზოგიერთი გარე კედელი ან კარი არ არის ჰერმეტულად.</OrbitalWarning_Vacuum>
+  <OrbitalWarning_NoHeatSources>არ არის ფუნქციური სითბოს წყაროები.</OrbitalWarning_NoHeatSources>
+  <OrbitalWarning_FewHeatSources>სითბოს რამდენიმე ფუნქციური წყარო</OrbitalWarning_FewHeatSources>
+  <OrbitalWarning_NoOxygenPumps>არ არის ფუნქციური ჟანგბადის ტუმბოები.</OrbitalWarning_NoOxygenPumps>
+  <OrbitalWarning_FewOxygenPumps>რამდენიმე ფუნქციური ჟანგბადის ტუმბო</OrbitalWarning_FewOxygenPumps>
+
+  <ConfirmShuttleNotEnoughFuelToReturn>შატლს არ აქვს საკმარისი საწვავი ამ დანიშნულებიდან დასაბრუნებლად. ის შეიძლება დაბლოკილი იყოს.\n\nამჟამად გაქვთ {0} საწვავი, მაგრამ გჭირდებათ {1} საწვავი უკანა ფრენისთვის.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</ConfirmShuttleNotEnoughFuelToReturn>
+  <CaravanMovementSpeedShuttle>ქარავანი უმოძრაოა შატლის გამო</CaravanMovementSpeedShuttle>
+  <RefuelShuttleCount>შეავსეთ {0}x ქიმიური საწვავი</RefuelShuttleCount>
+  <ZoomRangeGravshipCutscene>მასშტაბირების დიაპაზონი (გრავთა) {0}</ZoomRangeGravshipCutscene>
+
+</LanguageData>

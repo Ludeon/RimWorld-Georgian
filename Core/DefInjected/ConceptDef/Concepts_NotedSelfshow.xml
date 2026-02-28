@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Alerts.helpText>ეკრანის მარჯვენა მხარეს არსებული გაფრთხილებები გაჩვენებთ პრობლემებს, რომლებიც ყურადღებას მოითხოვს.\n\nთვალი ადევნეთ მათ.</Alerts.helpText>
+  <Alerts.label>გაფრთხილებები</Alerts.label>
+  <AllowedAreas.helpText>კოლონისტებს და შინაურ ცხოველებს შეგიძლიათ დაუნიშნოთ დაშვებული ზონები. ამის შემდეგ ისინი ამ ზონის გარეთ მდებარე ადგილებში აღარ გავლენ.\n\nეს გამოსადეგია, მაგალითად, იმისთვის, რომ კოლონისტები გარეთ არ გავიდნენ.\n\nზონების მართვა შესაბამისი მენიუდან შეგიძლიათ.</AllowedAreas.helpText>
+  <AllowedAreas.label>დაშვებული ადგილები</AllowedAreas.label>
+  <AnimalTaming.helpText>ველური ცხოველის მოსაშინაურებლად კოლონისტს TAME ბრძანება დაუნიშნეთ.\n\nკოლონისტი ცხოველს საკვებს შესთავაზებს და მის მოშინაურებას ეცდება.\n\nგაფრთხილება: ზოგი ცხოველი წარუმატებელ მცდელობაზე აგრესიულად რეაგირებს.</AnimalTaming.helpText>
+  <AnimalTaming.label>ცხოველთა მოთვინიერება</AnimalTaming.label>
+  <AnimalTraining.helpText>მოშინაურებულ ცხოველს კონკრეტული უნარების სწავლება შეუძლია TRAINING ჩანართიდან ან ANIMALS ჩანართიდან.\n\nცხოველების უწყვეტად გაწვრთნა შეუძლებელია - ყოველ სესიას შორის დრო სჭირდებათ.</AnimalTraining.helpText>
+  <AnimalTraining.label>ცხოველთა წვრთნა</AnimalTraining.label>
+  <CameraDolly.helpText>ამოძრავეთ კამერა მაუსის ღილაკზე 3 (შუა ღილაკი) ან {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} ღილაკზე დაწკაპუნებით და გადაადგილებით.</CameraDolly.helpText>
+  <CameraDolly.label>კამერა დოლი</CameraDolly.label>
+  <CameraZoom.helpText>მასშტაბირება და შემცირება MOUSEWHEEL ან {Key:MapZoom_In} და {Key:MapZoom_Out} ღილაკებით.</CameraZoom.helpText>
+  <CameraZoom.label>კამერის ზუმი</CameraZoom.label>
+  <ClickingMessages.helpText>თქვენ შეგიძლიათ დააწკაპუნოთ შეტყობინებებზე ეკრანის ზედა მარცხენა მხარეს, რათა მყისიერად მოაწყოთ კამერა მათ საგანზე.</ClickingMessages.helpText>
+  <ClickingMessages.label>შეტყობინებების დაწკაპუნება</ClickingMessages.label>
+  <CoverAndShooting.helpText>დისტანციურ ბრძოლაში ყველაზე მნიშვნელოვანია საფარის გამოყენება.\n\nსაფარი მხოლოდ მაშინ მუშაობს, თუ კოლონისტი მას ეხება და ის კოლონისტსა და მტერს შორის დგას.\n\nკოლონისტები კედლის კუთხეების უკანაც შეგიძლიათ დააყენოთ. ეს განსაკუთრებით კარგ საფარს იძლევა.</CoverAndShooting.helpText>
+  <CoverAndShooting.label>საფარი და სროლა</CoverAndShooting.label>
+  <Deterioration.helpText>გარეთ დატოვებული ნივთები ნელ-ნელა ფუჭდება.\n\nთუ ნივთების ხანგრძლივად შენახვა გსურთ, გადახურულ ოთახში შეინახეთ.</Deterioration.helpText>
+  <Deterioration.label>ნივთის გაუარესება</Deterioration.label>
+  <EquippingWeapons.helpText>კოლონისტები გარკვეული იარაღით ჩამოვიდნენ, მაგრამ საჭიროების მიხედვით სხვა იარაღიც შეგიძლიათ აღაჭურვოთ.\n\nმონიშნეთ თითოეული კოლონისტი და მარჯვენა ღილაკით დააწკაპუნეთ იმ იარაღზე, რომლის აღებაც გსურთ.</EquippingWeapons.helpText>
+  <EquippingWeapons.label>იარაღის აღჭურვა</EquippingWeapons.label>
+  <FirePreparation.helpText>ცეცხლს მარტივად შეუძლია კოლონია მიწასთან გაასწოროს. მის დასამარცხებლად მომზადება მანამდეა საჭირო, სანამ გაჩნდება.\n\nშემდეგი სამშენებლო გადაწყვეტები ცეცხლის ზიანს ამცირებს:\n\n1. ერთი უზარმაზარი შენობის ნაცვლად რამდენიმე განცალკევებული შენობა ააშენეთ.\n2. გამოიყენეთ ქვა იმ ადგილებში, სადაც ხანძარი განსაკუთრებით სახიფათოა.\n3. გააკეთეთ ცეცხლგამყოფი ცარიელი ზოლები ან ქვის საფარები.</FirePreparation.helpText>
+  <FirePreparation.label>ცეცხლის მომზადება</FirePreparation.label>
+  <Forbidding.helpText>FORBIDDEN ნიშნით მონიშნულ ნივთებთან კოლონისტები აღარ იურთიერთებენ.\n\nასეთ ნივთებს პატარა წითელი X აქვს. მონიშნეთ აკრძალული ნივთი და ქვედა პანელიდან მოხსენით აკრძალვა, თუ მისი გამოყენება ისევ გსურთ.</Forbidding.helpText>
+  <Forbidding.label>აკრძალეთ და დაუშვით</Forbidding.label>
+  <ForbiddingDoors.helpText>კარები შეგიძლიათ FORBID რეჟიმში გადაიყვანოთ, რათა კოლონისტებმა და შინაურმა ცხოველებმა არ გამოიყენონ.\n\nეს კარის ჩაკეტვა არ არის. მტრები მაინც ვერ გაივლიან თავისუფლად; უბრალოდ თქვენი ხალხი ერიდება ამ კარს.</ForbiddingDoors.helpText>
+  <ForbiddingDoors.label>აკრძალული კარები</ForbiddingDoors.label>
+  <FormCaravan.helpText>შეგიძლიათ ქარავანი ჩამოაყალიბოთ და ხალხის ჯგუფები პლანეტაზე სამოგზაუროდ გაგზავნოთ!\n\nWORLD ჩანართში მონიშნეთ თქვენი ბაზა და გამოიყენეთ ქარავნის შექმნის ბრძანება.</FormCaravan.helpText>
+  <FormCaravan.label>ქარავნების ფორმირება</FormCaravan.label>
+  <FriendlyFireSafety.helpText>თუ მსროლელი მოკავშირესთან ახლოს დგას, მეგობრული ცეცხლი არ მოხდება.\n\nმაგალითად, შეგიძლიათ ხმლიან კოლონისტს პირდაპირ წინ დაუყენოთ მსროლელი - ტყვიები მას მხარზე ზემოდან გადაუვლის.\n\nთუმცა ეს წესები ყველგან ერთნაირად არ მუშაობს, ამიტომ მაინც ფრთხილად იყავით.</FriendlyFireSafety.helpText>
+  <FriendlyFireSafety.label>მეგობრული სახანძრო უსაფრთხოება</FriendlyFireSafety.label>
+  <GettingMoreTraders.helpText>უფრო მეტი სავაჭრო ქარავანი გესტუმრებათ, თუ მეტ ფრაქციასთან იქნებით მოკავშირედ.\n\nთუ მოკავშირეები არ გყავთ, ქარავნები საერთოდ აღარ მოვლენ.\n\nასევე შეგიძლიათ მოკავშირეებს კომუნიკაციის კონსოლიდან სავაჭრო ქარავანი სთხოვოთ.</GettingMoreTraders.helpText>
+  <GettingMoreTraders.label>მეტი ტრეიდერის მიღება</GettingMoreTraders.label>
+  <GrowingFood.helpText>საკვების მოსაყვანად Architect მენიუდან შექმენით ზრდის ზონები.\n\nისინი მხოლოდ ნაყოფიერ მიწაზე შეიძლება განთავსდეს.</GrowingFood.helpText>
+  <GrowingFood.label>მზარდი ზონები</GrowingFood.label>
+  <HistoryTab.helpText>თქვენ შეგიძლიათ იხილოთ თქვენი კოლონიის ბედის ჩანაწერი დროთა განმავლობაში HISTORY ჩანართზე ეკრანის ბოლოში.</HistoryTab.helpText>
+  <HistoryTab.label>ისტორიის ჩანართი</HistoryTab.label>
+  <HomeArea.helpText>HOME AREA განსაზღვრავს, სად უნდა გაწმინდონ კოლონისტებმა და სად უნდა ჩააქრონ ხანძარი.\n\nეს ზონა Architect მენიუს ქვეშ, Zones კატეგორიაში ინიშნება.</HomeArea.helpText>
+  <HomeArea.label>სახლის ტერიტორია</HomeArea.label>
+  <HostilityResponse.helpText>შეგიძლიათ დააყენოთ, როგორ უპასუხონ კოლონისტებმა ავტომატურად საფრთხეებს, მაგალითად მტაცებელ ცხოველებს.\n\nაირჩიეთ FLEE, ATTACK ან IGNORE რეჟიმი შესაბამისი მართვის მენიუდან.</HostilityResponse.helpText>
+  <HostilityResponse.label>მტრული რეაგირების რეჟიმები</HostilityResponse.label>
+  <InfoCard.helpText>ინფორმაციის ბარათი გაჩვენებთ დეტალურ სტატისტიკას ნებისმიერ ნივთზე, ადამიანზე ან ნაგებობაზე.\n\nმონიშნეთ ობიექტი ან პერსონაჟი და გახსენით info card inspect პანელზე არსებული 'i' ღილაკით.</InfoCard.helpText>
+  <InfoCard.label>საინფორმაციო ბარათი</InfoCard.label>
+  <ManualWorkPriorities.helpText>RimWorld-ის ერთ-ერთი ყველაზე მნიშვნელოვანი ნაწილი სამუშაო პრიორიტეტების სწორად დალაგებაა.\n\nცუდმა პრიორიტეტებმა შეიძლება მნიშვნელოვანი საქმეები დიდხანს დაუმთავრებელი დატოვოს, სანამ კოლონისტები დროს მეორეხარისხოვან საქმეზე ხარჯავენ.\n\nManual priorities რეჟიმი საშუალებას გაძლევთ თითოეულ საქმეს ზუსტი პრიორიტეტი მიანიჭოთ.</ManualWorkPriorities.helpText>
+  <ManualWorkPriorities.label>ხელით მუშაობის პრიორიტეტები</ManualWorkPriorities.label>
+  <MedicalOperations.helpText>სამედიცინო ოპერაციის დასანიშნად, როგორიცაა ორგანოს აღება ან პროთეზირების ინსტალაცია, გახსენით კოლონისტის ჯანმრთელობის ჩანართი, შემდეგ გადადით ოპერაციების ქვეჩანართზე.</MedicalOperations.helpText>
+  <MedicalOperations.label>სამედიცინო ოპერაციები</MedicalOperations.label>
+  <Mining.helpText>თხრილის მონიშვნა Architect მენიუს ORDERS ჩანართიდან შეგიძლიათ.\n\nზოგი მადნიანი ბლოკი გაძლევთ ფოლადს, ოქროს, პლასტელს და სხვა სასარგებლო მასალას.</Mining.helpText>
+  <Mining.label>მაინინგი</Mining.label>
+  <Outfits.helpText>კოლონისტები ავტომატურად შეეცდებიან ჩაიცვან ყველაზე ახალი და ხარისხიანი ტანსაცმელი, რაც ხელმისაწვდომია.\n\nთქვენ არ გჭირდებათ თითოეული სამოსის ხელით დანიშვნა (თუმცა სურვილის შემთხვევაში შეგიძლიათ).\n\nOutfit წესებით შეგიძლიათ განსაზღვროთ რა ტიპის ტანსაცმელი ჩაიცვან.</Outfits.helpText>
+  <Outfits.label>კოსტიუმები</Outfits.label>
+  <Pause.helpText>{Key:TogglePause} აჩერებს და განაახლებს თამაშს.\n\nპაუზის დროსაც შეგიძლიათ ბრძანებების გაცემა.\n\nდაიმახსოვრეთ ეს - თუ ყველაფერი აირევა, უბრალოდ დააჭირეთ {Key:TogglePause}-ს!</Pause.helpText>
+  <Pause.label>პაუზა</Pause.label>
+  <ShotAccuracyTooltip.helpText>ნებისმიერი გასროლის სიზუსტის ზუსტი გამოთვლა შეგიძლიათ ნახოთ.\n\nამისთვის მონიშნეთ მსროლელი და შემდეგ მაუსი გააჩერეთ სამიზნეზე. ToolTip გაჩვენებთ მოხვედრის შანსს და თითოეული ფაქტორის წვლილს.</ShotAccuracyTooltip.helpText>
+  <ShotAccuracyTooltip.label>მინიშნება სროლის სიზუსტის შესახებ</ShotAccuracyTooltip.label>
+  <SpoilageAndFreezers.helpText>საკვების უმეტესობა შედარებით სწრაფად ფუჭდება.\n\nამის თავიდან ასაცილებლად ააშენეთ საყინულე ოთახი.\n\nამისთვის დახურული ოთახი მოაწყვეთ, კედელში ერთი ან ორი ქულერი ჩასვით და ისინი დაბალ ტემპერატურაზე დააყენეთ.</SpoilageAndFreezers.helpText>
+  <SpoilageAndFreezers.label>გაფუჭება და საყინულეები</SpoilageAndFreezers.label>
+  <Stockpiles.helpText>კოლონისტებს ნივთების შესანახი ადგილი სჭირდებათ. შექმენით stockpile, სადაც ისინი ყველაფერს დააწყობენ.\n\nStockpile ზონები Architect მენიუს ZONES განყოფილებაშია.</Stockpiles.helpText>
+  <Stockpiles.label>მარაგები</Stockpiles.label>
+  <StorageTab.helpText>Stockpile-ების და საცავის შენობების გამართვა მათი მონიშვნით და STORAGE TAB-ის გახსნით შეგიძლიათ.\n\nსაცავის ჩანართში შეგიძლიათ კატეგორიების გაფართოება და განსაზღვრა, რა შეინახოს ან არ შეინახოს კონკრეტულმა ადგილმა.</StorageTab.helpText>
+  <StorageTab.label>შენახვის ჩანართი</StorageTab.label>
+  <TileInspector.helpText>შეგიძლიათ დაათვალიეროთ კრამიტის დეტალები {Key:ShowCellInspector}-ის დაჭერით. ეს აჩვენებს კრამიტის შინაარსს, ოთახის ინფორმაციას, სილამაზის ინფორმაციას და სხვა.</TileInspector.helpText>
+  <TileInspector.label>კრამიტის ინსპექტორი</TileInspector.label>
+  <TimeAssignments.helpText>თქვენ შეგიძლიათ შეცვალოთ დღის რომელი დრო უნდა გააკეთონ კოლონისტებმა სხვადასხვა აქტივობები განრიგის ჩანართის გამოყენებით.</TimeAssignments.helpText>
+  <TimeAssignments.label>დროის დავალებები</TimeAssignments.label>
+  <TimeControls.helpText>შეგიძლიათ დრო დააჩქაროთ.\n\nსცადეთ დროის მართვა ღილაკებით {Key:TimeSpeed_Normal}, {Key:TimeSpeed_Fast} და {Key:TimeSpeed_Superfast}, ან ქვედა მარჯვენა კუთხეში არსებული დროის კონტროლებით.</TimeControls.helpText>
+  <TimeControls.label>დროის კონტროლი</TimeControls.label>
+  <WorkTab.helpText>თითოეული კოლონისტის სამუშაო პარამეტრები ეკრანის ქვედა მარცხენა მხარეს, WORK ჩანართში წესრიგდება.\n\nისინი ყოველთვის შეეცდებიან იპოვონ მათთვის ხელმისაწვდომი ყველაზე მაღალი პრიორიტეტის საქმე.\n\nთუ კონკრეტულ სამუშაო ტიპზე არავინ არის დანიშნული, ან ყველა დაკავებულია, ეს საქმე უბრალოდ არ გაკეთდება.</WorkTab.helpText>
+  <WorkTab.label>სამუშაო პარამეტრები</WorkTab.label>
+</LanguageData>

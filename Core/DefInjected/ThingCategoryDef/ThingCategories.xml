@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalProductRaw.label>ცხოველური პროდუქტები</AnimalProductRaw.label>
+  <Animals.label>ცხოველები</Animals.label>
+  <Apparel.label>ტანსაცმელი</Apparel.label>
+  <ApparelArmor.label>ჯავშანი</ApparelArmor.label>
+  <ApparelMisc.label>სხვადასხვა</ApparelMisc.label>
+  <ApparelNoble.label>კეთილშობილური სამოსი</ApparelNoble.label>
+  <ApparelUtility.label>სასარგებლო</ApparelUtility.label>
+  <ArmorHeadgear.label>თავსაბურავი</ArmorHeadgear.label>
+  <Artifacts.label>არტეფაქტები</Artifacts.label>
+  <BodyParts.label>სხეულის ნაწილები</BodyParts.label>
+  <BodyPartsArchotech.label>არქოტექ</BodyPartsArchotech.label>
+  <BodyPartsBionic.label>ბიონიკური</BodyPartsBionic.label>
+  <BodyPartsMechtech.label>ტექნიკის</BodyPartsMechtech.label>
+  <BodyPartsNatural.label>ბუნებრივი</BodyPartsNatural.label>
+  <BodyPartsProsthetic.label>პროთეზირება</BodyPartsProsthetic.label>
+  <BodyPartsSimple.label>მარტივი ნაწილები</BodyPartsSimple.label>
+  <BodyPartsUltra.label>ულტრატექნიკური</BodyPartsUltra.label>
+  <BookEffects.label>წიგნის ეფექტები</BookEffects.label>
+  <Books.label>წიგნები</Books.label>
+  <Buildings.label>შენობები</Buildings.label>
+  <BuildingsArt.label>ხელოვნება</BuildingsArt.label>
+  <BuildingsFurniture.label>ავეჯი</BuildingsFurniture.label>
+  <BuildingsJoy.label>დასვენება</BuildingsJoy.label>
+  <BuildingsMisc.label>სხვადასხვა</BuildingsMisc.label>
+  <BuildingsPower.label>ძალაუფლება</BuildingsPower.label>
+  <BuildingsProduction.label>წარმოება</BuildingsProduction.label>
+  <BuildingsSecurity.label>უსაფრთხოება</BuildingsSecurity.label>
+  <BuildingsSpecial.label>განსაკუთრებული</BuildingsSpecial.label>
+  <BuildingsTemperature.label>ტემპერატურა</BuildingsTemperature.label>
+  <Chunks.label>ნაჭრები</Chunks.label>
+  <Corpses.label>გვამები</Corpses.label>
+  <CorpsesAnimal.label>ცხოველების გვამები</CorpsesAnimal.label>
+  <CorpsesHumanlike.label>ადამიანის მსგავსი ცხედრები</CorpsesHumanlike.label>
+  <CorpsesInsect.label>მწერების გვამები</CorpsesInsect.label>
+  <CorpsesMechanoid.label>მექანიკური ცხედრები</CorpsesMechanoid.label>
+  <Drugs.label>ნარკოტიკები</Drugs.label>
+  <EggsFertilized.label>კვერცხი (ფერტ.)</EggsFertilized.label>
+  <EggsUnfertilized.label>კვერცხები (უსაფრთხო.)</EggsUnfertilized.label>
+  <FoodMeals.label>კვება</FoodMeals.label>
+  <FoodRaw.label>უმი საკვები</FoodRaw.label>
+  <Foods.label>საკვები</Foods.label>
+  <Grenades.label>ყუმბარები</Grenades.label>
+  <Headgear.label>თავსაბურავი</Headgear.label>
+  <HeadgearNoble.label>თავსაბურავი</HeadgearNoble.label>
+  <InertRelics.label>ინერტული რელიქვიები</InertRelics.label>
+  <Items.label>ნივთები</Items.label>
+  <ItemsMisc.label>სხვადასხვა</ItemsMisc.label>
+  <Leathers.label>ტყავები</Leathers.label>
+  <Manufactured.label>წარმოებული</Manufactured.label>
+  <MeatRaw.label>ხორცი</MeatRaw.label>
+  <Medicine.label>წამალი</Medicine.label>
+  <MortarShells.label>ნაღმტყორცნების ჭურვები</MortarShells.label>
+  <Neurotrainers.label>ნეიროტრენერები</Neurotrainers.label>
+  <NeurotrainersPsycast.label>ფსიტრენერები</NeurotrainersPsycast.label>
+  <NeurotrainersSkill.label>უნარების ტრენერები</NeurotrainersSkill.label>
+  <PlantFoodRaw.label>ვეგეტარიანელი</PlantFoodRaw.label>
+  <PlantMatter.label>მცენარეული ნივთიერება</PlantMatter.label>
+  <Plants.label>მცენარეები</Plants.label>
+  <ResearchGain.label>კვლევა</ResearchGain.label>
+  <ResourcesRaw.label>ნედლეული რესურსები</ResourcesRaw.label>
+  <Root.label>ფესვი</Root.label>
+  <SkillGain.label>უნარების მომატება</SkillGain.label>
+  <StoneBlocks.label>ქვის ბლოკები</StoneBlocks.label>
+  <StoneChunks.label>ქვის ნატეხები</StoneChunks.label>
+  <Stumps.label>ღეროები</Stumps.label>
+  <Techprints.label>ტექნიკური პრინტები</Techprints.label>
+  <Textiles.label>ქსოვილები</Textiles.label>
+  <Unfinished.label>დაუმთავრებელი</Unfinished.label>
+  <Weapons.label>იარაღი</Weapons.label>
+  <WeaponsMelee.label>melee იარაღი</WeaponsMelee.label>
+  <WeaponsMeleeBladelink.label>პერსონალური იარაღი</WeaponsMeleeBladelink.label>
+  <WeaponsRanged.label>დისტანციური იარაღი</WeaponsRanged.label>
+  <WeaponsUnique.label>უნიკალური იარაღი</WeaponsUnique.label>
+  <Wools.label>მატყლები</Wools.label>
+</LanguageData>

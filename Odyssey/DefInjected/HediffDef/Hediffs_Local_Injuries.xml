@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PorcupineQuill.description>ბასრი ხერხემალი გოჭისგან. მიუხედავად იმისა, რომ ზოგადად არ არის ფატალური, ისინი წარმოუდგენლად მტკივნეულია. ის ქირურგიულად უნდა მოიხსნას.</PorcupineQuill.description>
+  <PorcupineQuill.label>გოჭის ღვეზელი</PorcupineQuill.label>
+  <VacuumBurn.description>ქსოვილის დაზიანება, რომელიც გამოწვეულია სივრცის ვაკუუმის ზემოქმედებით. ეს შეიძლება იყოს უკიდურესად მტკივნეული.</VacuumBurn.description>
+  <VacuumBurn.label>ვაკუუმური დამწვრობა</VacuumBurn.label>
+  <VacuumBurn.labelNoun>ვაკუუმური დამწვრობა</VacuumBurn.labelNoun>
+</LanguageData>

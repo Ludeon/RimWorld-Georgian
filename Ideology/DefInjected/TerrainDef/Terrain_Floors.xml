@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Boards_Totemic.description>ტოტემურ სტილში მორთული დახვეწილი ხის დაფები.</Boards_Totemic.description>
+  <Boards_Totemic.label>ტოტემური დაფები</Boards_Totemic.label>
+  <Carpet_MindbendA.label>ბრილიანტის Mindbend ხალიჩა</Carpet_MindbendA.label>
+  <Carpet_MindbendB.label>იასამნისფერი გონების ხალიჩა</Carpet_MindbendB.label>
+  <Carpet_MindbendC.label>მწვანე გონების ხალიჩა</Carpet_MindbendC.label>
+  <Carpet_MindbendD.label>ლურჯი გონების ხალიჩა</Carpet_MindbendD.label>
+  <Carpet_MindbendE.label>ყვითელი გონების ხალიჩა</Carpet_MindbendE.label>
+  <Plates_Spikecore.description>დახვეწილი ფოლადის ფირფიტები გაფორმებულია აგრესიული spikecore სტილში.</Plates_Spikecore.description>
+  <Plates_Spikecore.label>spikecore ფირფიტები</Plates_Spikecore.label>
+  <Tile_MorbidGranite.label>ავად გრანიტის ფილა</Tile_MorbidGranite.label>
+  <Tile_MorbidLimestone.label>ავადმყოფური კირქვის ფილა</Tile_MorbidLimestone.label>
+  <Tile_MorbidMarble.label>ავადმყოფური მარმარილოს ფილა</Tile_MorbidMarble.label>
+  <Tile_MorbidSandstone.label>ავადმყოფური ქვიშაქვის ფილა</Tile_MorbidSandstone.label>
+  <Tile_MorbidSlate.label>ავადმყოფური ფიქალის ფილა</Tile_MorbidSlate.label>
+  <Tile_MorbidVacstone.label>ავადმყოფური ვაკსტონური ფილა</Tile_MorbidVacstone.label>
+  <Tile_SpikecoreGranite.label>გრანიტის spikecore ფილა</Tile_SpikecoreGranite.label>
+  <Tile_SpikecoreLimestone.label>კირქვის spikecore ფილა</Tile_SpikecoreLimestone.label>
+  <Tile_SpikecoreMarble.label>მარმარილოს ფილა</Tile_SpikecoreMarble.label>
+  <Tile_SpikecoreSandstone.label>ქვიშაქვის spikecore ფილა</Tile_SpikecoreSandstone.label>
+  <Tile_SpikecoreSlate.label>ფიქალის spikecore ფილა</Tile_SpikecoreSlate.label>
+  <Tile_SpikecoreVacstone.label>vacstone spikecore ფილა</Tile_SpikecoreVacstone.label>
+  <Tile_TotemicGranite.label>ტოტემური გრანიტის ფილა</Tile_TotemicGranite.label>
+  <Tile_TotemicLimestone.label>ტოტემური კირქვის ფილა</Tile_TotemicLimestone.label>
+  <Tile_TotemicMarble.label>ტოტემური მარმარილოს ფილა</Tile_TotemicMarble.label>
+  <Tile_TotemicSandstone.label>ტოტემური ქვიშაქვის ფილა</Tile_TotemicSandstone.label>
+  <Tile_TotemicSlate.label>ტოტემური ფიქალის ფილა</Tile_TotemicSlate.label>
+  <Tile_TotemicVacstone.label>ტოტემური ვაკსტონის ფილა</Tile_TotemicVacstone.label>
+  <Tile_Transhumanist.description>თხელი ფოლადის ფირფიტები ექვსკუთხა ნიმუშით ამ ულტრატექნოლოგიური იერსახისთვის.</Tile_Transhumanist.description>
+  <Tile_Transhumanist.label>hex ფილა</Tile_Transhumanist.label>
+</LanguageData>

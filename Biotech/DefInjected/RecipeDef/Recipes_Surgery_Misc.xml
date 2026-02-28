@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodTransfusion.description>გამოიყენეთ ჰემოგენის პაკეტები სისხლის დაკარგვის შედეგების შესამცირებლად. გამოყენებული ჰემოგენის თითოეული პაკეტი აღადგენს სისხლის დაკარგვის 35%-ს. ოპერაცია ასევე აღადგენს ჰემოგენს ჰემოგენურ პირებს.</BloodTransfusion.description>
+  <BloodTransfusion.jobString>სისხლის გადასხმის ჩატარება TargetA-ზე.</BloodTransfusion.jobString>
+  <BloodTransfusion.label>სისხლის გადასხმა</BloodTransfusion.label>
+  <ExtractHemogenPack.description>Extract a hemogen pack from the target. The operation will fail to produce a hemogen pack if the target does not have enough blood.\n\nHemogen packs can be administered to others to reduce blood loss or to satiate those who feed on blood.</ExtractHemogenPack.description>
+  <ExtractHemogenPack.jobString>ჰემოგენის პაკეტის ამოღება.</ExtractHemogenPack.jobString>
+  <ExtractHemogenPack.label>ექსტრაქტი ჰემოგენის პაკეტი</ExtractHemogenPack.label>
+  <ExtractOvum.description>ამოიღეთ კვერცხუჯრედი შესანახ კაფსულაში. ამის შემდეგ ის შეიძლება განაყოფიერდეს მამაკაცმა და საბოლოოდ ჩანერგოს დედაში ორსულობის დასაწყებად.</ExtractOvum.description>
+  <ExtractOvum.jobString>კვერცხუჯრედის ამოღება TargetA-დან.</ExtractOvum.jobString>
+  <ExtractOvum.label>კვერცხუჯრედის ამონაწერი IVF-სთვის</ExtractOvum.label>
+  <ImplantEmbryo.description>ჩაუნერგეთ ემბრიონი სუროგატ დედას ორსულობის დასაწყებად.</ImplantEmbryo.description>
+  <ImplantEmbryo.jobString>ემბრიონის იმპლანტაცია TargetA-ში.</ImplantEmbryo.jobString>
+  <ImplantEmbryo.label>იმპლანტის ემბრიონი</ImplantEmbryo.label>
+  <ImplantIUD.description>ჩაუნერგეთ პატარა ლითონის მოწყობილობა საშვილოსნოში ორსულობის თავიდან ასაცილებლად. მოგვიანებით მისი ამოღება შესაძლებელია, მაგრამ არსებობს მცირე შანსი, რომ პაციენტი მუდმივად დარჩეს სტერილური. ეს ოპერაცია წყვეტს ორსულობას პირველ ტრიმესტრში.</ImplantIUD.description>
+  <ImplantIUD.jobString>სპირალის დანერგვა TargetA-ში.</ImplantIUD.jobString>
+  <ImplantIUD.label>იმპლანტის IUD</ImplantIUD.label>
+  <ImplantXenogerm.description>ქსენოგერმის იმპლანტაცია პაციენტში. ეს ანაცვლებს მათ წინა ქსენოგერმს.</ImplantXenogerm.description>
+  <ImplantXenogerm.jobString>ქსენოგერმის იმპლანტაცია.</ImplantXenogerm.jobString>
+  <ImplantXenogerm.label>იმპლანტი ქსენოგერმი</ImplantXenogerm.label>
+  <RemoveIUD.description>ამოიღეთ იმპლანტირებული ინტრაუტერიული მოწყობილობა ნორმალური ორსულობის დასაშვებად. თუ ოპერაცია არასწორედ წარიმართება, პაციენტი მუდმივად სტერილური იქნება.</RemoveIUD.description>
+  <RemoveIUD.jobString>სპირალის ამოღება TargetA-დან.</RemoveIUD.jobString>
+  <RemoveIUD.label>ამოიღეთ სპირალი</RemoveIUD.label>
+  <ReverseVasectomy.description>შეეცადეთ გააუქმოთ ვაზექტომია და გახადოთ მამაკაცი, რომელსაც შეუძლია კვლავ გააჩინოს შვილები. ვაზექტომიის რევერსიების უმეტესობა წარმატებულია, მაგრამ თუ ოპერაცია არასწორედ წარიმართება, მამაკაცი მუდმივად სტერილური დარჩება.</ReverseVasectomy.description>
+  <ReverseVasectomy.jobString>ვაზექტომიის რევერსიის ჩატარება TargetA-ზე.</ReverseVasectomy.jobString>
+  <ReverseVasectomy.label>საპირისპირო ვაზექტომია</ReverseVasectomy.label>
+  <TerminatePregnancy.description>შეწყვიტოს ორსულობა ცხოველს ან ადამიანს.</TerminatePregnancy.description>
+  <TerminatePregnancy.jobString>TargetA-ს ორსულობის შეწყვეტა.</TerminatePregnancy.jobString>
+  <TerminatePregnancy.label>ორსულობის შეწყვეტა</TerminatePregnancy.label>
+  <TubalLigation.jobString>მილების ლიგაციის ჩატარება TargetA-ზე.</TubalLigation.jobString>
+  <TubalLigation.label>შეასრულოს მილების ლიგირება</TubalLigation.label>
+  <Vasectomy.description>გაჭრა ვაზ დეფერენსი, რათა პაციენტმა ვერ შეძლოს რეპროდუცირება. თუ ოპერაცია არასწორედ წარიმართება, პაციენტი მუდმივად სტერილური იქნება.</Vasectomy.description>
+  <Vasectomy.jobString>ვაზექტომიის ჩატარება TargetA-ზე.</Vasectomy.jobString>
+  <Vasectomy.label>ვაზექტომიის ჩატარება</Vasectomy.label>
+</LanguageData>

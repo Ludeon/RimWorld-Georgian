@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bluebird.label>ლურჯი ჩიტი</Bluebird.label>
+  <Crow.label>ყვავი</Crow.label>
+  <Flamingo.label>ფლამინგო</Flamingo.label>
+  <Heron.label>ყანჩა</Heron.label>
+  <Macaw.label>მაკაო</Macaw.label>
+  <Peacock.label>ფარშევანგი</Peacock.label>
+  <Peacock.labelFemale>პეჰენი</Peacock.labelFemale>
+  <Peacock.labelMale>ფარშევანგი</Peacock.labelMale>
+  <Penguin.label>პინგვინი</Penguin.label>
+  <Quail.label>მწყერი</Quail.label>
+  <Sparrow.label>ბეღურა</Sparrow.label>
+  <Swan.label>გედი</Swan.label>
+  <Vulture.label>ულვა</Vulture.label>
+</LanguageData>

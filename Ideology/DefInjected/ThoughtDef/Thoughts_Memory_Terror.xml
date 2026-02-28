@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ObservedGibbetCage.stages.0.description>რა საშინელი სანახაობაა.</ObservedGibbetCage.stages.0.description>
+  <ObservedGibbetCage.stages.0.label>დააკვირდა გიბეტის გალია</ObservedGibbetCage.stages.0.label>
+  <ObservedSkullspike.stages.0.description>რა საშინელი სანახაობაა.</ObservedSkullspike.stages.0.description>
+  <ObservedSkullspike.stages.0.label>დაფიქსირდა თავის ქალა</ObservedSkullspike.stages.0.label>
+  <ObservedTerror.stages.0.label>{THING_label}</ObservedTerror.stages.0.label>
+</LanguageData>

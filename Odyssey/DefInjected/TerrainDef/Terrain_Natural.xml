@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientMegastructure.label>უძველესი მეგასტრუქტურა</AncientMegastructure.label>
+  <CooledLava.label>გაცივებული ლავა</CooledLava.label>
+  <DryLakeBed.label>მშრალი ტბის კალაპოტი</DryLakeBed.label>
+  <GlowforestSoil.label>ნიადაგი</GlowforestSoil.label>
+  <GrasslandSoil.label>ნიადაგი</GrasslandSoil.label>
+  <LavaDeep.label>ღრმა ლავა</LavaDeep.label>
+  <Space.label>სივრცე</Space.label>
+  <VolcanicRock.label>ვულკანური კლდე</VolcanicRock.label>
+  <VolcanicRock_Smooth.label>გლუვი ვულკანური კლდე</VolcanicRock_Smooth.label>
+</LanguageData>

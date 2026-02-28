@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BabyDecoration.description>დეკორაცია ჩვილებისთვის. ბავშვის დეკორაციები ზრდის ტემპს, რომლითაც ჩვილები ავსებენ სათამაშო მოთხოვნილებას, როდესაც ზრდასრული თამაშობს მათთან. მოათავსეთ ისინი თქვენი ბავშვის სათამაშო ადგილების გარშემო.</BabyDecoration.description>
+  <BabyDecoration.label>ბავშვის დეკორაცია</BabyDecoration.label>
+  <BabySleepingSpot.description>განსაზღვრავს ადგილზე ადგილზე, სადაც ადამიანებმა უნდა დატოვონ ბავშვი. არა კომფორტული.</BabySleepingSpot.description>
+  <BabySleepingSpot.label>ბავშვის საძილე ადგილი</BabySleepingSpot.label>
+  <Blackboard.description>ბრტყელი ქვის მსგავსი ზედაპირი ცარცით დასაწერად. გაკვეთილის მაგიდასთან განთავსებული დაფები ზრდის ბავშვების სწავლის სიჩქარეს გაკვეთილების დროს. სამამდე დაფის გამოყენება შესაძლებელია ერთდროულად.</Blackboard.description>
+  <Blackboard.label>დაფა</Blackboard.label>
+  <Crib.description>მყუდრო საწოლი უსაფრთხო გისოსებით, იდეალურია მძინარე ბავშვისთვის. მაღალი ხარისხის საწოლი ბავშვს გაახარებს. საძინებელში შესაძლებელია მრავალი საწოლის განთავსება ყაზარმად გადაქცევის გარეშე.</Crib.description>
+  <Crib.label>საწოლი</Crib.label>
+  <SchoolDesk.description>მაგიდა, სადაც უფროსებს შეუძლიათ ბავშვებს გაკვეთილების სწავლება.</SchoolDesk.description>
+  <SchoolDesk.label>სკოლის მაგიდა</SchoolDesk.label>
+  <ToyBox.description>სათამაშო ყუთი, რომელშიც ბევრი პატარა სათამაშოა. სათამაშოების ყუთები შეიძლება გამოყენებულ იქნას ჩვილებთან სათამაშოდ, მათი თამაშის მოთხოვნილების დასაკმაყოფილებლად.</ToyBox.description>
+  <ToyBox.label>სათამაშო ყუთი</ToyBox.label>
+</LanguageData>

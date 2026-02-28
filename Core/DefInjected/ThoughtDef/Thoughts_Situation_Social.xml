@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Affair.stages.0.label>საქმე</Affair.stages.0.label>
+  <AnnoyingVoice.stages.0.label>შემაშფოთებელი ხმა</AnnoyingVoice.stages.0.label>
+  <AteRawHumanlikeMeat.stages.0.label>ჭამდა ადამიანის მსგავსი უმი ხორცს</AteRawHumanlikeMeat.stages.0.label>
+  <BodyPuristDisgust.stages.0.label>სხეულის გამწმენდი ზიზღი</BodyPuristDisgust.stages.0.label>
+  <BodyPuristDisgust.stages.1.label>სხეულის გამწმენდი ზიზღი</BodyPuristDisgust.stages.1.label>
+  <BodyPuristDisgust.stages.2.label>სხეულის გამწმენდი ზიზღი</BodyPuristDisgust.stages.2.label>
+  <BodyPuristDisgust.stages.3.label>სხეულის გამწმენდი ზიზღი</BodyPuristDisgust.stages.3.label>
+  <BodyPuristDisgust.stages.4.label>სხეულის გამწმენდი ზიზღი</BodyPuristDisgust.stages.4.label>
+  <BondedAnimalMaster.stages.0.description>ჩემს შეკრულ ცხოველთან ერთად ყოფნა თავს უკეთ ვგრძნობ.</BondedAnimalMaster.stages.0.description>
+  <BondedAnimalMaster.stages.0.label>{0}-ის ოსტატი</BondedAnimalMaster.stages.0.label>
+  <BondedAnimalMaster.stages.1.description>ჩემს შეკრულ ცხოველებთან ერთად ყოფნა თავს უკეთ ვგრძნობ.</BondedAnimalMaster.stages.1.description>
+  <BondedAnimalMaster.stages.1.label>{0}-ის ოსტატი</BondedAnimalMaster.stages.1.label>
+  <ChemicalInterestVsTeetotaler.stages.0.label>ქიმიური ინტერესი ტეეტოტალერის წინააღმდეგ</ChemicalInterestVsTeetotaler.stages.0.label>
+  <CreepyBreathing.stages.0.label>საშინელი სუნთქვა</CreepyBreathing.stages.0.label>
+  <Disfigured.stages.0.label>დამახინჯებული</Disfigured.stages.0.label>
+  <Drunk.stages.0.label>მთვრალი</Drunk.stages.0.label>
+  <ExecutedPrisoner.stages.0.label>სიკვდილით დასჯილი პატიმარი</ExecutedPrisoner.stages.0.label>
+  <HardWorkerVsLazy.stages.0.label>შრომისმოყვარე vs ზარმაცი</HardWorkerVsLazy.stages.0.label>
+  <HoldingMePrisoner.stages.0.label>ტყვედ მიმყავს</HoldingMePrisoner.stages.0.label>
+  <Incestuous.stages.0.label>ინცესტური</Incestuous.stages.0.label>
+  <KilledColonist.stages.0.label>მოკლული კოლონისტი</KilledColonist.stages.0.label>
+  <KilledColonyAnimal.stages.0.label>მოკლული კოლონიის ცხოველი</KilledColonyAnimal.stages.0.label>
+  <Man.stages.0.label>კაცი</Man.stages.0.label>
+  <NotBondedAnimalMaster.stages.0.description>ჩემს შეკრულ ცხოველთან ერთად უნდა ვიყო.</NotBondedAnimalMaster.stages.0.description>
+  <NotBondedAnimalMaster.stages.0.label>არა {0}-ის ოსტატი</NotBondedAnimalMaster.stages.0.label>
+  <NotBondedAnimalMaster.stages.1.description>მე უნდა ვიყო ჩემს შეკრულ ცხოველებთან ერთად.</NotBondedAnimalMaster.stages.1.description>
+  <NotBondedAnimalMaster.stages.1.label>არ არის {0}-ის ოსტატი</NotBondedAnimalMaster.stages.1.label>
+  <OpinionOfMyLover.stages.0.description>მათთან ყოფნა მაძლევს ასეთ განცდას.</OpinionOfMyLover.stages.0.description>
+  <OpinionOfMyLover.stages.0.label>ჩემი {0} {1} აზრი</OpinionOfMyLover.stages.0.label>
+  <Pretty.stages.0.label>ფიზიკურად მიმზიდველი</Pretty.stages.0.label>
+  <Pretty.stages.1.label>ფიზიკურად განსაცვიფრებელი</Pretty.stages.1.label>
+  <SoldPrisoner.stages.0.label>ტყვედ მიჰყიდა მონობას</SoldPrisoner.stages.0.label>
+  <TeetotalerVsAddict.stages.0.label>ტეტოტალერი vs ნარკომანი</TeetotalerVsAddict.stages.0.label>
+  <TeetotalerVsChemicalInterest.stages.0.label>ტეტოტალერი ქიმიური ინტერესის წინააღმდეგ</TeetotalerVsChemicalInterest.stages.0.label>
+  <TranshumanistAppreciation.stages.0.label>სხეულის მოდერის დაფასება</TranshumanistAppreciation.stages.0.label>
+  <TranshumanistAppreciation.stages.1.label>სხეულის მოდერის დაფასება</TranshumanistAppreciation.stages.1.label>
+  <TranshumanistAppreciation.stages.2.label>სხეულის მოდერის დაფასება</TranshumanistAppreciation.stages.2.label>
+  <TranshumanistAppreciation.stages.3.label>სხეულის მოდერის დაფასება</TranshumanistAppreciation.stages.3.label>
+  <TranshumanistAppreciation.stages.4.label>სხეულის მოდერის დაფასება</TranshumanistAppreciation.stages.4.label>
+  <Ugly.stages.0.label>ფიზიკურად უსიამოვნო</Ugly.stages.0.label>
+  <Ugly.stages.1.label>ფიზიკურად საზიზღარი</Ugly.stages.1.label>
+  <WantToSleepWithSpouseOrLover.stages.0.description>შეყვარებულთან ან მეუღლესთან ერთად უნდა მეძინა.</WantToSleepWithSpouseOrLover.stages.0.description>
+  <WantToSleepWithSpouseOrLover.stages.0.label>მარტო ეძინა</WantToSleepWithSpouseOrLover.stages.0.label>
+  <Woman.stages.0.label>ქალი</Woman.stages.0.label>
+</LanguageData>

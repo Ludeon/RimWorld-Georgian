@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bite.label>ნაკბენი</Bite.label>
+  <Blunt.label>ბლაგვი</Blunt.label>
+  <Crush.label>დამსხვრევა</Crush.label>
+  <Cut.label>გაჭრა</Cut.label>
+  <Scratch.label>ნაკაწრი</Scratch.label>
+  <ScratchToxic.label>ტოქსიკური ნაკაწრი</ScratchToxic.label>
+  <Stab.label>დარტყმა</Stab.label>
+  <ToxicBite.label>ტოქსიკური ნაკბენი</ToxicBite.label>
+</LanguageData>

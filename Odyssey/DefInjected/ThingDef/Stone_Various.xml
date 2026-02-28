@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlocksVacstone.description>ასტეროიდებისგან მოკრეფილი დატკეპნილი ვაქცინის კლდის ბლოკები.</BlocksVacstone.description>
+  <BlocksVacstone.label>ვაქცინის ბლოკები</BlocksVacstone.label>
+  <ChunkVacstone.label>ვაქტონის ნაჭერი</ChunkVacstone.label>
+  <SmoothedSolidIce.description>მყარი მყინვარული ყინული. მისი მოპოვება შედარებით მარტივად შეიძლება. გაპრიალებული ზედაპირი ბზინავს რბილ ღია ლურჯად.</SmoothedSolidIce.description>
+  <SmoothedSolidIce.label>გათლილი მყარი ყინული</SmoothedSolidIce.label>
+  <SmoothedVacstone.description>გათლილი, დატკეპნილი კლდე და ასტეროიდებიდან მოკრეფილი მტვერი.</SmoothedVacstone.description>
+  <SmoothedVacstone.label>გათლილი ვაქციონი</SmoothedVacstone.label>
+  <SolidIce.description>მყარი მყინვარული ყინული. მისი მოპოვება შედარებით მარტივად შეიძლება.</SolidIce.description>
+  <SolidIce.label>მყარი ყინული</SolidIce.label>
+  <Vacstone.description>დატკეპნილი კლდე და მტვერი მოკრეფილი ასტეროიდებიდან.</Vacstone.description>
+  <Vacstone.label>ვაკსტონი</Vacstone.label>
+</LanguageData>

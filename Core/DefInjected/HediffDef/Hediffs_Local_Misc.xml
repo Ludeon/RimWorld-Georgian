@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChemicalDamageModerate.description>ქიმიური დაზიანება უჯრედულ დონეზე.</ChemicalDamageModerate.description>
+  <ChemicalDamageModerate.label>ქიმიური დაზიანება</ChemicalDamageModerate.label>
+  <ChemicalDamageSevere.description>ქიმიური დაზიანება უჯრედულ დონეზე.</ChemicalDamageSevere.description>
+  <ChemicalDamageSevere.label>ქიმიური დაზიანება</ChemicalDamageSevere.label>
+  <Cirrhosis.description>ღვიძლის დეგენერაციული დაავადება, რომელიც გამოწვეულია ალკოჰოლის გადაჭარბებული მოხმარებით.</Cirrhosis.description>
+  <Cirrhosis.label>ციროზი</Cirrhosis.label>
+  <ResurrectionPsychosis.description>აღდგენის მექანიტების დეზინტეგრაციით გამოწვეული ქაოტური აზროვნება. აღდგომის ფსიქოზი პროგრესირებს და საბოლოოდ სრულ ფსიქოზსა და სიკვდილს იწვევს.
+აღდგენილ ადამიანებს მექანიტები უჯრედულ დონეზე სხეულის ფუნქციების ხელახლა ასაწყობად სჭირდებათ. მექანიტებს ყოველთვის აქვთ თანხვედრის დაკარგვის მცირე შანსი, და თუ ეს მოხდა, ისინი ცენტრალურ ნერვულ სისტემაში დამანგრეველ ქაოსს გამოიწვევენ. რაც უფრო ძველია გვამი, მით მეტი მექანიტური მოქმედებაა საჭირო მის აღსადგენად და მით მაღალია შემდგომი დეზინტეგრაციის შანსი.</ResurrectionPsychosis.description>
+  <ResurrectionPsychosis.label>აღდგომის ფსიქოზი</ResurrectionPsychosis.label>
+  <ResurrectionPsychosis.stages.0.label>ადრეული</ResurrectionPsychosis.stages.0.label>
+  <ResurrectionPsychosis.stages.1.label>ადრეული</ResurrectionPsychosis.stages.1.label>
+  <ResurrectionPsychosis.stages.2.label>ზომიერი</ResurrectionPsychosis.stages.2.label>
+  <ResurrectionPsychosis.stages.3.label>მოწინავე</ResurrectionPsychosis.stages.3.label>
+  <ResurrectionPsychosis.stages.4.label>მძიმე</ResurrectionPsychosis.stages.4.label>
+  <ResurrectionPsychosis.stages.5.label>სულ</ResurrectionPsychosis.stages.5.label>
+  <ResurrectionPsychosis.stages.6.label>კატატონური</ResurrectionPsychosis.stages.6.label>
+  <Scaria.description>ინფექციური დაავადება, რომელსაც შეუძლია ადამიანებისა და ცხოველების გაბრაზებამდე მიყვანა. სკარიას განკურნება შესაძლებელია სპეციალური სამედიცინო ოპერაციით, მაგრამ არსება ჯერ უნდა ჩამოაგდეს, რათა შესაძლებელი გახდეს ოპერაცია. დაავადება წამლავს ხორცს, ამიტომ სკარიით დაღუპული არსებები სიკვდილის შემდეგ ხშირად გახრწნილები არიან და არ შეიძლება ხორცის ან ტყავის დაკვლა. მას შემდეგ, რაც სკარია გაბრაზება დაიწყო, არსება გაძლებს რამდენიმე დღით ადრე მოკვდება დაღლილობისგან. სკარიით დაავადებული ცხოველების მოთვინიერება შეუძლებელია.</Scaria.description>
+  <Scaria.inspectString>სკარიით ინფიცირებული.</Scaria.inspectString>
+  <Scaria.label>სკარია</Scaria.label>
+  <Sterilized.description>ამ არსების რეპროდუქციული სისტემა სამუდამოდ დახურულია.</Sterilized.description>
+  <Sterilized.label>სტერილიზებული</Sterilized.label>
+  <TraumaSavant.description>თავის ტვინის ტრავმით გამოწვეული განსაკუთრებული მდგომარეობა. ტვინს, ტრავმის ფონზე, განუვითარდა ექსტრემალური შესაძლებლობები ზოგიერთ სფეროში, კარგავს მეტყველების უნარს.</TraumaSavant.description>
+  <TraumaSavant.label>ტრავმის მცოდნე</TraumaSavant.label>
+  <TraumaSavant.labelNoun>ტრავმა</TraumaSavant.labelNoun>
+</LanguageData>

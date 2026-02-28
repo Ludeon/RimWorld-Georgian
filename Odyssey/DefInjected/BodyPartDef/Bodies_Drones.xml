@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DroneChassis.label>შასი</DroneChassis.label>
+  <DroneCore.label>ბირთვი</DroneCore.label>
+  <DroneEye.label>ვიზუალური სენსორი</DroneEye.label>
+  <DroneShell.label>ჭურვი</DroneShell.label>
+  <DroneShellSection.label>ჭურვის განყოფილება</DroneShellSection.label>
+  <DroneShellSectionWithSpike.label>წვეტიანი ჭურვის განყოფილება</DroneShellSectionWithSpike.label>
+  <DroneTreads.label>tread</DroneTreads.label>
+</LanguageData>

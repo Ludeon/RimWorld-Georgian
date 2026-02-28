@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <CommandShowSubstructureOverlay>ქვესტრუქტურის გადაფარვის ჩვენება</CommandShowSubstructureOverlay>
+  <CommandShowSubstructureOverlayDesc>სწორი ქვესტრუქტურის ჩვენება ლურჯად და არასწორი სუბსტრუქტურის წითლად.</CommandShowSubstructureOverlayDesc>
+  <CommandInspectGravEngine>შეამოწმეთ {0_labelShort}</CommandInspectGravEngine>
+  <CommandInspectGravEngineDesc>ამოირჩიეთ კოლონისტი იდუმალი გრავი ძრავის შესამოწმებლად.</CommandInspectGravEngineDesc>
+  <CommandChooseNavigator>აირჩიეთ ნავიგატორი</CommandChooseNavigator>
+  <CannotChooseNavigator>ნავიგაცია შეუძლებელია</CannotChooseNavigator>
+
+  <CommandLaunchGravship>გაშვება</CommandLaunchGravship>
+  <CommandLaunchGravshipDesc>აირჩიე კოლონისტი საფლავის პილოტისთვის. ნებისმიერი საფლავის ქვესტრუქტურაზე გადატანილი იქნება ახალ რუკაზე. თქვენი ამჟამინდელი რუკა მიტოვებული იქნება, თუ არ გაქვთ გრავის წამყვანი.</CommandLaunchGravshipDesc>
+
+  <CommandAllowFish>დაუშვით თევზაობა</CommandAllowFish>
+  <CommandAllowFishDesc>როდესაც ინვალიდია, კოლონისტები არასოდეს თევზაობენ ამ ზონაში.</CommandAllowFishDesc>
+  
+  <CommandAllowRemovingApparel>ნივთების ამოღების დაშვება</CommandAllowRemovingApparel>
+  <CommandAllowRemovingApparelDesc>როდესაც გამორთულია, გადამზიდები არ ამოიღებენ ნივთებს სადგამიდან და კოლონისტები არ აღჭურვებენ ტანსაცმელს, თუ ამის ბრძანება არ იქნება მიღებული.</CommandAllowRemovingApparelDesc>
+
+  <CommandShuttleNoPilot>არც ერთი კოლონისტი, რომელსაც შეუძლია შატლის პილოტირება. მოითხოვს მინიმუმ 10% პილოტირების უნარს.</CommandShuttleNoPilot>
+
+  <ConfirmLandGravship>დაადასტურეთ სადესანტო ზონა</ConfirmLandGravship>
+  <ConfirmLandGravshipDesc>დაასხით თქვენი გრავიტაცია სადესანტო ზონაში.</ConfirmLandGravshipDesc>
+  <AbortLandGravship>დაშვების შეწყვეტა</AbortLandGravship>
+  <AbortLandGravshipDesc>გააუქმეთ დაშვება ამ რუკაზე და აიძულეთ გემი დაეშვას მსოფლიოს რუკაზე. სასარგებლოა, თუ სადესანტო ადგილს ვერ პოულობთ.\n\nგაფრთხილება: ეს ზრდის უბედური შემთხვევის შანსს დაშვებისას.</AbortLandGravshipDesc>
+  <AbortLandConfirmation>დაჯდომის შეწყვეტა აიძულებს თქვენს გემს დაეშვას მსოფლიოს რუკაზე შემთხვევით ახლომდებარე ადგილას. ეს ზრდის ავარიის შანსს დაშვებისას.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</AbortLandConfirmation>
+  <FailedToFindCrashSite>ავარიის ადგილის პოვნა ვერ მოხერხდა.</FailedToFindCrashSite>
+  <GravshipLandingMarkerNotPlaced>თქვენ უნდა დანიშნოთ სადესანტო ადგილი თქვენი გემისთვის.</GravshipLandingMarkerNotPlaced>
+
+  <CommandRefuelShuttleFromCargo>საწვავის შევსება ტვირთიდან</CommandRefuelShuttleFromCargo>
+  <CommandRefuelShuttleFromCargoDesc>შეავსეთ სამგზავრო შატლი საწვავით შენახული ქიმიური საწვავის გამოყენებით.</CommandRefuelShuttleFromCargoDesc>
+  <NoFuelInCaravan>ქარავანში საწვავი არ არის.</NoFuelInCaravan>
+  <NoFuelInShuttle>შატლში საწვავი არ არის.</NoFuelInShuttle>
+  <ShuttleFullyFueled>შატლი უკვე სრულად იკვებება</ShuttleFullyFueled>
+
+  <GravshipShieldOrderActivation>ჩართვა</GravshipShieldOrderActivation>
+  <GravshipShieldOrderDeactivation>გამორთვა</GravshipShieldOrderDeactivation>
+  <GravshipShieldOrderActivationDesc>შეუკვეთეთ სალომბარდო გემის ფარის გენერატორის გასააქტიურებლად.</GravshipShieldOrderActivationDesc>
+  <GravshipShieldOrderDeactivationDesc>შეუკვეთეთ სალომბარდო გემის ფარის გენერატორის გამორთვა.</GravshipShieldOrderDeactivationDesc>
+
+  <ConfirmMergeShuttles>ამ ქარავნების შერწყმა გამოიწვევს შემდეგის დაკარგვას:\n{0}\n\nდარწმუნებული ხართ, რომ გსურთ გაგრძელება?</ConfirmMergeShuttles>
+</LanguageData>

@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <TabBills>ბრძანებები</TabBills>
+  <TabGrowing>მოყვანა</TabGrowing>
+  <TabCharacter>ბიო</TabCharacter>
+  <TabTraining>ვარჯიში</TabTraining>
+  <TabPrisoner>პატიმარი</TabPrisoner>
+  <TabGuest>სტუმარი</TabGuest>
+  <TabGear>აღჭურვილობა</TabGear>
+  <TabNeeds>მოთხოვნები</TabNeeds>
+  <TabStorage>საწყობი</TabStorage>
+  <TabShells>ჭურვები</TabShells>
+  <TabHealth>ჯანმრთელობა</TabHealth>
+  <TabRace>რასა</TabRace>
+  <TabBasics>ძირითადი</TabBasics>
+  <TabStats>სტატისტიკა</TabStats>
+  <TabRecords>ჩანაწერები</TabRecords>
+  <TabArt>არტი</TabArt>
+  <TabSocial>სოციალური</TabSocial>
+  <TabLog>ლოგი</TabLog>
+  <TabPenAnimals>ცხოველები</TabPenAnimals>
+  <TabPenFood>საკვები</TabPenFood>
+  <TabPenAutoCut>ავტო-ჭრა</TabPenAutoCut>
+  <TabFormingCaravan>კარავანი</TabFormingCaravan>
+  <TabTransporterContents>შიგთავსი</TabTransporterContents>
+  <TabMapPortalContents>მოგზაურობა</TabMapPortalContents>
+  <TabCasketContents>შიგთავსი</TabCasketContents>
+  <TabBookContents>დეტალები</TabBookContents>
+  <TabStudyNotesContents>შესწავლა</TabStudyNotesContents>
+  <TabWindTurbineAutoCut>ავტო-ჭრა</TabWindTurbineAutoCut>
+  
+  
+  <AddBill>დაამატეთ კანონპროექტი</AddBill>
+  <RecipeRequiresSkills>რეცეპტი {0} მოითხოვს ქვემოთ მოცემულ უნარებს. არცერთ თქვენს კოლონისტს არ აქვს ეს უნარები, ამიტომ არავინ გააკეთებს ამ კანონპროექტს.</RecipeRequiresSkills>
+  <MinimumSkill>მინიმალური უნარი</MinimumSkill>
+  <SuspendedCaps>შეჩერებულია</SuspendedCaps>
+  <BoundWorkerIs>მუშაკი: {1_labelShort}</BoundWorkerIs>
+  <PlantVerb>დარგვა</PlantVerb>
+  <ClipboardBillNotAvailableHere>კოპირებული კანონპროექტის ჩასმა აქ შეუძლებელია</ClipboardBillNotAvailableHere>
+  <ReorderBillUpTip>ზევით გადაადგილება</ReorderBillUpTip>
+  <ReorderBillDownTip>ქვევით გადაადგილება</ReorderBillDownTip>
+  <DeleteBillTip>წაშლა</DeleteBillTip>
+  <CopyBillTip>დააკოპირეთ ბუფერში</CopyBillTip>
+  <SuspendBillTip>შეჩერება</SuspendBillTip>
+  <PasteBillTip>ჩასმა</PasteBillTip>
+  <PasteBillTip_LimitReached>მეტის დამატება არ შეიძლება</PasteBillTip_LimitReached>
+  <FinishesIn>სრულდება</FinishesIn>
+
+  
+  <RecruitmentResistance>წინააღმდეგობა</RecruitmentResistance>
+  <RecruitmentResistanceDesc>რამხელა ეჭვი აქვს ამ პატიმარს თქვენს ფრაქციაში გაწევრიანებაში. როცა ეს ნულს მიაღწევს, მათი დაქირავება შეიძლება.</RecruitmentResistanceDesc>
+  <RecruitmentResistanceFromPawnKind>{0} ბაზის წინააღმდეგობა</RecruitmentResistanceFromPawnKind>
+  <PrisonerReleasePotentialRelationGains>ურთიერთობები იძენს გათავისუფლებას</PrisonerReleasePotentialRelationGains>
+  <PrisonerReleaseRelationGainsDesc>ფრაქციის კეთილგანწყობას მიიღებთ პატიმართა ფრაქციისგან, თუ მათ გაათავისუფლებთ. ამაზე გავლენას ახდენს პატიმრის ვინაობა, ჯანმრთელობა და ფსიქიკური მდგომარეობა.</PrisonerReleaseRelationGainsDesc>
+  <PrisonBreakMTBDays>ციხის შესვენების ინტერვალი</PrisonBreakMTBDays>
+  <PrisonBreakMTBDaysDescription>ციხის შესვენებებს შორის გაღვიძების საშუალო დღეები. ამაზე გავლენას ახდენს განწყობა, მობილურობა, ციხის კარების რაოდენობა და ბოლო ციხიდან შესვენების შემდეგ დრო.\n\nგაითვალისწინეთ, რომ ეს არ მოიცავს ძილში გატარებულ დროს.</PrisonBreakMTBDaysDescription>
+  <Never>არასდროს</Never>
+  <NotWhileAsleep>ძილის დროს არა</NotWhileAsleep>
+  <CurrentlyPrisonBreaking>არღვევს ახლა</CurrentlyPrisonBreaking>
+  <FactorForDoorCount>კარის დათვლა</FactorForDoorCount>
+  <FactorForMovement>გადაადგილება</FactorForMovement>
+  <SlavePrice>მონის ფასი</SlavePrice>
+  <SlavePriceDescription>გაყიდვის შემთხვევაში ამ მონას საბაზო საბაზრო ღირებულება.</SlavePriceDescription>
+  <GetsFood>იღებს საკვებს</GetsFood>
+  <DoctorsCare>ექიმები ზრუნავენ</DoctorsCare>
+  <GetsMedicine>წამალს იღებს</GetsMedicine>
+  <ShouldTryToRecruit>სცადეთ დაქირავება</ShouldTryToRecruit>
+  <ConsideredGuilty>ითვლება დამნაშავედ (იწურება {0}-ში)</ConsideredGuilty>
+  <ConsideredGuiltyNoTimer>დამნაშავედ მიიჩნიეს</ConsideredGuiltyNoTimer>
+  <LastRecruitment>წინააღმდეგობის ბოლო შემცირება</LastRecruitment>
+  <LastRecruitmentDescription>რამდენად შემცირდა {0_nameDef}-ის წინააღმდეგობა {1}-ით, როდესაც {0_pronoun} ბოლოს იქნა დაკომპლექტებული.</LastRecruitmentDescription>
+  <OpinionOfRecruiter>დამსაქმებლის აზრი</OpinionOfRecruiter>
+  <RecruiterNegotiationAbility>რეკრუტერის მოლაპარაკების უნარი</RecruiterNegotiationAbility>
+  <NonRecruitable>ურყევი ერთგულება</NonRecruitable>
+  <NonRecruitableTip>ეს პატიმარი იმდენად ურყევად ლოიალურია საკუთარი სახლის მიმართ, რომ ისინი მთლიანად უარს ამბობენ დაქირავებაზე.</NonRecruitableTip>
+  <MedicineQualityDescriptionPrisoner>რა სახის წამალი შეიძლება მიეცეს ამ პატიმარს.</MedicineQualityDescriptionPrisoner>
+
+
+
+
+  
+  <MoveSpeed>მოძრაობის სიჩქარე</MoveSpeed>
+  <Efficiency>ეფექტურობა</Efficiency>
+  <PartEfficiency>ნაწილის ეფექტურობა</PartEfficiency>
+  <BodyPartEfficiency>სხეულის ნაწილების ეფექტურობა</BodyPartEfficiency>
+  <MissingBodyPart>დაკარგული</MissingBodyPart>
+  <DestroyedBodyPart>განადგურებული</DestroyedBodyPart>
+  <ShatteredBodyPart>დამტვრეული</ShatteredBodyPart>
+  <RemovedBodyPart>მოხსნილი</RemovedBodyPart>
+  <Healthy>ჯანმრთელი</Healthy>
+  <InPain>ტკივილში</InPain>
+  <PainLevel>ტკივილი</PainLevel>
+  <Injured>დაჭრილი</Injured>
+  <UntendedInjury>არასასურველი დაზიანება</UntendedInjury>
+  <NoHealthConditions>არანაირი ჯანმრთელობის მდგომარეობა</NoHealthConditions>
+  <WholeBody>მთელი სხეული</WholeBody>
+  <DataProcessing>მონაცემთა დამუშავება</DataProcessing>
+  <Communication>კომუნიკაცია</Communication>
+  <Affects>გავლენა</Affects>
+  <BleedingRate>სისხლდენა</BleedingRate>
+  <TimeToDeath>სიკვდილი {0}-ში</TimeToDeath>
+  <WontBleedOutSoon>არ არის მყისიერი საფრთხე</WontBleedOutSoon>
+  <HealthOverview>მიმოხილვა</HealthOverview>
+  <MedicalOperationsShort>ოპერაციები</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>მოდიფიკაციები</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>სამედიცინო ოპერაციები</MedicalOperations>
+  <Amputate>ამპუტაცია</Amputate>
+  <HarvestOrgan>ამოღება</HarvestOrgan>
+  <RemoveOrgan>მოხსნა</RemoveOrgan>
+  <MemoryLower>მეხსიერება</MemoryLower>
+  <SocialInteractionsLower>სოციალური ურთიერთქმედებები</SocialInteractionsLower>
+  <HungerRate>შიმშილის მაჩვენებელი</HungerRate>
+  <FoodConsumption>საკვების მოხმარება</FoodConsumption>
+  <Tiredness>დაღლილობა</Tiredness>
+  <PainFactor>ტკივილი</PainFactor>
+  <PreventsInfection>ხელს უშლის ინფექციას</PreventsInfection>
+  <AllowSelfTend>მიეცით საშუალება თვითდასაქმებას</AllowSelfTend>
+  <AllowSelfTendTip>{0}, რომელსაც ჩართული აქვს თვითმმართველობა, ავტომატურად მიისწრაფვის თავის ადგილზე {1} ნორმალური ეფექტურობით.</AllowSelfTendTip>
+  <DeathIn>სიკვდილი {0}-ში</DeathIn>
+  <AllowMedicine>მიეცით საშუალება წამალი</AllowMedicine>
+  <MedicineQualityDescription>რა სახის წამალი შეიძლება მიეცეს ამ ადამიანს.</MedicineQualityDescription>
+  <FoodRestrictionDescription>რა სახის საკვები შეიძლება მიეცეს ამ ადამიანს.</FoodRestrictionDescription>
+
+  
+  <None>არ არის</None>
+  <VeryPoor>ძალიან ღარიბი</VeryPoor>
+  <Poor>ცუდი</Poor>
+  <Weakened>შესუსტებული</Weakened>
+  <GoodCondition>კარგი</GoodCondition>
+  <Enhanced>გაძლიერებული</Enhanced>
+  <SeriouslyImpaired>სერიოზულად დაქვეითებული</SeriouslyImpaired>
+  <Impaired>დაქვეითებული</Impaired>
+  <SlightlyImpaired>ოდნავ დაქვეითებული</SlightlyImpaired>
+  <NoPain>არ არის</NoPain>
+  <LittlePain>მცირე</LittlePain>
+  <MediumPain>საშუალო</MediumPain>
+  <SeverePain>მძიმე</SeverePain>
+  <ExtremePain>ძალიან მძიმე</ExtremePain>
+
+  
+  <Trainability>სწავლის უნარი</Trainability>
+  <CannotTrainNotSmartEnough>მოითხოვს {0} ტრენინგს.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} ძალიან პატარაა ამის სავარჯიშოდ.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>საჭირო წინაპირობა: {0}</TrainingNeedsPrerequisite>
+  
+  
+  <Kidnapped>გატაცებული</Kidnapped>
+  <Lent>მარხვა {FACTION_name}-ს, ბრუნდება {1}-ში</Lent>
+  <Missing>მიმალული</Missing>
+  <Slave>მონა</Slave>
+  <FactionLeader>ფრაქციის ლიდერი</FactionLeader>
+  <OpinionOf>{0}-ის აზრი</OpinionOf>
+  <SomeonesOpinionOfMe>{0}-ის აზრი ჩემზე</SomeonesOpinionOfMe>
+  <IAmDead>მე მკვდარი ვარ</IAmDead>
+  <IAmPsychopath>მე ფსიქოპათი ვარ</IAmPsychopath>
+  
+  
+  <OverallArmor>საერთო ჯავშანი</OverallArmor>
+  <MassCarried>გადატანილი მასა: {0} / {1} კგ</MassCarried>
+  <ComfyTemperatureRange>კომფორტული ტემპერატურის დიაპაზონი</ComfyTemperatureRange>
+  <ArmorBlunt>ბლაგვი</ArmorBlunt>
+  <ArmorSharp>მახვილი</ArmorSharp>
+  <ArmorHeat>სიცხე</ArmorHeat>
+  
+  
+  <ShowAll>ყველას ჩვენება</ShowAll>
+  <ShowCombat>ბრძოლის ჩვენება</ShowCombat>
+  <ShowSocial>აჩვენე სოციალური</ShowSocial>
+  <NoRecentEntries>ბოლო ჩანაწერები არ არის</NoRecentEntries>
+  <CopyLogTip>დააკოპირეთ ჟურნალი ბუფერში.</CopyLogTip>
+
+  
+  <FormingCaravanStatus_GatheringAnimals>ცხოველების შეგროვება</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals_Pause>ცხოველების შეკრება (ლოდინი)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringItems>ნივთების შეგროვება</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems_Pause>ნივთების შეგროვება (ლოდინი)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns>ჩამოგდებული ხალხის შეკრება</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>ჩამოგდებული ხალხის შეკრება (მოლოდინი)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_Leaving>გასვლა</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving_Pause>გასვლა (ლოდინი)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Waiting>ლოდინი</FormingCaravanStatus_Waiting>
+  <CaravanMembers>წევრები</CaravanMembers>
+  <CaravanAnimals>ცხოველები</CaravanAnimals>
+  <ItemsToLoad>ჩატვირთვა</ItemsToLoad>
+  <LoadedItems>ჩატვირთული</LoadedItems>
+  <PackAnimalsCountLower>ცხოველების შეკვრა</PackAnimalsCountLower>
+  <InMentalStateCountLower>გონებრივად გატეხილი</InMentalStateCountLower>
+
+  
+  <RemoveSliderText>ამოიღეთ {{0}}x {0}</RemoveSliderText>
+  <ContainedItems>შეიცავდა ნივთებს</ContainedItems>
+  <ConfirmRemoveItemDialog>ნამდვილად გსურთ {0}-ის ამოღება?</ConfirmRemoveItemDialog>
+  
+  
+  <DismissQuest>გააუქმეთ ეს ქვესტი და გადაიტანეთ იგი ისტორიულ ჩანართზე.\n\nქვესტის გაუქმება ნებისმიერ დროს შეიძლება. მისი ეფექტი და ვარგისიანობის ვადები ჩვეულებრივად გაგრძელდება. თქვენ არ მიიღებთ შეტყობინებებს დახურული ქვესტების შესახებ.</DismissQuest>
+  <UnDismissQuest>გააუქმეთ ეს ქვესტი.\n\nქვესტი დაბრუნდება ხელმისაწვდომ ან აქტიურ ჩანართზე და შეტყობინებები ხელახლა ჩაირთვება.</UnDismissQuest>
+  <QuestDismissed>ეს ქვესტი აქ არის, რადგან ის გაუქმდა.\n\nშეგიძლიათ გააუქმოთ ის, სანამ ვადა არ ამოიწურება.</QuestDismissed>
+  <DeleteQuest>წაშალეთ ეს ქვესტი და სამუდამოდ წაშალეთ ქვესტის სიიდან.</DeleteQuest>
+
+  
+  <PenFoodTab_NotEnclosed>დაურთეთ კალმის მარკერი საკვების ინფორმაციის გამოსათვლელად</PenFoodTab_NotEnclosed>
+
+  <PenFoodTab_StockpileTotal>კვების მარაგი</PenFoodTab_StockpileTotal>
+  <PenFoodTab_StockpileTotalDescription>კალამში დაგროვილი საკვების მთლიანი კვება.</PenFoodTab_StockpileTotalDescription>
+  <PenFoodTab_StockpileEmptyDays>დღეები მარაგის ამოწურვისთვის</PenFoodTab_StockpileEmptyDays>
+  <PenFoodTab_StockpileEmptyDaysDescription>კვების მოხმარება აღემატება კვების ზრდის ტემპს ამ კალამში. ცხოველები საბოლოოდ შეჭამენ ყველა დაგროვებულ საკვებს და შიმშილდებიან.</PenFoodTab_StockpileEmptyDaysDescription>
+
+  <PenFoodTab_AnimalType>ცხოველის ტიპი</PenFoodTab_AnimalType>
+  <PenFoodTab_Count>რაოდენობა</PenFoodTab_Count>
+  <PenFoodTab_CurrentDay>დღეს</PenFoodTab_CurrentDay>
+  <PenFoodTab_Nutrition_Unit>კვება</PenFoodTab_Nutrition_Unit>
+  <PenFoodTab_NutritionPerDay_Unit>დღეში</PenFoodTab_NutritionPerDay_Unit>
+  <PenFoodTab_AddAnimal>ძალის ჩვენება ცხოველის...</PenFoodTab_AddAnimal>
+
+  <PenFoodTab_NaturalNutritionGrowthRate>კვების ზრდა</PenFoodTab_NaturalNutritionGrowthRate>
+  <PenFoodTab_GrowthPerSeason>ზრდა სეზონზე</PenFoodTab_GrowthPerSeason>
+  <PenFoodTab_TotalNutritionConsumptionRate>კვების მოხმარება</PenFoodTab_TotalNutritionConsumptionRate>
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>ამ კალამში საკვები მცენარეების მიერ მოწოდებული საშუალო კვება.</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <PenFoodTab_NutritionConsumptionDescription>საკვები, რომელიც ამჟამად ცხოველებს სჭირდებათ ამ კალმში.\n\nმეტი საკვების მისაღებად, გააფართოვეთ კალამი, რათა დაფაროთ მეტი ველური მცენარეების ზრდა, ან მიაწოდეთ კალმში დაგროვილი საკვები, როგორიცაა თივის ბალახი.</PenFoodTab_NutritionConsumptionDescription>
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>შენიშვნა: მცენარეთა ზრდის ტემპი იცვლება სეზონების, ამინდის, გარეული ცხოველების მიერ ქურდობის და სხვა ფაქტორების გამო. ეს გამოთვლები მიახლოებითია.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+
+  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>მთლიანი მოხმარება</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>ჯამური კვება, რომელსაც ყოველდღიურად მოიხმარს ცხოველის თითოეული სახეობა ამ კალამში.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  <PenFoodTab_NutritionConsumedPerDay>დღიური მოხმარება {ANIMALDEF_label}-ზე</PenFoodTab_NutritionConsumedPerDay>
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>თითოეული {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  <PenFoodTab_AnimalTypeAnimalCapacity>რიცხვი, რომელიც შეიძლება დამაგრებულიყო კალამში სხვა ცხოველების გარეშე</PenFoodTab_AnimalTypeAnimalCapacity>
+
+  <PenFoodTab_EdibleNow>ახლა საკვებია</PenFoodTab_EdibleNow>
+
+  <PenAutoCut_EnabledCheckbox>მცენარეების ავტომატური მოჭრა კალმით</PenAutoCut_EnabledCheckbox>
+  <PenAutoCut_EnabledCheckboxTip>ავტომატურად მონიშნეთ მოსაჭრელი გარკვეული უჭამი მცენარეები. ეს აჩენს ადგილს საკვები მცენარეებისთვის, რომელთა ჭამა შემდეგ თქვენს ცხოველებს შეუძლიათ.\n\nეს ავტომატური აღნიშვნა ხდება პერიოდულად და ვრცელდება მხოლოდ გარკვეულ მცენარეებზე.\n\nეს მუშაობს მხოლოდ მაშინ, როცა კალამი დახურულია.</PenAutoCut_EnabledCheckboxTip>
+
+  <AutocutUnenclosedPen>კალამი არ არის დახურული</AutocutUnenclosedPen>
+  <AutocutUnenclosedPenTip>კალამი ახლა არ არის დახურული, ამიტომ ავტომატური ჭრა არ მოხდება.</AutocutUnenclosedPenTip>
+
+  <WindTurbineAutoCut_EnabledCheckbox>ავტომატური ჭრის ბლოკირების მცენარეები</WindTurbineAutoCut_EnabledCheckbox>
+  
+  
+  <StudyNotesTab_StudyProgress>სწავლის პროგრესი</StudyNotesTab_StudyProgress>
+  <StudyNotesTab_StudyProgressOngoing>მიმდინარე</StudyNotesTab_StudyProgressOngoing>
+  <StudyNotesTab_StudyProgressCompleted>დასრულებული</StudyNotesTab_StudyProgressCompleted>
+  <StudyNotesTab_ToggleStudy>შესწავლის გადართვა</StudyNotesTab_ToggleStudy>
+  <StudyNotesTab_NoDiscoveries>აღმოჩენები ჯერ არ არის</StudyNotesTab_NoDiscoveries>
+
+</LanguageData>

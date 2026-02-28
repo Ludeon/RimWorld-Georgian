@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiofuelRefinery.description>ასუფთავებს ბიოლოგიურ ნივთიერებებს, როგორიცაა ხის ან მცენარეული ნივთიერებები ქიმიურ საწვავად.</BiofuelRefinery.description>
+  <BiofuelRefinery.label>ბიოსაწვავის გადამამუშავებელი ქარხანა</BiofuelRefinery.label>
+  <Brewery.description>სამუშაო სადგური ყველა აღჭურვილობით, რომელიც საჭიროა ლუდის წარმოებისთვის ვორის შერევისთვის. ვორტი უნდა დადუღდეს, რომ საბოლოოდ ლუდი გახდეს.</Brewery.description>
+  <Brewery.label>ლუდსახარში</Brewery.label>
+  <ButcherSpot.description>ადგილი ცხოველების დასაკლავად. აღჭურვილობის უქონლობის გამო აქ ჯალათობა თითოეული არსების ხორცისა და ტყავის მხოლოდ 70%-ს იძლევა.</ButcherSpot.description>
+  <ButcherSpot.label>ჯალათის ადგილი</ButcherSpot.label>
+  <CraftingSpot.description>ადგილი მარტივი ნივთების დასამზადებლად, როგორიცაა დანები ან მშვილდი. აქ წარმოება ნელია ხელსაწყოების ნაკლებობის გამო.</CraftingSpot.description>
+  <CraftingSpot.label>ხელოსნობის ადგილი</CraftingSpot.label>
+  <DeepDrill.description>ღრმა ქერქის საბურღი დანადგარი ზედაპირის ღრმადან მინერალების მოპოვებისთვის. რესურსების გამოსავლენად გამოიყენეთ მიწაში შეღწევადი სკანერი. ეს საბურღი გამოიმუშავებს ქვის ნატეხებს, თუ რესურსები არ არის. შესაძლებელია თავისუფლად გადაადგილება.</DeepDrill.description>
+  <DeepDrill.label>ღრმა საბურღი</DeepDrill.label>
+  <DrugLab.description>სამუშაო სკამი, რომელიც აღჭურვილია კონტეინერებით, გამათბობლებით და საზომი მოწყობილობებით სხვადასხვა წამლების წარმოებისთვის.</DrugLab.description>
+  <DrugLab.label>ნარკოლოგიური ლაბორატორია</DrugLab.label>
+  <ElectricCrematorium.description>უზარმაზარი ქვის კრემატორიუმი, რომელიც აორთქლებს გვამებს უკიდურესად მაღალი ტემპერატურის პირობებში.</ElectricCrematorium.description>
+  <ElectricCrematorium.label>ელექტრო კრემატორიუმი</ElectricCrematorium.label>
+  <ElectricSmelter.description>ამოიღებს გამოსაყენებელ ლითონს წიდის ნაჭრებისგან და სხვა შერეული ლითონის ნივთებისგან. მოიხმარს დიდ ძალას.</ElectricSmelter.description>
+  <ElectricSmelter.label>ელექტრო დნობის</ElectricSmelter.label>
+  <ElectricSmithy.description>ელექტროენერგიით მომუშავე სადგური არამექანიკური იარაღისა და ხელსაწყოების დასამზადებლად.</ElectricSmithy.description>
+  <ElectricSmithy.label>ელექტრო სამჭედლო</ElectricSmithy.label>
+  <ElectricStove.description>ელექტროენერგიით მომუშავე ღუმელი კერძების მოსამზადებლად მიმაგრებული კონტრატით.</ElectricStove.description>
+  <ElectricStove.label>ელექტრო ღუმელი</ElectricStove.label>
+  <ElectricTailoringBench.description>სამუშაო მაგიდა საკერავი მანქანით ტანსაცმლის სწრაფი კერვისთვის. შეუძლია ელექტროენერგიის გარეშე მუშაობა ნორმალური სიჩქარის 50%-ით.</ElectricTailoringBench.description>
+  <ElectricTailoringBench.label>ელექტრო სამკერვალო სკამი</ElectricTailoringBench.label>
+  <FabricationBench.description>სამუშაო მაგიდა, რომელიც აღჭურვილია მოწინავე ხელსაწყოებით, მარტივი მასალებისგან ტექნოლოგიური სასწაულების შესაქმნელად.</FabricationBench.description>
+  <FabricationBench.label>ფაბრიკაციის სკამი</FabricationBench.label>
+  <FermentingBarrel.description>კასრი ნედლეულის ლუდში დუღილისთვის.</FermentingBarrel.description>
+  <FermentingBarrel.label>დუღილის კასრი</FermentingBarrel.label>
+  <FueledSmithy.description>ხეზე მომუშავე სადგური არამექანიკური იარაღისა და ხელსაწყოების დასამზადებლად.</FueledSmithy.description>
+  <FueledSmithy.label>საწვავი სამჭედლო</FueledSmithy.label>
+  <FueledStove.description>შეშის საწვავზე მომუშავე ღუმელი კერძების მოსამზადებლად დამაგრებული კონტრასკით.</FueledStove.description>
+  <FueledStove.label>საწვავის ღუმელი</FueledStove.label>
+  <HandTailoringBench.description>სამუშაო მაგიდა ტანსაცმლის ხელით შესაკერად. მუშაობს ელექტრო სამკერვალო სკამების სიჩქარის 50%-ით.</HandTailoringBench.description>
+  <HandTailoringBench.label>ხელის მკერავი სკამი</HandTailoringBench.label>
+  <HiTechResearchBench.description>მაღალტექნოლოგიური სკამი კომპიუტერებით და ელექტრონული საზომი მოწყობილობით. იძლევა უფრო სწრაფ კვლევას და ხსნის მოწინავე კვლევით პროექტებს.</HiTechResearchBench.description>
+  <HiTechResearchBench.label>მაღალტექნოლოგიური კვლევის სკამი</HiTechResearchBench.label>
+  <Hopper.description>ინახავს რესურსებს მანქანების გამოსაყენებლად, როგორიცაა მკვებავი პასტის დისპენსერები.</Hopper.description>
+  <Hopper.label>ბუნკერი</Hopper.label>
+  <HydroponicsBasin.description>ხელოვნური მკვებავი აბაზანა მზარდი მცენარეებისთვის. ნუტრიენტების ტუმბოები მუდმივად უნდა მუშაობდნენ; ელექტროენერგიის გათიშვის შემთხვევაში მცენარეები მოკვდებიან.</HydroponicsBasin.description>
+  <HydroponicsBasin.label>ჰიდროპონიკის აუზი</HydroponicsBasin.label>
+  <NutrientPasteDispenser.description>მანქანა, რომელიც ასინთეზებს საკვებ საკვებ პასტს მიმდებარე ბუნკერებში მოთავსებული ორგანული საკვებიდან. ის მოიხმარს ნაკლებ ინგრედიენტებს და დროს, ვიდრე ნებისმიერი სხვა საჭმლის მომზადების მეთოდი - მაგრამ არავის უყვარს მკვებავი პასტის ჭამა. იღებს ნედლეულ საკვებს, მაგრამ არა უხეშ მცენარეულ ნივთიერებებს, როგორიცაა თივა.</NutrientPasteDispenser.description>
+  <NutrientPasteDispenser.label>მკვებავი პასტის დისპენსერი</NutrientPasteDispenser.label>
+  <SimpleResearchBench.description>მარტივი სკამი საწერი ხელსაწყოებით და მარტივი საზომი მოწყობილობებით. მკვლევარები აქ მუშაობენ ახალი ნივთების აღმოსაჩენად.</SimpleResearchBench.description>
+  <SimpleResearchBench.label>მარტივი კვლევის სკამი</SimpleResearchBench.label>
+  <TableButcher.description>მძიმე მაგიდა მკვდარი არსებების უმი ხორცის ნაჭრებად დასაკლავად. დამპალი ან გამხმარი ცხედრების დაკვლა არ შეიძლება.</TableButcher.description>
+  <TableButcher.label>ჯალათის მაგიდა</TableButcher.label>
+  <TableMachining.description>სამუშაო სადგური მანქანების ასაწყობად, როგორიცაა იარაღი და საბრძოლო მასალა, ან მკვდარი მექანოიდების მსხვრევა.</TableMachining.description>
+  <TableMachining.label>დამუშავების მაგიდა</TableMachining.label>
+  <TableSculpting.description>სამუშაო მაგიდა, რომელიც აღჭურვილია ხელოვნების შესაქმნელად.</TableSculpting.description>
+  <TableSculpting.label>ხელოვნების სკამი</TableSculpting.label>
+  <TableStonecutter.description>სამუშაო მაგიდა ხერხებით და ჩიზებით ქვის ნაჭრების გამოსაყენებელ ბლოკებად დასაჭრელად.</TableStonecutter.description>
+  <TableStonecutter.label>ქვის მჭრელის მაგიდა</TableStonecutter.label>
+</LanguageData>

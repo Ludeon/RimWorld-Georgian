@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  
+  <ShamblerRegenerating>რეგენერაცია, რათა კვლავ აღდგეს.</ShamblerRegenerating>
+  <ShamblerRising>ადგება.</ShamblerRising>
+  <ShamblerStanding>უაზროდ იდგა.</ShamblerStanding>
+  <ShamblerShuffling>უაზროდ ირევა.</ShamblerShuffling>
+  <LetterText_ShamblerGorehulk>ფრთხილად იყავით, ჯგუფი შეიცავს შამბლერ გორჰულკს.</LetterText_ShamblerGorehulk>
+  <LetterText_ShamblerGorehulkPlural>ფრთხილად იყავით, ჯგუფში შედის რამდენიმე შამბლერი გორჰულკი.</LetterText_ShamblerGorehulkPlural>
+  <LetterText_ShamblerChimera>ფრთხილად იყავით, ჯგუფში შედის ჩიმერა.</LetterText_ShamblerChimera>
+  <LetterText_ShamblerChimeraPlural>ფრთხილად იყავით, ჯგუფი შეიცავს რამდენიმე ქიმერას.</LetterText_ShamblerChimeraPlural>
+
+  <MessageRitualCannotBeMutant>არაადამიანებს არ შეუძლიათ მონაწილეობა რიტუალებში.</MessageRitualCannotBeMutant>
+
+  
+  <LetterLabelRevenantRevealed>თავდასხმა</LetterLabelRevenantRevealed>
+  <LetterRevenantRevealed>Revenant-მა გამოავლინა თავი!</LetterRevenantRevealed>
+  <LetterRevenantRevealedFirst>რევენანტი გამოავლინა და ნადირობს თქვენს ერთ-ერთ კოლონისტზე!</LetterRevenantRevealedFirst> 
+  <LetterLabelRevenantSmearDiscovered>აღმოჩენილი ნაცხი</LetterLabelRevenantSmearDiscovered>
+  <LetterRevenantSmearDiscovered>{0}-მა შენიშნა შავი ლაქა მიწაზე. ის გამოიყურება არაბუნებრივი და გამოსცემს უსიამოვნო, მძაფრ სუნს. ჯერ კიდევ სუფთა და სველია. ცოტა ხნის წინ გავიდა ელდრიჩის ერთეული.</LetterRevenantSmearDiscovered>
+  <LetterLabelRevenantKilled>Revenant მოკლეს</LetterLabelRevenantKilled>
+  <LetterRevenantKilled>შურისძიება მოკვდა! ვინც ჰიპნოზირებული იყო, გამოჯანმრთელდება.\n\nსხეული გაიფანტა და ხერხემალი დატოვა. შეგიძლიათ შეაგროვოთ და შეისწავლოთ ხერხემალი, ან გაანადგუროთ იგი.</LetterRevenantKilled>
+  <LetterLabelPawnHypnotized>{PAWN_nameDef} ჰიპნოზირებული</LetterLabelPawnHypnotized>
+  <LetterPawnHypnotized>{PAWN_nameDef} ჰიპნოზირებულია რევენანტის მიერ და ახლა არათანმიმდევრულად ლაპარაკობს კოშმარული სურათებისა და იდეების შესახებ.\n\nგადაბრუნებულის მოკვლა დაასრულებს ჰიპნოზს.\n\nგადაბრუნებული ადამიანი იყენებს ფსიქიკურ ძალებს გარშემო მყოფთა აღქმის გადახვევისთვის, რაც თავის თავს უხილავს ხდის. თუმცა, მასზე ნადირობა მაინც შესაძლებელია შავი ნაცხის დაცვით, რომელსაც ის ტოვებს. გამომჟღავნებელი გამოვლინდება, თუ მას მოხვდება ასაფეთქებელი იარაღი, ქაფი, EMP-ები, ხანძარი ან დამრღვევი ანთებები.\n\nთუ არ მოკვდება, გამობრუნებული გააგრძელებს ახალი მსხვერპლის ჰიპნოზირებას.</LetterPawnHypnotized>
+  <LetterRevenantFleshChunkLabel>გამობრუნებული ხორცის ნატეხი</LetterRevenantFleshChunkLabel>
+  <LetterRevenantFleshChunkText>დაჭრილმა შურისძიებამ თავისი ნაჭერი დატოვა. თქვენ შეგიძლიათ გააანალიზოთ ეს ხორცის ნაჭერი, რათა ისწავლოთ როგორ თვალყური ადევნოთ გამობრუნებულს.</LetterRevenantFleshChunkText>
+  <LetterRevenantSeenLabel>Revenant ჩანს</LetterRevenantSeenLabel>
+  <LetterRevenantSeen>{PAWN_nameDef}-მა დაინახა დამალული შურისძიება!</LetterRevenantSeen>
+  <InTrance>ტრანსში.</InTrance>
+  <LetterLabelRevenantEmergence>Revenant გაჩენა</LetterLabelRevenantEmergence>
+  <LetterRevenantEmergence>გამობრუნებული გამოვიდა ხერხემლის უსაფრთხოებიდან! გაანადგურე იგი, სანამ გაქცევა.\n\nამ პროცესში, გამობრუნებულმა მუტაცია მოახდინა და მიიღო ახალი ბიოხელმოწერა.</LetterRevenantEmergence>
+
+  
+  <LetterLabelSightstealerRevealed>Sightstealer-მა გამოავლინა</LetterLabelSightstealerRevealed>
+  <LetterSightstealerRevealed>ჰაერიდან დაგრეხილი არსება გამოჩნდა!</LetterSightstealerRevealed>
+  <MessageSightstealerRevealed>გამოჩნდა სანახაობა!</MessageSightstealerRevealed>
+  <LetterLabelSightstealerHowl>Sightstealer ყვირის</LetterLabelSightstealerHowl>
+  <LetterSightstealerHowl>თქვენს კოლონისტებს შორიდან ესმით მტაცებლების ყვირილი.\n\nძნელი სათქმელია, სად არიან ან რამდენი. ისინი შეიძლება ჩამოვიდნენ დაუყოვნებლივ ან რამდენიმე დღის შემდეგ.</LetterSightstealerHowl>
+  <LetterLabelSightstealerHowlBig>მხედველობის ქურდობა</LetterLabelSightstealerHowlBig>
+  <LetterSightstealerHowlBig>თქვენს კოლონისტებს ესმით შორეული მტაცებლების დიდი რაოდენობა, რომლებიც ყვირიან თავიანთი დახრილი გაბრაზებით. ისინი მოდიან.\n\nშეიძლება მაშინვე ჩამოვიდნენ, ან დღეების შემდეგ.</LetterSightstealerHowlBig>
+
+  
+  <LetterLabelDeathPallEnded>სიკვდილის სიფერმკრთალის გაწმენდა</LetterLabelDeathPallEnded> 
+  <LetterDeathPallEnded>სიკვდილის ჭურვი მაღლა დგას. მის მიერ რეანიმაციული ცხედრები მალე დაუბრუნდებიან ბუნებრივ მდგომარეობას.</LetterDeathPallEnded>
+  
+  
+  <LetterLabelGateClosing>ორმოს კარიბჭის დახურვა</LetterLabelGateClosing>
+  <LetterGateClosing>ორმოს კარი იხურება! მისი შესასვლელი იშლება.\n\n ორმოს კარიბჭის შესასვლელი თავიდანვე არასტაბილური იყო და საბოლოოდ ილუქება.</LetterGateClosing>
+  <MustPlaceNextToPitGate>უნდა განთავსდეს ორმოს კარიბჭის მიმდებარედ.</MustPlaceNextToPitGate>
+  <PitGateClosedHumanityNote>ორმოს კარი დაკეტილია</PitGateClosedHumanityNote>
+  <PitGateCollapsing>ორმოს კარიბჭე იშლება</PitGateCollapsing> 
+  <PitGateSettling>ორმოს კარიბჭის დასახლება</PitGateSettling>
+  <EmergenceWarningLabel>ორმო ღრიალებს</EmergenceWarningLabel>
+  <EmergenceWarningText>ფეხქვეშ მიწა გიკანკალებს და ორმოდან გამოსული არაადამიანური ყვირილი თითქოს უფრო ახლოვდება. რაღაც მალე გამოჩნდება.</EmergenceWarningText>
+
+    
+  <LetterLabelDreadmeldWarning>ჟღერადობის ხმები</LetterLabelDreadmeldWarning>
+  <LetterDreadmeldWarning>როდესაც {PAWN_nameDef} უახლოვდება ხორცის მასას, {PAWN_pronoun} გრძნობს ძლიერ კრუნჩხვას და თრთოლვას მისი თბილი ზედაპირიდან. ხორცის კედლის მიღმა რაღაც უზარმაზარი ცოცხალი არსება იმალება.</LetterDreadmeldWarning> 
+  <LetterLabelUndercaveCollapsing>მიწისქვეშა არამდგრადი</LetterLabelUndercaveCollapsing> 
+  <LetterUndercaveCollapsing>დრედმელდის სიკვდილმა შოკში ჩააგდო ხორცი და გამოქვაბულის სისტემის დესტაბილიზაცია გამოიწვია. ხორცის მასა, რომელიც მხარს უჭერდა გამოქვაბულს, უკვე იწყებს გაუარესებას. ნახევარ დღეში მთელი გამოქვაბული ჩამოინგრევა.\n\nგამოდით გამოქვაბულიდან, სანამ გვიან არ არის!</LetterUndercaveCollapsing>
+
+  
+  <HoldingThing>დამჭერი</HoldingThing>
+  <RemoveFromPlatform>ამოიღეთ {0_labelShort}</RemoveFromPlatform>
+  <RemoveFromPlatformDesc>წაშალეთ პლატფორმაზე განთავსებული მიმდინარე ერთეული.</RemoveFromPlatformDesc>
+  <ReleasingEntity>{GERUND} {TARGETLABEL}-დან</ReleasingEntity>
+  <TransferringEntity>{GERUND} {TARGETLABEL}</TransferringEntity>
+  <SelectHoldingPlatform>აირჩიეთ ჩატარების პლატფორმა</SelectHoldingPlatform>
+  <LetterLabelEscapingFromHoldingPlatform>პირის გაქცევა</LetterLabelEscapingFromHoldingPlatform> 
+  <LetterEscapingFromHoldingPlatform>შემდეგი სუბიექტები გაურბოდნენ თავიანთ შეზღუდვებს:\n\n{0}\n\nაშენეთ უფრო ძლიერი შეკავების ოთახები, რათა შეაჩერონ ერთეულების გაქცევა. სუბიექტები ნაკლებად ახერხებენ თავის დაღწევას მაღალი შეკავების სიმტკიცის მქონე პლატფორმებისგან, რაც მომდინარეობს ძლიერი კედლებისა და კარებისგან, კარგი განათებისა და სპეციალური შემაკავებელი მოწყობილობებისგან.</LetterEscapingFromHoldingPlatform> 
+  <HoldingPlatformRequiresStrength>მოითხოვს {0}</HoldingPlatformRequiresStrength>
+  <NoHoldingPlatformsAvailable>ჰოლდინგის პლატფორმები არ არის ხელმისაწვდომი.</NoHoldingPlatformsAvailable>
+  
+  
+  
+  <MutatorObeliskLetterLabel>ობელისკის გააქტიურება</MutatorObeliskLetterLabel>
+  <MutatorObeliskLetter>ობელისკი აქტიურდება! ის საშინელი ენერგიით ადიდებს, როცა ჰაერი ხრაშუნავს მის გარშემო. ის აპირებს თვითგანადგურებას დიდი აფეთქების შედეგად, მაგრამ სანამ ამას გააკეთებს, ის გამოიყენებს თავის შემზარავ ტრანსფორმაციულ ძალას ნებისმიერ არსებაზე, რომლის აღმოჩენაც შეუძლია.</MutatorObeliskLetter>
+
+  <ObeliskTentacleLetterLabel>ობელისკის მუტაცია</ObeliskTentacleLetterLabel>
+  <ObeliskTentacleLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა იგრძნო {PAWN_possessive} მკლავის ჩხვლეტა. რამდენიმე წამის შემდეგ, {PAWN_possessive} კანი გაიყო, როდესაც ხორციანი წარმონაქმნი ამოიფრქვა {PAWN_possessive} სხეულიდან. {PAWN_possessive} მკლავი შეცვალა მოციმციმე საცეცმა!\n\n{PAWN_nameDef}-მა ცოტა სისხლი დაკარგა, მაგრამ სხვაგვარად უვნებელი ჩანს.</ObeliskTentacleLetter>
+
+  <ObeliskFleshWhipLetterLabel>ობელისკის მუტაცია</ObeliskFleshWhipLetterLabel>
+  <ObeliskFleshWhipLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა იგრძნო {PAWN_possessive} მკლავის ჩხვლეტა. რამდენიმე წუთის შემდეგ, {PAWN_possessive} კანი ძალადობრივად გაიფანტა {PAWN_possessive} სხეულისგან გამონაზარდის გამო. {PAWN_possessive} მკლავი შეიცვალა საცეცით, რომელიც ძვლოვანი პირით იყო გამოყვანილი!\n\n{PAWN_nameDef}-მა ცოტა სისხლი დაკარგა, მაგრამ, სხვაგვარად, ამ შემაშფოთებელი მოვლენისგან უვნებელი ჩანს. საცეცები საზარელია, მაგრამ ის შესანიშნავ იარაღს გახდის.</ObeliskFleshWhipLetter>
+
+  <MutatorObeliskFailedArmLetterLabel>ობელისკის ურთიერთქმედება</MutatorObeliskFailedArmLetterLabel>
+  <MutatorObeliskFailedArmLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა იგრძნო {PAWN_possessive} მკლავის ჩხვლეტა რამდენიმე წამის განმავლობაში. განცდა გავიდა.\n\nობელისკი ცდილობდა {PAWN_nameDef}-ის მუტაციას, მაგრამ ვერ მოხერხდა.</MutatorObeliskFailedArmLetter>
+
+  <ObeliskFleshmassStomachLetterLabel>ობელისკის მუტაცია</ObeliskFleshmassStomachLetterLabel>
+  <ObeliskFleshmassStomachLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა იგრძნო უეცარი მკვეთრი ტკივილი {PAWN_possessive} მუცელში, რადგან {PAWN_possessive} ქსოვილმა დაიწყო გორვა და მუტაცია. {PAWN_possessive} კუჭი მუტაცია გახდა ნახევრად მგრძნობიარე ხორცის მასად. მის მიერ წარმოქმნილი უხეში მჟავები მტკივნეულია, მაგრამ ხელს უშლის საკვების მოწამვლას.</ObeliskFleshmassStomachLetter>
+
+  <MutatorObeliskFailedStomachLetterLabel>ობელისკის ურთიერთქმედება</MutatorObeliskFailedStomachLetterLabel>
+  <MutatorObeliskFailedStomachLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა იგრძნო {PAWN_possessive}-ის მუცელი რამდენიმე წამის განმავლობაში. განცდა გავიდა.\n\nობელისკი ცდილობდა {PAWN_nameDef}-ის მუტაციას, მაგრამ ვერ მოხერხდა.</MutatorObeliskFailedStomachLetter>
+
+  <ObeliskFleshmassLungLetterLabel>ობელისკის მუტაცია</ObeliskFleshmassLungLetterLabel>
+  <ObeliskFleshmassLungLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა იგრძნო უეცარი მკვეთრი ტკივილი {PAWN_possessive} მკერდში, რადგან {PAWN_possessive} ფილტვმა დაიწყო გრეხილი და შეშუპება. {PAWN_possessive} ფილტვის მუტაცია მოხდა ნახევრად მგრძნობიარე ხორცის მტკივნეულ მასად. ქსოვილი მუდმივად ხელახლა იზრდება და ცვლის თავის თავს, ხდის მას იმუნური ეფექტების მიმართ, როგორიცაა ფილტვების ლპობა და ასთმა.</ObeliskFleshmassLungLetter>
+
+  <MutatorObeliskFailedLungLetterLabel>ობელისკის ურთიერთქმედება</MutatorObeliskFailedLungLetterLabel>
+  <MutatorObeliskFailedLungLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა იგრძნო {PAWN_possessive} მკერდის ტკივილი რამდენიმე წამის განმავლობაში. განცდა გავიდა.\n\nობელისკი ცდილობდა {PAWN_nameDef}-ის მუტაციას, მაგრამ ვერ მოხერხდა.</MutatorObeliskFailedLungLetter>
+
+  <ObeliskAnimalMutationLetterLabel>ობელისკის მუტაცია</ObeliskAnimalMutationLetterLabel>
+  <ObeliskAnimalMutationLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა დააფიქსირა ენერგიის უეცარი მატება. ობელისკმა ძალადობრივად დაამახინჯა {ANIMAL}-ის ხორცი, გადააქცია იგი საშინელ ხორციან მხეცად.</ObeliskAnimalMutationLetter>
+
+  <ObeliskTreeMutationLetterLabel>ობელისკის მუტაცია</ObeliskTreeMutationLetterLabel>
+  <ObeliskTreeMutationLetter>ობელისკთან ურთიერთობისას {PAWN_nameDef}-მა დააფიქსირა ენერგიის უეცარი პულსი. ობელისკმა მახლობლად მდებარე ხე გადააგრიხა წინამორბედ ხედ. ამ ურჩხულ ხეებს შეუძლიათ იკვებონ ახლომდებარე გვამებითა და უმი ხორცით.</ObeliskTreeMutationLetter>
+
+  <ObeliskDuplicationLetterLabel>ობელისკის დუბლიკატი</ObeliskDuplicationLetterLabel>
+  <ObeliskDuplicationLetter>სანამ {PAWN_nameDef} ურთიერთქმედებდა ობელისკთან, ის პულსირებდა ენერგიით და წარმოქმნიდა სინათლის ციმციმს. {PAWN_nameDef}-მა იპოვა {PAWN_objective}self პირისპირ {PAWN_objective}self-ის ასლთან! დუბლიკატი აცხადებს, რომ არის ნამდვილი {PAWN_nameDef} და შეუერთდა თქვენს კოლონიას.</ObeliskDuplicationLetter>
+
+  <ObeliskDuplicationFailedLetterLabel>ობელისკის უკმარისობა</ObeliskDuplicationFailedLetterLabel>
+  <ObeliskDuplicationFailedLetter>{PAWN_nameDef}-მა სცადა ობელისკის გაშვება, მაგრამ არაფერი გამოუვიდა. {PAWN_nameDef}-ის შესახებ რაღაც ხელს უშლის ობელისკის {PAWN_objective}-ის დუბლირებას.</ObeliskDuplicationFailedLetter>
+  
+  <ObeliskDuplicationSuccessMessage>{PAWN_nameDef}-მა წარმატებით გამოიწვია ობელისკის დუბლირება.</ObeliskDuplicationSuccessMessage>
+
+  <ObeliskHostileDuplicateLetterLabel>მტრული ობელისკის დუბლიკატი</ObeliskHostileDuplicateLetterLabel>
+  <ObeliskHostileDuplicateLetter>სანამ {PAWN_nameDef} ურთიერთქმედებდა ობელისკთან, ის პულსირებდა ენერგიით და წარმოქმნიდა სინათლის ციმციმს. {PAWN_nameDef}-მა აღმოაჩინა {PAWN_objective} თავი პირისპირ {PAWN_objective}self-ის ასლთან. დუბლიკატი უახლოვდება {PAWN_nameDef}-ს მკვლელობის განზრახვით!</ObeliskHostileDuplicateLetter>
+
+  <DuplicatorObeliskLetterLabel>ობელისკის გააქტიურება</DuplicatorObeliskLetterLabel>
+  <DuplicatorObeliskLetter>ობელისკი აქტიურდება! მის ირგვლივ ჰაერი ენერგიით ხრაშუნებს. თქვენი კოლონისტების დუბლიკატები მალე გამოჩნდება მკვლელობის განზრახვით.\n\nფრთხილად იყავით - არასტაბილური ენერგია მიედინება ობელისკში და ის ნებისმიერ მომენტში შეიძლება აფეთქდეს.</DuplicatorObeliskLetter>
+
+  <ObeliskAbductorLetterLabel>კოლონისტები ქრება</ObeliskAbductorLetterLabel>
+  <ObeliskAbductorLetter>დახრილი ობელისკი ენერგიით ხრაშუნებს, როცა თავის გარშემო სივრცეს ახვევს. ყველანაირი არსება იწყებს გაქრობას და მალე მთლიანად გაქრება.\n\nფრთხილად იყავით - არასტაბილური ენერგია მიედინება ობელისკში და ის ნებისმიერ მომენტში შეიძლება აფეთქდეს.</ObeliskAbductorLetter>
+  
+  <ObeliskAbductedDisappearingLetterLabel>{PAWN_nameDef} ქრება</ObeliskAbductedDisappearingLetterLabel>
+  <ObeliskAbductedDisappearingLetter>{PAWN_nameDef}-მა შეამჩნია აქტივობა დახრილ ობელისკში. რაღაც იდუმალი შინაგანი მექანიზმი გაცოცხლდა, ​​რის გამოც {PAWN_nameDef} დაიწყო გაქრობა. {PAWN_pronoun} მალე მთლიანად გაქრება.</ObeliskAbductedDisappearingLetter>
+  
+  <ObeliskAbductedLetterLabel>{PAWN_nameDef} კვლავ გამოჩნდა</ObeliskAbductedLetterLabel>
+  <ObeliskAbductedLetter>{PAWN_nameDef} ტელეპორტირებული იქნა უცნაურ ოთახში. კედლები ამოუცნობი ნაცრისფერი მასალაა და ჰაერი ჯერ კიდევ მკვდარია. {PAWN_pronoun}-მა არ იცის სად არის {PAWN_pronoun} - ან როგორ უნდა დაბრუნდეს სახლში.\n\nმახლობლად მდებარე კარი ჩაკეტილია, მაგრამ, როგორც ჩანს, მისი იძულებით გაღება შესაძლებელია გარკვეული ძალისხმევით. დააწკაპუნეთ მარჯვენა ღილაკით ჩაკეტილ კარებზე მათ გასახსნელად.\n\nობელისკის შესწავლით, სხვა კოლონისტებს შეუძლიათ გაიგონ რა დაემართა {PAWN_nameDef}-ს და იპოვონ გზა {PAWN_objective}-ის დასახმარებლად. ალტერნატიულად, ობელისკზე თავდასხმამ შეიძლება გამოიწვიოს ის უფრო მეტი კოლონისტის გატაცების პროვოცირება.</ObeliskAbductedLetter>
+
+  <MutatorObeliskMutated>{PAWN_nameIndef} მუტაცია გახდა ხორცის მხეცად.</MutatorObeliskMutated>
+  <MutatorObeliskSpawned>ხორციელი მხეცი ამოვიდა მიწიდან.</MutatorObeliskSpawned>
+
+  <ObeliskActivateDesc>სრულად გაააქტიურეთ დახრილი ობელისკი.</ObeliskActivateDesc>
+  <ObeliskActivateDescWarning>გაფრთხილება: დახრილი ობელისკი არასტაბილურია. მისი სრულად გააქტიურება გამოიწვევს სახიფათო რეაქციას და გამოიწვევს ობელისკის თვითგანადგურებას.</ObeliskActivateDescWarning>
+
+  <ObeliskDeactivateMissingShards>გამორთვისთვის საჭიროა {0} ფრაგმენტები</ObeliskDeactivateMissingShards>
+  
+  
+  <ActivityLevel>აქტივობის დონე</ActivityLevel>
+  <IsPsychicallySuppressed>ფსიქიკური ჩახშობა</IsPsychicallySuppressed>
+  <ActivityIncrease>განაკვეთის გაზრდა</ActivityIncrease>
+  <NotInSealedRoom>არა დალუქულ ოთახში</NotInSealedRoom>
+  <EnergyHarvesting>ენერგიის მოპოვება</EnergyHarvesting>
+  <Unstable>არამდგრადი</Unstable>
+  <BaseLevel>საბაზისო დონე</BaseLevel>
+  <IsActive>აქტიურია</IsActive>
+  <Resisted>წინააღმდეგობა</Resisted>
+  <HealthFactor>დაზიანებული</HealthFactor>
+
+  <CommandSent>{PAWN_labelShort} გაიგზავნა.</CommandSent>
+  <CannotActivateEntity>ერთეულის გააქტიურება შეუძლებელია</CannotActivateEntity>
+  <CannotActivateEntityPlatform>ერთეული უნდა იყოს პლატფორმაზე</CannotActivateEntityPlatform>
+  
+  <ActivityGizmo>აქტივობა</ActivityGizmo>
+  <ActivitySuppressionTooltipTitle>ავტომატური ჩახშობა</ActivitySuppressionTooltipTitle>
+  <ActivitySuppressionTooltipDisabled>ავტომატური ჩახშობა ამჟამად გამორთულია. ჩართეთ ის, რომ მცველებმა ჩაახშოს {0}.</ActivitySuppressionTooltipDisabled>
+  <ActivitySuppressionTooltipDesc>{0}-ის აქტივობის დონე დროთა განმავლობაში იზრდება. აქტივობა უფრო სწრაფად იზრდება, თუ {0} დაზიანებულია ან პროვოცირებულია.\n\nთუ აქტივობის დონე 100%-ს მიაღწევს, {0} გააქტიურდება.\n\nმფარველებს შეუძლიათ დათრგუნონ {0} მისი აქტივობის უსაფრთხო დონეზე შესანარჩუნებლად. ისინი ჩაახშობენ მას ნებისმიერ დროს, როცა მისი აქტივობა მინიჭებულ დონეს აღემატება: {LEVEL}\n\nსუბიექტები, რომლებსაც აქვთ უფრო მაღალი აქტივობის დონეები, მიიღებენ მეტ ცოდნას შესწავლისას.</ActivitySuppressionTooltipDesc>
+  <ActivitySuppressionToggleTooltipDesc>ეს განსაზღვრავს, იქნება თუ არა {0} ავტომატურად ჩახშობა, როდესაც მისი აქტივობა {LEVEL}-ზე მეტია.\n\nავტომატური ჩახშობა ამჟამად არის {ONOFF}.</ActivitySuppressionToggleTooltipDesc>
+
+  
+  <ActivityLevelDesc>აქტივობის დონე</ActivityLevelDesc>
+  <PsychicallySuppressedDesc>ფსიქიკური ჩახშობა</PsychicallySuppressedDesc>
+
+  
+  <CaptureEntity>დატყვევება</CaptureEntity>
+  <CaptureEntityDesc>გადაიღეთ {0_definite}. ის უნდა იყოს შეკავებული საყრდენ პლატფორმაზე. შეკავების შემდეგ, მისი შესწავლა შესაძლებელია.</CaptureEntityDesc>
+  <CancelCapture>გადაღების გაუქმება</CancelCapture>
+  <CancelCaptureDesc>გააუქმეთ გადაღება {0_definite}.</CancelCaptureDesc>
+  <ReadyToStudy>მზადაა სასწავლად</ReadyToStudy>
+  <NoActiveResearchProject>არ არის შერჩეული აქტიური ანომალიების კვლევის პროექტი {0} ცოდნის კატეგორიისთვის.</NoActiveResearchProject>
+  <Capturable>დასატყვევებელი</Capturable>
+  <RequiresHoldingPlatform>უნდა იყოს დაჭერილი ჰოლდინგის პლატფორმაში.</RequiresHoldingPlatform>
+  <ChooseNociosphereDest>აირჩიეთ ადგილი ნოციოსფეროსთვის ტელეპორტირებისთვის.</ChooseNociosphereDest>
+  <TransferEntity>გადარიცხვა {0_definite}</TransferEntity>
+  <TransferEntityDesc>გადაიტანეთ შემავალი ერთეული სხვა ჰოლდინგის პლატფორმაზე.</TransferEntityDesc>
+  <CancelTransfer>გადარიცხვის გაუქმება</CancelTransfer>
+  <CancelTransferDesc>გააუქმეთ ამ ერთეულის სხვა ჰოლდინგის პლატფორმაზე გადაცემა.</CancelTransferDesc>
+  
+  
+  <EmergedFrom>გაჩნდა</EmergedFrom>
+  <Emerging>მეტალჰორორი ჩნდება</Emerging>
+  
+  <ImplantSourceUnknown>იმპლანტირებულია თქვენს კოლონიაში ჩასვლამდე</ImplantSourceUnknown>
+  <InsectImplant>იმპლანტატორი ინსექტოიდი</InsectImplant>
+  <SleepImplant>ჩანერგილი ძილის დროს {SOURCE_nameDef}-ის მიერ</SleepImplant>
+  <SurgeryImplant>იმპლანტირებულია {SOURCE_nameDef}-ის მიერ ოპერაციის დროს</SurgeryImplant>
+  <FoodImplant>იმპლანტირებულია {SOURCE_nameDef}-ის მიერ მომზადებული საჭმლის მეშვეობით</FoodImplant>
+  <UnnaturalHealingImplant>იმპლანტირებულია {SOURCE_nameDef}-ის მიერ არაბუნებრივი შეხორცების დროს</UnnaturalHealingImplant>
+  <FeedingImplant>იმპლანტირებულია {SOURCE_nameDef}-ით კვების დროს</FeedingImplant>
+
+  <MetalhorrorEmergingLabel>მეტალჰორორი ჩნდება</MetalhorrorEmergingLabel>
+  <MetalhorrorEmergingDesc>მეტალჰორორი ჩნდება! ხორცსა და კანს ჭრის, ეს კოშმარული ფრთიანი არსება თავის მასპინძელს წყვეტს. მეტალჰორორი წარმოიქმნება:</MetalhorrorEmergingDesc>
+  <MetalhorrorEmergingPluralDesc>მეტალის საშინელებები ჩნდება! ხორცსა და კანს ჭრიან, ეს კოშმარული ფრთიანი არსებები წყვეტენ გზას თავიანთი მასპინძლებიდან. მეტალის საშინელებები წარმოიქმნება:</MetalhorrorEmergingPluralDesc>
+  <MetalhorrorEmergingDescAppended>ეს შემზარავი მეტალის პარაზიტები ცხოვრობენ მსხვერპლში და აკონტროლებენ უფრო მაღალ მსჯელობას თმის თხელი მეტალის ძაფების ქსელის მეშვეობით, რომლებიც ავრცელებენ მთელ სხეულსა და ტვინში. ისინი აკონტროლებენ მსხვერპლის გონებას და აიძულებენ სხვების დაინფიცირებას ახალი მეტალის საშინელებებით.</MetalhorrorEmergingDescAppended>
+  
+  <MetalhorrorSurgicalInspectionDetails>ეს ექიმები დაინფიცირებული და კონტროლირებადი იყო მეტალის საშინელებებით, ამიტომ მათ იცრუეს ქირურგიული შემოწმების შედეგებზე</MetalhorrorSurgicalInspectionDetails>
+  
+  <MetalhorrorReasonInteraction>{INFECTED_nameDef}-ის მეტალურგი გაჩნდა, რადგან ის აღმოაჩინა {PAWN_nameDef}-მა სოციალური ინტერაქციის დროს.</MetalhorrorReasonInteraction>
+  <MetalhorrorReasonInterrogation>{INFECTED_nameDef}-ის მეტალურგი გაჩნდა იმის გამო, რომ ის აღმოაჩინა {PAWN_nameDef}-მა დაკითხვის დროს.</MetalhorrorReasonInterrogation>
+  <MetalhorrorReasonHostDied>{INFECTED_nameDef}-ის მეტალჰორორი გაჩნდა იმის გამო, რომ {INFECTED_nameDef} გარდაიცვალა.</MetalhorrorReasonHostDied>
+  <MetalhorrorReasonSurgeryInspected>{INFECTED_nameDef}-ის მეტალჰორორი გაჩნდა, რადგან ის აღმოაჩინა {PAWN_nameDef}-მა ქირურგიული შემოწმების დროს.</MetalhorrorReasonSurgeryInspected>
+  <MetalhorrorReasonRandom>{INFECTED_nameDef}-ის მეტალჰორორი გაურკვეველი მიზეზების გამო გაჩნდა.</MetalhorrorReasonRandom>
+  <MetalhorrorReasonTriedToLeaveMap>{INFECTED_nameDef}-ის მეტალჰორორი გაჩნდა მას შემდეგ, რაც იგრძნო, რომ იგი კოლონიიდან წაიყვანეს.</MetalhorrorReasonTriedToLeaveMap>
+  
+  <MetalhorrorDetected>აღმოჩენილია მეტალის საშინელება</MetalhorrorDetected>
+  <InteractionDetectedDesc>{PAWN_nameDef}-მა შენიშნა რაღაც არასწორი {INFECTED_nameDef}-თან ჩეთის დროს. {INFECTED_nameDef}-მა გამოავლინა არაბუნებრივი ქცევის, უცნაური ვოკალური ბგერების ან თვალებში ძლივს შესამჩნევი მეტალის ჭიების კომბინაცია. {PAWN_nameDef} ეჭვობს, რომ {INFECTED_nameDef} დაინფიცირებულია მეტალჰორორით.</InteractionDetectedDesc>
+  <InterrogationDetectedDesc>{PAWN_nameDef}-მა აღმოაჩინა რაღაც უჩვეულო {INFECTED_nameDef}-ის დაკითხვისას. {INFECTED_nameDef}-მა გამოავლინა არაბუნებრივი ქცევის, უცნაური ვოკალური ბგერების ან თვალებში ძლივს შესამჩნევი მეტალის ჭიების კომბინაცია. {PAWN_nameDef} ეჭვობს, რომ {INFECTED_nameDef} დაინფიცირებულია მეტალჰორორით.</InterrogationDetectedDesc>
+  
+  <MetalhorrorNoticedDetailsAppended>მეტალის საშინელებები არის პარაზიტები, რომლებიც აკონტროლებენ მასპინძელს და იყენებენ მათ სხვების დასაინფიცირებლად.\n\nმეტალის საშინელებები მასპინძლის შიგნით უფრო და უფრო ძლიერდება, რაც დრო გადის. მეტალჰორორი მასპინძლის სხეულიდან ამოიჭრება, თუ იცის, რომ აღმოჩენილია. პროცესი შემზარავია, მაგრამ მასპინძელი ძირითადად გადარჩება.\n\nერთადერთი გზა იმის დასადასტურებლად, რომ ადამიანი დაინფიცირებულია მეტალჰორორით, არის მეტალჰორორის ხორციანი ფოთლების შესწავლა მისი ბიოხელმოწერის დასადგენად, შემდეგ ქირურგიული შემოწმების ოპერაცია სანდო ექიმთან.\n\nროგორც აღმოაჩენთ, შეგიძლიათ გამოიყენოთ ქირურგიული მასპინძლის მეტალჰორორული ინსპექტირების ოპერაცია. მოემზადეთ ბრძოლისთვის.</MetalhorrorNoticedDetailsAppended>
+  
+  <LetterGrayFleshDiscoveredLabel>ნაცრისფერი ხორცი</LetterGrayFleshDiscoveredLabel>
+  <LetterGrayFleshDiscovered>{PAWN_nameDef}-მა ხორციანი ქსოვილის ზოლი აღმოაჩინა. ის წააგავს ადამიანის კანს, რომელიც ნაცრისფერს შეღებავს წვრილი მეტალის ნაწილაკებით. ხორცის გათხევადების დროს ის ვიღაცას უნდა მოეშორებინა.\n\nშეიძლება აქ ვინმე ისეთი არ იყოს, როგორიც ჩანდეს.\n\nმატყუარას აღმოსაჩენად რამდენიმე გზა არსებობს:\n\n{METHODS}\n\nგაფრთხილება: ზოგიერთ პარაზიტს შეუძლია გონების კონტროლი და სხვებისთვისაც კი გადაცემა.</LetterGrayFleshDiscovered>
+  
+  <LetterInterrogationUnlocked>„დაკითხვის“ პატიმრებთან ურთიერთობის რეჟიმი ახლა განბლოკილია.</LetterInterrogationUnlocked>
+  
+  <LetterGrayFleshMethodOne>დააპატიმრეთ ვინმე და გაგზავნეთ მცველი, რომ დაკითხოს მათი ნამდვილი ვინაობა. ამას შეიძლება მრავალი დღე დასჭირდეს.</LetterGrayFleshMethodOne>
+  <LetterGrayFleshMethodTwo>შეაგროვეთ მეტი ნაცრისფერი ხორცი და გააანალიზეთ იგი საფრთხის ბიოხელმოწერის დასადგენად. შემდეგ გამოიყენეთ ქირურგიული შემოწმების ოპერაცია ამ ბიოხელმოწერის მოსაძებნად. საკმარისი ნიმუშების შეგროვებას შეიძლება დიდი დრო დასჭირდეს და ოპერაცია ინვაზიურია.</LetterGrayFleshMethodTwo>
+  <LetterGrayFleshMethodThree>აღასრულეთ ან განდევნეთ ვინც ეჭვი გეპარებათ.</LetterGrayFleshMethodThree>
+  
+  <LetterMetalhorrorReawakeningLabel>მეტალის საშინელებათა გამოღვიძება</LetterMetalhorrorReawakeningLabel>
+  <LetterMetalhorrorReawakening>მეტალჰორორები დაირღვა და ისევ იღვიძებს!</LetterMetalhorrorReawakening>
+
+  <MessageMetalHorrorDormant>მეტაჰორორები იწყებენ ზამთარს. შეწუხების შემთხვევაში ისინი კვლავ გაიღვიძებენ.</MessageMetalHorrorDormant>
+  
+  <MetalhorrorDormant>ჰიბერნაცია. შეწუხების შემთხვევაში გაიღვიძებს.</MetalhorrorDormant>
+  
+  
+  <LetterSurgicallyInspectedLabel>ქირურგიული შემოწმების შედეგები</LetterSurgicallyInspectedLabel>
+  <LetterSurgicallyInspectedHeader>{DOCTOR_nameDef}-მა ჩაატარა {PATIENT_nameDef}-ის ვრცელი ქირურგიული შემოწმება.</LetterSurgicallyInspectedHeader>
+  <LetterSurgicallyInspectedNothing>{DOCTOR_pronoun} ამბობს, რომ {DOCTOR_pronoun}-მა არ აღმოაჩინა ანომალიები. თუმცა, ექიმმა შეიძლება მოიტყუოს, თუ ეს მათ ინტერესებშია.</LetterSurgicallyInspectedNothing>
+  
+  
+  <DeathRefusalUseSingular>გამოყენება</DeathRefusalUseSingular>
+  <DeathRefusalUsePlural>გამოყენება</DeathRefusalUsePlural>
+  <SelfResurrecting>თვითაღდგომა</SelfResurrecting>
+
+  
+  <HarbingerTreeConsumption>საწინდარი ხესთან ახლოს</HarbingerTreeConsumption>
+  <HarbingerTreeSprouted>აღმოცენდა ახალი საწინდარი ხე.</HarbingerTreeSprouted>
+  <HarbingerTreeConsuming>ხორცის მოხმარება.</HarbingerTreeConsuming>
+  <HarbingerTreeNotConsuming>მოიხმარს მიმდებარედ მოთავსებულ გვამებს და ხორცს.</HarbingerTreeNotConsuming>
+  <ConsumedByHarbingerTree>მოხმარებული საწინდარი ხე.</ConsumedByHarbingerTree>
+  <FleshConsumption>ხორცის მოხმარება</FleshConsumption>
+  <CreateCorpseStockpile>შექმენით გვამის მარაგი</CreateCorpseStockpile>
+  <CreateCorpseStockpileDesc>შექმენით ნაგავსაყრელი ზონა ცხედრების ხის ირგვლივ.\n\nHarbinger ხეები მოიხმარენ ახლომდებარე გვამებს და უმი ხორცს. თუ კარგად იკვებება, ხეები უფრო სწრაფად გაიზრდებიან და შექმნიან ახალ საწინდარი ხეებს.</CreateCorpseStockpileDesc>
+
+  <VoidNodeDisabled>Void კვანძი გამორთულია.</VoidNodeDisabled>
+
+  
+  <LetterCreeperAppearedAppended>{PAWN_pronoun}-ს სურს საუბარი. თქვენ შეგიძლიათ გაგზავნოთ კოლონისტი, რომ მოისმინოთ რას ამბობს {PAWN_pronoun}.</LetterCreeperAppearedAppended>
+  <LetterCreeperInviteJoins>{PAWN_nameDef}-ს სურს შეუერთდეს</LetterCreeperInviteJoins>
+  <LetterCreeperInviteAppend>{PAWN_pronoun} შეიძლება ძალიან სასარგებლო იყოს, მაგრამ თქვენ ასევე გრძნობთ, რომ რაღაცას {PAWN_nameDef} არ გეუბნებათ.</LetterCreeperInviteAppend>
+  
+  <AcceptCreeper>მიეცით საშუალება {PAWN_nameDef}-ს შეუერთდეს</AcceptCreeper>
+  <CaptureCreeper>გაგზავნეთ {SPEAKER_nameDef} {PAWN_nameDef}-ის გადასაღებად</CaptureCreeper>
+  <RejectCreeper>გაგზავნეთ {PAWN_nameDef} მოშორებით</RejectCreeper>
+  
+  
+  <LetterUnnaturalHealingLabel>არაბუნებრივი განკურნება</LetterUnnaturalHealingLabel>
+  <LetterUnnaturalHealing>{CASTER_nameDef}-მა დაასრულა {CASTER_possessive} ფსიქიკური განკურნება {PAWN_nameDef}-ზე.</LetterUnnaturalHealing>
+  <LetterUnnaturalHealingTentacle>თუმცა, რაღაც საშინლად არასწორედ წარიმართა.\n\n{PAWN_nameDef}-ის მკლავი გაიყო, როდესაც {PAWN_possessive} სხეულიდან ძლიერი ამონაზარდი გაჩნდა. {PAWN_possessive} მკლავი შეიცვალა ხორციანი საცეცით!</LetterUnnaturalHealingTentacle>
+  
+  
+  <MessageTransmutedItem>{PAWN_nameDef}-მა გადააქცია {ORIGINAL} {TRANSMUTED}-ად.</MessageTransmutedItem>
+  <MessageTransmutedStuff>{PAWN_nameDef}-მა გადააქცია {1} {TRANSMUTED_labelShortIndef}-ად.</MessageTransmutedStuff>
+  <MessageTransmutedStuffPlural>{PAWN_nameDef}-მა გადააქცია {1} {TRANSMUTED_labelPluralIndef}-ად.</MessageTransmutedStuffPlural>
+  
+  
+  <ElectroharvesterNoEntity>არავითარი თავშეკავებული სუბიექტი.</ElectroharvesterNoEntity>
+  <ElectroharvesterNoPlatform>არ არის დაკავშირებული ჰოლდინგის პლატფორმასთან.</ElectroharvesterNoPlatform>
+  
+  
+  <FleshmassHeartInvulnerable>დაუცველი. გააანალიზეთ ხორცის ნერვული სიმსივნის განადგურება.</FleshmassHeartInvulnerable>
+  <FleshmassHeartGrowing>მზარდი ხორცის მასა.</FleshmassHeartGrowing>
+  <FleshmassHeartCollecting>ბიომასის შეგროვება მომავალი ზრდისთვის...</FleshmassHeartCollecting>
+  <MessageHeartAttack>ხორცის გული კრუნჩხავს!</MessageHeartAttack>
+  <LetterLabelFleshmassHeartDestroyed>Fleshmas გული დამარცხდა</LetterLabelFleshmassHeartDestroyed>
+  <LetterFleshmassHeartDestroyed>ხორცის მასის გული განადგურდა, დატოვა გატეხილი, მაგრამ მაინც ფუნქციონალური ბირთვი - ხორცისა და არქოტექნოლოგიის დაგრეხილი ნაზავი. ბირთვი აგრძელებს ზრდას და ხორცის მუტაციას, მაშინაც კი, როცა მიმდებარე ხორცის მასა იშლება.\n\nშეგიძლიათ დაიჭიროთ ბირთვი მის შემდგომ შესასწავლად ან გაანადგუროთ იგი ამ კოშმარის დასასრულებლად. თუ მარტო დარჩება, ის შეიძლება გადაიზარდოს ახალ ხორციელ გულში.</LetterFleshmassHeartDestroyed>
+  <NerveBundleGrewMessage>ხორცის გულს ახალი ნერვის შეკვრა გაუჩნდა.</NerveBundleGrewMessage>
+  <NeuralLumpDroppedMessage>ნერვულ შეკვრას ნერვული სიმსივნე ჩამოუვარდა. გააანალიზეთ ის, რომ მეტი გაიგოთ ხორცის გულის შესახებ.</NeuralLumpDroppedMessage>
+  <DestroyHeartDisabled>უნდა შეაგროვოს და გააანალიზოს ხორცის მასის ნერვული სიმსივნეები. გაანალიზებულია სიმსივნეები</DestroyHeartDisabled>
+  <SpitterAttacking>ხორცშესხმული შხამიანი უტევს!</SpitterAttacking>
+  <SpitterGatheringSpit>მჟავას შეგროვება. მზადაა</SpitterGatheringSpit>
+  <SpitterReadyToSpit>მზადაა მჟავა გადაფურთხოთ.</SpitterReadyToSpit>
+
+  <ActiveFleshmassInspect>აქტიური ხორცის მასა. შეიძლება ხორცის მხეცების დაბადება თუ განადგურდება.</ActiveFleshmassInspect>
+
+  
+  <LetterLabelFleshTentacleAttack>ხორცის საცეცების შეტევა</LetterLabelFleshTentacleAttack>
+  <LetterFleshTentacleAttack>{PAWN_nameDef}-ის ოპერაცია წარმატებით დასრულდა. თუმცა, ხორცის გრეხილმა მასამ, რომელიც {PAWN_possessive} საცეც იყო, შეტევა დაიწყო!</LetterFleshTentacleAttack>
+  <Biosignature>ბიოხელმოწერა</Biosignature>
+  <BlissLobotomy>ბლის ლობოტომია</BlissLobotomy>
+  <HP>HP</HP>
+  <Analyzed>გაანალიზებული</Analyzed>
+  <HighestSkill>უმაღლესი უნარი</HighestSkill>
+  
+  <MessageShardDropped>{0}-მა ჩამოაგდო ბნელი არქოტექნოლოგიის ნატეხი. შეგიძლიათ შეაგროვოთ და გამოიყენოთ იგი.</MessageShardDropped>
+  
+  
+  <Berserk_BloodRain>სისხლის წვიმამ {0_nameIndef} გაბრაზებულმა გამოიწვია!</Berserk_BloodRain>
+  <Manhunter_BloodRain>სისხლის წვიმამ {0_nameIndef} ნადირობის რისხვაში ჩააგდო!</Manhunter_BloodRain>
+  <MentalBreakReason_BloodRage>ეს მოხდა სისხლის გაბრაზების დაგროვების გამო.</MentalBreakReason_BloodRage>
+  
+  
+  <LetterLabelCorpseDisappeared>გვამის გაუჩინარება</LetterLabelCorpseDisappeared>
+  <LetterCorpseDisappeared>არაბუნებრივი გვამი გაქრა.</LetterCorpseDisappeared>
+  <LetterCorpseDisappearedPawnAliveAppend>{PAWN_nameDef} იწყებს მშვიდად გრძნობას.</LetterCorpseDisappearedPawnAliveAppend>
+
+  <LetterLabelCorpseReappeared>გვამის გარეგნობა</LetterLabelCorpseReappeared>
+  <LetterCorpseReappeared>{PAWN_nameDef}-ის მსგავსი გვამი ისევ გამოჩნდა, თითქოს ჰაერიდან ამოვარდნილი.</LetterCorpseReappeared>
+  
+  <MessageCorpseEscaped>{PAWN_nameDef}-ის მსგავსი გვამი რატომღაც გამოვიდა მისი {CONTAINER_labelShort}-დან.</MessageCorpseEscaped>
+  <MessageUnnaturalCorpseResurrect>{PAWN_nameDef}-ის გაცოცხლება ვერ მოხერხდა. ის უბრალოდ არ პასუხობს.</MessageUnnaturalCorpseResurrect>
+  <MessagePawnFainted>არაბუნებრივმა გვამმა გამოიწვია {PAWN_nameDef}-ის დაღლილობა.</MessagePawnFainted>
+  <MessageAwokenReappeared>არაბუნებრივი გვამი {PAWN_nameDef}-თან გამოჩნდა და ახლოვდება!</MessageAwokenReappeared>
+  <MessageAwokenVanished>არაბუნებრივი გვამი გაქრა. ის მოგვიანებით მოვა {PAWN_nameDef}-ზე.</MessageAwokenVanished>
+  <MessageAwokenAttacking>გამოღვიძებული გვამი თავს ესხმის {PAWN_nameDef}-ს!</MessageAwokenAttacking>
+  <MessageAwokenKilledVictim>გაღვიძებულმა გვამმა გაანადგურა {PAWN_nameDef}-ის ტვინი.</MessageAwokenKilledVictim>
+  <MessageAwokenDisappeared>გაღვიძებული გვამი გაუჩინარდა.</MessageAwokenDisappeared>
+
+  <MentalBreakReason_MysteriousCorpse>ეს მოხდა არაბუნებრივი გვამის არსებობის გამო.</MentalBreakReason_MysteriousCorpse>
+
+  <UnnaturalCorpseStudyLetter>არაბუნებრივი გვამის შესწავლის პროგრესი</UnnaturalCorpseStudyLetter>
+  <UnnaturalCorpseStudyLetterDesc>თქვენმა გამოძიებამ არაბუნებრივი გვამის შესახებ უფრო მეტი გამოავლინა სხეულის შესახებ. არქოტექნიკური ნატეხი მის ბირთვში ფსიქიკურად აკავშირებს მას {VICTIM_nameDef}-თან. ის აღადგენს თავს, თუ განადგურდება და ტელეპორტირებს ნებისმიერ მანძილზე {VICTIM_nameDef}-ის მახლობლად. \n\n{RESEARCHER_nameDef} ფიქრობს, რომ შეიძლება არსებობდეს გვამის სამუდამოდ განადგურების გზა, მაგრამ მისი შემდგომი შესწავლა დასჭირდება.\n\nუფრო მეტი შეისწავლეთ გვამი, რომ ისწავლოთ მისი განადგურება.</UnnaturalCorpseStudyLetterDesc>
+
+  <UnnaturalCorpseStudyCompletedLetter>არაბუნებრივი გვამის შესწავლა დასრულებულია</UnnaturalCorpseStudyCompletedLetter>
+  <UnnaturalCorpseStudyCompletedLetterDesc>არაბუნებრივი გვამის თქვენმა გამოკვლევამ აჩვენა, თუ როგორ უნდა ამოიღოთ არქოტექნიკის ნატეხი უსაფრთხოდ. ამის გაკეთება შეაჩერებს მას {VICTIM_nameDef}-ის ფსიქიკურ ტანჯვას. თუმცა, ეს ასევე ხელს შეუშლის გვამის შემდგომ შესწავლას.</UnnaturalCorpseStudyCompletedLetterDesc>
+
+  <UnnaturalCorpseDeactivatedLetter>გვამის ნატეხი</UnnaturalCorpseDeactivatedLetter>
+  <UnnaturalCorpseDeactivatedLetterDesc>{PAWN_nameDef}-მა ამოიღო არქოტექნიკური ნატეხი არაბუნებრივი ცხედრიდან, შემდეგ გვამმა დაიწყო ძალადობრივი აფეთქება და ღორღში აფეთქდა.</UnnaturalCorpseDeactivatedLetterDesc>
+  <UnnaturalCorpseDeactivatedLetterDescAppended>{PAWN_nameDef} თავს უკვე უკეთ გრძნობს.</UnnaturalCorpseDeactivatedLetterDescAppended>
+  
+  <UnnaturalCorpseDeactivate>გაანადგურე არაბუნებრივი გვამი</UnnaturalCorpseDeactivate>
+  <UnnaturalCorpseDeactivateDesc>სამუდამოდ გაანადგურეთ არაბუნებრივი გვამი.</UnnaturalCorpseDeactivateDesc>
+  <UnnaturalCorpseGuiLabel>აირჩიე ვინ უნდა გაანადგუროს ეს.</UnnaturalCorpseGuiLabel>
+  <UnnaturalCorpseJobString>განადგურება</UnnaturalCorpseJobString>
+  <UnnaturalCorpseActivatingEnroute>{0}-ის განადგურება</UnnaturalCorpseActivatingEnroute>
+  <UnnaturalCorpseActivating>ანადგურებს {0}: {1}s</UnnaturalCorpseActivating>
+  
+  <UnnaturalCorpseAwakeningLetter>არაბუნებრივი გვამი</UnnaturalCorpseAwakeningLetter>
+  <UnnaturalCorpseAwakeningLetterDesc>{PAWN_nameDef} გრძნობს, რომ არაბუნებრივი გვამი სწრაფად იზრდება. რაღაც საშინელი ცნობიერება ციმციმებს მასში.\n\nრაღაც საშინელება მოხდება უახლოეს დღეებში.</UnnaturalCorpseAwakeningLetterDesc>
+  <UnnaturalCorpseAwakeningLetterExtra_StudyComplete>გაანადგურე გვამი, სანამ გვიან არ არის.</UnnaturalCorpseAwakeningLetterExtra_StudyComplete>
+  <UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>შეისწავლეთ გვამი, რომ ისწავლოთ მისი განადგურება.</UnnaturalCorpseAwakeningLetterExtra_StudyIncomplete>
+
+  <UnnaturalCorpseAwokenLetter>გვამი გაიღვიძა</UnnaturalCorpseAwokenLetter>
+  <UnnaturalCorpseAwokenLetterDesc>არაბუნებრივი გვამი დგება! ის აპირებს შეტევას {PAWN_nameDef}-ზე!\n\nცხედარი სამუდამოდ მიჰყვება {PAWN_nameDef}-ს, რაც არ უნდა შორს წავიდეს {PAWN_pronoun}.\n\nთქვენ უნდა გაანადგუროთ ის ახლავე.</UnnaturalCorpseAwokenLetterDesc>
+
+  <UnnaturalCorpseAwokenDefeatedLetter>განადგურდა არაბუნებრივი გვამი!</UnnaturalCorpseAwokenDefeatedLetter>
+  <UnnaturalCorpseAwokenDefeatedLetterDesc>{PAWN_nameDef}-ისკენ მიმავალი არაბუნებრივი გვამი დამარცხდა!\n\nცოტა აღარ დატანჯავს {PAWN_nameDef}-ს.</UnnaturalCorpseAwokenDefeatedLetterDesc>
+
+  
+  <MessageGoldenCubeSeverityIncreased>{PAWN_labelShort}-ის გატაცება ოქროს კუბით გაძლიერდა.</MessageGoldenCubeSeverityIncreased>
+  <MessageGoldenCubeWithdrawal>{PAWN_labelShort} განიცდის კუბის ამოღებას.</MessageGoldenCubeWithdrawal>
+  <MessageGoldenCubeWithdrawalIncreased>{PAWN_labelShort}-ის კუბის ამოღება გაუარესდა.</MessageGoldenCubeWithdrawalIncreased>
+  <MessageGoldenCubeInterest>{PAWN_labelShort} დაინტერესდა ოქროს კუბით.</MessageGoldenCubeInterest>
+  <MessageGoldenCubeSculptureDestroyed>{PAWN_labelShort} გაბრაზებულია, რომ {PAWN_possessive} კუბური ქანდაკება ამოიღეს. {PAWN_pronoun} შეიძლება გახდეს ძალადობრივი.</MessageGoldenCubeSculptureDestroyed>
+
+  <CannotDisableCube>{PAWN_labelShort} უარს ამბობს ოქროს კუბის დეაქტივაციაზე.</CannotDisableCube>
+  
+  <LetterLabelGoldenCubeComa>კუბური კომა: {PAWN_labelShort}</LetterLabelGoldenCubeComa>
+  <LetterGoldenCubeComa>{PAWN_labelShort}-ის კუბის ამოღებამ {PAWN_objective} კომაში ჩააგდო. {PAWN_pronoun} კომაში დარჩება მანამ, სანამ ოქროს კუბის ფსიქიკური რგოლი მთლიანად არ გაიფანტება.</LetterGoldenCubeComa>
+
+  <CubeDeactivationConfirmation>ოქროს კუბის გამორთვა გამოიწვევს კუბით დაინტერესებულ ნებისმიერ ადამიანს ძალადობრივ გაბრაზებულ რისხვაში. ქარავანებში კუბიკებით დაინტერესებული ნებისმიერი ადამიანი სამუდამოდ დაიკარგება.</CubeDeactivationConfirmation>
+  <CubeDeactivationConfirmationPawnsBerserk>შემდეგი ხალხი გაბრაზებულ რისხვაში მოხვდება</CubeDeactivationConfirmationPawnsBerserk>
+  <CubeDeactivationConfirmationPawnsLost>შემდეგი ხალხი გაიქცევა და დაიკარგება</CubeDeactivationConfirmationPawnsLost>
+  <CubeDeactivationConfirmationEnd>დარწმუნებული ხართ, რომ გსურთ გაგრძელება?</CubeDeactivationConfirmationEnd>
+  <CubeDeactivationBerserk>კუბის დეაქტივაცია</CubeDeactivationBerserk>
+  <CubeDeactivationBerserkDesc>{PAWN_labelShort}-მა წარმატებით გაანადგურა ოქროს კუბი. ფსიქიკურმა მათრახმა კოლონისტები გააფთრებულ რისხვაში ჩააგდო!</CubeDeactivationBerserkDesc>
+  <CubeDeactivationBerserkPawns>ეს ხალხი დროებით გაბრაზებულ რისხვაში შევიდა</CubeDeactivationBerserkPawns>
+  <CubeDeactivationLostPawns>ქარავნების ეს ხალხი გაბრაზებული გაიქცა</CubeDeactivationLostPawns>
+
+  <MentalBreakReason_CubeSculpting>ეს მოხდა {PAWN_possessive} კუბით გატაცების გამო.</MentalBreakReason_CubeSculpting>
+  
+  <CubeMaterialDirt>მიწა</CubeMaterialDirt>
+  <CubeMaterialStone>ქვა</CubeMaterialStone>
+  <CubeMaterialSand>ქვიშა</CubeMaterialSand>
+  <CubeMaterialScrap>ჯართი</CubeMaterialScrap>
+  
+  <ReportBuildingCubeEnroute>ქანდაკების აგება.</ReportBuildingCubeEnroute>
+  
+  
+  <MessageSlaughterNoFlesh>არ შეიძლება დაკვლა: {PAWN_labelShort}-ს ხორცი არ აქვს.</MessageSlaughterNoFlesh>
+  <MessageSlaughterTooBig>არ შეიძლება დაკვლა: {PAWN_labelShort} ძალიან დიდია.</MessageSlaughterTooBig>
+  
+  
+  <GeneratingLabyrinth>ლაბირინთში შესვლა</GeneratingLabyrinth>
+  <MessagePawnVanished>{PAWN_nameDef} გაქრა.</MessagePawnVanished>
+  <MessagePawnReappeared>{PAWN_nameDef} კვლავ გამოჩნდა.</MessagePawnReappeared>
+  
+  <FloorEtchingsInspectorExit>გასასვლელი მიმართულება</FloorEtchingsInspectorExit>
+  
+  <LetterLabelObeliskDiscovered>დახრილი ობელისკი</LetterLabelObeliskDiscovered>
+  <LetterObeliskDiscovered>{PAWN_nameDef}-მა დიდი ობელისკი აღმოაჩინა. ის თითქმის იდენტურია იმის, ვინც თავდაპირველად {PAWN_objective} მოიტანა აქ. შესაძლოა, ის გააქტიურდეს {PAWN_objective}-ის სახლში დასაბრუნებლად.\n\nაირჩიეთ {PAWN_nameDef} და დააწკაპუნეთ მარჯვენა ღილაკით ობელისკზე მის გასააქტიურებლად.</LetterObeliskDiscovered>
+  
+  <LetterLabelFloorEtchings>იატაკის ოქროვები</LetterLabelFloorEtchings>
+  <LetterFloorEtchings>{PAWN_nameDef}-მა მოახერხა იატაკის ოქროვების გაშიფვრა.\n\n{RAMBLINGS}\n\nისინი, როგორც ჩანს, მიუთითებენ, რომ გასასვლელი არის სადღაც {DIRECTION} აქ.</LetterFloorEtchings>
+
+  <LetterLabelFloorEtchingRamblings>იატაკის ოქროვები</LetterLabelFloorEtchingRamblings>
+  <LetterFloorEtchingsRamblings>{PAWN_nameDef}-მა მოახერხა იატაკის ოქროვების გაშიფვრა.</LetterFloorEtchingsRamblings>
+
+  <LetterLabelLabyrinthExit>კოლონისტები დაბრუნდნენ</LetterLabelLabyrinthExit>
+  <LetterLabyrinthExit>მორევმა ობელისკმა დააბრუნა თქვენი გატაცებული კოლონისტები. ამის შემდეგ მალევე ის ჰაერში გაქრა.\n\nფრთხილად იყავით, ობელისკი შესაძლოა სხვა არსებებიც დაბრუნდეს.</LetterLabyrinthExit>
+
+  <GrayDoorJammed>გაჭედილი დახურა. იძულებით უნდა გახსნას.</GrayDoorJammed>
+  <ActivatedByProximity>გააქტიურებულია სიახლოვით.</ActivatedByProximity>
+
+  
+  <MonolithActivateDisabledPawns>არ არის ხელმისაწვდომი პაიკები.</MonolithActivateDisabledPawns>
+  <VoidMonolithInvestigatedText>მონოლითის მუქი მეტალის ზედაპირი შეხებისას თბილია და {PAWN_nameDef} ფიქრობს, რომ {PAWN_pronoun}-ს შეუძლია შიგნიდან სუსტი გუგუნის მოსმენა. მის მტვრიან ზედაპირზე ხაზები, როგორც ჩანს, შემაშფოთებელი ფორმირებით იბნევა.\n\n{PAWN_nameDef} ყურადღებას ამახვილებს ფორმებზე და ცდილობს მათი მნიშვნელობის გამოვლენას.\n\nგუგუნი ძლიერდება. ფორმები იწყებენ დინებას {PAWN_nameDef}-ის ხედვაში, მაგრამ ზედაპირი არ იცვლება. ირგვლივ ცარიელ სივრცეში სიმძლავრე იწყებს გაშლას. შავი ფორმა ყალიბდება {PAWN_possessive} გონებაში.\n\nანომალია აღვივებს...</VoidMonolithInvestigatedText>
+  <VoidMonolithInvestigate>გააგრძელეთ ყურადღება ანომალიაზე</VoidMonolithInvestigate>
+  <VoidMonolithWalkAway>მოშორდით</VoidMonolithWalkAway>
+  <VoidMonolithViewQuest>ქვესტის ნახვა</VoidMonolithViewQuest>
+  <VoidMonolithViewResearch>ანომალიის კვლევის ნახვა</VoidMonolithViewResearch>
+  <CurrentMonolithLevel>ამჟამინდელი მონოლითური დონე</CurrentMonolithLevel>
+  <VoidMonolithUndiscovered>გაგზავნეთ კოლონისტი ამის გამოსაძიებლად.</VoidMonolithUndiscovered>
+  <VoidMonolithRequiredEntityCategory>მონოლითის შემდეგ ეტაპზე გადასასვლელად, თქვენ უნდა აღმოაჩინოთ {0} {1} დონის ერთეულები.</VoidMonolithRequiredEntityCategory>
+  <DiscoveredCount>აღმოჩენილი: {0}</DiscoveredCount>
+  <VoidMonolithAllEntitiesDiscovered>ნაპოვნია საჭირო პირები.</VoidMonolithAllEntitiesDiscovered>
+  <VoidMonolithRequiresDiscovery>საჭიროა დონის ამაღლება</VoidMonolithRequiresDiscovery>
+  <VoidMonolithRequiresDiscoveryShort>აღმოჩენილი პირები</VoidMonolithRequiresDiscoveryShort>
+  <VoidMonolithRequiresCategory>უნდა აღმოაჩინოს {0} მეტი {1} მონოლითური ერთეულები.</VoidMonolithRequiresCategory>
+  <VoidMonolithVisionLabel>შემაშფოთებელი ხედვა</VoidMonolithVisionLabel>
+  <VoidMonolithVisionText>{PAWN_nameDef}-მა უცნაური სიზმარი ნახა. მასში {PAWN_pronoun}-მა დაინახა შავი ფორმა, რომელიც იშლებოდა სივრცეში და დროში, იზრდებოდა და მოიხმარდა. ფორმა წარმოიშვა ახლომდებარე დანგრეული მონოლითიდან.\n\nმხედველობიდან გაღვიძებისთანავე {PAWN_nameDef} უცნაურად იზიდავს მონოლითს. ის ურეკავს {PAWN_objective}-ს.</VoidMonolithVisionText>
+  <VoidMonolithChooseActivator>აირჩიე ვინ უნდა გააკეთოს ეს</VoidMonolithChooseActivator>
+  <VoidMonolithActivatorDowned>სამიზნე ჩამოგდებულია</VoidMonolithActivatorDowned>
+  <VoidMonolithActivatorMentalState>სამიზნე ფსიქიკურ მდგომარეობაში</VoidMonolithActivatorMentalState>
+  <VoidMonolithActivatorBusy>სამიზნე დაკავებულია</VoidMonolithActivatorBusy>
+  <VoidMonolithActivatorIncapable>სამიზნე უუნაროა</VoidMonolithActivatorIncapable>
+  <MonolithArrivalLabel>მონოლითური ჩამოსვლა</MonolithArrivalLabel>
+  <MonolithArrivalText>ფსიქიკურ სიგნალთან ურთიერთქმედებამ გამოიწვია უცნაური სტრუქტურის გამოჩენა.</MonolithArrivalText>
+  <MonolithArrivalTextExt>ის ძალიან ჰგავს, თუ არა იდენტური, მონოლითს, რომელიც ადრე შეგხვდათ.</MonolithArrivalTextExt>
+  <CantActivateMonolith>არ შეიძლება {0} მონოლითი</CantActivateMonolith>
+
+  <MonolithTwistingAlert>მონოლითის გრეხილი</MonolithTwistingAlert>
+  <MonolithTwistingExplanation>თქვენმა ყოფნამ გამოიწვია მონოლითის გადახვევა და მორფობა. მალე პროცესი დასრულდება. იყავით მზად ყველაფრისთვის, რაც შემდეგ მოხდება.</MonolithTwistingExplanation>
+  <MonolithAutoActivatingLabel>ჩამოვარდნილი მონოლითი</MonolithAutoActivatingLabel>
+  <MonolithAutoActivatingText>შიშის ტალღა გადადის თქვენს კოლონისტებზე. დაცემულმა მონოლითმა აჟიოტაჟი დაიწყო. ნელ-ნელა ის იწყებს თავის დახვევას და გადაწყობას, გარდაიქმნება რაღაც ახალში.\n\nპროცესი რამდენიმე დღეში დასრულდება. იყავით მზად ყველაფრისთვის, რაც შემდეგ მოხდება.</MonolithAutoActivatingText>
+  <MonolithAutoActivatedLabel>ბათილი მონოლითი</MonolithAutoActivatedLabel>
+  <MonolithAutoActivatedText>მონოლითის ტრანსფორმაცია თითქმის დასრულებულია...</MonolithAutoActivatedText>
+
+  <LetterLabelGrayPallDescending>ნაცრისფერი ფერმკრთალი</LetterLabelGrayPallDescending>
+  <LetterGrayPallDescending>ამ მხარეში ბურუსიანი ნისლის საბანი ჩამოვიდა. ნისლს ძველებური სუნი ასდის, რატომღაც და კანს სტკივა. მისი არაბუნებრივი ნაცრისფერი შიშის გრძნობას იწვევს.</LetterGrayPallDescending>
+
+  
+  <VoidAwakeningConfirmationText>სიცარიელე მონოლითის გაღვიძება თქვენს კოლონიას დღეების განმავლობაში სიბნელეში ჩაეფლო და მიიზიდავს ძლიერ პირებს. დარწმუნდით, რომ კარგად ხართ მომზადებული:\n\n- მოაგროვეთ საკვები, სამშენებლო მასალა და იარაღი.\n- დარწმუნდით, რომ თქვენი კოლონია კარგად არის განათებული და აქვს საკმარისი ძალა. მოერიდეთ მზის გენერატორებზე დაყრას.\n- დარწმუნდით, რომ თქვენი კოლონია კარგად არის დაცული და თქვენი კოლონისტები მზად არიან საბრძოლველად.\n\nროგორც კი გააღვიძებთ ცარიელ მონოლიტს, უკან დაბრუნება აღარ გაქვთ.\n\nდარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?</VoidAwakeningConfirmationText>
+  <VoidNodeLetter>მღელვარე ფსიქიკური ენერგიის სფერო {PAWN_nameDef}-მდე იზრდება.\n\n{PAWN_nameDef} გრძნობს ყოფნას {PAWN_possessive} გონებაში, უფრო ღრმა, ვიდრე ნებისმიერი ნორმალური ადამიანის გრძნობა. {PAWN_pronoun} დგას ძალაუფლების უსასრულო შავი ოკეანის სანაპიროზე. ის უხმობს {PAWN_objective}-ს...\n\nმიმდებარე არქოტექნიკური მოწყობილობები მხარს უჭერენ სფეროს მყიფე კავშირების გასწვრივ. {PAWN_nameDef}-მა შეიძლება გააფუჭოს ისინი, დახუროს ეს კავშირი სამყაროებს შორის.\n\nან, {PAWN_pronoun}-მა შეიძლება შეაბიჯოს სფეროში და გაერთიანდეს სიცარიელესთან. უცნობია, რა ბნელი ძალა შეიძლება მოიპოვოს ასეთი არაადამიანური ქმედებით.</VoidNodeLetter>
+  <VoidNodeDisrupt>გააფუჭეთ ბმული</VoidNodeDisrupt>
+  <VoidNodeEmbrace>მოეხვიე სიცარიელეს</VoidNodeEmbrace>
+  <VoidNodePostpone>გადავადება</VoidNodePostpone>
+  <DisruptTheLinkCredits>ფსიქიკური ნაკადები დესტაბილიზაციას განიცდის და გრეხილი მანქანა ყვირის. მბრუნავი სიცარიელე ციმციმებს. {PAWN_nameDef} გრძნობს, რომ ის კანკალებს და იშლება საკუთარ თავში.\n\nმეტალის გამოქვაბული იწყებს ტრიალს და მასიური გულის კამერას ჰგავს. სანამ {PAWN_nameDef}-ს ყვირილი ექნება, {PAWN_pronoun} აციმციმდება.\n\n{PAWN_nameDef}-მა უარყო სიცარიელე.\n\n{PAWN_possessive} ამბავი გრძელდება...</DisruptTheLinkCredits>
+  <EmbraceTheVoidCredits>{PAWN_nameDef} სიცარიელეში გადადის და შავი ოკეანე იტბორება {PAWN_objective}-ში, აჭარბებს ყოველგვარ გრძნობას, ავსებს ყველა აზრს {PAWN_possessive}-ის გონებაში.\n\nბათა კვანძი ხელახლა ფოკუსირებულია სამყაროდან მოშორებით, ერთი ადამიანისკენ. სიცარიელე სტრუქტურები ყვირიან, შემდეგ აციმციმებენ.\n\n{PAWN_nameDef}-მა მოიცვა სიცარიელე.\n\n{PAWN_possessive} ამბავი გრძელდება...</EmbraceTheVoidCredits>
+  <StructureActivatedMessage>{PAWN_nameDef}-მა დაასრულა {STRUCTURE_definite}-ის გააქტიურება</StructureActivatedMessage>
+  <StructuresActivatedAlertLabel>სტრუქტურები გააქტიურებულია</StructuresActivatedAlertLabel>
+  <StructuresActivatedAlertDescription>გაააქტიურეთ სიცარიელე სტრუქტურები მონოლითური გამოღვიძების დასასრულებლად.</StructuresActivatedAlertDescription>
+  <GleamingMonolithInterrupted>{PAWN_nameDef}-ის კავშირი ბათილ მონოლითთან გატეხილია. ის კვლავ უნდა გააქტიურდეს.</GleamingMonolithInterrupted>
+
+  
+  <IncreasesChanceOfLovin>ზრდის სიყვარულის შანსს`</IncreasesChanceOfLovin>
+
+  <UnnaturalCorpse>არაბუნებრივი {0_label} გვამი</UnnaturalCorpse>
+
+  
+  <KnowledgeFactorOutdoors>შემცირდა სწავლიდან მიღებული ცოდნა</KnowledgeFactorOutdoors>
+
+  
+  <EmergenceIn>გაჩენა {0}-ში</EmergenceIn>
+  <EmergenceInDesc>რაღაც გაჩნდება მიწიდან {0}-ში.</EmergenceInDesc>
+  
+  
+  <BioferriteHarvesterContained>შეიცავს ბიოფერიტს</BioferriteHarvesterContained>
+  <BioferriteHarvesterPerDay>დღეში</BioferriteHarvesterPerDay>
+  <BioferriteHarvesterEjectContents>შინაარსის ამოღება</BioferriteHarvesterEjectContents>
+  <BioferriteHarvesterEjectContentsDesc>ყველა შემცველი {0}-ის ამოღება მიწაზე.</BioferriteHarvesterEjectContentsDesc>
+  <BioferriteHarvesterToggleUnloading>ბიოფერიტის გადმოტვირთვის ჩართვა</BioferriteHarvesterToggleUnloading>
+  <BioferriteHarvesterToggleUnloadingDesc>როდესაც აქტიურია, კოლონისტები ავტომატურად განტვირთავენ ბიოფერიტს მოსავლის აღებისას, როდესაც ის ავსებს.</BioferriteHarvesterToggleUnloadingDesc>
+  
+  
+  <ProximityDetectorCreatureDetected>აღმოჩენილია უხილავი არსება.</ProximityDetectorCreatureDetected>
+  
+  
+  <FrenzyInducerEffectDescription>წარმოქმნის სიგიჟის ველს.</FrenzyInducerEffectDescription>
+  <MentalBreakReason_FrenzyInducer>ეს მოხდა სიგიჟის გამომწვევის გავლენის გამო.</MentalBreakReason_FrenzyInducer>
+  
+  
+  <SleepSuppressorEffectDescription>უძილო ფსიქიკური პულსაცია.</SleepSuppressorEffectDescription>
+  
+  
+  <DigestedBy>შეიწოვება {0_labelShort}-ით.</DigestedBy>
+
+  
+  <MessageChimeraModeChangeSingular>ქიმერა არის {0}</MessageChimeraModeChangeSingular>
+  <MessageChimeraModeChangePlural>ქიმერები არის {0}</MessageChimeraModeChangePlural>
+  <MessageChimeraWithdrawing>დროებით გაყვანა.</MessageChimeraWithdrawing>
+
+  <LetterChimerasAttackingLabel>ქიმერები უტევს</LetterChimerasAttackingLabel>
+  <LetterChimerasAttacking>ქიმერებმა შეტევა დაიწყეს!</LetterChimerasAttacking>
+  
+  
+  <AnomalyFrequency_None>არანაირი სერიოზული საფრთხე</AnomalyFrequency_None>
+  <AnomalyFrequency_VeryRare>ძალიან იშვიათი</AnomalyFrequency_VeryRare>
+  <AnomalyFrequency_Rare>იშვიათი</AnomalyFrequency_Rare>
+  <AnomalyFrequency_Balanced>დაბალანსებული</AnomalyFrequency_Balanced>
+  <AnomalyFrequency_Intense>ინტენსიური</AnomalyFrequency_Intense>
+  <AnomalyFrequency_Overwhelming>გასაოცარი</AnomalyFrequency_Overwhelming>
+  
+  <SecurityDoorsOnly>მხოლოდ უსაფრთხოების კარები</SecurityDoorsOnly>
+  
+</LanguageData>

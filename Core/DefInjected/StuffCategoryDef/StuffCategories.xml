@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fabric.label>ქსოვილი</Fabric.label>
+  <Fabric.noun>ქსოვილი</Fabric.noun>
+  <Leathery.label>ტყავისებური</Leathery.label>
+  <Leathery.noun>ტყავი</Leathery.noun>
+  <Metallic.label>მეტალიკი</Metallic.label>
+  <Metallic.noun>ლითონის</Metallic.noun>
+  <Stony.label>ქვიანი</Stony.label>
+  <Stony.noun>ქვა</Stony.noun>
+  <Woody.label>ვუდი</Woody.label>
+  <Woody.noun>ხის</Woody.noun>
+</LanguageData>

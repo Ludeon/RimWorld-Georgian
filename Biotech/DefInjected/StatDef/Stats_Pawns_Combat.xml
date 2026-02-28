@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeleeDoorDamageFactor.description>სპეციალური მულტიპლიკატორი კარებზე მიყენებული მელეის დაზიანების ოდენობაზე.</MeleeDoorDamageFactor.description>
+  <MeleeDoorDamageFactor.label>შერეული კარის დაზიანების ფაქტორი</MeleeDoorDamageFactor.label>
+  <ShootingAccuracyChildFactor.label>სროლის სიზუსტის მულტიპლიკატორი</ShootingAccuracyChildFactor.label>
+</LanguageData>

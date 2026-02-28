@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <Dark>მუქი</Dark>
+  <Lit>განათებული</Lit>
+  <LitBrightly>კაშკაშა განათებული</LitBrightly>
+
+  
+  <PriceTypeVeryCheap>ძალიან იაფად</PriceTypeVeryCheap>
+  <PriceTypeCheap>იაფი</PriceTypeCheap>
+  <PriceTypeNormal>ჩვეულებრივი</PriceTypeNormal>
+  <PriceTypeExpensive>ძვირი</PriceTypeExpensive>
+  <PriceTypeExorbitant>ძალიან ძვირი</PriceTypeExorbitant>
+
+  
+  <StoragePriorityUnstored>შეუნახავი</StoragePriorityUnstored>
+  <StoragePriorityLow>დაბალი</StoragePriorityLow>
+  <StoragePriorityNormal>ჩვეულებრივი</StoragePriorityNormal>
+  <StoragePriorityPreferred>სასურველი</StoragePriorityPreferred>
+  <StoragePriorityImportant>მნიშვნელოვანი</StoragePriorityImportant>
+  <StoragePriorityCritical>კრიტიკული</StoragePriorityCritical>
+
+  
+  <FoodTypeFlags_VegetableOrFruit>ბოსტნეული</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>უმი ხორცი</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>გვამები</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seed>თესლი</FoodTypeFlags_Seed>
+  <FoodTypeFlags_AnimalProduct>ცხოველური პროდუქტები</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>ცოცხალი მცენარეები</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>ცოცხალი ხეები</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>კვება</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>გადამუშავებული საკვები</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>სასმელი</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>საკვები</FoodTypeFlags_Kibble>
+
+  
+  <QualityCategory_Awful>საშინელი</QualityCategory_Awful>
+  <QualityCategory_Poor>ცუდი</QualityCategory_Poor>
+  <QualityCategory_Normal>ჩვეულებრივი</QualityCategory_Normal>
+  <QualityCategory_Good>კარგი</QualityCategory_Good>
+  <QualityCategory_Excellent>შესანიშნავი</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>შედევრი</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>ლეგენდარული</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>საშ.</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Poor>ცუდ.</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>ჩვეუ.</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>კარგ.</QualityCategoryShort_Good>
+  <QualityCategoryShort_Excellent>შეს</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>შედ.</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>ლეგ.</QualityCategoryShort_Legendary>
+  
+  
+  <HungerLevel_Starving>შიმშილი</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>სასწრაფოდ მშია</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>მშიერი</HungerLevel_Hungry>
+  <HungerLevel_Fed>მაძღ.</HungerLevel_Fed>
+
+  
+  <HungerLevel_Exhausted>დამქანცული</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>ძალიან დაღლილი</HungerLevel_VeryTired>
+  <HungerLevel_Tired>დაღლილი</HungerLevel_Tired>
+  <HungerLevel_Rested>დასვენებული</HungerLevel_Rested>
+
+  
+  <Hilliness_Flat>ბრტყელი</Hilliness_Flat>
+  <Hilliness_SmallHills>პატარა ბორცვები</Hilliness_SmallHills>
+  <Hilliness_LargeHills>დიდი ბორცვები</Hilliness_LargeHills>
+  <Hilliness_Mountainous>მთიანი</Hilliness_Mountainous>
+  <Hilliness_Impassable>გაუვალი</Hilliness_Impassable>
+  
+  
+  <WorkshopInteractStage_CreatingItem>შექმნა</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>გაგზავნა</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>არასწორი</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>კონფიგურაციის მონაცემების მომზადება</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>შინაარსის ფაილების მომზადება</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>შინაარსის ატვირთვა</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>გადახედვის ფაილის ატვირთვა</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>ცვლილებების დადება</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  
+  <ContentSource_OfficialModsFolder>ოფიციალური შინაარსი</ContentSource_OfficialModsFolder>
+  <ContentSource_ModsFolder>ლოკალური საქაღალდე</ContentSource_ModsFolder>
+  <ContentSource_SteamWorkshop>ორთქლის სახელოსნო</ContentSource_SteamWorkshop>
+  
+  
+  <MedicalCareCategory_NoCare>არანაირი სამედიცინო დახმარება</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>ექიმი ზრუნავს, მაგრამ არა წამალი</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>მცენარეული წამალი ან უარესი</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>სამრეწველო-ტექნოლოგიური მედიცინა ან უარესი</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>საუკეთესო ხარისხის წამალი</MedicalCareCategory_Best>
+
+  
+  <HostilityResponseMode_Ignore>უგულებელყოფა</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>შეტევა</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>გაქცევა</HostilityResponseMode_Flee>
+  
+  
+  <HediffGrowthMode_Growing>ზრდა</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>სტაბილური</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>რემისია</HediffGrowthMode_Remission>
+
+  
+  <TechLevel_Animal>ცხოველური</TechLevel_Animal>
+  <TechLevel_Neolithic>ნეოლითური</TechLevel_Neolithic>
+  <TechLevel_Medieval>შუა საუკუნეების</TechLevel_Medieval>
+  <TechLevel_Industrial>სამრეწველო</TechLevel_Industrial>
+  <TechLevel_Spacer>კოსმოსური</TechLevel_Spacer>
+  <TechLevel_Ultra>ულტრა</TechLevel_Ultra>
+  <TechLevel_Archotech>არქოტექ</TechLevel_Archotech>
+
+  
+  <PlayerPawnsArriveMethod_Standing>ფეხზე</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>ჩამოაგდეთ ღვეზელები</PlayerPawnsArriveMethod_DropPods>
+
+  
+  <PawnGenerationContext_All>ყველა პერსონაჟი</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>მოთამაშის საწყისი პერსონაჟები</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>არამოთამაშის პერსონაჟები</PawnGenerationContext_NonPlayer>
+
+  
+  <ScreenShakeIntensity>ეკრანის რყევის ინტენსივობა</ScreenShakeIntensity>
+  
+  
+  <ShowAnimalNames>ცხოველების სახელების ჩვენება</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>მოთმინება (მხოლოდ დასახელებული)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>მოთვინიერება (ყველა)</AnimalNameDisplayMode_TameAll>
+
+  
+  <DotHighlightDisplayMode>პერსონაჟების ხაზგასმა</DotHighlightDisplayMode>
+  <DotHighlightDisplayMode_HighlightHostiles>მონიშნეთ მტრები</DotHighlightDisplayMode_HighlightHostiles>
+  <DotHighlightDisplayMode_HighlightAll>მონიშნეთ ყველა</DotHighlightDisplayMode_HighlightAll> 
+  
+  
+  <HighlightStyleMode>მონიშვნის რეჟიმი</HighlightStyleMode>
+  <HighlightStyleMode_Dots>წერტილები</HighlightStyleMode_Dots>
+  <HighlightStyleMode_Silhouettes>სილუეტები</HighlightStyleMode_Silhouettes> 
+
+  
+  <VisibleMood>თვალსაჩინო განწყობა</VisibleMood>
+  <VisibleMoodDesc>როდესაც ჩართულია, აჩვენებს ვიზუალურ ინდიკატორს პერსონაჟის პორტრეტზე, როდესაც მას გონებრივი შესვენების საფრთხე ემუქრება.</VisibleMoodDesc>
+  
+  
+  <ShowMechNames>მოთამაშის მექანიკური სახელების ჩვენება</ShowMechNames>
+  <MechNameDisplayMode_WhileDrafted>შედგენისას</MechNameDisplayMode_WhileDrafted>
+  <MechNameDisplayMode_Always>ყოველთვის</MechNameDisplayMode_Always>
+
+  
+  <ShowWeaponsUnderPortrait>იარაღი პორტრეტის ქვემოთ</ShowWeaponsUnderPortrait>
+  <ShowWeaponsUnderPortraitTooltip>აჩვენეთ იარაღი თითოეული ადამიანის პორტრეტის ქვემოთ კოლონისტის ზოლზე ეკრანის ზედა ნაწილში</ShowWeaponsUnderPortraitTooltip>
+  <ShowWeapons_Always>ყოველთვის</ShowWeapons_Always>
+  <ShowWeapons_WhileDrafted>შედგენისას</ShowWeapons_WhileDrafted>
+
+  
+  <Celsius>ცელსიუსი</Celsius>
+  <Fahrenheit>ფარენჰეიტი</Fahrenheit>
+  <Kelvin>კელვინი</Kelvin>
+  
+  
+  <Direction8Way_North_Short>N</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>NE</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>E</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>SE</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>S</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>SW</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>W</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>NW</Direction8Way_NorthWest_Short>
+  
+  
+  <DietCategory_NeverEats>არასოდეს ჭამს</DietCategory_NeverEats>
+  <DietCategory_Herbivorous>მწვანილისმჭამელი</DietCategory_Herbivorous>
+  <DietCategory_Dendrovorous>ხეების მჭამელი</DietCategory_Dendrovorous>
+  <DietCategory_Ovivorous>კვერცხისმჭამელი</DietCategory_Ovivorous>
+  <DietCategory_Omnivorous>ყველაფრისმჭამელი</DietCategory_Omnivorous>
+  <DietCategory_Carnivorous>ხორცისმჭამელი</DietCategory_Carnivorous>
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <DietCategory_Herbivorous_Short>H</DietCategory_Herbivorous_Short>
+  <DietCategory_Dendrovorous_Short>D</DietCategory_Dendrovorous_Short>
+  <DietCategory_Ovivorous_Short>Ov</DietCategory_Ovivorous_Short>
+  <DietCategory_Omnivorous_Short>O</DietCategory_Omnivorous_Short>
+  <DietCategory_Carnivorous_Short>C</DietCategory_Carnivorous_Short>
+
+  
+  <FoodPoisonCause_IncompetentCook>არაკომპეტენტური მზარეული</FoodPoisonCause_IncompetentCook>
+  <FoodPoisonCause_FilthyKitchen>ბინძური სამზარეულოს ადგილი</FoodPoisonCause_FilthyKitchen>
+  <FoodPoisonCause_Rotten>დამპალი საკვები</FoodPoisonCause_Rotten>
+  <FoodPoisonCause_DangerousFoodType>საშიში ტიპის საკვები</FoodPoisonCause_DangerousFoodType>
+
+  
+  <PsychicDroneLevel_None>არ არის</PsychicDroneLevel_None>
+  <PsychicDroneLevel_GoodMedium>საშუალო</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_BadLow>დაბალი</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadMedium>საშუალო</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadHigh>მაღალი</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadExtreme>უკიდურესი</PsychicDroneLevel_BadExtreme>
+  
+  
+  <AutomaticPauseMode_Never>არასდროს</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_MajorThreat>ძირითადი საფრთხეები</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_AnyThreat>ნებისმიერი მუქარა</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyLetter>ნებისმიერი წერილი</AutomaticPauseMode_AnyLetter>
+
+  
+  <PainCategory_LowPain>ქავილი</PainCategory_LowPain>
+  <PainCategory_MediumPain>ტკივილი</PainCategory_MediumPain>
+  <PainCategory_HighPain>მძიმე ტკივილი</PainCategory_HighPain>
+  
+  
+  <ExtraFactionType_HomeFaction>სახლის ფრაქცია</ExtraFactionType_HomeFaction>
+  <ExtraFactionType_HostFaction>დისტანციური მასპინძელი ფრაქცია</ExtraFactionType_HostFaction>
+  <ExtraFactionType_MiniFaction>ჯგუფი</ExtraFactionType_MiniFaction>
+
+  
+  <DrugCategory>ნარკოტიკების კატეგორია</DrugCategory>
+  <DrugCategory_None>არ არის</DrugCategory_None>
+  <DrugCategory_Medical>სამედიცინო</DrugCategory_Medical>
+  <DrugCategory_Social>სოციალური</DrugCategory_Social>
+  <DrugCategory_Hard>ძლიერი</DrugCategory_Hard>
+  <DrugCategory_Any>ნებისმიერი</DrugCategory_Any>
+  
+</LanguageData>

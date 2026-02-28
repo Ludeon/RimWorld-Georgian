@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodWarmer.description>A special bioferrite prosthetic that actively heats a ghoul's blood, allowing it to survive in cold environments. The prosthetic replaces a ghoul's kidney, heating the blood as it passes through.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement.</BloodWarmer.description>
+  <BloodWarmer.label>სისხლის გამათბობელი</BloodWarmer.label>
+  <PilotAssistant.description>ნერვული ინტერფეისი, რომელიც აკავშირებს პილოტის ტვინს პირდაპირ მანქანასთან, აძლიერებს პილოტის კონტროლს და რეაქციის სიჩქარეს. უბრალოდ არ იფიქრო ავარიაზე.</PilotAssistant.description>
+  <PilotAssistant.label>პილოტის ასისტენტი</PilotAssistant.label>
+  <VacskinGland.description>ეს ბიონიკური ჯირკვალი ათავისუფლებს ცვილისებრ ნივთიერებას, რომელიც ქმნის საიზოლაციო ბარიერს კანზე, ხელს უშლის ვაკუუმურ დამწვრობას, მაგრამ ზღუდავს მოძრაობას. ჯირკვალი ასევე არეგულირებს სისხლში ჟანგბადის დონეს, რაც საშუალებას იძლევა უფრო დიდხანს გადარჩეს სივრცის ვაკუუმში.</VacskinGland.description>
+  <VacskinGland.label>ვაკსკანის ჯირკვალი</VacskinGland.label>
+</LanguageData>

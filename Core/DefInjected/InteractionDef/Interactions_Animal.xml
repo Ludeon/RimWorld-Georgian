@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalChat.label>ცხოველების ჩატი</AnimalChat.label>
+  <Nuzzle.label>ნუზლი</Nuzzle.label>
+  <ReleaseToWild.label>გათავისუფლება ველურში</ReleaseToWild.label>
+  <TameAttempt.label>მოთვინიერების მცდელობა</TameAttempt.label>
+  <TrainAttempt.label>მატარებლის მცდელობა</TrainAttempt.label>
+</LanguageData>

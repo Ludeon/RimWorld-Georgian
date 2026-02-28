@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_AncientArmoredTurret.label>უძველესი დამცველის კოშკის ტყვია</Bullet_AncientArmoredTurret.label>
+  <Gun_AncientArmoredTurret.description>მარტივი ავტომატური იარაღი, რომელიც დამზადებულია კოშკზე დასამაგრებლად.</Gun_AncientArmoredTurret.description>
+  <Gun_AncientArmoredTurret.label>უძველესი დამცველის კოშკის იარაღი</Gun_AncientArmoredTurret.label>
+  <Turret_AncientArmoredTurret.description>ჯავშნიანი უსაფრთხოების კოშკი, რომელიც შეიცავს გრძელვადიან ბატარეას.</Turret_AncientArmoredTurret.description>
+  <Turret_AncientArmoredTurret.label>უძველესი დამცველის კოშკი</Turret_AncientArmoredTurret.label>
+</LanguageData>

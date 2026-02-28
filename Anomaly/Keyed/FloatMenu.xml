@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <NoEmptyEntityHolders>ცარიელი დანიშნულების ადგილი არ არის</NoEmptyEntityHolders>
+  <ChooseEntityHolder>აირჩიეთ შეკავების დანიშნულება</ChooseEntityHolder>
+  <FloatMenuContainmentStrength>შეკავების ძალა</FloatMenuContainmentStrength>
+  <FloatMenuContainmentRequires>{0_label} მოითხოვს</FloatMenuContainmentRequires>
+  <EntityHolderReservedBy>დაჯავშნა</EntityHolderReservedBy>
+
+  <TalkTo>ესაუბრეთ {0_nameDef}-ს</TalkTo>
+  <CannotTalkTo>არ შემიძლია {0_nameDef}-თან საუბარი</CannotTalkTo>
+  <ZeroSuppressionRate>დათრგუნვის უუნარო</ZeroSuppressionRate>
+  <CannotStandNear>გვერდით ვერ დგას</CannotStandNear>
+
+  <ExtractBioferrite>ამონაწერი {0}-დან</ExtractBioferrite>
+  <BioferriteAlreadyExtracted>ბიოფერიტის აღმდგენი</BioferriteAlreadyExtracted>
+
+</LanguageData>

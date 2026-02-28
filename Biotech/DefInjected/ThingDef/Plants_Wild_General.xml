@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChoppedStump_Polluted.description>დაბინძურებული ხის მოჭრის შემდეგ დარჩენილი ღერო. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ ხეს იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</ChoppedStump_Polluted.description>
+  <ChoppedStump_Polluted.label>დაჭრილი ღერო</ChoppedStump_Polluted.label>
+  <Plant_GrayGrass.description>ნაცრისფერი ბალახი ეხება ველური ტოქსინებისადმი ადაპტირებული ბალახის მრავალ სახეობას. ის იზრდება ყველგან, სადაც არის მინიმალური ნაყოფიერი დაბინძურებული ნიადაგი და კლიმატი არ არის აბსოლუტური მტრული.</Plant_GrayGrass.description>
+  <Plant_GrayGrass.label>ნაცრისფერი ბალახი</Plant_GrayGrass.label>
+  <Plant_PebbleCactus.description>პატარა კაქტუსი, რომელიც წააგავს კენჭების მტევანს. ის შეიძლება გაიზარდოს მხოლოდ დაბინძურებულ ადგილზე. მოსავლის აღებისას ხის ბოჭკოს მიზერულ რაოდენობას იძლევა.</Plant_PebbleCactus.description>
+  <Plant_PebbleCactus.label>კენჭის კაქტუსი</Plant_PebbleCactus.label>
+  <Plant_RatPalm.description>პალმის ხის მსგავსი ხე მკვრივი ზედაპირის ფესვებით. ის შეიძლება გაიზარდოს მხოლოდ დაბინძურებულ ადგილზე. მოსავლის აღებისას მწირი მერქანი იძლევა.</Plant_RatPalm.description>
+  <Plant_RatPalm.label>ვირთხის პალმის ხე</Plant_RatPalm.label>
+  <Plant_Ripthorn.description>მოკლე ტოქსინებისადმი ადაპტირებული ბუჩქი, რომელიც ჰგავს ეკლიანი ტოტების მკვრივ, ხისტ ხახვს. ძნელია გადაადგილება, ის ანელებს მასზე გადაადგილებას. ის შეიძლება გაიზარდოს მხოლოდ დაბინძურებულ ადგილებში.</Plant_Ripthorn.description>
+  <Plant_Ripthorn.label>რიფთორნი</Plant_Ripthorn.label>
+  <Plant_TreeGrayPine.description>ტოქსინებისადმი ადაპტირებული პატარა ხე დაგრეხილი ტოტებით. ის შეიძლება გაიზარდოს მხოლოდ დაბინძურებულ რელიეფზე და მოსავლის აღებისას მცირე რაოდენობით ხის მოსავალს იძლევა.</Plant_TreeGrayPine.description>
+  <Plant_TreeGrayPine.label>ნაცრისფერი ფიჭვის ხე</Plant_TreeGrayPine.label>
+  <Plant_Witchwood.description>ტოქსინებისადმი ადაპტირებული პატარა ხე დაგრეხილი ღეროთი. ის შეიძლება გაიზარდოს მხოლოდ დაბინძურებულ ადგილზე. მოსავლის აღებისას მწირი მერქანი იძლევა.</Plant_Witchwood.description>
+  <Plant_Witchwood.label>ჯადოქრობის ხე</Plant_Witchwood.label>
+  <SmashedStump_Polluted.description>დაბინძურებული ხის ნარჩენები განადგურებულია დაზიანებით. მახინჯია. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ ხეს იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</SmashedStump_Polluted.description>
+  <SmashedStump_Polluted.label>დამტვრეული ღერო</SmashedStump_Polluted.label>
+</LanguageData>

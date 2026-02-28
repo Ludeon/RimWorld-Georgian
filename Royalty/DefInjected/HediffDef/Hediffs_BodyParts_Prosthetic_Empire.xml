@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DrillArm.description>დამონტაჟებული საბურღი მკლავი. საშუალებას აძლევს მაინერს სწრაფად მოძებნოს და გამოიყენოს სუსტი ხაზები კლდეში. მას ასევე აქვს ზოგადი დანიშნულების მანიპულატორი. ის გარკვეულწილად უსიამოვნოა, რაც ოდნავ ანელებს მოძრაობას.</DrillArm.description>
+  <DrillArm.label>საბურღი მკლავი</DrillArm.label>
+  <DrillArm.labelNoun>საბურღი მკლავი</DrillArm.labelNoun>
+  <ElbowBlade.description>დამონტაჟებული იდაყვის დანა. სურვილისამებრ ვრცელდება იდაყვის ბოლოში არსებული ფარული ღიობიდან. გაფრთხილების გარეშე გამოჩნდება, ის შეიძლება გამოყენებულ იქნას დამანგრეველი ნაჭრების შეტევებისთვის.</ElbowBlade.description>
+  <ElbowBlade.label>იდაყვის დანა</ElbowBlade.label>
+  <ElbowBlade.labelNoun>იდაყვის დანა</ElbowBlade.labelNoun>
+  <FieldHand.description>დამონტაჟებული საველე ხელი. დამზადებულია ფერმერის თესვისა და მოსავლის ამოცანების დასაჩქარებლად. რამდენიმე ტელესკოპური თითის მსგავსი გამონაყარი შეიძლება ერთდროულად მოიკრიფოს ერთი და იგივე მცენარის რამდენიმე წერტილიდან, ან ზუსტად დათესოს რამდენიმე ხვრელი ერთდროულად. მას ასევე აქვს ზოგადი დანიშნულების მანიპულატორი. ის გარკვეულწილად უსიამოვნოა, რაც ოდნავ ანელებს მოძრაობას.</FieldHand.description>
+  <FieldHand.label>საველე ხელი</FieldHand.label>
+  <FieldHand.labelNoun>მინდვრის ხელი</FieldHand.labelNoun>
+  <HandTalon.description>დაყენებული ხელის ბალონი. ვრცელდება ფარული ღიობიდან შუა და ბეჭედი თითებს შორის. ტალონი უფრო გრძელია, ვიდრე ხელისგულები, მაგრამ ის მოქნილი ხდება უკან დახევის შემდეგ, რაც მომხმარებელს საშუალებას აძლევს დაახვიოს და ხელის შიგნით დამალოს. მას შეუძლია შეასრულოს სწრაფი ჭრის შეტევები, მაგრამ არ აქვს შეღწევადობის ჯავშანი.</HandTalon.description>
+  <HandTalon.label>ხელის ტალონი</HandTalon.label>
+  <HandTalon.labelNoun>ხელის ბალონი</HandTalon.labelNoun>
+  <KneeSpike.description>დაყენებული მუხლის წვეტი. სურვილისამებრ ვრცელდება მუხლის წინა ფარული ღიობიდან. როგორც ჩანს გაფრთხილების გარეშე, ის შეიძლება გამოყენებულ იქნას დამღუპველი დარტყმისთვის, რომელიც შეაღწევს სქელ ჯავშანს.</KneeSpike.description>
+  <KneeSpike.label>მუხლის მწვერვალი</KneeSpike.label>
+  <KneeSpike.labelNoun>მუხლის მწვერვალი</KneeSpike.labelNoun>
+  <Mindscrew.description>დაინსტალირებული გონება. უწყვეტ ტკივილს აყენებს მომხმარებელს. Mindscrews გამოიყენება ზოგიერთი ხელისუფლების მიერ, როგორც გრძელვადიანი სასჯელი. ზოგი მათ ნებაყოფლობითაც კი აყენებს, როგორც იდეოლოგიური ან რელიგიური ერთგულების დემონსტრირებას.</Mindscrew.description>
+  <Mindscrew.label>გონებამახვილი</Mindscrew.label>
+  <Mindscrew.labelNoun>გონებამახვილი</Mindscrew.labelNoun>
+  <VenomFangs.description>დაყენებული კომპლექტი შხამიანი ღობეებით. მომხმარებელს შეუძლია მტრის კბენა, ინჟექტორების გახანგრძლივება და შხამის ამოტუმბვა სამიზნეში.</VenomFangs.description>
+  <VenomFangs.label>შხამის კბილებს</VenomFangs.label>
+  <VenomFangs.labelNoun>შხამის კბილთა ნაკრები</VenomFangs.labelNoun>
+  <VenomTalon.description>დაყენებული შხამის ტალონი. მომხმარებელს შეუძლია მტრის გადაფხეკა ჭრილობაში შხამის ჩასმისას. ტალონი განკუთვნილია შუა თითში დასაყენებლად. ეს არის სწრაფი, მაგრამ ცუდი შეღწევადობის ჯავშანტექნიკაში.</VenomTalon.description>
+  <VenomTalon.label>შხამის ტალონი</VenomTalon.label>
+  <VenomTalon.labelNoun>შხამის ტალონი</VenomTalon.labelNoun>
+</LanguageData>

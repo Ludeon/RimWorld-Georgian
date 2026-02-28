@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UnknownAdulthood.description>[PAWN_nameDef]-ის წარმომავლობა უცნობია.</UnknownAdulthood.description>
+  <UnknownAdulthood.title>უცნობი</UnknownAdulthood.title>
+  <UnknownAdulthood.titleShort>უცნობი</UnknownAdulthood.titleShort>
+  <UnknownChildhood.description>[PAWN_nameDef]-ის წარმომავლობა უცნობია.</UnknownChildhood.description>
+  <UnknownChildhood.title>უცნობი</UnknownChildhood.title>
+  <UnknownChildhood.titleShort>უცნობი</UnknownChildhood.titleShort>
+</LanguageData>

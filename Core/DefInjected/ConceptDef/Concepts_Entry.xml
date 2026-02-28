@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <WorldCameraMovement.helpText>მასშტაბირება გააკეთეთ MOUSE WHEEL-ით ან {Key:MapZoom_In} და {Key:MapZoom_Out} ღილაკებით.\n\nკამერა გადაიტანეთ {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} ღილაკებით ან მაუსის კიდესთან მიტანით.</WorldCameraMovement.helpText>
+  <WorldCameraMovement.label>მსოფლიო ხედვის კამერის მოძრაობა</WorldCameraMovement.label>
+</LanguageData>

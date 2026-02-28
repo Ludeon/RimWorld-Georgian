@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <DifficultyAnomalySection>ანომალია</DifficultyAnomalySection>
+  <Difficulty_AnomalyThreats_Label>ანომალიის მუქარა</Difficulty_AnomalyThreats_Label>
+  <Difficulty_AnomalyThreats_Info>დაარეგულირეთ ძირითადი საფრთხეების პროცენტი, რომლებიც დაკავშირებული იქნება ანომალიასთან.</Difficulty_AnomalyThreats_Info>
+  <Difficulty_AnomalyThreatsInactive_Label>ანომალიის საფრთხეები (არააქტიური)</Difficulty_AnomalyThreatsInactive_Label>
+  <Difficulty_AnomalyThreatsInactive_Info>დაარეგულირეთ ძირითადი საფრთხეების პროცენტი, რომელიც დაკავშირებული იქნება ანომალიასთან, როდესაც მონოლითი არ არის აქტიური. მხოლოდ გარკვეული მცირე ანომალიის შემთხვევები შეიძლება მოხდეს, როდესაც მონოლითი არააქტიურია.</Difficulty_AnomalyThreatsInactive_Info>
+  <Difficulty_AnomalyThreatsActive_Label>ანომალიის საფრთხეები (აქტიური)</Difficulty_AnomalyThreatsActive_Label>
+  <Difficulty_AnomalyThreatsActive_Info>დაარეგულირეთ ძირითადი საფრთხეების პროცენტი, რომელიც დაკავშირებული იქნება ანომალიასთან, როდესაც მონოლითი აქტიურია. ამჟამინდელი პარამეტრებით:\n - ძირითადი საფრთხეების {0} დაკავშირებული იქნება ანომალიასთან მონოლითურ დონეზე 1 და 5\n - ძირითადი საფრთხეების {1} დაკავშირებული იქნება ანომალიასთან 2-4 დონეზე.</Difficulty_AnomalyThreatsActive_Info>
+  <Difficulty_StudyEfficiency_Label>სწავლის ეფექტურობა</Difficulty_StudyEfficiency_Label>
+  <Difficulty_StudyEfficiency_Info>დაამატეთ მულტიპლიკატორი, თუ რამდენი კვლევა მიიღება არაბუნებრივი არსებების შესწავლისას.</Difficulty_StudyEfficiency_Info>
+
+  <Difficulty_ChildShamblersAllowed_Label>ჩვილები</Difficulty_ChildShamblersAllowed_Label>
+  <Difficulty_ChildShamblersAllowed_Info>ხანდახან გამოჩნდებიან ბავშვების რეანიმაციული ჭურვები.</Difficulty_ChildShamblersAllowed_Info>
+  
+  <AnomalySettings>ანომალიის პარამეტრები</AnomalySettings>
+  <ChooseAnomalyPlaystyle>აირჩიეთ, თუ როგორ გსურთ ანომალიის საშინელებათა ინტეგრირება თქვენს თამაშში:</ChooseAnomalyPlaystyle>
+  <CanBeEditedInStorytellerSettings>Anomaly storyteller-ის პარამეტრების განახლება. მათი შეცვლა შესაძლებელია თამაშის დროს</CanBeEditedInStorytellerSettings>
+  <SetToStandardPlaystyle>დაყენება სტანდარტულ სათამაშო სტილზე</SetToStandardPlaystyle>
+
+</LanguageData>

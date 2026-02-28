@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_Vacsuit.description>დამცავი კოსტიუმი, რომელიც იცავს მომხმარებელს სივრცის ვაკუუმში. კოსტიუმი ზღუდავს მფლობელს მოძრაობას, რაც მნიშვნელოვნად ამცირებს მოძრაობის სიჩქარეს.</Apparel_Vacsuit.description>
+  <Apparel_Vacsuit.label>ვაკსუტუმი</Apparel_Vacsuit.label>
+  <Apparel_VacsuitChildren.description>დამცავი კოსტიუმი განკუთვნილია ბავშვებისთვის. ის იცავს მომხმარებელს სივრცის ვაკუუმში.</Apparel_VacsuitChildren.description>
+  <Apparel_VacsuitChildren.label>ბავშვის ვაქციუმი</Apparel_VacsuitChildren.label>
+</LanguageData>

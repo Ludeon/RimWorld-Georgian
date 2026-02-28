@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Plant_Brambles.description>ჩახლართული, ეკლიანი, მერქნიანი ყლორტები, დაფარული ფოთლებით. მტევანი იზრდება მტევანად და ანელებს მათზე გადაადგილების სიჩქარეს.</Plant_Brambles.description>
+  <Plant_Brambles.label>ბურღულები</Plant_Brambles.label>
+  <Plant_Bush.description>მოკლე ბუჩქი. ჩვეულებრივ არ ლაპარაკობს.</Plant_Bush.description>
+  <Plant_Bush.label>ბუჩქი</Plant_Bush.label>
+  <Plant_Grass.description>ველური ბალახი. იზრდება ყველგან, სადაც არის ოდნავ მსუბუქი და მინიმალურად ნოყიერი ნიადაგი.</Plant_Grass.description>
+  <Plant_Grass.label>ბალახი</Plant_Grass.label>
+  <Plant_HealrootWild.description>ნელა მზარდი მცენარე, რომელიც მოკრეფისას ბალახეულ წამალს იძლევა.\n\nჰილრუთის ეს ველური სახეობა შინაურ სახეობაზე უფრო გამძლეა, მაგრამ მოშენება ძალიან რთულია. ამიტომ იგი განსაკუთრებით ფასდება.</Plant_HealrootWild.description>
+  <Plant_HealrootWild.label>ველური სამკურნალო ფესვი</Plant_HealrootWild.label>
+  <Plant_TallGrass.description>ველური მაღალი ბალახი. ანელებს მასზე გადაადგილებას.</Plant_TallGrass.description>
+  <Plant_TallGrass.label>მაღალი ბალახი</Plant_TallGrass.label>
+</LanguageData>

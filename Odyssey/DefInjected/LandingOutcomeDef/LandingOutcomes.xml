@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GravNausea.letterLabel>გრავი გულისრევა</GravNausea.letterLabel>
+  <GravNausea.letterText>{GRAVSHIP} დაშვებისას, {PILOT_nameDef} იძულებული გახდა გაეკეთებინა გადაუდებელი მანევრი, რამაც გამოიწვია ინტენსიური და ხანგრძლივი შენელება. გამოცდილებამ დატოვა თქვენი კოლონისტების უკიდურესი გულისრევა. ეფექტი სწრაფად ქრება.</GravNausea.letterText>
+  <MinorGravshipCrash.letterLabel>მცირე სამძიმრის ავარია</MinorGravshipCrash.letterLabel>
+  <MinorGravshipCrash.letterText>{GRAVSHIP} დაშვებისას, {PILOT_nameDef}-მა შემთხვევით გამორთო გრავიტის ძრავა ნაადრევად, რამაც გამოიწვია გემის თავისუფალი დაცემა რამდენიმე ფუტის განმავლობაში. ავარიის შედეგად საფლავის ზოგიერთ შენობას მსუბუქი დაზიანება აქვს.</MinorGravshipCrash.letterText>
+  <OverheatedGravEngine.letterLabel>გადახურებული გრავი ძრავა</OverheatedGravEngine.letterLabel>
+  <OverheatedGravEngine.letterText>{GRAVSHIP} დაშვებისას, {PILOT_nameDef}-მ ზედმეტად ჩართო გრავი ძრავა, რამაც გამოიწვია მისი გადახურება. გრავი ძრავას ჩვეულებრივზე მეტი დრო დასჭირდება გაგრილებას. ამასობაში, საფლავის გაშვება შეუძლებელია.</OverheatedGravEngine.letterText>
+  <ThrusterBreakdown.letterLabel>ამძრავის ავარია</ThrusterBreakdown.letterLabel>
+  <ThrusterBreakdown.letterText>{GRAVSHIP} დაშვებისას, {PILOT_nameDef}-მა გადაახურა გემის ძრავები, შეწვა ღირებული კომპონენტები. ამწეები საჭიროებს შეკეთებას მათ ხელახლა გამოყენებამდე.</ThrusterBreakdown.letterText>
+</LanguageData>

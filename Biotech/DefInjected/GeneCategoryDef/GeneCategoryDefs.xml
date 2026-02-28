@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ability.label>განსაკუთრებული შესაძლებლობები</Ability.label>
+  <Aptitudes.label>მიდრეკილებები</Aptitudes.label>
+  <Archite.label>არქიტი</Archite.label>
+  <Beauty.label>სილამაზე</Beauty.label>
+  <Cosmetic_Body.label>კოსმეტიკური - სხეულის ტიპი</Cosmetic_Body.label>
+  <Drugs.label>ნარკოტიკები</Drugs.label>
+  <Healing.label>ჯანმრთელობა</Healing.label>
+  <Hemogen.label>ჰემოგენი</Hemogen.label>
+  <Mood.label>განწყობა</Mood.label>
+  <Movement.label>მოძრაობა</Movement.label>
+  <Pain.label>ტკივილი</Pain.label>
+  <Psychic.label>ექსტრასენსები</Psychic.label>
+  <Reproduction.label>რეპროდუქცია</Reproduction.label>
+  <ResistanceAndWeakness.label>წინააღმდეგობა და მგრძნობელობა</ResistanceAndWeakness.label>
+  <Sleep.label>ძილი</Sleep.label>
+  <Temperature.label>ტემპერატურა</Temperature.label>
+  <Violence.label>ძალადობა</Violence.label>
+</LanguageData>

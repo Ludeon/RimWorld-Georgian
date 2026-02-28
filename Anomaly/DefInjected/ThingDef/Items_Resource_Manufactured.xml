@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_Shell_Deadlife.label>სიკვდილის კაფსულა</Bullet_Shell_Deadlife.label>
+  <GhoulResurrectionSerum.description>სქელი ნაცრისფერი სითხის კაფსულა, რომელიც შეიცავს სასიკვდილო მტვრის ნარევს და მოწინავე ბიოქიმიურ ნივთიერებებს. შეიტანეთ იგი ღორის ცხედრში, რათა მათ სიცოცხლე დაუბრუნოთ. აღდგომის პროცესი რამდენიმე საათს გრძელდება.</GhoulResurrectionSerum.description>
+  <GhoulResurrectionSerum.label>ღორის აღდგომის შრატი</GhoulResurrectionSerum.label>
+  <JuggernautSerum.description>გაუმჭვირვალე რძიანი-ყვითელი სითხის შპრიცი, რომელიც ზრდის მომხმარებლის ძალასა და სიჩქარეს და საშუალებას აძლევს მას უფრო სწრაფად გამოჯანმრთელდეს დაზიანებებისგან. შრატი შეჰყავთ მომხმარებლის კუნთებში, სადაც ის ენერგიას მატებს სხვადასხვა მეტაბოლურ პროცესებს. თუმცა, არასტაბილური ნივთიერება ფსიქიკურადაც მოქმედებს გონებაზე, იწვევს შემაშფოთებელ აზრებს და მკვეთრად ამცირებს მომხმარებლის განწყობას.</JuggernautSerum.description>
+  <JuggernautSerum.label>ჯოგერნაუტის შრატი</JuggernautSerum.label>
+  <MetalbloodSerum.description>ჟანგისფერი სითხით სავსე შპრიცი, რომელიც მუდმივად მკვრივდება და თხევადდება. სისხლძარღვში შეყვანისას, მეტალის სისხლის ნივთიერებას შეუძლია გაამკვრივოს ხორცი, როდესაც ის დარტყმას ელის, რაც მომხმარებელს უფრო მდგრადს გახდის დაზიანების მიმართ. თუმცა, ამ შრატის ბიოფერიტზე დაფუძნებული ქიმია ასევე ხდის მომხმარებელს განსაკუთრებით დაუცველს ხანძრის მიმართ.</MetalbloodSerum.description>
+  <MetalbloodSerum.label>ლითონის სისხლის შრატი</MetalbloodSerum.label>
+  <MindNumbSerum.description>გამჭვირვალე, ბლანტი სითხის შპრიცი. ტვინის ღეროს მახლობლად შეყვანილი ის კვდება გონებას, რის გამოც მომხმარებელი ვერ გრძნობს ადამიანური ემოციების მაღალ და დაბალ დონეს. ეს მათ დროებით უშლის ხელს გონებრივ შესვენებებსა და შთაგონებებში.</MindNumbSerum.description>
+  <MindNumbSerum.label>გონება დაბუჟებული შრატი</MindNumbSerum.label>
+  <Shell_Deadlife.description>An artillery shell packed with a dust-like substance that, after exploding into a cloud, will settle on nearby human and animal corpses and raise them as shamblers. The shamblers will only attack your enemies.\n\nThis can be fired from mortars or installed as a trap. Explodes when damaged.</Shell_Deadlife.description>
+  <Shell_Deadlife.label>სასიკვდილო ჭურვი</Shell_Deadlife.label>
+  <Shell_Deadlife_Releasing.label>სიკვდილის კაფსულა</Shell_Deadlife_Releasing.label>
+  <VoidsightSerum.description>A capsule of oily black fluid that squirms endlessly inside the glass. When injected into the eye, it suppresses the inhibitory neurons that keep perception focused on the real world, thus lifting dark psychic phenomena into conscious perception. This increases the amount of knowledge gained when studying unnatural entities, as well as psychic sensitivity, but also impacts mood.\n\nThe effect is temporary and does not stack.</VoidsightSerum.description>
+  <VoidsightSerum.label>voidsight შრატი</VoidsightSerum.label>
+</LanguageData>

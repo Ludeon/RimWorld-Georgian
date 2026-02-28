@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <HoldingPlatformEscapeMTBDays>გაქცევის ინტერვალი</HoldingPlatformEscapeMTBDays>
+  <HoldingPlatformEscapeMTBDaysDesc>საშუალო დრო გაქცევებს შორის. მასზე გავლენას ახდენს შეკავების ძალა, ერთეულის ტიპი, ერთეულის გადაადგილების შესაძლებლობა და ერთეულის პატიმრობის ხანგრძლივობა. ზოგიერთი სუბიექტი ასევე თრგუნავს სიცივით.</HoldingPlatformEscapeMTBDaysDesc>
+  <TabEntity>ერთეული</TabEntity>
+  <StudyInterval>სწავლის ინტერვალი</StudyInterval>
+  <StudyIntervalDesc>რამდენად ხშირად შეიძლება ამ ერთეულის შესწავლა.</StudyIntervalDesc>
+  <EntityStudyMode_MaintainOnly>მხოლოდ შენარჩუნება</EntityStudyMode_MaintainOnly>
+  <EntityStudyMode_MaintainOnlyDesc>მცველები არ შეასრულებენ სპეციალურ მოქმედებებს ამ ერთეულზე, მაგრამ სხვა ურთიერთქმედებები კვლავ ხელმისაწვდომია.</EntityStudyMode_MaintainOnlyDesc>
+  <EntityStudyMode_Study>შესწავლა</EntityStudyMode_Study>
+  <EntityStudyMode_StudyDesc>მკვლევარები შეისწავლიან ერთეულს.</EntityStudyMode_StudyDesc>
+  <EntityStudyMode_Release>გათავისუფლება</EntityStudyMode_Release>
+  <EntityStudyMode_ReleaseDesc>მცველი გაათავისუფლებს ერთეულს ჰოლდინგის პლატფორმიდან. განთავისუფლებისას სუბიექტები შეიძლება იყვნენ მტრულად განწყობილი.</EntityStudyMode_ReleaseDesc>
+  <EntityStudyMode_Execute>სიკვდილით დასჯა</EntityStudyMode_Execute>
+  <EntityStudyMode_ExecuteDesc>თავშეკავებულ სუბიექტს დარაჯი აღასრულებს.</EntityStudyMode_ExecuteDesc>
+  <EntityStudyMode_Extract>ბიოფერიტის ექსტრაქტი</EntityStudyMode_Extract>
+  <EntityStudyMode_ExtractDesc>ექიმები შეძლებისდაგვარად ამოიღებენ ბიოფერიტს დატყვევებული ობიექტიდან. მოპოვების ეს მეთოდი მარტივია, მაგრამ არაეფექტური. არ შეიძლება გაკეთდეს, თუ ერთეული მიმაგრებულია ბიოფერიტის მოსავალს.</EntityStudyMode_ExtractDesc>
+  <RequiresBioferriteExtraction>საჭიროებს ბიოფერიტის ექსტრაქციას.</RequiresBioferriteExtraction>
+  <BioferriteHarvesterAttached>დაბლოკილია ბიოფერიტის კომბაინით.</BioferriteHarvesterAttached>
+  <CantBeExecuted>არ შეიძლება აღსრულდეს.</CantBeExecuted>
+  <StudyKnowledgeGain>ცოდნის მიღება</StudyKnowledgeGain>
+  <StudyKnowledgeGainDesc>მიღებული ცოდნის რაოდენობა კვლევის ინტერვალზე. უკეთესი შეკავება ეხმარება მკვლევარს უსაფრთხოების ნაცვლად სწავლაზე ფოკუსირება, რაც მეტ ცოდნას იძლევა.</StudyKnowledgeGainDesc>
+  <MedicineQualityDescriptionEntity>რა სახის წამალი შეიძლება მიეცეს ამ სუბიექტს.</MedicineQualityDescriptionEntity>
+
+  <FactorForElectroharvester>ელექტრომოსავლელი</FactorForElectroharvester>
+  <FactorForDaysInCaptivity>ხანგრძლივი ტყვეობა</FactorForDaysInCaptivity>
+  <FactorForColdCaptivity>ცივი შეკავების ბონუსი</FactorForColdCaptivity>
+  <IncapableOfEscaping>გაქცევა არ შეუძლია</IncapableOfEscaping>
+  <EntityDowned>ერთეული ჩამოგდებულია</EntityDowned>
+  <FactorContainmentStrength>შეკავების ძალა</FactorContainmentStrength>
+  <FactorElectroharvester>ელექტრომოსავლელი</FactorElectroharvester>
+  <FactorActivity>აქტივობა</FactorActivity>
+
+</LanguageData>

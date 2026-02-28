@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ArrestingCreatesEnemies.helpText>გაფრთხილება: ადამიანი, რომლის დაპატიმრებასაც ცდილობთ, შეიძლება მშვიდად არ დაგყვეთ.\n\nთუ არაკოლონისტს ან სხვა ფრაქციის კოლონისტს დააპატიმრებთ, მთელი მისი ფრაქცია შეიძლება თქვენს მტრად იქცეს.\n\nამ დაპატიმრების წარმატების შანსია {0}.</ArrestingCreatesEnemies.helpText>
+  <ArrestingCreatesEnemies.label>დაკავება აუარესებს ფრაქციის ურთიერთობებს</ArrestingCreatesEnemies.label>
+  <MaxNumberOfPlayerSettlements.helpText>გაფრთხილება: RimWorld თავიდანვე გათვლილია იმაზე, რომ მოთამაშეს ერთდროულად ერთი კოლონია ჰქონდეს. რამდენიმე მოთამაშის კოლონია მხოლოდ ექსპერიმენტული ტესტირების ფუნქციაა.\n\nრამდენიმე კოლონიით თამაში ბალანსს არღვევს და შესრულებას ამცირებს.</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.label>მოთამაშეთა კოლონიების მაქსიმალური რაოდენობა</MaxNumberOfPlayerSettlements.label>
+  <SteamDeckControlsGame.helpText>დააჭირეთ X-ს არქიტექტურის მენიუს გასახსნელად და {Key:TogglePause} თამაშის დასაპაუზებლად და გასაგრძელებლად. გამოიყენეთ ტრიგერები პირველადი და მეორადი დაწკაპუნებებისთვის. გაადიდეთ და შეამცირეთ და გადაახვიეთ სიებში {Key:MapZoom_In} და {Key:MapZoom_Out}-ით. ხანგრძლივად დააჭირეთ L5 უკანა ღილაკს კამერის სენსორული ეკრანით გადასატანად და მეორადი დაწკაპუნების სიმულაციისთვის.</SteamDeckControlsGame.helpText>
+  <SteamDeckControlsGame.label>ორთქლის გემბანის კონტროლი</SteamDeckControlsGame.label>
+  <SteamDeckControlsMainMenu.helpText>გამოიყენეთ ტრეკიდი კურსორის გადასატანად და მარჯვენა ტრიგერის ღილაკი დასაწკაპუნებლად. დააჭირეთ {Key:Accept} დასათანხმებლად და {Key:Cancel} დასაბრუნებლად.</SteamDeckControlsMainMenu.helpText>
+  <SteamDeckControlsMainMenu.label>ორთქლის გემბანის კონტროლი</SteamDeckControlsMainMenu.label>
+  <SwitchFlickingDesignation.helpText>შენიშვნა: ეს მხოლოდ იმას ნიშნავს, რომ კოლონისტმა ჩამრთველი უნდა გადართოს.\n\nსანამ კოლონისტი ხელით არ მივა და არ გადართავს, არაფერი მოხდება.</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.label>Flick აღნიშვნები მხოლოდ მიუთითებს</SwitchFlickingDesignation.label>
+  <TradeGoodsMustBeNearBeacon.helpText>ორბიტალური ტრეიდერებისთვის ნივთების ან ვერცხლის გასაგზავნად, თქვენ უნდა ააწყოთ ORBITAL TRADE BEACON და მოათავსოთ ნივთების მარაგი მის მახლობლად.</TradeGoodsMustBeNearBeacon.helpText>
+  <TradeGoodsMustBeNearBeacon.label>ვაჭრობის საქონელი და სავაჭრო შუქურები</TradeGoodsMustBeNearBeacon.label>
+  <TradingRequiresPermit.helpText>აქ ვაჭრობისთვის საჭიროა {0} ტიტული.\n\nდარწმუნდით, რომ თქვენ მიერ გაგზავნილ სავაჭრო ქარავანში არის ვინმე, ვისაც {0} ან უფრო მაღალი ტიტული აქვს.</TradingRequiresPermit.helpText>
+  <TradingRequiresPermit.label>ვაჭრობის ნებართვის მოთხოვნები</TradingRequiresPermit.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DropPodIncomingAncient.label>უძველესი წვეთოვანი პოდი (შემომავალი)</DropPodIncomingAncient.label>
+  <DropPodIncomingMechanoidSoft.label>მექანიკური ვარდნის პოდი (შემომავალი)</DropPodIncomingMechanoidSoft.label>
+  <DropPodLeavingAncient.label>უძველესი წვეთი (გასვლა)</DropPodLeavingAncient.label>
+  <DropPodLeavingMechanoid.label>მექანიკური წვეთი (გასვლა)</DropPodLeavingMechanoid.label>
+  <LavaRockIncoming.label>ლავის კლდე (შემომავალი)</LavaRockIncoming.label>
+  <PassengerShuttleIncoming.label>სამგზავრო შატლი (შემომავალი)</PassengerShuttleIncoming.label>
+  <PassengerShuttleLeaving.label>სამგზავრო შატლი (გამგზავრება)</PassengerShuttleLeaving.label>
+</LanguageData>

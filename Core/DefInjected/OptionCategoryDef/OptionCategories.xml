@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Audio.label>აუდიო</Audio.label>
+  <Controls.label>აკონტროლებს</Controls.label>
+  <Dev.label>დევი</Dev.label>
+  <Gameplay.label>გეიმპლეი</Gameplay.label>
+  <General.label>გენერალი</General.label>
+  <Graphics.label>გრაფიკა</Graphics.label>
+  <Interface.label>ინტერფეისი</Interface.label>
+  <Mods.label>mod პარამეტრები</Mods.label>
+</LanguageData>

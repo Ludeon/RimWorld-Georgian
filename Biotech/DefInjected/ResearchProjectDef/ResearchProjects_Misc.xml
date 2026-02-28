@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Archogenetics.description>გენის ასამბლერს საშუალებას აძლევს გამოიყენოს არქიტის კაფსულები ერთი შეხედვით შეუძლებელი გენების შესაქმნელად. არქიტის გენების და არქიტის კაფსულების მიღება შესაძლებელია ტრეიდერებისგან.</Archogenetics.description>
+  <Archogenetics.label>არქოგენეტიკა</Archogenetics.label>
+  <Deathrest.description>მათ, ვისაც აქვს სიკვდილის გენი, პერიოდულად უნდა გაიარონ სპეციალური სიკვდილის კომა, რომელიც გრძელდება რამდენიმე დღე. ეს კვლევითი პროექტი საშუალებას გაძლევთ ააშენოთ შენობები, რომლებიც აჩქარებენ სიკვდილის კომას და ანიჭებენ სპეციფიკურ ბონუსებს სიკვდილმისჯილზე. დროთა განმავლობაში, თქვენ შეგიძლიათ ააშენოთ გრანდიოზული სიკვდილის ტაძარი.</Deathrest.description>
+  <Deathrest.label>სიკვდილით დასჯა</Deathrest.label>
+  <FertilityProcedures.description>ჩაატარეთ ოპერაციები, რომლებიც აუცილებელია ნაყოფიერი მამაკაცისა და ქალის საცდელი მილის ემბრიონის შესაქმნელად, შემდეგ ჩანერგეთ ემბრიონი სუროგატ დედაში ან ზრდის ღუმელში. ასევე, გაიკეთეთ სტერილიზაციის ოპერაციები მამაკაცებსა და ქალებზე.</FertilityProcedures.description>
+  <FertilityProcedures.label>ნაყოფიერების პროცედურები</FertilityProcedures.label>
+  <GeneProcessor.description>შექმენით გენის პროცესორები, რომლებიც გენის ასამბლერს საშუალებას აძლევს შექმნას უფრო მაღალი გენეტიკური სირთულის ქსენოგერმები.</GeneProcessor.description>
+  <GeneProcessor.label>გენის პროცესორი</GeneProcessor.label>
+  <GrowthVats.description>ააწყვეთ ზრდის ღუმელები, რომლებსაც შეუძლიათ ემბრიონის დაორსულება ან ბავშვის ზრდის დაჩქარება.</GrowthVats.description>
+  <GrowthVats.label>ზრდის ჭურჭლები</GrowthVats.label>
+  <ToxFiltration.description>შექმენით და დააინსტალირეთ ბიონიკური ორგანოები, რომლებსაც შეუძლიათ ტოქსინების გაფილტვრა გარემოდან და მტრის თავდასხმებისგან.</ToxFiltration.description>
+  <ToxFiltration.label>ტოქსინების ფილტრაცია</ToxFiltration.label>
+  <ToxGas.description>შექმენით იარაღი, რომელიც იყენებს კაუსტიკური ტოქსიკური გაზს.</ToxGas.description>
+  <ToxGas.label>ტოქსიკური გაზი</ToxGas.label>
+  <ToxifierGenerator.description>შექმენით ტოქსიკური გენერატორები, რომლებიც გამოიმუშავებენ ელექტროენერგიას, მაგრამ ასევე ავრცელებენ დაბინძურებას მათ გარშემო.</ToxifierGenerator.description>
+  <ToxifierGenerator.label>ტოქსიფიკატორის გენერატორი</ToxifierGenerator.label>
+  <Xenogermination.description>შექმენით ქსენოგერმები, რომლებიც შეიძლება ჩაინერგოს ადამიანში მათი გენეტიკური მოდიფიკაციისთვის. ამოიღეთ გენეპაკეტები ცოცხალი ადამიანებისგან გენის ექსტრაქტორის გამოყენებით, რათა მათი გენები ხელახლა გადანერგოთ სხვაში.</Xenogermination.description>
+  <Xenogermination.label>ქსენოგენეტიკა</Xenogermination.label>
+</LanguageData>

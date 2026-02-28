@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InfiniteChemreactor.description>ნელ-ნელა წარმოქმნის ქიმიურ საწვავს ქიმიური რეაქციების კომპლექსური სერიის საშუალებით, ჰაერიდან ამოღებული ატომების გამოყენებით.</InfiniteChemreactor.description>
+  <InfiniteChemreactor.label>უსასრულო ქიმირეაქტორი</InfiniteChemreactor.label>
+  <PsychicEmanator.description>უძველესი მოწყობილობა, რომელიც ასახავს თავის გარშემო დამამშვიდებელ ფსიქიკურ ველს. ეს აუმჯობესებს ნებისმიერი ახლომდებარე ადამიანის განწყობას. მუშაობს კედლებზე.</PsychicEmanator.description>
+  <PsychicEmanator.label>ფსიქიკური ემანატორი</PsychicEmanator.label>
+  <VanometricPowerCell.description>გამოიმუშავებს უფასო ენერგიას, სამუდამოდ, საწვავის გამოყენების გარეშე. ეს ტექნოლოგია შემუშავებულია არქოტექნიკის მიერ და სცილდება მსოფლიოს ბრჭყვიალა საზოგადოებებსაც კი. მიუხედავად იმისა, რომ არავინ იცის ზუსტად როგორ მუშაობს, მეცნიერები თვლიან, რომ ის გარკვეულწილად ენერგიას იღებს უშუალოდ კვანტური ქაფის რყევებიდან.</VanometricPowerCell.description>
+  <VanometricPowerCell.label>ვანომეტრიული დენის უჯრედი</VanometricPowerCell.label>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LuciferiumAddiction.description>ლუციფერიუმის მექანიტები სხეულში. დროთა განმავლობაში ისინი იშლება; ამ პროცესის შესაჩერებლად საჭიროა ახალი ლუციფერიუმის რეგულარული დოზები.\n\nთუ ლუციფერიუმი შეწყდა, მექანიტები კოლაფსს იწყებენ და მომხმარებელი სწრაფად იღუპება.</LuciferiumAddiction.description>
+  <LuciferiumAddiction.label>ლუციფერიუმის საჭიროება</LuciferiumAddiction.label>
+  <LuciferiumAddiction.stages.1.label>დაუკმაყოფილებელი</LuciferiumAddiction.stages.1.label>
+  <LuciferiumHigh.description>აქტიური ლუციფერიუმის მექანიტები ორგანიზმში. ისინი აუმჯობესებენ სხეულის ფუნქციონირებას ყველა თვალსაზრისით. თუმცა, თუ ისინი რეგულარულად არ ავსებენ ლუციფერიუმის მეტი დოზებით, ისინი კარგავენ ერთიანობას და აჭიანურებენ მომხმარებელს.</LuciferiumHigh.description>
+  <LuciferiumHigh.label>ლუციფერიუმი</LuciferiumHigh.label>
+</LanguageData>

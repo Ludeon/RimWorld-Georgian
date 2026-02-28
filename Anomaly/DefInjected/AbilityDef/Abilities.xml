@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AgonyPulse.description>გამოიმუშავეთ ფსიქიკური ტკივილის პულსი, რომელიც წარმოიქმნება სამიზნე ადგილიდან.</AgonyPulse.description>
+  <AgonyPulse.label>აგონიის პულსი</AgonyPulse.label>
+  <ConsumeLeap_Devourer.description>გადახტეთ მიზანზე და დაიწყეთ მისი მონელება.</ConsumeLeap_Devourer.description>
+  <ConsumeLeap_Devourer.label>ნახტომის მოხმარება</ConsumeLeap_Devourer.label>
+  <CorrosiveSpray.description>გამოიყენეთ კოროზიული გული მჟავას მცირე მანძილზე შესასხურებლად. გული გადატუმბავს კოროზიულ სითხეს ქირურგიულად ჩამონტაჟებულ სადინარში, რაც საშუალებას აძლევს მოღუშულს, მაღალი სიჩქარით ამოისროლოს იგი პირიდან.</CorrosiveSpray.description>
+  <CorrosiveSpray.label>კოროზიული სპრეი</CorrosiveSpray.label>
+  <EntitySkip.description>ტელეპორტირება სამიზნე დანიშნულებამდე.</EntitySkip.description>
+  <EntitySkip.label>ერთეულის გამოტოვება</EntitySkip.label>
+  <FleshmelterBolt.description>გაუშვით ენერგიის დიდი ჭანჭიკი, რომელიც წარმოქმნის მაღალი ტემპერატურის აფეთქებას.</FleshmelterBolt.description>
+  <FleshmelterBolt.label>fleshmelter bolt</FleshmelterBolt.label>
+  <GhoulFrenzy.description>გამოიყენეთ თირკმელზედა ჯირკვლის გული სისხლის ნაკადის სტრესის ჰორმონებითა და თხევადი ენერგიით გასაჯერებლად, რაც საშუალებას აძლევს ღორს გადაადგილდეს და შეუტიოს წარმოუდგენელი სიჩქარით მოკლე დროში.</GhoulFrenzy.description>
+  <GhoulFrenzy.label>ghoul freny</GhoulFrenzy.label>
+  <Heatspikes.description>ააფეთქეთ დაბალი სიზუსტის ენერგიის ჭანჭიკები.</Heatspikes.description>
+  <Heatspikes.label>სიცხეები</Heatspikes.label>
+  <MetalbloodInjection.description>გამოიყენეთ მეტალსისხლიანი გული სისხლში მეტალის შრატის გასათავისუფლებლად, რაც შეამცირებს შემომავალ დაზიანებას მოკლე დროში.</MetalbloodInjection.description>
+  <MetalbloodInjection.label>ლითონის სისხლის ინექცია</MetalbloodInjection.label>
+  <PsychicSlaughter.description>გამოიყენეთ ბნელი ფსიქიკური ძალა, რათა გამოიწვიოს ხორცის ქაოტური რეკონფიგურაცია. ეს წამებში კლავს ხორციელ არსებას და აქცევს მის სხეულს გრეხილი ხორცის გროვად.</PsychicSlaughter.description>
+  <PsychicSlaughter.label>ფსიქიკური ხოცვა</PsychicSlaughter.label>
+  <ReleaseDeadlifeDust.description>გაათავისუფლეთ მტვრის მსგავსი ნივთიერების ღრუბელი, რომელიც დასახლდება მახლობლად ცხედრებზე და ამაღლებს მათ როგორც ჭუჭყიანებს. შამბლერები მხოლოდ თქვენს მტრებს დაესხმიან თავს. Deadlife მტვერი დამზადებულია ნანომასშტაბიანი არქიტებისაგან, რომლებიც შეაღწევენ და აცოცხლებენ მკვდარ ქსოვილს უჯრედულ დონეზე.</ReleaseDeadlifeDust.description>
+  <ReleaseDeadlifeDust.label>გაათავისუფლეთ სასიკვდილო მტვერი</ReleaseDeadlifeDust.label>
+  <RevenantInvisibility.description>გამოიყენეთ მობრუნებული ხერხემლიანები, რათა დროებით უხილავი გახდეთ. პროთეზი მანიპულირებს ახლომახლო ადამიანების ვიზუალური ცენტრებით, რაც მომხმარებელს უშვებს შეუმჩნევლად გავლის საშუალებას.</RevenantInvisibility.description>
+  <RevenantInvisibility.label>გამობრუნებული უხილავობა</RevenantInvisibility.label>
+  <ShapeFlesh.description>უბიძგეთ ბნელ არქოტექნიკს, რათა გადააკეთოს გვამი საშინელ ცხოველად. ხორციელი მხეცი მტრულად იქნება განწყობილი ყველა ადამიანის მიმართ, მათ შორის, ვინც შექმნა იგი.</ShapeFlesh.description>
+  <ShapeFlesh.label>ხორცის ფორმა</ShapeFlesh.label>
+  <SpineLaunch_Gorehulk.description>გაუშვით კერატინის ხერხემალი მიზანში, რათა ზიანი მიაყენოთ.</SpineLaunch_Gorehulk.description>
+  <SpineLaunch_Gorehulk.label>ხერხემლის გაშვება</SpineLaunch_Gorehulk.label>
+  <TransmuteSteel.description>გადააკეთეთ ფოლადი ატომურ დონეზე, გადააქციეთ იგი შემთხვევით ღირებულ მასალად. შეუძლია ფოლადის, ფოლადის წიდის ნაჭრების, ფოლადის შენობების ან ფოლადის ნივთების დამიზნება.</TransmuteSteel.description>
+  <TransmuteSteel.label>ტრანსმუტაციური ფოლადი</TransmuteSteel.label>
+  <UnnaturalHealing.description>გამოიყენეთ ბნელი ფსიქიკური გავლენა ვინმეს სამკურნალოდ. პროცესი შეაჩერებს სისხლდენას, აღადგენს სისხლის დაკარგვას და შეიძლება განკურნოს მნიშვნელოვანი დაზიანებებიც. თუმცა, მას ასევე შეიძლება ჰქონდეს მოულოდნელი გვერდითი მოვლენები.</UnnaturalHealing.description>
+  <UnnaturalHealing.label>არაბუნებრივი განკურნება</UnnaturalHealing.label>
+  <VoidTerror.description>ფსიქიკურად გამოიწვიეთ საშინელი ჰალუცინაციები, რაც იწვევს ადამიანს შიშით გაქცევას.</VoidTerror.description>
+  <VoidTerror.label>ბათილი ტერორი</VoidTerror.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Drone.label>დრონი</Drone.label>
+  <DroneWithThreeLegs.corePart.parts.4.customLabel>ცენტრალური ფეხი</DroneWithThreeLegs.corePart.parts.4.customLabel>
+  <DroneWithThreeLegs.corePart.parts.5.customLabel>უკანა მარცხენა ფეხი</DroneWithThreeLegs.corePart.parts.5.customLabel>
+  <DroneWithThreeLegs.corePart.parts.6.customLabel>უკანა მარჯვენა ფეხი</DroneWithThreeLegs.corePart.parts.6.customLabel>
+  <DroneWithThreeLegs.label>დრონი</DroneWithThreeLegs.label>
+  <DroneWithTreads.corePart.parts.1.customLabel>წინა მარცხენა სარბენი</DroneWithTreads.corePart.parts.1.customLabel>
+  <DroneWithTreads.corePart.parts.2.customLabel>უკანა მარცხენა საფეხური</DroneWithTreads.corePart.parts.2.customLabel>
+  <DroneWithTreads.corePart.parts.3.customLabel>წინა მარჯვენა სარბენი</DroneWithTreads.corePart.parts.3.customLabel>
+  <DroneWithTreads.corePart.parts.4.customLabel>უკანა მარჯვენა საფეხური</DroneWithTreads.corePart.parts.4.customLabel>
+  <DroneWithTreads.label>დრონი</DroneWithTreads.label>
+</LanguageData>

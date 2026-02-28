@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <JumpToLocation>გადახტომა ადგილმდებარეობაზე</JumpToLocation>
+  <PostponeLetter>გადავადება</PostponeLetter>
+  <RejectLetter>უარყოფა</RejectLetter>
+  <ReadMore>დაწვრილებით</ReadMore>
+  <MoreLetters>თქვენ გაქვთ {0} მეტი ასო</MoreLetters>
+
+  <LetterLabelFirstSummerWarning>ზაფხული</LetterLabelFirstSummerWarning>
+  <FirstSummerWarning>ზაფხული დაიწყო! მაგრამ ზამთარი მოდის.\n\nთქვენი საკვები კულტურები ზამთრის სიცივეში არ გაიზრდება. დარწმუნდით, რომ შეინახეთ საკმარისი საკვები გადარჩენისთვის. შეგიძლიათ მოაწყოთ მაცივარი, რათა თავიდან აიცილოთ საკვების გაფუჭება.\n\nზამთრობისთვის მოსამზადებლად, იყიდეთ, მოიპარეთ ან გააკეთეთ პარკები, წინააღმდეგ შემთხვევაში, გარეთ გასვლისას გაიყინებით.</FirstSummerWarning>
+
+  <LetterRelationsChange_Hostile>{0}-თან ურთიერთობა მთლიანად დაიშალა. ისინი ახლა შენს მიმართ მტრულად არიან განწყობილნი.</LetterRelationsChange_Hostile>  
+  <LetterRelationsChange_HostileGoodwillDescription>ისინი ჩაატარებენ პერიოდულ რეიდებს თქვენს კოლონიებსა და ქარავნებზე და უარს იტყვიან თქვენთან ვაჭრობაზე. თუ გსურთ ურთიერთობების გაუმჯობესება, მაინც შეგიძლიათ შესთავაზოთ მათ საჩუქრები ქარავნების ან სატრანსპორტო ბალიშების გამოყენებით.\n\nეს მოხდა იმიტომ, რომ გუდვილი ({0}) დაეცა {1}-ზე დაბლა. ნეიტრალური ურთიერთობების აღსადგენად, კეთილგანწყობამ კვლავ უნდა მიაღწიოს {2}-ს.</LetterRelationsChange_HostileGoodwillDescription>
+  <LetterRelationsChange_HostileGoodwillDescription_NoGifting>ისინი განახორციელებენ პერიოდულ რეიდებს თქვენს კოლონიასა და ქარავნებზე და უარს იტყვიან თქვენთან ვაჭრობაზე.\n\nეს მოხდა იმის გამო, რომ გუდვილი ({0}) {1}-ზე დაბალია. ნეიტრალური ურთიერთობების აღსადგენად, კეთილგანწყობამ კვლავ უნდა მიაღწიოს {2}-ს.</LetterRelationsChange_HostileGoodwillDescription_NoGifting>
+
+  <LetterRelationsChange_NeutralFromHostile>{0}-თან ურთიერთობა გახურდა. ისინი ახლა ნეიტრალურად გთვლიან და აღარ დაგესხმიან თავს.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>ეს მოხდა იმის გამო, რომ გუდვილი ({1}) გაიზარდა {2}-ს. თუ გუდვილი {3}-ზე დაბლა დაეცემა, {0} კვლავ მტრულად განწყობილი გახდება. თუ კეთილგანწყობა {4}-ზე მაღლა აიწევს, ისინი გახდებიან თქვენი მოკავშირე და იბრძოლებენ თქვენთვის.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  
+  <LetterRelationsChange_NeutralFromAlly>{0}-თან ურთიერთობა გაცივდა. ახლა ისინი მოკავშირეების ნაცვლად ნეიტრალურად გთვლიან.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>მიუხედავად იმისა, რომ ისინი კვლავ მშვიდობიანად იმოქმედებენ თქვენთან, ისინი აღარ გამოგიგზავნიან მებრძოლებს დასახმარებლად, როცა საფრთხე ემუქრებათ.\n\nეს მოხდა იმიტომ, რომ კეთილგანწყობა ({1}) დაეცა {2}-ზე დაბლა. თუ გუდვილი {3}-ზე დაბლა დაეცემა, {0} გახდება მტრული. თუ კეთილგანწყობა {4}-ზე მაღლა აიწევს, ისინი კიდევ ერთხელ გახდებიან მოკავშირეები.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  
+  <LetterRelationsChange_Ally>{0}-თან ურთიერთობა ძალიან მჭიდრო გახდა. ახლა ისინი მოკავშირედ გთვლიან.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_AllyGoodwillDescription>მოკავშირეები ხანდახან ჩამოვლენ, რათა დაეხმარონ მტრებთან ბრძოლაში, როცა თავდასხმის ქვეშ ხართ. თქვენ ასევე შეგიძლიათ დახმარებისთვის მიმართოთ მათ ნებისმიერ დროს, კეთილგანწყობის ფასად.\n\nთქვენ გახდით მოკავშირეები, რადგან თქვენი კეთილგანწყობა ({0}) {1}-ს გასცდა. თუ გუდვილი {2}-ზე დაბლა დაეცემა, ურთიერთობები ნეიტრალურ მდგომარეობას დაუბრუნდება.</LetterRelationsChange_AllyGoodwillDescription>
+
+  <goodwill>კეთილგანწყობა</goodwill>
+  <Neutral>ნეიტრალური</Neutral>
+  <NeutralLower>ნეიტრალური</NeutralLower>
+  <Death>სიკვდილი</Death>
+
+  <ShortCircuitRain>ნალექის გამო {1_label} მოკლე ჩართვა მოხდა და ხანძარი გაჩნდა.</ShortCircuitRain>
+
+  <LetterLabelAreaRevealed>ფართობი გამოვლინდა</LetterLabelAreaRevealed>
+  <AreaRevealed>გამოვლინდა ახალი ტერიტორია.</AreaRevealed>
+  <AreaRevealedWithMechanoids>გამოვლინდა ახალი ტერიტორია. იგი შეიცავს უძველეს, მტრულ მექანოიდებს.</AreaRevealedWithMechanoids>
+
+  <RoofCollapsed>სახურავი ჩამოინგრა, რადგან ის ძალიან შორს იყო ყოველგვარი საყრდენისგან.</RoofCollapsed>
+  <TheseThingsCrushed>ეს ნივთები გაანადგურეს:</TheseThingsCrushed>
+  <NothingCrushed>არაფერი დამსხვრეული იყო.</NothingCrushed>
+  <LetterLabelRoofCollapsed>სახურავის ნგრევა</LetterLabelRoofCollapsed>
+
+  <RecruitSuccess>{0}-მა წარმატებით დაიქირავა {1} ({2} შანსი).</RecruitSuccess>
+  <RecruitFail>{0}-მა ვერ შეძლო {1}-ის დაქირავება ({2} შანსი).</RecruitFail>
+
+  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} არის {RELATIVE_labelShort}-ის {1}. თუ {PAWN_nameDef} მოკვდება, {RELATIVE_labelShort} განიცდის ხანგრძლივ მწუხარებას. თუმცა, თუ თქვენ მოახერხებთ {PAWN_nameDef}-ის გადარჩენას, {RELATIVE_labelShort} დიდი ხნის განმავლობაში ძალიან ბედნიერი იქნება.</RelatedPawnInvolvedInQuest>
+
+  <LetterLabelBirthday>დაბადების დღე</LetterLabelBirthday>
+  <BirthdayChronological>დღეს {0}-ის ქრონოლოგიური დაბადების დღეა! ბიოლოგიურად, {1} არის {3} წლის.\n\nქრონოლოგიურად, {1} ახლახან გახდა {2}.\n\nგაითვალისწინეთ, რომ რადგან ადამიანები არ ბერდებიან კრიპტოძილის დროს, ქრონოლოგიური დაბადების დღე განცალკევებულია ბიოლოგიური დაბადების დღისგან.</BirthdayChronological>
+  <LetterBirthdayBiological>{0_nameFull}-მა მიაღწია {1}-ის ბიოლოგიურ ასაკს.</LetterBirthdayBiological>
+  <BirthdayBiologicalAgeInjuries>სამწუხაროდ, {0_nameFull}-მა დაბერების გამო მიიღო შემდეგი დაავადებები</BirthdayBiologicalAgeInjuries>
+
+  <LetterLabelNewDisease>დაავადება</LetterLabelNewDisease>
+  <NewDisease>{PAWN} დაავადდა {1}-ით.\n\nდარწმუნდით, რომ გაქვთ სამედიცინო საწოლი და ექიმი. დარწმუნდით, რომ {PAWN_definite} მიიღებს სათანადო მკურნალობას და რაც შეიძლება მეტ დროს ატარებს საწოლში.</NewDisease>
+  <NewPartDisease>{PAWN} დაავადდა {3}-ით. ინფექცია არის {PAWN_possessive} {1}.\n\nდარწმუნდით, რომ გაქვთ სამედიცინო საწოლი და ექიმი. დარწმუნდით, რომ {PAWN_definite} მიიღებს სათანადო მკურნალობას და რაც შეიძლება მეტ დროს ატარებს საწოლში.</NewPartDisease>
+  <NewDiseaseAnimal>{PAWN_labelShort}-ს განუვითარდა დაავადება: {1}</NewDiseaseAnimal>
+  <NewPartDiseaseAnimal>{PAWN_labelShort}-ს განუვითარდა დაავადება: {3} {PAWN_possessive} {1}-ში</NewPartDiseaseAnimal>
+
+  <PawnWasFormerlyColonist>{0} ადრე იყო თქვენი ფრაქციის ნაწილი.</PawnWasFormerlyColonist>
+  <PawnWasFormerlyLodger>თქვენ ადრე უმასპინძლეთ {0}-ს.</PawnWasFormerlyLodger>
+  <PawnHasTheseRelationshipsWithColonists>{1_labelShort}-ს აქვს შემდეგი ურთიერთობები თქვენს კოლონისტებთან:</PawnHasTheseRelationshipsWithColonists>
+
+  <LetterLabelAncientShrineWarning>უძველესი საფრთხე</LetterLabelAncientShrineWarning>
+  <AncientShrineWarning>როდესაც {PAWN_nameDef} უახლოვდება ძველ კედელს, წინათგრძნობის გრძნობა სძლევს {PAWN_objective}-ს. {PAWN_pronoun} არ არის დარწმუნებული რატომ, მაგრამ {PAWN_pronoun} გრძნობს, რომ ეს მტვრიანი სტრუქტურა შეიძლება შეიცავდეს დიდ საფრთხეს.</AncientShrineWarning>
+
+  <StruckMineable>ჩვენ დავამარცხეთ {0}!</StruckMineable>
+
+  <LetterLabelAnimalManhunterRevenge>{0} შურისძიება</LetterLabelAnimalManhunterRevenge>
+  <AnimalManhunterFromDamage>{1_indefinite} უტევს მას შემდეგ, რაც ზიანი მიაყენა!\n\nიგი ნადირობს ნებისმიერ ჰუმანოიდზე, რომელსაც მიაღწევს. ის დამშვიდდება, როცა დაიძინებს.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromTaming>{1_indefinite} უტევს უშედეგო მოთვინიერების მცდელობის გამო!</AnimalManhunterFromTaming>
+  <AnimalManhunterOthers>ახლომდებარე სხვა {1_kindBasePlural} ასევე განრისხდა!</AnimalManhunterOthers>
+
+  <LetterFriendlyTrapSprungLabel>{1_labelShort} დარტყმის ხაფანგი</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprung>{1_labelShort}-მა შემთხვევით აიღო ხაფანგი და მისგან ზიანი მიიღო.</LetterFriendlyTrapSprung>
+
+  <LetterHealthComplications>{PAWN_labelShort}-ს განუვითარდა ჯანმრთელობის მდგომარეობა:\n\n {1}\n\nეს გამოწვეული იყო:\n\n {2}</LetterHealthComplications>
+  <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
+  
+  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort}-ს განუვითარდა ჯანმრთელობის მდგომარეობა: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
+
+  <LetterLeadersDeathLabel>{1} გარდაიცვალა: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} {0}-დან გარდაიცვალა.</LetterLeadersDeath>
+
+  <LetterLeaderChangedLabel>ახალი {1}: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChanged>{OLDLEADER_nameFull} აღარ არის {1} {0}-დან.</LetterLeaderChanged>
+
+  <LetterNewLeader>ახალი {0} არის {NEWLEADER_nameFull}.</LetterNewLeader>
+
+  <FinalStraw>საბოლოო ჩალა იყო: {0}</FinalStraw>
+  <MentalStateReason_Mood>ეს ცუდი განწყობის გამო მოხდა.</MentalStateReason_Mood>
+  <MentalStateReason_Trait>ეს მოხდა თვისების გამო: {0}.</MentalStateReason_Trait>
+  <MentalStateReason_Hediff>ეს მოხდა იმის გამო, რომ: {0}.</MentalStateReason_Hediff>
+  <MentalStateReason_BondedHumanDeath>ეს მოხდა {0_definite}-ის გარდაცვალების გამო.</MentalStateReason_BondedHumanDeath>
+  <LastFactionRelationsEvent>ბოლო ღონისძიება იყო</LastFactionRelationsEvent>
+
+  <ViewRelatedQuest>იხილეთ დაკავშირებული ქვესტი</ViewRelatedQuest>
+  <ViewQuest>ქვესტის ნახვა</ViewQuest>
+  <LastEventsInLife>ბოლო მოვლენები {PAWN_definite}-ის ცხოვრებაში</LastEventsInLife>
+
+  <LetterInspirationBeginThanksToHighMoodPart>მაღალი განწყობის წყალობით, [PAWN_nameIndef]-მა მიიღო შთაგონება!</LetterInspirationBeginThanksToHighMoodPart>
+
+  
+  <LetterLabelNoticedRelatedPawns>ურთიერთობა</LetterLabelNoticedRelatedPawns>
+  <LetterRelatedPawnsRaidEnemy>არიან ადამიანები, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან {1}-ის ჩამოსულ ჯგუფში.\n\nგაითვალისწინეთ, რომ მიუხედავად იმისა, რომ ისინი ნათესავები არიან, ისინი მაინც თავს დაესხმებიან ერთმანეთს ცუდი ფრაქციული ურთიერთობების გამო.\n\nეს ადამიანები არიან:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidFriendly>არიან ადამიანები, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან მეგობრული {1}-ის ჩამოსვლის ჯგუფში:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsNeutralGroup>არიან ადამიანები, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან ჩამოსულ ჯგუფში პატიმრებთან:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsTradeShip>ორბიტალური ტრეიდერი ყიდის ადამიანებს, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradingWithSettlement>დასახლება ყიდის ადამიანებს, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithOtherCaravan>ქარავანი ყიდის ადამიანებს, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsGroupGeneric>ჯგუფში არიან ადამიანები, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან:</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsInMapWherePlayerLanded>არიან ადამიანები, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან იმ მხარეში, სადაც თქვენი {0} დაეშვა.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsSettlement>არიან ადამიანები, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან ამ დასახლებაში:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSite>არიან ადამიანები, რომლებსაც აქვთ ურთიერთობა თქვენს {0}-თან ან პატიმრებთან ამ სფეროში:</LetterRelatedPawnsSite>
+
+  <RelationshipAppendedLetterSuffix>ურთიერთობა</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef}-ს აქვს ურთიერთობა კოლონისტთან. {PAWN_pronoun} არის {RELATIVE_labelShort}-ის {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef}-ს აქვს ურთიერთობა თქვენს ერთ-ერთ პატიმართან. {PAWN_pronoun} არის {RELATIVE_labelShort}-ის {1}.</RelationshipAppendedLetterTextPrisoner>
+
+  
+  <LetterLabelAffair>რომანი</LetterLabelAffair>
+  <LetterAffair>{PAWN1_labelShort}-მა, დაქორწინებულმა {SPOUSE_labelShort}-ზე, დაიწყო რომანი {PAWN2_labelShort}-თან.</LetterAffair>
+  <LetterLabelNewLovers>ახალი საყვარლები</LetterLabelNewLovers>
+  <LetterNewLovers>{PAWN1_labelShort}-სა და {PAWN2_labelShort}-ს ახლა ერთად უნდათ ძილი. განიხილეთ მათთვის ორადგილიანი საწოლის მინიჭება.</LetterNewLovers>
+  <LetterNoLongerLovers>{PAWN1_labelShort} და {PAWN2_labelShort} აღარ არიან ურთიერთობაში.</LetterNoLongerLovers>
+  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} შეცვლის {PAWN_possessive} გვარს {PAWN_possessive} დაბადების სახელად.</LetterNoLongerLovers_BackToBirthName>
+  <LetterLabelBreakup>განშორება</LetterLabelBreakup>
+  <LetterLabelAcceptedProposal>ქორწინება დადგა!</LetterLabelAcceptedProposal>
+  <LetterLabelRejectedProposal>წინადადება უარყოფილია</LetterLabelRejectedProposal>
+  <LetterAcceptedProposal>უახლოეს დღეებში ან კვადრუმებში რაღაც მომენტში, მათ ექნებათ ქორწინების ცერემონია და მოიწვევენ ყველა კოლონისტს. იფიქრეთ ქორწინების ადგილის განთავსებაზე, თუ გსურთ გააკონტროლოთ ცერემონიის ადგილი.</LetterAcceptedProposal>
+  <LetterAcceptedProposal_NameChange>{PAWN_label} შეცვლის {PAWN_possessive} გვარს {1}-ად.</LetterAcceptedProposal_NameChange>
+  <LetterRejectedProposal>{INITIATOR_nameFull} ამით უკმაყოფილო იქნება.</LetterRejectedProposal>
+
+  
+  <LetterLabelRelationsChange_Hostile>მტრული: {0}</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Ally>მოკავშირე: {0}</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_NeutralFromHostile>მტერი ახლა ნეიტრალურია: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromAlly>მოკავშირე ახლა ნეიტრალურია: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelShortCircuit>ზუუუ...</LetterLabelShortCircuit>
+
+  
+  <LetterLabelSuffixBondedAnimalDied>შეკავშირებული</LetterLabelSuffixBondedAnimalDied>
+  <LetterPartBondedAnimalDied>{ANIMAL_definite} იყო მიბმული {HUMAN_labelShort}-თან. ეს გავლენას მოახდენს {HUMAN_labelShort}-ის განწყობაზე.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDiedMulti>ეს გავლენას მოახდენს შემდეგი ადამიანების განწყობაზე:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+
+  
+  <LetterLabelPrisonBreak>ციხიდან შესვენება</LetterLabelPrisonBreak>
+  <LetterPrisonBreak>პატიმრებმა გარღვევა მოაწყვეს! მათ რატომღაც დაამარცხეს კარის საკეტები და გზას გადიან. მათ შეიძლება ეძიონ იარაღი, იბრძოლონ ან გაქცევა სცადონ. ეს პატიმრები ჩართულნი არიან:\n\n{0}\n\nპატიმრები უფრო ხშირად ცდილობენ გაქცევას, როდესაც ისინი მრავალრიცხოვანი და ჯანმრთელები არიან.</LetterPrisonBreak>
+
+  
+  <LetterLabelNewlyAddicted>{0} დამოკიდებულება</LetterLabelNewlyAddicted>
+  <LetterNewlyAddicted>{PAWN_labelShort}-მა შექმნა დამოკიდებულება {1}-ზე.\n\n{PAWN_pronoun}-ს ახლა სჭირდება {1}, რომელიც ჩანს {PAWN_possessive} Needs ჩანართზე. {PAWN_pronoun} ავტომატურად მოიხმარს პრეპარატს {PAWN_possessive} მოთხოვნილების დასაკმაყოფილებლად. თუ {PAWN_pronoun} ვერ მიიღებს {1}-ს, {PAWN_pronoun} გადადის გატანამდე.</LetterNewlyAddicted>
+
+  
+  <LetterLabelDrugBinge>{0} ბოროტმოქმედება</LetterLabelDrugBinge>
+  <LetterDrugBinge>{2_label} ხდება {1}-ზე.</LetterDrugBinge>
+
+  
+  <LetterLabelAllCaravanColonistsDied>განადგურდა ქარავანი</LetterLabelAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>{0}-ის ყველა წევრი გარდაიცვალა.</LetterAllCaravanColonistsDied>
+
+  
+  <LetterLabelCaravanEnteredMap>ქარავანი ჩამოვიდა {0_label}-ზე</LetterLabelCaravanEnteredMap>
+  <LetterCaravanEnteredMap>{0} მოვიდა {1_definite}-ზე.</LetterCaravanEnteredMap>
+
+  
+  <LetterLabelCaravanEnteredEnemyBase>შეტევა დაიწყო</LetterLabelCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>{0} მივიდა {1}-ზე და მზად არის შეტევის დასაწყებად.</LetterCaravanEnteredEnemyBase>
+
+  
+  <LetterLabelTransportPodsLandedInEnemyBase>შეტევა დაიწყო</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>თქვენი სატრანსპორტო რგოლები მოვიდა {0}-ზე.</LetterTransportPodsLandedInEnemyBase>
+  <LetterShuttleLandedInEnemyBase>შატლი ჩამოვიდა {0}-ზე.</LetterShuttleLandedInEnemyBase>
+
+  
+  <LetterLabelFactionBaseDefeated>ბაზა განადგურებულია</LetterLabelFactionBaseDefeated>
+  <LetterFactionBaseDefeated>მტრის დასახლება {0} განადგურდა.\n\n{1}-ში თქვენი ქარავანი თავს დაესხმება მტრებს. ისინი დაიწყებენ ძალების გაგზავნას ქარავანზე თავდასხმის მიზნით, თუ ის რეფორმები არ გაივლის და არ დატოვებს.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeatedNoRaids>მტრის დასახლება {0} განადგურდა.</LetterFactionBaseDefeatedNoRaids>
+  <LetterFactionBaseDefeated_FactionDestroyed>ვინაიდან ეს იყო მათი ბოლო დასახლება, {0} დამარცხდა.</LetterFactionBaseDefeated_FactionDestroyed>
+
+  
+  <LetterLabelDefeatAllEnemiesQuestCompleted>ქვესტი დასრულდა</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>თქვენ დაამარცხეთ მტრის ფორპოსტი!\n\nგადახდა {0}-დან მოვიდა და ფრაქციული ურთიერთობები გაუმჯობესდა {1}-ით.</LetterDefeatAllEnemiesQuestCompleted>
+
+  
+  <LetterLabelFoundPreciousLump>შორეული რესურსი დასკანირებულია</LetterLabelFoundPreciousLump>
+  <LetterFoundPreciousLump>თქვენი შორ მანძილზე მოქმედების მინერალური სკანერის გამოყენებით, {WORKER_labelShort}-მა აღმოაჩინა {0}-ის ნაჭერი გარკვეულ მანძილზე.\n\nსამწუხაროდ, ის არ გაგრძელდება - სხვები მას პირველად მოიპოვებენ {1} დღეში, თუ ჩვენ ამას არ გავაკეთებთ.\n\n{2}.</LetterFoundPreciousLump>
+
+  
+  <LetterLabelDeepScannerFoundLump>სკანირებული მიწისქვეშა</LetterLabelDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>{FINDER_nameDef}-მა იპოვა ჩამარხული {0}-ის ნაჭერი მიწაში გამჭოლი სკანერის გამოყენებით!</LetterDeepScannerFoundLump>
+
+  
+  <LetterLabelAmbushInExistingMap>სასიკვდილო ხაფანგი</LetterLabelAmbushInExistingMap>
+  <LetterAmbushInExistingMap>თქვენი {0} ჩასაფრებულია!</LetterAmbushInExistingMap>
+
+  
+  <LetterLabelPeaceTalks_Disaster>სამშვიდობო მოლაპარაკებების კატასტროფა</LetterLabelPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>მოლაპარაკებები კატასტროფა იყო. დელეგატებმა ძლივს გადალახეს თავდაპირველი მისალმებები, სანამ დისკუსია შეურაცხყოფასა და ბრალდებებში გადაიზარდა.\n\nთქვენი ქარავანი ადრე წასვლის შემდეგ, {0}-დან {1}-ს დაეწია და შეუტია!\n\nურთიერთობები {1}-თან: {2}.</LetterPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Backfire>სამშვიდობო მოლაპარაკებები უკუშედეგია</LetterLabelPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>მოლაპარაკებებმა უკუ შედეგი გამოიღო. გარკვეული სიამოვნებით ვაჭრობის მიუხედავად, დელეგატებმა არ მიაღწიეს პროგრესს არსებით საკითხებში და მრავალი განცხადება იქნა განმარტებული, როგორც შეურაცხყოფა.\n\nურთიერთობები {0}-თან: {1}.</LetterPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_TalksFlounder>სამშვიდობო მოლაპარაკებების ჩაშლა</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>მოლაპარაკებები ჩაიშალა. დელეგატებმა მოახერხეს მკაფიო და ძირითადი პატივისცემით კომუნიკაცია, მაგრამ ვერ მიაღწიეს პროგრესს რაიმე ნამდვილ საკითხში.\n\nურთიერთობები {0}-თან უცვლელი რჩება.</LetterPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_Success>სამშვიდობო მოლაპარაკებების წარმატება</LetterLabelPeaceTalks_Success>
+  <LetterPeaceTalks_Success>მოლაპარაკებები წარმატებით დასრულდა. დელეგატებმა მიაღწიეს ახალ ურთიერთგაგებას რამდენიმე არსებით საკითხზე.\n\n{0}-თან ურთიერთობა გაუმჯობესდა {1}-ით.</LetterPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Triumph>სამშვიდობო მოლაპარაკებები ტრიუმფით</LetterLabelPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>მოლაპარაკებები დიდი ტრიუმფი იყო! დელეგატები სწრაფად დაუკავშირდნენ პირად დონეზე და დაინახეს ერთმანეთის პერსპექტივა დღის ყველაზე რთულ საკითხებზე.\n\n{0}-თან ურთიერთობა გაუმჯობესდა {1}-ით.\n\nროგორც თქვენი ქარავანი წავიდა, {0}-მა შემოგთავაზეთ საჩუქარი:\n\n{2}</LetterPeaceTalks_Triumph>
+  <PeaceTalksSocialXPGain>{PAWN_labelShort}-მა, თქვენმა მომლაპარაკებელმა, მოიპოვა {1} სოციალური გამოცდილება.</PeaceTalksSocialXPGain>
+
+  
+  <LetterRunWildMentalBreak>{0}-ს მობეზრდა ცივილიზაცია.\n\n{PAWN_pronoun}-მა გააცნობიერა, რომ ველური არსებები ყოველთვის თავისუფალნი არიან. ასე რომ, {PAWN_pronoun}-მა გადაწყვიტა დატოვოს თქვენი ფრაქცია და იცხოვროს ცხოველებთან.\n\nშეგიძლიათ სცადოთ {PAWN_objective}-ის მოთვინიერება ან დაპატიმრება {PAWN_objective}-ის დასაბრუნებლად.</LetterRunWildMentalBreak>
+
+  
+  <LetterCatatonicMentalBreak>{0}-მა განიცადა სრული ფსიქიკური აშლილობა და შევიდა კატატონურ მდგომარეობაში. {PAWN_pronoun} აღდგება რამდენიმე დღეში.</LetterCatatonicMentalBreak>
+
+  <LetterLabelAICoreOffer>პერსონალური ძირითადი შეთავაზება</LetterLabelAICoreOffer>
+  <LetterAICoreOffer>{PAWN_definite} {1}-დან დაგიკავშირდებათ ინფორმაციის შეთავაზებით: პერსონის ბირთვის მდებარეობა, რომელიც დაგჭირდებათ კოსმოსური ხომალდის ასაშენებლად. ისინი გაცნობებთ, რომ ეს ელემენტი საკმაოდ იშვიათია და, როგორც წესი, მის მფლობელებს აქვთ ის მკაცრი დაცვის ქვეშ.\n\nდააინტერესებთ მათ თქვენი კომისიის კონსოლით.</LetterAICoreOffer>
+
+  
+  <LetterCraftedLegendaryLabel>ლეგენდარული ნამუშევარი</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryMessage>{WORKER_labelShort}-მა შექმნა {CRAFTED_labelShort}.\n\nამ ღირებული არტეფაქტის შესახებ სიახლე მთელ მსოფლიოში გავრცელდება.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort}-მა შექმნა {CRAFTED_labelShort}.\n\n{0}\n\nამ ღირებული არტეფაქტის ამბები მთელ მსოფლიოში გავრცელდება.</LetterCraftedLegendaryMessageArt>
+
+  <LetterCraftedMasterworkLabel>შედევრი</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkMessage>{WORKER_labelShort}-მა შექმნა {CRAFTED_labelShort}.</LetterCraftedMasterworkMessage>
+  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort}-მა შექმნა {CRAFTED_labelShort}.\n\n{0}</LetterCraftedMasterworkMessageArt>
+
+  
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>ქარავანი წააგო</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>შენი ქარავანი დაიკარგა. მასთან ერთად დაიკარგნენ შემდეგი ადამიანები და ცხოველები</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Home>მაცხოვრებლები მიტოვებული</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <LetterPawnsLostBecauseMapClosed_Home>შემდეგი ადამიანები და ცხოველები მიტოვებულნი არიან</LetterPawnsLostBecauseMapClosed_Home>
+
+  
+  <LetterLabelHibernateComplete>რეაქტორი მზადაა</LetterLabelHibernateComplete>
+  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name) დაასრულა რეაქტორის ჰიბერნაციის აღდგენის თანმიმდევრობა. რეაქტორი ახლა მზად არის ასაფრენად.</LetterHibernateComplete>
+  <LetterHibernateCompleteStandalone>რეაქტორის გააქტიურების თანმიმდევრობა დასრულებულია. ახლა ის მზად არის ასაფრენად.</LetterHibernateCompleteStandalone>
+
+  
+  <LetterLabelVisitorsGaveGift>საჩუქარი {0}-ისგან</LetterLabelVisitorsGaveGift>
+  <LetterVisitorsGaveGift>{0}-მა {PAWN_factionName}-მა დატოვა საჩუქარი:\n\n{1}</LetterVisitorsGaveGift>
+
+  
+  <LetterLabelFactionBaseProximity>ფრაქციის ბაზის სიახლოვე</LetterLabelFactionBaseProximity>
+  <LetterFactionBaseProximity>იმის გამო, რომ თქვენ ძალიან ახლოს ხართ სხვა ფრაქციებთან, ისინი გრძნობენ, რომ თქვენ ხელყოფთ მათ ტერიტორიას.\n\nბოლო ოთხკუთხედისთვის, ფრაქციული ურთიერთობები შემცირდა:</LetterFactionBaseProximity>
+
+  
+  <LetterLabelCaravansBattlefieldVictory>ქარავანის ბრძოლა გაიმარჯვა</LetterLabelCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>თქვენმა ქარავანმა მოიგო ბრძოლა.\n\nშეგიძლიათ ქარავანის რეფორმირება ახლა მსოფლიო ეკრანზე, ბრძოლის ველის არჩევით და არჩევით "Reform caravan".\n\nარ არის საჭირო ნივთების ხელით შეგროვება, რეფორმის ქარავანის ხელსაწყოს შეუძლია ამის გაკეთება მყისიერად.\n\n{0}-ში თქვენს ქარავანს მტრები თავს დაესხმებიან. ისინი დაიწყებენ ძალების გაგზავნას ქარავანზე თავდასხმის მიზნით, თუ ის რეფორმები არ გაივლის და არ დატოვებს.</LetterCaravansBattlefieldVictory>
+
+  
+  <LetterLabelRescueQuestFinished>მაშველი უერთდება</LetterLabelRescueQuestFinished>
+  <LetterRescueQuestFinished>თქვენ გადაარჩინე {PAWN_nameDef} და {PAWN_pronoun} შემოუერთდა თქვენს ჯგუფს.</LetterRescueQuestFinished>
+  <LetterRescueQuestFinishedCaravanExtra>\n\nახლა შეგიძლიათ თან წაიღოთ {PAWN_objective}. ამისათვის გახსენით მსოფლიო ეკრანი, აირჩიეთ ეს საიტი და აირჩიეთ "Reform caravan" ბრძანება.</LetterRescueQuestFinishedCaravanExtra>
+
+  
+  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} ნადირობა {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>{PREDATOR} ნადირობს {PREY_definite} საკვებზე!</LetterPredatorHuntingColonist>
+
+  
+  <LetterDisease_Blocked>{0} დაბლოკილია {1} ჩართული</LetterDisease_Blocked>
+  <LetterLabelTraitDisease>დაავადება: {0}</LetterLabelTraitDisease>
+  <LetterTraitDisease>{PAWN_label} დაავადდა {1}-ით.\n\nდარწმუნდით, რომ გაქვთ სამედიცინო საწოლი და ექიმი. დარწმუნდით, რომ {PAWN_pronoun} მიიღებს სათანადო მკურნალობას და რაც შეიძლება მეტ დროს ატარებს საწოლში.</LetterTraitDisease>
+
+  
+  <LetterLabelQuestAvailableTitle>ქვესტი ხელმისაწვდომია: {0}</LetterLabelQuestAvailableTitle>
+  <LetterLabelQuestAutomaticallyAcceptedTitle>ქვესტი აქტიური: {0}</LetterLabelQuestAutomaticallyAcceptedTitle>
+  <LetterNewQuest>{DISCOVEREDFROM} ახალი ქვესტი.</LetterNewQuest>
+  <LetterNewQuestFromUnknown>ახალი ქვესტი ხელმისაწვდომია.</LetterNewQuestFromUnknown>
+  <LetterQuestIsNamed>ქვესტს ჰქვია '{0}'.</LetterQuestIsNamed>
+  <LetterQuestActiveNowTime>მისი ვადა ამოიწურება {0}-ში.</LetterQuestActiveNowTime>
+  <LetterQuestRequiresAcceptance>თუ არ დაეთანხმებით ქვესტს {0}-ის ფარგლებში, ის ამოიწურება.</LetterQuestRequiresAcceptance>
+  <QuestDiscoveredFromBook>{BOOK_labelNoParenthesis}-ის კითხვისას {READER_nameDef}-მა აღმოაჩინა</QuestDiscoveredFromBook>
+  <QuestDiscoveredFromTrader>ტრეიდერ {TRADER_nameDef}-თან საუბრისას {NEGOTIATOR_nameDef}-მა შეიტყო</QuestDiscoveredFromTrader>
+  <QuestDiscoveredFromBeggar>{RECEIVER_possessive} მადლიერების გამოსახატავად თქვენი ქველმოქმედებისთვის, მათხოვარმა {RECEIVER_nameDef}-მა გაუზიარა საიდუმლო {GIVER_nameDef}-ს.\n\nთქვენ შეიტყვეთ</QuestDiscoveredFromBeggar>
+  <QuestDiscoveredFromDebug>თქვენ აღმოაჩინეთ</QuestDiscoveredFromDebug>
+
+  
+  <LetterLabelQuestDropPodsArrived>პოდი ჩამოვიდა</LetterLabelQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>ჩამოვიდა სატრანსპორტო რგოლები შემდეგი შინაარსით:\n\n{0}</LetterQuestDropPodsArrived>
+
+  
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label}-მა მიიღო ნივთები</LetterLabelQuestItemsAddedToCaravanInventory>
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label}-მა მიიღო შემდეგი ელემენტები:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
+
+  
+  <LetterLabelRefugeeJoins>{PAWN_nameDef} უერთდება</LetterLabelRefugeeJoins>
+  <LetterRefugeeJoins>ჩამოვიდა {PAWN_title} სახელად {PAWN_nameDef} და უერთდება კოლონიას.</LetterRefugeeJoins>
+  
+  
+  <LetterLabelRescueeJoins>{PAWN_nameDef} უერთდება</LetterLabelRescueeJoins>
+  <LetterRescueeJoins>{PAWN_nameDef} მადლობელია, რომ გადაარჩინე {PAWN_objective}. {PAWN_pronoun}-მა გადაწყვიტა, რომ {PAWN_pronoun} ურჩევნია დარჩეს, ვიდრე დატოვოს და უერთდება თქვენს კოლონიას.</LetterRescueeJoins>
+
+  
+  <LetterLabelPawnsArriveAndJoin>ხალხი უერთდება</LetterLabelPawnsArriveAndJoin>
+  <LetterPawnsArriveAndJoin>შემდეგი ხალხი ჩამოვიდა და შეუერთდა კოლონიას:\n\n{0}</LetterPawnsArriveAndJoin>
+
+  
+  <LetterLabelPawnsArrive>ხალხი ჩამოვიდა</LetterLabelPawnsArrive>
+  <LetterPawnsArrive>ჩამოვიდა შემდეგი ხალხი:\n\n{0}</LetterPawnsArrive>
+
+  
+  <LetterLabelPawnLeaving>{0} მიდის</LetterLabelPawnLeaving>
+  <LetterPawnLeaving>{0} მიდის.</LetterPawnLeaving>
+
+  
+  <LetterLabelPawnsLeaving>{0} მიდის</LetterLabelPawnsLeaving>
+  <LetterPawnsLeaving>{0} მიდის.</LetterPawnsLeaving>
+  
+  
+  <LetterLabelPawnsKidnapped>{PAWN_nameDef} გაიტაცეს</LetterLabelPawnsKidnapped>
+  <LetterPawnsKidnapped>{PAWN_nameDef} გაიტაცა {FACTION_name}-მა!
+\nთუმცა, {PAWN_pronoun} სამუდამოდ არ დაიკარგება. {PAWN_objective}-ის გადარჩენის შესაძლებლობა შეიძლება გამოჩნდეს უახლოეს დღეებში ან წლებში.</LetterPawnsKidnapped>
+  
+  
+  <LetterTechprintAppliedLabel>გამოყენებული Techprint: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedPartIntro>კვლევის პროექტზე გამოყენებულია ტექნიკური პრინტი: {PROJECT_label}.</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartJustUnlocked>თქვენ დაასრულეთ პროექტის ტექნიკური პრინტის მოთხოვნები! თქვენს მკვლევარებს ახლა შეუძლიათ დაიწყონ კვლევა, თუ როგორ გამოიყენონ ტექნოლოგია თქვენს კვლევით სკამებზე.</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartNotUnlockedYet>ამ პროექტის ტექნიკური პრინტის მოთხოვნები ჯერ არ არის დაკმაყოფილებული. {0} ტექნიკური პრინტები აქამდე იქნა გამოყენებული. პროექტს სულ {1} სჭირდება.</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartAlreadyUnlocked>ამ პროექტის ტექნიკური პრინტის მოთხოვნები უკვე დაკმაყოფილდა. დამატებითმა ტექნიკურმა პრინტმა გააუმჯობესა თქვენი კვლევის ძალისხმევა {PROJECT_label}-ზე. დარჩენილი კვლევითი სამუშაოს ნახევარი, {0} ქულა, დასრულდა.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyResearched>ეს პროექტი უკვე სრულად არის გამოკვლეული, ამიტომ ტექპრინტმა საერთოდ არ გააუმჯობესა თქვენი ცოდნა.</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartExpAwarded>ტექპრინტის გამოყენებით, {PAWN_labelShort}-მა მოიპოვა {0} გამოცდილება {1} უნარში.</LetterTechprintAppliedPartExpAwarded>
+  
+  
+  <LetterQuestCompletedLabel>ქვესტი დასრულდა</LetterQuestCompletedLabel>
+  <LetterQuestFailedLabel>ქვესტი ვერ მოხერხდა</LetterQuestFailedLabel>
+  <LetterQuestConcludedLabel>ქვესტი დასრულდა</LetterQuestConcludedLabel>
+  <LetterQuestCompletedSuccess>თქვენ წარმატებით დაასრულეთ ქვესტი '{0}'!</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedFail>თქვენ ვერ მოხერხდა ქვესტი '{0}'.</LetterQuestCompletedFail>
+  <LetterQuestCompletedConcluded>თქვენ დაასრულეთ ქვესტი '{0}'.</LetterQuestCompletedConcluded>
+
+  
+  <LetterBladelinkWeaponBondedLabel>პერსონალური კავშირი: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBonded>{PAWN_labelShort}-მა დაამყარა კავშირი {WEAPON_labelShort}.
+-ის პერსონასთან\nამიერიდან, {WEAPON_labelShort} უარს იტყვის ვინმეს მიერ {PAWN_labelShort}-ის გარდა.</LetterBladelinkWeaponBonded>
+  
+  
+  <LetterLabelMechClusterArrived>მექანოიდები მოვიდნენ</LetterLabelMechClusterArrived>
+  <LetterMechClusterArrived>ჩამოვიდნენ მექანიკა.</LetterMechClusterArrived>
+
+  <LetterLabelSiteCountdownStarted>აღმოჩენილია ქარავანი</LetterLabelSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>თქვენი ქარავანი აღმოჩენილია. {0}-ში {1}-ის გამაგრება {2}-დან დაიწყებს მისვლას რაიონში.\n\nგააფორმეთ თქვენი ქარავანი და დაიწყეთ მოძრაობა, რათა თავიდან აიცილოთ {1}. ახლა ჩანს ტაიმერი, რომელიც ითვლის მათ ჩამოსვლამდე.</LetterTextSiteCountdownStarted>
+
+  <LetterLabelUnrecruitablePawnCaptured>ურყევი პატიმარი</LetterLabelUnrecruitablePawnCaptured>
+  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} ურყევად ლოიალურია თავისი სახლის მიმართ და სრულ უარს იტყვის დაქირავებაზე.\n\nთქვენ შეგიძლიათ ნახოთ, არის თუ არა ვინმე ურყევად ლოიალური მათი შერჩევით.</LetterTextUnrecruitablePawnCaptured>
+  <OptionalEnslaveDesc>დამონება {PAWN_objective}</OptionalEnslaveDesc>
+
+  
+  <LetterTextLungRot>{PAWN} დაავადდა {1}-დან ლპობის სურნელ გაზთან (რომელიც გამოიყოფა გახრწნილი გვამებით) ხანგრძლივი ზემოქმედების გამო.\n\nდარწმუნდით, რომ გყავთ სამედიცინო საწოლი და ექიმი. დარწმუნდით, რომ {PAWN_definite} მიიღებს სათანადო მკურნალობას.</LetterTextLungRot>
+
+  
+  <LetterJoinOfferLabel>შემოუერთდით შეთავაზებას: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <LetterJoinOfferTitle>{PAWN_nameDef} სურს შეუერთდეს თქვენს ფრაქციას.</LetterJoinOfferTitle>
+  <LetterJoinOfferText>{PAWN_nameDef} თვლის, რომ {PAWN_pronoun} ბედნიერია {MAP_definite}-ზე. {PAWN_pronoun}-ს სურს მუდმივად შემოგიერთდეთ.</LetterJoinOfferText>
+  <LetterJoinOfferAccept>მიღება</LetterJoinOfferAccept>
+
+  
+  <LetterFinishedSpeech>{ORGANIZER_labelShort}-მა დაასრულა {ORGANIZER_possessive} გამოსვლა.</LetterFinishedSpeech>
+  <LetterTerribleSpeech>ეს იყო მართლაც სასტიკი - შეჩერებული, სავსე უხერხული ხუმრობებითა და დამთრგუნველი ისტორიებით.</LetterTerribleSpeech>
+  <LetterUninspiringSpeech>ეს არ იყო შთამაგონებელი - არაორიგინალი, დაღლილი და ყოველგვარი ვნების გარეშე.</LetterUninspiringSpeech>
+  <LetterEncouragingSpeech>ეს იყო გამამხნევებელი და კარგად გადმოცემული.</LetterEncouragingSpeech>
+  <LetterInspirationalSpeech>ეს იყო საოცრად შთამაგონებელი, სავსე ინტენსივობითა და მიზანდასახულობით.</LetterInspirationalSpeech>
+  <LetterSpeechInspiredListeners>შემდეგი ხალხი განსაკუთრებით აღძრა სიტყვით და ახლა შთაგონებულია:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiration>{SPEAKER_nameIndef}-ის შესანიშნავი გამოსვლის წყალობით, {PAWN_nameIndef}-მა მიიღო შთაგონება!</LetterSpeechInspiration>
+  <LetterSpeechInterrupted>იმის გამო, რომ გამოსვლა შეწყდა მხოლოდ {0}-ის დასრულების შემდეგ, ის არც ისე ეფექტური იყო.</LetterSpeechInterrupted>
+  <LetterSpeechCancelled>{0}-ის გამოსვლა გაუქმდა 50%-მდე დასრულებამდე. არანაირი ეფექტი არ ქონდა.</LetterSpeechCancelled>
+  <LetterLabelSpeechCancelled>გამოსვლა გაუქმდა</LetterLabelSpeechCancelled>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BodyMastery.degreeDatas.0.description>{PAWN_nameDef}-ს არ აქვს ისეთი ძირითადი საჭიროებები, როგორიცაა ჭამა, ძილი ან კომფორტი. {PAWN_possessive} სხეულს ამოძრავებს რაღაც უცნობი მექანიზმი, რომელმაც {PAWN_possessive} თვალები მთლიანად გაათეთრა.</BodyMastery.degreeDatas.0.description>
+  <BodyMastery.degreeDatas.0.label>სხეულის ოსტატობა</BodyMastery.degreeDatas.0.label>
+  <Disturbing.degreeDatas.0.description>{PAWN_nameDef} თავისებური ადამიანია, რომელიც თითქოს საშინელ იდეებზეა მიჯაჭვული. {PAWN_objective}-თან საუბარი ხშირად აღმაშფოთებელია.</Disturbing.degreeDatas.0.description>
+  <Disturbing.degreeDatas.0.label>შემაშფოთებელი</Disturbing.degreeDatas.0.label>
+  <Joyous.degreeDatas.0.description>{PAWN_nameDef}-ს აქვს უნარი, ყველამ თავი უკეთ იგრძნოს და შთააგონოს, რომ იყვნენ საკუთარი თავის საუკეთესო ვერსია.</Joyous.degreeDatas.0.description>
+  <Joyous.degreeDatas.0.label>მხიარული</Joyous.degreeDatas.0.label>
+  <Occultist.degreeDatas.0.description>{PAWN_nameDef}-ს აქვს ღრმა ცოდნა ბნელი ფსიქიკური ენერგიის უკუღმა ნიმუშების შესახებ. {PAWN_pronoun}-ს შეუძლია არაბუნებრივი არსებების შესწავლა უფრო სწრაფად, ვიდრე სხვები. {PAWN_pronoun} ასევე პერიოდულად ასწავლის ამ არაადამიანურ ცოდნას სხვებს, როდესაც {PAWN_pronoun} ექნება შანსი.</Occultist.degreeDatas.0.description>
+  <Occultist.degreeDatas.0.label>ოკულტისტი</Occultist.degreeDatas.0.label>
+  <PerfectMemory.degreeDatas.0.description>{PAWN_nameDef}-ს აქვს შესანიშნავი მეხსიერება, როგორც ინფორმაციის შენარჩუნების, ასევე კუნთების მეხსიერების თვალსაზრისით. {PAWN_possessive} უნარები არასოდეს გაფუჭდება.</PerfectMemory.degreeDatas.0.description>
+  <PerfectMemory.degreeDatas.0.label>სრულყოფილი მეხსიერება</PerfectMemory.degreeDatas.0.label>
+  <VoidFascination.degreeDatas.0.description>{PAWN_nameDef} უცნაურად არის დაინტერესებული არაბუნებრივი არსებებით და ადვილად იტაცებს მათ.</VoidFascination.degreeDatas.0.description>
+  <VoidFascination.degreeDatas.0.label>ბათილად გატაცება</VoidFascination.degreeDatas.0.label>
+</LanguageData>

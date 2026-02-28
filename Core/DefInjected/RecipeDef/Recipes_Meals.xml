@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CookMealFine.description>მოამზადეთ გარკვეულწილად რთული კერძი ხორცისა და მცენარეული ინგრედიენტების კომბინაციით.</CookMealFine.description>
+  <CookMealFine.jobString>მშვენიერი კერძის მომზადება.</CookMealFine.jobString>
+  <CookMealFine.label>მშვენიერი კერძის მომზადება</CookMealFine.label>
+  <CookMealFine_Meat.description>მოამზადეთ ცოტა რთული კერძი ხორცის ინგრედიენტებისგან.</CookMealFine_Meat.description>
+  <CookMealFine_Meat.jobString>ხორცისმჭამელი მშვენიერი კერძის მომზადება.</CookMealFine_Meat.jobString>
+  <CookMealFine_Meat.label>საზ ხორცისმჭამელი ჯარიმა კვება</CookMealFine_Meat.label>
+  <CookMealFine_Veg.description>მოამზადეთ გარკვეულწილად რთული კერძი მცენარეული ინგრედიენტებისგან.</CookMealFine_Veg.description>
+  <CookMealFine_Veg.jobString>გემრიელი ვეგეტარიანული კერძის მომზადება.</CookMealFine_Veg.jobString>
+  <CookMealFine_Veg.label>გემრიელი ვეგეტარიანული კერძის მომზადება</CookMealFine_Veg.label>
+  <CookMealFineBulk.description>მოხარშეთ 4 გარკვეულწილად რთული კერძი ხორცისა და მცენარეული ინგრედიენტების კომბინაციით. ზოგიერთი ინგრედიენტი იხარჯება, რათა შეიქმნას კარგი კვების გამოცდილება.</CookMealFineBulk.description>
+  <CookMealFineBulk.jobString>4 კარგი კერძის მომზადება.</CookMealFineBulk.jobString>
+  <CookMealFineBulk.label>გემრიელი კერძის მომზადება x4</CookMealFineBulk.label>
+  <CookMealFineBulk_Meat.description>მოხარშეთ 4 გარკვეულწილად რთული კერძი ხორცის ინგრედიენტებიდან. ზოგიერთი ინგრედიენტი იხარჯება, რათა შეიქმნას კარგი კვების გამოცდილება. მხოლოდ ხორცით მრავალფეროვანი არომატის წარმოება დამატებით არაეფექტურობას იწვევს.</CookMealFineBulk_Meat.description>
+  <CookMealFineBulk_Meat.jobString>4 მტაცებელი კერძის მომზადება.</CookMealFineBulk_Meat.jobString>
+  <CookMealFineBulk_Meat.label>ხორცისმჭამელი მშვენიერი კერძის მომზადება x4</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Veg.description>მოამზადეთ 4 გარკვეულწილად რთული კერძი მცენარეული ინგრედიენტებისგან. ზოგიერთი ინგრედიენტი იხარჯება, რათა შეიქმნას კარგი კვების გამოცდილება. მხოლოდ მცენარეებით მრავალფეროვანი არომატის წარმოება იწვევს დამატებით არაეფექტურობას.</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.jobString>4 გემრიელი ვეგეტარიანული კერძის მომზადება.</CookMealFineBulk_Veg.jobString>
+  <CookMealFineBulk_Veg.label>გემრიელი ვეგეტარიანული კერძის მომზადება x4</CookMealFineBulk_Veg.label>
+  <CookMealLavish.description>მოამზადეთ ძალიან რთული კერძი ხორცისა და მცენარეული ინგრედიენტების კომბინაციით. ინგრედიენტების დიდი ნაწილი იხარჯება, რათა შეიქმნას საუკეთესო კვების გამოცდილება.</CookMealLavish.description>
+  <CookMealLavish.jobString>მდიდრული კერძის მომზადება.</CookMealLavish.jobString>
+  <CookMealLavish.label>მდიდრული კერძის მომზადება</CookMealLavish.label>
+  <CookMealLavish_Meat.description>მოამზადეთ ძალიან რთული კერძი ხორცის ინგრედიენტებისგან. ინგრედიენტების დიდი ნაწილი იხარჯება, რათა შეიქმნას საუკეთესო კვების გამოცდილება. მხოლოდ ხორცით მრავალფეროვანი არომატის წარმოება დამატებით არაეფექტურობას იწვევს.</CookMealLavish_Meat.description>
+  <CookMealLavish_Meat.jobString>ხორცისმჭამელი მდიდრული კერძის მომზადება.</CookMealLavish_Meat.jobString>
+  <CookMealLavish_Meat.label>მოამზადეთ მტაცებელი მდიდრული კერძი</CookMealLavish_Meat.label>
+  <CookMealLavish_Veg.description>მოამზადეთ ძალიან რთული კერძი მცენარეული ინგრედიენტებისგან. ინგრედიენტების დიდი ნაწილი იხარჯება, რათა შეიქმნას საუკეთესო კვების გამოცდილება. მხოლოდ მცენარეებით მრავალფეროვანი არომატის წარმოება იწვევს დამატებით არაეფექტურობას.</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.jobString>მდიდრული ვეგეტარიანული კერძის მომზადება.</CookMealLavish_Veg.jobString>
+  <CookMealLavish_Veg.label>მდიდრული ვეგეტარიანული კერძის მომზადება</CookMealLavish_Veg.label>
+  <CookMealLavishBulk.description>მოამზადეთ 4 ძალიან რთული კერძი ხორცისა და მცენარეული ინგრედიენტების კომბინაციით. ინგრედიენტების დიდი ნაწილი იხარჯება, რათა შეიქმნას საუკეთესო კვების გამოცდილება.</CookMealLavishBulk.description>
+  <CookMealLavishBulk.jobString>4 მდიდრული კერძის მომზადება.</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.label>მდიდრული კერძის მომზადება x4</CookMealLavishBulk.label>
+  <CookMealLavishBulk_Meat.description>მოხარშეთ 4 ძალიან რთული კერძი ხორცის ინგრედიენტებიდან. ინგრედიენტების დიდი ნაწილი იხარჯება, რათა შეიქმნას საუკეთესო კვების გამოცდილება. მხოლოდ ხორცით მრავალფეროვანი არომატის წარმოება დამატებით არაეფექტურობას იწვევს.</CookMealLavishBulk_Meat.description>
+  <CookMealLavishBulk_Meat.jobString>ხორცისმჭამელი 4 მდიდრული კერძის მომზადება.</CookMealLavishBulk_Meat.jobString>
+  <CookMealLavishBulk_Meat.label>მოამზადეთ მტაცებელი მდიდრული კერძი x4</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Veg.description>მოამზადეთ 4 ძალიან რთული კერძი მცენარეული ინგრედიენტებისგან. ინგრედიენტების დიდი ნაწილი იხარჯება, რათა შეიქმნას საუკეთესო კვების გამოცდილება. მხოლოდ მცენარეებით მრავალფეროვანი არომატის წარმოება იწვევს დამატებით არაეფექტურობას.</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.jobString>4 მდიდრული ვეგეტარიანული კერძის მომზადება.</CookMealLavishBulk_Veg.jobString>
+  <CookMealLavishBulk_Veg.label>ვეგეტარიანული მდიდრული კერძის მომზადება x4</CookMealLavishBulk_Veg.label>
+  <CookMealSimple.description>მოამზადეთ მარტივი კერძი ერთი ინგრედიენტისგან.</CookMealSimple.description>
+  <CookMealSimple.jobString>მარტივი საჭმლის მომზადება.</CookMealSimple.jobString>
+  <CookMealSimple.label>მარტივი კერძის მომზადება</CookMealSimple.label>
+  <CookMealSimpleBulk.description>მოამზადეთ 4 მარტივი კერძი ერთი ინგრედიენტისგან.</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.jobString>4 მარტივი კერძის მომზადება.</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.label>მარტივი კერძის მომზადება x4</CookMealSimpleBulk.label>
+  <CookMealSurvival.description>მოამზადეთ შეფუთული გადარჩენის კვება ხორცისა და მცენარეული ინგრედიენტების კომბინაციით. ინგრედიენტების დიდი ნაწილი იკარგება შენარჩუნების პროცესში.</CookMealSurvival.description>
+  <CookMealSurvival.jobString>გადარჩენის საჭმლის მომზადება.</CookMealSurvival.jobString>
+  <CookMealSurvival.label>მოამზადეთ შეფუთული გადარჩენის კვება</CookMealSurvival.label>
+  <CookMealSurvivalBulk.description>მოამზადეთ 4 შეფუთული გადარჩენის კვება ხორცისა და მცენარეული ინგრედიენტების კომბინაციით. ინგრედიენტების დიდი ნაწილი იკარგება შენარჩუნების პროცესში.</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.jobString>4 გადარჩენის საჭმლის მომზადება.</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.label>მოამზადეთ შეფუთული გადარჩენის კვება x4</CookMealSurvivalBulk.label>
+</LanguageData>

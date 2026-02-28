@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BilliardsTable.description>რბილი ზედაპირით შემოსაზღვრული მაგიდა ბილიარდის ტიპის სხვადასხვა თამაშების სათამაშოდ. ის ავარჯიშებს სროლის უნარს.</BilliardsTable.description>
+  <BilliardsTable.label>ბილიარდის მაგიდა</BilliardsTable.label>
+  <ChessTable.description>მეფეების უძველესი თამაში. დროდადრო რამდენიმე საათით შესანიშნავი გასართობია, მარტო თამაშის შემთხვევაშიც კი. ის ინტელექტუალურ უნარებს ავარჯიშებს.\n\nგამოსაყენებლად ამ ნაგებობას გვერდით სკამები ან ტაბურეტები სჭირდება.</ChessTable.description>
+  <ChessTable.label>ჭადრაკის მაგიდა</ChessTable.label>
+  <FlatscreenTelevision.description>მაღალტექნოლოგიური ბრტყელეკრანიანი ტელევიზორი კრისტალურად სუფთა გამოსახულებით და მდიდარი ფერებით. იღებს გადაცემებს უძველესი თანამგზავრებიდან და ყველგან არსებული მონაცემთა ბარათებიდან.</FlatscreenTelevision.description>
+  <FlatscreenTelevision.label>ბრტყელეკრანიანი ტელევიზორი</FlatscreenTelevision.label>
+  <GameOfUrBoard.description>ეს საინტერესო, მაგრამ აღმაშფოთებელი სამაგიდო თამაში, რომელიც დათარიღებულია ჩვენს წელთაღრიცხვამდე 2500 წლით, შეუძლია ერთ ან ორ ადამიანს ითამაშოს. ის ავარჯიშებს ინტელექტუალურ უნარებს.</GameOfUrBoard.description>
+  <GameOfUrBoard.label>Game-of-Ur დაფა</GameOfUrBoard.label>
+  <HoopstoneRing.description>უბრალო უძველესი თამაში, რომელიც თამაშობდა ქვებით და მიწაში დიდი ბეჭდით. მოთამაშეები ცდილობენ შორიდან ასროლონ ქვებს რგოლში. ეს დამამშვიდებელია და ავარჯიშებს სროლის უნარს.</HoopstoneRing.description>
+  <HoopstoneRing.label>რგოლის ქვის ბეჭედი</HoopstoneRing.label>
+  <HorseshoesPin.description>მარტივი უძველესი თამაში, რომელიც თამაშობდა ცხენებითა და დიდი ქინძისთავებით მიწაში. მოთამაშეები ისვრიან ცხენის ფეხებს, რათა ეცადონ, რომ ისინი დაჯდეს ქინძისთავზე. ეს დამამშვიდებელია და ავარჯიშებს სროლის უნარს.</HorseshoesPin.description>
+  <HorseshoesPin.label>ნალის სარი</HorseshoesPin.label>
+  <MegascreenTelevision.description>უზარმაზარი, მაღალტექნოლოგიური ტელევიზია. გიგანტური, ჰიპერაქტიური სურათები თითქმის იხტება ეკრანიდან. ძალიან გასართობი. იღებს გადაცემებს უძველესი თანამგზავრებიდან და ყველგან არსებული მონაცემთა ბარათებიდან.</MegascreenTelevision.description>
+  <MegascreenTelevision.label>მეგაეკრანიანი ტელევიზია</MegascreenTelevision.label>
+  <PokerTable.description>მაგიდა სათამაშო კარტის თამაშებისთვის, მაგალითად პოკერისთვის. შესანიშნავი გზაა სტრატეგიული აზროვნებისა და მცირე იღბლის გამოსაცდელად.\n\nგამოსაყენებლად ამ ნაგებობას გვერდით სკამები ან ტაბურეტები სჭირდება.</PokerTable.description>
+  <PokerTable.label>პოკერის მაგიდა</PokerTable.label>
+  <Telescope.description>ტელესკოპი სამოყვარულო ასტრონომიის გასაკეთებლად. ეს გარკვეული სახის ადამიანისთვის დამამშვიდებელი ჰობია. გამოყენება შესაძლებელია მხოლოდ გარეთ.</Telescope.description>
+  <Telescope.label>ტელესკოპი</Telescope.label>
+  <TubeTelevision.description>კათოდური მილის ჩვენება მოძრავი სურათების ხმით საჩვენებლად. რგოლებზეც კი, ხშირად არის ძველი გადამცემი, რომელიც ამუშავებს რაღაც ოდნავ მაინც საინტერესოს.</TubeTelevision.description>
+  <TubeTelevision.label>მილის ტელევიზორი</TubeTelevision.label>
+</LanguageData>

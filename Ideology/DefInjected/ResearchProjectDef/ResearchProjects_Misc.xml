@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bioregeneration.description>გახსენით biosculpter pod-ის ბიოგენერაციის ციკლი. ეს ციკლი კურნავს ძველ ნაწიბურებს, აღადგენს სხეულის მცირე დაკარგულ ნაწილებს, როგორიცაა თითები და ფეხის თითები, და კურნავს ბევრ ფიზიკურ დაავადებას, რომელიც მოჰყვება სიბერეს.</Bioregeneration.description>
+  <Bioregeneration.label>ბიორეგენერაცია</Bioregeneration.label>
+  <Biosculpting.description>შექმენით ბიოსკულპტერის ღობეები, რომლებსაც შეუძლიათ სხვადასხვა ბიოლოგიური ცვლილებების განხორციელება კოლონისტებისთვის. ეს განსაკუთრებით მნიშვნელოვანია ტრანსჰუმანიზმის მორწმუნეებისთვის.</Biosculpting.description>
+  <Biosculpting.label>ბიოსკულპტურა</Biosculpting.label>
+  <NeuralSupercharger.description>შექმენით ნერვული სუპერჩამტენი მოწყობილობები. ნერვული სუპერჩამტენები აუმჯობესებენ ცნობიერებას და სწავლის სიჩქარეს, მაგრამ ისინი ასევე ზრდის შიმშილს და ეფექტი ყოველდღიურად უნდა განახლდეს. ტრანსჰუმანისტებს ხშირად უჭირავთ ნერვულ სუპერდამუხტვას, როგორც მნიშვნელოვან პრაქტიკას.</NeuralSupercharger.description>
+  <NeuralSupercharger.label>ნერვული სუპერჩამტენი</NeuralSupercharger.label>
+</LanguageData>

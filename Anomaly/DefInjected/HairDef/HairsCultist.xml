@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DoubleTuft.label>ორმაგი ტუფი</DoubleTuft.label>
+  <LargeTuft.label>დიდი ტილო</LargeTuft.label>
+  <LongMess.label>ხანგრძლივი არეულობა</LongMess.label>
+  <LongOily.label>გრძელი ცხიმიანი</LongOily.label>
+  <Parted.label>დაშორდა</Parted.label>
+  <PatchyShave.label>ფაქიზი გაპარსვა</PatchyShave.label>
+  <RoughShave.label>უხეში გაპარსვა</RoughShave.label>
+  <ShavedMohawk.label>გაპარსული მოჰოკი</ShavedMohawk.label>
+  <ShortCut.label>მოკლე ჭრილი</ShortCut.label>
+  <SideCut.label>გვერდითი გაჭრა</SideCut.label>
+  <SideSpikes.label>მხარეს spikes</SideSpikes.label>
+</LanguageData>

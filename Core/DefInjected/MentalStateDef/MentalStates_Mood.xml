@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BedroomTantrum.beginLetter>{0} ისტერიკაშია.
+[PAWN_pronoun] [PAWN_possessive] ოთახში ნივთების მტვრევას იწყებს.</BedroomTantrum.beginLetter>
+  <Berserk.baseInspectLine>ფსიქიკური მდგომარეობა: ბერი</Berserk.baseInspectLine>
+  <Berserk.beginLetter>{0} გააფთრდა.
+[PAWN_pronoun] თავს დაესხმის ყველას, ვისაც დაინახავს.</Berserk.beginLetter>
+  <Berserk.label>გაბრაზებული</Berserk.label>
+  <Binging_DrugExtreme.baseInspectLine>ფსიქიკური მდგომარეობა: დაკვრა {0}</Binging_DrugExtreme.baseInspectLine>
+  <Binging_DrugExtreme.label>ნარკოტიკების მოხმარება</Binging_DrugExtreme.label>
+  <Binging_Food.baseInspectLine>ფსიქიკური მდგომარეობა: გაძარცვა</Binging_Food.baseInspectLine>
+  <Binging_Food.beginLetter>{0} ჭამს.</Binging_Food.beginLetter>
+  <Binging_Food.beginLetterLabel>საკვების გადაჭარბება</Binging_Food.beginLetterLabel>
+  <Binging_Food.label>საკვების მიღება</Binging_Food.label>
+  <CorpseObsession.baseInspectLine>ფსიქიკური მდგომარეობა: გვამის აკვიატება</CorpseObsession.baseInspectLine>
+  <CorpseObsession.beginLetter>{0} გატყდა და გვამებით აეკვიატა.
+[PAWN_pronoun] იპოვის გვამს და ყველას სანახავად გამოიტანს.</CorpseObsession.beginLetter>
+  <CorpseObsession.label>გვამის აკვიატება</CorpseObsession.label>
+  <FireStartingSpree.baseInspectLine>ფსიქიკური მდგომარეობა: ხანძრის გაჩენა</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.beginLetter>{0} ყველგან ცეცხლს უკიდებს.
+[PAWN_pronoun] ცოტა ხანს იბორიალებს და შემთხვევით ადგილებში ცეცხლს გააჩენს.</FireStartingSpree.beginLetter>
+  <FireStartingSpree.label>ხანძრის გაჩენა</FireStartingSpree.label>
+  <GiveUpExit.baseInspectLine>ფსიქიკური მდგომარეობა: დანებება და წასვლა</GiveUpExit.baseInspectLine>
+  <GiveUpExit.beginLetter>{0}-მა ამ საზოგადოებაზე ხელი ჩაიქნია.
+[PAWN_pronoun] გადაწყვიტა წავიდეს და სხვაგან უკეთესი ცხოვრება ეძებოს. გასვლისას შეგიძლიათ [PAWN_objective] დააპატიმროთ. სხვა შემთხვევაში, შეიძლება ოდესმე ისევ შეხვდეთ.</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetterLabel>დათმო</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.label>დათმობა და წასვლა</GiveUpExit.label>
+  <InsultingSpree.baseInspectLine>ფსიქიკური მდგომარეობა: შეურაცხმყოფელი აურზაური</InsultingSpree.baseInspectLine>
+  <InsultingSpree.beginLetter>{0} შეურაცხყოფების სერიაშია.
+[PAWN_pronoun] იბორიალებს და სხვებს ლანძღავს.</InsultingSpree.beginLetter>
+  <InsultingSpree.label>შეურაცხყოფა</InsultingSpree.label>
+  <Jailbreaker.baseInspectLine>ფსიქიკური მდგომარეობა: ჯაილბრეიკერი</Jailbreaker.baseInspectLine>
+  <Jailbreaker.beginLetter>{0}-ს ფსიქიკური შეტევა დაეწყო და პატიმრების გაშვებას აპირებს.</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetterLabel>პატიმრების გაშვება</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.label>პატიმარს გაქცევისკენ უბიძგებს</Jailbreaker.label>
+  <MurderousRage.baseInspectLine>ფსიქიკური მდგომარეობა: მკვლელი გაბრაზება</MurderousRage.baseInspectLine>
+  <MurderousRage.beginLetter>{0} მკვლელური მძვინვარებითაა შეპყრობილი.
+[PAWN_pronoun] გადაწყვიტა მოკლას {1}.</MurderousRage.beginLetter>
+  <MurderousRage.label>მკვლელი გაბრაზება</MurderousRage.label>
+  <SadisticRage.baseInspectLine>ფსიქიკური მდგომარეობა: სადისტური გაბრაზება</SadisticRage.baseInspectLine>
+  <SadisticRage.beginLetter>{0} სადისტურ მძვინვარებაშია.
+[PAWN_pronoun] [PAWN_possessive] ბრაზს პატიმრებზე იყრის.</SadisticRage.beginLetter>
+  <SadisticRage.label>სადისტური გაბრაზება</SadisticRage.label>
+  <Slaughterer.baseInspectLine>ფსიქიკური მდგომარეობა: საკლავი</Slaughterer.baseInspectLine>
+  <Slaughterer.beginLetter>{0}-ს ჰქონდა ფსიქიკური აშლილობა და აპირებს [PAWN_possessive] რისხვას თქვენს ცხოველებზე.</Slaughterer.beginLetter>
+  <Slaughterer.label>საკლავი</Slaughterer.label>
+  <Tantrum.baseInspectLine>ფსიქიკური მდგომარეობა: ტანტრუმი</Tantrum.baseInspectLine>
+  <Tantrum.beginLetter>{0} ისტერიკაშია.
+[PAWN_pronoun] შემთხვევით ავეჯს, ნივთებს და ნაგებობებს დაამსხვრევს.</Tantrum.beginLetter>
+  <Tantrum.label>ტანტრუმი</Tantrum.label>
+  <TargetedInsultingSpree.baseInspectLine>ფსიქიკური მდგომარეობა: შეურაცხმყოფელი სპექტაკლი {0}-ის მიმართ</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.beginLetter>{0}-მა [PAWN_possessive] ბრაზი {1}-ზე გადაიტანა.
+[PAWN_pronoun] {1}-ს აეკიდება და შეურაცხყოფას მიაყენებს.</TargetedInsultingSpree.beginLetter>
+  <TargetedTantrum.beginLetter>{0} ისტერიკაშია.
+[PAWN_pronoun] {1}-ის განადგურებას ცდილობს.</TargetedTantrum.beginLetter>
+  <Wander_OwnRoom.baseInspectLine>ფსიქიკური მდგომარეობა: ოთახში დამალვა</Wander_OwnRoom.baseInspectLine>
+  <Wander_OwnRoom.beginLetter>{0} იმალება [PAWN_possessive] ოთახში.</Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.beginLetterLabel>ოთახში დამალვა</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.label>იჯდა მარტო</Wander_OwnRoom.label>
+  <Wander_Psychotic.baseInspectLine>ფსიქიკური მდგომარეობა: ფსიქოზური ხეტიალი</Wander_Psychotic.baseInspectLine>
+  <Wander_Psychotic.beginLetter>{0} ტრიალებს ფსიქოზურ მდგომარეობაში.</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.beginLetterLabel>დაბნეული</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.label>ფსიქოზში მოხეტიალე</Wander_Psychotic.label>
+  <Wander_Sad.baseInspectLine>ფსიქიკური მდგომარეობა: სევდიანი ხეტიალი</Wander_Sad.baseInspectLine>
+  <Wander_Sad.beginLetter>{0} გაფუჭდა და სევდიანად ტრიალებს.</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetterLabel>სევდიანი ხეტიალი</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.label>სევდიანი ხეტიალი</Wander_Sad.label>
+</LanguageData>

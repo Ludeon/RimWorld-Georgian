@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteWithoutTable.stages.0.description>მიწიდან საჭმელი უნდა მეჭამა. არ შეიძლება აქ სუფრის დადება?</AteWithoutTable.stages.0.description>
+  <AteWithoutTable.stages.0.label>სუფრის გარეშე ჭამდა</AteWithoutTable.stages.0.label>
+  <BondedAnimalBanished.stages.0.description>ჩემი შეკრული ცხოველი განდევნეს!</BondedAnimalBanished.stages.0.description>
+  <BondedAnimalBanished.stages.0.label>შეკრული ცხოველი {0} განდევნილი</BondedAnimalBanished.stages.0.label>
+  <ButcheredHumanlikeCorpse.stages.0.description>ვიღაც ცხოველივით დავკალი.</ButcheredHumanlikeCorpse.stages.0.description>
+  <ButcheredHumanlikeCorpse.stages.0.label>ადამიანურად დავხოცე</ButcheredHumanlikeCorpse.stages.0.label>
+  <ButcheredHumanlikeCorpseOpinion.stages.0.label>მოკლული ადამიანის მსგავსი გვამი</ButcheredHumanlikeCorpseOpinion.stages.0.label>
+  <Catharsis.stages.0.description>კარგი იყო, რომ საბოლოოდ განვმარტო ჩემი გრძნობები.</Catharsis.stages.0.description>
+  <Catharsis.stages.0.label>კათარზისი</Catharsis.stages.0.label>
+  <ColonistBanished.stages.0.description>ჩვენ უბრალოდ ვიღაც გავადევნეთ. იმედი მაქვს, რომ ისინი ამას მოახერხებენ, მაგრამ მე ვნერვიულობ.</ColonistBanished.stages.0.description>
+  <ColonistBanished.stages.0.label>კოლონისტი განდევნილი</ColonistBanished.stages.0.label>
+  <ColonistBanishedToDie.stages.0.description>ჩვენ ვიღაც ისე განვადევნეთ, რომ გადარჩენის საშუალება თითქმის არ არის.</ColonistBanishedToDie.stages.0.description>
+  <ColonistBanishedToDie.stages.0.label>კოლონისტი სიკვდილით გააძევეს</ColonistBanishedToDie.stages.0.label>
+  <ColonyPrisonerEscaped.stages.0.description>არ შეგვიძლია საკუთარი ხალხის კონტროლი? ვგრძნობ, რომ აქ ყველაფერი შეიძლება დამემართოს.</ColonyPrisonerEscaped.stages.0.description>
+  <ColonyPrisonerEscaped.stages.0.label>კოლონისტი პატიმარი გაიქცა</ColonyPrisonerEscaped.stages.0.label>
+  <DefeatedHostileFactionLeader.stages.0.description>ისინი ხელმძღვანელობდნენ ჩვენი განადგურების მცდელობებს და მე ისინი ჩამოვართვი!</DefeatedHostileFactionLeader.stages.0.description>
+  <DefeatedHostileFactionLeader.stages.0.label>დაამარცხა მტრული ლიდერი {0}</DefeatedHostileFactionLeader.stages.0.label>
+  <DefeatedHostileFactionLeaderOpinion.stages.0.label>დაამარცხა მტრული ლიდერი</DefeatedHostileFactionLeaderOpinion.stages.0.label>
+  <DefeatedInsectHive.stages.0.description>ერთადერთი კარგი შეცდომა არის მკვდარი შეცდომა!</DefeatedInsectHive.stages.0.description>
+  <DefeatedInsectHive.stages.0.label>დამარცხებული მწერების სკამი</DefeatedInsectHive.stages.0.label>
+  <DefeatedMechCluster.stages.0.description>სისხლი სცემს ლითონს, წყეულო მანქანებო!</DefeatedMechCluster.stages.0.description>
+  <DefeatedMechCluster.stages.0.label>დამარცხებული მექანიკური მტევანი</DefeatedMechCluster.stages.0.label>
+  <DeniedJoining.stages.0.description>ჩვენ უბრალოდ უარვყავით ვიღაცის მოთხოვნა შემოგვიერთდეს. იმედი მაქვს, რომ ისინი ამას გააკეთებენ.</DeniedJoining.stages.0.description>
+  <DeniedJoining.stages.0.label>უარი თქვა შეერთებაზე</DeniedJoining.stages.0.label>
+  <FailedToRescueRelative.stages.0.description>ჩვენ გვქონდა შანსი, გადაგვერჩენა ჩემი ნათესავი და ვერ მოხერხდა. მე შემეძლო დახმარება!</FailedToRescueRelative.stages.0.description>
+  <FailedToRescueRelative.stages.0.label>ვერ მოხერხდა {0} გადარჩენა</FailedToRescueRelative.stages.0.label>
+  <FreedFromSlavery.stages.0.description>მე გავთავისუფლდი მონობისაგან. ძალიან მადლობელი ვარ!</FreedFromSlavery.stages.0.description>
+  <FreedFromSlavery.stages.0.label>მონობისგან გათავისუფლებული</FreedFromSlavery.stages.0.label>
+  <HarvestedOrgan_Bloodlust.stages.0.description>მათი სხეულიდან ხორცის ამოღება ძალიან სისხლიანი და დამაკმაყოფილებელია.</HarvestedOrgan_Bloodlust.stages.0.description>
+  <HarvestedOrgan_Bloodlust.stages.0.label>სისხლიანი ორგანოს მოპოვება</HarvestedOrgan_Bloodlust.stages.0.label>
+  <KilledHumanlikeBloodlust.stages.0.description>ვიღაც მოვკალი! რა ჩქარობს!</KilledHumanlikeBloodlust.stages.0.description>
+  <KilledHumanlikeBloodlust.stages.0.label>მოკლა ვინმე</KilledHumanlikeBloodlust.stages.0.label>
+  <KnowBuriedInSarcophagus.stages.0.description>ამ კოლონიამ ვიღაც ორნამენტულ სარკოფაგში დამარხა. მათი სული მშვიდად იყოს.</KnowBuriedInSarcophagus.stages.0.description>
+  <KnowBuriedInSarcophagus.stages.0.label>დაკრძალულია სარკოფაგში</KnowBuriedInSarcophagus.stages.0.label>
+  <KnowButcheredHumanlikeCorpse.stages.0.description>ვიღაც ცხოველივით დავხოცეთ.</KnowButcheredHumanlikeCorpse.stages.0.description>
+  <KnowButcheredHumanlikeCorpse.stages.0.label>ადამიანურად დავხოცეთ</KnowButcheredHumanlikeCorpse.stages.0.label>
+  <KnowColonistOrganHarvested.stages.0.description>ვიღაცამ კოლონისტს სხეულის ნაწილები წაართვა. საშინელებაა, ვიღაცის ნაწილებად დაშლა, როცა არჩევანი არ აქვს.</KnowColonistOrganHarvested.stages.0.description>
+  <KnowColonistOrganHarvested.stages.0.label>კოლონისტის ორგანო ამოღებულია</KnowColonistOrganHarvested.stages.0.label>
+  <KnowGuestOrganHarvested.stages.0.description>კოლონიამ სტუმრის ან პატიმრის სხეულის ნაწილები წაიღო. საშინელებაა, ვიღაცის ნაწილებად დაშლა, როცა არჩევანი არ აქვს.</KnowGuestOrganHarvested.stages.0.description>
+  <KnowGuestOrganHarvested.stages.0.label>ვიღაცის ორგანო ამოღებულია</KnowGuestOrganHarvested.stages.0.label>
+  <KnowPrisonerSold.stages.0.description>ამ კოლონიამ პატიმარი მონებად გაყიდა. ეს შემაშფოთებელი აზრია.</KnowPrisonerSold.stages.0.description>
+  <KnowPrisonerSold.stages.0.label>გაყიდული პატიმარი</KnowPrisonerSold.stages.0.label>
+  <MyOrganHarvested.stages.0.description>კოლონიამ ჩემგან სხეულის ნაწილები ამოიღო! ძველი ძრავივით მაფუჭებენ!</MyOrganHarvested.stages.0.description>
+  <MyOrganHarvested.stages.0.label>ჩემი ორგანო ამოღებულია</MyOrganHarvested.stages.0.label>
+  <NewColonyHope.stages.0.description>მე შევეჩვიე ამას, მაგრამ მაინც ახალი საინტერესო სიტუაციაა. იმედი მაქვს, ეს გამომდის...</NewColonyHope.stages.0.description>
+  <NewColonyHope.stages.0.label>საწყისი იმედი</NewColonyHope.stages.0.label>
+  <NewColonyOptimism.stages.0.description>რთული სიტუაციაა, მაგრამ მე აღფრთოვანებული ვარ ახალი დასახლების დაარსებით.</NewColonyOptimism.stages.0.description>
+  <NewColonyOptimism.stages.0.label>საწყისი ოპტიმიზმი</NewColonyOptimism.stages.0.label>
+  <Nuzzled.stages.0.description>მომხიბვლელმა ცხოველმა დამაბნია.</Nuzzled.stages.0.description>
+  <Nuzzled.stages.0.label>დაბნეული</Nuzzled.stages.0.label>
+  <Nuzzled.stages.1.description>ეს ისეთი საყვარელია, მხარდამჭერი და მოსიყვარულეა... თავს სრულყოფილად და განახლებულად ვგრძნობ.</Nuzzled.stages.1.description>
+  <Nuzzled.stages.1.label>დაბნეული</Nuzzled.stages.1.label>
+  <ObservedLayingCorpse.stages.0.description>დავინახე მიცვალებული, რომელიც მიწაზე ეგდო. შემაშფოთებელი იყო.</ObservedLayingCorpse.stages.0.description>
+  <ObservedLayingCorpse.stages.0.label>დაფიქსირდა გვამი</ObservedLayingCorpse.stages.0.label>
+  <ObservedLayingRottingCorpse.stages.0.description>დავინახე მიწაზე დამპალი გვამი. ამაზრზენი იყო.</ObservedLayingRottingCorpse.stages.0.description>
+  <ObservedLayingRottingCorpse.stages.0.label>დააფიქსირა გახრწნილი გვამი</ObservedLayingRottingCorpse.stages.0.label>
+  <OnDuty.stages.0.description>საქმე მაქვს.</OnDuty.stages.0.description>
+  <OnDuty.stages.0.label>მორიგე</OnDuty.stages.0.label>
+  <PrisonerBanishedToDie.stages.0.description>ჩვენ პატიმარი ისე განვადევნეთ, რომ გადარჩენის საშუალება თითქმის არ არის.</PrisonerBanishedToDie.stages.0.description>
+  <PrisonerBanishedToDie.stages.0.label>პატიმარი სიკვდილით გააძევეს</PrisonerBanishedToDie.stages.0.label>
+  <PyroUsed.stages.0.description>მხურვალე სიცხე ჩემს მტრებს გაალამაზებს!</PyroUsed.stages.0.description>
+  <PyroUsed.stages.0.label>გამოყენებული ცეცხლოვანი იარაღი</PyroUsed.stages.0.label>
+  <ReleasedHealthyPrisoner.stages.0.description>გამოვუშვით ჯანმრთელი პატიმარი. სასიამოვნოა იმის ცოდნა, რომ ჩვენც კი კარგად ვექცევით პატიმრებს.</ReleasedHealthyPrisoner.stages.0.description>
+  <ReleasedHealthyPrisoner.stages.0.label>პატიმარი გაათავისუფლეს</ReleasedHealthyPrisoner.stages.0.label>
+  <Rescued.stages.0.description>მე გადამარჩინეს! კინაღამ მეგონა, რომ იქ დაბრუნება დავასრულე. ძალიან მადლობელი ვარ.</Rescued.stages.0.description>
+  <Rescued.stages.0.label>გადაარჩინა</Rescued.stages.0.label>
+  <RescuedRelative.stages.0.description>ერთი ჩემი ნათესავი გადავარჩინეთ. ბოლოს და ბოლოს, შვებით ამოვისუნთქე.</RescuedRelative.stages.0.description>
+  <RescuedRelative.stages.0.label>გადაარჩინა {0}</RescuedRelative.stages.0.label>
+  <SleepDisturbed.stages.0.description>ძილის დროს მაწუხებდა ახლომახლო მოძრავი ხალხი. კერძო ოთახი ამას მოაგვარებდა.</SleepDisturbed.stages.0.description>
+  <SleepDisturbed.stages.0.label>დარღვეული ძილი</SleepDisturbed.stages.0.label>
+  <SleptInCold.stages.0.description>სიცივეში უნდა მეძინა. ჩვენ ნამდვილად გვჭირდება რამდენიმე გამათბობელი.</SleptInCold.stages.0.description>
+  <SleptInCold.stages.0.label>სიცივეში ეძინა</SleptInCold.stages.0.label>
+  <SleptInHeat.stages.0.description>აუტანელ სიცხეში მომიწია დაძინება. კონდიციონერი არ გვექნება?</SleptInHeat.stages.0.description>
+  <SleptInHeat.stages.0.label>სიცხეში ეძინა</SleptInHeat.stages.0.label>
+  <SleptOnGround.stages.0.description>მიწაზე ცხოველივით უნდა მეძინა.</SleptOnGround.stages.0.description>
+  <SleptOnGround.stages.0.label>მიწაზე ეძინა</SleptOnGround.stages.0.label>
+  <SleptOutside.stages.0.description>მე უნდა მეძინა გარეთ, ყოველგვარი სტიქიისგან დაცვის გარეშე.</SleptOutside.stages.0.description>
+  <SleptOutside.stages.0.label>გარეთ ეძინა</SleptOutside.stages.0.label>
+  <SoakingWet.stages.0.description>სველი ვარ.</SoakingWet.stages.0.description>
+  <SoakingWet.stages.0.label>სველი სველი</SoakingWet.stages.0.label>
+  <TravelAnticipation.stages.0.description>ამ ქარავანს ცოტა ხანი ვამზადებდი. მოუთმენლად ველოდები მომავალ მოგზაურობას.</TravelAnticipation.stages.0.description>
+  <TravelAnticipation.stages.0.label>მოგზაურობის სურვილი</TravelAnticipation.stages.0.label>
+  <TravelAnticipation.stages.1.description>ამდენი ფიქრი და მომზადება ჩავიდა ამ თავგადასავალში. ვერ ვიტან გზას!</TravelAnticipation.stages.1.description>
+  <TravelAnticipation.stages.1.label>მოგზაურობით აღფრთოვანებული</TravelAnticipation.stages.1.label>
+  <WasImprisoned.stages.0.description>კოლონიამ ცოტა ხნით ციხეში მომიყვანა, გალიაში ჩაკეტილი ცხოველივით.</WasImprisoned.stages.0.description>
+  <WasImprisoned.stages.0.label>დააპატიმრეს</WasImprisoned.stages.0.label>
+  <WitnessedDeathAlly.stages.0.description>დავინახე, როგორ მოკვდა ჩემი ერთი ადამიანი. ისინი ერთ წამს ცოცხლები იყვნენ, მეორე მომენტში - მკვდარი.</WitnessedDeathAlly.stages.0.description>
+  <WitnessedDeathAlly.stages.0.label>შეესწრო მოკავშირის სიკვდილს</WitnessedDeathAlly.stages.0.label>
+  <WitnessedDeathBloodlust.stages.0.description>დავინახე ვიღაც მოკვდა! ეს იყო ინტენსიური!</WitnessedDeathBloodlust.stages.0.description>
+  <WitnessedDeathBloodlust.stages.0.label>შეესწრო სისხლისმღვრელობით სიკვდილს</WitnessedDeathBloodlust.stages.0.label>
+  <WitnessedDeathFamily.stages.0.description>დავინახე, რომ ჩემი ოჯახის წევრი გარდაიცვალა. ჩემი სისხლი და ხორცი...</WitnessedDeathFamily.stages.0.description>
+  <WitnessedDeathFamily.stages.0.label>შეესწრო ოჯახის წევრის გარდაცვალებას</WitnessedDeathFamily.stages.0.label>
+  <WitnessedDeathNonAlly.stages.0.description>დავინახე ვიღაც მოკვდა. ისინი ერთ წამს ცოცხლები იყვნენ, მეორე მომენტში - მკვდარი.</WitnessedDeathNonAlly.stages.0.description>
+  <WitnessedDeathNonAlly.stages.0.label>შეესწრო აუტსაიდერის სიკვდილს</WitnessedDeathNonAlly.stages.0.label>
+</LanguageData>

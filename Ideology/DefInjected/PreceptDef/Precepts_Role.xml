@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <IdeoRole_AnimalsSpecialist.description>განსაკუთრებული იდეოლიგიური სტატუსი, რომელიც ფოკუსირებულია ცხოველებზე ყველაფრის გამორიცხვით. ეს სპეციალიზებული როლი გაზრდის მოთვინიერებას და ვარჯიშის ეფექტურობას. ამ როლის მფლობელები უარს იტყვიან ცხოველებთან დაკავშირებული ზოგიერთი დავალების შესრულებაზე.</IdeoRole_AnimalsSpecialist.description>
+  <IdeoRole_AnimalsSpecialist.label>ცხოველთა სპეციალისტი</IdeoRole_AnimalsSpecialist.label>
+  <IdeoRole_Leader.description>ლიდერი, რომელიც აერთიანებს ჯგუფს და წარმოადგენს თქვენს ფრაქციას დიპლომატიურ ურთიერთობებში.</IdeoRole_Leader.description>
+  <IdeoRole_Leader.label>ლიდერი</IdeoRole_Leader.label>
+  <IdeoRole_MedicalSpecialist.description>განსაკუთრებული იდეოლიგიური სტატუსი, რომელიც ფოკუსირებულია მედიცინაზე ყველაფრის გამორიცხვით. ეს სპეციალიზებული როლი იძლევა გაუმჯობესებულ ქირურგიას და მოვლის ეფექტურობას და ახლომდებარე მოკავშირეების სამედიცინო შესაძლებლობების გაძლიერების უნარს. მორწმუნეები, რომლებიც იღებენ ზრუნვას ერთ-ერთი ამ როლისგან, ბედნიერი იქნებიან ამით. ამ როლის მფლობელები უარს იტყვიან რაიმე სახის ძალადობაზე და არ შეასრულებენ ზოგიერთ არასამედიცინო დავალებას.</IdeoRole_MedicalSpecialist.description>
+  <IdeoRole_MedicalSpecialist.label>სამედიცინო სპეციალისტი</IdeoRole_MedicalSpecialist.label>
+  <IdeoRole_MeleeSpecialist.description>განსაკუთრებული იდეოლიგიური სტატუსი, რომელიც ფოკუსირებულია მელეურ ბრძოლაზე, ყველაფრის გამორიცხვით. ეს სპეციალიზებული როლი იძლევა გაზრდილ ავუარე და დარტყმის შანსებს მელეის ბრძოლაში და მოკლევადიან გაბრაზებულ ტრანსში შესვლის უნარს. ამ როლის მფლობელები უარს იტყვიან მრავალი სახის არასასურველი სამუშაოს შესრულებაზე.</IdeoRole_MeleeSpecialist.description>
+  <IdeoRole_MeleeSpecialist.label>მელეის სპეციალისტი</IdeoRole_MeleeSpecialist.label>
+  <IdeoRole_MiningSpecialist.description>განსაკუთრებული იდეოლიგიური სტატუსი, რომელიც ფოკუსირებულია მაინინგზე ყველაფრის გამორიცხვით. ეს სპეციალიზებული როლი იძლევა გაზრდილი მაინინგის სიჩქარეს და შესაძლებლობას გაზარდოს მიმდებარე მოკავშირეების მაინინგის სიჩქარე. ამ როლის მფლობელები უარს იტყვიან რაიმე არასამაღარო სამუშაოს შესრულებაზე.</IdeoRole_MiningSpecialist.description>
+  <IdeoRole_MiningSpecialist.label>სამთო სპეციალისტი</IdeoRole_MiningSpecialist.label>
+  <IdeoRole_Moralist.description>A moral/spiritual leader who heads rituals and personally counsels believers.</IdeoRole_Moralist.description>
+  <IdeoRole_Moralist.label>მორალური მეგზური</IdeoRole_Moralist.label>
+  <IdeoRole_PlantSpecialist.description>განსაკუთრებული იდეოლიგიური სტატუსი, რომელიც ფოკუსირებულია დარგვაზე ყველაფრის გამორიცხვით. ეს სპეციალიზებული როლი იძლევა გაზრდილი თესვისა და მოსავლის ეფექტურობას და ახლომდებარე მოკავშირეების მეურნეობის სიჩქარის გაზრდის უნარს. ამ როლის მფლობელები უარს იტყვიან მცენარეებთან დაკავშირებული ზოგიერთი სამუშაოს შესრულებაზე.</IdeoRole_PlantSpecialist.description>
+  <IdeoRole_PlantSpecialist.label>მცენარეების სპეციალისტი</IdeoRole_PlantSpecialist.label>
+  <IdeoRole_ProductionSpecialist.description>განსაკუთრებული იდეოლიგიური სტატუსი, რომელიც ფოკუსირებულია ხელოსნობასა და მშენებლობაზე, ყველაფრის გამორიცხვით. ეს სპეციალიზებული როლი იძლევა ხელოსნობისა და მშენებლობის ეფექტურობის გაზრდას და ახლომდებარე მოკავშირეების წარმოების შესაძლებლობების გაზრდის შესაძლებლობას. ამ როლის მფლობელები უარს იტყვიან რაიმე არასაწარმოო სამუშაოზე.</IdeoRole_ProductionSpecialist.description>
+  <IdeoRole_ProductionSpecialist.label>წარმოების სპეციალისტი</IdeoRole_ProductionSpecialist.label>
+  <IdeoRole_ResearchSpecialist.description>განსაკუთრებული იდეოლიგიური სტატუსი, რომელიც ფოკუსირებულია კვლევაზე ყველაფრის გამორიცხვით. ეს სპეციალიზებული როლი იძლევა გაზრდილი კვლევისა და ჰაკერების სიჩქარეს და ახლომდებარე მოკავშირეების კვლევის შესაძლებლობების გაზრდის შესაძლებლობას. ამ როლის მფლობელები უარს იტყვიან ზოგიერთი არაკვლევითი დავალების შესრულებაზე.</IdeoRole_ResearchSpecialist.description>
+  <IdeoRole_ResearchSpecialist.label>კვლევის სპეციალისტი</IdeoRole_ResearchSpecialist.label>
+  <IdeoRole_ShootingSpecialist.description>სპეციალური იდეოლიგიური სტატუსი, რომელიც ფოკუსირებულია დისტანციურ ბრძოლაზე ყველაფრის გამორიცხვით. ეს სპეციალიზებული როლი იძლევა გაზრდილ სიზუსტეს და ახლომდებარე მოკავშირეების სროლის შესაძლებლობების გაზრდის შესაძლებლობას. ამ როლის მფლობელები უარს იტყვიან მრავალი სახის არაგადაღებასთან დაკავშირებულ სამუშაოზე.</IdeoRole_ShootingSpecialist.description>
+  <IdeoRole_ShootingSpecialist.label>სროლის სპეციალისტი</IdeoRole_ShootingSpecialist.label>
+</LanguageData>

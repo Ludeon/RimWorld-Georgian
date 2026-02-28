@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HasAutomatedTurrets_Disapproved.stages.0.description>ჩვენ ვიყენებთ ავტომატურ იარაღს. მართლაც მახინჯია მანქანას სიცოცხლისა და სიკვდილის გადაწყვეტილების მიცემა.</HasAutomatedTurrets_Disapproved.stages.0.description>
+  <HasAutomatedTurrets_Disapproved.stages.0.label>ავტომატური იარაღი</HasAutomatedTurrets_Disapproved.stages.0.label>
+  <HasAutomatedTurrets_Horrible.stages.0.description>ჩვენ ვიყენებთ ავტომატურ იარაღს. საშინელებაა მანქანას სიცოცხლისა და სიკვდილის გადაწყვეტილების მიცემა.</HasAutomatedTurrets_Horrible.stages.0.description>
+  <HasAutomatedTurrets_Horrible.stages.0.label>ავტომატური იარაღი</HasAutomatedTurrets_Horrible.stages.0.label>
+  <HasAutomatedTurrets_Prohibited.stages.0.description>ჩვენ ვიყენებთ ავტომატურ იარაღს. აბსოლუტურად საზიზღარია მანქანას სიცოცხლისა და სიკვდილის გადაწყვეტილების მიცემა.</HasAutomatedTurrets_Prohibited.stages.0.description>
+  <HasAutomatedTurrets_Prohibited.stages.0.label>ავტომატური იარაღი</HasAutomatedTurrets_Prohibited.stages.0.label>
+</LanguageData>

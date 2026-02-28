@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_AssaultRifle.label>თავდასხმის თოფის ტყვია</Bullet_AssaultRifle.label>
+  <Bullet_Autopistol.label>ავტოპისტოლეტის ტყვია</Bullet_Autopistol.label>
+  <Bullet_BoltActionRifle.label>ჭანჭიკიანი თოფის ტყვია</Bullet_BoltActionRifle.label>
+  <Bullet_EMPLauncher.label>EMP გამშვები ჭურვი</Bullet_EMPLauncher.label>
+  <Bullet_HeavySMG.label>მძიმე SMG ტყვია</Bullet_HeavySMG.label>
+  <Bullet_IncendiaryLauncher.label>ცეცხლგამჩენი ჭანჭიკი</Bullet_IncendiaryLauncher.label>
+  <Bullet_LMG.label>LMG ტყვია</Bullet_LMG.label>
+  <Bullet_MachinePistol.label>მანქანური პისტოლეტის ტყვია</Bullet_MachinePistol.label>
+  <Bullet_Minigun.label>მინი თოფის ტყვია</Bullet_Minigun.label>
+  <Bullet_Revolver.label>რევოლვერის ტყვია</Bullet_Revolver.label>
+  <Bullet_Shotgun.label>თოფის აფეთქება</Bullet_Shotgun.label>
+  <Bullet_SmokeLauncher.label>კვამლის გამშვები ჭურვი</Bullet_SmokeLauncher.label>
+  <Bullet_SniperRifle.label>სნაიპერული შაშხანის ტყვია</Bullet_SniperRifle.label>
+  <Gun_AssaultRifle.description>ზოგადი დანიშნულების გაზზე მომუშავე თავდასხმის იარაღი საველე ან ურბანული ბრძოლისთვის. მას აქვს კარგი დიაპაზონი, ღირსეული სიმძლავრე და კარგი სიზუსტე.</Gun_AssaultRifle.description>
+  <Gun_AssaultRifle.label>თავდასხმის თოფი</Gun_AssaultRifle.label>
+  <Gun_Autopistol.description>უძველესი შაბლონის აფეთქებით მოქმედი თვითდამტენი პისტოლეტი. მას არ გააჩნია შეჩერების ძალა და დიაპაზონი, მაგრამ ის სწრაფად ისროლება.</Gun_Autopistol.description>
+  <Gun_Autopistol.label>ავტოპისტოლეტი</Gun_Autopistol.label>
+  <Gun_BoltActionRifle.description>უძველესი ნიმუშის ჭანჭიკიანი თოფი. მისი გრძელი დისტანციით და ცეცხლის დაბალი სიჩქარით, ნაკლებად სავარაუდოა, რომ ცხოველებს შურისძიებისკენ უბიძგებს, რაც მას ნადირობის საყვარელ იარაღად აქცევს.</Gun_BoltActionRifle.description>
+  <Gun_BoltActionRifle.label>ჭანჭიკიანი თოფი</Gun_BoltActionRifle.label>
+  <Gun_ChainShotgun.description>სრულად ავტომატური თოფი, რომელიც იკვებება ჟურნალებით. ის უფრო მოკლე მანძილითაც კი არის ვიდრე ტიპიური თოფი, მაგრამ არაჩვეულებრივად საშიშია აფეთქებული ცეცხლის გამო.</Gun_ChainShotgun.description>
+  <Gun_ChainShotgun.label>ჯაჭვის თოფი</Gun_ChainShotgun.label>
+  <Gun_EmpLauncher.description>ფართო ლულის EMP ჭურვის გამშვები. ჭურვი დარტყმის შემდეგ გაათავისუფლებს ელექტრომაგნიტურ ენერგიას, განსაცვიფრებელ მექანიკურ სამიზნეებს (მექანიკოსები, კოშკები, ნაღმტყორცნები) და დამღუპველი ფარები ეფექტის არეში.</Gun_EmpLauncher.description>
+  <Gun_EmpLauncher.label>EMP გამშვები</Gun_EmpLauncher.label>
+  <Gun_HeavySMG.description>კომპაქტური, ფართო კალიბრის სლაგ-მსროლელი. მას აქვს ძალიან მოკლე დიაპაზონი, მაგრამ ის კარგად იკავებს და კარგად უმკლავდება.</Gun_HeavySMG.description>
+  <Gun_HeavySMG.label>მძიმე SMG</Gun_HeavySMG.label>
+  <Gun_IncendiaryLauncher.description>ფართო ლულის ცეცხლგამჩენი ჭანჭიკები. ჭანჭიკები ქმნიან მცირე ცეცხლმოკიდებულ აფეთქებებს დარტყმისას, რაც იწვევს ხანძარს.</Gun_IncendiaryLauncher.description>
+  <Gun_IncendiaryLauncher.label>ცეცხლგამტარი</Gun_IncendiaryLauncher.label>
+  <Gun_LMG.description>გაზზე მომუშავე მსუბუქი ტყვიამფრქვევი. მიუხედავად იმისა, რომ ის გარკვეულწილად მოუხერხებელია და არაზუსტია, მისი ხანძრის ხანგრძლივობა ეფექტურია მტრების ჯგუფების წინააღმდეგ.</Gun_LMG.description>
+  <Gun_LMG.label>LMG</Gun_LMG.label>
+  <Gun_MachinePistol.description>მიკრო ავტომატი. ის არის მოკლე, მაგრამ ძალიან მსუბუქი ხელში. მისი ცეცხლის სიჩქარე ანაზღაურებს მის სისუსტეს.</Gun_MachinePistol.description>
+  <Gun_MachinePistol.label>მანქანური პისტოლეტი</Gun_MachinePistol.label>
+  <Gun_Minigun.description>მრავალლულიანი ტყვიამფრქვევი. ის უძლურია, მაგრამ როგორც კი სროლას დაიწყებს, ძალიან სწრაფად ისვრის. სადაც თვითდამტენი იარაღის უმეტესობა იკვებება დენთის ენერგიით, მინიგუნი იყენებს ელექტროძრავას ვაზნების იარაღში სწრაფად გადაადგილებისთვის.</Gun_Minigun.description>
+  <Gun_Minigun.label>მინიგუნი</Gun_Minigun.label>
+  <Gun_PumpShotgun.description>თოფის უძველესი დიზაინი, რომელიც ასხივებს მარცვლების მჭიდროდ შეფუთულ სპრეს. სასიკვდილო, მაგრამ მოკლე დიაპაზონი.</Gun_PumpShotgun.description>
+  <Gun_PumpShotgun.label>ტუმბოს თოფი</Gun_PumpShotgun.label>
+  <Gun_Revolver.description>უძველესი ნიმუში ორმაგი მოქმედების რევოლვერი. ეს არ არის ძალიან ძლიერი, მაგრამ აქვს პისტოლეტის ღირსეული დიაპაზონი და სწრაფია გათამაშებაში.</Gun_Revolver.description>
+  <Gun_Revolver.label>რევოლვერი</Gun_Revolver.label>
+  <Gun_SmokeLauncher.description>ფართო ლულის კვამლის ჭურვის გამშვები. ჭურვი შეჯახებისას გაათავისუფლებს კვამლის ღრუბელს, დაფარავს შემომავალ გასროლებს და ხელს უშლის კოშკების ჩაკეტვას.</Gun_SmokeLauncher.description>
+  <Gun_SmokeLauncher.label>კვამლის გამშვები</Gun_SmokeLauncher.label>
+  <Gun_SniperRifle.description>ზუსტი სნაიპერული თოფის უძველესი დიზაინი. ჭანჭიკის მოქმედება. მას აქვს ძალიან დიდი დიაპაზონი, დიდი სიზუსტე და კარგი სიმძლავრე. იმის გამო, რომ ის ძალიან მოუხერხებელია, სხვა იარაღები აჯობებენ მას ახლო მანძილზე.</Gun_SniperRifle.description>
+  <Gun_SniperRifle.label>სნაიპერული თოფი</Gun_SniperRifle.label>
+</LanguageData>

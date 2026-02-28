@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <GoJuiceAddiction.description>გო-ჯუსზე ქიმიური დამოკიდებულება. გო-ჯუსის ხანგრძლივმა ზემოქმედებამ უჯრედულ დონეზე ნევროლოგიური ადაპტაციები გამოიწვია, ამიტომ ტვინი მის გარეშე ვეღარ ფუნქციონირებს ნორმალურად.</GoJuiceAddiction.description>
+  <GoJuiceAddiction.label>წვენების დამოკიდებულება</GoJuiceAddiction.label>
+  <GoJuiceAddiction.stages.1.label>გაყვანა</GoJuiceAddiction.stages.1.label>
+  <GoJuiceHigh.description>გო-წვენი სისხლძარღვში. ის აძლიერებს საბრძოლო უნარებს და მყისიერად ზრდის ფსიქოკუსს პირველი ინექციისას.</GoJuiceHigh.description>
+  <GoJuiceHigh.label>მაღალ წვენს</GoJuiceHigh.label>
+  <GoJuiceHigh.labelNoun>გო-წვენი მაღალი</GoJuiceHigh.labelNoun>
+  <GoJuiceTolerance.description>გაზრდილი ტოლერანტობა გო-წვენის მიმართ. რაც უფრო მკაცრია ეს ტოლერანტობა, მით მეტი წვენებია საჭირო იმავე ეფექტის მისაღწევად.</GoJuiceTolerance.description>
+  <GoJuiceTolerance.label>წვენების ტოლერანტობა</GoJuiceTolerance.label>
+</LanguageData>

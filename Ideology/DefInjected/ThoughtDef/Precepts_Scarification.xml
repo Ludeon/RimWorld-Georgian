@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Scarification_Extreme.stages.0.description>წარუშლელი ტკივილით არის დაწერილი ჩემი მიძღვნა.</Scarification_Extreme.stages.0.description>
+  <Scarification_Extreme.stages.0.label>შეშინებული</Scarification_Extreme.stages.0.label>
+  <Scarification_Extreme.stages.1.description>ეს გლუვი კანი ტრავესტიაა.</Scarification_Extreme.stages.1.description>
+  <Scarification_Extreme.stages.1.label>არ არის scarified</Scarification_Extreme.stages.1.label>
+  <Scarification_Extreme.stages.2.description>ეს გლუვი კანი ტრავესტიაა.</Scarification_Extreme.stages.2.description>
+  <Scarification_Extreme.stages.2.label>არასაკმარისად სკარირებული</Scarification_Extreme.stages.2.label>
+  <Scarification_Extreme_Opinion.stages.0.label>შეშინებული</Scarification_Extreme_Opinion.stages.0.label>
+  <Scarification_Extreme_Opinion.stages.1.label>არ არის scarified</Scarification_Extreme_Opinion.stages.1.label>
+  <Scarification_Extreme_Opinion.stages.2.label>არასაკმარისად სკარირებული</Scarification_Extreme_Opinion.stages.2.label>
+  <Scarification_Heavy.stages.0.description>მე ვიტან ბევრ ჭრილობას, როგორც უნდა.</Scarification_Heavy.stages.0.description>
+  <Scarification_Heavy.stages.0.label>შეშინებული</Scarification_Heavy.stages.0.label>
+  <Scarification_Heavy.stages.1.description>ეს გლუვი კანი არასწორია.</Scarification_Heavy.stages.1.description>
+  <Scarification_Heavy.stages.1.label>არ არის scarified</Scarification_Heavy.stages.1.label>
+  <Scarification_Heavy.stages.2.description>ეს გლუვი კანი არასწორია.</Scarification_Heavy.stages.2.description>
+  <Scarification_Heavy.stages.2.label>არასაკმარისად სკარირებული</Scarification_Heavy.stages.2.label>
+  <Scarification_Heavy_Opinion.stages.0.label>შეშინებული</Scarification_Heavy_Opinion.stages.0.label>
+  <Scarification_Heavy_Opinion.stages.1.label>არ არის scarified</Scarification_Heavy_Opinion.stages.1.label>
+  <Scarification_Heavy_Opinion.stages.2.label>არასაკმარისად სკარირებული</Scarification_Heavy_Opinion.stages.2.label>
+  <Scarification_Minor.stages.0.description>მე ვატარებ ნიშანს, როგორც უნდა.</Scarification_Minor.stages.0.description>
+  <Scarification_Minor.stages.0.label>შეშინებული</Scarification_Minor.stages.0.label>
+  <Scarification_Minor.stages.1.description>მე მაკლია შესაბამისი რიტუალური ნაწიბური.</Scarification_Minor.stages.1.description>
+  <Scarification_Minor.stages.1.label>არ არის scarified</Scarification_Minor.stages.1.label>
+  <Scarification_Minor.stages.2.description>მე მაკლია შესაბამისი რიტუალური ნაწიბური.</Scarification_Minor.stages.2.description>
+  <Scarification_Minor.stages.2.label>არასაკმარისად სკარირებული</Scarification_Minor.stages.2.label>
+  <Scarification_Minor_Opinion.stages.0.label>შეშინებული</Scarification_Minor_Opinion.stages.0.label>
+  <Scarification_Minor_Opinion.stages.1.label>არ არის scarified</Scarification_Minor_Opinion.stages.1.label>
+  <Scarification_Minor_Opinion.stages.2.label>არასაკმარისად სკარირებული</Scarification_Minor_Opinion.stages.2.label>
+  <ScarificationCeremony_Know_Horrible.stages.0.description>ჩვენ დავასახიჩრეთ თანამემამულე კოლონისტი იდეოლოგიური რწმენის გამო! ეს არასწორია!</ScarificationCeremony_Know_Horrible.stages.0.description>
+  <ScarificationCeremony_Know_Horrible.stages.0.label>სკარიფიკაციის ცერემონია</ScarificationCeremony_Know_Horrible.stages.0.label>
+  <ScarificationCeremony_Self_Extreme.stages.0.description>მე ვატარებ ახალ რიტუალურ ნიშანს, რათა დამაკავშიროს ჩვენს სიმართლესთან.</ScarificationCeremony_Self_Extreme.stages.0.description>
+  <ScarificationCeremony_Self_Extreme.stages.0.label>შეშინებული მიიღო</ScarificationCeremony_Self_Extreme.stages.0.label>
+  <ScarificationCeremony_Self_Heavy.stages.0.description>მე ვატარებ ახალ რიტუალურ ნიშანს, რომელიც დამაკავშირებს ჩვენს სიმართლესთან.</ScarificationCeremony_Self_Heavy.stages.0.description>
+  <ScarificationCeremony_Self_Heavy.stages.0.label>შეშინებული მიიღო</ScarificationCeremony_Self_Heavy.stages.0.label>
+  <ScarificationCeremony_Self_Minor.stages.0.description>მე ვატარებ ახალ რიტუალურ ნიშანს, რომ შევახსენო ჩვენი სიმართლე.</ScarificationCeremony_Self_Minor.stages.0.description>
+  <ScarificationCeremony_Self_Minor.stages.0.label>შეშინებული მიიღო</ScarificationCeremony_Self_Minor.stages.0.label>
+</LanguageData>

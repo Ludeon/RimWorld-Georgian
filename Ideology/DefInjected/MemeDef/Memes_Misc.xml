@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalPersonhood.description>ცხოველებს აქვთ უფლებები, როგორც ადამიანებს.</AnimalPersonhood.description>
+  <AnimalPersonhood.label>ცხოველური პიროვნება</AnimalPersonhood.label>
+  <Blindsight.description>მხოლოდ ბრმას შეუძლია ჭეშმარიტი რეალობის აღქმა.</Blindsight.description>
+  <Blindsight.label>ბრმამხედველობა</Blindsight.label>
+  <Cannibal.description>ჩვენ უნდა ვჭამოთ ადამიანის ხორცი.</Cannibal.description>
+  <Cannibal.label>კანიბალი</Cannibal.label>
+  <Darkness.description>კაშკაშა შუქი წვავს და ანადგურებს! სიბნელე კვებავს და ქმნის. ხალხმა სიბნელეში უნდა იცხოვროს.</Darkness.description>
+  <Darkness.label>სიბნელე</Darkness.label>
+  <FleshPurity.description>ადამიანის სხეული არ უნდა იყოს დამცირებული.</FleshPurity.description>
+  <FleshPurity.label>ხორცის სისუფთავე</FleshPurity.label>
+  <HighLife.description>ეგზოტიკური ფსიქიკური მდგომარეობები მთავარია კარგი ცხოვრებისათვის.</HighLife.description>
+  <HighLife.label>მაღალი ცხოვრება</HighLife.label>
+  <Nudism.description>ტანსაცმელი გვაკავშირებს, აკონტროლებს და გვახრჩობს. ჩვენ ყველა თავისუფლად უნდა დავიკიდოთ.</Nudism.description>
+  <Nudism.label>ნუდიზმი</Nudism.label>
+  <PainIsVirtue.description>სათნოება ვლინდება საკუთარი თავის და სხვების ტანჯვით.</PainIsVirtue.description>
+  <PainIsVirtue.label>ტკივილი სათნოებაა</PainIsVirtue.label>
+  <Proselytizer.description>ჩვენი ვალია გავავრცელოთ ჩვენი რწმენა.</Proselytizer.description>
+  <Proselytizer.label>პროზელიტიზატორი</Proselytizer.label>
+  <Raider.description>ძლიერმა სუსტმა უნდა მიიღოს.</Raider.description>
+  <Raider.label>რეიდერი</Raider.label>
+  <Rancher.description>ცხოველების აღზრდა სწორი გზაა; მცენარეების საჭმელად გაზრდა არ არის.</Rancher.description>
+  <Rancher.label>რანჩერი</Rancher.label>
+  <Transhumanist.description>ადამიანური პროგრესი ნიშნავს ტექნოლოგიასთან შერწყმას.</Transhumanist.description>
+  <Transhumanist.label>ტრანსჰუმანისტი</Transhumanist.label>
+  <TreeConnection.description>ხეები არის სიცოცხლის არსი და ჩვენ უნდა ვიყოთ მათთან ახლოს.</TreeConnection.description>
+  <TreeConnection.label>ხის კავშირი</TreeConnection.label>
+  <Tunneler.description>ადამიანები უნდა იცხოვრონ მიწისქვეშეთში და დატკბნენ სიღრმის წვნიანი ნაყოფით.</Tunneler.description>
+  <Tunneler.label>გვირაბი</Tunneler.label>
+</LanguageData>

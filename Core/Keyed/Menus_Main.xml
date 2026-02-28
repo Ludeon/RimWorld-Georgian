@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Tutorial>სახელმძღვანელო</Tutorial>
+  <NewColony>ახალი კოლონია</NewColony>
+  <BackToGame>თამაშში დაბრუნება</BackToGame>
+  <ReviewScenario>სცენარის ნახვა</ReviewScenario>
+  <Save>შენახვა</Save>
+  <LoadGame>თამაშის ჩატვირთვა</LoadGame>
+  <Options>პარამეტრები</Options>
+  <Mod>მოდი</Mod>
+  <Mods>მოდები</Mods>
+  <SaveTranslationReport>თარგმანის ანგარიშის შენახვა</SaveTranslationReport>
+  <GeneratingTranslationReport>თარგმანის ანგარიშის გენერირება</GeneratingTranslationReport>
+  <CleanupTranslationFiles>თარგმანის ფაილების გასუფთავება</CleanupTranslationFiles>
+  <TranslationFilesTKeyUpdate>თარგმანის ფაილების განახლება (TKey's)</TranslationFilesTKeyUpdate>
+  <CleaningTranslationFiles>თარგმანის ფაილების გაწმენდა</CleaningTranslationFiles>
+  <DevQuickTest>Dev ყველაზე სწრაფი</DevQuickTest>
+  <Credits>კრედიტები</Credits>
+  <QuitToMainMenu>მთავარ მენიუზე გადასვლა</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>შეინახეთ და გამოდით მენიუში</SaveAndQuitToMainMenu>
+  <QuitToOS>გამოსვლა</QuitToOS>
+  <SaveAndQuitToOS>შენახვა და გამოსვლა</SaveAndQuitToOS>
+  <FictionPrimer>მხატვრული პრაიმერი</FictionPrimer>
+  <LudeonBlog>ლუდეონის ბლოგი</LudeonBlog>
+  <Subreddit>სუბრედიტი</Subreddit>
+  <OfficialWiki>ოფიციალური ვიკი</OfficialWiki>
+  <TynansX>ტინანის X</TynansX>
+  <TynansDesignBook>ტინანის დიზაინის წიგნი</TynansDesignBook>
+  <HelpTranslate>თარგმანში დახმარება</HelpTranslate>
+  <CreateWorld>შექმენი სამყარო</CreateWorld>
+  <BuySoundtrack>იყიდეთ საუნდტრეკი</BuySoundtrack>
+  <BuySoundtrack_Classic>RimWorld საუნდტრეკი</BuySoundtrack_Classic>
+  <BuySoundtrack_Royalty>RimWorld - სამეფო საუნდტრეკი</BuySoundtrack_Royalty>
+  <BuySoundtrack_Anomaly>RimWorld - ანომალიის საუნდტრეკი</BuySoundtrack_Anomaly>
+  <BuySoundtrack_Odyssey>RimWorld - Odyssey საუნდტრეკი</BuySoundtrack_Odyssey>
+  <TranslationThanks>RimWorld-ის ყველა თარგმანი შესრულებულია გულშემატკივართა მიერ. გულშემატკივართა მიერ გაკეთებული ეს თარგმანი შეიქმნა შემდეგი შესანიშნავი მოხალისეების მიერ:\n\n{0}</TranslationThanks>
+  <TranslationHowToContribute>თქვენც შეგიძლიათ წვლილი შეიტანოთ. მეტის გასაგებად დააწკაპუნეთ ქვემოთ (ხსნის ვებ ბრაუზერს).</TranslationHowToContribute>
+  <LearnMore>შეიტყვეთ მეტი</LearnMore>
+  <DevBuildWarning>გაფრთხილება: ეს არის არასტაბილური განვითარება. ეს ნიშნავს, რომ ჩვენ ვატარებთ დიზაინის ექსპერიმენტებს და ვაკეთებთ ტექნიკურ განვითარებას.\n\nზოგიერთი რამ მიზანმიმართულად დროებით დაუბალანსებელი იქნება. ეს არის კლასიკური თამაშის დიზაინის მეთოდი, სადაც ჩვენ მიზანმიმართულად მივდივართ შორს ბალანსის ცვლილებით, რათა უკეთ გავიგოთ ბალანსის საზღვრები. ამის შემდეგ ჩვენ შეგვიძლია გამოვიყენოთ ეს ინფორმაცია საბოლოო ბალანსის ქულების გადასაწყვეტად.\n\nასევე იქნება შეცდომები, მათ შორის თამაშის დარღვევის შეცდომები. თავსებადობის შენახვა შეიძლება ნებისმიერ დროს დაირღვეს.\n\nთუ ამ ყველაფერს ეთანხმებით, გმადლობთ ტესტირებისთვის! თუ არ გსურთ ჩვენი ექსპერიმენტების დაქვემდებარება, გთხოვთ, დაუკრათ უახლესი სტაბილური ვერსია.</DevBuildWarning>
+  <ReviewWorld>მიმოხილვა მსოფლიოში</ReviewWorld>
+  <WorldGenerate>გენერაცია</WorldGenerate>
+  <WorldSaveAndFinish>შენახვა და დასრულება</WorldSaveAndFinish>
+  <ResetFactions>ფრაქციების გადატვირთვა</ResetFactions>
+  <PlanetCoverage>გლობუსის გაშუქება</PlanetCoverage>
+  <PlanetRainfall>მთლიანი ნალექი</PlanetRainfall>
+  <PlanetTemperature>საერთო ტემპერატურა</PlanetTemperature>
+  <PlanetPopulation>მოსახლეობა</PlanetPopulation>
+  <PlanetRainfall_Low>დაბალი</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>ნორმალური</PlanetRainfall_Normal>
+  <PlanetRainfall_High>მაღალი</PlanetRainfall_High>
+  <PlanetTemperature_Low>დაბალი</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>ნორმალური</PlanetTemperature_Normal>
+  <PlanetTemperature_High>მაღალი</PlanetTemperature_High>
+  <PlanetPopulation_Low>იშვიათი</PlanetPopulation_Low>
+  <PlanetPopulation_Normal>ნორმალური</PlanetPopulation_Normal>
+  <PlanetPopulation_High>მჭიდრო</PlanetPopulation_High>
+  <WorldSeed>სათესი</WorldSeed>
+  <RandomizeSeed>თესლის შემთხვევითობა</RandomizeSeed>
+  <PlanetCoverageTip>პლანეტას ყოველთვის ერთი და იგივე დიამეტრი აქვს, მაგრამ რადგან ის გაცილებით დიდია, ვიდრე თამაშისთვის საჭიროა, ჩვენ არ ვაწარმოებთ მთელ ზედაპირს, რადგან ამას შეიძლება ძალიან დიდი დრო დასჭირდეს. ეს არის ზედაპირის პროცენტი, რომლის გენერირებაც გსურთ.</PlanetCoverageTip>
+  <WorldFactionsTab>ფრაქციები</WorldFactionsTab>
+  <AdvancedSettings>გაფართოებული პარამეტრები</AdvancedSettings>
+  <SelectWorld>აირჩიეთ სამყარო</SelectWorld>
+  <WorldChooseButton>არჩევა</WorldChooseButton>
+  <NoWorldsFilesFound>მსოფლიო ფაილები ვერ მოიძებნა. შექმენით სამყარო პირველ რიგში.</NoWorldsFilesFound>
+  <BuildNowAvailable>ვერსია {0} ახლა ხელმისაწვდომია. შეამოწმეთ ludeon.com დამატებითი ინფორმაციისთვის.</BuildNowAvailable>
+  <BuildUpToDate>ეს არის უახლესი ვერსია.</BuildUpToDate>
+  <ErrorGettingVersionInfo>შეცდომა ვერსიის ინფორმაციის მიღებისას: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>იტვირთება ვერსიის ინფორმაცია...</LoadingVersionInfo>
+  <GenerateWorld>შექმენით სამყარო</GenerateWorld>
+  <OpenSteamWorkshop>გახსენით Steam სემინარი</OpenSteamWorkshop>
+  <GetModsFromForum>მიიღეთ მოდიფიკაციები ფორუმიდან</GetModsFromForum>
+  <OpenModsDataFolder>მოდების მონაცემთა საქაღალდე</OpenModsDataFolder>
+  <ShowModsDataLocation>მოდების მონაცემთა მდებარეობა</ShowModsDataLocation>
+  <ConfirmDisableCoreMod>დარწმუნებული ხართ, რომ გსურთ გამორთოთ ძირითადი რეჟიმი? თამაში საერთოდ არ იმუშავებს, თუ არ გექნებათ სხვა მოდიფიკაცია, რომელიც ჩაანაცვლებს ყველა ძირითად ფუნქციას.\n\nგახსოვდეთ, რომ სხვა მოდიფიკაციას შეუძლია გააუქმოს დეფები ძირითადი მოდში იმავე defName-ის გამოყენებით.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>დარწმუნებული ხართ, რომ გსურთ {0}-ის მთელი კონტენტის წაშლა?</ConfirmDeleteMod>
+  <ResolveModOrder>ავტომატური დალაგება</ResolveModOrder>
+  <SaveModChanges>შეინახეთ და გამოიყენეთ ცვლილებები</SaveModChanges>
+  <DiscardModChanges>მოდის ცვლილებები შენახული არ არის. გაგრძელება?</DiscardModChanges>
+  <ModReorderConflict_MustLoadAfter>{0}-ის გადაადგილება შეუძლებელია: ის უნდა იყოს ჩატვირთული {1}-ის შემდეგ.</ModReorderConflict_MustLoadAfter>
+  <ModReorderConflict_MustLoadBefore>{0}-ის გადატანა შეუძლებელია: ის უნდა იყოს ჩატვირთული {1}-მდე.</ModReorderConflict_MustLoadBefore>
+  <Unsubscribe>გამოწერის გაუქმება</Unsubscribe>
+  <ConfirmUnsubscribe>დარწმუნებული ხართ, რომ გსურთ გამოწერის გაუქმება?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribeFrom>დარწმუნებული ხართ, რომ გსურთ გააუქმოთ {0}-ის გამოწერა?</ConfirmUnsubscribeFrom>
+  <ConfirmUnsubscribeFromMultiple>დარწმუნებული ხართ, რომ გსურთ გააუქმოთ გამოწერა:\n\n{0}</ConfirmUnsubscribeFromMultiple>
+  <Author>ავტორი</Author>
+  <Enabled>ჩართული</Enabled>
+  <Disabled>გამორთული</Disabled>
+  <Enable>ჩართვა</Enable>
+  <Disable>გამორთვა</Disable>
+  <GetMods>მოდების მოძებნა...</GetMods>
+  <UnsubscribeMultiple>გამოწერის გაუქმება...</UnsubscribeMultiple>
+  <SaveLoadList>სიის შენახვა/ჩატვირთვა...</SaveLoadList>
+  <SaveModList>შეინახეთ მოდების სია</SaveModList>
+  <LoadModList>ჩატვირთეთ მოდების სია</LoadModList>
+  <AddedModsList>დამატებულია მოდიფიკაციები</AddedModsList>
+  <MissingModsList>მოდიფიკაციები აკლია</MissingModsList>
+  <SharedModsList>გაზიარებული მოდიფიკაციები</SharedModsList>
+  <ModWebsite>ვებ-საიტი</ModWebsite>
+  <ModFolder>გახსენით საქაღალდე</ModFolder>
+  <ModOptions>მოდის პარამეტრები</ModOptions>
+  <FromWorkshop>ვორქშოპი</FromWorkshop>
+  <FromForum>ფორუმი</FromForum>
+  <MoreActions>დამატებითი...</MoreActions>
+  <AllSelectedMods>ყველა შერჩეული რეჟიმი</AllSelectedMods>
+  <AllDisabledMods>ყველა გამორთული რეჟიმი</AllDisabledMods>
+  <AllIncompatibleMods>ყველა შეუთავსებელი რეჟიმი</AllIncompatibleMods>
+  <WorkshopPage>სემინარის გვერდი</WorkshopPage>
+  <UploadToSteamWorkshop>ატვირთეთ Steam სახელოსნოში</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Steam Workshop-ის განახლება</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>ატვირთვა უკვე მიმდინარეობს.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>სემინარის გაგზავნა ვერ მოხერხდა.\n\nმიზეზი: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>{0} წარმატებით აიტვირთა.</WorkshopUploadSucceeded>
+  <Downloading>გადმოწერა</Downloading>
+  <WorkshopId>სახელოსნოს ID</WorkshopId>
+  <ModDisplayFulfilledRequirements>შესრულებული მოთხოვნების ჩვენება</ModDisplayFulfilledRequirements>
+  <ModClickToSelect>დააწკაპუნეთ ასარჩევად.</ModClickToSelect>
+  <ModClickToGoToWebsite>დააწკაპუნეთ საიტზე გადასასვლელად.</ModClickToGoToWebsite>
+  <Source>წყარო</Source>
+  <ModTargetVersion>თამაშის ვერსიები</ModTargetVersion>
+  <ModVersion>მოდ ვერსია</ModVersion>
+  <ModPackageId>ID</ModPackageId>
+  <ModMustLoadBefore>ეს უნდა იყოს ჩატვირთული ადრე: {0}.</ModMustLoadBefore>
+  <ModMustLoadAfter>ეს უნდა ჩაიტვირთოს შემდეგ: {0}.</ModMustLoadAfter>
+  <ModDependsOn>დამოკიდებულია: {0}</ModDependsOn>
+  <ModIncompatibleWith>შეუთავსებელია: {0}-თან</ModIncompatibleWith>
+  <ModIncompatibleWithTip>ეს რეჟიმი შეუთავსებელია: {0}-თან.</ModIncompatibleWithTip>
+  <ModOrderingWarning>ეს რეჟიმი იტვირთება არასწორი თანმიმდევრობით სხვა მოდთან შედარებით. გამოიყენეთ &quot;ავტომატური დახარისხების&quot; ღილაკი ან ხელახლა შეუკვეთეთ მოდიფიკაციები ხელით.</ModOrderingWarning>
+  <ModWithSameIdAlreadyActive>სხვა აქტიური რეჟიმი იყენებს იგივე ID: {0}.</ModWithSameIdAlreadyActive>
+  <ModCyclicDependency>არსებობს ციკლური რეჟიმის დამოკიდებულება {0}-ით დაწყებული.</ModCyclicDependency>
+  <ModUnsatisfiedDependency>ეს მოითხოვს შემდეგ მოდებს მუშაობისთვის: {0}.</ModUnsatisfiedDependency>
+  <ModNotMadeForThisVersion>ეს მოდი არ შექმნილა RimWorld-ის ამ ვერსიისთვის და სავარაუდოდ არ იმუშავებს სწორად.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersionShort>ეს რეჟიმი არ არის შექმნილი RimWorld-ის ამ ვერსიისთვის.</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersion_Newer>ეს მოდი შექმნილია RimWorld-ის უფრო ახალი ვერსიისთვის, ვიდრე ეს და ალბათ არ იმუშავებს სწორად.</ModNotMadeForThisVersion_Newer>
+  <MessageModNeedsWellFormattedTargetVersion>Mod-ს სჭირდება სათანადო ფორმატირებული მხარდაჭერილი ვერსიის ინფორმაცია About.xml-ში. ასე: &lt;supportedVersions&gt;&lt;li&gt;{0}&lt;/li&gt;&lt;/supportedVersions&gt; - &lt;targetVersion&gt; მოძველებულია. შეამოწმეთ ჟურნალი დამატებითი ინფორმაციისთვის.</MessageModNeedsWellFormattedTargetVersion>
+  <MessageModNeedsWellFormattedPackageId>Mod-ს სჭირდება უნიკალური, სწორად ფორმატირებული პაკეტის ID About.xml-ში. ის უნდა აკმაყოფილებდეს შემდეგ მოთხოვნებს:\n\n - მხოლოდ ალფანუმერული სიმბოლოები და წერტილები.\n - არ არის სივრცეები.\n - მინიმუმ ერთი წერტილი.\n - არ არის განმეორებადი წერტილები ზედიზედ, ან დაწყებული ან დამთავრებული წერტილით.\n - 60 სიმბოლო ან ნაკლები.\n - არ შეიძლება შეიცავდეს სიტყვას &quot;Ludeon&quot;.\n\nამისთვის. მაგალითი:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
+  <ModHadLoadFolderIssues>ამ მოდს აქვს პრობლემები LoadFolders.xml-ში, რომლებიც უნდა მოაგვაროთ ატვირთვამდე:</ModHadLoadFolderIssues>
+  <ModLoadFolderDoesntExist>{1} ვერსიისთვის მითითებული {0} საქაღალდე არ არსებობს.</ModLoadFolderDoesntExist>
+  <ModLoadFolderMalformedVersion>არასწორი ვერსიის სტრიქონი '{0}'. სწორი ფორმატი არის Major.Minor (მაგ. 1.1)</ModLoadFolderMalformedVersion>
+  <ModLoadFolderListEmpty>ჩატვირთვის საქაღალდეების სია {0} ვერსიისთვის ცარიელია.</ModLoadFolderListEmpty>
+  <ModLoadFolderRepeatingFolder>ვერსია {0} ჩამოთვლის ერთსა და იმავე საქაღალდეს არაერთხელ: {1}.</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderOutOfOrder>ვერსიის არასწორი შეკვეთა: {0} უნდა იყოს {1}-მდე.</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrderDefault>ვერსიის არასწორი თანმიმდევრობა: ჯერ უნდა განისაზღვროს „ნაგულისხმევი“.</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderDefaultDeprecated>ჩატვირთვის საქაღალდეებში „ნაგულისხმევის“ გამოყენება მოძველებულია. გთხოვთ, განსაზღვროთ საქაღალდეები თითოეული ვერსიისთვის &lt;v...&gt; ტეგების გამოყენებით.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefinesUnsupportedGameVersion>ვერსია {0} განსაზღვრულია ჩატვირთვის საქაღალდეებში, მაგრამ არ არის ჩამოთვლილი mod-ის About.xml-ის 'supportedVersions'-ში.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <DragToReorder>გადაიტანეთ ხელახლა შეკვეთისთვის</DragToReorder>
+  <ChooseScenario>აირჩიეთ სცენარი</ChooseScenario>
+  <ScenariosCustom>საკუთარი</ScenariosCustom>
+  <ScenariosSteamWorkshop>ორთქლის სახელოსნო</ScenariosSteamWorkshop>
+  <ScenarioEditor>რედაქტორი</ScenarioEditor>
+  <Delete>წაშლა</Delete>
+  <Seed>სათესი</Seed>
+  <Load>ჩატვირთვა</Load>
+  <EditMode>რედაქტირების რეჟიმი</EditMode>
+  <Summary>შეჯამება</Summary>
+  <AddPart>ნაწილის დამატება</AddPart>
+  <TextFieldsMustBeFilled>ყველა ტექსტის ველი უნდა იყოს შევსებული.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>დარწმუნებული ხართ, რომ გსურთ ამის ატვირთვა Steam Workshop-ში?\n\nთქვენ უნდა დაეთანხმოთ Steam Workshop-ის მომსახურების პირობებს. იპოვეთ სრული პირობები აქ:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>ცხადია, თქვენ უნდა ატვირთოთ მხოლოდ ის კონტენტი, რომელიც თქვენ თავად შექმენით.\n\nეს კონტენტი თავად შექმენით?</ConfirmContentAuthor>
+  <Incompatible>შეუთავსებელი</Incompatible>
+  <TagAsTranslation>თარგმანად მონიშვნა</TagAsTranslation>
+  <TooMany>ძალიან ბევრი (მაქსიმუმ {0}):</TooMany>
+  <CanBeUpdatedOnWorkshop>შეიძლება განახლდეს Workshop-ზე, რადგან თქვენ ხართ ავტორი.</CanBeUpdatedOnWorkshop>
+  <ScenarioChangedSavePrompt>ეს სცენარი რედაქტირებულია.\n\nგსურთ მისი შენახვა გაგრძელებამდე?</ScenarioChangedSavePrompt>
+  <ChooseAIStoryteller>აირჩიეთ მთხრობელი</ChooseAIStoryteller>
+  <HowStorytellersWork>მთხრობელი ქმნის მოვლენებს, როგორიცაა რეიდები, რესურსების ვარდნა და ცხოველთა თავდასხმები. მისი არჩევანი გავლენას ახდენს თქვენი კოლონიის ისტორიაზე. ამ პარამეტრების შეცვლა ნებისმიერ დროს შეგიძლიათ.</HowStorytellersWork>
+  <MustChooseDifficulty>გთხოვთ, აირჩიოთ სირთულის პარამეტრი.</MustChooseDifficulty>
+  <Difficulty>სირთულე</Difficulty>
+  <CommitmentMode>ვალდებულების რეჟიმი</CommitmentMode>
+  <ReloadAnytimeMode>გადატვირთეთ ნებისმიერ დროს რეჟიმი</ReloadAnytimeMode>
+  <MustChoosePermadeath>გთხოვთ, აირჩიოთ ვალდებულების რეჟიმი ან გადატვირთოთ ნებისმიერ დროს.</MustChoosePermadeath>
+  <ReloadAnytimeModeInfo>შეგიძლიათ შეინახოთ და ჩატვირთოთ თამაში ნებისმიერ დროს.\n\nეს კარგი არჩევანია, თუ ჯერ კიდევ სწავლობთ თამაშს, თუ ის შეესაბამება თქვენს პირად სათამაშო სტილს, თუ იყენებთ მოდებს, რომლებმაც შეიძლება დაარღვიონ თქვენი თამაში, ან თუ აპირებთ საკუთარი ვალდებულების რეჟიმის შესრულებას.</ReloadAnytimeModeInfo>
+  <PermadeathModeInfo>შენახვა შეგიძლიათ მხოლოდ თამაშზე გასვლისას.\n\nრადგან RimWorld არის ამბის გენერატორი, ერთი ადამიანის გარდა ყველას დაკარგვაც კი არ არის თამაშის დასასრული - ეს ისტორიის ნაწილია. თამაში შექმნილია იმისათვის, რომ გამოჯანმრთელდეს წაგების შემდეგ.\n\nამ საშინელი სიტუაციების თამაში ქმნის ისტორიას როგორც ტრაგედიით, ასევე ტრიუმფით. ეს არის RimWorld-ის სათამაშოდ შექმნილი.\n\nარის მიზეზი, რის გამოც ლუკ სკაიუოკერმა არ დაანება თავი და არ გადატვირთა, როდესაც მისი ოჯახი მოკლეს - დაკარგვა და გამოჯანმრთელება დრამატულია.</PermadeathModeInfo>
+  <CanChangeStorytellerSettingsDuringPlay>მთხრობელი და სათამაშო სტილი შეიძლება შეიცვალოს ნებისმიერ დროს.</CanChangeStorytellerSettingsDuringPlay>
+  <DifficultyCustomSectionLabel>მორგებული სათამაშო სტილის პარამეტრები</DifficultyCustomSectionLabel>
+  <DifficultyReset>ნაგულისხმევზე დაბრუნება</DifficultyReset>
+  <DifficultyThreatSection>საფრთხეები</DifficultyThreatSection>
+  <Difficulty_ThreatScale_Label>საფრთხის მასშტაბი</Difficulty_ThreatScale_Label>
+  <Difficulty_ThreatScale_Info>დაარეგულირეთ საფრთხის ზომა, როგორიცაა რეიდები და შემოტევები, და ქვესტების სირთულე.</Difficulty_ThreatScale_Info>
+  <Difficulty_AllowBigThreats_Label>ძირითადი საფრთხეები</Difficulty_AllowBigThreats_Label>
+  <Difficulty_AllowBigThreats_Info>დაუშვით ისეთი ძირითადი საფრთხეები, როგორიცაა რეიდები, თავდასხმები, ადამიანთა მონადირეების შეკვრა, ავარიული მექანოიდური გემები და სხვა.</Difficulty_AllowBigThreats_Info>
+  <Difficulty_AllowViolentQuests_Label>ქვესტი მუქარები</Difficulty_AllowViolentQuests_Label>
+  <Difficulty_AllowViolentQuests_Info>მიეცით საშუალება ქვესტებს წარმოადგინონ ძალადობრივი საფრთხეები და გამოწვევები. თუ ეს გამორთულია, ქვესტები შეიცვლება არაძალადობრივად.</Difficulty_AllowViolentQuests_Info>
+  <Difficulty_AllowIntroThreats_Label>შესავალი მუქარები</Difficulty_AllowIntroThreats_Label>
+  <Difficulty_AllowIntroThreats_Info>ჩართეთ ფიქსირებული შესავალი საფრთხეები, რომლებიც გამოჩნდება თამაშის დაწყებასთან ახლოს.</Difficulty_AllowIntroThreats_Info>
+  <Difficulty_PredatorsHuntHumanlikes_Label>მტაცებლები ნადირობენ ადამიანებზე</Difficulty_PredatorsHuntHumanlikes_Label>
+  <Difficulty_PredatorsHuntHumanlikes_Info>ნება მიეცით ველურ მტაცებლებს ადამიანებზე ნადირობის საშუალება.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>ექსტრემალური ამინდი</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Info>დაუშვით ექსტრემალური ამინდის შემთხვევები, როგორიცაა ტოქსიკური ჩავარდნა, ვულკანური ზამთარი და ქარიშხალი.</Difficulty_AllowExtremeWeatherIncidents_Info>
+  <DifficultyEconomySection>ეკონომიკა</DifficultyEconomySection>
+  <Difficulty_TradePriceFactorLoss_Label>სავაჭრო ფასის მინუსი</Difficulty_TradePriceFactorLoss_Label>
+  <Difficulty_TradePriceFactorLoss_Info>ვაჭრობისას, ყიდვის ფასები იზრდება ამ ოდენობით, ხოლო გაყიდვის ფასები მცირდება ამ ოდენობით.</Difficulty_TradePriceFactorLoss_Info>
+  <Difficulty_CropYieldFactor_Label>მოსავლის მოსავალი</Difficulty_CropYieldFactor_Label>
+  <Difficulty_CropYieldFactor_Info>დაარეგულირეთ მცენარეებისა და კულტურების მოსავლის აღებისას წარმოებული მასალების რაოდენობა. ეს მოიცავს მცენარეების მოსავალს და ხეების მოჭრას.</Difficulty_CropYieldFactor_Info>
+  <Difficulty_MineYieldFactor_Label>სამთო მოსავლიანობა</Difficulty_MineYieldFactor_Label>
+  <Difficulty_MineYieldFactor_Info>დაარეგულირეთ მაინინგის დროს წარმოებული მასალების რაოდენობა.</Difficulty_MineYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Label>ყასაბი მოსავალი</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Info>დაარეგულირეთ დამუშავების დროს წარმოებული მასალების რაოდენობა. ეს მოიცავს ხორცს, ტყავს და მოსავალს დაქუცმაცებული მექანოიდებით.</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Label>კვლევის სიჩქარე</Difficulty_ResearchSpeedFactor_Label>
+  <Difficulty_ResearchSpeedFactor_Info>დაარეგულირეთ კვლევის სიჩქარე.</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Label>ქვესტი ჯილდოები</Difficulty_QuestRewardValueFactor_Label>
+  <Difficulty_QuestRewardValueFactor_Info>დაარეგულირეთ ქვესტებისთვის მინიჭებული ჯილდოების მნიშვნელობა.\n\nშენიშვნა: ქვესტის ჯილდოს მნიშვნელობა ასევე ავტომატურად სკალირებულია საფრთხის მასშტაბის კომპენსაციისთვის. თუ დაარეგულირებთ ამ პარამეტრს, დაამატებთ დამატებით მულტიპლიკატორს.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Label>დარბევის ძარცვა</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Info>დაარეგულირეთ რაიდერების მიერ გადატანილი ნაძარცვის მნიშვნელობა.\n\nშენიშვნა: რეიდის ნაძარცვის ღირებულება ასევე ავტომატურად სკალირებულია საფრთხის მასშტაბის კომპენსაციის მიზნით. თუ დაარეგულირებთ ამ პარამეტრს, დაამატებთ დამატებით მულტიპლიკატორს.</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Label>კოშკის ხელახალი იარაღის ღირებულება</Difficulty_MaintenanceCostFactor_Label>
+  <Difficulty_MaintenanceCostFactor_Info>დაარეგულირეთ კოშკების გადაიარაღების ღირებულება.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_ScariaRotChance_Label>სკარიის ლპობის შანსი</Difficulty_ScariaRotChance_Label>
+  <Difficulty_ScariaRotChance_Info>ალბათობა იმისა, რომ გვამი მაშინვე გაფუჭდება სიკვდილის შემდეგ, თუ არსებას აქვს სკარია დაავადება.\n\nშენიშვნა: ნაგულისხმევი პარამეტრები შექმნილია იმისთვის, რომ ზუსტად დააბალანსოს ცხოველების რაოდენობის ზრდა მაღალი სირთულეების დროს, ასე რომ, ყველა მოთამაშე მიიღებს იგივე ხორცის ჯილდოს.</Difficulty_ScariaRotChance_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>მტრის სიკვდილი ჩამოგდებულია</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>დაარეგულირეთ დამატებითი შანსი, რომ მტერი მაშინვე მოკვდეს ჩამოგდებისას. ეს გავლენას ახდენს პატიმრების აღების შანსებზე და, შესაბამისად, კოლონიების მოსახლეობის ზრდის ტემპებზე.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+  <DifficultyGeneralSection>ზოგადი</DifficultyGeneralSection>
+  <Difficulty_ColonistMoodOffset_Label>კოლონისტური განწყობა</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Info>მუდმივი განწყობის კომპენსაცია ეხებოდა ყველა კოლონისტსა და პატიმარს. კოლონისტებს აქვთ საბაზისო განწყობა 50%.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_FoodPoisonChanceFactor_Label>საკვები მოწამვლის შანსი</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Info>დაარეგულირეთ იმის შანსი, რომ ადამიანმა მიიღო კვებითი მოწამვლა პოტენციურად მოწამლული საკვების მიღებით.</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>ცხოველებზე შურისძიების შანსი</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>დაარეგულირეთ იმის შანსი, რომ გარეული ცხოველის დაზიანებები მის შეტევას გამოიწვევს.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Label>მეგობრული ცეცხლი</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Info>დაარეგულირეთ მეგობრული ცეცხლის შანსი.\n\nშენიშვნა: ეს პარამეტრი მოქმედებს მხოლოდ პირდაპირ დარტყმებზე, რომლებიც აპირებდნენ მიზანს. ის არ უშლის ზარალს აფეთქებებისგან, ან გასროლებისგან, რომლებიც აპირებდნენ სამიზნის გაშვებას.</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_AllowInstantKillChance_Label>კოლონისტი მყისიერი კლავს</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Info>დაარეგულირეთ შანსი, რომ კოლონისტი შეიძლება მყისიერად მოკვდეს თავდასხმის გამო. შემომავალი ზარალი დარეგულირდება ისე, რომ ის კოლონისტს ჩამოაგდებს.\n\nეს მხოლოდ თავიდან აიცილებს მყისიერ მკვლელობებს - კოლონისტების ჩამოგდება მაინც შეიძლება და სისხლით მოკვდეს, დაიღუპოს ხანძრის, აფეთქებების, დაავადების და ა.შ.</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>ინფექციის შანსი</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>დაარეგულირეთ ჭრილობის ინფიცირების შანსი.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>დაავადების სიხშირე</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>დაარეგულირეთ დაავადების შემთხვევითი მოვლენების სიხშირე.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_EnemyReproductionRateFactor_Label>მწერების ქვირითობის მაჩვენებელი</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Info>დაარეგულირეთ ტემპი, რომლითაც არსებული მწერების სკამები ახალ მწერებს წარმოქმნიან. დაბალი მნიშვნელობები ნიშნავს მეტ დროს ქვირითის მოვლენებს შორის.\n\nეს არ ახდენს გავლენას ინვაზიების წარმოქმნაზე - მხოლოდ იმ სიჩქარეზე, რომლითაც აქტიური სკამები წარმოქმნიან მწერებს.</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>ღრმა ბურღვის ინვაზიები</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>დაარეგულირეთ შანსი, რომ ღრმა ბურღვამ გამოიწვიოს ინვაზია.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_PeacefulTemples_Inverted_Label>უძველესი საფრთხეების რუქების თაობა</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Info>უძველესი ნაგებობები შეიძლება შეიცავდეს საშიშ საფრთხეებს.</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_AllowCaveHives_Label>რუქის თაობის ბუნებრივი სქელი</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Info>მიძინებული მწერების სქელი შეიძლება აღმოცენდეს ბუნებრივ გამოქვაბულებში.\n\nეს პარამეტრი ეხება მხოლოდ რუქის გენერირებას და არ მოქმედებს აქტიურ მწერებზე, რომლებიც შეიძლება გვირაბში შევიდნენ თამაშის დროს.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_UnwaveringPrisoners_Label>დაამატეთ ურყევი პატიმრები</Difficulty_UnwaveringPrisoners_Label>
+  <Difficulty_UnwaveringPrisoners_Info>ეს ვარიანტი თამაშს ამატებს დამატებით პატიმრებს, რომელთა დაქირავება შეუძლებელია ურყევი ლოიალობის გამო.\n\nურყევი პატიმრები ემატება ჩვეულებრივ პატიმრებს, ასე რომ, ამის გამორთვა არ მისცემს უფრო მეტ პატიმრებს - ის უბრალოდ აშორებს ურყევ პატიმრებს.\n\nურყევი პატიმრების გაყიდვა, ორღანის გათავისუფლება, დიპლომატიური პატიმრების გათავისუფლება. გამოყენება. ზოგადად, ისინი უფრო მეტ ვარიანტს და რესურსს გვთავაზობენ და თამაშს ცოტა უფრო მდიდარი და მარტივი ხდიან.</Difficulty_UnwaveringPrisoners_Info>
+  <Difficulty_NomadicMineableResourcesFactor_Label>მომთაბარე მაღაროების რესურსები</Difficulty_NomadicMineableResourcesFactor_Label>
+  <Difficulty_NomadicMineableResourcesFactor_Info>დაარეგულირეთ რამდენი მაღაროდი რესურსი გენერირებული იქნება რუკაზე თქვენი პირველის შემდეგ.\n\nშენიშვნა: თქვენი პირველი კოლონიის რუკა ყოველთვის გამოიმუშავებს რესურსების სტანდარტული რაოდენობით.</Difficulty_NomadicMineableResourcesFactor_Info>
+  <DifficultyPlayerToolsSection>მოთამაშის ხელსაწყოები</DifficultyPlayerToolsSection>
+  <Difficulty_AllowTraps_Label>მოთამაშეს შეუძლია ხაფანგების აგება</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Info>მოთამაშეს შეუძლია შექმნას ხაფანგები, როგორიცაა ხაფანგები და IED ხაფანგები.</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTurrets_Label>მოთამაშეს შეუძლია ააგოს კოშკები</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Info>მოთამაშეს შეუძლია შექმნას სტატიკური კოშკები, როგორიცაა მინი-კოშკები, ავტოქვემეხის კოშკები და ურანის შლაგების კოშკები.\n\nდაჭერილი კოშკები მაინც შეგიძლიათ გამოიყენოთ მაშინაც კი, თუ ეს გამორთულია.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowMortars_Label>მოთამაშეს შეუძლია ნაღმტყორცნების აგება</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Info>მოთამაშეს შეუძლია ნაღმტყორცნების აგება.\n\nდაჭერილი ნაღმტყორცნების გამოყენება მაინც შეგიძლიათ, მაშინაც კი, თუ ეს გამორთულია.</Difficulty_AllowMortars_Info>
+  <Difficulty_ClassicMortars_Label>კლასიკური ნაღმტყორცნები</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Info>ნაღმტყორცნები არ საჭიროებენ გამაგრებულ ლულებს ასაგებად ან გადატვირთვისთვის და დაბალანსებულია ამ მარტივი წვდომისთვის.</Difficulty_ClassicMortars_Info>
+  <DifficultyAdaptationSection>ადაპტაცია</DifficultyAdaptationSection>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>ადაპტაციის ზრდის ტემპი</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>ადაპტაცია ნიშნავს, რომ მთხრობელი თამაშს უფრო რთულს ხდის, როცა კარგად აკეთებ. ადაპტაციის ქულა დროთა განმავლობაში იზრდება და ძირს ითიშება, როცა დაზიანებას მიიღებთ.\n\nეს პარამეტრი არეგულირებს რამდენად სწრაფად იზრდება ადაპტაციის ქულა დროთა განმავლობაში.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationEffectFactor_Label>ადაპტაციის გავლენა</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Info>ადაპტაცია ნიშნავს, რომ მთხრობელი თამაშს უფრო რთულს ხდის, როცა კარგად აკეთებ. ადაპტაციის ქულა დროთა განმავლობაში იზრდება და მცირდება, როცა ზიანს აყენებთ.\n\nეს პარამეტრი არეგულირებს რამდენად გავლენას ახდენს ადაპტაციის ქულა სირთულეზე.</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_FixedWealthMode_Label>სიმდიდრისგან დამოუკიდებელი პროგრესის რეჟიმი</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Info>ითამაშეთ სიმდიდრისგან დამოუკიდებელი პროგრესის რეჟიმში.\n\nჩვეულ რეჟიმში, მთხრობელი აფასებს საფრთხეებს კოლონისტების რაოდენობის, მოთამაშის სიმდიდრისა და სხვა ფაქტორების მიხედვით. სიმდიდრისგან დამოუკიდებელი რეჟიმი შლის სიმდიდრის ფაქტორს და ცვლის მას ფიქსირებული პროგრესის მრუდით, რომელიც დაფუძნებულია დროზე. დრო ითვლება თითოეული კოლონიის დაარსებიდან.\n\nეს რეკომენდირებულია მხოლოდ მათთვის, ვინც ეძებს მკაცრი უნარების გამოწვევას. სიმდიდრისგან დამოუკიდებელ რეჟიმში, შეიძლება თითქმის შეუძლებელი იყოს სერიოზული ზარალის აღდგენა, თუ არ იპოვით ახალ დასახლებას. ასევე შესაძლებელია ძალიან შორს წახვიდეთ მრუდზე და იპოვოთ თამაში ძალიან მარტივად.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthTimeFactor_Label>წლები მაქსიმალურ საფრთხემდე</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Info>თამაშის წლების რაოდენობა, სანამ სიმდიდრისგან დამოუკიდებელი რეჟიმი მიაღწევს საფრთხის მაქსიმალურ დონეს.\n\nგაითვალისწინეთ, რომ მთხრობელი კვლავ განასხვავებს საფრთხეებს კოლონისტების რაოდენობისა და სხვადასხვა ფაქტორების მიხედვით.</Difficulty_FixedWealthTimeFactor_Info>
+  <DifficultyIdeologySection>იდეოლოგია</DifficultyIdeologySection>
+  <Difficulty_LowPopConversionBoost_Label>დაბალი პოპ კონვერტაციის გაძლიერება</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Info>მოთამაშის საწყისი იდეოლიგიის ერთი კოლონისტით, მათი იდეოლიგიაში გადაყვანის შანსი მრავლდება ამ თანხაზე. მათ წინააღმდეგ კონვერტაციის მცდელობებს თავისი გავლენა აქვს გაყოფილი ამ ოდენობაზე.\n\nმოთამაშის საწყისი იდეოლიგიის ორი კოლონისტით ეფექტი განახევრდება.\n\nმოთამაშის საწყისი იდეოლიგიის სამი ან მეტი კოლონისტით, ამას არანაირი ეფექტი არ აქვს.</Difficulty_LowPopConversionBoost_Info>
+  <SelectStartingSite>საწყისი ადგილის არჩევა</SelectStartingSite>
+  <SelectRandomSite>შემთხვევითი ადგილი</SelectRandomSite>
+  <SelectSite>აირჩიეთ საიტი</SelectSite>
+  <MustSelectStartingSite>გთხოვთ აირჩიოთ საიტი.</MustSelectStartingSite>
+  <CannotLandBiome>თქვენ არ შეგიძლიათ დაეშვათ ამ ბიომზე: {0}</CannotLandBiome>
+  <BiomeNotImplemented>ბიომი არ არის დანერგილი</BiomeNotImplemented>
+  <CannotLandImpassableMountains>გაუვალ მთებზე ვერ დაეშვები.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0}-ს უკვე აქვს ბაზა.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>იქ უკვე გაქვთ ბაზა.</YourBaseAlreadyThere>
+  <TileOccupied>ეს ფილა დაკავებულია.</TileOccupied>
+  <FactionBaseAdjacent>დასახლებები არ შეიძლება იყოს ერთმანეთთან უშუალოდ მიმდებარე.</FactionBaseAdjacent>
+  <Biome>ბიომი</Biome>
+  <Terrain>რელიეფი</Terrain>
+  <Road>გზა</Road>
+  <River>მდინარე</River>
+  <Elevation>სიმაღლე</Elevation>
+  <TileMutators>მახასიათებლები</TileMutators>
+  <Fertility>ნაყოფიერება</Fertility>
+  <FertilityLower>ნაყოფიერება</FertilityLower>
+  <AvgTemp>საშუალო ტემპერატურა</AvgTemp>
+  <Rainfall>ნალექი</Rainfall>
+  <SpecialFeatures>განსაკუთრებული თვისებები</SpecialFeatures>
+  <HasCoast0>ჩრდილოეთ სანაპირო</HasCoast0>
+  <HasCoast1>აღმოსავლეთ სანაპირო</HasCoast1>
+  <HasCoast2>სამხრეთ სანაპირო</HasCoast2>
+  <HasCoast3>დასავლეთ სანაპირო</HasCoast3>
+  <HasCaves>გამოქვაბულები</HasCaves>
+  <FactionBase>ფრაქციის ბაზა</FactionBase>
+  <StoneTypesHere>ქვის ტიპები</StoneTypesHere>
+  <TimeZone>დროის ზონა</TimeZone>
+  <MovementDifficulty>მოძრაობის სირთულე</MovementDifficulty>
+  <AnimalsCanGrazeNow>ცხოველებს ახლა შეუძლიათ ძოვება</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>დაავადების საშუალო სიხშირე</AverageDiseaseFrequency>
+  <PerYear>წელიწადში</PerYear>
+  <Forageability>ძებნა-ნახვა</Forageability>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>არცერთ არჩეულ ადამიანს არ შეუძლია შეასრულოს შემდეგი სამუშაოები:\n\n{0}\n\nამან შეიძლება თამაში ჩვეულებრივზე უფრო გაართულოს. დარწმუნებული ხართ, რომ გსურთ გაგრძელება?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <TemperatureLower>ტემპერატურა</TemperatureLower>
+  <LightLower>სინათლე</LightLower>
+  <CreateCharacters>შექმენით პერსონაჟები</CreateCharacters>
+  <FirstNameDesc>პერსონაჟის სახელი.\n\nეს მხოლოდ გარკვეულ მენიუშია ნაჩვენები.</FirstNameDesc>
+  <ShortIdentifierDesc>პერსონაჟის მოკლე იდენტიფიკატორი.\n\nეს ყოველთვის ნაჩვენებია. ეს შეიძლება იყოს სახელი ან გვარი, ან სრულიად ცალკე მეტსახელი.</ShortIdentifierDesc>
+  <LastNameDesc>პერსონაჟის გვარი.\n\nეს მხოლოდ გარკვეულ მენიუშია ნაჩვენები.</LastNameDesc>
+  <Randomize>შემთხვევითი</Randomize>
+  <AgeIndicator>ასაკი {0}</AgeIndicator>
+  <PawnSummary>{PAWN_race}, ასაკი {PAWN_ageFull}</PawnSummary>
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, ასაკი {PAWN_ageFull}</PawnSummaryWithGender>
+  <Backstory>ბიოგრაფია</Backstory>
+  <IncapableOf>უუნარო</IncapableOf>
+  <Abilities>შესაძლებლობები</Abilities>
+  <IncapableOfTooltipHediff>გამოწვეული</IncapableOfTooltipHediff>
+  <IncapableOfTooltipWorkTypes>გამორთული სამუშაოს ტიპები:</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipBackstory>ისტორიით გამოწვეული</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipTitle>სათაურით გამოწვეული</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTrait>თვისებით გამოწვეული</IncapableOfTooltipTrait>
+  <IncapableOfTooltipQuest>გამოწვეულია ქვესტის სტატუსით</IncapableOfTooltipQuest>
+  <IncapableOfTooltipRole>როლით გამოწვეული</IncapableOfTooltipRole>
+  <IncapableOfTooltipGene>გამოწვეულია გენით</IncapableOfTooltipGene>
+  <IncapableOfTooltipMutant>გამოწვეული</IncapableOfTooltipMutant>
+  <Traits>მახასიათებლები</Traits>
+  <PermanentMoodEffect>განწყობის მუდმივი ეფექტი</PermanentMoodEffect>
+  <Skills>უნარები</Skills>
+  <NoneLower>არცერთი</NoneLower>
+  <Adulthood>ზრდასრულობა</Adulthood>
+  <Childhood>ბავშვობა</Childhood>
+  <Male>მამრობითი</Male>
+  <Female>მდედრობითი</Female>
+  <MaleAndFemale>მამრობითი და ქალი</MaleAndFemale>
+  <MaleAnimal>მამრი</MaleAnimal>
+  <FemaleAnimal>მდედრი</FemaleAnimal>
+  <Pain>ტკივილი</Pain>
+  <Health>ჯანმრთელობა</Health>
+  <Relations>ურთიერთობები</Relations>
+  <Possessions>საკუთრება</Possessions>
+  <TeamSkills>გუნდური უნარები</TeamSkills>
+  <StartingPawnsSelected>არჩეული</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>ჩამორჩა</StartingPawnsLeftBehind>
+  <GuiltyDesc>ეს ადამიანი დამნაშავედ ითვლება. სხვებს არ შეაწუხებთ, თუ მათ განდევნით, აღასრულებთ ან დააპატიმრებთ.\n\nდანაშაულის ვადა იწურება</GuiltyDesc>
+  <Start>დაწყება</Start>
+  <Advanced>გაფართოებული</Advanced>
+  <Next>შემდეგი</Next>
+  <Back>უკან</Back>
+  <ShowMaterials>მასალის შეცვლა...</ShowMaterials>
+  <Gameplay>თამაში</Gameplay>
+  <ConfirmQuit>მართლა დატოვე? თქვენ დაკარგავთ შენახულ პროგრესს.</ConfirmQuit>
+  <EveryoneNeedsValidName>თითოეულ ადამიანს სჭირდება სწორი სახელი.</EveryoneNeedsValidName>
+  <RequiredWorkTypeDisabledForEveryone>ვერც ერთ არჩეულ ადამიანს არ შეუძლია შემდეგი სამუშაოების შესრულება</RequiredWorkTypeDisabledForEveryone>
+  <Quit>გასვლა</Quit>
+  <Ignore>უგულებელყოფა</Ignore>
+  <GeneratingWorld>სამყაროს გენერირება</GeneratingWorld>
+  <GeneratingPlanet>წარმოქმნილი პლანეტა</GeneratingPlanet>
+  <GeneratingMap>რუკის გენერირება</GeneratingMap>
+  <GeneratingMapForNewEncounter>რუკის გენერირება ახალი შეხვედრისთვის</GeneratingMapForNewEncounter>
+  <ClickForMoreInfo>დააწკაპუნეთ მეტი ინფორმაციისთვის.</ClickForMoreInfo>
+  <NoMoreInfoAvailable>მეტი ინფორმაცია არ არის ხელმისაწვდომი.</NoMoreInfoAvailable>
+  <BestSkillLabel>საუკეთესო უნარი</BestSkillLabel>
+  <BestSkillLetterLabel>{PAWN_nameDef}-ის საუკეთესო სტატისტიკა</BestSkillLetterLabel>
+  <BestSkillInfoLevel>უნარების დონე {0}</BestSkillInfoLevel>
+  <Factions>ფრაქციები</Factions>
+  <TotalFactionsAllowed>დასაშვებია მაქსიმუმ {0} ძირითადი ფრაქციები</TotalFactionsAllowed>
+  <MaxFactionsForType>მაქსიმუმ {0}</MaxFactionsForType>
+  <FactionSelectionDesc>აირჩიეთ ფრაქციები მსოფლიოში. თქვენ შეგიძლიათ აირჩიოთ მაქსიმუმ {0} ფრაქციები.</FactionSelectionDesc>
+  <FactionDisabledContentWarning>{0}-ის გამორთვა ნიშნავს ნაკლებ საძიებო მრავალფეროვნებას და სხვა შემცირებულ კონტენტს.</FactionDisabledContentWarning>
+  <InsectsDisabledContentWarning>{0}-ის გამორთვა ნიშნავს ნაკლებად სპონტანურ საფრთხეს.</InsectsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>{0}-ის გამორთვა ნიშნავს ნაკლებ ძიებას და სპონტანურ საფრთხეს.</MechanoidsDisabledContentWarning>
+  <FactionsDisabledWarning>სხვა ფრაქციების გარეშე, რეიდები, ვაჭრობა და ქვესტები ჩვეულებრივ არ მოხდება.</FactionsDisabledWarning>
+  <FactionRemovalDisabled>ამ სცენარისთვის წაშლა შეუძლებელია.</FactionRemovalDisabled>
+</LanguageData>

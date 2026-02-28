@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Plant_Astragalus.description>პატარა მრავალწლიანი ველური ყვავილი, რომელიც იზრდება ალპურ კლიმატში.</Plant_Astragalus.description>
+  <Plant_Astragalus.label>ასტრაგალი</Plant_Astragalus.label>
+  <Plant_Berry.description>ბუჩქოვანი ველური მცენარე, რომელიც იძლევა გემრიელ კენკრას. კენკრა შეიძლება მოხარშული იყოს, მაგრამ ასევე კარგია მათი ჭამა მაშინაც კი, როცა ნედლი იყო.</Plant_Berry.description>
+  <Plant_Berry.label>კენკრის ბუჩქი</Plant_Berry.label>
+  <Plant_Dandelion.description>პაწაწინა ყვითელი ყვავილი, რომელიც იზრდება დიდ მტევნებში. მიუხედავად იმისა, რომ ის ხშირად სარეველად ითვლება, აყვავებული დენდელიები საკმაოდ ლამაზია.</Plant_Dandelion.description>
+  <Plant_Dandelion.label>დენდელიონები</Plant_Dandelion.label>
+  <Plant_Moss.description>ველური ხავსი, რომელიც იზრდება გროვად დაბალი სინათლისა და გრილი ტემპერატურის ადგილებში. ხავსს დიდი დრო სჭირდება ზრდას, მაგრამ ძალიან ყინვაგამძლეა.</Plant_Moss.description>
+  <Plant_Moss.label>ხავსი</Plant_Moss.label>
+  <Plant_TreeBirch.description>ზომიერი ბიომის ხე, რომელიც ცნობილია თხელი, თეთრი, ქაღალდის მსგავსი ქერქით.</Plant_TreeBirch.description>
+  <Plant_TreeBirch.label>არყის ხე</Plant_TreeBirch.label>
+  <Plant_TreeOak.description>ხისტი ხე. მუხას დიდი დრო სჭირდება, მაგრამ მათი მერქანი იმდენად ძლიერია, რომ „მუხა“ მრავალ კულტურაში სიძლიერის მეტაფორად გამოიყენება.</Plant_TreeOak.description>
+  <Plant_TreeOak.label>მუხის ხე</Plant_TreeOak.label>
+  <Plant_TreePine.description>დიდი წიწვოვანი ხე, რომელიც დაფარულია ეკლიანი ფიჭვის გირჩებით. ის იზრდება გამორჩეული კონუსური ფორმით.</Plant_TreePine.description>
+  <Plant_TreePine.label>ფიჭვის ხე</Plant_TreePine.label>
+  <Plant_TreePoplar.description>რბილი ხის ხე, რომელიც ძალიან სწრაფად იზრდება. სამწუხაროდ, მისი მერქანი სუსტია და ამიტომ ნაკლებად სასარგებლო მასალას იძლევა ვიდრე ხისტი ხეები.</Plant_TreePoplar.description>
+  <Plant_TreePoplar.label>ალვის ხე</Plant_TreePoplar.label>
+</LanguageData>

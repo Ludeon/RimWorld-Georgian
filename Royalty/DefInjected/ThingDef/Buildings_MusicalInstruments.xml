@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Harp.description>A simple stationary musical instrument. A row of strings are stretched over a frame and plucked directly by a musician's fingers.\n\nIt can be crafted at a crafting spot or smithy.</Harp.description>
+  <Harp.label>არფა</Harp.label>
+  <Harpsichord.description>რთული სტაციონარული მუსიკალური ინსტრუმენტი, რომელიც დამზადებულია სამჭედლოში. მუსიკოსი ხელს უწყობს კლავიშების რიგს ინსტრუმენტის წინა მხარეს. თითოეული გასაღები მიმაგრებულია შიდა მექანიზმზე, რომელიც ჭრის ხის ჩარჩოზე გადაჭიმული სიმების ერთ რიგს. მიუხედავად იმისა, რომ ის იძლევა უფრო რთულ კომპოზიციას, ვიდრე არფა, მისი ხის კონსტრუქცია და ჭრის მექანიზმი ზღუდავს მის გამომავალ მოცულობას და ექსპრესიულობას.</Harpsichord.description>
+  <Harpsichord.label>კლავესინი</Harpsichord.label>
+  <Piano.description>An advanced stationary musical instrument. It is played by pressing a row of keys, which causes hammers to strike internal strings stretched over a steel frame. The hammer mechanism and high-tension strings allow the musician to play both very soft and very loud, making the piano a very expressive instrument.\n\nIt can be crafted at a smithy.</Piano.description>
+  <Piano.label>ფორტეპიანო</Piano.label>
+  <UnfinishedPiano.description>დაუმთავრებელი პიანინო.</UnfinishedPiano.description>
+  <UnfinishedPiano.label>დაუმთავრებელი ფორტეპიანო</UnfinishedPiano.label>
+</LanguageData>

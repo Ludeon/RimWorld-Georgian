@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Raiding_Required.description>ჩვენ არ ვმუშაობთ ისე, როგორც ჩვეულებრივი მუშები, სუსტებს ისე ვიღებთ, როგორც ძლიერს უნდა. ამის შეუსრულებლობა უდიდესი სირცხვილია.</Raiding_Required.description>
+  <Raiding_Required.label>საჭირო</Raiding_Required.label>
+  <Raiding_Respected.description>ჩვენ არ ვმუშაობთ ისე, როგორც ჩვეულებრივი მუშები, სუსტებს ისე ვიღებთ, როგორც ძლიერს უნდა. ამის შეუსრულებლობა სირცხვილის ნიშანია.</Raiding_Respected.description>
+  <Raiding_Respected.label>პატივცემული</Raiding_Respected.label>
+</LanguageData>

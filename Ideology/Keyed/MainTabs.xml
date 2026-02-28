@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <Deities>ღვთაებები</Deities>
+  <ButtonShowAllIdeoligions>აჩვენე ყველა იდეოლიგია</ButtonShowAllIdeoligions>
+  <IdeoligionOf>იდეოლიგია</IdeoligionOf>
+  <Memes>მემები</Memes>
+  <CoreNarrative>ნარატივი</CoreNarrative>
+  <CoreNarrativeDesc>თქვენი იდეოლიგიის ძირითადი ნარატივი. ამას არანაირი გავლენა არ აქვს თამაშზე.</CoreNarrativeDesc>
+  <EditNarrative>თხრობის რედაქტირება</EditNarrative>
+  <LockButtonDesc>ჩაკეტეთ ან განბლოკეთ იდეოლიგიის ნარატივი. როდესაც ჩაკეტილია, თხრობითი ტექსტი ავტომატურად არ აღდგება, თუ იდეოლიგია შეიცვლება.</LockButtonDesc>
+  <LockInOn>{0} საკეტი ამჟამად ჩართულია. {1} არ მოხდება ავტომატურად რეგენერაცია.</LockInOn>
+  <LockInOff>{0} საკეტი ამჟამად გამორთულია. {1} ტექსტს შეუძლია ავტომატური რეგენერაცია.</LockInOff>
+  <LockPreceptNameButtonDesc>ჩაკეტეთ ან განბლოკეთ ამ პრინციპის სახელი. როდესაც დაბლოკილია, პრინციპის სახელი ავტომატურად არ აღდგება, თუ იდეოლიგია შეიცვლება.</LockPreceptNameButtonDesc>
+  <Precepts>მცნებები</Precepts>
+  <Rituals>რიტუალები</Rituals>
+  <IdeoRoles>როლები</IdeoRoles>
+  <IdeoBuildings>შენობები</IdeoBuildings>
+  <IdeoRelics>რელიკვიები</IdeoRelics>
+  <IdeoApparel>სასურველი ტანსაცმელი</IdeoApparel>
+  <IdeoApparelDesire>ტანსაცმლის სურვილი</IdeoApparelDesire>
+  <UnwillingToDoIdeoAction>არ გააკეთებს</UnwillingToDoIdeoAction>
+  <PreceptStats>სტატისტიკა</PreceptStats>
+  <Prohibitions>აკრძალვები</Prohibitions>
+  <Opinions>მოსაზრებები</Opinions>
+  <MentalBreaks>გონებრივი შესვენებები</MentalBreaks>
+  <RandomizeName>სახელის შემთხვევითობა</RandomizeName>
+  <RandomizePrecepts>მცნებების შემთხვევითობა</RandomizePrecepts>
+  <RandomizeDeities>ღვთაებების შემთხვევითობა</RandomizeDeities>
+  <AddDeity>დაამატეთ ღვთაება</AddDeity>
+  <ChooseMemes>აირჩიეთ მემები</ChooseMemes>
+  <ChooseStartingMeme>აირჩიეთ საწყისი მემი</ChooseStartingMeme>
+  <ChooseStructure>აირჩიეთ სტრუქტურა</ChooseStructure>
+  <ChooseCulture>აირჩიეთ კულტურა</ChooseCulture>
+  <Culture>კულტურა</Culture>
+  <CultureTip>კულტურა გავლენას ახდენს სახელებზე, გარეგნობაზე და სიმბოლოებზე.</CultureTip>
+  <StructureMeme>სტრუქტურა</StructureMeme>
+  <StructureMemeTip>იდეოლიგიის სტრუქტურა განსაზღვრავს იმ არსებებს და ძალებს, რომლებიც მას ხედავს, როგორც მნიშვნელოვანს სამყაროს მორალური სტრუქტურისთვის. მას არ აქვს პირდაპირი თამაშის ეფექტები.</StructureMemeTip>
+  <Adjective>ზედსართავი</Adjective>
+  <WorshipRoom>რიტუალური ოთახი</WorshipRoom>
+  <IdeoMembers>წევრის არსებითი სახელი</IdeoMembers>
+  <IdeoMembersPlural>წევრის მრავლობითი</IdeoMembersPlural>
+  <EditSymbols>სიმბოლოების რედაქტირება</EditSymbols>
+  <EditDeity>ღვთაების რედაქტირება</EditDeity>
+  <EditApparelRequirement>საჭირო ტანსაცმლის რედაქტირება</EditApparelRequirement>
+  <EditName>სახელის რედაქტირება</EditName>
+  <StartingCondition_Anytime>ნებისმიერ დროს</StartingCondition_Anytime>
+  <StartingCondition_Date>თარიღი</StartingCondition_Date>
+  <StartingCondition>საწყისი მდგომარეობა</StartingCondition>
+  <RandomizeSymbols>სიმბოლოების შემთხვევითობა</RandomizeSymbols>
+  <RandomizeSymbolsTooltip>შეასწორეთ იდეოლიგიის სახელი, ხატი, თხრობა, ლიდერის სათაური და ნებისმიერი სხვა ტექსტი, როგორიცაა რიტუალური სახელები ან როლების სახელები. ეს არ იმოქმედებს თამაშის ელემენტებზე, როგორიცაა მემები ან პრინციპები.</RandomizeSymbolsTooltip>
+  <ClickAnyElementToEditIt>დააწკაპუნეთ ნებისმიერ ელემენტზე მის რედაქტირებისთვის</ClickAnyElementToEditIt>
+  <LeaderTitle>ლიდერის ტიტული</LeaderTitle>
+  <DeityName>ღვთაების სახელი</DeityName>
+  <DeityTitle>ღვთაების ტიტული</DeityTitle>
+  <DeityGender>ღვთაების სქესი</DeityGender>
+  <Name>სახელი</Name>
+  <Icon>ხატი</Icon>
+  <RelatedToMeme>მემთან დაკავშირებული</RelatedToMeme>
+  <IdeoCharityQuestInfo>ეს არის საქველმოქმედო ქვესტი. თუ ამას არ შეასრულებთ, {0}-ის მორწმუნეები უბედურები იქნებიან თავიანთი საქველმოქმედო რწმენის გამო. თუ ამას აკეთებთ, {0}-ის მორწმუნეები ბედნიერი იქნებიან ({1}).</IdeoCharityQuestInfo>
+  <WorkDisabledSlave>მონები ამ საქმეს არ გააკეთებენ</WorkDisabledSlave>
+  <WorkDisabledHealth>ინვალიდი ჯანმრთელობის მდგომარეობის გამო</WorkDisabledHealth>
+  <WorkDisabledRole>გამორთულია {0} როლით</WorkDisabledRole>
+  <AffectedByTraits>გავლენას ახდენს თვისებები</AffectedByTraits>
+  <CharityQuestTip>ეს არის საქველმოქმედო ქვესტი. საქველმოქმედო რწმენის მქონე ადამიანები გავლენას მოახდენენ მის შედეგებზე.</CharityQuestTip>
+  <Formerly>ადრე</Formerly>
+  <All>ყველა</All>
+  <RelicTip>რელიქვიები სულიერი თუ იდეოლოგიური მნიშვნელობის ობიექტებია. მათი აღმოჩენა შესაძლებელია ხანგრძლივი და საშიში ქვესტების შესრულებით. რელიქვია შეიძლება დამონტაჟდეს რელიქვიაში, რათა მოიზიდოს მომლოცველები, გააძლიეროს რიტუალები და გააძლიეროს იდეოლიგიის უნარი მოაქცია უცხო პირები.</RelicTip>
+  <RelicTipClassic>რელიქვიები სულიერი თუ იდეოლოგიური მნიშვნელობის ობიექტებია. მათი აღმოჩენა შესაძლებელია ხანგრძლივი და საშიში ქვესტების შესრულებით. რელიქვია შეიძლება დამონტაჟდეს რელიქვიარში მომლოცველების მოსაზიდად და რიტუალების გასაძლიერებლად.</RelicTipClassic>
+  <Animal>ცხოველი</Animal>
+  <VeneratedAnimals>თაყვანისმცემელი ცხოველები</VeneratedAnimals>
+  <IdeoWeapon>იარაღის წყვილი</IdeoWeapon>
+  <IdeoWeapons>იარაღი</IdeoWeapons>
+  <SwapNobleAndDespised>გაცვალე კეთილშობილი და საზიზღარი</SwapNobleAndDespised>
+  <Noble>კეთილშობილი</Noble>
+  <Despised>ზიზღით</Despised>
+  <UnlockedRecipes>განბლოკილი ხელნაკეთობები</UnlockedRecipes>
+  <IdeoStartWithResearch>დაიწყეთ კვლევით</IdeoStartWithResearch>
+  <AgreeableTraits>შეთანხმებული თვისებები</AgreeableTraits>
+  <DisagreeableTraits>ურთიერთგამომრიცხავი თვისებები</DisagreeableTraits>
+  <Shooting>სროლა</Shooting>
+  <IdeoImpact>გავლენა</IdeoImpact>
+  <IdeoImpactOverall>საერთო გავლენა</IdeoImpactOverall>
+  <IdeoImpactOverallDesc>ზოგიერთი მემი უფრო მეტად მოქმედებს თამაშზე, ვიდრე სხვები. მემის გავლენის ქულა იძლევა იმის განცდას, თუ რამდენად დიდი გავლენა აქვს მას თამაშზე.</IdeoImpactOverallDesc>
+  <IdeoMemeImpactLabel_1>დაბალი</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_2>საშუალო</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_3>მაღალი</IdeoMemeImpactLabel_3>
+  <IdeoImpactLabel_1>დაბალი</IdeoImpactLabel_1>
+  <IdeoImpactLabel_2>დაბალი</IdeoImpactLabel_2>
+  <IdeoImpactLabel_3>ზომიერი</IdeoImpactLabel_3>
+  <IdeoImpactLabel_4>ზომიერი</IdeoImpactLabel_4>
+  <IdeoImpactLabel_5>ძლიერი</IdeoImpactLabel_5>
+  <IdeoImpactLabel_6>ძლიერი</IdeoImpactLabel_6>
+  <IdeoImpactLabel_7>ძალიან ძლიერი</IdeoImpactLabel_7>
+  <IdeoImpactLabel_8>ძალიან ძლიერი</IdeoImpactLabel_8>
+  <IdeoImpactLabel_9>ძალიან ძლიერი</IdeoImpactLabel_9>
+  <InitialPlayerIdeo>ეს იყო თქვენი კოლონიის საწყისი იდეოლიგია.</InitialPlayerIdeo>
+  
+  
+  <FluidIdeoTip>ვინაიდან ეს იდეოლიგია ძალიან ახალია და ამ პლანეტაზე ამდენი მიმდევარი ჰყავს, ის თხევადია. ეს ნიშნავს, რომ ის შეიძლება განვითარდეს დროთა განმავლობაში.\n\nიდეოლიგიის შემუშავება ღირს განვითარების ქულები. შეგიძლიათ მიიღოთ განვითარების ქულები ამ იდეოლიგიასთან დაკავშირებული რიტუალების და ქვესტების შესრულებით.\n\nსაკმარისი განვითარების ქულებით, შეგიძლიათ იდეოლიგიის რეფორმირება ახალი მემებით, პრინციპებით, სტილებით და სხვა.</FluidIdeoTip>
+  <FluidIdeoTipGetPoints>როგორ მივიღოთ განვითარების ქულები</FluidIdeoTipGetPoints>
+  <FluidIdeoTipGetPoinsByConversion>გადააკეთეთ ვინმე თქვენს იდეოლიგიაზე</FluidIdeoTipGetPoinsByConversion>
+
+  <ResearchProjectHasDefsWithMissingMemes>{0} ხსნის ნივთებს, რისი აშენებაც შეუძლებელია, რადგან ისინი საჭიროებენ მემებს, რომელთა არცერთს არ სჯერა</ResearchProjectHasDefsWithMissingMemes>
+  <SelectedWorkTypeOpposedByIdeo>გაფრთხილება: ამ ტიპის სამუშაოს ეწინააღმდეგება {0_possessive} იდეოლიგია, ამიტომ შესაძლოა ეს ადამიანი გააბედნიეროს.</SelectedWorkTypeOpposedByIdeo>
+
+  <DevelopmentPoints>განვითარების წერტილები</DevelopmentPoints>
+
+</LanguageData>

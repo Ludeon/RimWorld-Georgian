@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AmbientHorror.description>მონოლითი არ ჩანს. ნებისმიერი ანომალიის საფრთხე შეიძლება მოხდეს, მაგრამ ანომალიის საფრთხეები ნაგულისხმევად იშვიათი იქნება. კარგია, თუ გსურთ ურთიერთქმედება ანომალიის გაფართოების კონტენტთან მის გარეშე. შენიშვნა: მონოლითის ბოლო თამაში ამ რეჟიმში ვერ მოხდება.</AmbientHorror.description>
+  <AmbientHorror.label>გარემოს საშინელება</AmbientHorror.label>
+  <Disabled.description>ანომალიის საფრთხე არ ხდება. კარგია, თუ არ გსურთ ურთიერთქმედება Anomaly-ის გაფართოების კონტენტთან.</Disabled.description>
+  <Disabled.label>ანომალიური ინციდენტები გამორთულია</Disabled.label>
+  <Standard.description>სტანდარტული ანომალიის გამოცდილება. ანომალიის საფრთხე დაკავშირებულია ბათილი მონოლითის გააქტიურებასთან.</Standard.description>
+  <Standard.label>სტანდარტული მონოლითით</Standard.label>
+</LanguageData>

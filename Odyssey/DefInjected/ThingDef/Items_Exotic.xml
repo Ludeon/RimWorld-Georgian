@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AlphaThrumboHorn.description>An alpha thrumbo's horn. It's razor-sharp and priceless in most markets. This is a true trophy, as well as a deadly melee weapon.\n\nThe alpha horn is much lighter than a normal thrumbo horn, making it much faster to wield.</AlphaThrumboHorn.description>
+  <AlphaThrumboHorn.label>ალფა თრომბო რქა</AlphaThrumboHorn.label>
+  <MastodonTusk.description>მასტოდონის ტილო. მოვაჭრეები უხვად იხდიან მსგავს ნიმუშებს. მიუხედავად იმისა, რომ გარკვეულწილად მოუხერხებელია, როგორც მელეის იარაღი, ის მაინც საკმაოდ ძლიერად ურტყამს.</MastodonTusk.description>
+  <MastodonTusk.label>მასტოდონის ტილო</MastodonTusk.label>
+  <SentienceCatalyst.description>A single-use dose of mechanites used to enhance neural pathways in animals, permanently increasing their trainability and reducing their wildness.\n\nThe effect does not stack.</SentienceCatalyst.description>
+  <SentienceCatalyst.label>გრძნობების კატალიზატორი</SentienceCatalyst.label>
+</LanguageData>

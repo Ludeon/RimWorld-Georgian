@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlindingCeremony.description>რიტუალის ხარისხიდან გამომდინარე, მონაწილეები მიიღებენ {MINMOOD}-დან {MAXMOOD} განწყობას {MOODDAYS} დღის განმავლობაში.</BlindingCeremony.description>
+  <BlindingCeremony.outcomeChances.0.description>{0} საშინელი იყო! მეტყველება იყო ჭუჭყიანი და არათანმიმდევრული. დაბრმავების ტექნიკა გაუმართავი იყო. ყველა ელოდა მის დასრულებას.</BlindingCeremony.outcomeChances.0.description>
+  <BlindingCeremony.outcomeChances.0.label>საშინელება</BlindingCeremony.outcomeChances.0.label>
+  <BlindingCeremony.outcomeChances.1.description>{0} მოსაწყენი იყო. მეტყველება განმეორებადი იყო და დაბრმავების ტექნიკა შესამჩნევად გაუმართავი იყო. უბრალოდ ღირსეულად არ გრძნობდა თავს.</BlindingCeremony.outcomeChances.1.description>
+  <BlindingCeremony.outcomeChances.1.label>მოსაწყენი</BlindingCeremony.outcomeChances.1.label>
+  <BlindingCeremony.outcomeChances.2.description>{0} დამაკმაყოფილებელი იყო. მეტყველება აზრიანი იყო, დაბრმავების ტექნიკა კი ზუსტი და ღირსეული იყო.</BlindingCeremony.outcomeChances.2.description>
+  <BlindingCeremony.outcomeChances.2.label>დამაკმაყოფილებელი</BlindingCeremony.outcomeChances.2.label>
+  <BlindingCeremony.outcomeChances.3.description>{0} იყო სანახაობრივი! გამოსვლამ ყველა სიგიჟის ზღვარზე მიიყვანა, როგორც თვალი დამაკმაყოფილებელი სველი ხმაურით ამოუვიდა.</BlindingCeremony.outcomeChances.3.description>
+  <BlindingCeremony.outcomeChances.3.label>სანახაობრივი</BlindingCeremony.outcomeChances.3.label>
+  <CelebratedDate.description>რიტუალის ხარისხიდან გამომდინარე, მონაწილეები მიიღებენ {MINMOOD}-დან {MAXMOOD} განწყობას {MOODDAYS} დღის განმავლობაში.</CelebratedDate.description>
+  <CelebratedDate.outcomeChances.0.description>{0} საშინელი იყო! მონაწილეებმა საათობით გაუძლეს ყბის დაჭერით საუბრებს, სანამ ელოდნენ მის დასრულებას.</CelebratedDate.outcomeChances.0.description>
+  <CelebratedDate.outcomeChances.0.label>საშინელება</CelebratedDate.outcomeChances.0.label>
+  <CelebratedDate.outcomeChances.1.description>{0} მოსაწყენი იყო. ყველამ თავი უხერხულად იგრძნო, რომ გახსნა და გაეცინა.</CelebratedDate.outcomeChances.1.description>
+  <CelebratedDate.outcomeChances.1.label>მოსაწყენი</CelebratedDate.outcomeChances.1.label>
+  <CelebratedDate.outcomeChances.2.description>{0} სახალისო იყო. ყველამ დააფასა ერთად დასვენებისა და გართობის შესაძლებლობა.</CelebratedDate.outcomeChances.2.description>
+  <CelebratedDate.outcomeChances.2.label>გართობა</CelebratedDate.outcomeChances.2.label>
+  <CelebratedDate.outcomeChances.3.description>{0} დაუვიწყარი იყო! ყველამ გაიგო ერთმანეთის შესახებ და თავს ოჯახად გრძნობდა.</CelebratedDate.outcomeChances.3.description>
+  <CelebratedDate.outcomeChances.3.label>დაუვიწყარი</CelebratedDate.outcomeChances.3.label>
+  <CelebrationSkyLanterns.description>რიტუალის ხარისხიდან გამომდინარე, მონაწილეები მიიღებენ {MINMOOD}-დან {MAXMOOD} განწყობას {MOODDAYS} დღის განმავლობაში.</CelebrationSkyLanterns.description>
+  <CelebrationSkyLanterns.outcomeChances.0.description>{0} საშინელი იყო! ხალხი სულ აღიზიანებდა ლამპიონების კეთებას და ისინი ქარზე ნაგავს ჰგავდნენ.</CelebrationSkyLanterns.outcomeChances.0.description>
+  <CelebrationSkyLanterns.outcomeChances.0.label>საშინელება</CelebrationSkyLanterns.outcomeChances.0.label>
+  <CelebrationSkyLanterns.outcomeChances.1.description>{0} არ იყო შთამბეჭდავი. ფარნის დამზადებას ძალიან დიდი დრო დასჭირდა და ეს ყველაფერი საკმაოდ უაზრო იყო.</CelebrationSkyLanterns.outcomeChances.1.description>
+  <CelebrationSkyLanterns.outcomeChances.1.label>არაშთამბეჭდავი</CelebrationSkyLanterns.outcomeChances.1.label>
+  <CelebrationSkyLanterns.outcomeChances.2.description>{0} ლამაზი იყო. გაცურებული ფარნები ყველას სიმშვიდეს აგრძნობინებდა.</CelebrationSkyLanterns.outcomeChances.2.description>
+  <CelebrationSkyLanterns.outcomeChances.2.label>ლამაზი</CelebrationSkyLanterns.outcomeChances.2.label>
+  <CelebrationSkyLanterns.outcomeChances.3.description>{0} დაუვიწყარი იყო! ლამპიონების დამზადება სიცილის დრო იყო და მათთან ერთად ყველას სული ამაღლდა.</CelebrationSkyLanterns.outcomeChances.3.description>
+  <CelebrationSkyLanterns.outcomeChances.3.label>დაუვიწყარი</CelebrationSkyLanterns.outcomeChances.3.label>
+  <ConnectToTree.description>კონექტორი დაუკავშირდება ხეს.</ConnectToTree.description>
+  <Conversion.description>თუ ეს კარგად წავა, სამიზნე იდეოლიგიურობის სიზუსტე შემცირდება ან ისინი გარდაიქმნებიან. თუ ეს ცუდად წავა, ისინი მიიღებენ დარწმუნებას თავიანთ ძველ რწმენაში.</Conversion.description>
+  <Conversion.outcomeChances.0.description>{0} საშინელი იყო! პირველივე სიტყვიდან ეს იყო უნაყოფო წინ და უკან კამათი. იგი გაჭიანურდა დიდი ხნის განმავლობაში.</Conversion.outcomeChances.0.description>
+  <Conversion.outcomeChances.0.label>საშინელება</Conversion.outcomeChances.0.label>
+  <Conversion.outcomeChances.1.description>{0} არაეფექტური იყო. არგუმენტების უმეტესობა გაურკვეველი იყო და მოქცეული პირი უპირისპირდა მათ, რაც აზრი ჰქონდა.</Conversion.outcomeChances.1.description>
+  <Conversion.outcomeChances.1.label>არაეფექტური</Conversion.outcomeChances.1.label>
+  <Conversion.outcomeChances.2.description>{0} ეფექტური იყო. გამოსვლამ არა მხოლოდ წარმოადგინა მყარი არგუმენტები და შესამჩნევად შეარყია მოქცეულის აზრები, არამედ გაამხიარულა ბრბოც.</Conversion.outcomeChances.2.description>
+  <Conversion.outcomeChances.2.label>ეფექტური</Conversion.outcomeChances.2.label>
+  <Conversion.outcomeChances.3.description>{0} იყო ოსტატური! ძველი რწმენები თითქოს ძალისხმევის გარეშე და გარდაუვალად იშლებოდა და ჩვენი ჭეშმარიტი ცოდნა მიიღეს.</Conversion.outcomeChances.3.description>
+  <Conversion.outcomeChances.3.label>ოსტატური</Conversion.outcomeChances.3.label>
+  <DestroyConsumableBuilding.description>რიტუალური სამიზნე განადგურდება.</DestroyConsumableBuilding.description>
+  <DestroyConsumableBuilding_CannibalPlatter.description>რიტუალური სამიზნე განადგურდება.</DestroyConsumableBuilding_CannibalPlatter.description>
+  <Execution.description>მაყურებელი მონები 100%-ით დათრგუნული იქნებიან. რიტუალის ხარისხიდან გამომდინარე, მონაწილეები მიიღებენ {MINMOOD}-დან {MAXMOOD} განწყობას {MOODDAYS} დღის განმავლობაში.</Execution.description>
+  <Execution.outcomeChances.0.description>{0} უხერხული იყო. გამოსვლა გაჭიანურდა და როცა დარტყმის დრო მოვიდა, ჯალათმა სრიალა და ძლივს გამოჯანმრთელდა. არცერთი არ თვლიდა გამართლებას.</Execution.outcomeChances.0.description>
+  <Execution.outcomeChances.0.label>უხერხული</Execution.outcomeChances.0.label>
+  <Execution.outcomeChances.1.description>{0} დამაკმაყოფილებელი იყო. ყველა გრძნობდა, რომ სამართლიანობა აღსრულდა.</Execution.outcomeChances.1.description>
+  <Execution.outcomeChances.1.label>დამაკმაყოფილებელი</Execution.outcomeChances.1.label>
+  <Execution.outcomeChances.2.description>{0} იყო სანახაობრივი! ერთი გლუვი დარტყმა იყო საკმარისი და ყველამ იგრძნო სამართლიანობისა და ძალაუფლების მოზღვავება.</Execution.outcomeChances.2.description>
+  <Execution.outcomeChances.2.label>სანახაობრივი</Execution.outcomeChances.2.label>
+  <GladiatorDuel.description>რიტუალის ხარისხიდან გამომდინარე, მონაწილეები მიიღებენ {MINMOOD}-დან {MAXMOOD} განწყობას {MOODDAYS} დღის განმავლობაში.</GladiatorDuel.description>
+  <GladiatorDuel.outcomeChances.0.description>დუელი იყო საშინელი! მებრძოლები ირგვლივ ტრიალებდნენ, უშედეგოდ ერიდებოდნენ ერთმანეთს სიმხდალისა და სისუსტის გაფართოებული ჩვენებით. მისი ყურება უბრალოდ აწუხებდა ხალხს.</GladiatorDuel.outcomeChances.0.description>
+  <GladiatorDuel.outcomeChances.0.label>საშინელება</GladiatorDuel.outcomeChances.0.label>
+  <GladiatorDuel.outcomeChances.1.description>დუელი მოსაწყენი იყო. მებრძოლები არ ასრულებდნენ, ამიტომ ამაღელვებელი მომენტები არ ყოფილა.</GladiatorDuel.outcomeChances.1.description>
+  <GladiatorDuel.outcomeChances.1.label>მოსაწყენი</GladiatorDuel.outcomeChances.1.label>
+  <GladiatorDuel.outcomeChances.2.description>დუელი კარგი იყო. მებრძოლები სისხლისკენ წავიდნენ და ნამდვილი გული აჩვენეს.</GladiatorDuel.outcomeChances.2.description>
+  <GladiatorDuel.outcomeChances.2.label>კარგი</GladiatorDuel.outcomeChances.2.label>
+  <GladiatorDuel.outcomeChances.3.description>დუელი დაუვიწყარი იყო! ორივე მებრძოლმა გასცა ყველაფერი, რაც ჰქონდათ და სიკვდილმა აჩვენა მათი თავდადება.</GladiatorDuel.outcomeChances.3.description>
+  <GladiatorDuel.outcomeChances.3.label>დაუვიწყარი</GladiatorDuel.outcomeChances.3.label>
+  <RoleChange.description>ახალი როლი დაეკისრება კოლონისტს.</RoleChange.description>
+  <RoleChange.outcomeChances.0.description>როლის შეცვლას არ ესწრებოდა საკმარისი {IDEO_memberNamePlural}.</RoleChange.outcomeChances.0.description>
+  <RoleChange.outcomeChances.0.label>ვერ მოხერხდა</RoleChange.outcomeChances.0.label>
+  <RoleChange.outcomeChances.1.description>როლის შეცვლის რიტუალი დასრულდა.</RoleChange.outcomeChances.1.description>
+  <RoleChange.outcomeChances.1.label>წარმატებული</RoleChange.outcomeChances.1.label>
+  <Sacrifice.description>რიტუალის ხარისხიდან გამომდინარე, მონაწილეები მიიღებენ {MINMOOD}-დან {MAXMOOD} განწყობას {MOODDAYS} დღის განმავლობაში.</Sacrifice.description>
+  <Sacrifice.outcomeChances.0.description>{0} საშინელი იყო! მეტყველება იყო ჭუჭყიანი და არათანმიმდევრული, ხოლო მკვლელობის ტექნიკა გაუმართავი იყო. მსხვერპლს ძალიან დიდი დრო დასჭირდა სიკვდილისთვის - ყველა ელოდა მის დასრულებას.</Sacrifice.outcomeChances.0.description>
+  <Sacrifice.outcomeChances.0.label>საშინელება</Sacrifice.outcomeChances.0.label>
+  <Sacrifice.outcomeChances.1.description>{0} მოსაწყენი იყო. გამოსვლა განმეორებადი იყო და მკვლელობის ტექნიკა შესამჩნევად გაუმართავი იყო. უბრალოდ ღირსეულად არ გრძნობდა თავს.</Sacrifice.outcomeChances.1.description>
+  <Sacrifice.outcomeChances.1.label>მოსაწყენი</Sacrifice.outcomeChances.1.label>
+  <Sacrifice.outcomeChances.2.description>{0} დამაკმაყოფილებელი იყო. გამოსვლა აზრიანი იყო, მკვლელობის ტექნიკა კი ზუსტი და ღირსეული იყო.</Sacrifice.outcomeChances.2.description>
+  <Sacrifice.outcomeChances.2.label>დამაკმაყოფილებელი</Sacrifice.outcomeChances.2.label>
+  <Sacrifice.outcomeChances.3.description>{0} იყო სანახაობრივი! ლაპარაკმა ყველა სიგიჟის ზღვარზე მიიყვანა, როგორც კი დანა მშვენივრად ჩამოვარდა და ნაღვლიანი სისხლი სულის გამწმენდ წყალს ჰგავდა.</Sacrifice.outcomeChances.3.description>
+  <Sacrifice.outcomeChances.3.label>სანახაობრივი</Sacrifice.outcomeChances.3.label>
+  <ScarificationCeremony.description>რიტუალის ხარისხიდან გამომდინარე, მონაწილეები მიიღებენ {MINMOOD}-დან {MAXMOOD} განწყობას {MOODDAYS} დღის განმავლობაში.</ScarificationCeremony.description>
+  <ScarificationCeremony.outcomeChances.0.description>{0} საშინელი იყო! მეტყველება იყო შეკრული და არათანმიმდევრული, ხოლო სკარიფიკაციის ტექნიკა გაუმართავი იყო. ყველა ელოდა მის დასრულებას.</ScarificationCeremony.outcomeChances.0.description>
+  <ScarificationCeremony.outcomeChances.0.label>საშინელება</ScarificationCeremony.outcomeChances.0.label>
+  <ScarificationCeremony.outcomeChances.1.description>{0} მოსაწყენი იყო. მეტყველება განმეორებადი იყო და სკარიფიკაციის ტექნიკა შესამჩნევად გაუმართავი იყო. უბრალოდ ღირსეულად არ გრძნობდა თავს.</ScarificationCeremony.outcomeChances.1.description>
+  <ScarificationCeremony.outcomeChances.1.label>მოსაწყენი</ScarificationCeremony.outcomeChances.1.label>
+  <ScarificationCeremony.outcomeChances.2.description>{0} დამაკმაყოფილებელი იყო. მეტყველება აზრიანი იყო, სკარიფიკაციის ტექნიკა კი ზუსტი და ღირსეული იყო.</ScarificationCeremony.outcomeChances.2.description>
+  <ScarificationCeremony.outcomeChances.2.label>დამაკმაყოფილებელი</ScarificationCeremony.outcomeChances.2.label>
+  <ScarificationCeremony.outcomeChances.3.description>{0} იყო სანახაობრივი! გამოსვლამ ყველა სიგიჟის ზღვარზე მიიყვანა, როცა პირის მფლობელმა ოსტატურად ცოცხალ ხორცს სცემდა.</ScarificationCeremony.outcomeChances.3.description>
+  <ScarificationCeremony.outcomeChances.3.label>სანახაობრივი</ScarificationCeremony.outcomeChances.3.label>
+  <Trial.description>სასამართლო პროცესის ხარისხი განსაზღვრავს ბრალდებულის მსჯავრდების შანსს.</Trial.description>
+  <Trial.outcomeChances.0.description>პროკურორის {PROSECUTOR_labelShort}-ის არგუმენტებმა ვერავინ დაარწმუნა. {PAWN_labelShort} გაათავისუფლეს.</Trial.outcomeChances.0.description>
+  <Trial.outcomeChances.0.label>გამართლებული</Trial.outcomeChances.0.label>
+  <Trial.outcomeChances.1.description>პროკურატურამ ყველა დაარწმუნა {PAWN_labelShort}-ის დანაშაულში. {PAWN_labelShort} გაასამართლეს და ახლა ის შეიძლება დაისაჯოს. თქვენ შეგიძლიათ აღასრულოთ ან განდევნოთ {PAWN_objective} და არავის შეეწინააღმდეგება.</Trial.outcomeChances.1.description>
+  <Trial.outcomeChances.1.label>ნასამართლევი</Trial.outcomeChances.1.label>
+</LanguageData>

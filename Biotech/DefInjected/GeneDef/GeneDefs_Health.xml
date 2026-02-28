@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fertile.description>ამ გენის მატარებლებს უფრო მეტი შანსი აქვთ დაორსულდნენ ან გაანაყოფიერონ სხვები.</Fertile.description>
+  <Fertile.label>ნაყოფიერი</Fertile.label>
+  <Immunity_Strong.description>ამ გენის მატარებლები ჩვეულებრივზე უფრო სწრაფად იძენენ იმუნიტეტს დაავადებების მიმართ.</Immunity_Strong.description>
+  <Immunity_Strong.label>ძლიერი იმუნიტეტი</Immunity_Strong.label>
+  <Immunity_SuperStrong.description>ამ გენის მატარებლები ჩვეულებრივზე ბევრად უფრო სწრაფად იძენენ იმუნიტეტს დაავადებების მიმართ.</Immunity_SuperStrong.description>
+  <Immunity_SuperStrong.label>სუპერ იმუნიტეტი</Immunity_SuperStrong.label>
+  <Immunity_Weak.description>ამ გენის მატარებლები ჩვეულებრივზე უფრო ნელა იძენენ იმუნიტეტს დაავადებების მიმართ. ისინი შეიძლება მოკვდნენ ინფექციებისგან, რომლებსაც სხვები გადარჩებოდნენ.</Immunity_Weak.description>
+  <Immunity_Weak.label>სუსტი იმუნიტეტი</Immunity_Weak.label>
+  <Sterile.description>ამ გენის მატარებლებს არ შეუძლიათ ბუნებრივი გზით გამრავლება.</Sterile.description>
+  <Sterile.label>სტერილური</Sterile.label>
+  <Superclotting.description>ამ გენის მატარებლებს სისხლში აქვთ დამატებითი ძალის შედედების ფაქტორები და სისხლდენას ძალიან სწრაფად შეწყვეტენ, როცა დაჭრიან.</Superclotting.description>
+  <Superclotting.label>სუპერშედედება</Superclotting.label>
+  <ToxicEnvironmentResistance_Partial.description>ამ გენის მატარებლები მდგრადია გარემო ტოქსინების მიმართ. ისინი ნაკლებ ტოქსიკურ დაგროვებას იღებენ შხამიანი გაზისგან, დაბინძურებული რელიეფისგან და ტოქსიკური გამონაბოლქვისგან, მაგრამ მაინც დაუცველები არიან შხამის ან ინექციური შხამის პირდაპირი შეტევების მიმართ. გარდა ამისა, ისინი უფრო ნელა ქმნიან ლპობის სუნის ზემოქმედებას.</ToxicEnvironmentResistance_Partial.description>
+  <ToxicEnvironmentResistance_Partial.label>ნაწილობრივი ანტიტოქსიკური ფილტვები</ToxicEnvironmentResistance_Partial.label>
+  <ToxicEnvironmentResistance_Total.description>ამ გენის მატარებლები იმუნური არიან გარემოს ტოქსინების მიმართ, მაგრამ არა პირდაპირი ტოქსიკური შეტევებისგან. ისინი არ იღებენ ტოქსიკურ დაგროვებას ტოქსიური აირისგან, დაბინძურებული რელიეფის ან ტოქსიკური ნალექისგან და მათ არ აწუხებთ მჟავე სმოგი. ისინი კვლავ დაუცველნი არიან პირდაპირი შეტევების მიმართ, როგორიცაა შხამი და ინექციური შხამი. გარდა ამისა, ისინი იმუნურია ლპობის სუნის ზემოქმედებისგან.</ToxicEnvironmentResistance_Total.description>
+  <ToxicEnvironmentResistance_Total.label>ტოტალური ანტიტოქსიკური ფილტვები</ToxicEnvironmentResistance_Total.label>
+  <WoundHealing_Fast.description>ამ გენის მატარებლები ჩვეულებრივზე ორჯერ უფრო სწრაფად კურნავს ჭრილობებს.</WoundHealing_Fast.description>
+  <WoundHealing_Fast.label>ჭრილობის სწრაფი შეხორცება</WoundHealing_Fast.label>
+  <WoundHealing_Slow.description>ამ გენის მატარებლები ჭრილობებიდან ჩვეულებრივზე ნახევრად სწრაფად განიკურნებიან.</WoundHealing_Slow.description>
+  <WoundHealing_Slow.label>ნელი ჭრილობის შეხორცება</WoundHealing_Slow.label>
+  <WoundHealing_SuperFast.description>ამ გენის მატარებლები ჭრილობებს ჩვეულებრივზე ოთხჯერ სწრაფად კურნავს.</WoundHealing_SuperFast.description>
+  <WoundHealing_SuperFast.label>ჭრილობის სუპერ სწრაფი შეხორცება</WoundHealing_SuperFast.label>
+</LanguageData>

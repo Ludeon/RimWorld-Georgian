@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CureScaria.description>ეს სპეციალური სამედიცინო ოპერაცია კურნავს სკარიას.</CureScaria.description>
+  <CureScaria.jobString>სკარიას განკურნება.</CureScaria.jobString>
+  <CureScaria.label>სკარიას განკურნება</CureScaria.label>
+  <Sterilize.description>გაასტერილეთ არსება, რათა მას აღარ შეეძლოს გამრავლება.</Sterilize.description>
+  <Sterilize.jobString>TargetA-ს სტერილიზაცია.</Sterilize.jobString>
+  <Sterilize.label>სტერილიზაცია</Sterilize.label>
+</LanguageData>

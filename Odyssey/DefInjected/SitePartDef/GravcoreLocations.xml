@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AbandonedSettlement.description>gravcore ენერგიის ხელმოწერა სადღაც ამ დასახლებიდან მოდის. გამოიკვლიეთ მიტოვებული შენობები, რომ იპოვოთ გრავკორი.</AbandonedSettlement.description>
+  <AbandonedSettlement.label>მიტოვებული დასახლება</AbandonedSettlement.label>
+  <AncientReactor.description>უძველესი რეაქტორი იმალება ახლომდებარე ნანგრევებში. რეაქტორი დაბზარულია და ტოქსიკური ნალექი ჟონავს მთელ რეგიონში. იპოვნეთ და გამორთეთ რეაქტორი გრავკორის მისაღებად და ვარდნის შესაჩერებლად.</AncientReactor.description>
+  <AncientReactor.label>უძველესი რეაქტორი</AncientReactor.label>
+  <AncientStockpile.description>You have detected the energy signature of a gravcore emanating from an ancient underground stockpile. The location is marked on the world map.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</AncientStockpile.description>
+  <AncientStockpile.label>უძველესი მარაგი</AncientStockpile.label>
+  <CrashedMechanoidPlatform.description>The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site.</CrashedMechanoidPlatform.description>
+  <CrashedMechanoidPlatform.label>ჩამოვარდა მექანოიდული პლატფორმა</CrashedMechanoidPlatform.label>
+  <FrozenTerraformer.description>You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</FrozenTerraformer.description>
+  <FrozenTerraformer.label>გაყინული ტერაფორმერი</FrozenTerraformer.label>
+  <InsectLair.description>You have detected the energy signature of a gravcore emanating from a cave system deep underground. The entrance to the cave system is marked on the world map.\n\nObtain gravcores and gravlite paneling to upgrade your gravship.</InsectLair.description>
+  <InsectLair.label>გამოქვაბულის სისტემა</InsectLair.label>
+  <MechanoidRelay.description>gravcore ენერგეტიკული ხელმოწერა მოდის მექანიკური საკომუნიკაციო რელედან. დაშალეთ იგი გრავკორის მოსაპოვებლად.</MechanoidRelay.description>
+  <MechanoidRelay.label>მექანიკური რელე</MechanoidRelay.label>
+  <OrbitalAncientPlatform.description>You have detected the energy signature of a gravcore.\n\nBe careful - orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</OrbitalAncientPlatform.description>
+  <OrbitalAncientPlatform.label>მიტოვებული ორბიტალური პლატფორმა</OrbitalAncientPlatform.label>
+  <OrbitalMechanoidPlatform.description>You have detected the energy signature of a gravcore on this platform. There is a heavy mechanoid presence.\n\nBe careful, orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</OrbitalMechanoidPlatform.description>
+  <OrbitalMechanoidPlatform.label>მექანიკური პლატფორმა</OrbitalMechanoidPlatform.label>
+  <OrbitalMechhive.description>You have detected the mechhive in orbit above the planet. Its location is marked on the world map.\n\nThe mechhive is the center of mechanoid intelligence and directs mechanoids across planet. If shut down, it will disable mechanoids planet-wide. Alternatively, you may be able to use the mechhive for your own purposes.\n\nBe warned, mechhives are extremely dangerous. Finish exploring other locations first and ensure you're prepared for a long stay in orbit.</OrbitalMechhive.description>
+  <OrbitalMechhive.label>მეხივა</OrbitalMechhive.label>
+</LanguageData>

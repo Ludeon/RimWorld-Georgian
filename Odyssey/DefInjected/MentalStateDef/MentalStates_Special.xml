@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Terror.baseInspectLine>ფსიქიკური მდგომარეობა: შიშით გაქცევა</Terror.baseInspectLine>
+  <Terror.beginLetter>{0} შეშინებული გარბის.</Terror.beginLetter>
+  <Terror.beginLetterLabel>შიშით გარბის</Terror.beginLetterLabel>
+  <Terror.label>ტერორი</Terror.label>
+</LanguageData>

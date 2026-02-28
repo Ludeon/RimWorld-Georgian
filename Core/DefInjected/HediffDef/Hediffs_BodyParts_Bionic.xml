@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BionicArm.description>დამონტაჟებული ბიონიკური მკლავი. გაჩუმებული მინი-სერვოები იძლევა დიდ ძალას, ხოლო ბიოგელის ნერვის ბმული იძლევა დახვეწილ კონტროლს. გისოსები-მტვრის სამკურნალო სისტემა საშუალებას აძლევს მას აღდგეს დაზიანებისგან. ის თითქმის ყველანაირად ჯობია ბიოლოგიურ მკლავს.</BionicArm.description>
+  <BionicArm.label>ბიონიკური მკლავი</BionicArm.label>
+  <BionicArm.labelNoun>ბიონიკური მკლავი</BionicArm.labelNoun>
+  <BionicEar.description>დამონტაჟებული ბიონიკური ყური. უხილავი კანქვეშა მიკროფონების კოლექცია იჭერს ხმას და გადასცემს მას ბიოგელის ნერვულ ინტერფეისს, რომელიც უშუალოდ უკავშირდება აუდიტორულ ნერვს. ის საკმარისად მგრძნობიარეა, რომ მოისმინოს კატა, სანამ დაინახავთ, არ შეიძლება დაზიანდეს ძლიერი ხმაურით და ავტომატურად აწყობს თავს, რათა ამოირჩიოს მნიშვნელოვანი ხმები ხმაურიან გარემოში.</BionicEar.description>
+  <BionicEar.label>ბიონური ყური</BionicEar.label>
+  <BionicEar.labelNoun>ბიონიკური ყური</BionicEar.labelNoun>
+  <BionicEye.description>დამონტაჟებული ბიონიკური თვალი. თავისი ბიოგელის ნერვის კავშირით, შიდა სიგნალის წინასწარი პროცესორით და ფართო სპექტრის სენსორებით, ის თითქმის ყველა მხრივ უკეთესია ბიოლოგიურ თვალზე. გისოსები-მტვრის სამკურნალო სისტემა საშუალებას აძლევს მას აღდგეს დაზიანებისგან.</BionicEye.description>
+  <BionicEye.label>ბიონიკური თვალი</BionicEye.label>
+  <BionicEye.labelNoun>ბიონიკური თვალი</BionicEye.labelNoun>
+  <BionicHeart.description>დამონტაჟებული ბიონიკური გული. მას აქვს სინთეზური კუნთების ბოჭკოები რეალისტური გულისცემისთვის, პლუს მაღალი დინების ტუმბო სწრაფი ცირკულაციისთვის მაღალი სტრესის დროს. ის თითქმის ყველანაირად ჯობია ბიოლოგიურ გულს.</BionicHeart.description>
+  <BionicHeart.label>ბიონიკური გული</BionicHeart.label>
+  <BionicHeart.labelNoun>ბიონიკური გული</BionicHeart.labelNoun>
+  <BionicJaw.description>დამონტაჟებული ბიონიკური ყბა. დამზადებულია ბიოსინთეზური ძვლისგან, პლასტილის კბილის ჩანაცვლებით და მიკროსერვომოტორების კომპლექტით, მოძრაობის სრული დიაპაზონისთვის.</BionicJaw.description>
+  <BionicJaw.label>ბიონიკური ყბა</BionicJaw.label>
+  <BionicJaw.labelNoun>ბიონიკური ყბა</BionicJaw.labelNoun>
+  <BionicLeg.description>დამონტაჟებული ბიონიკური ფეხი. თავისი ბიოგელის ნერვის ბმულით, მძლავრი მინი-სერვოებით და გისოსებით მტვრის სამკურნალო სისტემით, ის თითქმის ყველა მხრივ უკეთესია, ვიდრე ბიოლოგიური ფეხი.</BionicLeg.description>
+  <BionicLeg.label>ბიონიკური ფეხი</BionicLeg.label>
+  <BionicLeg.labelNoun>ბიონიკური ფეხი</BionicLeg.labelNoun>
+  <BionicSpine.description>დამონტაჟებული ბიონიკური ხერხემალი. ბიოგელის ნერვის შეკვრა მიედინება არტიკულირებული პლასტელის ბირთვს, რომელიც გარშემორტყმულია გისოსებით-მტვრის სამკურნალო სისტემით. იგი ემთხვევა ბიოლოგიური ხერხემლის მუშაობას.</BionicSpine.description>
+  <BionicSpine.label>ბიონური ხერხემალი</BionicSpine.label>
+  <BionicSpine.labelNoun>ბიონური ხერხემალი</BionicSpine.labelNoun>
+  <BionicStomach.description>დამონტაჟებული ბიონიკური კუჭი. ამის მქონე ადამიანს აქვს კვებითი მოწამვლის გაცილებით ნაკლები შანსი და იმუნურია კუჭის ზოგიერთი დაავადების მიმართ. ინტეგრირებული გისოსები-მტვრის სამკურნალო სისტემა ავტომატურად აღადგენს ხელოვნურ ორგანოს ნებისმიერ დაზიანებას. თითქმის ყველანაირად ჯობია ბიოლოგიურ კუჭს.</BionicStomach.description>
+  <BionicStomach.label>ბიონიკური კუჭი</BionicStomach.label>
+  <BionicStomach.labelNoun>ბიონიკური კუჭი</BionicStomach.labelNoun>
+  <BionicTongue.description>დამონტაჟებული ბიონიკური ენა. დამზადებულია სინთეზური გლუვი ბოჭკოებისგან და დაკავშირებულია ნეიროგელის ინტერფეისით, მას შეუძლია შეესაბამებოდეს ბუნებრივი ენის შესრულებას ლაპარაკში, ჭამასა და გასინჯვაში.</BionicTongue.description>
+  <BionicTongue.label>ბიონიკური ენა</BionicTongue.label>
+  <BionicTongue.labelNoun>ბიონიკური ენა</BionicTongue.labelNoun>
+  <DeathAcidifier.description>დაინსტალირებული სიკვდილის მჟავიანატორი. მომხმარებლის სიკვდილის შემდეგ, ის ათავისუფლებს ძლიერ ქიმიურ ნივთიერებებს, რომლებიც ხსნის მექანიზმს მომხმარებლის სხეულთან კონტაქტში. ეს არ აზიანებს სხვებს.</DeathAcidifier.description>
+  <DeathAcidifier.label>სიკვდილის დამამჟავებელი</DeathAcidifier.label>
+  <DeathAcidifier.labelNoun>სიკვდილის დამამჟავებელი საშუალება</DeathAcidifier.labelNoun>
+</LanguageData>

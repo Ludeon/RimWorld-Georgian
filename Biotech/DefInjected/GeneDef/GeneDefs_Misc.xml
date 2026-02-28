@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CaveDweller.description>ამ გენის მატარებლებს არ სჭირდებათ გასეირნება და ვერასდროს იგრძნობენ თავს დაცულად, რაც არ უნდა დიდხანს დარჩნენ შიგნით.</CaveDweller.description>
+  <CaveDweller.label>შიდა ბინადარი</CaveDweller.label>
+  <DarkVision.description>ამ გენის მატარებლები კარგად ხედავენ დაბალ განათებაში და არ განიცდიან სიბნელესთან დაკავშირებული განწყობის ჯარიმებს. მათ აქვთ ამრეკლავი ფენა ბადურის უკან, რომელიც აძლიერებს მათ სიბნელეში ხედვის უნარს.</DarkVision.description>
+  <DarkVision.label>ბნელი ხედვა</DarkVision.label>
+  <FireResistant.description>ამ გენის მატარებლებს აქვთ სპეციალური სწრაფი მოქმედების საოფლე ჯირკვლები და სითბოს მდგრადი კანი. ისინი ხანძრისგან ჩვეულებრივი ზიანის მხოლოდ 25%-ს იღებენ. მკვეთრად მცირდება მათი გაჩენის შანსიც.</FireResistant.description>
+  <FireResistant.label>ცეცხლგამძლე</FireResistant.label>
+  <Inbred.description>ეს გენეტიკური მდგომარეობა გავლენას ახდენს ადამიანის ნაყოფიერებაზე, იმუნიტეტსა და გონებრივ შესაძლებლობებზე.</Inbred.description>
+  <Inbred.label>შეჯვარებული</Inbred.label>
+  <Instability_Major.description>ამ გენის მატარებლებს სჭირდებათ გაცილებით ნაკლები მეტაბოლური ენერგია, რათა დარჩეს ცოცხალი, მათი უჯრედების რეპლიკაციის მექანიზმების სტაბილურობის მნიშვნელოვნად შემცირების ფასად.</Instability_Major.description>
+  <Instability_Major.label>ძირითადი უჯრედის არასტაბილურობა</Instability_Major.label>
+  <Instability_Mild.description>ამ გენის მატარებლებს სჭირდებათ ნაკლები მეტაბოლური ენერგია სიცოცხლის შესანარჩუნებლად, მათი უჯრედების რეპლიკაციის მექანიზმების სტაბილურობის შემცირების ფასად.</Instability_Mild.description>
+  <Instability_Mild.label>რბილი უჯრედების არასტაბილურობა</Instability_Mild.label>
+  <KillThirst.description>ამ გენის მატარებლებს სხვისი სიცოცხლის დასრულების განცდა სწყურიათ. ისინი გაღიზიანებულნი იქნებიან, თუ ძალიან დიდხანს გაივლიან ახლო ბრძოლაში ვინმეს მოკვლის გარეშე.</KillThirst.description>
+  <KillThirst.label>მოკვლა წყურვილი</KillThirst.label>
+  <KindInstinct.description>ამ გენის მატარებლები ხასიათდებიან მაღალი თანხმობით და ძალიან კეთილსინდისიერები არიან. ისინი იშვიათად აყენებენ შეურაცხყოფას სხვებს და ზოგჯერ კეთილ სიტყვებს სთავაზობენ გარშემომყოფთა განწყობის გასაუმჯობესებლად. ისინი ასევე არასოდეს აფასებენ ადამიანებს გარეგნობის მიხედვით.</KindInstinct.description>
+  <KindInstinct.label>კეთილი ინსტინქტი</KindInstinct.label>
+  <NakedSpeed.description>ამ გენის მატარებლები ჩაცმისას ნელა მოძრაობენ, ხოლო შიშველი უფრო სწრაფად.</NakedSpeed.description>
+  <NakedSpeed.label>შიშველი სიჩქარე</NakedSpeed.label>
+  <Nearsighted.description>ამ გენის მატარებლებს უჭირთ შორიდან ხედვა. მათი სროლის სიზუსტე შორ მანძილზე მცირდება.</Nearsighted.description>
+  <Nearsighted.label>ახლომხედველი</Nearsighted.label>
+  <PollutionRush.description>ამ გენის მატარებლები დაბინძურების ზემოქმედებისგან იღებენ ქიმიურ სწრაფვას. ეს მათ უფრო სწრაფად მოძრაობს და ეხმარება მათ უფრო მკაფიოდ იფიქრონ. მსგავსი გენი გვხვდება საბრძოლო ინჟინერიის მეგამწერებში.</PollutionRush.description>
+  <PollutionRush.label>დაბინძურების სტიმული</PollutionRush.label>
+  <PsychicBonding.description>ამ გენის მატარებლებს აქვთ სპეციალური ნერვული ორგანო, რომელიც მათ ფსიქიკურად აკავშირებს საყვარელ ადამიანთან სიცოცხლის განმავლობაში. სანამ შეყვარებულები ერთად იქნებიან, ბედნიერები იქნებიან. თუ ფიზიკურად დაშორდნენ, მათ დისტანცია შეაწუხებთ. თუ ერთი მოკვდება, მეორეს გონება სასტიკად მოერევა.</PsychicBonding.description>
+  <PsychicBonding.label>ფსიქიკური კავშირი</PsychicBonding.label>
+  <RobustDigestion.description>ამ გენის მატარებლები ზრდიან მრავალჯერადი კუჭს, რაც მათ საშუალებას აძლევს დაიჯესტს უმი საკვები უფრო ეფექტურად, ვიდრე საწყის ადამიანებში. ზოგადად, ისინი უმი საკვებისგან იმავე საკვებს იღებენ, როგორც მოხარშულისგან. მათ ასევე საერთოდ არ აწუხებთ უმი საკვების გემო.</RobustDigestion.description>
+  <RobustDigestion.label>ძლიერი საჭმლის მონელება</RobustDigestion.label>
+  <StrongStomach.description>ამ გენის მატარებლებს კუჭში აქვთ დამატებითი ტოქსინების გამფილტრავი ორგანო და არასოდეს განიცდიან კვებით მოწამვლას დამპალი საკვების მიღების შემდეგაც კი.</StrongStomach.description>
+  <StrongStomach.label>ძლიერი კუჭი</StrongStomach.label>
+  <Unstoppable.description>დაზიანების მიღებისას ამ გენის მატარებლები არ შენელდებიან.</Unstoppable.description>
+  <Unstoppable.label>შეუჩერებელი</Unstoppable.label>
+  <ViolenceDisabled.description>ამ გენის მატარებლებს ძალადობაში ემოციურად და გონებრივად არ შეუძლიათ. ისინი ძლიერ მდგრადნი არიან და შეშინებულნი არიან სხვისი ზიანის მიყენების იდეით.</ViolenceDisabled.description>
+  <ViolenceDisabled.label>ძალადობა ინვალიდია</ViolenceDisabled.label>
+  <WebbedPhalanges.description>ამ გენის მატარებლებს თითები და ფეხის თითები აჭრელებული აქვთ, რაც მათ წყალში უფრო სწრაფად გადაადგილების საშუალებას აძლევს. ქსელური თითები ოდნავ ამცირებს წვრილ ძრავის კონტროლს.</WebbedPhalanges.description>
+  <WebbedPhalanges.label>ქსელური ფალანგები</WebbedPhalanges.label>
+</LanguageData>

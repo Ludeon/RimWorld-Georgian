@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Concrete.description>უხეში ბეტონი. არის იაფი და სწრაფად აშენებული, მაგრამ ასევე საკმაოდ მახინჯი.</Concrete.description>
+  <Concrete.label>ბეტონი</Concrete.label>
+  <GoldTile.description>გადაჭარბებული ექსტრავაგანტებისთვის, ოქროს ფილებს არაფერი სჯობს. ისინი განსაკუთრებულად ძვირი და ძალიან ლამაზია და ხალხი იფიქრებს, რომ განსაკუთრებული სნობი ხარ, თუ რეალურად მათზე ცხოვრობ.</GoldTile.description>
+  <GoldTile.label>ოქროს ფილა</GoldTile.label>
+  <MetalTile.description>ფოლადის ფილები, კოსმოსური ხომალდისთვის. ისინი სწრაფად წმენდენ და იღებენ სისუფთავის ბონუსს სამედიცინო დაწესებულებებში გამოყენებისთვის.</MetalTile.description>
+  <MetalTile.label>ფოლადის ფილა</MetalTile.label>
+  <PavedTile.description>ბეტონის ფილები. იაფია, მაგრამ გარეგნულად ნეიტრალური და ნელი აშენება.</PavedTile.description>
+  <PavedTile.label>დაგებული ფილა</PavedTile.label>
+  <SilverTile.description>ფუტურისტული, მაგრამ სამეფო შესახედაობისთვის, ვერცხლის ფილები შესანიშნავად ჯდება მდიდრულ ოთახებში. ისინი სწრაფად წმენდენ და იღებენ ბონუს სისუფთავეს.</SilverTile.description>
+  <SilverTile.label>ვერცხლის ფილა</SilverTile.label>
+  <SterileTile.description>სტერილური ფილები სპეციალური სისუფთავის გამაძლიერებელი თვისებებით. ზედმეტად სუფთა ოთახები აუმჯობესებს შედეგებს საავადმყოფოებსა და კვლევით ლაბორატორიებში. ეს ფილა ძალიან ნელა შენდება, მაგრამ სწრაფად იწმინდება.</SterileTile.description>
+  <SterileTile.label>სტერილური ფილა</SterileTile.label>
+  <StrawMatting.description>უხეში ჩალის ხალიჩა ცხოველების ბეღელებში გამოსაყენებლად. ეს არის იაფი და იღებს ძალიან მცირე სიბინძურეს.</StrawMatting.description>
+  <StrawMatting.label>ჩალის ხალიჩა</StrawMatting.label>
+  <WoodPlankFloor.description>ხის ფიცრის იატაკი ამ თბილი, სახლის გრძნობისთვის. მიუხედავად იმისა, რომ ის სწრაფად იდება, ის ასევე ძალიან აალებადია.</WoodPlankFloor.description>
+  <WoodPlankFloor.label>ხის იატაკი</WoodPlankFloor.label>
+</LanguageData>

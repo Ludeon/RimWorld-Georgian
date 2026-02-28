@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Execution_Abhorrent.description>პატიმრის სიკვდილით დასჯა არის საზიზღარი ბოროტება ნებისმიერ შემთხვევაში.</Execution_Abhorrent.description>
+  <Execution_Abhorrent.label>ყოველთვის საზიზღარი</Execution_Abhorrent.label>
+  <Execution_DontCare.description>პატიმრების სიკვდილით დასჯა მისაღებია, მიუხედავად იმისა, ისინი დამნაშავეები არიან თუ უდანაშაულო.</Execution_DontCare.description>
+  <Execution_DontCare.label>არ მაინტერესებს</Execution_DontCare.label>
+  <Execution_Horrible.description>პატიმრის სიკვდილით დასჯა საშინელებაა ნებისმიერ შემთხვევაში.</Execution_Horrible.description>
+  <Execution_Horrible.label>ყოველთვის საშინელი</Execution_Horrible.label>
+  <Execution_HorribleIfInnocent.description>უდანაშაულო პატიმრის სიკვდილით დასჯა საშინელებაა. თუ პატიმარი დამნაშავეა, ეს მისაღებია.</Execution_HorribleIfInnocent.description>
+  <Execution_HorribleIfInnocent.label>საშინელი თუ უდანაშაულო</Execution_HorribleIfInnocent.label>
+  <Execution_Required.description>პატიმრები რეგულარულად უნდა დაისაჯონ. როდესაც ისინი არიან, ეს ბედნიერი შემთხვევაა.</Execution_Required.description>
+  <Execution_Required.label>საჭირო</Execution_Required.label>
+  <Execution_RespectedIfGuilty.description>მისაღებია პატიმრების სიკვდილით დასჯა. თუ პატიმარი დამნაშავეა, ეს დიდი ბედნიერების მიზეზია.</Execution_RespectedIfGuilty.description>
+  <Execution_RespectedIfGuilty.label>პატივს სცემენ თუ დამნაშავეა</Execution_RespectedIfGuilty.label>
+</LanguageData>

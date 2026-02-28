@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Make_StoneBlocksGranite.description>ჭრის გრანიტის ნაჭრებს გამოსაყენებელ ბლოკებად.</Make_StoneBlocksGranite.description>
+  <Make_StoneBlocksGranite.label>გრანიტის ბლოკების გაკეთება</Make_StoneBlocksGranite.label>
+  <Make_StoneBlocksLimestone.description>ჭრის კირქვის ნაჭრებს გამოსაყენებელ ბლოკებად.</Make_StoneBlocksLimestone.description>
+  <Make_StoneBlocksLimestone.label>კირქვის ბლოკების გაკეთება</Make_StoneBlocksLimestone.label>
+  <Make_StoneBlocksMarble.description>მარმარილოს ნაჭრებს ჭრის გამოსაყენებელ ბლოკებად.</Make_StoneBlocksMarble.description>
+  <Make_StoneBlocksMarble.label>მარმარილოს ბლოკების გაკეთება</Make_StoneBlocksMarble.label>
+  <Make_StoneBlocksSandstone.description>ჭრის ქვიშაქვის ნაჭრებს გამოსაყენებელ ბლოკებად.</Make_StoneBlocksSandstone.description>
+  <Make_StoneBlocksSandstone.label>გააკეთეთ ქვიშაქვის ბლოკები</Make_StoneBlocksSandstone.label>
+  <Make_StoneBlocksSlate.description>ჭრის ფიქალის ნაჭრებს გამოსაყენებელ ბლოკებად.</Make_StoneBlocksSlate.description>
+  <Make_StoneBlocksSlate.label>ფიქალის ბლოკების გაკეთება</Make_StoneBlocksSlate.label>
+</LanguageData>

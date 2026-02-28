@@ -1,0 +1,905 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AceFighterPilot54.description>[PAWN_nameDef] ადრე ასის მოიერიშე პილოტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</AceFighterPilot54.description>
+  <AceFighterPilot54.title>ასის მოიერიშე პილოტი</AceFighterPilot54.title>
+  <AceFighterPilot54.titleShort>ტუზი</AceFighterPilot54.titleShort>
+  <AcolyteOfStars6.description>[PAWN_nameDef] ადრე ვარსკვლავების თანამოაზრე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</AcolyteOfStars6.description>
+  <AcolyteOfStars6.title>ვარსკვლავების თანამოაზრე</AcolyteOfStars6.title>
+  <AcolyteOfStars6.titleShort>მღვდელი</AcolyteOfStars6.titleShort>
+  <AddictionCounsel60.description>[PAWN_nameDef] ადრე მრჩეველი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</AddictionCounsel60.description>
+  <AddictionCounsel60.title>მრჩეველი</AddictionCounsel60.title>
+  <AddictionCounsel60.titleShort>მრჩეველი</AddictionCounsel60.titleShort>
+  <Adventurer19.description>[PAWN_nameDef] ადრე ავანტიურისტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Adventurer19.description>
+  <Adventurer19.title>ავანტიურისტი</Adventurer19.title>
+  <Adventurer19.titleShort>ავანტიურისტი</Adventurer19.titleShort>
+  <AdventurousWeirdo55.description>[PAWN_nameDef] ადრე სათავგადასავლო უცნაურობა იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</AdventurousWeirdo55.description>
+  <AdventurousWeirdo55.title>სათავგადასავლო უცნაურობა</AdventurousWeirdo55.title>
+  <AdventurousWeirdo55.titleShort>უცნაური</AdventurousWeirdo55.titleShort>
+  <AerospaceEngineer44.description>[PAWN_nameDef] იყო ინჟინერი, რომელიც პასუხისმგებელი იყო თვითმფრინავებისა და კოსმოსური ხომალდების წარმოებაზე. [PAWN_pronoun] ორიენტირებული იყო საწარმოო ხაზების გაუმჯობესებაზე და ცნობილი იყო ტექნიკური და კვლევითი საკითხების [PAWN_possessive] ოსტატობით.</AerospaceEngineer44.description>
+  <AerospaceEngineer44.title>კოსმოსური ინჟინერი</AerospaceEngineer44.title>
+  <AerospaceEngineer44.titleShort>ინჟინერი</AerospaceEngineer44.titleShort>
+  <AIProgrammer22.description>[PAWN_nameDef] ადრე AI პროგრამისტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</AIProgrammer22.description>
+  <AIProgrammer22.title>AI პროგრამისტი</AIProgrammer22.title>
+  <AIProgrammer22.titleShort>პროგრამისტი</AIProgrammer22.titleShort>
+  <AIResearcher94.description>[PAWN_nameDef] იყო ცნობილი მკვლევარი ხელოვნური ინტელექტის, რობოტიკისა და ინტერაქტიული ჰოლოგრაფიის სფეროში. [PAWN_possessive] მეგობრობამ შექმნილ ხელოვნურ გონებასთან [PAWN_pronoun] მისცა [PAWN_objective] თავდაჯერებულობა რეალურ ადამიანებთან ურთიერთობისთვის და [PAWN_pronoun] მალევე გამოირჩეოდა პირადი კომუნიკაციით.</AIResearcher94.description>
+  <AIResearcher94.title>ხელოვნური ინტელექტის მკვლევარი</AIResearcher94.title>
+  <AIResearcher94.titleShort>მკვლევარი</AIResearcher94.titleShort>
+  <AlcoholicTrucker93.description>[PAWN_nameDef] ადრე ალკოჰოლური სატვირთო მანქანა იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</AlcoholicTrucker93.description>
+  <AlcoholicTrucker93.title>ალკოჰოლური სატვირთო მანქანა</AlcoholicTrucker93.title>
+  <AlcoholicTrucker93.titleShort>ალკოჰოლური</AlcoholicTrucker93.titleShort>
+  <AnarchistRebel77.description>[PAWN_nameDef] ადრე ანარქისტი მეამბოხე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</AnarchistRebel77.description>
+  <AnarchistRebel77.title>ანარქისტი მეამბოხე</AnarchistRebel77.title>
+  <AnarchistRebel77.titleShort>ანარქისტი</AnarchistRebel77.titleShort>
+  <Archaeologist85.description>[PAWN_nameDef] ადრე არქეოლოგი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Archaeologist85.description>
+  <Archaeologist85.title>არქეოლოგი</Archaeologist85.title>
+  <Archaeologist85.titleShort>მკვლევარი</Archaeologist85.titleShort>
+  <ArchotechSpy75.description>[PAWN_nameDef] ადრე არქოტექნიკის მკვლევარი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ArchotechSpy75.description>
+  <ArchotechSpy75.title>არქოტექნიკის მკვლევარი</ArchotechSpy75.title>
+  <ArchotechSpy75.titleShort>მკვლევარი</ArchotechSpy75.titleShort>
+  <ArmyCook0.description>[PAWN_nameDef] შეუერთდა ჯარს, როგორც მუშა და [PAWN_possessive] დროის უმეტეს ნაწილს საჭმლის მომზადებასა და შეკეთებაში ატარებდა. სანამ [PAWN_pronoun] განლაგებული იყო საშიშ პლანეტაზე, [PAWN_pronoun] გაიარა სროლისა და გადარჩენის ძირითადი ტრენინგი.</ArmyCook0.description>
+  <ArmyCook0.title>ჯარის მზარეული</ArmyCook0.title>
+  <ArmyCook0.titleShort>მზარეული</ArmyCook0.titleShort>
+  <ArmyScientist35.description>[PAWN_nameDef]-მა ჩაატარა სამეცნიერო კვლევა პლანეტარული არმიისთვის. [PAWN_pronoun] შეისწავლა ომის სცენარები და შეიმუშავა იარაღის სისტემები, რათა დაეხმაროს ბრძოლების მოგებაში მინიმალური აურზაურით.</ArmyScientist35.description>
+  <ArmyScientist35.title>არმიის მეცნიერი</ArmyScientist35.title>
+  <ArmyScientist35.titleShort>მეცნიერი</ArmyScientist35.titleShort>
+  <ArmySergeant16.description>[PAWN_nameDef] ადრე ჯარის სერჟანტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ArmySergeant16.description>
+  <ArmySergeant16.title>ჯარის სერჟანტი</ArmySergeant16.title>
+  <ArmySergeant16.titleShort>სერჟანტი</ArmySergeant16.titleShort>
+  <Aromatherapist80.description>[PAWN_nameDef] არომათერაპიას იყენებდა სახლში მოყვანილი მცენარეებიდან მოპოვებული ესენციებით.</Aromatherapist80.description>
+  <Aromatherapist80.title>არომათერაპევტი</Aromatherapist80.title>
+  <Aromatherapist80.titleShort>თერაპევტი</Aromatherapist80.titleShort>
+  <ArtifactHunter48.description>[PAWN_nameDef] ადრე არტეფაქტებზე მონადირე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ArtifactHunter48.description>
+  <ArtifactHunter48.title>არტეფაქტებზე მონადირე</ArtifactHunter48.title>
+  <ArtifactHunter48.titleShort>არტეფაქტორი</ArtifactHunter48.titleShort>
+  <ArtificerRampant95.description>[PAWN_nameDef] ადრე ხელოვნური ყოვლისმომცველი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ArtificerRampant95.description>
+  <ArtificerRampant95.title>ხელოვნური ყოვლისმომცველი</ArtificerRampant95.title>
+  <ArtificerRampant95.titleShort>ხელოსანი</ArtificerRampant95.titleShort>
+  <ArtStudent79.description>წლების პრაქტიკის შემდეგ, ფრეამ შეძლო ჩაებარებინა ხელოვნების უნივერსიტეტში და უნარ-ჩვევები უფრო შორს წაეყვანა. იგი ცდილობდა ხელოვნების ინდუსტრიაში მუშაობას კარგი ქულების დამთავრების შემდეგ. მან გარკვეული პროგრესი მიაღწია კერძო კომისიებთან და შეძლო ღირსეული ცხოვრების გამომუშავება გულიდან.</ArtStudent79.description>
+  <ArtStudent79.title>ხელოვნების სტუდენტი</ArtStudent79.title>
+  <ArtStudent79.titleShort>მხატვარი</ArtStudent79.titleShort>
+  <Assassin7.description>[PAWN_nameDef] ადრე მკვლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Assassin7.description>
+  <Assassin7.title>მკვლელი</Assassin7.title>
+  <Assassin7.titleShort>მკვლელი</Assassin7.titleShort>
+  <AWOLSoldier49.description>[PAWN_nameDef] იყო ქვეითი. როდესაც [PAWN_pronoun] შეატყობინეს [PAWN_possessive] დავალების შესახებ ქსენოა-ზარცას ომში, [PAWN_pronoun] გადაწყვიტა [PAWN_pronoun] არ სურდა ჯარისკაცი ყოფილიყო. [PAWN_pronoun]-მა შეძლო გაქცევა სამხედრო კოსმოსური თვითმფრინავით.</AWOLSoldier49.description>
+  <AWOLSoldier49.title>AWOL ჯარისკაცი</AWOLSoldier49.title>
+  <AWOLSoldier49.titleShort>ჯარისკაცი</AWOLSoldier49.titleShort>
+  <BanditLeader74.description>[PAWN_nameDef] ამაღლდა დანაშაულებრივი ორგანიზაციის რიგებში, საბოლოოდ გახდა მათი ბანდიტების ერთ-ერთი ყველაზე შორეული უჯრედის ლიდერი. [PAWN_possessive] ძაღლი დასვენება არასოდეს ტოვებდა [PAWN_possessive] მხარეს.</BanditLeader74.description>
+  <BanditLeader74.title>ბანდიტის ლიდერი</BanditLeader74.title>
+  <BanditLeader74.titleShort>ბანდიტი</BanditLeader74.titleShort>
+  <BanishedSoldier85.description>[PAWN_nameDef] ადრე განდევნილი ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BanishedSoldier85.description>
+  <BanishedSoldier85.title>განდევნილი ჯარისკაცი</BanishedSoldier85.title>
+  <BanishedSoldier85.titleShort>უკანონო</BanishedSoldier85.titleShort>
+  <BattlefieldTech52.description>[PAWN_nameDef] ადრე ბრძოლის ველის ტექნიკა იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BattlefieldTech52.description>
+  <BattlefieldTech52.title>ბრძოლის ველის ტექნიკა</BattlefieldTech52.title>
+  <BattlefieldTech52.titleShort>ტექნიკოსი</BattlefieldTech52.titleShort>
+  <BattleMechanic27.description>[PAWN_nameDef] ადრე საბრძოლო მექანიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BattleMechanic27.description>
+  <BattleMechanic27.title>საბრძოლო მექანიკოსი</BattleMechanic27.title>
+  <BattleMechanic27.titleShort>მექანიკოსი</BattleMechanic27.titleShort>
+  <BeastSlayer67.description>[PAWN_nameDef] ადრე მხეცის მკვლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BeastSlayer67.description>
+  <BeastSlayer67.title>მხეცის მკვლელი</BeastSlayer67.title>
+  <BeastSlayer67.titleShort>მკვლელი</BeastSlayer67.titleShort>
+  <BehaviourResearch74.description>[PAWN_nameDef] ადრე ქცევის კვლევა იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BehaviourResearch74.description>
+  <BehaviourResearch74.title>ქცევის კვლევა</BehaviourResearch74.title>
+  <BehaviourResearch74.titleShort>მეცნიერი</BehaviourResearch74.titleShort>
+  <Blacksmith7.description>როგორც მჭედელმა შუა საუკუნეების სამყაროში, [PAWN_nameDef]-მა მოიპოვა რეპუტაცია [PAWN_possessive] სამუშაოს მაღალი ხარისხის გამო. [PAWN_pronoun] ასევე არ იყო ცუდი ხმლების გამოყენებაში [PAWN_pronoun] გაყალბებული.</Blacksmith7.description>
+  <Blacksmith7.title>მჭედელი</Blacksmith7.title>
+  <Blacksmith7.titleShort>მჭედელი</Blacksmith7.titleShort>
+  <BlacksmithShooter21.description>[PAWN_nameDef] ადრე მჭედელი მსროლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BlacksmithShooter21.description>
+  <BlacksmithShooter21.title>მჭედელი მსროლელი</BlacksmithShooter21.title>
+  <BlacksmithShooter21.titleShort>მეიარაღე</BlacksmithShooter21.titleShort>
+  <BloodgameSurvivor6.description>[PAWN_nameDef] გაიყიდა Corestars Entertainment Company-ს და გამოიყენებოდა როგორც ხორცი კომპანიის ერთ-ერთ სამაუწყებლო შოუში.
+ 
+[PAWN_possessive] მანიპულაციურმა ბუნებამ [PAWN_objective] საკმაოდ კოშმარად აქცია აუდიტორიისთვისაც კი. [PAWN_pronoun] გააძევეს და გადაასახლეს სასიკვდილო ცხოველებით, დამნაშავეებითა და შეიარაღებული კამერა-დრონებით სავსე პლანეტაზე.</BloodgameSurvivor6.description>
+  <BloodgameSurvivor6.title>სისხლის თამაშის გადარჩენილი</BloodgameSurvivor6.title>
+  <BloodgameSurvivor6.titleShort>სისხლისმთამაშებელი</BloodgameSurvivor6.titleShort>
+  <BloodyDentist9.description>[PAWN_nameDef] ადრე სისხლიანი სტომატოლოგი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BloodyDentist9.description>
+  <BloodyDentist9.title>სისხლიანი სტომატოლოგი</BloodyDentist9.title>
+  <BloodyDentist9.titleShort>სტომატოლოგი</BloodyDentist9.titleShort>
+  <BloodyWanderer28.description>[PAWN_nameDef] ადრე სისხლიანი მოხეტიალე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BloodyWanderer28.description>
+  <BloodyWanderer28.title>სისხლიანი მოხეტიალე</BloodyWanderer28.title>
+  <BloodyWanderer28.titleShort>მოხეტიალე</BloodyWanderer28.titleShort>
+  <BountyHunter17.description>[PAWN_nameDef] იყო თვითდასაქმებული ბონუსებზე მონადირე. [PAWN_pronoun] გაატარა [PAWN_possessive] დღეები კოსმოსურ მეკობრეებზე ნადირობაში და ფულადი ჯილდოების შეგროვებაში.</BountyHunter17.description>
+  <BountyHunter17.title>ნადირობაზე მონადირე</BountyHunter17.title>
+  <BountyHunter17.titleShort>მონადირე</BountyHunter17.titleShort>
+  <BountyHunter41.description>[PAWN_nameDef] იყო ნადირობაზე მონადირე უზარმაზარ ბრჭყვიალა სამყაროზე. [PAWN_pronoun] მუშაობდა სენსიტიურ დავალებებს უკიდურესად მდიდარი კლიენტებისთვის და ცნობილი იყო მშვიდი შესრულებისა და სრული შეხედულებისამებრ.</BountyHunter41.description>
+  <BountyHunter41.title>ნადირობაზე მონადირე</BountyHunter41.title>
+  <BountyHunter41.titleShort>მონადირე</BountyHunter41.titleShort>
+  <BountyHunter93.description>როდესაც სამოქალაქო ომი დასრულდა, [PAWN_nameDef]-ს უნდა ეპოვა ახალი გზა, რათა გამოეყენებინა [PAWN_possessive] საბრძოლო უნარები. [PAWN_pronoun]-მა გადაწყვიტა დაედევნა ომის დამნაშავეები და მალევე მიხვდა, რომ [PAWN_pronoun] სიამოვნებდა ბოროტი ბიჭების დაჭერა ყველა საჭირო საშუალებით.</BountyHunter93.description>
+  <BountyHunter93.title>ნადირობაზე მონადირე</BountyHunter93.title>
+  <BountyHunter93.titleShort>მონადირე</BountyHunter93.titleShort>
+  <Brigand68.description>[PAWN_nameDef] გაფრინდა ყაჩაღების ჯგუფთან ერთად [PAWN_pronoun], რომელსაც მეგობრები ეძახდნენ. [PAWN_pronoun] კი ჰყავდა საკუთარი [PAWN_possessive] გემი - The Dung Mucker 2000.</Brigand68.description>
+  <Brigand68.title>ყაჩაღი</Brigand68.title>
+  <Brigand68.titleShort>ყაჩაღი</Brigand68.titleShort>
+  <BushSniper94.description>[PAWN_nameDef] ადრე ბუჩქის სნაიპერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</BushSniper94.description>
+  <BushSniper94.title>ბუჩქის სნაიპერი</BushSniper94.title>
+  <BushSniper94.titleShort>სნაიპერი</BushSniper94.titleShort>
+  <BusinessGangster58.description>კანონთან ერთი ნაბიჯით წინ დგომით, [PAWN_nameDef] ლეგიტიმური ბიზნესმენი გახდა და გააჩუმა ყველას, ვინც სხვაგვარად თქვას. როგორც ბორდელების, სპიკერების და სასადილოების მფლობელი, [PAWN_nameDef]-ის კეთილდღეობა გაგრძელდა, ხოლო [PAWN_possessive] კონკურენცია განიცადა სამწუხარო და აუხსნელი უბედური შემთხვევების სერია.</BusinessGangster58.description>
+  <BusinessGangster58.title>ბიზნეს განგსტერი</BusinessGangster58.title>
+  <BusinessGangster58.titleShort>განგსტერი</BusinessGangster58.titleShort>
+  <Caravaneer53.description>[PAWN_nameDef] ადრე ქარავანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Caravaneer53.description>
+  <Caravaneer53.title>ქარავანი</Caravaneer53.title>
+  <Caravaneer53.titleShort>ქარავანი</Caravaneer53.titleShort>
+  <CargoPilot58.description>[PAWN_nameDef] აღიზარდა სატვირთო ხელებით გრძელვადიანი მადნის ტრანსპორტირების გემზე. [PAWN_pronoun]-მა დაასრულა [PAWN_possessive] უნარები ვაჭრობისა და ადამიანებით მანიპულირების დროს, როდესაც ატარებდა იარაღს სისტემებს შორის.</CargoPilot58.description>
+  <CargoPilot58.title>ტვირთის პილოტი</CargoPilot58.title>
+  <CargoPilot58.titleShort>პილოტი</CargoPilot58.titleShort>
+  <CasketBuilder52.description>[PAWN_nameDef] ადრე კუდის მშენებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CasketBuilder52.description>
+  <CasketBuilder52.title>კუდის მშენებელი</CasketBuilder52.title>
+  <CasketBuilder52.titleShort>მშენებელი</CasketBuilder52.titleShort>
+  <Castaway81.description>[PAWN_nameDef] რუტინული ვარსკვლავთშორისი ტრანზიტის მგზავრი იყო. როდესაც [PAWN_possessive] გემი გაანადგურეს, [PAWN_pronoun] რამდენიმე წლის განმავლობაში ცხოვრობდა როგორც ტყვედ დაუსახლებელ პლანეტაზე.</Castaway81.description>
+  <Castaway81.title>მიჯაჭვული</Castaway81.title>
+  <Castaway81.titleShort>მიჯაჭვული</Castaway81.titleShort>
+  <Chemist73.description>[PAWN_nameDef] იყო მკვლევარი ქიმიკოსი. [PAWN_pronoun] მუშაობდა ქიმიკატებთან, ფარმაცევტული პროდუქტებიდან ფეთქებადი ნივთიერებებით დამთავრებული, ახალი ნივთიერებებისა და სამკურნალო საშუალებების შესაქმნელად.</Chemist73.description>
+  <Chemist73.title>ქიმიკოსი</Chemist73.title>
+  <Chemist73.titleShort>ქიმიკოსი</Chemist73.titleShort>
+  <Chemist78.description>[PAWN_nameDef] ადრე ქიმიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Chemist78.description>
+  <Chemist78.title>ქიმიკოსი</Chemist78.title>
+  <Chemist78.titleShort>ქიმიკოსი</Chemist78.titleShort>
+  <ChiefEngineer62.description>[PAWN_nameDef] ადრე მთავარი ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ChiefEngineer62.description>
+  <ChiefEngineer62.title>მთავარი ინჟინერი</ChiefEngineer62.title>
+  <ChiefEngineer62.titleShort>ინჟინერი</ChiefEngineer62.titleShort>
+  <CivilEngineer2.description>[PAWN_nameDef] ცნობილი სამოქალაქო ინჟინერი იყო. [PAWN_possessive] სამუშაო მოიცავდა კლდის საფორტიფიკაციო სტრუქტურების დიზაინს და შენარჩუნებას. [PAWN_pronoun]-მა ჩაატარა საკმარისი სტატისტიკური ანალიზი, რათა შენარჩუნებულიყო [PAWN_possessive] გონება.</CivilEngineer2.description>
+  <CivilEngineer2.title>სამოქალაქო ინჟინერი</CivilEngineer2.title>
+  <CivilEngineer2.titleShort>ინჟინერი</CivilEngineer2.titleShort>
+  <CivilServant25.description>[PAWN_nameDef] ადრე საჯარო მოხელე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CivilServant25.description>
+  <CivilServant25.title>საჯარო მოხელე</CivilServant25.title>
+  <CivilServant25.titleShort>ბიუროკრატი</CivilServant25.titleShort>
+  <ClanChief14.description>[PAWN_nameDef] მართავდა პატარა კრიმინალურ კლანს შორეულ სავაჭრო ცენტრ სამყაროში.</ClanChief14.description>
+  <ClanChief14.title>კლანის უფროსი</ClanChief14.title>
+  <ClanChief14.titleShort>უფროსი</ClanChief14.titleShort>
+  <CloneFarmer58.description>კლონური მეურნეობების პროდუქციის აღებას ძირითადად თავად კლონები ახორციელებენ - განსაკუთრებით მათ, ვისი სიმები მიდრეკილნი არიან სოციალურისკენ. ეს კლონი ერთ-ერთი იყო, რომელიც ფერმებიდან გაიქცა და ვარსკვლავებისკენ გაემართა.</CloneFarmer58.description>
+  <CloneFarmer58.title>კლონი ფერმერი</CloneFarmer58.title>
+  <CloneFarmer58.titleShort>კლონერი</CloneFarmer58.titleShort>
+  <ColiseumFighter22.description>ცოდნის გამოყენებით, რომელიც [PAWN_pronoun] მოიპოვა მებრძოლების გარშემო წლების განმავლობაში, [PAWN_pronoun] გახდა წარმატებული გლადიატორი კოლიზეუმში, რომელიც [PAWN_pronoun] ერთხელ გაასუფთავა.</ColiseumFighter22.description>
+  <ColiseumFighter22.title>კოლიზეუმის მებრძოლი</ColiseumFighter22.title>
+  <ColiseumFighter22.titleShort>მებრძოლი</ColiseumFighter22.titleShort>
+  <ColonialGovernor78.description>[PAWN_nameDef] ადრე კოლონიური გუბერნატორი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ColonialGovernor78.description>
+  <ColonialGovernor78.title>კოლონიური გუბერნატორი</ColonialGovernor78.title>
+  <ColonialGovernor78.titleShort>გუბერნატორი</ColonialGovernor78.titleShort>
+  <ColonyEngineer7.description>[PAWN_nameDef] ადრე კოლონიის ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ColonyEngineer7.description>
+  <ColonyEngineer7.title>კოლონიის ინჟინერი</ColonyEngineer7.title>
+  <ColonyEngineer7.titleShort>ინჟინერი</ColonyEngineer7.titleShort>
+  <CombatEngineer30.description>[PAWN_nameDef] ადრე საბრძოლო ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CombatEngineer30.description>
+  <CombatEngineer30.title>საბრძოლო ინჟინერი</CombatEngineer30.title>
+  <CombatEngineer30.titleShort>ინჟინერი</CombatEngineer30.titleShort>
+  <CombatEngineer4.description>[PAWN_nameDef] გახდა საბრძოლო ინჟინერი. [PAWN_pronoun] ააშენა ბაზები, დააფიქსირა იარაღი და შეაკეთა მანქანები ჯარისთვის - როდესაც [PAWN_pronoun] არ ისროდა ხალხს, ანუ.</CombatEngineer4.description>
+  <CombatEngineer4.title>საბრძოლო ინჟინერი</CombatEngineer4.title>
+  <CombatEngineer4.titleShort>ინჟინერი</CombatEngineer4.titleShort>
+  <CombatMedic82.description>[PAWN_nameDef] ადრე საბრძოლო მედიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CombatMedic82.description>
+  <CombatMedic82.title>საბრძოლო მედიკოსი</CombatMedic82.title>
+  <CombatMedic82.titleShort>მედიკოსი</CombatMedic82.titleShort>
+  <CombatMedtech59.description>[PAWN_nameDef] ადრე საბრძოლო მედტექ იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CombatMedtech59.description>
+  <CombatMedtech59.title>საბრძოლო მედტექ</CombatMedtech59.title>
+  <CombatMedtech59.titleShort>მედიკოსი</CombatMedtech59.titleShort>
+  <CombatNegotiator31.description>[PAWN_nameDef] ადრე საბრძოლო მომლაპარაკებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CombatNegotiator31.description>
+  <CombatNegotiator31.title>საბრძოლო მომლაპარაკებელი</CombatNegotiator31.title>
+  <CombatNegotiator31.titleShort>მომლაპარაკებელი</CombatNegotiator31.titleShort>
+  <CommonerLord45.description>[PAWN_nameDef] ადრე უბრალო ბატონი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CommonerLord45.description>
+  <CommonerLord45.title>უბრალო ბატონი</CommonerLord45.title>
+  <CommonerLord45.titleShort>უფალო</CommonerLord45.titleShort>
+  <ComputerEngineer10.description>[PAWN_nameDef] ადრე კომპიუტერული ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ComputerEngineer10.description>
+  <ComputerEngineer10.title>კომპიუტერული ინჟინერი</ComputerEngineer10.title>
+  <ComputerEngineer10.titleShort>ტექნიკური ხელმძღვანელი</ComputerEngineer10.titleShort>
+  <ComputerEngineer36.description>[PAWN_nameDef] ადრე კომპიუტერული ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ComputerEngineer36.description>
+  <ComputerEngineer36.title>კომპიუტერული ინჟინერი</ComputerEngineer36.title>
+  <ComputerEngineer36.titleShort>ინჟინერი</ComputerEngineer36.titleShort>
+  <CoreworldJeweler19.description>მას შემდეგ, რაც [PAWN_nameDef]-მა დაასრულა ყველა [PAWN_possessive] ოპერაცია, [PAWN_pronoun] აღმოაჩინა, რომ [PAWN_pronoun]-ს ჰქონდა დიდი დრო და ენერგია, რათა მიეძღვნა [PAWN_possessive] გატაცებას: წვრილმანების დამზადებას. [PAWN_pronoun]-მა წლები გაატარა [PAWN_possessive] ხელოვნების სრულყოფაში, როგორც იუველირი, შემდეგ დატოვა [PAWN_possessive] მთავარი სამყარო, რათა გაეყიდა [PAWN_possessive] ნაწარმი გალაქტიკაში.</CoreworldJeweler19.description>
+  <CoreworldJeweler19.title>სამყაროს იუველირი</CoreworldJeweler19.title>
+  <CoreworldJeweler19.titleShort>იუველირი</CoreworldJeweler19.titleShort>
+  <CorporateBuilder58.description>[PAWN_nameDef] ადრე კორპორატიული მშენებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CorporateBuilder58.description>
+  <CorporateBuilder58.title>კორპორატიული მშენებელი</CorporateBuilder58.title>
+  <CorporateBuilder58.titleShort>მშენებელი</CorporateBuilder58.titleShort>
+  <CorpResearcher71.description>[PAWN_nameDef] ადრე კორპუსის მკვლევარი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CorpResearcher71.description>
+  <CorpResearcher71.title>კორპუსის მკვლევარი</CorpResearcher71.title>
+  <CorpResearcher71.titleShort>მკვლევარი</CorpResearcher71.titleShort>
+  <CorpResearcher93.description>[PAWN_nameDef] იყო მასიური კოსმოსური საძიებო კორპორაციის წამყვანი მკვლევარი.</CorpResearcher93.description>
+  <CorpResearcher93.title>კორპუსის მკვლევარი</CorpResearcher93.title>
+  <CorpResearcher93.titleShort>მკვლევარი</CorpResearcher93.titleShort>
+  <CosmeticReject64.description>ბრჭყვიალა სამყაროს აუდიტორია ჯერ არ იყო მზად [PAWN_nameDef]-ის Vidtube-ის სერიისთვის ყველა თავისი ქანჩებით, ჩაქუჩებითა და დამგეგმავებით - ამბობდნენ, რომ ასეთი ნამუშევარი მექანოიდებისთვისაა! შეუკავებელი, [PAWN_pronoun] გაემართა ვარსკვლავებისკენ, იმ ადამიანების საძიებლად, რომლებიც დააფასებდნენ [PAWN_მფლობელობაში] უნარებს. ველური ბუნება იქ საშინლად გამოიყურება, თუმცა...</CosmeticReject64.description>
+  <CosmeticReject64.title>მოგზაური ხელოსანი</CosmeticReject64.title>
+  <CosmeticReject64.titleShort>ხელოსანი</CosmeticReject64.titleShort>
+  <CosmeticSurgeon36.description>[PAWN_nameDef] ადრე კოსმეტიკური ქირურგი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CosmeticSurgeon36.description>
+  <CosmeticSurgeon36.title>კოსმეტიკური ქირურგი</CosmeticSurgeon36.title>
+  <CosmeticSurgeon36.titleShort>ქირურგი</CosmeticSurgeon36.titleShort>
+  <CostumeCrafter41.description>[PAWN_nameDef] ადრე კოსტუმების ხელოსანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CostumeCrafter41.description>
+  <CostumeCrafter41.title>კოსტუმების ხელოსანი</CostumeCrafter41.title>
+  <CostumeCrafter41.titleShort>დამკვეთი</CostumeCrafter41.titleShort>
+  <CraftShaper37.description>[PAWN_nameDef] ადრე ხელნაკეთობის შემქმნელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CraftShaper37.description>
+  <CraftShaper37.title>ხელნაკეთობის შემქმნელი</CraftShaper37.title>
+  <CraftShaper37.titleShort>მაფორმებელი</CraftShaper37.titleShort>
+  <CrimeLord10.description>[PAWN_nameDef] ადრე დანაშაულის მბრძანებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CrimeLord10.description>
+  <CrimeLord10.title>დანაშაულის მბრძანებელი</CrimeLord10.title>
+  <CrimeLord10.titleShort>დანაშაულის მბრძანებელი</CrimeLord10.titleShort>
+  <CriminalKingpin36.description>[PAWN_nameDef] ადრე კრიმინალური მეფე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</CriminalKingpin36.description>
+  <CriminalKingpin36.title>კრიმინალური მეფე</CriminalKingpin36.title>
+  <CriminalKingpin36.titleShort>მეფე პინი</CriminalKingpin36.titleShort>
+  <CriminalSurgeon99.description>ბევრ დაშავებულ თანამემამულე კრიმინალთან ახლოს ყოფნისას, [PAWN_nameDef] აიღო თავის თავზე [PAWN_objective] მუშაობა მათზე. მიუხედავად იმისა, რომ ბევრი ადამიანი დაიღუპა, [PAWN_pronoun] უკეთესად გამოიყენა დანები.</CriminalSurgeon99.description>
+  <CriminalSurgeon99.title>კრიმინალური ქირურგი</CriminalSurgeon99.title>
+  <CriminalSurgeon99.titleShort>ქირურგი</CriminalSurgeon99.titleShort>
+  <DeepSpaceSurveyor1.description>[PAWN_nameDef] ადრე ღრმა სივრცის ამზომველი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</DeepSpaceSurveyor1.description>
+  <DeepSpaceSurveyor1.title>ღრმა სივრცის ამზომველი</DeepSpaceSurveyor1.title>
+  <DeepSpaceSurveyor1.titleShort>ამზომველი</DeepSpaceSurveyor1.titleShort>
+  <Defector95.description>[PAWN_nameDef] ადრე დეფექტორი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Defector95.description>
+  <Defector95.title>დეფექტორი</Defector95.title>
+  <Defector95.titleShort>დეფექტორი</Defector95.titleShort>
+  <DefenseLawyer71.description>[PAWN_nameDef] ადრე დაცვის ადვოკატი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</DefenseLawyer71.description>
+  <DefenseLawyer71.title>დაცვის ადვოკატი</DefenseLawyer71.title>
+  <DefenseLawyer71.titleShort>ადვოკატი</DefenseLawyer71.titleShort>
+  <DestroyerGeneral26.description>[PAWN_nameDef] ადრე გამანადგურებელი გენერალი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</DestroyerGeneral26.description>
+  <DestroyerGeneral26.title>გამანადგურებელი გენერალი</DestroyerGeneral26.title>
+  <DestroyerGeneral26.titleShort>გენერალი</DestroyerGeneral26.titleShort>
+  <DischargedSoldier53.description>[PAWN_nameDef] ადრე გათავისუფლებული ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</DischargedSoldier53.description>
+  <DischargedSoldier53.title>გათავისუფლებული ჯარისკაცი</DischargedSoldier53.title>
+  <DischargedSoldier53.titleShort>ჯარისკაცი</DischargedSoldier53.titleShort>
+  <DoomsdayPariah18.description>[PAWN_nameDef]-მა მოახერხა სხვა სამყაროს ტექნოლოგიის სარდაფის გახსნა გათხრების ადგილის გაწმენდისას. [PAWN_pronoun] უნებლიეთ ამოქმედდა განკითხვის დღის მოწყობილობა, რომელმაც გაასუფთავა პლანეტა მთელი სიცოცხლისგან. უფრო მეტად დაინტერესებული ტექნიკით, ვიდრე ადამიანის ცხოვრებით, [PAWN_pronoun] ავიდა სარდაფის კოსმოსურ ხომალდზე და გაემგზავრა, რათა ეპოვა მეტი რელიქვია, რომელიც ბოროტად იყო გამოყენებული.</DoomsdayPariah18.description>
+  <DoomsdayPariah18.title>განკითხვის დღის პარია</DoomsdayPariah18.title>
+  <DoomsdayPariah18.titleShort>პარია</DoomsdayPariah18.titleShort>
+  <DreadedDude58.description>[PAWN_nameDef] ადრე შეშინებული ძმაკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</DreadedDude58.description>
+  <DreadedDude58.title>შეშინებული ძმაკაცი</DreadedDude58.title>
+  <DreadedDude58.titleShort>ძმაკაცი</DreadedDude58.titleShort>
+  <DromedaryKnight37.description>[PAWN_nameDef] ადრე დრომედიური რაინდი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</DromedaryKnight37.description>
+  <DromedaryKnight37.title>დრომედიური რაინდი</DromedaryKnight37.title>
+  <DromedaryKnight37.titleShort>რაინდი</DromedaryKnight37.titleShort>
+  <DrugLieutenant98.description>[PAWN_nameDef] ადრე ნარკოლეიტენანტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</DrugLieutenant98.description>
+  <DrugLieutenant98.title>ნარკოლეიტენანტი</DrugLieutenant98.title>
+  <DrugLieutenant98.titleShort>ნარკომანი</DrugLieutenant98.titleShort>
+  <EnergyResearcher89.description>[PAWN_nameDef] მუშაობდა იდეაზე სწრაფი კომუნიკაციისთვის დიდ დისტანციებზე. [PAWN_pronoun] დაუშვა შეცდომა, რომელმაც გაანადგურა [PAWN_possessive] ლაბორატორია და რამდენიმე მიმდებარე შენობა. [PAWN_pronoun] გაიქცა პლანეტა ხელისუფლებისგან თავის დასაღწევად.</EnergyResearcher89.description>
+  <EnergyResearcher89.title>ენერგეტიკის მკვლევარი</EnergyResearcher89.title>
+  <EnergyResearcher89.titleShort>მკვლევარი</EnergyResearcher89.titleShort>
+  <Engineer40.description>[PAWN_nameDef]-მა იპოვა სამუშაო, როგორც ინჟინერი, სავაჭრო ცენტრ პლანეტაზე Irithir. მკაცრმა ადგილობრივმა მოვაჭრეებმა აიძულეს [PAWN_objective] ესწავლა მოლაპარაკების უნარები და [PAWN_pronoun] კარგი მოგება მიიღო განახლებული იარაღისა და ხელსაწყოების გაყიდვით.</Engineer40.description>
+  <Engineer40.title>ინჟინერი</Engineer40.title>
+  <Engineer40.titleShort>ინჟინერი</Engineer40.titleShort>
+  <EngineeredPilot75.description>[PAWN_nameDef] ადრე ინჟინერიული პილოტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</EngineeredPilot75.description>
+  <EngineeredPilot75.title>ინჟინერიული პილოტი</EngineeredPilot75.title>
+  <EngineeredPilot75.titleShort>პილოტი</EngineeredPilot75.titleShort>
+  <EnvoyOfTheStars19.description>[PAWN_nameDef] ადრე ვარსკვლავების დესპანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</EnvoyOfTheStars19.description>
+  <EnvoyOfTheStars19.title>ვარსკვლავების დესპანი</EnvoyOfTheStars19.title>
+  <EnvoyOfTheStars19.titleShort>დესპანი</EnvoyOfTheStars19.titleShort>
+  <ExecutiveOfficer5.description>[PAWN_nameDef] ადრე აღმასრულებელი ოფიცერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ExecutiveOfficer5.description>
+  <ExecutiveOfficer5.title>აღმასრულებელი ოფიცერი</ExecutiveOfficer5.title>
+  <ExecutiveOfficer5.titleShort>აღმასრულებელი</ExecutiveOfficer5.titleShort>
+  <ExiledResearcher44.description>[PAWN_nameDef]-ის სიყვარული რობოტიკისადმი არ იყო დაფასებული [PAWN_possessive] ტექნოფობიურ იმპერიაში. სისტემის უმაღლესმა კარდინალმა იგი განკვეთა და [PAWN_pronoun] აღარ მიეცა დაბრუნების უფლება.</ExiledResearcher44.description>
+  <ExiledResearcher44.title>გადასახლებული მკვლევარი</ExiledResearcher44.title>
+  <ExiledResearcher44.titleShort>გადასახლება</ExiledResearcher44.titleShort>
+  <ExoticChef96.description>[PAWN_nameDef] ადრე ეგზოტიკური შეფ იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ExoticChef96.description>
+  <ExoticChef96.title>ეგზოტიკური შეფ</ExoticChef96.title>
+  <ExoticChef96.titleShort>შეფ-მზარეული</ExoticChef96.titleShort>
+  <ExpertHandyman8.description>[PAWN_nameDef] მუშაობდა მოგზაურ ინჟინრად. [PAWN_pronoun]-მა დააფიქსირა რაღაცეები, დაწყებული მარტივი საკომუნიკაციო მასივიდან დამთავრებული რთული პროგრამული აღკაზმულობით, რომელიც მოიცავს [PAWN_possessive] გემის AI პერსონას. [PAWN_objective]-ისთვის შეკეთების მიღმა არაფერია.</ExpertHandyman8.description>
+  <ExpertHandyman8.title>გამოცდილი ხელოსანი</ExpertHandyman8.title>
+  <ExpertHandyman8.titleShort>ხელოსანი</ExpertHandyman8.titleShort>
+  <Explorer49.description>[PAWN_nameDef] მოგზაურობდა პლანეტიდან პლანეტაზე, აგროვებდა ნიმუშებს, ისტორიებს და კვლევებს. [PAWN_pronoun] იმედოვნებდა, რომ ერთ დღეს შეადგენდა ჩანაწერს ყველა ცხოველის, მცენარის, მინერალისა და მანქანისა და მოწყობილობის შესახებ ცნობილ სივრცეში: The Complete Traveler's Guide to the RimWorlds.</Explorer49.description>
+  <Explorer49.title>მკვლევარი</Explorer49.title>
+  <Explorer49.titleShort>მკვლევარი</Explorer49.titleShort>
+  <ExplorerWriter10.description>[PAWN_nameDef] ადრე მკვლევარი-მწერალი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ExplorerWriter10.description>
+  <ExplorerWriter10.title>მკვლევარი-მწერალი</ExplorerWriter10.title>
+  <ExplorerWriter10.titleShort>მკვლევარი</ExplorerWriter10.titleShort>
+  <FactionLeader74.description>[PAWN_nameDef] ადრე ფრაქციის ლიდერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</FactionLeader74.description>
+  <FactionLeader74.title>ფრაქციის ლიდერი</FactionLeader74.title>
+  <FactionLeader74.titleShort>ლიდერი</FactionLeader74.titleShort>
+  <FallenOfficial12.description>[PAWN_nameDef] იყო ავტოკრატიული მთავრობის ოფიციალური პირი. როდესაც [PAWN_possessive] ზემდგომებმა მოითხოვეს [PAWN_pronoun] მონაწილეობა სისასტიკეში, [PAWN_nameDef] გადადგა და გაიქცა [PAWN_possessive] საშინაო სამყაროდან, გარდა [PAWN_possessive] ტანსაცმლის გარეშე.</FallenOfficial12.description>
+  <FallenOfficial12.title>დაცემული ჩინოვნიკი</FallenOfficial12.title>
+  <FallenOfficial12.titleShort>ოფიციალური</FallenOfficial12.titleShort>
+  <FearfulChef49.description>[PAWN_nameDef] ადრე შეშინებული შეფ იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</FearfulChef49.description>
+  <FearfulChef49.title>შეშინებული შეფ</FearfulChef49.title>
+  <FearfulChef49.titleShort>შეფ-მზარეული</FearfulChef49.titleShort>
+  <FelineScientist76.description>[PAWN_nameDef] გახდა ცნობილი მეცნიერი კატების სფეროში. [PAWN_possessive] ცხოველებისთვის საუკეთესოს სურდა და სელექციური მოშენების სპეციალობით, [PAWN_pronoun] გაემგზავრა მოგზაურობაში, რათა ეპოვა [PAWN_possessive] კატების გასამრავლებელი ადგილი.</FelineScientist76.description>
+  <FelineScientist76.title>კატების მეცნიერი</FelineScientist76.title>
+  <FelineScientist76.titleShort>მეცნიერი</FelineScientist76.titleShort>
+  <FerventResearcher72.description>[PAWN_nameDef] ადრე მხურვალე მკვლევარი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</FerventResearcher72.description>
+  <FerventResearcher72.title>მხურვალე მკვლევარი</FerventResearcher72.title>
+  <FerventResearcher72.titleShort>მკვლევარი</FerventResearcher72.titleShort>
+  <FighterController67.description>ზართას კრიზისის დროს, [PAWN_nameDef] იბრძოდა მრავალ სამყაროში, რაც უზრუნველყოფს სასიცოცხლო კავშირს მიწასა და ჰაერს შორის, როგორც მებრძოლი მაკონტროლებელი. კამპანიის დროს, [PAWN_pronoun] დაინახა მეგობრები დაშავებული და დაღუპული. ეს ფსიქიკური ტრავმა ადევნებს [PAWN_possessive] ოცნებებს დღემდე, მაგრამ [PAWN_possessive] მიზანი რჩება მკვეთრი.</FighterController67.description>
+  <FighterController67.title>მებრძოლი კონტროლერი</FighterController67.title>
+  <FighterController67.titleShort>კონტროლერი</FighterController67.titleShort>
+  <Flaneur30.description>[PAWN_nameDef] ადრე მოსეირნე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Flaneur30.description>
+  <Flaneur30.title>მოსეირნე</Flaneur30.title>
+  <Flaneur30.titleShort>მოსეირნე</Flaneur30.titleShort>
+  <ForestProwler15.description>[PAWN_nameDef] ტყეში ველური კაცების ჯგუფს ხელმძღვანელობდა. ისინი ეძებდნენ საკვებს, ნადირობდნენ და ხანდახან კლავდნენ უფრო ცივილიზებულ ადამიანებს, რათა მოეპარათ მათი მბზინავი საგნები.</ForestProwler15.description>
+  <ForestProwler15.title>ტყის მეპატრონე</ForestProwler15.title>
+  <ForestProwler15.titleShort>პროვოლერი</ForestProwler15.titleShort>
+  <FrontierMarshal27.description>[PAWN_nameDef] ადრე მესაზღვრე მარშალი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</FrontierMarshal27.description>
+  <FrontierMarshal27.title>მესაზღვრე მარშალი</FrontierMarshal27.title>
+  <FrontierMarshal27.titleShort>მარშალი</FrontierMarshal27.titleShort>
+  <Fugitive4.description>[PAWN_nameDef] ადრე გაქცეული იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Fugitive4.description>
+  <Fugitive4.title>გაქცეული</Fugitive4.title>
+  <Fugitive4.titleShort>გაქცეული</Fugitive4.titleShort>
+  <GameDeveloper95.description>[PAWN_nameDef] ადრე თამაშის დეველოპერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</GameDeveloper95.description>
+  <GameDeveloper95.title>თამაშის დეველოპერი</GameDeveloper95.title>
+  <GameDeveloper95.titleShort>თამაშის დეველოპმენტი</GameDeveloper95.titleShort>
+  <GameTester77.description>[PAWN_nameDef] ადრე თამაშის ტესტერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</GameTester77.description>
+  <GameTester77.title>თამაშის ტესტერი</GameTester77.title>
+  <GameTester77.titleShort>ტესტერი</GameTester77.titleShort>
+  <GangBoss49.description>[PAWN_nameDef] ადრე ბანდის უფროსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</GangBoss49.description>
+  <GangBoss49.title>ბანდის უფროსი</GangBoss49.title>
+  <GangBoss49.titleShort>ბოსი</GangBoss49.titleShort>
+  <GangSoldier39.description>[PAWN_nameDef] ადრე ბანდის ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</GangSoldier39.description>
+  <GangSoldier39.title>ბანდის ჯარისკაცი</GangSoldier39.title>
+  <GangSoldier39.titleShort>ჯარისკაცი</GangSoldier39.titleShort>
+  <GeneticEngineer89.description>[PAWN_nameDef] ადრე გენეტიკური ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</GeneticEngineer89.description>
+  <GeneticEngineer89.title>გენეტიკური ინჟინერი</GeneticEngineer89.title>
+  <GeneticEngineer89.titleShort>გენეტიკოსი</GeneticEngineer89.titleShort>
+  <GeneticScientist66.description>ომის შემდეგ [PAWN_pronoun] შეუერთდა გენური ინჟინერიის ფირმას. [PAWN_pronoun] მუშაობდა გაუმჯობესებებზე ადამიანებისა და პირუტყვისთვის. [PAWN_possessive] ჭრილობების მიყენებისა და შეხორცების გამოცდილება ძალიან მომგებიანი იყო [PAWN_possessive] მუშაობისთვის, მაგრამ [PAWN_pronoun] განუვითარდა შავი იუმორის გრძნობა. ამან სოციალური შეკრებები უხერხულად აქცია.</GeneticScientist66.description>
+  <GeneticScientist66.title>გენეტიკური მეცნიერი</GeneticScientist66.title>
+  <GeneticScientist66.titleShort>გენეტიკოსი</GeneticScientist66.titleShort>
+  <Gigolo68.description>[PAWN_nameDef] ადრე ჟიგოლო იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Gigolo68.description>
+  <Gigolo68.title>ჟიგოლო</Gigolo68.title>
+  <Gigolo68.titleShort>ჟიგოლო</Gigolo68.titleShort>
+  <Gnomebiologist96.description>[PAWN_nameDef] ადრე გნომბიოლოგი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Gnomebiologist96.description>
+  <Gnomebiologist96.title>გნომბიოლოგი</Gnomebiologist96.title>
+  <Gnomebiologist96.titleShort>ბიოლოგი</Gnomebiologist96.titleShort>
+  <GovernmentAgent61.description>[PAWN_nameDef] ადრე მთავრობის აგენტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</GovernmentAgent61.description>
+  <GovernmentAgent61.title>მთავრობის აგენტი</GovernmentAgent61.title>
+  <GovernmentAgent61.titleShort>აგენტი</GovernmentAgent61.titleShort>
+  <GraphicDesigner33.description>[PAWN_nameDef]-ის ინტერესმა მხატვრული გამოხატვისადმი აიძულა [PAWN_objective] გამხდარიყო დიზაინერი. [PAWN_possessive] დეტალებისთვის თვალი აქცევს [PAWN_objective] საკმაოდ ცნობილ მხატვრად [PAWN_possessive] პლანეტაზე, თუმცა [PAWN_possessive] ზედმიწევნითობა ხშირად აიძულებდა [PAWN_objective] ზედმეტად დიდ დროს ხარჯავდა ერთი პროექტის სრულყოფაზე.</GraphicDesigner33.description>
+  <GraphicDesigner33.title>გრაფიკული დიზაინერი</GraphicDesigner33.title>
+  <GraphicDesigner33.titleShort>დიზაინერი</GraphicDesigner33.titleShort>
+  <Guardian55.description>[PAWN_nameDef] ადრე მეურვე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Guardian55.description>
+  <Guardian55.title>მეურვე</Guardian55.title>
+  <Guardian55.titleShort>მეურვე</Guardian55.titleShort>
+  <GunDealer14.description>[PAWN_nameDef] ადრე იარაღის გამყიდველი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</GunDealer14.description>
+  <GunDealer14.title>იარაღის გამყიდველი</GunDealer14.title>
+  <GunDealer14.titleShort>იარაღის გამყიდველი</GunDealer14.titleShort>
+  <Gunfighter51.description>[PAWN_nameDef] ადრე მებრძოლი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Gunfighter51.description>
+  <Gunfighter51.title>მებრძოლი</Gunfighter51.title>
+  <Gunfighter51.titleShort>მებრძოლი</Gunfighter51.titleShort>
+  <Healer35.description>[PAWN_nameDef] ადრე მკურნალი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Healer35.description>
+  <Healer35.title>მკურნალი</Healer35.title>
+  <Healer35.titleShort>მკურნალი</Healer35.titleShort>
+  <HedgeFundManager54.description>[PAWN_nameDef] ადრე ჰეჯ-ფონდის მენეჯერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</HedgeFundManager54.description>
+  <HedgeFundManager54.title>ჰეჯ-ფონდის მენეჯერი</HedgeFundManager54.title>
+  <HedgeFundManager54.titleShort>ბანკირი</HedgeFundManager54.titleShort>
+  <Herpetologist3.description>[PAWN_nameDef] ადრე ჰერპეტოლოგი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Herpetologist3.description>
+  <Herpetologist3.title>ჰერპეტოლოგი</Herpetologist3.title>
+  <Herpetologist3.titleShort>ჰერპერი</Herpetologist3.titleShort>
+  <HiredAssassin37.description>[PAWN_nameDef] იყო ოსტატი ქურდი, რომელიც ძირითადად ორგანიზებული დანაშაულისთვის მუშაობდა. დროთა განმავლობაში, [PAWN_pronoun]-მა გაითქვა სახელი [PAWN_objective]საკუთარი თავისთვის და [PAWN_possessive] ბიზნესი გადაიტანა ადამიანური საფრთხეების ფასიან „მოცილებაში“.</HiredAssassin37.description>
+  <HiredAssassin37.title>დაქირავებული მკვლელი</HiredAssassin37.title>
+  <HiredAssassin37.titleShort>მკვლელი</HiredAssassin37.titleShort>
+  <HiredGun70.description>[PAWN_nameDef] ადრე დაქირავებული იარაღი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</HiredGun70.description>
+  <HiredGun70.title>დაქირავებული იარაღი</HiredGun70.title>
+  <HiredGun70.titleShort>დაქირავებული იარაღი</HiredGun70.titleShort>
+  <HiredMuscle5.description>[PAWN_nameDef] ადრე დაქირავებული კუნთი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</HiredMuscle5.description>
+  <HiredMuscle5.title>დაქირავებული კუნთი</HiredMuscle5.title>
+  <HiredMuscle5.titleShort>დაქირავებული ყაჩაღი</HiredMuscle5.titleShort>
+  <HumanTrafficker35.description>[PAWN_nameDef] ადრე ადამიანით მოვაჭრე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</HumanTrafficker35.description>
+  <HumanTrafficker35.title>ადამიანით მოვაჭრე</HumanTrafficker35.title>
+  <HumanTrafficker35.titleShort>ტრეფიკერი</HumanTrafficker35.titleShort>
+  <Hunter73.description>[PAWN_nameDef] ადრე მონადირე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Hunter73.description>
+  <Hunter73.title>მონადირე</Hunter73.title>
+  <Hunter73.titleShort>მონადირე</Hunter73.titleShort>
+  <HunterOfTheKing53.description>[PAWN_nameDef] ადრე მეფის მონადირე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</HunterOfTheKing53.description>
+  <HunterOfTheKing53.title>მეფის მონადირე</HunterOfTheKing53.title>
+  <HunterOfTheKing53.titleShort>მავნებლების მცველი</HunterOfTheKing53.titleShort>
+  <HypnocultLeader61.description>[PAWN_nameDef] ადრე ჰიპნოკულტის ლიდერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</HypnocultLeader61.description>
+  <HypnocultLeader61.title>ჰიპნოკულტის ლიდერი</HypnocultLeader61.title>
+  <HypnocultLeader61.titleShort>კულტისტი</HypnocultLeader61.titleShort>
+  <ImperialGeneral27.description>[PAWN_nameDef] ადრე იმპერიული გენერალი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ImperialGeneral27.description>
+  <ImperialGeneral27.title>იმპერიული გენერალი</ImperialGeneral27.title>
+  <ImperialGeneral27.titleShort>გენერალი</ImperialGeneral27.titleShort>
+  <InformationBroker77.description>[PAWN_nameDef] ადრე ინფორმაციის ბროკერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</InformationBroker77.description>
+  <InformationBroker77.title>ინფორმაციის ბროკერი</InformationBroker77.title>
+  <InformationBroker77.titleShort>ბროკერი</InformationBroker77.titleShort>
+  <IntelligenceAgent10.description>[PAWN_nameDef] ადრე დაზვერვის აგენტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</IntelligenceAgent10.description>
+  <IntelligenceAgent10.title>დაზვერვის აგენტი</IntelligenceAgent10.title>
+  <IntelligenceAgent10.titleShort>აგენტი</IntelligenceAgent10.titleShort>
+  <IntimateAssassin35.description>[PAWN_nameDef] ადრე ინტიმური მკვლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</IntimateAssassin35.description>
+  <IntimateAssassin35.title>ინტიმური მკვლელი</IntimateAssassin35.title>
+  <IntimateAssassin35.titleShort>მკვლელი</IntimateAssassin35.titleShort>
+  <InvoluntaryHermit38.description>[PAWN_nameDef] ადრე უნებლიე ჰერმიტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</InvoluntaryHermit38.description>
+  <InvoluntaryHermit38.title>უნებლიე ჰერმიტი</InvoluntaryHermit38.title>
+  <InvoluntaryHermit38.titleShort>მოღუშული</InvoluntaryHermit38.titleShort>
+  <KingOfPirates25.description>როგორც თვითგამოცხადებული მეკობრეების მეფე, [PAWN_nameDef] დაუნდობელი იყო. მანიპულაციურ ხასიათს, [PAWN_pronoun] არ ეშინოდა შეეწირა ხალხი [PAWN_objective]-ის გარშემო [PAWN_objective] საკუთარი მიზნების სამსახურში. [PAWN_pronoun] კარგი დარტყმა იყო, მაგრამ მახვილით უფრო დახელოვნებული და [PAWN_pronoun] უყვარდა ახლო ბრძოლის ადრენალინი.</KingOfPirates25.description>
+  <KingOfPirates25.title>მეკობრეების მეფე</KingOfPirates25.title>
+  <KingOfPirates25.titleShort>მეკობრე</KingOfPirates25.titleShort>
+  <LanguageAnalyst27.description>[PAWN_nameDef] ადრე ენის ანალიტიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</LanguageAnalyst27.description>
+  <LanguageAnalyst27.title>ენის ანალიტიკოსი</LanguageAnalyst27.title>
+  <LanguageAnalyst27.titleShort>ენათმეცნიერი</LanguageAnalyst27.titleShort>
+  <LazyProgrammer3.description>[PAWN_nameDef] ადრე ზარმაცი პროგრამისტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</LazyProgrammer3.description>
+  <LazyProgrammer3.title>ზარმაცი პროგრამისტი</LazyProgrammer3.title>
+  <LazyProgrammer3.titleShort>პროგრამისტი</LazyProgrammer3.titleShort>
+  <LoneTraveler95.description>[PAWN_nameDef] ადრე მარტოხელა მოგზაური იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</LoneTraveler95.description>
+  <LoneTraveler95.title>მარტოხელა მოგზაური</LoneTraveler95.title>
+  <LoneTraveler95.titleShort>მოგზაური</LoneTraveler95.titleShort>
+  <LostMarine81.description>[PAWN_nameDef] ადრე დაკარგული საზღვაო იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</LostMarine81.description>
+  <LostMarine81.title>დაკარგული საზღვაო</LostMarine81.title>
+  <LostMarine81.titleShort>მოღალატე</LostMarine81.titleShort>
+  <LostSoldier13.description>[PAWN_nameDef] ადრე დაკარგული ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</LostSoldier13.description>
+  <LostSoldier13.title>დაკარგული ჯარისკაცი</LostSoldier13.title>
+  <LostSoldier13.titleShort>დაკარგული</LostSoldier13.titleShort>
+  <MachineFixer31.description>[PAWN_nameDef] ადრე მანქანის ფიქსატორი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MachineFixer31.description>
+  <MachineFixer31.title>მანქანის ფიქსატორი</MachineFixer31.title>
+  <MachineFixer31.titleShort>ფიქსატორი</MachineFixer31.titleShort>
+  <MadAccountant61.description>[PAWN_nameDef] ადრე შეშლილი ბუღალტერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MadAccountant61.description>
+  <MadAccountant61.title>შეშლილი ბუღალტერი</MadAccountant61.title>
+  <MadAccountant61.titleShort>ბუღალტერი</MadAccountant61.titleShort>
+  <MadScientist2.description>[PAWN_nameDef] ადრე შეშლილი მეცნიერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MadScientist2.description>
+  <MadScientist2.title>შეშლილი მეცნიერი</MadScientist2.title>
+  <MadScientist2.titleShort>მეცნიერი</MadScientist2.titleShort>
+  <MadScientist22.description>[PAWN_nameDef] ადრე შეშლილი მეცნიერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MadScientist22.description>
+  <MadScientist22.title>შეშლილი მეცნიერი</MadScientist22.title>
+  <MadScientist22.titleShort>მეცნიერი</MadScientist22.titleShort>
+  <MadScientist31.description>[PAWN_nameDef] ადრე შეშლილი მეცნიერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MadScientist31.description>
+  <MadScientist31.title>შეშლილი მეცნიერი</MadScientist31.title>
+  <MadScientist31.titleShort>მეცნიერი</MadScientist31.titleShort>
+  <MarbleDoctor99.description>[PAWN_nameDef] ადრე მარმარილოს ექიმი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MarbleDoctor99.description>
+  <MarbleDoctor99.title>მარმარილოს ექიმი</MarbleDoctor99.title>
+  <MarbleDoctor99.titleShort>ექიმი</MarbleDoctor99.titleShort>
+  <MasterChef48.description>[PAWN_nameDef] ადრე მასტერ შეფი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MasterChef48.description>
+  <MasterChef48.title>მასტერ შეფი</MasterChef48.title>
+  <MasterChef48.titleShort>შეფ-მზარეული</MasterChef48.titleShort>
+  <MasterTrader65.description>[PAWN_nameDef] ვაჭრობის ოსტატი იყო. [PAWN_pronoun]-მა მოიპოვა [PAWN_possessive] მეტსახელი იმით, რომ დაეხმარა სოფელს ცდის დროს.</MasterTrader65.description>
+  <MasterTrader65.title>ოსტატი მოვაჭრე</MasterTrader65.title>
+  <MasterTrader65.titleShort>მოვაჭრე</MasterTrader65.titleShort>
+  <MechanicsEngineer64.description>[PAWN_nameDef] ადრე ინჟინერი მექანიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MechanicsEngineer64.description>
+  <MechanicsEngineer64.title>ინჟინერი მექანიკოსი</MechanicsEngineer64.title>
+  <MechanicsEngineer64.titleShort>ინჟინერი</MechanicsEngineer64.titleShort>
+  <MechWarVeteran77.description>[PAWN_nameDef] ებრძოდა თაღლითი მექანოიდების ჯგუფს, რადგან [PAWN_pronoun] საკმარისად დიდი იყო, რომ ჩაეწერა. [PAWN_pronoun] დაღვრილა ნახევარ სამყაროში და დაკარგა იმაზე მეტი, ვიდრე [PAWN_pronoun] აინტერესებს გახსენება. ამ გამოცდილებამ [PAWN_objective] გამაგრდა, როგორც გონებრივად, ასევე ფიზიკურად.</MechWarVeteran77.description>
+  <MechWarVeteran77.title>მექანიკური ომის ვეტერანი</MechWarVeteran77.title>
+  <MechWarVeteran77.titleShort>ვეტერანი</MechWarVeteran77.titleShort>
+  <MedicalScientist16.description>[PAWN_nameDef] ჩაირიცხა ექიმად გამვლელ სამეცნიერო გემზე. ვარსკვლავებზე ბრუნავდა ქსენოადამიანებისა და ტრანსფრინველების დიდ ეკიპაჟთან ერთად, [PAWN_pronoun] ჩაატარა გენეტიკური კვლევა ნაცნობ სახეობებზე. [PAWN_pronoun] დაამყარა ღრმა მეგობრობა ერთ ტრანსფრინველთან, მაგრამ იძულებული გახდა გემი დაეტოვებინა, როდესაც კაპიტანმა გაათავისუფლა ყველა არა-ფრინველი.</MedicalScientist16.description>
+  <MedicalScientist16.title>მედიცინის მეცნიერი</MedicalScientist16.title>
+  <MedicalScientist16.titleShort>მეცნიერი</MedicalScientist16.titleShort>
+  <MedicSoldier54.description>[PAWN_nameDef] ადრე მედიკოსი ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MedicSoldier54.description>
+  <MedicSoldier54.title>მედიკოსი ჯარისკაცი</MedicSoldier54.title>
+  <MedicSoldier54.titleShort>მედიკოსი</MedicSoldier54.titleShort>
+  <MedievalKnight26.description>[PAWN_nameDef] იბრძოდა მეფისა და ქვეყნისთვის ბრძოლის ველზე, სადაც [PAWN_pronoun] კიდევ უფრო დახვეწა [PAWN_possessive] უნარი, როგორც ხმლის მებრძოლი. [PAWN_possessive] უდიდესი დიდება იყო მტრის სასამართლო დარბაზში თავდასხმის შეყვანა და მეფის დაჭერა მახვილით.</MedievalKnight26.description>
+  <MedievalKnight26.title>შუა საუკუნეების რაინდი</MedievalKnight26.title>
+  <MedievalKnight26.titleShort>რაინდი</MedievalKnight26.titleShort>
+  <MentalPatient69.description>[PAWN_nameDef] ადრე ფსიქიკური პაციენტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MentalPatient69.description>
+  <MentalPatient69.title>ფსიქიკური პაციენტი</MentalPatient69.title>
+  <MentalPatient69.titleShort>პაციენტი</MentalPatient69.titleShort>
+  <Mercenary20.description>[PAWN_nameDef] ადრე დაქირავებული იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Mercenary20.description>
+  <Mercenary20.title>დაქირავებული</Mercenary20.title>
+  <Mercenary20.titleShort>დაქირავებული</Mercenary20.titleShort>
+  <Mercenary4.description>საზღვაო სამყაროს მონებისგან შემდგარი ეკიპაჟისგან გაქცევის შემდეგ, [PAWN_nameDef] განუვითარდა სიცოცხლისადმი პატივისცემის ნაკლებობა. [PAWN_pronoun]-მა გააგრძელა დაქირავებულ ჯგუფში შესვლა, სადაც [PAWN_pronoun] განავითარა უნარები იარაღისა და გადარჩენის ტექნიკის გამოყენებით. [PAWN_nameDef]-მა გააკეთა ბინძური სამუშაო, სადაც [PAWN_pronoun] იპოვა და იმოგზაურა მრავალ სამყაროში.</Mercenary4.description>
+  <Mercenary4.title>დაქირავებული</Mercenary4.title>
+  <Mercenary4.titleShort>დაქირავებული</Mercenary4.titleShort>
+  <Mercenary55.description>[PAWN_nameDef]-მა გაატარა თინეიჯერობის [PAWN_possessive] წლები, როგორც დაქირავებული, დაქირავებული იყო სხვების მოსაკლავად და დასახიჩრებლად. [PAWN_pronoun] იყო მაღალი, საშიში და საშიში. [PAWN_pronoun]-ს შეეძლო შიში ჩაენერგა ყველა ადამიანის გულში, ვინც გადალახა [PAWN_objective] და მოკლას ნებისმიერი [PAWN_pronoun], რომელსაც სურდა.</Mercenary55.description>
+  <Mercenary55.title>დაქირავებული</Mercenary55.title>
+  <Mercenary55.titleShort>დაქირავ.</Mercenary55.titleShort>
+  <MercenaryCaptain98.description>[PAWN_nameDef] ადრე დაქირავებული კაპიტანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MercenaryCaptain98.description>
+  <MercenaryCaptain98.title>დაქირავებული კაპიტანი</MercenaryCaptain98.title>
+  <MercenaryCaptain98.titleShort>კაპიტანი</MercenaryCaptain98.titleShort>
+  <MercenaryChef44.description>[PAWN_nameDef] ადრე დაქირავებული შეფ იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MercenaryChef44.description>
+  <MercenaryChef44.title>დაქირავებული შეფ</MercenaryChef44.title>
+  <MercenaryChef44.titleShort>დაქირავებული</MercenaryChef44.titleShort>
+  <MercenaryLeader28.description>[PAWN_nameDef] ადრე დაქირავებული ლიდერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MercenaryLeader28.description>
+  <MercenaryLeader28.title>დაქირავებული ლიდერი</MercenaryLeader28.title>
+  <MercenaryLeader28.titleShort>დაქირავებული</MercenaryLeader28.titleShort>
+  <MercenaryLord13.description>[PAWN_nameDef] ადრე დაქირავებული მბრძანებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MercenaryLord13.description>
+  <MercenaryLord13.title>დაქირავებული მბრძანებელი</MercenaryLord13.title>
+  <MercenaryLord13.titleShort>მოწყალე უფალი</MercenaryLord13.titleShort>
+  <MercenaryPilot63.description>[PAWN_nameDef] ადრე დაქირავებული პილოტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MercenaryPilot63.description>
+  <MercenaryPilot63.title>დაქირავებული პილოტი</MercenaryPilot63.title>
+  <MercenaryPilot63.titleShort>დაქირავებული</MercenaryPilot63.titleShort>
+  <Microbiologist12.description>[PAWN_nameDef] ადრე მიკრობიოლოგი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Microbiologist12.description>
+  <Microbiologist12.title>მიკრობიოლოგი</Microbiologist12.title>
+  <Microbiologist12.titleShort>ბიოლოგი</Microbiologist12.titleShort>
+  <MidworldSailor91.description>[PAWN_nameDef] ადრე შუა სამყაროს მეზღვაური იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MidworldSailor91.description>
+  <MidworldSailor91.title>შუა სამყაროს მეზღვაური</MidworldSailor91.title>
+  <MidworldSailor91.titleShort>მეზღვაური</MidworldSailor91.titleShort>
+  <MilitaryEngineer45.description>[PAWN_nameDef] ადრე სამხედრო ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MilitaryEngineer45.description>
+  <MilitaryEngineer45.title>სამხედრო ინჟინერი</MilitaryEngineer45.title>
+  <MilitaryEngineer45.titleShort>ინჟინერი</MilitaryEngineer45.titleShort>
+  <MilitaryGunsmith27.description>[PAWN_nameDef] ადრე სამხედრო მეიარაღე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MilitaryGunsmith27.description>
+  <MilitaryGunsmith27.title>სამხედრო მეიარაღე</MilitaryGunsmith27.title>
+  <MilitaryGunsmith27.titleShort>მეიარაღე</MilitaryGunsmith27.titleShort>
+  <MilitaryInventor35.description>[PAWN_nameDef] ადრე სამხედრო გამომგონებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MilitaryInventor35.description>
+  <MilitaryInventor35.title>სამხედრო გამომგონებელი</MilitaryInventor35.title>
+  <MilitaryInventor35.titleShort>გამომგონებელი</MilitaryInventor35.titleShort>
+  <MilitaryOfficer17.description>[PAWN_nameDef] ადრე სამხედრო ოფიცერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MilitaryOfficer17.description>
+  <MilitaryOfficer17.title>სამხედრო ოფიცერი</MilitaryOfficer17.title>
+  <MilitaryOfficer17.titleShort>ოფიცერი</MilitaryOfficer17.titleShort>
+  <MilitiaSoldier79.description>[PAWN_nameDef] ადრე მილიციის ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MilitiaSoldier79.description>
+  <MilitiaSoldier79.title>მილიციის ჯარისკაცი</MilitiaSoldier79.title>
+  <MilitiaSoldier79.titleShort>ჯარისკაცი</MilitiaSoldier79.titleShort>
+  <MindwipedAssassin50.description>[PAWN_nameDef] ადრე გონებადაკარგული მკვლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MindwipedAssassin50.description>
+  <MindwipedAssassin50.title>გონებადაკარგული მკვლელი</MindwipedAssassin50.title>
+  <MindwipedAssassin50.titleShort>გონებაგაშლილი</MindwipedAssassin50.titleShort>
+  <Minister88.description>[PAWN_nameDef]-მა მოახერხა მნიშვნელოვანი თანამდებობის დაკავება მცირე ბრწყინვალე სამყაროს მთავრობაში. [PAWN_pronoun] მიეჩვია სიმდიდრეს, როდესაც ცდილობდა შეენარჩუნებინა [PAWN_possessive] მოქალაქეების შინაარსი. [PAWN_pronoun]-ს ჰქონდა საკმარისი დრო სიამოვნებისთვის და სიამოვნებისთვის – თუმცა [PAWN_pronoun] არასოდეს დაავიწყდა, როგორ გაეკეთებინა მძიმე სამუშაო.</Minister88.description>
+  <Minister88.title>მინისტრი</Minister88.title>
+  <Minister88.titleShort>მინისტრი</Minister88.titleShort>
+  <Missionary99.description>[PAWN_nameDef]-მა გადაწყვიტა [PAWN_possessive] ცხოვრება მიეძღვნა რელიგიურ მსახურებას. [PAWN_pronoun] მშვიდობის აღთქმა დადო და რამდენიმე წელი ქადაგებდა და ემსახურებოდა უსახლკაროების წვნიან სამზარეულოებში.</Missionary99.description>
+  <Missionary99.title>მისიონერული</Missionary99.title>
+  <Missionary99.titleShort>მისიონერული</Missionary99.titleShort>
+  <MobHenchman53.description>მას შემდეგ, რაც მონობის გემმა [PAWN_possessive] საშინაო სამყაროდან „გადაარჩინა“, [PAWN_nameDef] მიჰყიდეს ურბსამყაროს კრიმინალ მბრძანებელს, სადაც [PAWN_pronoun] გამოიყენებოდა როგორც მხდალი. [PAWN_pronoun] სპეციალიზირებულია დაბალტექნოლოგიურ დარტყმებსა და დაშინებაში.</MobHenchman53.description>
+  <MobHenchman53.title>ბრბოს მეთაური</MobHenchman53.title>
+  <MobHenchman53.titleShort>მეჯვარე</MobHenchman53.titleShort>
+  <MuffaloResearcher67.description>[PAWN_nameDef] ადრე მუფალოს მკვლევარი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MuffaloResearcher67.description>
+  <MuffaloResearcher67.title>მუფალოს მკვლევარი</MuffaloResearcher67.title>
+  <MuffaloResearcher67.titleShort>მკვლევარი</MuffaloResearcher67.titleShort>
+  <MutinousCaptain52.description>[PAWN_nameDef] ადრე ამბოხებული კაპიტანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</MutinousCaptain52.description>
+  <MutinousCaptain52.title>ამბოხებული კაპიტანი</MutinousCaptain52.title>
+  <MutinousCaptain52.titleShort>კაპიტანი</MutinousCaptain52.titleShort>
+  <NavyTechOfficer0.description>[PAWN_nameDef] ადრე საზღვაო ძალების ტექნიკური ოფიცერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</NavyTechOfficer0.description>
+  <NavyTechOfficer0.title>საზღვაო ძალების ტექნიკური ოფიცერი</NavyTechOfficer0.title>
+  <NavyTechOfficer0.titleShort>საზღვაო ტექნიკა</NavyTechOfficer0.titleShort>
+  <NetworkEngineer34.description>[PAWN_nameDef] ადრე ქსელის ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</NetworkEngineer34.description>
+  <NetworkEngineer34.title>ქსელის ინჟინერი</NetworkEngineer34.title>
+  <NetworkEngineer34.titleShort>ინჟინერი</NetworkEngineer34.titleShort>
+  <NeuroScientist19.description>[PAWN_nameDef] ადრე ნეირომეცნიერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</NeuroScientist19.description>
+  <NeuroScientist19.title>ნეირომეცნიერი</NeuroScientist19.title>
+  <NeuroScientist19.titleShort>მეცნიერი</NeuroScientist19.titleShort>
+  <NinjaAssassin31.description>[PAWN_nameDef] ადრე ნინძას მკვლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</NinjaAssassin31.description>
+  <NinjaAssassin31.title>ნინძას მკვლელი</NinjaAssassin31.title>
+  <NinjaAssassin31.titleShort>ნინძა</NinjaAssassin31.titleShort>
+  <OrbitalReservist22.description>[PAWN_nameDef] ადრე ორბიტალური რეზერვისტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</OrbitalReservist22.description>
+  <OrbitalReservist22.title>ორბიტალური რეზერვისტი</OrbitalReservist22.title>
+  <OrbitalReservist22.titleShort>რეზერვისტი</OrbitalReservist22.titleShort>
+  <Osteologist74.description>[PAWN_nameDef] ადრე ოსტეოლოგი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Osteologist74.description>
+  <Osteologist74.title>ოსტეოლოგი</Osteologist74.title>
+  <Osteologist74.titleShort>მეცნიერი</Osteologist74.titleShort>
+  <OverwatchSniper42.description>[PAWN_nameDef] ადრე overwatch სნაიპერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</OverwatchSniper42.description>
+  <OverwatchSniper42.title>overwatch სნაიპერი</OverwatchSniper42.title>
+  <OverwatchSniper42.titleShort>სნაიპერი</OverwatchSniper42.titleShort>
+  <ParamilitaryAgent11.description>სხვადასხვა დაჩრდილულ სამუშაოებზე გასვლის შემდეგ, [PAWN_nameDef] შეუერთდა დიდ გასამხედროებულ ჯგუფს, რათა ებრძოლა [PAWN_possessive] საშინაო სამყაროს. [PAWN_possessive] როლი იყო ინფილტრაცია და დაზვერვის შეგროვება</ParamilitaryAgent11.description>
+  <ParamilitaryAgent11.title>გასამხედროებული აგენტი</ParamilitaryAgent11.title>
+  <ParamilitaryAgent11.titleShort>აგენტი</ParamilitaryAgent11.titleShort>
+  <ParticlePhysicist44.description>[PAWN_nameDef]-მა ჩაატარა უახლესი ფიზიკის კვლევა. [PAWN_pronoun] სურდა დახმარებოდა უკეთესი და მშვიდობიანი მომავლის აშენებაში.</ParticlePhysicist44.description>
+  <ParticlePhysicist44.title>ნაწილაკების ფიზიკოსი</ParticlePhysicist44.title>
+  <ParticlePhysicist44.titleShort>ფიზიკოსი</ParticlePhysicist44.titleShort>
+  <Philosopher97.description>[PAWN_nameDef] ადრე ფილოსოფოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Philosopher97.description>
+  <Philosopher97.title>ფილოსოფოსი</Philosopher97.title>
+  <Philosopher97.titleShort>ბრძენი</Philosopher97.titleShort>
+  <Pirate56.description>[PAWN_nameDef] ადრე მეკობრე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Pirate56.description>
+  <Pirate56.title>მეკობრე</Pirate56.title>
+  <Pirate56.titleShort>მეკობრე</Pirate56.titleShort>
+  <PirateCaptain69.description>[PAWN_nameDef] მუშაობდა [PAWN_possessive] მეკობრეების გემის რიგებში და საბოლოოდ გახდა კაპიტანი. [PAWN_pronoun] მიჰყავს [PAWN_possessive] ეკიპაჟს სამყაროებს შორის, რაც დასამახსოვრებელ სახელს ქმნის.</PirateCaptain69.description>
+  <PirateCaptain69.title>მეკობრე კაპიტანი</PirateCaptain69.title>
+  <PirateCaptain69.titleShort>კაპიტანი</PirateCaptain69.titleShort>
+  <PirateDoctor0.description>[PAWN_nameDef] ადრე მეკობრე ექიმი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PirateDoctor0.description>
+  <PirateDoctor0.title>მეკობრე ექიმი</PirateDoctor0.title>
+  <PirateDoctor0.titleShort>ცუდი დოქტორი</PirateDoctor0.titleShort>
+  <PirateKing69.description>სხვა ადამიანებზე რეალური ზრუნვის გარეშე, [PAWN_nameDef] მშვენივრად ერგებოდა მეკობრეების ეკიპაჟს, რომელიც ოდესღაც [PAWN_objective] ტყვეობაში იყო. ეკიპაჟში შეერთებიდან მალევე, [PAWN_nameDef]-მა დაიწყო ვინმეს ან ყველაფრის მოკვლა, ვინც [PAWN_possessive] გზაზე მოხვდა, მათ შორის, [PAWN_possessive] ეკიპაჟის თანამოაზრეები.</PirateKing69.description>
+  <PirateKing69.title>მეკობრე მეფე</PirateKing69.title>
+  <PirateKing69.titleShort>მეკობრე</PirateKing69.titleShort>
+  <PirateSympathizer24.description>[PAWN_nameDef] ადრე მეკობრეების თანამგრძნობი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PirateSympathizer24.description>
+  <PirateSympathizer24.title>მეკობრეების თანამგრძნობი</PirateSympathizer24.title>
+  <PirateSympathizer24.titleShort>მეკობრე</PirateSympathizer24.titleShort>
+  <PirateTrooper73.description>[PAWN_nameDef] ადრე მეკობრე ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PirateTrooper73.description>
+  <PirateTrooper73.title>მეკობრე ჯარისკაცი</PirateTrooper73.title>
+  <PirateTrooper73.titleShort>ჯარისკაცი</PirateTrooper73.titleShort>
+  <PlagueDoctor31.description>[PAWN_nameDef] ადრე ჭირის ექიმი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PlagueDoctor31.description>
+  <PlagueDoctor31.title>ჭირის ექიმი</PlagueDoctor31.title>
+  <PlagueDoctor31.titleShort>ექიმი</PlagueDoctor31.titleShort>
+  <PlanetaryDiplomat7.description>[PAWN_nameDef]-ის გატაცება და პროფესია იყო პლანეტათაშორისი პოლიტიკა. [PAWN_pronoun] იყო სოციალური მანიპულაციისა და მოლაპარაკებების ოსტატი და მიუძღვნა [PAWN_objective] მუშაობას მშვიდობის, კომპრომისისა და ორმხრივი სარგებლისკენ.</PlanetaryDiplomat7.description>
+  <PlanetaryDiplomat7.title>პლანეტარული დიპლომატი</PlanetaryDiplomat7.title>
+  <PlanetaryDiplomat7.titleShort>დიპლომატი</PlanetaryDiplomat7.titleShort>
+  <PoisonGardener29.description>[PAWN_nameDef] ადრე შხამიანი მებაღე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PoisonGardener29.description>
+  <PoisonGardener29.title>შხამიანი მებაღე</PoisonGardener29.title>
+  <PoisonGardener29.titleShort>ბოტანიკოსი</PoisonGardener29.titleShort>
+  <PoliticalActivist20.description>[PAWN_nameDef] ადრე პოლიტიკური აქტივისტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PoliticalActivist20.description>
+  <PoliticalActivist20.title>პოლიტიკური აქტივისტი</PoliticalActivist20.title>
+  <PoliticalActivist20.titleShort>აქტივისტი</PoliticalActivist20.titleShort>
+  <PoliticalAssassin46.description>[PAWN_nameDef] ადრე პოლიტიკური მკვლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PoliticalAssassin46.description>
+  <PoliticalAssassin46.title>პოლიტიკური მკვლელი</PoliticalAssassin46.title>
+  <PoliticalAssassin46.titleShort>სიკვდილის ჯეკი</PoliticalAssassin46.titleShort>
+  <Politician57.description>[PAWN_nameDef] ადრე პოლიტიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Politician57.description>
+  <Politician57.title>პოლიტიკოსი</Politician57.title>
+  <Politician57.titleShort>პოლიტიკოსი</Politician57.titleShort>
+  <PopIdol59.description>[PAWN_nameDef] მუდმივად ატარებდა ინტერვიუებს. [PAWN_pronoun] დახვეწა [PAWN_possessive] უნარები ცეკვასა და სიმღერაში და გახდა სოციალური პრეზენტაციის ოსტატი.</PopIdol59.description>
+  <PopIdol59.title>პოპ კერპი</PopIdol59.title>
+  <PopIdol59.titleShort>პოპ კერპი</PopIdol59.titleShort>
+  <PopIdolPirate39.description>[PAWN_nameDef] ადრე პოპ კერპი მეკობრე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PopIdolPirate39.description>
+  <PopIdolPirate39.title>პოპ კერპი მეკობრე</PopIdolPirate39.title>
+  <PopIdolPirate39.titleShort>მეკობრე</PopIdolPirate39.titleShort>
+  <PrisonerOfWar2.description>[PAWN_nameDef] ადრე ომის ტყვე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</PrisonerOfWar2.description>
+  <PrisonerOfWar2.title>ომის ტყვე</PrisonerOfWar2.title>
+  <PrisonerOfWar2.titleShort>პატიმარი</PrisonerOfWar2.titleShort>
+  <PrivateDetective66.description>როგორც პირადი თვალი, მახვილი ჭკუა და ვერცხლისფერი ენა [PAWN_nameDef]-ის საუკეთესო იარაღები იყო. [PAWN_ნაცვალსახელი] ხშირად ატარებდა ღამეებს [PAWN_possessive] სამუშაო საქმეებზე, რომლებიც მერყეობდა საქმეების გამოვლენიდან და სავაჭრო საიდუმლოების შესწავლიდან მკვლელობის საქმეების მოგვარებამდე და კრიმინალურ ორგანიზაციებში შეღწევით. არ ყოფილა შემთხვევა, რომ [PAWN_pronoun] არ მიეღო სწორ ფასად.</PrivateDetective66.description>
+  <PrivateDetective66.title>კერძო დეტექტივი</PrivateDetective66.title>
+  <PrivateDetective66.titleShort>დეტექტივი</PrivateDetective66.titleShort>
+  <ProstheticSurgeon0.description>[PAWN_nameDef]-მა გამოიყენა [PAWN_possessive] ნიჭი პროთეზირებისთვის, რათა სხვები „წინასწარიყოს“ კიდურების და ორგანოების ლითონისა და ელექტრონიკის ჩანაცვლებით.</ProstheticSurgeon0.description>
+  <ProstheticSurgeon0.title>პროთეზი ქირურგი</ProstheticSurgeon0.title>
+  <ProstheticSurgeon0.titleShort>ქირურგი</ProstheticSurgeon0.titleShort>
+  <ProstituteIdol28.description>[PAWN_nameDef] ადრე მეძავი კერპი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ProstituteIdol28.description>
+  <ProstituteIdol28.title>მეძავი კერპი</ProstituteIdol28.title>
+  <ProstituteIdol28.titleShort>მეძავი</ProstituteIdol28.titleShort>
+  <RaiderKing38.description>დაწყებული როგორც სხვა არაფერი, თუ არა მონა, [PAWN_nameDef] სწრაფად ამაღლდა თავდამსხმელთა რიგებში, სანამ ყველამ არ იცოდა [PAWN_possessive] სახელი და [PAWN_possessive] დაუნდობლობა.</RaiderKing38.description>
+  <RaiderKing38.title>რაიდერ მეფე</RaiderKing38.title>
+  <RaiderKing38.titleShort>მეკობრე</RaiderKing38.titleShort>
+  <Ranger6.description>[PAWN_nameDef] ცხოვრობდა მარტო, ტყის სიღრმეში. [PAWN_pronoun] იცავდა ველურ ბუნებას ბრაკონიერებისგან და ისწავლა საკუთარი მატერიალური მოთხოვნილებების დაკმაყოფილება გარე დახმარების გარეშე.</Ranger6.description>
+  <Ranger6.title>რეინჯერი</Ranger6.title>
+  <Ranger6.titleShort>რეინჯერი</Ranger6.titleShort>
+  <RebelFighter39.description>[PAWN_nameDef] ადრე მეამბოხე მებრძოლი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</RebelFighter39.description>
+  <RebelFighter39.title>მეამბოხე მებრძოლი</RebelFighter39.title>
+  <RebelFighter39.titleShort>მეამბოხე</RebelFighter39.titleShort>
+  <ReligiousHierarch16.description>[PAWN_nameDef] ადრე რელიგიური იერარქი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ReligiousHierarch16.description>
+  <ReligiousHierarch16.title>რელიგიური იერარქი</ReligiousHierarch16.title>
+  <ReligiousHierarch16.titleShort>იერარქი</ReligiousHierarch16.titleShort>
+  <RenegadeEngineer43.description>[PAWN_nameDef] ადრე რენეგატი ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</RenegadeEngineer43.description>
+  <RenegadeEngineer43.title>რენეგატი ინჟინერი</RenegadeEngineer43.title>
+  <RenegadeEngineer43.titleShort>ინჟინერი</RenegadeEngineer43.titleShort>
+  <RenownedProfessor51.description>[PAWN_nameDef] ადრე ცნობილი პროფესორი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</RenownedProfessor51.description>
+  <RenownedProfessor51.title>ცნობილი პროფესორი</RenownedProfessor51.title>
+  <RenownedProfessor51.titleShort>პროფესორი</RenownedProfessor51.titleShort>
+  <Reporter71.description>[PAWN_nameDef] ადრე რეპორტიორი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Reporter71.description>
+  <Reporter71.title>რეპორტიორი</Reporter71.title>
+  <Reporter71.titleShort>რეპორტიორი</Reporter71.titleShort>
+  <ReptileResearcher37.description>[PAWN_nameDef] ადრე ქვეწარმავლების მკვლევარი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ReptileResearcher37.description>
+  <ReptileResearcher37.title>ქვეწარმავლების მკვლევარი</ReptileResearcher37.title>
+  <ReptileResearcher37.titleShort>მკვლევარი</ReptileResearcher37.titleShort>
+  <Restorer70.description>[PAWN_nameDef] იმოგზაურა მთელ მსოფლიოში, ყოველთვის ეძებდა ძველ და მივიწყებულ ნივთებს სხვების სასიკეთოდ შესაკეთებლად, მუშაობდა ყველაფერში ჭეშმარიტი სილამაზის დასანახად.</Restorer70.description>
+  <Restorer70.title>რესტავრატორი</Restorer70.title>
+  <Restorer70.titleShort>რესტავრატორი</Restorer70.titleShort>
+  <RimworldExile32.description>[PAWN_nameDef] ადრე Rimworld გადასახლება იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</RimworldExile32.description>
+  <RimworldExile32.title>Rimworld გადასახლება</RimworldExile32.title>
+  <RimworldExile32.titleShort>გადასახლება</RimworldExile32.titleShort>
+  <Roboticist1.description>[PAWN_nameDef] ადრე რობოტიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Roboticist1.description>
+  <Roboticist1.title>რობოტიკოსი</Roboticist1.title>
+  <Roboticist1.titleShort>რობოტიკოსი</Roboticist1.titleShort>
+  <Roboticist41.description>[PAWN_nameDef] ადრე რობოტიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Roboticist41.description>
+  <Roboticist41.title>რობოტიკოსი</Roboticist41.title>
+  <Roboticist41.titleShort>რობოტიკოსი</Roboticist41.titleShort>
+  <RocketEngineer53.description>[PAWN_nameDef]-მა მოიგო გრანტი უმაღლეს სკოლაში და მიიღო ხარისხი რაკეტის ინჟინერიაში. კოსმოსური მაღაროების კომპანიაში [PAWN_pronoun] რამდენიმე წლის მუშაობის შემდეგ გაემგზავრა სამოგზაუროდ და სამყაროს სანახავად.</RocketEngineer53.description>
+  <RocketEngineer53.title>რაკეტის ინჟინერი</RocketEngineer53.title>
+  <RocketEngineer53.titleShort>ინჟინერი</RocketEngineer53.titleShort>
+  <RocketPioneer19.description>[PAWN_nameDef] ადრე რაკეტის პიონერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</RocketPioneer19.description>
+  <RocketPioneer19.title>რაკეტის პიონერი</RocketPioneer19.title>
+  <RocketPioneer19.titleShort>რაკეტატორი</RocketPioneer19.titleShort>
+  <RugbyPlayer71.description>[PAWN_nameDef] ადრე მორაგბე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</RugbyPlayer71.description>
+  <RugbyPlayer71.title>მორაგბე</RugbyPlayer71.title>
+  <RugbyPlayer71.titleShort>გარემარბი</RugbyPlayer71.titleShort>
+  <RunawayDancer35.description>[PAWN_nameDef] ადრე გაქცეული მოცეკვავე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</RunawayDancer35.description>
+  <RunawayDancer35.title>გაქცეული მოცეკვავე</RunawayDancer35.title>
+  <RunawayDancer35.titleShort>მოცეკვავე</RunawayDancer35.titleShort>
+  <SanitationCaptain29.description>[PAWN_nameDef] ადრე სანიტარული კაპიტანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SanitationCaptain29.description>
+  <SanitationCaptain29.title>სანიტარული კაპიტანი</SanitationCaptain29.title>
+  <SanitationCaptain29.titleShort>დამლაგებელი</SanitationCaptain29.titleShort>
+  <SelflessHunter61.description>[PAWN_nameDef] ადრე უანგარო მონადირე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SelflessHunter61.description>
+  <SelflessHunter61.title>უანგარო მონადირე</SelflessHunter61.title>
+  <SelflessHunter61.titleShort>მონადირე</SelflessHunter61.titleShort>
+  <SerialMurderer47.description>[PAWN_nameDef] ადრე სერიული მკვლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SerialMurderer47.description>
+  <SerialMurderer47.title>სერიული მკვლელი</SerialMurderer47.title>
+  <SerialMurderer47.titleShort>მკვლელი</SerialMurderer47.titleShort>
+  <ShadowMarine63.description>[PAWN_nameDef] ადრე ჩრდილოვანი საზღვაო იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ShadowMarine63.description>
+  <ShadowMarine63.title>ჩრდილოვანი საზღვაო</ShadowMarine63.title>
+  <ShadowMarine63.titleShort>საზღვაო</ShadowMarine63.titleShort>
+  <ShamanOfShadows47.description>[PAWN_nameDef] ადრე ჩრდილების შამანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ShamanOfShadows47.description>
+  <ShamanOfShadows47.title>ჩრდილების შამანი</ShamanOfShadows47.title>
+  <ShamanOfShadows47.titleShort>შამანი</ShamanOfShadows47.titleShort>
+  <ShockTrooper15.description>[PAWN_nameDef] ადრე შოკი ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ShockTrooper15.description>
+  <ShockTrooper15.title>შოკი ჯარისკაცი</ShockTrooper15.title>
+  <ShockTrooper15.titleShort>შოკტროპი</ShockTrooper15.titleShort>
+  <SicklyLawyer49.description>[PAWN_nameDef] ადრე ავადმყოფი ადვოკატი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SicklyLawyer49.description>
+  <SicklyLawyer49.title>ავადმყოფი ადვოკატი</SicklyLawyer49.title>
+  <SicklyLawyer49.titleShort>ადვოკატი</SicklyLawyer49.titleShort>
+  <Sightseer70.description>[PAWN_nameDef] ადრე ღირსშესანიშნაობების დამთვალიერებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Sightseer70.description>
+  <Sightseer70.title>ღირსშესანიშნაობების დამთვალიერებელი</Sightseer70.title>
+  <Sightseer70.titleShort>ღირსშესანიშნაობების დამთვალიერებელი</Sightseer70.titleShort>
+  <SlaveChemist84.description>[PAWN_nameDef] გახდა ნიჭიერი ფარმაცევტული მეცნიერი, მაგრამ ტყვედ ჩავარდა მონებმა. [PAWN_pronoun] მიჰყიდეს მეომრს და აიძულეს შეექმნა წამლები სხვა მონებზე შესამოწმებლად. ამან [PAWN_objective] დატოვა ღრმა და შემაშფოთებელი კითხვები სამეცნიერო კვლევისა და მედიცინის ეთიკის შესახებ.</SlaveChemist84.description>
+  <SlaveChemist84.title>მონა ქიმიკოსი</SlaveChemist84.title>
+  <SlaveChemist84.titleShort>ქიმიკოსი</SlaveChemist84.titleShort>
+  <Smuggler23.description>[PAWN_nameDef] ადრე კონტრაბანდისტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Smuggler23.description>
+  <Smuggler23.title>კონტრაბანდისტი</Smuggler23.title>
+  <Smuggler23.titleShort>კონტრაბანდისტი</Smuggler23.titleShort>
+  <SoftwareDeveloper84.description>მას შემდეგ, რაც [PAWN_pronoun]-მა მოიპოვა ავტომატიზაციის გამოყენების უნარი დაღლილობის მოსაშორებლად, [PAWN_nameDef] ვეღარ მოითმენს ტრადიციულ განათლებას და დასაქმებას.</SoftwareDeveloper84.description>
+  <SoftwareDeveloper84.title>პროგრამული უზრუნველყოფის შემქმნელი</SoftwareDeveloper84.title>
+  <SoftwareDeveloper84.titleShort>დეველოპერი</SoftwareDeveloper84.titleShort>
+  <SoleSurvivor85.description>[PAWN_nameDef] ცხოვრობდა შორეულ კოლონიაში. როდესაც მექანოიდური ასტოფეხები თავს დაესხნენ [PAWN_possessive] სახლს და მოკლეს [PAWN_possessive] ადამიანები, [PAWN_pronoun] იყო უკანასკნელი გადარჩენილი.</SoleSurvivor85.description>
+  <SoleSurvivor85.title>ერთადერთი გადარჩენილი</SoleSurvivor85.title>
+  <SoleSurvivor85.titleShort>გადარჩენილი</SoleSurvivor85.titleShort>
+  <SpaceBartender0.description>[PAWN_nameDef] ადრე კოსმოსური ბარმენი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceBartender0.description>
+  <SpaceBartender0.title>კოსმოსური ბარმენი</SpaceBartender0.title>
+  <SpaceBartender0.titleShort>ბარმენი</SpaceBartender0.titleShort>
+  <SpaceExplorer53.description>[PAWN_nameDef] ადრე კოსმოსური მკვლევარი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceExplorer53.description>
+  <SpaceExplorer53.title>კოსმოსური მკვლევარი</SpaceExplorer53.title>
+  <SpaceExplorer53.titleShort>მკვლევარი</SpaceExplorer53.titleShort>
+  <SpaceHumanitarian9.description>მას შემდეგ, რაც დაინახა ჭარბი სიღარიბე, რომელიც გავრცელებულია გადატვირთულ ურბანულ სამყაროებში, [PAWN_nameDef]-მა გადაწყვიტა მიეძღვნა [PAWN_possessive] ცხოვრება ნაკლებად იღბლიანთა დასახმარებლად. ამ ჯვაროსნულმა ლაშქრობამ ასწავლა [PAWN_objective], თუ როგორ უნდა ეზრუნა ავადმყოფებზე და მშიერებზე.</SpaceHumanitarian9.description>
+  <SpaceHumanitarian9.title>კოსმოსური ჰუმანიტარული</SpaceHumanitarian9.title>
+  <SpaceHumanitarian9.titleShort>აქტივისტი</SpaceHumanitarian9.titleShort>
+  <SpaceHunter79.description>ახლა კაცი, ისევე როგორც გამოცდილი მონადირე და მსროლელი, [PAWN_nameDef] უფრო მეტისკენ სურდა. [PAWN_pronoun] დატოვა [PAWN_possessive] დაბადების სამყარო, იმოგზაურა დიდ სივრცეში ეგზოტიკური თამაშის საძიებლად.</SpaceHunter79.description>
+  <SpaceHunter79.title>კოსმოსური მონადირე</SpaceHunter79.title>
+  <SpaceHunter79.titleShort>მონადირე</SpaceHunter79.titleShort>
+  <SpaceMarine19.description>[PAWN_nameDef] შეუერთდა კოსმოსურ საზღვაო ქვეითთა ​​რაზმს, რომელიც ცნობილია მკვლელობის სასტიკი ეფექტურობით. [PAWN_possessive] გვარი და [PAWN_possessive] ემოციების ნაკლებობა ბრძოლის დროს შთაგონებული [PAWN_possessive] მეტსახელი.</SpaceMarine19.description>
+  <SpaceMarine19.title>კოსმოსური საზღვაო</SpaceMarine19.title>
+  <SpaceMarine19.titleShort>საზღვაო</SpaceMarine19.titleShort>
+  <SpaceMarine5.description>[PAWN_nameDef] ადრე კოსმოსური საზღვაო იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceMarine5.description>
+  <SpaceMarine5.title>კოსმოსური საზღვაო</SpaceMarine5.title>
+  <SpaceMarine5.titleShort>საზღვაო</SpaceMarine5.titleShort>
+  <SpaceMarine51.description>[PAWN_nameDef] დაკომპლექტდა პლანეტაგარე კორპორაციის უსაფრთხოების ძალებში. [PAWN_pronoun] იცავდა გემებს მეკობრეებისგან და მონაწილეობდა კერძო კოსმოსური ომის კონტრაქტებში.</SpaceMarine51.description>
+  <SpaceMarine51.title>კოსმოსური საზღვაო</SpaceMarine51.title>
+  <SpaceMarine51.titleShort>საზღვაო</SpaceMarine51.titleShort>
+  <SpaceMarine9.description>[PAWN_nameDef] ადრე კოსმოსური საზღვაო იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceMarine9.description>
+  <SpaceMarine9.title>კოსმოსური საზღვაო</SpaceMarine9.title>
+  <SpaceMarine9.titleShort>საზღვაო</SpaceMarine9.titleShort>
+  <SpaceMarine94.description>[PAWN_nameDef] ადრე კოსმოსური საზღვაო იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceMarine94.description>
+  <SpaceMarine94.title>კოსმოსური საზღვაო</SpaceMarine94.title>
+  <SpaceMarine94.titleShort>საზღვაო</SpaceMarine94.titleShort>
+  <SpaceMarineMedic10.description>[PAWN_nameDef] ადრე კოსმოსური საზღვაო მედიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceMarineMedic10.description>
+  <SpaceMarineMedic10.title>კოსმოსური საზღვაო მედიკოსი</SpaceMarineMedic10.title>
+  <SpaceMarineMedic10.titleShort>მედიკოსი</SpaceMarineMedic10.titleShort>
+  <SpaceMerchant97.description>როგორც თავისუფალი ინტერპლანეტარული ცხოვრების წესის ნაწილი, [PAWN_nameDef] ცდილობდა დაეუფლა [PAWN_possessive] რომანტიკულ ინტერესებს ისევე, როგორც [PAWN_possessive] ბიზნეს მოწინააღმდეგეებზე. როდესაც [PAWN_pronoun]-ს არ ჰყავდა [PAWN_possessive] საკუთარი გემი საფრენად, [PAWN_pronoun] მუშაობდა ჩარტერულ გემებზე დაქირავებით.</SpaceMerchant97.description>
+  <SpaceMerchant97.title>კოსმოსური ვაჭარი</SpaceMerchant97.title>
+  <SpaceMerchant97.titleShort>ვაჭარი</SpaceMerchant97.titleShort>
+  <SpaceNavyDoctor72.description>[PAWN_nameDef] ემსახურებოდა რამდენიმე ტურს, როგორც ექიმი იმ რამდენიმე ხომალდზე, რომელიც იცავდა [PAWN_possessive] საშინაო სამყაროს. [PAWN_pronoun] ისწავლა საბრძოლო უნარები მეკობრეების დროდადრო პანსიონატებთან ბრძოლისას და გახდა ექსპერტი საბრძოლო ჭრილობების შემზარავი ჭრილობების სამკურნალოდ.</SpaceNavyDoctor72.description>
+  <SpaceNavyDoctor72.title>კოსმოსური ფლოტის ექიმი</SpaceNavyDoctor72.title>
+  <SpaceNavyDoctor72.titleShort>ექიმი</SpaceNavyDoctor72.titleShort>
+  <SpaceNavyTech37.description>[PAWN_nameDef] ადრე კოსმოსური საზღვაო ტექნიკა იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceNavyTech37.description>
+  <SpaceNavyTech37.title>კოსმოსური საზღვაო ტექნიკა</SpaceNavyTech37.title>
+  <SpaceNavyTech37.titleShort>საზღვაო ტექნიკა</SpaceNavyTech37.titleShort>
+  <SpaceRaider71.description>[PAWN_nameDef] იყო კოსმოსური მეკობრეების ეკიპაჟის ლიდერი. საზღვრულ სამყაროებს შორის გადახტომით, [PAWN_pronoun] გახდა მრავალი დასახლების საშინელი მტერი.</SpaceRaider71.description>
+  <SpaceRaider71.title>კოსმოსური თავდამსხმელი</SpaceRaider71.title>
+  <SpaceRaider71.titleShort>მეკობრე</SpaceRaider71.titleShort>
+  <SpaceResearcher25.description>[PAWN_nameDef] ადრე კოსმოსის მკვლევარი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceResearcher25.description>
+  <SpaceResearcher25.title>კოსმოსის მკვლევარი</SpaceResearcher25.title>
+  <SpaceResearcher25.titleShort>მკვლევარი</SpaceResearcher25.titleShort>
+  <SpaceshipChef41.description>[PAWN_nameDef]-მა მიიღო ადგილი გემზე, როდესაც გახდა გემის მზარეული. [PAWN_pronoun] სიამოვნებით ამზადებდა და ეხმარებოდა ექიმს ჭრილობების გაწმენდაში, მაგრამ [PAWN_pronoun] არასოდეს მიეჩვია ჭურჭლის წმენდას.</SpaceshipChef41.description>
+  <SpaceshipChef41.title>კოსმოსური ხომალდის შეფ</SpaceshipChef41.title>
+  <SpaceshipChef41.titleShort>შეფ-მზარეული</SpaceshipChef41.titleShort>
+  <SpaceshipSalesman34.description>[PAWN_nameDef] სცადა [PAWN_possessive] ხელი სხვადასხვა სამუშაოში, მათ შორის კოსმოსური კურდღლის გალიების აშენება და მუტანტის ხორბლის კვლევის პროექტში მუშაობა. საბოლოოდ, [PAWN_pronoun]-მა იპოვა [PAWN_possessive] ჭეშმარიტი მოწოდება, როგორც კოსმოსური ხომალდის გამყიდველი. რეკრეაციული კოსმოსური ხომალდების სპეციალობით, [PAWN_possessive] გლუვი საუბარი და მომხიბვლელი ბუნება კარგად ემსახურებოდა [PAWN_objective]-ს.</SpaceshipSalesman34.description>
+  <SpaceshipSalesman34.title>კოსმოსური ხომალდის გამყიდველი</SpaceshipSalesman34.title>
+  <SpaceshipSalesman34.titleShort>გამყიდველი</SpaceshipSalesman34.titleShort>
+  <SpaceStationCook63.description>კოსმოსური სადგური [PAWN_nameDef] საიდანაც მოვიდა, შორს იყო დასახლებული პლანეტებისგან და თავისთავად არასაკმარისი იყო პერსონალით. ამ მიზეზით, [PAWN_nameDef] იძულებული გახდა ესწავლა საჭმლის მომზადება, რათა ეკიპაჟის სიცოცხლე შეენარჩუნებინა. მიუხედავად იმისა, რომ [PAWN_pronoun] აფასებდა სწავლის ამ შესაძლებლობას, [PAWN_pronoun] არ აფასებდა კრიტიკას, რომელიც მას მოჰყვა და მას შემდეგ ჰქონდა თვითშეფასების პრობლემები.</SpaceStationCook63.description>
+  <SpaceStationCook63.title>კოსმოსური სადგურის მზარეული</SpaceStationCook63.title>
+  <SpaceStationCook63.titleShort>მზარეული</SpaceStationCook63.titleShort>
+  <SpaceTechnician29.description>[PAWN_nameDef]-მა საბოლოოდ მოახერხა [PAWN_possessive] კრიმინალური ცხოვრებიდან გაქცევა ახლომდებარე კოსმოსურ სადგურზე ტექნიკური სამუშაოს ჩატარებით. [PAWN_pronoun]-მა შეასრულა მრავალი სარემონტო და სამშენებლო ოპერაცია. [PAWN_pronoun] ასევე გამოიყენებოდა საბაზისო კვლევით აქტივობებში მონაწილეობისთვის და ხშირად ამშვიდებდა თანამშრომლების არგუმენტებს. [PAWN_pronoun] არასოდეს მოსწონდა ხელოვნების კეთება.</SpaceTechnician29.description>
+  <SpaceTechnician29.title>კოსმოსური ტექნიკოსი</SpaceTechnician29.title>
+  <SpaceTechnician29.titleShort>ტექნიკოსი</SpaceTechnician29.titleShort>
+  <SpaceTrafficker68.description>[PAWN_nameDef] ადრე კოსმოსური მოვაჭრე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpaceTrafficker68.description>
+  <SpaceTrafficker68.title>კოსმოსური მოვაჭრე</SpaceTrafficker68.title>
+  <SpaceTrafficker68.titleShort>ტრეფიკერი</SpaceTrafficker68.titleShort>
+  <SpecialForces13.description>[PAWN_nameDef] ადრე სპეცრაზმი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SpecialForces13.description>
+  <SpecialForces13.title>სპეცრაზმი</SpecialForces13.title>
+  <SpecialForces13.titleShort>სპეციალისტი</SpecialForces13.titleShort>
+  <Spiceminer81.description>[PAWN_nameDef] ადრე სპაის-მაღაროელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Spiceminer81.description>
+  <Spiceminer81.title>სპაის-მაღაროელი</Spiceminer81.title>
+  <Spiceminer81.titleShort>სპაის-მაღაროელი</Spiceminer81.titleShort>
+  <Spy58.description>[PAWN_nameDef] გაწვრთნილი იყო [PAWN_possessive] მთავრობის მიერ ინფილტრაციასა და ჯაშუშობაში. [PAWN_pronoun] ისწავლა თავშეკავება და ლაპარაკი [PAWN_possessive] მძიმე სიტუაციებიდან გამოსავალზე. როდესაც ლაპარაკი არ მუშაობდა, [PAWN_pronoun] შეეძლო უფრო ძალადობრივი პირდაპირი ქმედება.</Spy58.description>
+  <Spy58.title>ჯაშუში</Spy58.title>
+  <Spy58.titleShort>ჯაშუში</Spy58.titleShort>
+  <StalwartFarmer21.description>ფერმა ყაჩაღების მუდმივი საფრთხის ქვეშ, [PAWN_nameDef] ისწავლა [PAWN_objective] თავის დაცვა [PAWN_possessive] მამის სანადირო თოფით. [PAWN_pronoun] ასევე დაეუფლა ღობეების აგებას პირუტყვის შესანარჩუნებლად და ადგილობრივი ველური ბუნების გარეთ. [PAWN_nameDef] ცდილობდა დაეხატა [PAWN_possessive] სახლის სურათი და შეიტყო, რომ [PAWN_pronoun]-ს შეუძლია მხოლოდ ჩანაწერების და იხვების დახატვა.</StalwartFarmer21.description>
+  <StalwartFarmer21.title>მტკიცე ფერმერი</StalwartFarmer21.title>
+  <StalwartFarmer21.titleShort>ფერმერი</StalwartFarmer21.titleShort>
+  <StalwartFarmer90.description>[PAWN_nameDef] ადრე მტკიცე ფერმერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</StalwartFarmer90.description>
+  <StalwartFarmer90.title>მტკიცე ფერმერი</StalwartFarmer90.title>
+  <StalwartFarmer90.titleShort>ფერმერი</StalwartFarmer90.titleShort>
+  <StarfighterPilot79.description>[PAWN_nameDef] ადრე starfighter-ის პილოტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</StarfighterPilot79.description>
+  <StarfighterPilot79.title>starfighter-ის პილოტი</StarfighterPilot79.title>
+  <StarfighterPilot79.titleShort>პილოტი</StarfighterPilot79.titleShort>
+  <StarKnight5.description>[PAWN_nameDef] ადრე ვარსკვლავი რაინდი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</StarKnight5.description>
+  <StarKnight5.title>ვარსკვლავი რაინდი</StarKnight5.title>
+  <StarKnight5.titleShort>რაინდი</StarKnight5.titleShort>
+  <StarshipDoctor37.description>[PAWN_nameDef] ექიმი იყო ვარსკვლავურ ხომალდზე. [PAWN_pronoun] იყო ბრწყინვალე ქირურგი და ჩართული იყო საკუთარი [PAWN_possessive] კვლევაში. თუმცა, [PAWN_pronoun] საკმაოდ თავშეკავებული იყო და არასდროს ჰქონია საწოლის საუკეთესო მანერა.</StarshipDoctor37.description>
+  <StarshipDoctor37.title>ვარსკვლავური ხომალდის ექიმი</StarshipDoctor37.title>
+  <StarshipDoctor37.titleShort>ექიმი</StarshipDoctor37.titleShort>
+  <StateEngineer60.description>[PAWN_nameDef] ადრე სახელმწიფო ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</StateEngineer60.description>
+  <StateEngineer60.title>სახელმწიფო ინჟინერი</StateEngineer60.title>
+  <StateEngineer60.titleShort>ინჟინერი</StateEngineer60.titleShort>
+  <StationSecurity38.description>[PAWN_nameDef] ადრე სადგურის დაცვა იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</StationSecurity38.description>
+  <StationSecurity38.title>სადგურის დაცვა</StationSecurity38.title>
+  <StationSecurity38.titleShort>უსაფრთხოება</StationSecurity38.titleShort>
+  <StellarPirate10.description>[PAWN_nameDef] ადრე ვარსკვლავური მეკობრე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</StellarPirate10.description>
+  <StellarPirate10.title>ვარსკვლავური მეკობრე</StellarPirate10.title>
+  <StellarPirate10.titleShort>მეკობრე</StellarPirate10.titleShort>
+  <StilettoAssassin34.description>[PAWN_nameDef] ადრე სტილეტოს მკვლელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</StilettoAssassin34.description>
+  <StilettoAssassin34.title>სტილეტოს მკვლელი</StilettoAssassin34.title>
+  <StilettoAssassin34.titleShort>მკვლელი</StilettoAssassin34.titleShort>
+  <Storyteller63.description>[PAWN_nameDef] ადრე მთხრობელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Storyteller63.description>
+  <Storyteller63.title>მთხრობელი</Storyteller63.title>
+  <Storyteller63.titleShort>ფაბულისტი</Storyteller63.titleShort>
+  <Streamer52.description>[PAWN_nameDef] ადრე სტრიმერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Streamer52.description>
+  <Streamer52.title>სტრიმერი</Streamer52.title>
+  <Streamer52.titleShort>სტრიმერი</Streamer52.titleShort>
+  <SuperSoldier95.description>[PAWN_nameDef] ადრე სუპერ ჯარისკაცი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SuperSoldier95.description>
+  <SuperSoldier95.title>სუპერ ჯარისკაცი</SuperSoldier95.title>
+  <SuperSoldier95.titleShort>ჯარისკაცი</SuperSoldier95.titleShort>
+  <SystemLord77.description>[PAWN_nameDef]-ისთვის ქვეყნის, ან თუნდაც პლანეტის მართვა არ იყო საკმარისად კარგი. [PAWN_pronoun] ცდილობდა გაეფართოებინა [PAWN_possessive] გავლენა სისტემაზე - ლეგალური ან არალეგალური საშუალებებით.</SystemLord77.description>
+  <SystemLord77.title>სისტემის მბრძანებელი</SystemLord77.title>
+  <SystemLord77.titleShort>უფალო</SystemLord77.titleShort>
+  <SystemsEngineer1.description>[PAWN_nameDef] ადრე სისტემების ინჟინერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</SystemsEngineer1.description>
+  <SystemsEngineer1.title>სისტემების ინჟინერი</SystemsEngineer1.title>
+  <SystemsEngineer1.titleShort>ინჟინერი</SystemsEngineer1.titleShort>
+  <Technician9.description>როგორც IT ტექნიკოსს, [PAWN_nameDef]-ს აღარ ჰქონდა ბევრი დრო კოდის დასაწერად. [PAWN_pronoun] გამოიძახეს მუდმივად იმუშაოს კრიპტოძილის კამერისა და ხელოვნური ინტელექტის დამაჯერებლობის სისტემებში ჩავარდნების გამოსასწორებლად.</Technician9.description>
+  <Technician9.title>ტექნიკოსი</Technician9.title>
+  <Technician9.titleShort>ტექნიკური</Technician9.titleShort>
+  <TechnologyDoctor35.description>[PAWN_nameDef] ფერმერი იყო [PAWN_possessive] შუა სამყაროში და [PAWN_possessive] თავისუფალ დროს ატარებდა იარაღთან ვარჯიშში. [PAWN_pronoun]-მა იცოდა, თუ რამდენად მნიშვნელოვანი იქნებოდა მეურნეობისა და სროლის უნარები რთულ დროს და გაწვრთნილი იყო ადგილობრივ მილიციაში მსახურებისთვის.</TechnologyDoctor35.description>
+  <TechnologyDoctor35.title>ჯარისკაცი-ფერმერი</TechnologyDoctor35.title>
+  <TechnologyDoctor35.titleShort>ჯარისკაცი</TechnologyDoctor35.titleShort>
+  <TestSubject39.description>[PAWN_nameDef] ჩაირიცხა სამეცნიერო კვლევაში, რომელმაც პირობა დადო, რომ მას შეუძლია [PAWN_objective] უფრო ჭკვიანი გახადოს. სამწუხაროდ, გვერდითი მოვლენები ძალიან განსხვავებული იყო, ვიდრე [PAWN_pronoun] მოსალოდნელი იყო. [PAWN_pronoun] გაგიჟდა და რამდენიმე ადამიანი მოკლა გაქცევამდე.</TestSubject39.description>
+  <TestSubject39.title>ტესტის საგანი</TestSubject39.title>
+  <TestSubject39.titleShort>საგანი</TestSubject39.titleShort>
+  <TestSubject90.description>[PAWN_nameDef] თინეიჯერობისას გატაცებული იყო ექსპერიმენტული გენური თერაპიის უნებლიე საცდელი სუბიექტი. ლაბორატორიები და მეცნიერები აშინებენ [PAWN_objective].</TestSubject90.description>
+  <TestSubject90.title>ტესტის საგანი</TestSubject90.title>
+  <TestSubject90.titleShort>ექსპერიმენტი</TestSubject90.titleShort>
+  <TestSubject92.description>[PAWN_nameDef] ადრე ტესტის საგანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</TestSubject92.description>
+  <TestSubject92.title>ტესტის საგანი</TestSubject92.title>
+  <TestSubject92.titleShort>საგანი</TestSubject92.titleShort>
+  <TheaterTechnician80.description>[PAWN_nameDef] ადრე თეატრის ტექნიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</TheaterTechnician80.description>
+  <TheaterTechnician80.title>თეატრის ტექნიკოსი</TheaterTechnician80.title>
+  <TheaterTechnician80.titleShort>ტექნიკოსი</TheaterTechnician80.titleShort>
+  <Tinkerer86.description>[PAWN_nameDef] ადრე მეჭეჭა იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</Tinkerer86.description>
+  <Tinkerer86.title>მეჭეჭა</Tinkerer86.title>
+  <Tinkerer86.titleShort>მეჭეჭა</Tinkerer86.titleShort>
+  <ToasterRepairman22.description>[PAWN_nameDef] ადრე ტოსტერის შემკეთებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ToasterRepairman22.description>
+  <ToasterRepairman22.title>ტოსტერის შემკეთებელი</ToasterRepairman22.title>
+  <ToasterRepairman22.titleShort>შემკეთებელი</ToasterRepairman22.titleShort>
+  <ToolMechanic77.description>[PAWN_nameDef] ადრე ხელსაწყოების მექანიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</ToolMechanic77.description>
+  <ToolMechanic77.title>ხელსაწყოების მექანიკოსი</ToolMechanic77.title>
+  <ToolMechanic77.titleShort>მექანიკოსი</ToolMechanic77.titleShort>
+  <TournamentFighter28.description>[PAWN_nameDef] ადრე ტურნირის მებრძოლი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</TournamentFighter28.description>
+  <TournamentFighter28.title>ტურნირის მებრძოლი</TournamentFighter28.title>
+  <TournamentFighter28.titleShort>მებრძოლი</TournamentFighter28.titleShort>
+  <TravelingBard93.description>[PAWN_nameDef] ადრე მოგზაური ბარდი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</TravelingBard93.description>
+  <TravelingBard93.title>მოგზაური ბარდი</TravelingBard93.title>
+  <TravelingBard93.titleShort>მუსიკოსი</TravelingBard93.titleShort>
+  <TreasureHunter82.description>[PAWN_nameDef] ადრე საგანძურის მონადირე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</TreasureHunter82.description>
+  <TreasureHunter82.title>საგანძურის მონადირე</TreasureHunter82.title>
+  <TreasureHunter82.titleShort>ავანტიურისტი</TreasureHunter82.titleShort>
+  <Undertaker93.description>[PAWN_nameDef] ტრიალებდა და სთავაზობდა დახმარებას მწუხარებაში მათ, ვისაც ბოლო ზარალი ჰქონდა. მიუხედავად იმისა, რომ [PAWN_pronoun] არასოდეს ერიდებოდა ფიზიკურ დაპირისპირებას, [PAWN_pronoun] ურჩევნია რთულ სიტუაციებს მშვიდი სიტყვით დაუპირისპირდეს.</Undertaker93.description>
+  <Undertaker93.title>მესაფლავე</Undertaker93.title>
+  <Undertaker93.titleShort>მესაფლავე</Undertaker93.titleShort>
+  <UnethicalDoctor29.description>[PAWN_nameDef] ადრე არაეთიკური ექიმი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</UnethicalDoctor29.description>
+  <UnethicalDoctor29.title>არაეთიკური ექიმი</UnethicalDoctor29.title>
+  <UnethicalDoctor29.titleShort>ექიმი</UnethicalDoctor29.titleShort>
+  <UnstableButcher31.description>[PAWN_nameDef]-მა დაიწყო ხმების მოსმენა. ცხოველები ესაუბრებოდნენ [PAWN_objective]-ს და შეურაცხყოფას აყენებდნენ მას. [PAWN_pronoun] შეძულდა მათ და საბოლოოდ მოკლა [PAWN_possessive] ბეწვიანი ყოფილი მეგობრები. [PAWN_pronoun]-მა დაიწყო ხორცის გაყიდვა მხოლოდ ადამიანური ურთიერთობის მისაღებად.</UnstableButcher31.description>
+  <UnstableButcher31.title>არასტაბილური ჯალათი</UnstableButcher31.title>
+  <UnstableButcher31.titleShort>ჯალათი</UnstableButcher31.titleShort>
+  <UprightDiplomat49.description>[PAWN_nameDef] ადრე მართალი დიპლომატი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</UprightDiplomat49.description>
+  <UprightDiplomat49.title>მართალი დიპლომატი</UprightDiplomat49.title>
+  <UprightDiplomat49.titleShort>დიპლომატი</UprightDiplomat49.titleShort>
+  <UrbworldEnforcer11.description>[PAWN_nameDef] ადრე urbworld აღმასრულებელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</UrbworldEnforcer11.description>
+  <UrbworldEnforcer11.title>urbworld აღმასრულებელი</UrbworldEnforcer11.title>
+  <UrbworldEnforcer11.titleShort>აღმასრულებელი</UrbworldEnforcer11.titleShort>
+  <UrbworldPimp93.description>[PAWN_nameDef] ადრე Urbworld სუტენიორი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</UrbworldPimp93.description>
+  <UrbworldPimp93.title>Urbworld სუტენიორი</UrbworldPimp93.title>
+  <UrbworldPimp93.titleShort>სუტენიორი</UrbworldPimp93.titleShort>
+  <UrbworldPolitican92.description>[PAWN_nameDef] ადრე Urbworld პოლიტიკოსი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</UrbworldPolitican92.description>
+  <UrbworldPolitican92.title>Urbworld პოლიტიკოსი</UrbworldPolitican92.title>
+  <UrbworldPolitican92.titleShort>პოლიტიკოსი</UrbworldPolitican92.titleShort>
+  <UrbworldSergeant50.description>[PAWN_nameDef] ადრე Urbworld სერჟანტი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</UrbworldSergeant50.description>
+  <UrbworldSergeant50.title>Urbworld სერჟანტი</UrbworldSergeant50.title>
+  <UrbworldSergeant50.titleShort>სერჟანტი</UrbworldSergeant50.titleShort>
+  <UrbworldSexSlave25.description>[PAWN_nameDef] გაიყიდა სექსუალურ მონობაში. შექმნილია ისე, რომ იყოს არაადამიანურად მიმზიდველი და ზედმეტად სუსტი, რათა აჯანყდეს [PAWN_possessive] ოსტატების წინააღმდეგ, [PAWN_pronoun] გადავიდა ათობით მფლობელს შორის და არაფერი იცოდა თავისუფლების შესახებ.</UrbworldSexSlave25.description>
+  <UrbworldSexSlave25.title>ურბსამყაროს სექსის მონა</UrbworldSexSlave25.title>
+  <UrbworldSexSlave25.titleShort>სექსის მონა</UrbworldSexSlave25.titleShort>
+  <Vagabond73.description>[PAWN_nameDef]-მა გაიღვიძა საშიშ პლანეტაზე რესურსების გარეშე და მცირე გადარჩენის უნარებით. [PAWN_pronoun] გადახტა ბანაკებს შორის, აკეთებდა ყველაფერს, რაც საჭირო იყო, მხოლოდ იმისთვის, რომ კიდევ ერთხელ ენახა მზე ამოსული.</Vagabond73.description>
+  <Vagabond73.title>მაწანწალა</Vagabond73.title>
+  <Vagabond73.titleShort>მაწანწალა</Vagabond73.titleShort>
+  <VengefulExplorer54.description>[PAWN_nameDef] ადრე შურისმაძიებელი მკვლევარი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</VengefulExplorer54.description>
+  <VengefulExplorer54.title>შურისმაძიებელი მკვლევარი</VengefulExplorer54.title>
+  <VengefulExplorer54.titleShort>მკვლევარი</VengefulExplorer54.titleShort>
+  <VengefulNomad67.description>[PAWN_nameDef] ადრე შურისმაძიებელი მომთაბარე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</VengefulNomad67.description>
+  <VengefulNomad67.title>შურისმაძიებელი მომთაბარე</VengefulNomad67.title>
+  <VengefulNomad67.titleShort>მომთაბარე</VengefulNomad67.titleShort>
+  <VersatileWorker13.description>[PAWN_nameDef] ადრე მრავალმხრივი მუშაკი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</VersatileWorker13.description>
+  <VersatileWorker13.title>მრავალმხრივი მუშაკი</VersatileWorker13.title>
+  <VersatileWorker13.titleShort>მუშაკი</VersatileWorker13.titleShort>
+  <VideoProducer83.description>[PAWN_nameDef] ადრე ვიდეო პროდიუსერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</VideoProducer83.description>
+  <VideoProducer83.title>ვიდეო პროდიუსერი</VideoProducer83.title>
+  <VideoProducer83.titleShort>პროდიუსერი</VideoProducer83.titleShort>
+  <Villain89.description>[PAWN_possessive] კრიმინალური ჯგუფის მწვერვალზე ასვლის შემდეგ, [PAWN_nameDef] ასწავლეს ბოროტმოქმედების ხელოვნება, ცეცხლსასროლი იარაღის ტარებიდან დაწყებული იარაღის ახალი ტექნოლოგიების შემუშავებამდე. [PAWN_ნაცვალსახელი] გამოირჩეოდა სხვების [PAWN_მფლობელობით] ნებისკენ მოქცევაში.</Villain89.description>
+  <Villain89.title>ბოროტმოქმედი</Villain89.title>
+  <Villain89.titleShort>ბოროტმოქმედი</Villain89.titleShort>
+  <VinhoKing98.description>[PAWN_nameDef] ადრე ვინჰოს მეფე იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</VinhoKing98.description>
+  <VinhoKing98.title>ვინჰოს მეფე</VinhoKing98.title>
+  <VinhoKing98.titleShort>ალკოჰოლური სასმელების მეფე</VinhoKing98.titleShort>
+  <VoidRaider74.description>თავგადასავლისა და დიდების მსურველი, [PAWN_nameDef] გაემართა სიცარიელის გასწვრივ, რაიდერ ჯგუფთან ერთად, [PAWN_possessive] ერთგულებას შეჰფიცა [PAWN_possessive] ჯგუფსა და ძმებს და გაავრცელა მათი დიდება ვარსკვლავებში [PAWN_possessive] პირითა და პისტოლეტით ხელში.</VoidRaider74.description>
+  <VoidRaider74.title>ვოიდ-მარბიელი</VoidRaider74.title>
+  <VoidRaider74.titleShort>მეკობრე</VoidRaider74.titleShort>
+  <VoidspaceRaider94.description>[PAWN_nameDef] ადრე ვოიდსივრცის მარბიელი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</VoidspaceRaider94.description>
+  <VoidspaceRaider94.title>ვოიდსივრცის მარბიელი</VoidspaceRaider94.title>
+  <VoidspaceRaider94.titleShort>მეკობრე</VoidspaceRaider94.titleShort>
+  <WanderingCrafter42.description>[PAWN_nameDef] აგრძელებდა [PAWN_possessive] მშობლების მომთაბარე გზებს, მხარს უჭერდა [PAWN_objective] საკუთარ თავს [PAWN_possessive] ხელოსნობის უნარებით. მაგრამ ხეტიალი რთული ცხოვრებაა და [PAWN_pronoun] ხშირად ფიქრობდა ადგილის პოვნაზე დასამკვიდრებლად და [PAWN_possessive] უნარების კარგად გამოყენებაზე.</WanderingCrafter42.description>
+  <WanderingCrafter42.title>მოხეტიალე ხელოსანი</WanderingCrafter42.title>
+  <WanderingCrafter42.titleShort>ხელოსანი</WanderingCrafter42.titleShort>
+  <WanderingHealer52.description>[PAWN_nameDef] ადრე მოხეტიალე მკურნალი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</WanderingHealer52.description>
+  <WanderingHealer52.title>მოხეტიალე მკურნალი</WanderingHealer52.title>
+  <WanderingHealer52.titleShort>მკურნალი</WanderingHealer52.titleShort>
+  <WarChief97.description>[PAWN_nameDef] იყო ტომის ბანდის ლიდერი რგოლში. [PAWN_objective]-სთვის ბრძოლის ველი არის თამაში და არაფერია იმაზე მხიარული, ვიდრე ომის ცეცხლი.</WarChief97.description>
+  <WarChief97.title>ომის მეთაური</WarChief97.title>
+  <WarChief97.titleShort>უფროსი</WarChief97.titleShort>
+  <Warlordess56.description>[PAWN_nameDef] იყო მეკობრე ჯგუფის მკაცრი ლიდერი. [PAWN_pronoun] მიიღებს ნებისმიერ გამოწვევას, რაც არ უნდა იყოს ძალადობრივი ან საშიში. სხვებმა [PAWN_objective] მკვლელობის მანქანას უწოდეს.</Warlordess56.description>
+  <Warlordess56.title>მეომარი</Warlordess56.title>
+  <Warlordess56.titleShort>მეომარი</Warlordess56.titleShort>
+  <Warrior73.description>[PAWN_nameDef] იყო ომის გმირი [PAWN_possessive] პლანეტის მესამე მსოფლიო ომის დროს. [PAWN_pronoun] დაეხმარა ბირთვული იარაღის გაშვების თავიდან აცილებას განსაკუთრებით დაძაბული დაპირისპირების დროს.</Warrior73.description>
+  <Warrior73.title>მეომარი</Warrior73.title>
+  <Warrior73.titleShort>მეომარი</Warrior73.titleShort>
+  <WarshipCaptain67.description>[PAWN_nameDef] ადრე ხომალდის კაპიტანი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</WarshipCaptain67.description>
+  <WarshipCaptain67.title>ხომალდის კაპიტანი</WarshipCaptain67.title>
+  <WarshipCaptain67.titleShort>კაპიტანი</WarshipCaptain67.titleShort>
+  <WhiteHatHacker82.description>[PAWN_possessive] კომპიუტერიდან, [PAWN_nameDef] დაეხმარა ონლაინ სამყაროს ცუდი ადამიანებისგან განთავისუფლებას.</WhiteHatHacker82.description>
+  <WhiteHatHacker82.title>თეთრქუდის ჰაკერი</WhiteHatHacker82.title>
+  <WhiteHatHacker82.titleShort>ჰაკერი</WhiteHatHacker82.titleShort>
+  <WildlifeRanger99.description>[PAWN_nameDef] ადრე ველური ბუნების რეინჯერი იყო. ამ გზამ [PAWN_objective] მისცა გამოცდილება, ჩვევები და ხედვა, რომლებიც დღემდე თან დაჰყვება.\n\nეს წარსული [PAWN_possessive] უნარებსა და ხასიათზე დღემდე აისახება.</WildlifeRanger99.description>
+  <WildlifeRanger99.title>ველური ბუნების რეინჯერი</WildlifeRanger99.title>
+  <WildlifeRanger99.titleShort>რეინჯერი</WildlifeRanger99.titleShort>
+</LanguageData>

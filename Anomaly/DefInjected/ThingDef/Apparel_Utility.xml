@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_BiomutationLance.description>A limited-use psychic effector. It twists and reshapes the musculature of the target, causing them to transform into a terrifying creature.\n\nThis biomutation lance was crafted from a broken shard of dark archotechnology.</Apparel_BiomutationLance.description>
+  <Apparel_BiomutationLance.label>ბიომუტაციის შუბი</Apparel_BiomutationLance.label>
+  <Apparel_ShardPsychicInsanityLance.description>A limited-use psychic effector. It overwhelms the target's mind with terrifying perceptual distortions, driving them into a berserk state. There is a risk of brain damage.\n\nThis insanity lance was crafted from a broken shard of dark archotechnology. It has a shorter range than its non-shard based counterpart and it requires line of sight.</Apparel_ShardPsychicInsanityLance.description>
+  <Apparel_ShardPsychicInsanityLance.label>ნატეხი სიგიჟის შუბი</Apparel_ShardPsychicInsanityLance.label>
+  <Apparel_ShardPsychicShockLance.description>A limited-use psychic effector. It shocks the target's mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. There is a risk of brain damage.\n\nThis shock lance was crafted from a broken shard of dark archotechnology. It has a shorter range than its non-shard based counterpart and it requires line of sight.</Apparel_ShardPsychicShockLance.description>
+  <Apparel_ShardPsychicShockLance.label>ნატეხი შოკი</Apparel_ShardPsychicShockLance.label>
+</LanguageData>

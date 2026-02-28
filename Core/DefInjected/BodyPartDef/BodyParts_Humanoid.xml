@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Arm.label>მკლავი</Arm.label>
+  <Clavicle.label>კლავიკული</Clavicle.label>
+  <Femur.label>ბარძაყის ძვალი</Femur.label>
+  <Finger.label>თითი</Finger.label>
+  <Hand.label>ხელი</Hand.label>
+  <Humerus.label>მხრის ძვალი</Humerus.label>
+  <Pelvis.label>მენჯის</Pelvis.label>
+  <Radius.label>რადიუსი</Radius.label>
+  <Shoulder.label>მხრის</Shoulder.label>
+  <Sternum.label>მკერდი</Sternum.label>
+  <Tibia.label>წვივის</Tibia.label>
+  <Toe.label>თითი</Toe.label>
+  <Torso.label>ტორსი</Torso.label>
+  <Waist.label>კომუნალური სლოტი</Waist.label>
+</LanguageData>

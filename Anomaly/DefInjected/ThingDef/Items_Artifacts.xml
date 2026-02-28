@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BiomutationPulser.description>ერთჯერადი ფართო ტალღის ფსიქიკური ეფექტორი, რომელიც შექმნილია მუქი არქოტექნიკური ნაჭრისგან. მოწყობილობა ქმნის პულსს, რომელიც აყალიბებს ყველა ცხოველის კუნთებს რეგიონში და აქცევს მათ საშინელ არსებებად. თქვენი კონტროლის ქვეშ მყოფი ცხოველები არ დაზარალდებიან.</BiomutationPulser.description>
+  <BiomutationPulser.label>ბიომუტაციის პულსერი</BiomutationPulser.label>
+  <ShardAnimalPulser.description>ერთჯერადი ფართო ტალღის ფსიქიკური ეფექტორი, რომელიც შექმნილია მუქი არქოტექნიკური ნაჭრისგან. ფსიქიკური პულსი ავსებს ქვედა გონებას საშინელი გამოსახულებებით, რის გამოც რეგიონის ყველა ცხოველი ნადირობის რისხვას იწვევს. თქვენი კონტროლის ქვეშ მყოფი ცხოველები არ დაზარალდებიან.</ShardAnimalPulser.description>
+  <ShardAnimalPulser.label>ნატეხი ცხოველის პულსერი</ShardAnimalPulser.label>
+</LanguageData>

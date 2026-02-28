@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Blinding_Horrible.description>იდეოლიგიური მიზეზების გამო ადამიანების დაბრმავება საშინელებაა.</Blinding_Horrible.description>
+  <Blinding_Horrible.label>საზარელი</Blinding_Horrible.label>
+  <Blindness_Elevated.description>ბრმები სუფთად დგანან მხედველებზე მაღლა.</Blindness_Elevated.description>
+  <Blindness_Elevated.label>ამაღლებული</Blindness_Elevated.label>
+  <Blindness_Respected.description>ბრმა იყო მორალური რამ, პატივისცემის ღირსი.</Blindness_Respected.description>
+  <Blindness_Respected.label>პატივცემული</Blindness_Respected.label>
+  <Blindness_Sublime.description>მხოლოდ ბრმა შეიძლება იყოს ჭეშმარიტად კეთილშობილი, რადგან მხედველებს გონება დაბინდული აქვთ ფიზიკური ხედვით.</Blindness_Sublime.description>
+  <Blindness_Sublime.label>ამაღლებული</Blindness_Sublime.label>
+</LanguageData>

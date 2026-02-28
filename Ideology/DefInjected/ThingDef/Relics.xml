@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RelicInertArk.label>კიდობანი</RelicInertArk.label>
+  <RelicInertBox.label>ყუთი</RelicInertBox.label>
+  <RelicInertCube.description>ხელის ზომის კუბიკი. როდესაც ახლა მიძინებული იყო, ის ოდესღაც არაბუნებრივად მომხიბვლელი იყო.</RelicInertCube.description>
+  <RelicInertCube.label>კუბი</RelicInertCube.label>
+  <RelicInertCup.label>ჭაჭა</RelicInertCup.label>
+  <RelicInertFragment.label>ფრაგმენტი</RelicInertFragment.label>
+  <RelicInertPendant.label>გულსაკიდი</RelicInertPendant.label>
+  <RelicInertSwordHandle.label>ხელკეტი</RelicInertSwordHandle.label>
+  <RelicInertTablet.label>ტაბლეტი</RelicInertTablet.label>
+</LanguageData>

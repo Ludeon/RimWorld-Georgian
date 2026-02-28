@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AimAssistance.description>ეს იარაღი შეიცავს ელემენტარულ დამიზნების დამხმარე კომპიუტერს, რომელიც ეხმარება სამიზნეების თვალყურის დევნებას, გაზრდის სიზუსტეს ყველა დიაპაზონში. მოწყობილობას შეუძლია გაითვალისწინოს გარემოსდაცვითი გამოწვევები, რაც საშუალებას აძლევს იარაღს უგულებელყოს სიზუსტის ჯარიმა ცუდი ამინდისა და კვამლისგან.</AimAssistance.description>
+  <AimAssistance.label>მიზნობრივი დახმარება</AimAssistance.label>
+  <BioferriteBurner.description>ამ იარაღს აქვს ბიოფერიტზე მომუშავე ცეცხლმსროლი დანადგარი. წნევით ბიოფერიტის მუხტიდან დამწვარი წარმოქმნის ცეცხლს. გამოყენების შემდეგ ის უნდა გადაიტვირთოს ბიოფერიტის გამოყენებით.</BioferriteBurner.description>
+  <BioferriteBurner.label>ბიოფერიტის საწვავი</BioferriteBurner.label>
+  <BirdshotPellets.description>ეს იარაღი ისვრის ჭურვებს, რომლებიც შეიცავს ჩვეულებრივზე მცირე ზომის მარცვლებს. ის ბევრად უფრო ზუსტია ახლო მანძილზე, მაგრამ ნაკლებად ეფექტური შორ მანძილზე.</BirdshotPellets.description>
+  <BirdshotPellets.label>birdshot მარცვლები</BirdshotPellets.label>
+  <BroadheadArrows.description>ეს მშვილდი ისვრის ბასრი პირებით დახრილ ისრებს, რაც ზრდის მის დაზიანებას.</BroadheadArrows.description>
+  <BroadheadArrows.label>განიერი ისრები</BroadheadArrows.label>
+  <ChargeCapacitor.description>ეს იარაღი აძლიერებს პულსის დამუხტვის ტექნოლოგიას მასიური კონდენსატორით, ზრდის დაზიანებას და ჯავშნის შეღწევას.</ChargeCapacitor.description>
+  <ChargeCapacitor.label>დამუხტვის კონდენსატორი</ChargeCapacitor.label>
+  <Cumbersome.description>ამ იარაღის გამოყენება არახელსაყრელია, რაც მას ანელებს დამიზნებას.</Cumbersome.description>
+  <Cumbersome.label>უხერხული</Cumbersome.label>
+  <CustomGrip.description>ეს იარაღი შეიცავს მორგებულ სახელურს, რომელიც უკეთ უმკლავდება უკუცემას, აუმჯობესებს სიზუსტეს მოკლე მანძილზე. ისიც მაგრად გამოიყურება.</CustomGrip.description>
+  <CustomGrip.label>მორგებული ძალაუფლება</CustomGrip.label>
+  <EMPLauncher.description>ამ იარაღს აქვს მიმაგრებული EMP ჭურვის გამშვები. ჭურვი ასხივებს ელექტრომაგნიტურ ენერგიას, რომელიც ანგრევს ელექტრონულ სამიზნეებს, როგორიცაა კოშკები და მექანოიდები. გასროლის შემდეგ ის უნდა გადაიტვირთოს ფოლადის გამოყენებით.</EMPLauncher.description>
+  <EMPLauncher.label>EMP ქვემეხი</EMPLauncher.label>
+  <EMPPulser.description>ამ იარაღს შეუძლია ასხივოს ენერგია, რომელიც ორიენტირებულია მომხმარებელზე. აფეთქება გააოცებს ახლომდებარე ელექტრონულ სამიზნეებს, როგორიცაა მექანოიდები ან კოშკები. გამოყენების შემდეგ, პულსერს გარკვეული დრო სჭირდება დატენვას.</EMPPulser.description>
+  <EMPPulser.label>EMP პულსერი</EMPPulser.label>
+  <EMPRounds.description>ეს იარაღი ისვრის სროლებს ჩაშენებული EMP კონდენსატორებით, რაც დროებით გამორთავს ელექტრონიკას და მექანოიდებს.</EMPRounds.description>
+  <EMPRounds.label>EMP რაუნდები</EMPRounds.label>
+  <ExtendedBarrel.description>ამ იარაღს ჩვეულებრივზე უფრო დიდი მანძილი აქვს.</ExtendedBarrel.description>
+  <ExtendedBarrel.label>გაფართოებული ლულა</ExtendedBarrel.label>
+  <ExtendedMagazine.description>ეს იარაღი ჩვეულებრივზე 50%-ით მეტ გასროლას ისვრის ერთ აფეთქებაში.</ExtendedMagazine.description>
+  <ExtendedMagazine.label>გაფართოებული ჟურნალი</ExtendedMagazine.label>
+  <FrequencyAmplifier.description>ეს იარაღი გადის სხივს კრისტალური გამაძლიერებლის მეშვეობით, რაც მკვეთრად ზრდის იარაღის დაზიანებას და დიაპაზონს. იარაღს გამოყენებას შორის უნდა გაცივდეს.</FrequencyAmplifier.description>
+  <FrequencyAmplifier.label>სიხშირის გამაძლიერებელი</FrequencyAmplifier.label>
+  <GoldInlay.description>ეს იარაღი ოქროთია ჩასმული. მოვაჭრეები ამაში მეტს გადაიხდიან.</GoldInlay.description>
+  <GoldInlay.label>ოქროს ჩასმა</GoldInlay.label>
+  <GrenadeLauncher.description>ამ იარაღს აქვს მიმაგრებული ყუმბარმტყორცნი. გასროლის შემდეგ ის უნდა გადაიტვირთოს ფოლადის გამოყენებით.</GrenadeLauncher.description>
+  <GrenadeLauncher.label>ყუმბარმტყორცნი</GrenadeLauncher.label>
+  <HighPowerRounds.description>სპეციალური საბრძოლო მასალა ამ იარაღს ჩვეულებრივზე ძლიერს ხდის. მძიმე უკუცემა მას ნაკლებად ზუსტს ხდის.</HighPowerRounds.description>
+  <HighPowerRounds.label>მაღალი სიმძლავრის რაუნდები</HighPowerRounds.label>
+  <HollowPointRounds.description>ეს იარაღი ისვრის ტყვიებს, რომლებიც ფართოვდება დარტყმის დროს, რაც ჩვეულებრივზე მეტ ზიანს აყენებს.</HollowPointRounds.description>
+  <HollowPointRounds.label>ღრუ წერტილიანი რაუნდები</HollowPointRounds.label>
+  <ImprovedSights.description>ამ იარაღს აქვს საბაჟო ხედვა, რაც ზრდის მის სიზუსტეს დიდ მანძილზე.</ImprovedSights.description>
+  <ImprovedSights.label>ტაქტიკური ხედვა</ImprovedSights.label>
+  <IncendiaryLauncher.description>ამ იარაღს აქვს მიმაგრებული ცეცხლგამჩენი ჭურვი. ჭურვი ქმნის მცირე ალი აფეთქებას, რომელიც აანთებს ყველაფერს ახლოს. გასროლის შემდეგ ის უნდა გადაიტვირთოს ქიმიური საწვავის გამოყენებით.</IncendiaryLauncher.description>
+  <IncendiaryLauncher.label>ცეცხლგამტარი</IncendiaryLauncher.label>
+  <IncendiaryPellets.description>ეს იარაღი ისვრის ფოსფორის მარცვლებს, რომლებსაც აქვთ სამიზნეების აალების შანსი.</IncendiaryPellets.description>
+  <IncendiaryPellets.label>ცეცხლგამჩენი მარცვლები</IncendiaryPellets.label>
+  <IncendiaryRounds.description>ეს იარაღი ისვრის საბრძოლო მასალას, რომელიც შეიცავს აალებადი ქიმიურ ნივთიერებას. მას აქვს მიზნების აალების შანსი.</IncendiaryRounds.description>
+  <IncendiaryRounds.label>ცეცხლგამჩენი რაუნდები</IncendiaryRounds.label>
+  <JadeInlay.description>ეს იარაღი მორთულია ნეფრიტით. მოვაჭრეები ამაში მეტს გადაიხდიან.</JadeInlay.description>
+  <JadeInlay.label>ნეფრიტის ჩასმა</JadeInlay.label>
+  <Lightweight.description>ეს იარაღი ჩვეულებრივზე ბევრად მსუბუქია, რაც ამცირებს მის დამიზნების დროს.</Lightweight.description>
+  <Lightweight.label>მსუბუქი</Lightweight.label>
+  <LightweightArrows.description>ეს მშვილდი დახელოვნებულია მსუბუქი ისრების სროლაში. ისინი უფრო შორს დაფრინავენ, მაგრამ ნაკლებ ზიანს აყენებენ.</LightweightArrows.description>
+  <LightweightArrows.label>მსუბუქი ისრები</LightweightArrows.label>
+  <Ornamental.description>ეს იარაღი დამზადდა ესთეტიკისთვის ვიდრე ფუნქციონალურობისთვის. ის ნაკლებ ზიანს აყენებს, მაგრამ მშვენივრად გამოიყურება.</Ornamental.description>
+  <Ornamental.label>ორნამენტული</Ornamental.label>
+  <OversizedRounds.description>ეს იარაღი უფრო მეტ ზიანს აყენებს და აქვს ბევრად უფრო მაღალი გაჩერების ძალა, ვიდრე ჩვეულებრივ.</OversizedRounds.description>
+  <OversizedRounds.label>მძიმე რაუნდები</OversizedRounds.label>
+  <ParalyticArrows.description>ეს მშვილდი ისვრის ისრებს, რომლებიც ჩაშენებულია პარალიზური ბიოტოქსინით, რომელიც მოკლედ აოცებს სამიზნეებს.</ParalyticArrows.description>
+  <ParalyticArrows.label>პარალიზური ისრები</ParalyticArrows.label>
+  <PiercingArrows.description>ეს მშვილდი ისვრის ბოდკინის წვერიან ისრებს, რაც მას უფრო ეფექტურს ხდის ჯავშანტექნიკის სამიზნეების წინააღმდეგ.</PiercingArrows.description>
+  <PiercingArrows.label>გამჭოლი ისრები</PiercingArrows.label>
+  <PiercingRounds.description>ეს იარაღი ისვრის რაუნდებს, რომლებიც შექმნილია სქელი ჯავშანტექნიკის შესაღწევად.</PiercingRounds.description>
+  <PiercingRounds.label>პირსინგის რაუნდები</PiercingRounds.label>
+  <PrecisionScope.description>ამ იარაღის ფარგლები იყენებს სამიზნეების ამოცნობის პროგრამულ უზრუნველყოფას სამიზნეზე თვალყურის დევნების ავტომატიზაციისთვის, რაც აჩქარებს მის სროლას.</PrecisionScope.description>
+  <PrecisionScope.label>თვალთვალის ფარგლები</PrecisionScope.label>
+  <PulseCharger.description>ეს იარაღი აღჭურვილია იმპულსური დამუხტვის ტექნოლოგიით, რომელიც აავსებს ტყვიებს არასტაბილური ენერგიით. იარაღი აშკარად არ იყო განკუთვნილი ამისთვის, რაც მკვეთრად ამცირებს მის სიზუსტეს.</PulseCharger.description>
+  <PulseCharger.label>პულსის დამტენი</PulseCharger.label>
+  <QuickReload.description>ამ იარაღს აქვს სწრაფი გაშვების და ჩანაცვლების მექანიზმი, რაც მის გადატვირთვას უფრო აჩქარებს.</QuickReload.description>
+  <QuickReload.label>სწრაფი გადატვირთვა</QuickReload.label>
+  <RangefinderScope.description>ამ იარაღის დიაპაზონი შეიცავს მოწინავე დიაპაზონს, რაც მას შემდგომი სროლის საშუალებას აძლევს.</RangefinderScope.description>
+  <RangefinderScope.label>დიაპაზონის მაძიებელი</RangefinderScope.label>
+  <RapidFire.description>ეს იარაღი შეიცავს გაუმჯობესებულ თვითდატვირთვის მექანიზმს. მრავალჯერადი გასროლების სროლისას, თითოეულ რაუნდს შორის დრო მკვეთრად მცირდება.</RapidFire.description>
+  <RapidFire.label>სწრაფი ცეცხლი</RapidFire.label>
+  <ReinforcedLimbs.description>ამ მშვილდის კიდურები გამაგრებულია, რაც მას შემდგომი სროლის საშუალებას აძლევს.</ReinforcedLimbs.description>
+  <ReinforcedLimbs.label>გამაგრებული მშვილდის კიდურები</ReinforcedLimbs.label>
+  <ShoddySights.description>ამ იარაღის სამიზნეების ხარვეზები ამცირებს მის სიზუსტეს დიდ მანძილზე.</ShoddySights.description>
+  <ShoddySights.label>ცუდი ღირსშესანიშნაობები</ShoddySights.label>
+  <ShortenedBarrel.description>ამ იარაღის ლულა ამოკვეთილია, რაც ამცირებს მის დიაპაზონს, მაგრამ აჩქარებს დამიზნებას და სროლას.</ShortenedBarrel.description>
+  <ShortenedBarrel.label>დამოკლებული ლულა</ShortenedBarrel.label>
+  <SmokeLauncher.description>ამ იარაღს აქვს მიმაგრებული კვამლის ჭურვის გამშვები. ჭურვი გამოყოფს კვამლს, რომელიც ფარავს შემომავალ კადრებს და ხელს უშლის კოშკების ჩაკეტვას. გასროლის შემდეგ ის უნდა გადაიტვირთოს ფოლადის გამოყენებით.</SmokeLauncher.description>
+  <SmokeLauncher.label>კვამლის გამშვები</SmokeLauncher.label>
+  <StabilizerBrace.description>ამ იარაღს აქვს სტაბილიზაციის სამაგრი, რომელიც უკავშირდება მომხმარებლის მკლავს და ზრდის მის სიზუსტეს.</StabilizerBrace.description>
+  <StabilizerBrace.label>პისტოლეტის სამაგრი</StabilizerBrace.label>
+  <ToxPellets.description>ეს იარაღი ისვრის ქიმიურ მარცვლებს, რომლებიც იწვევს ტოქსიკურ დაგროვებას.</ToxPellets.description>
+  <ToxPellets.label>ტოქსიკური მარცვლები</ToxPellets.label>
+  <ToxRounds.description>ეს იარაღი ისვრის რაზმებს, რომლებიც დაფარულია ტოქსიკური ქიმიკატებით, რაც აავადებს დაჭრილ სამიზნეებს.</ToxRounds.description>
+  <ToxRounds.label>ტოქსის რაუნდები</ToxRounds.label>
+  <Ugly.description>ეს იარაღი დამზადდა ესთეტიკის პატივისცემის გარეშე. ნაგავივით გამოიყურება, მაგრამ საქმეს ასრულებს. მოვაჭრეები ამაში ნაკლებს გადაიხდიან.</Ugly.description>
+  <Ugly.label>მახინჯი</Ugly.label>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BioluminescentSpores.label>ბიოლუმინესცენტური სპორები</BioluminescentSpores.label>
+  <BioluminescentSpores.letterLabel>ბიოლუმინესცენტური სპორები</BioluminescentSpores.letterLabel>
+  <BioluminescentSpores.letterText>სოკოების ზოგიერთი სახეობა ყვავის, ათავისუფლებს ბიოლუმინესცენტურ სპორებს! სპორები უცნაურად ლამაზია და არ წარმოადგენს საფრთხეს.</BioluminescentSpores.letterText>
+  <BoomshroomSprout.label>ბუჩქის ყლორტი</BoomshroomSprout.label>
+  <BoomshroomSprout.letterLabel>ბუჩქის ყლორტი</BoomshroomSprout.letterLabel>
+  <BoomshroomSprout.letterText>A cluster of explosive boomshrooms has sprouted nearby!\n\nThese mushrooms only grow in darkness. Once they mature, they can be harvested for chemfuel.\n\nBe careful - mature boomshrooms explode if damaged.</BoomshroomSprout.letterText>
+  <Drought.label>გვალვა</Drought.label>
+  <Drought.letterLabel>გვალვა</Drought.letterLabel>
+  <DroughtInitial.label>საწყისი გვალვის პირობები</DroughtInitial.label>
+  <GillRot.label>ღრძილების ლპობა</GillRot.label>
+  <GillRot.letterLabel>ღრძილების ლპობა</GillRot.letterLabel>
+  <LavaEmergence.label>ლავის გაჩენა</LavaEmergence.label>
+  <LavaFlow.label>ლავის ნაკადი</LavaFlow.label>
+  <OrbitalDebris.label>ორბიტალური ნამსხვრევები</OrbitalDebris.label>
+  <OrbitalDebris.letterLabel>ორბიტალური ნამსხვრევები</OrbitalDebris.letterLabel>
+  <OrbitalDebris.letterText>ორბიტალური ნამსხვრევების ღრუბელი მიედინება თქვენი პოზიციისკენ და იმოქმედებს წამებში. მიიღეთ თქვენი კოლონისტები სახურავის ქვეშ.</OrbitalDebris.letterText>
+  <SeasonalFlooding.label>სეზონური წყალდიდობა</SeasonalFlooding.label>
+  <VolcanicAsh.label>ვულკანური ფერფლი</VolcanicAsh.label>
+  <VolcanicAsh.letterLabel>ვულკანური ფერფლი</VolcanicAsh.letterLabel>
+  <VolcanicDebris.label>ვულკანური ნამსხვრევები</VolcanicDebris.label>
+  <VolcanicDebris.letterLabel>ვულკანური ნამსხვრევები</VolcanicDebris.letterLabel>
+  <VolcanicDebris.letterText>ახლომდებარე ვულკანური ამოფრქვევა ადიდებს რეგიონს გამდნარი ლავით!</VolcanicDebris.letterText>
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ConventChild16.description>უკანონო ურთიერთობის ბავშვი, [PAWN_nameDef] ასკეტებმა აღზარდეს შუა საუკუნეების მონასტერში. [PAWN_pronoun]-მა შეიტყო შრომისმოყვარეობისა და დამორჩილების ღირებულება, მაგრამ ასწავლეს, რომ ტექნოლოგია ერეტიულია და ძალადობა ამორალური.</ConventChild16.description>
+  <ConventChild16.title>მონასტრის ბავშვი</ConventChild16.title>
+  <ConventChild16.titleShort>უკანონო</ConventChild16.titleShort>
+  <MedievalLordling19.description>[PAWN_nameDef] შუასაუკუნეების სამყაროს ძველ სამეფოში მცირერანგიანი დიდგვაროვანი იყო. [PAWN_pronoun] ხელით გათლილი ქვით აშენებულ მამულში იზრდებოდა, რომელსაც დაბალი ფენის მსახურები უვლიდნენ.\n\nასეთი ცხოვრება ტექნიკურ უნარებს არ გაძლევს და ხელით შრომისადმი მუდმივ ზიზღს ნერგავს - თუმცა [PAWN_nameDef]-მა სოციალური მანიპულაციის ხერხები ადრიდანვე ისწავლა.</MedievalLordling19.description>
+  <MedievalLordling19.title>შუა საუკუნეების ბატონობა</MedievalLordling19.title>
+  <MedievalLordling19.titleFemale>შუა საუკუნეების ქალბატონი</MedievalLordling19.titleFemale>
+  <MedievalLordling19.titleShort>ბატონიშვილი</MedievalLordling19.titleShort>
+  <MedievalLordling19.titleShortFemale>ქალბატონო</MedievalLordling19.titleShortFemale>
+  <MedievalSlave49.description>[PAWN_nameDef] შუასაუკუნეების სამყაროში გაიზარდა, ურიკებს ეზიდებოდა და ორმოებს თხრიდა. უბრალო ხელით შრომა [PAWN_possessive] უძველესი თანამგზავრია - ბატონის მათრახთან ერთად.\n\n[PAWN_pronoun]-მა კითხვა მხოლოდ ცხრა წლის ასაკში ისწავლა.</MedievalSlave49.description>
+  <MedievalSlave49.title>შუა საუკუნეების მონა</MedievalSlave49.title>
+  <MedievalSlave49.titleShort>მონა</MedievalSlave49.titleShort>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AbsorbedXenogerm.label>შეიწოვება ქსენოგერმი</AbsorbedXenogerm.label>
+  <ExtractedHemogenPack.label>ამოღებულია ჰემოგენი წევრისგან</ExtractedHemogenPack.label>
+  <PollutedBase.label>დაბინძურებული ბაზა</PollutedBase.label>
+  <PollutedNearbySite.label>დაბინძურებული მიმდებარე ტერიტორია</PollutedNearbySite.label>
+  <ToxicWasteDumping.label>ტოქსიკური ნარჩენების გადაყრა</ToxicWasteDumping.label>
+</LanguageData>

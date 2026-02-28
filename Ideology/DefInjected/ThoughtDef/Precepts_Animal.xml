@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteVeneratedAnimalMeat.stages.0.description>მე ვჭამდი თაყვანისმცემელი ცხოველის ხორცს. მე დავარღვიე უმთავრესი მორალური წესი.</AteVeneratedAnimalMeat.stages.0.description>
+  <AteVeneratedAnimalMeat.stages.0.label>ჭამდა ცხოველის თაყვანისმცემელ ხორცს</AteVeneratedAnimalMeat.stages.0.label>
+  <TameVeneratedAnimalDied.stages.0.description>მოკრძალებული {ANIMALKIND} გარდაიცვალა. ასეთი კეთილშობილი მხეცის სიკვდილი მწუხარების მიზეზია.</TameVeneratedAnimalDied.stages.0.description>
+  <TameVeneratedAnimalDied.stages.0.label>თაყვანისმცემელი {ANIMALKIND} გარდაიცვალა</TameVeneratedAnimalDied.stages.0.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.0.description>ჩემს ირგვლივ თაყვანისმცემელი ცხოველები არიან.</VeneratedAnimalsOnMapOrCaravan.stages.0.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.0.label>თაყვანისმცემელი {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.0.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.1.description>ჩემს ირგვლივ რამდენიმე თაყვანისმცემელი ცხოველი მყავს.</VeneratedAnimalsOnMapOrCaravan.stages.1.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.1.label>თაყვანისმცემელი {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.1.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.2.description>ჩემს ირგვლივ ბევრი თაყვანისმცემელი ცხოველი მყავს.</VeneratedAnimalsOnMapOrCaravan.stages.2.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.2.label>თაყვანისმცემელი {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.2.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.3.description>ჩემს გარშემო უამრავი თაყვანისმცემელი ცხოველია!</VeneratedAnimalsOnMapOrCaravan.stages.3.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.3.label>თაყვანისმცემელი {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.3.label>
+  <VeneratedAnimalsOnMapOrCaravan.stages.4.description>ჩემს გარშემო უამრავი თაყვანისმცემელი ცხოველია!</VeneratedAnimalsOnMapOrCaravan.stages.4.description>
+  <VeneratedAnimalsOnMapOrCaravan.stages.4.label>თაყვანისმცემელი {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.4.label>
+</LanguageData>

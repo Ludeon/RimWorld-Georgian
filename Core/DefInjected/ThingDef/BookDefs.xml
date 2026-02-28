@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Novel.description>წიგნი, რომელიც შეიცავს გამოგონილ ან ნამდვილ ამბებს მკითხველის სიამოვნებისა და აღზრდისთვის.</Novel.description>
+  <Novel.label>რომანი</Novel.label>
+  <Schematic.description>წიგნი, რომელიც აღწერს ტექნოლოგიას და მისი გამოყენების მეთოდებს. სქემების კითხვა დაგეხმარებათ ახალი ტექნოლოგიების გახსნაში.</Schematic.description>
+  <Schematic.label>სქემატური</Schematic.label>
+  <TextBook.description>წიგნი, რომელიც ორიენტირებულია სწავლების უნარებზე.</TextBook.description>
+  <TextBook.label>სახელმძღვანელო</TextBook.label>
+</LanguageData>

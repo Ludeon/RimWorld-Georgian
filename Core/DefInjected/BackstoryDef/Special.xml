@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Child27.description>[PAWN_nameDef] ბავშვია. [PAWN_possessive] ბავშვობის ისტორია ჯერ კიდევ იწერება.</Child27.description>
+  <Child27.title>ბავშვი</Child27.title>
+  <Child27.titleShort>ბავშვი</Child27.titleShort>
+  <ChildTribal.description>[PAWN_nameDef] ბავშვია. [PAWN_possessive] ბავშვობის ისტორია ჯერ კიდევ იწერება.</ChildTribal.description>
+  <ChildTribal.title>ბავშვი</ChildTribal.title>
+  <ChildTribal.titleShort>ბავშვი</ChildTribal.titleShort>
+  <Colonist97.description>[PAWN_nameDef] ზრდასრული გახდა ჩვენს კოლონიაში. [PAWN_possessive] ამბავი ჯერ კიდევ იწერება.</Colonist97.description>
+  <Colonist97.title>კოლონისტი</Colonist97.title>
+  <Colonist97.titleShort>კოლონისტი</Colonist97.titleShort>
+  <ColonyChild59.description>[PAWN_nameDef] გაიზარდა ჩვენს კოლონიაში.</ColonyChild59.description>
+  <ColonyChild59.title>კოლონიის ბავშვი</ColonyChild59.title>
+  <ColonyChild59.titleShort>კოლონისტი</ColonyChild59.titleShort>
+  <Newborn79.description>[PAWN_nameDef] ბავშვია. [PAWN_possessive] ცხოვრება რძისა და ძილის გარშემო ტრიალებს.</Newborn79.description>
+  <Newborn79.title>ახალშობილი</Newborn79.title>
+  <Newborn79.titleShort>ახალშობილი</Newborn79.titleShort>
+  <TribeChild19.description>[PAWN_nameDef] გაიზარდა ჩვენს ტომში.</TribeChild19.description>
+  <TribeChild19.title>ტომის ბავშვი</TribeChild19.title>
+  <TribeChild19.titleShort>ტომობრივი</TribeChild19.titleShort>
+  <TribeMember57.description>[PAWN_nameDef] ზრდასრული გახდა ჩვენს ტომში. [PAWN_possessive] ამბავი ჯერ კიდევ იწერება.</TribeMember57.description>
+  <TribeMember57.title>ტომის წევრი</TribeMember57.title>
+  <TribeMember57.titleShort>ტომობრივი</TribeMember57.titleShort>
+  <VatgrownChild11.description>[PAWN_nameDef] ბავშვობის [PAWN_possessive] უმეტესი ნაწილი ზრდის ღუმელში გაატარა.</VatgrownChild11.description>
+  <VatgrownChild11.title>გაზრდილი ბავშვი</VatgrownChild11.title>
+  <VatgrownChild11.titleShort>ბავშვი</VatgrownChild11.titleShort>
+</LanguageData>

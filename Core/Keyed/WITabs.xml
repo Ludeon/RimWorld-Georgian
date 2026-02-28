@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <TabTerrain>რელიეფი</TabTerrain>
+  <TabPlanet>პლანეტა</TabPlanet>
+  <TabCaravanFeeding>კვება</TabCaravanFeeding>
+  <TabCaravanSocial>სოციალური</TabCaravanSocial>
+  <TabCaravanHealth>ჯანმრთელობა</TabCaravanHealth>
+  <TabCaravanNeeds>მოთხოვნები</TabCaravanNeeds>
+  <TabCaravanGear>აღჭურვილობა</TabCaravanGear>
+  <TabCaravanItems>ნივთები</TabCaravanItems>
+  
+  
+  <AbandonSliderText>მიატოვეთ {{0}}x {0}</AbandonSliderText>
+  <ConfirmAbandonItemDialog>ნამდვილად გსურთ {0}-ის მიტოვება?\n\nმიტოვებული ნივთები ქრება და ვერასოდეს აღდგება.</ConfirmAbandonItemDialog>
+  <AbandonTip>მიტოვება</AbandonTip>
+  <BanishTip>გაძევება</BanishTip>
+  <AbandonSpecificCountTip>მიატოვეთ კონკრეტული რაოდენობა</AbandonSpecificCountTip>
+  <AbandonAllTip>მიტოვება (ყველა)</AbandonAllTip>
+  <AbandonItemTipExtraText>მიტოვებული ნივთები ქრება და ვერასოდეს აღდგება.</AbandonItemTipExtraText>
+  <BanishTipWillDie>{1_labelShort} დიდი ალბათობით მოკვდება.</BanishTipWillDie>
+  
+  
+  <CaravanColonists>კოლონისტები</CaravanColonists>
+  <CaravanPrisonersAndAnimals>პატიმრები და ცხოველები</CaravanPrisonersAndAnimals>
+  <CaravanItems>ინვენტარი</CaravanItems>
+  <OpenSpecificTabButtonTip>დააწკაპუნეთ ჩანართის გასახსნელად მეტი დეტალებით.</OpenSpecificTabButtonTip>
+  <CaravanPrisoners>პატიმრები</CaravanPrisoners>
+  <CaravanWeaponsAndApparel>აღჭურვილი ნივთები</CaravanWeaponsAndApparel>
+  <NoneCapable>არც ერთი არ შეუძლია</NoneCapable>
+  <GainingJoyBecauseCaravanNotMoving>ქარავანი არ მოძრაობს</GainingJoyBecauseCaravanNotMoving>
+  
+  
+  <DragToRearrange>გადაიტანეთ გადასაწყობად.</DragToRearrange>
+
+  
+  <AssignDrugPolicies>მიანიჭეთ ნარკოპოლიტიკა</AssignDrugPolicies>
+
+  
+  <BeCarriedIfSickTip>უნდა ატარონ თუ არა ეს ადამიანი ან ცხოველი ქარავნის სხვა წევრებმა ავადმყოფობის დროს.\n\nგადატანილი ქარავნის წევრებს შეუძლიათ დაისვენონ მაშინაც კი, თუ ქარავანი მოძრაობს, მაგრამ ისინი ანელებენ მას.</BeCarriedIfSickTip>
+  
+  
+  <PlanetSeed>სათესი</PlanetSeed>
+  <PlanetCoverageShort>გაშუქება</PlanetCoverageShort>
+
+</LanguageData>

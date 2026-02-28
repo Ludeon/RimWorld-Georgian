@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Filth_AmnioticFluid.label>ამნისტიური სითხე</Filth_AmnioticFluid.label>
+  <Filth_AnimalFilth.label>ცხოველური სიბინძურე</Filth_AnimalFilth.label>
+  <Filth_Ash.label>ნაცარი</Filth_Ash.label>
+  <Filth_BlastMark.label>აფეთქების ნიშანი</Filth_BlastMark.label>
+  <Filth_Blood.label>სისხლი</Filth_Blood.label>
+  <Filth_BloodInsect.label>ბუზღუნი</Filth_BloodInsect.label>
+  <Filth_BloodSmear.label>სისხლის ნაცხი</Filth_BloodSmear.label>
+  <Filth_CorpseBile.label>გვამის ნაღველი</Filth_CorpseBile.label>
+  <Filth_Dirt.label>ჭუჭყიანი</Filth_Dirt.label>
+  <Filth_FireFoam.label>ცეცხლოვანი ქაფით</Filth_FireFoam.label>
+  <Filth_Fuel.description>აალებადი ქიმიური საწვავის გუბე.</Filth_Fuel.description>
+  <Filth_Fuel.label>ქიმიური საწვავის გუბე</Filth_Fuel.label>
+  <Filth_GestationFluid.label>გესტაციური სითხე</Filth_GestationFluid.label>
+  <Filth_Hair.label>თმა</Filth_Hair.label>
+  <Filth_LooseGround.label>ფხვიერი მიწა</Filth_LooseGround.label>
+  <Filth_MachineBits.label>მანქანის ბიტები</Filth_MachineBits.label>
+  <Filth_MoldyUniform.label>გახეხილი ფორმა</Filth_MoldyUniform.label>
+  <Filth_OilSmear.label>ზეთის ნაცხი</Filth_OilSmear.label>
+  <Filth_RubbleBuilding.label>შენობის ნანგრევები</Filth_RubbleBuilding.label>
+  <Filth_RubbleRock.label>კლდის ნანგრევები</Filth_RubbleRock.label>
+  <Filth_Sand.label>ქვიშა</Filth_Sand.label>
+  <Filth_ScatteredDocuments.label>მიმოფანტული დოკუმენტები</Filth_ScatteredDocuments.label>
+  <Filth_Slime.label>ლორწო</Filth_Slime.label>
+  <Filth_SpentAcid.label>დახარჯული მჟავა</Filth_SpentAcid.label>
+  <Filth_Trash.label>ნაგავი</Filth_Trash.label>
+  <Filth_Vomit.label>ღებინება</Filth_Vomit.label>
+  <Filth_Water.label>წყლის გუბე</Filth_Water.label>
+  <SandbagRubble.label>მიმოფანტული ქვიშის ტომრები</SandbagRubble.label>
+  <SlagRubble.label>მიმოფანტული წიდა</SlagRubble.label>
+</LanguageData>

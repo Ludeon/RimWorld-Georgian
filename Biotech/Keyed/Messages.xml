@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <MessageColonistReaching2ndTrimesterPregnancy>{PAWN_labelShort}-ის ორსულობა პროგრესირებდა 1-დან მე-2 ტრიმესტრამდე.</MessageColonistReaching2ndTrimesterPregnancy>
+  <MessageColonistReaching3rdTrimesterPregnancy>{PAWN_labelShort}-ის ორსულობა მე-2-დან მე-3 ტრიმესტრამდე მიმდინარეობდა.</MessageColonistReaching3rdTrimesterPregnancy>
+  <MessageColonistInFinalStagesOfLabor>{PAWN_labelShort}-ის მუშაობამ ბოლო ეტაპები დაიწყო.</MessageColonistInFinalStagesOfLabor>
+
+  <MessageMechChargerDestroyedMechGoesBerserk>{PAWN_nameDef} დატენვისას მექანიკური დამტენი განადგურდა! ელექტროენერგიის შეფერხებამ მისი ტვინი გააფუჭა და ის გაბრაზებულია.</MessageMechChargerDestroyedMechGoesBerserk>
+
+  <MessageCantUseOnResistingPerson>არ შეიძლება {ABILITY_label}-ის გამოყენება ყველას, ვინც აქტიურ წინააღმდეგობას გაუწევს.</MessageCantUseOnResistingPerson>
+  <MessageCannotUseOnSameXenotype>{0_labelShort}-ს უკვე აქვს {0_xenotype} ქსენოტიპი.</MessageCannotUseOnSameXenotype>
+  <MessagePawnHasNoXenogenes>{0_labelShort}-ს არ აქვს ხელმისაწვდომი ქსენოგენები იმპლანტაციისთვის.</MessagePawnHasNoXenogenes>
+  <MessageCanOnlyTargetColonistsPrisonersAndSlaves>ქსენოგერმების ჩანერგვა შესაძლებელია მხოლოდ კოლონისტებში, პატიმრებში და მონებში.</MessageCanOnlyTargetColonistsPrisonersAndSlaves>
+  <MessageCannotImplantInTempFactionMembers>დროებითი ფრაქციის წევრებში იმპლანტაცია შეუძლებელია.</MessageCannotImplantInTempFactionMembers>
+  <MessageXenogermCompleted>ქსენოგერმი დასრულდა.</MessageXenogermCompleted>
+  <MessageXenogermCancelledMissingPack>{0_labelShort}-ზე ქსენოგერმზე მუშაობა გაუქმდა: საჭირო გენეპაკეტი აკლია.</MessageXenogermCancelledMissingPack>
+  <MessageAbsorbingXenogermWillAngerFaction>{PAWN_nameDef}-ის ქსენოგერმის შეწოვა გააბრაზებს {0}-ს.</MessageAbsorbingXenogermWillAngerFaction>
+  <MessageCannotUseOnOtherFactions>{ABILITY_label} შეიძლება გამოყენებულ იქნას მხოლოდ კოლონისტებზე, პატიმრებზე და მონებზე.</MessageCannotUseOnOtherFactions>
+  <MessageCannotBecomeNonPreferredXenotype>{0_labelShort} უარს ამბობს საძულველ ქსენოტიპად იქცეს.</MessageCannotBecomeNonPreferredXenotype>
+
+  <MessageCaravanAddingEscortingMech>{MECH_nameDef}-ის ავტომატური დამატება ქარავანში, რადგან ის თან ახლავს {OVERSEER_nameDef}-ს</MessageCaravanAddingEscortingMech> 
+  <MessageCaravanRemovingEscortingMech>ავტომატური ამოღება {MECH_nameDef}-ს ქარავანიდან, რადგან ის თან ახლავს {OVERSEER_nameDef}-ს</MessageCaravanRemovingEscortingMech>
+
+  <MessageMechanitorCasketOpened>{0} იყო მექანიტორი. შეგიძლიათ ამოიღოთ {0_possessive} {1_label} და გამოიყენოთ იგი კოლონისტზე.</MessageMechanitorCasketOpened>
+  
+  <MessageNoBloodfeedersPrisonerInteractionReset>ზოგიერთი პატიმრის ურთიერთქმედების რეჟიმი საჭიროებდა სისხლის მიმწოდებელს. მას შემდეგ, რაც უკანასკნელი სისხლის მიმწოდებელი გაქრა, მათი ურთიერთქმედების რეჟიმები გადაკეთდა „არ არის ურთიერთქმედება“.</MessageNoBloodfeedersPrisonerInteractionReset>
+
+  <MessagePregnancyTerminated>{PAWN_nameDef}-ის ორსულობა წარმატებით შეწყდა.</MessagePregnancyTerminated>
+  
+  
+  <MessageAngeredPollutedCell>{0} გაბრაზდა ({1})</MessageAngeredPollutedCell>
+  <MessageWarningPollutedCell>საჭიროა დაუბინძურებელი რელიეფი.</MessageWarningPollutedCell>
+  <MessageWarningNotPollutedCell>საჭიროა დაბინძურებული რელიეფი.</MessageWarningNotPollutedCell>
+  <MessagePlantDiedOfPollution>{0} გარდაიცვალა დაბინძურების გამო.</MessagePlantDiedOfPollution>
+  <MessagePlantDiedOfNoPollution>{0} გარდაიცვალა დაბინძურების ნაკლებობის გამო.</MessagePlantDiedOfNoPollution>
+  <MessageWorldTilePollutionChanged>დაბინძურება გაიზარდა {0}-ით {1}-ზე.</MessageWorldTilePollutionChanged>
+  <MessageCocoonDisturbed>კუბო დაირღვა და იხსნება!</MessageCocoonDisturbed>
+  <MessageCocoonDisturbedPlural>კოკონები დაირღვა და იხსნება!</MessageCocoonDisturbedPlural>
+  <MessagePlantDiedOfRot_PollutedTerrain>{0} დამპალია დაბინძურებული რელიეფის გამო.</MessagePlantDiedOfRot_PollutedTerrain>
+
+  <MessageTargetMustBeDownedToForceReimplant>{PAWN_nameDef} უნდა ჩამოაგდეს, სანამ აიძულოთ {PAWN_objective} {PAWN_possessive} ქსენოგერმის ხელახალი იმპლანტაცია.</MessageTargetMustBeDownedToForceReimplant>
+
+  <MessageWorkTypeDisabledAge>{0_nameDef} მხოლოდ {1} წლისაა. {2} სამუშაო შეიძლება გაკეთდეს მხოლოდ {3} ასაკიდან.</MessageWorkTypeDisabledAge>
+
+  <MessageDeathrestingPawnCanWakeSafely>{PAWN_nameDef}-ს შეუძლია ახლა უსაფრთხოდ გაიღვიძოს სიკვდილის შემდეგ.</MessageDeathrestingPawnCanWakeSafely>
+
+  <MessageMechanitorLostControlOfMech>{0_nameDef}-მა დაკარგა კონტროლი {1_kindBase} მექანიზმზე</MessageMechanitorLostControlOfMech>
+  <MessageMechanitorDisconnectedFromMech>{0_nameDef} გათიშულია {1_nameDef} მექანიკიდან.</MessageMechanitorDisconnectedFromMech>
+
+  
+  <MetabolismTooLowToCreateXenogerm>შერჩეული გენების საერთო მეტაბოლიზმი უნდა იყოს {MIN} ან უფრო მაღალი, რომ გაგრძელდეს, მაგრამ ამჟამად ის მხოლოდ {AMOUNT}ა.</MetabolismTooLowToCreateXenogerm>
+  <ComplexityTooHighToCreateXenogerm>შერჩეული გენების საერთო სირთულე უნდა იყოს {MAX} ან ნაკლები ქსენოგერმის შესაქმნელად, მაგრამ ამჟამად ეს არის {AMOUNT}.</ComplexityTooHighToCreateXenogerm>
+  <MessageNoSelectedGenepacks>არ შეიძლება ქსენოგერმის შექმნა გენების გარეშე.</MessageNoSelectedGenepacks>
+  <MessageNoSelectedGenes>არ შეიძლება ქსენოტიპის შექმნა გენების გარეშე.</MessageNoSelectedGenes>
+  <CanOnlyStoreNumGenepacks>{0_label}-ს შეუძლია შეინახოს მხოლოდ {1} გენიპაკეტები.</CanOnlyStoreNumGenepacks>
+  <XenotypeNameCannotBeEmpty>ქსენოტიპის სახელი არ შეიძლება იყოს ცარიელი.</XenotypeNameCannotBeEmpty>
+  <MessageGeneMissingPrerequisite>{0}-ს არ გააჩნია წინაპირობა გენი</MessageGeneMissingPrerequisite>
+
+  <MessageDeathrestCapacityChanged>{PAWN_nameDef}-ის სიკვდილის ტევადობა გაიზარდა {OLD}-დან {NEW}-მდე.</MessageDeathrestCapacityChanged>
+
+  <SanguophagesArrivingSoon>სანგუოფაგები შეხვედრისთვის რამდენიმე საათში ჩამოვლენ.</SanguophagesArrivingSoon>
+  <SanguophagesBegunMeeting>სანგოფაგებმა შეკრება დაიწყეს.</SanguophagesBegunMeeting>
+  <SanguophagesLeavingTemperature>სიცოცხლისთვის საშიში ტემპერატურის გამო სანგუოფაგები ტოვებენ.</SanguophagesLeavingTemperature>
+
+  <MessagePawnWokenFromSunlight>{PAWN_nameDef} გაიღვიძა {PAWN_possessive} სიკვდილიანობისგან მზის სხივების ზემოქმედების გამო.</MessagePawnWokenFromSunlight>
+  <MessageBedExposedToSunlight>{BED_labelShort}, რომელშიც {PAWN_nameDef} ისვენებს, გამოიფინა მზის სინათლეზე. {PAWN_nameDef} ვერ ისვენებს იქ.</MessageBedExposedToSunlight>
+
+  <GeneExtractorNoPowerEjectedMessage>{PAWN_labelShort} გამოდევნილია გენის ექსტრაქტორიდან დენის ნაკლებობის გამო.</GeneExtractorNoPowerEjectedMessage>
+
+  
+  <MessagePawnKilledRipscanner>{PAWN_nameDef}-ის ტვინი განადგურდა ქვებირთული ripscanner-ის მიერ.</MessagePawnKilledRipscanner>
+  <MessageSubcoreSoftscannerCompleted>ქვებირთვიანი რბილი სკანერი დასრულდა {PAWN_nameDef}-ისთვის.</MessageSubcoreSoftscannerCompleted>
+
+  <MessageCannotResurrectDessicatedCorpse>გამხმარი ცხედრების გაცოცხლება არ შეიძლება.</MessageCannotResurrectDessicatedCorpse>
+
+  <MessageAboutToExplode>{0} აფეთქდება!</MessageAboutToExplode>
+
+  
+  <MessageChildcareDisabled>{FEEDER_labelShort} ვერ ასრულებს ბავშვის მოვლის დავალებებს.</MessageChildcareDisabled>
+  <MessageChildcareNotAssigned>{FEEDER_labelShort} არ არის დანიშნული ბავშვის მოვლის ამოცანების შესასრულებლად.</MessageChildcareNotAssigned>
+
+  <MessageTooManyCustomXenotypes>თქვენ უკვე გაქვთ მორგებული ქსენოტიპების მაქსიმალური რაოდენობა. თქვენ უნდა წაშალოთ ზოგიერთი, თუ გსურთ შექმნათ მეტი.</MessageTooManyCustomXenotypes>
+  <MessageConflictingGenesPresent>არ შეიძლება ქსენოტიპის შენახვა მრავალი ურთიერთსაწინააღმდეგო გენით.</MessageConflictingGenesPresent>
+
+  <MessageDeathrestBuildingBound>{BUILDING_labelShort} მიბმული იყო {PAWN_nameDef}-თან ({CUR}/{MAX} სიკვდილის ტევადობა).</MessageDeathrestBuildingBound>
+
+  <MessageDevelopmentalStageSelectionDisabledByScenario>განვითარების ეტაპის შერჩევა გამორთულია სცენარის მიხედვით.</MessageDevelopmentalStageSelectionDisabledByScenario>
+
+  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>{PAWN_nameDef}-ს არ ჰქონდა საკმარისი სისხლი ჰემოგენის პაკეტის წარმოებისთვის.</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
+  <MessageCannotStartHemogenExtraction>{PAWN_nameDef}-ს არ აქვს საკმარისი სისხლი ჰემოგენის შეკვრის შესაქმნელად.</MessageCannotStartHemogenExtraction>
+
+  <MessageCannotPostponeGrowthMoment>თქვენ უნდა აირჩიოთ, როგორ გაიზრდება {PAWN_nameDef} ახლა.</MessageCannotPostponeGrowthMoment>
+
+  <MessageDraftedPawnCarryingBaby>გაფრთხილება: {0_labelShort} ატარებს ბავშვს გაწვევის დროს.</MessageDraftedPawnCarryingBaby>
+  <MessageTakingBabyToSafeTemperature>{ADULT_nameDef} მოძრაობს {BABY_nameDef} სადმე უფრო უსაფრთხო ტემპერატურით.</MessageTakingBabyToSafeTemperature>
+
+  <MessagePregnancyFailed>ორსულობა ვერ მოხერხდა {MOTHER_nameDef}-დან {FATHER_nameDef}-მდე</MessagePregnancyFailed>
+  <MessageFerilizeFailed>{PAWN_nameDef}-მა ვერ შეძლო კვერცხუჯრედის განაყოფიერება</MessageFerilizeFailed>
+  <CombinedGenesExceedMetabolismLimits>კომბინირებული გენები აჭარბებს მეტაბოლიზმის ლიმიტს.</CombinedGenesExceedMetabolismLimits>
+
+  <MessageStartingPawnCapableOfViolence>დამწყებ კოლონისტებს უნდა შეეძლოთ ძალადობა სამეურვეო რეჟიმში.</MessageStartingPawnCapableOfViolence>
+</LanguageData>

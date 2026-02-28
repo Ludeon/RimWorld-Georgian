@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Body_Fat.description>მატარებლებს შეიძლება ჰქონდეთ ცხიმოვანი სხეული. ადამიანს შეიძლება ჰქონდეს სხეულის ტიპის ერთზე მეტი გენი; დაშვებულთა შორის შეირჩევა სხეულის ერთი ტიპი.</Body_Fat.description>
+  <Body_Fat.label>მსუქანი სხეული</Body_Fat.label>
+  <Body_Hulk.description>მატარებლებს შეიძლება ჰქონდეთ დიდი სხეული. ადამიანს შეიძლება ჰქონდეს სხეულის ტიპის ერთზე მეტი გენი; დაშვებულთა შორის შეირჩევა სხეულის ერთი ტიპი.</Body_Hulk.description>
+  <Body_Hulk.label>ჰალკის სხეული</Body_Hulk.label>
+  <Body_Standard.description>მატარებლებს შეიძლება ჰქონდეთ საშუალო ფორმის სხეული. ადამიანს შეიძლება ჰქონდეს სხეულის ტიპის ერთზე მეტი გენი; დაშვებულთა შორის შეირჩევა სხეულის ერთი ტიპი.</Body_Standard.description>
+  <Body_Standard.label>სტანდარტული სხეული</Body_Standard.label>
+  <Body_Thin.description>მატარებლებს შეიძლება ჰქონდეთ თხელი სხეული. ადამიანს შეიძლება ჰქონდეს სხეულის ტიპის ერთზე მეტი გენი; დაშვებულთა შორის შეირჩევა სხეულის ერთი ტიპი.</Body_Thin.description>
+  <Body_Thin.label>თხელი სხეული</Body_Thin.label>
+  <Ears_Cat.description>ამ გენის მატარებლებს კატის მსგავსი ყურები აქვთ.</Ears_Cat.description>
+  <Ears_Cat.label>კატის ყურები</Ears_Cat.label>
+  <Ears_Floppy.description>ამ გენის მატარებლები იზრდებიან გრძელ, მოქნილი ძაღლის მსგავსი ყურები.</Ears_Floppy.description>
+  <Ears_Floppy.label>ფლოპი ყურები</Ears_Floppy.label>
+  <Ears_Human.description>ამ გენის მატარებლებს აქვთ რეგულარული ადამიანის ყურები.</Ears_Human.description>
+  <Ears_Human.label>ადამიანის ყურები</Ears_Human.label>
+  <Ears_Pig.description>ამ გენის მატარებლებს გაუზრდიან ღორის წვეტიანი ყურები.</Ears_Pig.description>
+  <Ears_Pig.label>ღორის ყურები</Ears_Pig.label>
+  <Ears_Pointed.description>ამ გენის მატარებლებს წვეტიანი ყურები აქვთ.</Ears_Pointed.description>
+  <Ears_Pointed.label>წვეტიანი ყურები</Ears_Pointed.label>
+  <ElongatedFingers.description>გრძელი, ნაზი თითები აუმჯობესებს გადამზიდის მანიპულირების შესაძლებლობებს. ეს ეხმარება ბევრ ამოცანას, განსაკუთრებით ხელოსნობასა და მშენებლობას.</ElongatedFingers.description>
+  <ElongatedFingers.label>წაგრძელებული თითები</ElongatedFingers.label>
+  <Hands_Human.description>ამ გენის მატარებლებს აქვთ ჩვეულებრივი ადამიანის ხელები.</Hands_Human.description>
+  <Hands_Human.label>ადამიანის ხელები</Hands_Human.label>
+  <Hands_Pig.description>ამ გენის მატარებლებს აქვთ ხელები, რომლებიც ნაწილობრივ წააგავს ღორის ტროტერებს. ეს ამცირებს მათ უნარს ობიექტებით მანიპულირება.</Hands_Pig.description>
+  <Hands_Pig.label>ტროტერი ხელები</Hands_Pig.label>
+  <Head_Gaunt.description>ამ გენის მატარებლებს სახეზე და თავში დახუნძლული გარეგნობა აქვთ.</Head_Gaunt.description>
+  <Head_Gaunt.label>დაღლილი თავი</Head_Gaunt.label>
+  <Headbone_CenterHorn.description>ამ გენის მატარებლებს შუბლის ცენტრიდან ამოვარდნილი ერთი რქა ზრდიან.</Headbone_CenterHorn.description>
+  <Headbone_CenterHorn.label>ცენტრი-რქა</Headbone_CenterHorn.label>
+  <Headbone_Human.description>ამ გენის მატარებლებს აქვთ ჩვეულებრივი ადამიანის თავის ქალა.</Headbone_Human.description>
+  <Headbone_Human.label>ადამიანის თავის ძვალი</Headbone_Human.label>
+  <Headbone_MiniHorns.description>ამ გენის მატარებლებს შუბლიდან ამოსული ორი პატარა რქა უზრდებათ.</Headbone_MiniHorns.description>
+  <Headbone_MiniHorns.label>მინი რქები</Headbone_MiniHorns.label>
+  <Jaw_Baseline.description>ამ გენის მატარებლებს აქვთ რეგულარული ფორმის ყბები.</Jaw_Baseline.description>
+  <Jaw_Baseline.label>ადამიანის ყბა</Jaw_Baseline.label>
+  <Jaw_Heavy.description>ამ გენის მატარებლებს დიდი ყბები აქვთ.</Jaw_Heavy.description>
+  <Jaw_Heavy.label>მძიმე ყბა</Jaw_Heavy.label>
+  <Nose_Human.description>ამ გენის მატარებლებს აქვთ ჩვეულებრივი ადამიანის ცხვირი.</Nose_Human.description>
+  <Nose_Human.label>ადამიანის ცხვირი</Nose_Human.label>
+  <Nose_Pig.description>ამ გენის მატარებლებს აქვთ ღორის მსგავსი შუბლი.</Nose_Pig.description>
+  <Nose_Pig.label>ღორის ცხვირი</Nose_Pig.label>
+  <Voice_Human.description>ამ გენის მატარებლებს აქვთ რეგულარული ადამიანის ვოკალური იოგები.</Voice_Human.description>
+  <Voice_Human.label>ადამიანის ხმა</Voice_Human.label>
+  <VoicePig.description>გადამზიდველებს ღორის ხმაურიანი ხმა აქვთ.</VoicePig.description>
+  <VoicePig.label>ღორის ხმა</VoicePig.label>
+  <VoiceRoar.description>მატარებლებს აქვთ ცხოველის მსგავსი მღელვარე ხმა.</VoiceRoar.description>
+  <VoiceRoar.label>ღრიალის ხმა</VoiceRoar.label>
+</LanguageData>

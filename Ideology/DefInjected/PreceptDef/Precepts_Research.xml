@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Research_ExtremelySlow.description>კვლევა საერთოდ არ არის ღირებული საქმიანობა. რატომ ვცდილობთ ამას?</Research_ExtremelySlow.description>
+  <Research_ExtremelySlow.label>უკიდურესად ნელი</Research_ExtremelySlow.label>
+  <Research_Fast.description>კვლევა განსაკუთრებით სათნო საქმიანობაა.</Research_Fast.description>
+  <Research_Fast.label>სწრაფი</Research_Fast.label>
+  <Research_None.description>ტექნოლოგიების კვლევა ამორალური ქმედებაა. ეს არ არის გასაკეთებელი.</Research_None.description>
+  <Research_None.label>დაუშვებელია</Research_None.label>
+  <Research_Normal.description>კვლევა არის ღირებული სამუშაო ფორმა, რომელიც საზოგადოებას სჭირდება.</Research_Normal.description>
+  <Research_Normal.label>ნორმალური</Research_Normal.label>
+  <Research_Slow.description>კვლევითი სამუშაო უბრალოდ არ არის განსაკუთრებით მნიშვნელოვანი. რატომ ვცდილობთ ამას?</Research_Slow.description>
+  <Research_Slow.label>ნელი</Research_Slow.label>
+  <Research_VeryFast.description>კვლევა არის ერთ-ერთი ყველაზე მნიშვნელოვანი ქმედება, რომელიც ადამიანს შეუძლია შეასრულოს.</Research_VeryFast.description>
+  <Research_VeryFast.label>ძალიან სწრაფი</Research_VeryFast.label>
+  <Research_VerySlow.description>კვლევითი სამუშაო სერიოზულ პატივისცემას არ იმსახურებს. სჯობს, არ დანახოთ, რომ ძალიან ცდილობთ მას.</Research_VerySlow.description>
+  <Research_VerySlow.label>ძალიან ნელი</Research_VerySlow.label>
+</LanguageData>

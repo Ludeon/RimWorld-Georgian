@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Beauty.description>რამდენად სასიამოვნოა ობიექტზე ყურება.\n\nლამაზი ობიექტები პერსონაჟების სილამაზის მოთხოვნილებას აკმაყოფილებს.</Beauty.description>
+  <Beauty.label>სილამაზე</Beauty.label>
+  <BeautyOutdoors.description>რამდენად სასიამოვნოა რაიმეს ყურება, თუ ის გარეთ დგას.\n\nლამაზი ობიექტები ადამიანების სილამაზის მოთხოვნილებას აკმაყოფილებს.</BeautyOutdoors.description>
+  <BeautyOutdoors.label>გარე სილამაზე</BeautyOutdoors.label>
+  <CaravanBonusSpeedFactor.description>მულტიპლიკატორი გამოიყენება ქარავნის სიჩქარეზე, როდესაც ეს ადამიანი ქარავნის ნაწილია.</CaravanBonusSpeedFactor.description>
+  <CaravanBonusSpeedFactor.label>ქარავნის სიჩქარის ფაქტორი</CaravanBonusSpeedFactor.label>
+  <Cleanliness.description>რამდენად უწყობს ხელს ობიექტი ტერიტორიის სისუფთავის ქულას.</Cleanliness.description>
+  <Cleanliness.label>სისუფთავე</Cleanliness.label>
+  <Comfort.description>რამდენად კომფორტულია ობიექტზე ჯდომა ან წოლა.\n\nკომფორტული ნივთების გამოყენება პერსონაჟის კომფორტის მოთხოვნილებას აკმაყოფილებს.</Comfort.description>
+  <Comfort.label>კომფორტს</Comfort.label>
+  <DeteriorationRate.description>რამდენად სწრაფად ფუჭდება ეს ნივთი გარეთ დატოვებისას, საშუალოდ დღეში რამდენ HP-ს კარგავს.\n\nგაფუჭების სიჩქარეზე გავლენას ახდენს ამინდი, სახურავი, ტოქსიკური ნალექი და სხვა პირობებიც.</DeteriorationRate.description>
+  <DeteriorationRate.label>გაუარესების მაჩვენებელი</DeteriorationRate.label>
+  <Flammability.description>რამდენად ადვილად იკიდებს ცეცხლს საგანი და რამდენად სწრაფად გაიზრდება ცეცხლი მისი დაწვისას.</Flammability.description>
+  <Flammability.label>აალებადი</Flammability.label>
+  <FoodPoisonChanceFixedHuman.description>შანსი, რომ ეს საკვები გამოიწვიოს საკვები მოწამვლა.</FoodPoisonChanceFixedHuman.description>
+  <FoodPoisonChanceFixedHuman.label>საკვები მოწამვლის შანსი</FoodPoisonChanceFixedHuman.label>
+  <MarketValue.description>ობიექტის საბაზრო ღირებულება.\n\nვაჭრობის რეალური ფასი დამატებით იცვლება მოლაპარაკების უნარით, ურთიერთობებით და სხვა გარემოებებით.</MarketValue.description>
+  <MarketValue.label>საბაზრო ღირებულება</MarketValue.label>
+  <MarketValueIgnoreHp.label>საბაზრო ღირებულება დარტყმების იგნორირება</MarketValueIgnoreHp.label>
+  <Mass.description>საგნის ან არსების ფიზიკური მასა.</Mass.description>
+  <Mass.label>მასა</Mass.label>
+  <MaxHitPoints.description>ობიექტის მაქსიმალური გამძლეობა.\n\nეს აჩვენებს, რამდენ დაზიანებას უძლებს ის განადგურებამდე.</MaxHitPoints.description>
+  <MaxHitPoints.label>დარტყმის მაქსიმალური რაოდენობა</MaxHitPoints.label>
+  <Nutrition.description>რამდენად მკვებავია ეს საკვები.</Nutrition.description>
+  <Nutrition.label>კვება</Nutrition.label>
+  <RoyalFavorValue.description>პატივის ოდენობა, რომელსაც თქვენი ტრეიდერი გამოიმუშავებს ხარკის ამკრეფისთვის ამის გადაცემისთვის.</RoyalFavorValue.description>
+  <RoyalFavorValue.label>საპატიო ღირებულება</RoyalFavorValue.label>
+  <SellPriceFactor.description>მულტიპლიკატორი იმ ფასზე, რომლითაც შეგიძლიათ ნივთების გაყიდვა.</SellPriceFactor.description>
+  <SellPriceFactor.label>გაყიდვის ფასის მულტიპლიკატორი</SellPriceFactor.label>
+  <ShootingAccuracyTurret.description>საბაზისო შანსი, რომ გასროლა თითო უჯრედ მანძილზე არ აცდეს.\n\nმოხვედრის შანსზე ბევრი სხვა ფაქტორიც მოქმედებს. ნებისმიერი გასროლის ახსნა ჩანს მსროლელის მონიშვნისა და სამიზნეზე მაუსის გაჩერებისას.</ShootingAccuracyTurret.description>
+  <ShootingAccuracyTurret.label>სროლის სიზუსტე</ShootingAccuracyTurret.label>
+  <WorkToMake.description>სამუშაოს ძირითადი რაოდენობა, რომელიც საჭიროა ნივთის დასამზადებლად, მას შემდეგ, რაც ყველა მასალა შეგროვდება.</WorkToMake.description>
+  <WorkToMake.label>მუშაობა გასაკეთებლად</WorkToMake.label>
+</LanguageData>

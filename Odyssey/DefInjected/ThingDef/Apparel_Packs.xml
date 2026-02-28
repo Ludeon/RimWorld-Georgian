@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apparel_CerebrexNode.description>ურთიერთდაკავშირების კვანძი ამოღებული მეხივის ცერებრექსის ბირთვიდან. ის შეიძლება გამოყენებულ იქნას პლანეტის მასშტაბით მექანოიდური სატელიტური ქსელიდან მექანოიდების ან მექანიკური სატრანსპორტო კვანძების გამოსაძახებლად.</Apparel_CerebrexNode.description>
+  <Apparel_CerebrexNode.label>ცერებრექსის კვანძი</Apparel_CerebrexNode.label>
+  <Apparel_PackHunter.description>შესანახი პაკეტი, რომელიც ახორციელებს მონადირე დრონს. დრონი დაიხურება მიზანთან ერთად და აფეთქდება, როდესაც ის დისტანციურ მანძილზე იქნება.</Apparel_PackHunter.description>
+  <Apparel_PackHunter.label>მონადირეთა შეკვრა</Apparel_PackHunter.label>
+  <Grenade_HunterPack.label>hunter pack კაფსულა</Grenade_HunterPack.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OrbitalScanner.description>A sensor unit that passively scans for irregular objects orbiting the planet. It will periodically detect locations in orbit that can be visited with transport pods, shuttles, or gravships.\n\nThe scanner won't function under a roof. Building multiple orbital scanners does not increase the chance to find new locations.</OrbitalScanner.description>
+  <OrbitalScanner.label>ორბიტალური სკანერი</OrbitalScanner.label>
+  <OxygenPump.description>კედელზე დამაგრებული პატარა ერთეული, რომელიც ათავისუფლებს ჟანგბადს მიმდებარე ოთახში, რაც საშუალებას აძლევს დახურულ ტერიტორიებს რეპრესირება მოახდინოს სივრცეში. აუცილებელია ორბიტაზე ხანგრძლივი ყოფნისთვის.</OxygenPump.description>
+  <OxygenPump.label>ჟანგბადის ტუმბო</OxygenPump.label>
+  <VacBarrier.description>An ultrasonic barrier that prevents depressurization in space. The field compresses air molecules near the threshold, preventing gases from escaping while allowing people to freely travel through it. A vac barrier will do nothing to prevent intruders.\n\nMust be powered to prevent depressurization.</VacBarrier.description>
+  <VacBarrier.label>ვაკ ბარიერი</VacBarrier.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Plant_Alocasia.description>ტროპიკული მცენარე. მისი უკიდურესად ფართო ფოთლები ტროპიკული ტყეების საყოველთაოდ აღიარებული აღმნიშვნელია.</Plant_Alocasia.description>
+  <Plant_Alocasia.label>ალოკაზია</Plant_Alocasia.label>
+  <Plant_Clivia.description>უჩვეულო მცენარე მაღალი, ლამაზი ყვავილებით. ზოგი მას "ბუჩქის შროშანას" უწოდებს.</Plant_Clivia.description>
+  <Plant_Clivia.label>კლივია</Plant_Clivia.label>
+  <Plant_Rafflesia.description>იშვიათი, გიგანტური ყვავილი, რომელიც გვხვდება ორთქლმოყრილ ჯუნგლებში. თქვენ ფიქრობთ, რომ გიგანტური ყვავილი ლამაზი იქნება, მაგრამ ეს გარეგნულად და სუნი აქვს, როგორც გახრწნილი ხორცი.</Plant_Rafflesia.description>
+  <Plant_Rafflesia.label>გიგანტური რაფლეზია</Plant_Rafflesia.label>
+  <Plant_ShrubLow.description>სხვადასხვა დაბალ ფოთლოვანი ბუჩქები. ისინი გროვდებიან და ანელებენ მოძრაობას.</Plant_ShrubLow.description>
+  <Plant_ShrubLow.label>დაბალი ბუჩქები</Plant_ShrubLow.label>
+  <Plant_TreeBamboo.description>სწრაფად მზარდი ხის მსგავსი მცენარე, რომელიც იზრდება მკვრივ კორომებში. ბამბუკის დაკრეფა შესაძლებელია ხის მსგავსი მასალისთვის. თავად მცენარე არ არის ლამაზი.</Plant_TreeBamboo.description>
+  <Plant_TreeBamboo.label>ბამბუკის ხე</Plant_TreeBamboo.label>
+  <Plant_TreeCecropia.description>ტროპიკული ტყის ერთ-ერთი ყველაზე გავრცელებული ხე. Cecropia იზრდება ძალიან სწრაფად, მაგრამ იძლევა მცირე გამოსაყენებელ ხეს.</Plant_TreeCecropia.description>
+  <Plant_TreeCecropia.label>ცეკროპიის ხე</Plant_TreeCecropia.label>
+  <Plant_TreePalm.description>ტროპიკული ხე მაღალი, შიშველი ტოტით, რომელსაც თავზე ძალიან ფართო ფოთლები აქვს. სამწუხაროდ, ეს ჯიში არ იძლევა საკვებად საკვებ ქოქოსს.</Plant_TreePalm.description>
+  <Plant_TreePalm.label>პალმის ხე</Plant_TreePalm.label>
+  <Plant_TreeTeak.description>განსაკუთრებით ძლიერი ხისტი ხე, რომელიც იზრდება თბილ კლიმატში. იმის გამო, რომ ტიის ხე ძალიან გამძლე და წყალგამძლეა, ძველ დროში მას იყენებდნენ ხის მცურავი გემების კელის შესაქმნელად.</Plant_TreeTeak.description>
+  <Plant_TreeTeak.label>ტიის ხე</Plant_TreeTeak.label>
+</LanguageData>

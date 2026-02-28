@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CreateIncident.label>ინციდენტის შექმნა</CreateIncident.label>
+  <CreateQuest.label>ქვესტის შექმნა</CreateQuest.label>
+  <DisableIncident.label>ინციდენტის გამორთვა</DisableIncident.label>
+  <DisableQuest.label>ქვესტის გამორთვა</DisableQuest.label>
+  <ForcedHediff.label>იძულებითი ჯანმრთელობის მდგომარეობა</ForcedHediff.label>
+  <ForcedTrait.label>იძულებითი თვისება</ForcedTrait.label>
+  <GameCondition_Planetkiller.label>პლანეტამკვლელი იარაღი შემოვიდა</GameCondition_Planetkiller.label>
+  <GameStartDialog.label>თამაშის დაწყების დიალოგი</GameStartDialog.label>
+  <Naked.label>შიშველი</Naked.label>
+  <NoPossessions.label>არანაირი ქონება</NoPossessions.label>
+  <OnPawnDeathExplode.label>გმირები აფეთქებენ სიკვდილს</OnPawnDeathExplode.label>
+  <PawnFilter_Age.label>დასაშვები ასაკობრივი დიაპაზონი</PawnFilter_Age.label>
+  <PermanentGameCondition.label>მუდმივი თამაშის მდგომარეობა</PermanentGameCondition.label>
+  <PlanetLayer.label>პლანეტის ფენის ტიპი</PlanetLayer.label>
+  <Rule_DisallowBuilding.label>შენობის აკრძალვა</Rule_DisallowBuilding.label>
+  <Rule_DisallowDesignator_Hunt.description>ნადირობა არ შეიძლება.</Rule_DisallowDesignator_Hunt.description>
+  <Rule_DisallowDesignator_Hunt.label>არ შეუძლია ნადირობა</Rule_DisallowDesignator_Hunt.label>
+  <Rule_DisallowDesignator_Mine.description>ჩემი არ შეიძლება.</Rule_DisallowDesignator_Mine.description>
+  <Rule_DisallowDesignator_Mine.label>ჩემი არ შეიძლება</Rule_DisallowDesignator_Mine.label>
+  <Rule_DisallowDesignator_Tame.description>არ შეუძლია ცხოველების მოთვინიერება.</Rule_DisallowDesignator_Tame.description>
+  <Rule_DisallowDesignator_Tame.label>მოთვინიერება არ შეუძლია</Rule_DisallowDesignator_Tame.label>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.description>არ შეიძლება მცენარეების დათესვა მიწაზე.</Rule_DisallowDesignator_ZoneAdd_Growing.description>
+  <Rule_DisallowDesignator_ZoneAdd_Growing.label>არ შეიძლება დათესვა</Rule_DisallowDesignator_ZoneAdd_Growing.label>
+  <ScatterThingsAnywhere.label>მიმოფანტული შემთხვევით</ScatterThingsAnywhere.label>
+  <ScatterThingsNearPlayerStart.label>დაიწყეთ ახლოს</ScatterThingsNearPlayerStart.label>
+  <SetNeedLevel.label>დააყენეთ საჭიროების დონე</SetNeedLevel.label>
+  <StartingAnimal.label>დაწყება ცხოველით (ცხოველებით)</StartingAnimal.label>
+  <StartingResearch.label>დაიწყეთ კვლევით</StartingResearch.label>
+  <StartingThing_Defined.label>იწყება</StartingThing_Defined.label>
+  <StatFactor.label>სტატისტიკის მულტიპლიკატორი</StatFactor.label>
+</LanguageData>

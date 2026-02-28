@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArtsPatron54.description>[PAWN_nameDef] managed [PAWN_possessive] family's investments in the arts.
+\n[PAWN_pronoun] chose artists to patronize and worked with them to produce the expressions that most glorify [PAWN_possessive] family, the Imperial church, and the Empire itself.</ArtsPatron54.description>
+  <ArtsPatron54.title>ხელოვნების მფარველი</ArtsPatron54.title>
+  <ArtsPatron54.titleShort>პატრონი</ArtsPatron54.titleShort>
+  <Beastmaster67.description>[PAWN_nameDef]'s family had more children than they had proper titles to inherit. Being of low rank in the birth order, [PAWN_nameDef] was given the honorary title of beastmaster.
+\n[PAWN_nameDef] managed the family's extensive menagerie. While [PAWN_pronoun] never worked hands-on with the beasts, [PAWN_pronoun] connected with them. Few others appreciated [PAWN_objective] the way they did.</Beastmaster67.description>
+  <Beastmaster67.title>მხეცოსტატი</Beastmaster67.title>
+  <Beastmaster67.titleShort>მხეცოსტატი</Beastmaster67.titleShort>
+  <Landworker98.description>[PAWN_nameDef] held the position of landworker in [PAWN_possessive] royal house. [PAWN_pronoun] managed the family's lands and all the resources on them - both agricultural and mineral.
+\nThough [PAWN_pronoun] would never work the machines [PAWN_objective]self, managing these enterprises required learning the methods of farming and mining in detail.</Landworker98.description>
+  <Landworker98.title>მიწის მუშაკი</Landworker98.title>
+  <Landworker98.titleShort>მიწის მუშაკი</Landworker98.titleShort>
+  <Regent9.description>When [PAWN_nameDef]'s family's ally was killed, and [PAWN_possessive] young son inherited his throne, [PAWN_nameDef] was appointed as regent to rule in the child's stead.
+\n[PAWN_pronoun] oversaw diverse matters of house and title, from finances to war to greedy relatives intent on usurping the throne. [PAWN_nameDef] never abused [PAWN_possessive] position.</Regent9.description>
+  <Regent9.title>რეგენტი</Regent9.title>
+  <Regent9.titleShort>რეგენტი</Regent9.titleShort>
+  <Spymaster41.description>როგორც კი [PAWN_pronoun] საკმარისად დაბერდა, [PAWN_nameDef] მიენიჭა ჯაშუშის პოსტი [PAWN_possessive] სახლისთვის. [PAWN_possessive] ცივმა, გამომთვლელმა ბუნებამ [PAWN_objective] ბუნებრივად აქცია დანა, შხამი და ღალატის ხელოვნება.</Spymaster41.description>
+  <Spymaster41.title>მზვერავი</Spymaster41.title>
+  <Spymaster41.titleShort>მზვერავი</Spymaster41.titleShort>
+  <Warmaster54.description>[PAWN_nameDef] was warmaster to a mid-level royal house. [PAWN_pronoun] oversaw military aspects of the family's strategy.
+\nOn the rare occasion a battle occurred, [PAWN_nameDef] directed the military commanders.</Warmaster54.description>
+  <Warmaster54.title>გამათბობელი</Warmaster54.title>
+  <Warmaster54.titleShort>გამათბობელი</Warmaster54.titleShort>
+</LanguageData>

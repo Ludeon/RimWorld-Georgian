@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <StatsReport_GravshipRangeOffset>საფლავის დიაპაზონის ოფსეტი</StatsReport_GravshipRangeOffset>
+  <StatsReport_GravshipRangeOffset_Desc>რამდენად უფრო შორს აძლევს ამ შენობას საგრაფოს მოგზაურობის საშუალებას მსოფლიო რუკაზე.</StatsReport_GravshipRangeOffset_Desc>
+  <StatsReport_GravshipFuelSavings>საწვავის დაზოგვა</StatsReport_GravshipFuelSavings>
+  <StatsReport_GravshipFuelSavings_Desc>რამდენად ამცირებს ეს შენობა საწვავი, რომელიც საჭიროა სატვირთო გემით მოგზაურობისთვის.</StatsReport_GravshipFuelSavings_Desc>
+  <StatsReport_GravEngineFuelConsumption>საწვავის მოხმარება</StatsReport_GravEngineFuelConsumption>
+  <StatsReport_GravEngineFuelConsumption_Desc>მულტიპლიკატორი იმის შესახებ, თუ რამდენი საწვავია საჭირო სატვირთო გემზე მოგზაურობის დროს.</StatsReport_GravEngineFuelConsumption_Desc>
+
+  <Stat_ThingUniqueWeaponTrait_Label>მახასიათებლები</Stat_ThingUniqueWeaponTrait_Label>
+  <Stat_ThingUniqueWeaponTrait_Desc>ამ იარაღის ინდივიდუალური თვისებები.</Stat_ThingUniqueWeaponTrait_Desc>
+
+  <StatsReport_WeaponTraits>იარაღის თვისებები</StatsReport_WeaponTraits>
+  <StatsReport_BurstShotCountMultiplier>ადიდებული გასროლების რაოდენობის მულტიპლიკატორი</StatsReport_BurstShotCountMultiplier>
+  <StatsReport_BurstShotSpeedMultiplier>ხანძრის სიჩქარის მულტიპლიკატორი</StatsReport_BurstShotSpeedMultiplier>
+  <StatsReport_AdditionalStoppingPower>დენის ოფსეტური გაჩერება</StatsReport_AdditionalStoppingPower>
+
+  <Stat_Airtight>ჰაერგაუმტარი</Stat_Airtight>
+  <Stat_Airtight_Desc>ჰერმეტული კედლები ხელს უშლის ოთახის დეპრესიას სივრცის ვაკუუმში.</Stat_Airtight_Desc>
+
+  <ContainedApparelBeauty>შეიცავდა ტანსაცმლის სილამაზეს</ContainedApparelBeauty>
+
+  <StatsReport_SentienceCatalystInstalled>დაყენებულია Sentience კატალიზატორი.</StatsReport_SentienceCatalystInstalled>
+
+</LanguageData>

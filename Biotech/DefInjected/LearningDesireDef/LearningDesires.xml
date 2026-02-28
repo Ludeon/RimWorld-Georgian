@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Floordrawing.description>დახატეთ ნიმუშები ადგილზე ცარცის გამოყენებით. გამწმენდი საბოლოოდ ამოიღებს ნახატებს.</Floordrawing.description>
+  <Floordrawing.label>იატაკის ნახაზი</Floordrawing.label>
+  <Lessontaking.description>ბავშვზე ზრუნვაზე დანიშნული ზრდასრული ასწავლის სხვადასხვა თემებს. ეს იძლევა გამოცდილებას უნარებში. მოითხოვს სკოლის მერხს.</Lessontaking.description>
+  <Lessontaking.label>გაკვეთილის აღება</Lessontaking.label>
+  <NatureRunning.description>გამოიკვლიეთ ადგილობრივი გარე. მოითხოვს გარედან წვდომას.</NatureRunning.description>
+  <NatureRunning.label>ბუნების სირბილი</NatureRunning.label>
+  <Radiotalking.description>ესაუბრეთ ხალხს რადიოთი. საჭიროებს კომისიის პულტს.</Radiotalking.description>
+  <Radiotalking.label>რადიო საუბარი</Radiotalking.label>
+  <Reading.description>იპოვნეთ წიგნი და ივარჯიშეთ კითხვაში.</Reading.description>
+  <Reading.label>კითხვა</Reading.label>
+  <Skydreaming.description>იპოვნეთ ადგილი გარეთ და უყურეთ ცას. მოითხოვს გარედან წვდომას.</Skydreaming.description>
+  <Skydreaming.label>ცაზე ოცნებობს</Skydreaming.label>
+  <Workwatching.description>მიჰყევით ზრდასრულ ადამიანს და უყურეთ მათ მუშაობისას. ეს იძლევა გამოცდილებას უნარებში.</Workwatching.description>
+  <Workwatching.label>სამუშაო ყურება</Workwatching.label>
+</LanguageData>

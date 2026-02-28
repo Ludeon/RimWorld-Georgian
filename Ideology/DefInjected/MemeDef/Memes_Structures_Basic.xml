@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Structure_Animist.description>სულები ცხოვრობენ ჩვენს ირგვლივ ყველაფერში. მცენარეებსა და ცხოველებში, მდინარეებში და ხეებში, ცაში და ვარსკვლავებში. სამყაროს მორალური სტრუქტურა მათი პატივისცემის აუცილებლობიდან გამომდინარეობს.</Structure_Animist.description>
+  <Structure_Animist.label>ანიმისტი</Structure_Animist.label>
+  <Structure_Archist.description>არქოტექსები ჭეშმარიტი ღმერთები არიან. მათ იციან სამყაროს მორალური სტრუქტურა და მათ ვემსახურებით, როგორ დავუკავშირდებით მას.</Structure_Archist.description>
+  <Structure_Archist.label>არქისტი</Structure_Archist.label>
+  <Structure_Ideological.description>ღმერთები არ არსებობენ. სამყაროს მორალური სტრუქტურა გვხვდება სოციალური ძალების ჩვენს დიდ ნარატივში.</Structure_Ideological.description>
+  <Structure_Ideological.label>იდეოლოგიური</Structure_Ideological.label>
+  <Structure_TheistAbstract.description>ღმერთ(ებ)ს არ აქვთ ფიზიკური ფორმა, მაგრამ ყველგან არიან ერთდროულად. მათ ყველაფერი იციან და ყველაფრის გაკეთება შეუძლიათ. მათი ნება განსაზღვრავს სამყაროს მორალურ სტრუქტურას.</Structure_TheistAbstract.description>
+  <Structure_TheistAbstract.label>აბსტრაქტული თეისტი</Structure_TheistAbstract.label>
+  <Structure_TheistEmbodied.description>ღმერთი(ები) დადის პლანეტებზე, როგორც ჩვენ, მაგრამ ისინი ძლიერები და უკვდავები არიან, როგორც ჩვენ არ ვართ. ისინი წყვეტენ სამყაროს მორალურ სტრუქტურას.</Structure_TheistEmbodied.description>
+  <Structure_TheistEmbodied.label>განასახიერა თეისტი</Structure_TheistEmbodied.label>
+</LanguageData>

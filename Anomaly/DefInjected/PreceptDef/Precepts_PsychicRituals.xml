@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicRituals_Abhorrent.description>ფსიქიკური რიტუალები სრულიად ბოროტია.</PsychicRituals_Abhorrent.description>
+  <PsychicRituals_Abhorrent.label>საზიზღარი</PsychicRituals_Abhorrent.label>
+  <PsychicRituals_Disapproved.description>როდესაც ეს შესაძლებელია, თავიდან უნდა იქნას აცილებული ფსიქიკური რიტუალები.</PsychicRituals_Disapproved.description>
+  <PsychicRituals_Disapproved.label>არ მოიწონა</PsychicRituals_Disapproved.label>
+  <PsychicRituals_Exalted.description>ფსიქიკურ ნაკადებთან დაკავშირება გვაახლოებს სიმართლესთან.</PsychicRituals_Exalted.description>
+  <PsychicRituals_Exalted.label>ამაღლებული</PsychicRituals_Exalted.label>
+</LanguageData>

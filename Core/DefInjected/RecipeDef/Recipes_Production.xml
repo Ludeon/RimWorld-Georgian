@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DestroyApparel.description>გამოიყენეთ სითბო არასასურველი ტანსაცმლის გასანადგურებლად. ეს პროცესი უფრო სწრაფია ვიდრე დნობა და მუშაობს არადნობის საგნებზე, მაგრამ არ იძლევა რესურსებს.</DestroyApparel.description>
+  <DestroyApparel.jobString>ტანსაცმლის განადგურება.</DestroyApparel.jobString>
+  <DestroyApparel.label>გაანადგურე ტანსაცმელი</DestroyApparel.label>
+  <DestroyWeapon.description>გამოიყენეთ სითბო არასასურველი იარაღის გასანადგურებლად. ეს პროცესი უფრო სწრაფია ვიდრე დნობა და მუშაობს არადნობის საგნებზე, მაგრამ არ იძლევა რესურსებს.</DestroyWeapon.description>
+  <DestroyWeapon.jobString>იარაღის განადგურება.</DestroyWeapon.jobString>
+  <DestroyWeapon.label>გაანადგურე იარაღი</DestroyWeapon.label>
+  <ExtractMetalFromSlag.description>გამოიყენეთ სითბო და ძლიერი ელექტრომაგნიტები წიდის ნაჭრებიდან სასარგებლო ლითონის ამოსაღებად.</ExtractMetalFromSlag.description>
+  <ExtractMetalFromSlag.jobString>ლითონის დნობა წიდისგან.</ExtractMetalFromSlag.jobString>
+  <ExtractMetalFromSlag.label>დნობის ლითონისგან წიდა</ExtractMetalFromSlag.label>
+  <Make_ChemfuelFromOrganics.description>გააკეთეთ ქიმიური საწვავის პარტია ორგანული საკვებიდან ბიოსაწვავის მოპოვებით.</Make_ChemfuelFromOrganics.description>
+  <Make_ChemfuelFromOrganics.jobString>ქიმიური საწვავის დახვეწა ორგანული ნივთიერებებისგან.</Make_ChemfuelFromOrganics.jobString>
+  <Make_ChemfuelFromOrganics.label>გააკეთეთ ქიმიური საწვავი ორგანული ნივთიერებებისგან</Make_ChemfuelFromOrganics.label>
+  <Make_ChemfuelFromWood.description>გააკეთეთ ქიმიური საწვავის პარტია მორებიდან ხის გაზის ამოღებით და კონდენსირებით.</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.jobString>ქიმიური საწვავის დახვეწა ხისგან.</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromWood.label>დაამზადეთ ქიმიური საწვავი ხისგან</Make_ChemfuelFromWood.label>
+  <Make_ComponentIndustrial.description>გააკეთე კომპონენტი.</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.jobString>კომპონენტის დამზადება.</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.label>კომპონენტის გაკეთება</Make_ComponentIndustrial.label>
+  <Make_ComponentSpacer.description>შექმენით მოწინავე კომპონენტი.</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.jobString>მოწინავე კომპონენტის დამზადება.</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.label>გაფართოებული კომპონენტის გაკეთება</Make_ComponentSpacer.label>
+  <Make_Patchleather.description>შეუთავსეთ სხვადასხვა სახის ტყავი სუსტი ტყავის შესაქმნელად.</Make_Patchleather.description>
+  <Make_Patchleather.jobString>ტყავის ტყავის დამზადება.</Make_Patchleather.jobString>
+  <Make_Patchleather.label>ტყავის დამზადება</Make_Patchleather.label>
+  <Make_StoneBlocksAny.description>დაჭერით ქვის ნაჭრები გამოსაყენებელ ქვის ბლოკებად.</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.label>ნებისმიერი ქვის ბლოკის გაკეთება</Make_StoneBlocksAny.label>
+  <SmeltApparel.description>გამოიყენეთ სითბო და ძლიერი ელექტრომაგნიტები, რათა დაშალოთ მეტალის ტანსაცმელი, როგორიცაა ჯავშანი სასარგებლო რესურსებად.</SmeltApparel.description>
+  <SmeltApparel.jobString>დნობის ტანსაცმელი.</SmeltApparel.jobString>
+  <SmeltApparel.label>სუნი ტანსაცმელი</SmeltApparel.label>
+  <SmeltOrDestroyThing.description>გამოიყენეთ სითბო და ძლიერი ელექტრომაგნიტები, რათა დაშალოთ მეტალის ნივთები, როგორიცაა იარაღი და ჯავშანი სასარგებლო რესურსებად, ან გაანადგუროთ ისინი, თუ ისინი არ არის დნობის უნარი.</SmeltOrDestroyThing.description>
+  <SmeltOrDestroyThing.jobString>ადნობს/ანადგურებს.</SmeltOrDestroyThing.jobString>
+  <SmeltOrDestroyThing.label>ნივთის შენელება ან განადგურება</SmeltOrDestroyThing.label>
+  <SmeltWeapon.description>გამოიყენეთ სითბო და ძლიერი ელექტრომაგნიტები იარაღის სასარგებლო რესურსებად დასაშლელად.</SmeltWeapon.description>
+  <SmeltWeapon.jobString>დნობის იარაღი.</SmeltWeapon.jobString>
+  <SmeltWeapon.label>სუნის იარაღი</SmeltWeapon.label>
+</LanguageData>

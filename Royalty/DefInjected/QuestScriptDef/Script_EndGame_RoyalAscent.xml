@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EndGame_RoyalAscent.root.nodes.23.node.nodes.0.label>სტუმარი გარდაიცვალა: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.23.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.25.node.nodes.1.inspectString>უნდა წავიდეს შატლით</EndGame_RoyalAscent.root.nodes.25.node.nodes.1.inspectString>
+  <EndGame_RoyalAscent.root.nodes.25.node.nodes.2.label>შატლი ჩამოვიდა</EndGame_RoyalAscent.root.nodes.25.node.nodes.2.label>
+  <EndGame_RoyalAscent.root.nodes.29.node.nodes.0.label>{SUBJECT_bestRoyalTitle} უბედური</EndGame_RoyalAscent.root.nodes.29.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.30.node.nodes.0.label>სტუმარი გადაღებული: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.30.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.31.node.nodes.0.label>არასანქცირებული ოპერაცია: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.31.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.32.node.nodes.0.label>შეიწოვება ქსენოგერმი: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.32.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.33.node.nodes.0.label>სტუმარი წააგო: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.33.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.34.node.nodes.0.label>შატლი განადგურდა</EndGame_RoyalAscent.root.nodes.34.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.35.node.nodes.0.label>სტუმარი წააგო: {SUBJECT_definite}</EndGame_RoyalAscent.root.nodes.35.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.37.node.nodes.0.label>ქვესტი ვერ მოხერხდა: [resolvedQuestName]</EndGame_RoyalAscent.root.nodes.37.node.nodes.0.label>
+  <EndGame_RoyalAscent.root.nodes.7.label>ქვესტი ვერ მოხერხდა: [resolvedQuestName]</EndGame_RoyalAscent.root.nodes.7.label>
+</LanguageData>

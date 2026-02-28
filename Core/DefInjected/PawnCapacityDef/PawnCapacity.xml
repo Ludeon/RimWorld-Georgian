@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BloodFiltration.label>სისხლის ფილტრაცია</BloodFiltration.label>
+  <BloodPumping.label>სისხლის გადატუმბვა</BloodPumping.label>
+  <Breathing.label>სუნთქვა</Breathing.label>
+  <Consciousness.label>ცნობიერება</Consciousness.label>
+  <Eating.label>ჭამა</Eating.label>
+  <Hearing.label>მოსმენა</Hearing.label>
+  <Manipulation.label>მანიპულირება</Manipulation.label>
+  <Metabolism.label>საჭმლის მონელება</Metabolism.label>
+  <Moving.label>მოძრავი</Moving.label>
+  <Sight.label>მხედველობა</Sight.label>
+  <Talking.label>საუბარი</Talking.label>
+</LanguageData>

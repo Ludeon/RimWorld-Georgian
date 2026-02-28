@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ResurrectHeavyMech.description>აღადგინეთ მძიმე წონის კლასის მეგობრული მექანოიდი. მანამ, სანამ მექანოიდის სხეული მთლიანად არ არის განადგურებული, ის შეიძლება აღდგეს.</ResurrectHeavyMech.description>
+  <ResurrectHeavyMech.label>აღადგინოს მძიმე მექანოიდი</ResurrectHeavyMech.label>
+  <ResurrectLightMech.description>აღადგინეთ მსუბუქი წონის კლასის მეგობრული მექანოიდი. მანამ, სანამ მექანოიდის სხეული მთლიანად არ არის განადგურებული, ის შეიძლება აღდგეს.</ResurrectLightMech.description>
+  <ResurrectLightMech.label>აღმდგარი სინათლის მექანოიდი</ResurrectLightMech.label>
+  <ResurrectMediumMech.description>აღადგინეთ საშუალო წონით კლასის მეგობრული მექანოიდი. მანამ, სანამ მექანოიდის სხეული მთლიანად არ არის განადგურებული, ის შეიძლება აღდგეს.</ResurrectMediumMech.description>
+  <ResurrectMediumMech.label>აღდგომა საშუალო მექანოიდი</ResurrectMediumMech.label>
+  <ResurrectUltraheavyMech.description>გააცოცხლეთ ულტრამძიმე წონით კლასის მეგობრული მექანოიდი. მანამ, სანამ მექანოიდის სხეული მთლიანად არ არის განადგურებული, ის შეიძლება აღდგეს.</ResurrectUltraheavyMech.description>
+  <ResurrectUltraheavyMech.label>აღადგენს ულტრა მძიმე მექანოიდს</ResurrectUltraheavyMech.label>
+</LanguageData>

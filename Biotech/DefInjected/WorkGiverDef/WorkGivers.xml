@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BottleFeedBaby.gerund>კვება</BottleFeedBaby.gerund>
+  <BottleFeedBaby.label>კვებავს ჩვილებს</BottleFeedBaby.label>
+  <BottleFeedBaby.verb>შესანახი</BottleFeedBaby.verb>
+  <BreastfeedBaby.gerund>ძუძუთი კვება</BreastfeedBaby.gerund>
+  <BreastfeedBaby.label>ძუძუთი კვებავთ ბავშვებს</BreastfeedBaby.label>
+  <BreastfeedBaby.verb>ძუძუთი კვება</BreastfeedBaby.verb>
+  <BringBabyToSafety.gerund>გადარჩენა</BringBabyToSafety.gerund>
+  <BringBabyToSafety.label>მიიყვანეთ ბავშვები უსაფრთხო ტემპერატურაზე</BringBabyToSafety.label>
+  <BringBabyToSafety.verb>გადარჩენა</BringBabyToSafety.verb>
+  <CarryToBreastfeed.gerund>დედის ძუძუთი კვება</CarryToBreastfeed.gerund>
+  <CarryToBreastfeed.label>დედასთან მიტანა</CarryToBreastfeed.label>
+  <CarryToBreastfeed.verb>აიძულე დედა ძუძუთი აწოვოს</CarryToBreastfeed.verb>
+  <CarryToGeneExtractor.gerund>გენების ამოღება</CarryToGeneExtractor.gerund>
+  <CarryToGeneExtractor.label>გენის ექსტრაქტორამდე გადატანა</CarryToGeneExtractor.label>
+  <CarryToGeneExtractor.verb>გენების ამოღება</CarryToGeneExtractor.verb>
+  <CarryToGrowthVat.gerund>მზარდი</CarryToGrowthVat.gerund>
+  <CarryToGrowthVat.label>გადაიტანეთ ზრდის ღვეზე</CarryToGrowthVat.label>
+  <CarryToGrowthVat.verb>იზრდება</CarryToGrowthVat.verb>
+  <CarryToSubcoreScanner.gerund>ტარება</CarryToSubcoreScanner.gerund>
+  <CarryToSubcoreScanner.label>გადაიტანეთ ქვებირთვულ სკანერზე</CarryToSubcoreScanner.label>
+  <CarryToSubcoreScanner.verb>ტარება</CarryToSubcoreScanner.verb>
+  <ChildcarerTeach.gerund>სწავლება</ChildcarerTeach.gerund>
+  <ChildcarerTeach.label>ასწავლე ბავშვს</ChildcarerTeach.label>
+  <ChildcarerTeach.verb>ასწავლე</ChildcarerTeach.verb>
+  <CleanClearPollution.gerund>დასუფთავების დაბინძურება</CleanClearPollution.gerund>
+  <CleanClearPollution.label>სუფთა დაბინძურება</CleanClearPollution.label>
+  <CleanClearPollution.verb>სუფთა დაბინძურება</CleanClearPollution.verb>
+  <CreateXenogerm.gerund>ქსენოგერმის შექმნა ზე</CreateXenogerm.gerund>
+  <CreateXenogerm.label>ქსენოგერმის შექმნა</CreateXenogerm.label>
+  <CreateXenogerm.verb>ქსენოგერმის შექმნა</CreateXenogerm.verb>
+  <DeliverHemogenToPrisoner.gerund>ჰემოგენის მიწოდება ამისთვის</DeliverHemogenToPrisoner.gerund>
+  <DeliverHemogenToPrisoner.label>ჰემოგენის მიწოდება პატიმრებს</DeliverHemogenToPrisoner.label>
+  <DeliverHemogenToPrisoner.verb>ჰემოგენის მიწოდება ამისთვის</DeliverHemogenToPrisoner.verb>
+  <DoBillsMechGestator.gerund>მუშაობს</DoBillsMechGestator.gerund>
+  <DoBillsMechGestator.label>რამის გაკეთება მეჩ გესტატორზე</DoBillsMechGestator.label>
+  <DoBillsMechGestator.verb>მუშაობა</DoBillsMechGestator.verb>
+  <DoBillsSubcoreEncoder.gerund>მუშაობს</DoBillsSubcoreEncoder.gerund>
+  <DoBillsSubcoreEncoder.label>რამის გაკეთება subcore encoder-ზე</DoBillsSubcoreEncoder.label>
+  <DoBillsSubcoreEncoder.verb>მუშაობა</DoBillsSubcoreEncoder.verb>
+  <EmptyWasteContainer.gerund>მოპოვება</EmptyWasteContainer.gerund>
+  <EmptyWasteContainer.label>ცარიელი ნარჩენების კონტეინერი</EmptyWasteContainer.label>
+  <EmptyWasteContainer.verb>ამონაწერი</EmptyWasteContainer.verb>
+  <EnterGeneExtractor.gerund>შესვლის</EnterGeneExtractor.gerund>
+  <EnterGeneExtractor.label>შეიყვანეთ გენის ექსტრაქტორი</EnterGeneExtractor.label>
+  <EnterGeneExtractor.verb>შედი</EnterGeneExtractor.verb>
+  <EnterGrowthVat.gerund>შესვლის</EnterGrowthVat.gerund>
+  <EnterGrowthVat.label>შეიტანეთ ზრდის ღვეზე</EnterGrowthVat.label>
+  <EnterGrowthVat.verb>შედი</EnterGrowthVat.verb>
+  <EnterSubcoreScanner.gerund>შესვლის</EnterSubcoreScanner.gerund>
+  <EnterSubcoreScanner.label>შეიყვანეთ ქვებირთვიანი სკანერი</EnterSubcoreScanner.label>
+  <EnterSubcoreScanner.verb>შედი</EnterSubcoreScanner.verb>
+  <FeedHemogen.gerund>ჰემოგენის შეყვანა</FeedHemogen.gerund>
+  <FeedHemogen.label>ჰემოგენის ადმინისტრირება</FeedHemogen.label>
+  <FeedHemogen.verb>ჰემოგენის შეყვანა</FeedHemogen.verb>
+  <HaulMechsToCharger.gerund>გადაზიდვა</HaulMechsToCharger.gerund>
+  <HaulMechsToCharger.label>გადაიტანეთ მექანიკა დამტენზე</HaulMechsToCharger.label>
+  <HaulMechsToCharger.verb>ზიდვა</HaulMechsToCharger.verb>
+  <HaulToCarrier.label>გადაზიდვის რესურსები</HaulToCarrier.label>
+  <HaulToGeneBank.gerund>საბანკო</HaulToGeneBank.gerund>
+  <HaulToGeneBank.label>ბანკის გენპაკეტი</HaulToGeneBank.label>
+  <HaulToGeneBank.verb>ბანკი</HaulToGeneBank.verb>
+  <HaulToGrowthVat.gerund>შევსება</HaulToGrowthVat.gerund>
+  <HaulToGrowthVat.label>გადაიტანეთ ზრდის ღვეზე</HaulToGrowthVat.label>
+  <HaulToGrowthVat.verb>შევსება</HaulToGrowthVat.verb>
+  <HaulToSubcoreScanner.label>რესურსების გადაზიდვა ქვებირთვული სკანერისთვის</HaulToSubcoreScanner.label>
+  <HaulToWastepackAtomizer.label>რესურსების გადაზიდვა ნარჩენების შეფუთვის ატომიზატორისთვის</HaulToWastepackAtomizer.label>
+  <PlayWithBaby.gerund>თამაშობს</PlayWithBaby.gerund>
+  <PlayWithBaby.label>თამაში ჩვილებთან</PlayWithBaby.label>
+  <PlayWithBaby.verb>თამაში</PlayWithBaby.verb>
+  <RepairMech.gerund>შეკეთება</RepairMech.gerund>
+  <RepairMech.label>სარემონტო მექ</RepairMech.label>
+  <RepairMech.verb>შეკეთება</RepairMech.verb>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Apparel_AdvancedHelmet.description>მსუბუქი საბრძოლო ჩაფხუტი რთული დიზაინით, გამაგრებული პლასტილით. არ არის ეფექტური ბლაგვი იარაღის წინააღმდეგ.</Apparel_AdvancedHelmet.description>
+  <Apparel_AdvancedHelmet.label>ფანტელი ჩაფხუტი</Apparel_AdvancedHelmet.label>
+  <Apparel_ArmorHelmetRecon.description>მაღალტექნოლოგიური ჯავშნიანი მუზარადი ჩაშენებული სტატუს-კომპიუტერით და დამცავი პლასტელ-ბოჭკოვანი ფირფიტით.\n\nასეთი ტიპის ჯავშანს ხშირად იყენებენ იმპერიის მზვერავები ან გლიტერვორლდის პოლიციის ძალები.</Apparel_ArmorHelmetRecon.description>
+  <Apparel_ArmorHelmetRecon.label>რეკონ ჩაფხუტი</Apparel_ArmorHelmetRecon.label>
+  <Apparel_BowlerHat.description>ლამაზი ქუდი, რომელიც გამოხატავს ოდნავ ქალაქურ, ფულის მოყვარულ სტილს. აუმჯობესებს სოციალურ გავლენას.</Apparel_BowlerHat.description>
+  <Apparel_BowlerHat.label>ბოულერის ქუდი</Apparel_BowlerHat.label>
+  <Apparel_ClothMask.description>ქსოვილის ნაჭერი, რომელიც ფარავს პირს და ცხვირს ტექსტილის რამდენიმე ფენით. საოცრად ეფექტურია გარემო ტოქსინების ზემოქმედების შესამცირებლად.</Apparel_ClothMask.description>
+  <Apparel_ClothMask.label>სახის ნიღაბი</Apparel_ClothMask.label>
+  <Apparel_CowboyHat.description>ელეგანტური, მაგრამ უხეში, ეს ქუდი იცავს მზესა და წვიმას - და ნებისმიერს, ვინც მას ატარებს, ანიჭებს დამატებით ხიბლს. ეს არის ტრადიციული დასავლური სამოსის ყველაზე მნიშვნელოვანი ნაწილი.</Apparel_CowboyHat.description>
+  <Apparel_CowboyHat.label>კოვბოის ქუდი</Apparel_CowboyHat.label>
+  <Apparel_HatHood.description>ფარდული კაპიუშონი, რომელიც ფარავს თავსა და ყურებს.</Apparel_HatHood.description>
+  <Apparel_HatHood.label>კაპოტი</Apparel_HatHood.label>
+  <Apparel_PowerArmorHelmet.description>საზღვაო ჯავშნის მუზარადი ჩაშენებული სტატუს-კომპიუტერით და მრავალშრიანი პლასტელ-ბოჭკოვანი ფირფიტებით.\n\nასეთ ჯავშანს ხშირად იყენებენ სწრაფი შეჭრის კოსმოსური საზღვაო ქვეითები.</Apparel_PowerArmorHelmet.description>
+  <Apparel_PowerArmorHelmet.label>საზღვაო ჩაფხუტი</Apparel_PowerArmorHelmet.label>
+  <Apparel_PsychicFoilHelmet.description>თხელი ჩაფხუტი, რომელიც შეიცავს ფსიქიკურად შთანთქმის ფოლგის წვრილად მორგებულ ფურცლებს. ამცირებს ფსიქიკური ტალღების ზემოქმედებას.</Apparel_PsychicFoilHelmet.description>
+  <Apparel_PsychicFoilHelmet.label>ფსიქიკური ფოლგის ჩაფხუტი</Apparel_PsychicFoilHelmet.label>
+  <Apparel_SimpleHelmet.description>მარტივი ჩაფხუტი, რომელიც იძლევა ზომიერ დაცვას მკვეთრი შეტევებისგან. არ არის ეფექტური ბლაგვი იარაღის წინააღმდეგ.</Apparel_SimpleHelmet.description>
+  <Apparel_SimpleHelmet.label>მარტივი ჩაფხუტი</Apparel_SimpleHelmet.label>
+  <Apparel_TribalHeaddress.description>ელეგანტური ტრადიციული სამოსი, ხშირად რელიგიური მნიშვნელობით. აუმჯობესებს სოციალურ გავლენას.</Apparel_TribalHeaddress.description>
+  <Apparel_TribalHeaddress.label>ტომობრივი თავსაბურავი</Apparel_TribalHeaddress.label>
+  <Apparel_Tuque.description>რბილი, სქელი ქუდი. შესანიშნავია ზამთარში სითბოს შესანარჩუნებლად.</Apparel_Tuque.description>
+  <Apparel_Tuque.label>ტუკე</Apparel_Tuque.label>
+  <Apparel_WarMask.description>მხატვრულად შემზარავი ომის ნიღაბი. ის მალავს მფლობელს სახეს და ხდის მას უფრო თავდაჯერებულს.</Apparel_WarMask.description>
+  <Apparel_WarMask.label>ომის ნიღაბი</Apparel_WarMask.label>
+  <Apparel_WarVeil.description>ქსოვილის ნაჭერი, რომელიც ფარავს მატარებლის სახეს.</Apparel_WarVeil.description>
+  <Apparel_WarVeil.label>ფარდა</Apparel_WarVeil.label>
+</LanguageData>

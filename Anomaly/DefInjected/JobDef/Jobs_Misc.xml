@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ActivateMonolith.reportString>TargetA-ს გააქტიურება.</ActivateMonolith.reportString>
+  <ActivityDormant.reportString>დაბალი აქტივობის მოსვენება</ActivityDormant.reportString>
+  <BuildCubeSculpture.reportString>აშენებს {0} სკულპტურას.</BuildCubeSculpture.reportString>
+  <CarryToEntityHolder.reportString>TargetB-ის გადატანა TargetA-მდე.</CarryToEntityHolder.reportString>
+  <CarryToEntityHolderAlreadyHolding.reportString>TargetB-ის გადატანა TargetA-მდე.</CarryToEntityHolderAlreadyHolding.reportString>
+  <ChimeraSwitchToAttackMode.reportString>attacking.</ChimeraSwitchToAttackMode.reportString>
+  <EntityGoPassive.reportString>მიძინებულად მიდის</EntityGoPassive.reportString>
+  <ExecuteEntity.reportString>TargetA-ს შესრულება.</ExecuteEntity.reportString>
+  <ExtractBioferrite.reportString>ბიოფერიტის მოპოვება TargetA-დან.</ExtractBioferrite.reportString>
+  <FleeAndCowerShort.reportString>fleeing.</FleeAndCowerShort.reportString>
+  <GoldenCubePlay.reportString>ოქროს კუბით თამაში.</GoldenCubePlay.reportString>
+  <HateChanting.reportString>სძულს გალობა.</HateChanting.reportString>
+  <InvestigateMonolith.reportString>იკვლევს TargetA.</InvestigateMonolith.reportString>
+  <NociosphereDepart.reportString>გამგზავრება</NociosphereDepart.reportString>
+  <ReleaseEntity.reportString>TargetB-ის გათავისუფლება</ReleaseEntity.reportString>
+  <RevenantAttack.reportString>თვალთვალი TargetA.</RevenantAttack.reportString>
+  <RevenantEscape.reportString>გაქცევა</RevenantEscape.reportString>
+  <RevenantSleep.reportString>ზამთარი</RevenantSleep.reportString>
+  <RevenantWander.reportString>მოხეტიალე</RevenantWander.reportString>
+  <SmashThing.reportString>TargetA-ს დამსხვრევა.</SmashThing.reportString>
+  <TakeBioferriteOutOfHarvester.reportString>ბიოფერიტის ამოღება TargetA-დან.</TakeBioferriteOutOfHarvester.reportString>
+  <TalkCreepJoiner.reportString>ესაუბრება TargetA-ს.</TalkCreepJoiner.reportString>
+  <TendEntity.reportString>ცდილობს TargetA.</TendEntity.reportString>
+  <TransferBetweenEntityHolders.reportString>TargetC-ის სხვა ჰოლდინგის ადგილას გადატანა.</TransferBetweenEntityHolders.reportString>
+  <UnnaturalCorpseAttack.reportString>დევნა TargetA.</UnnaturalCorpseAttack.reportString>
+  <UnnaturalCorpseSkip.reportString>დევნა TargetA.</UnnaturalCorpseSkip.reportString>
+</LanguageData>

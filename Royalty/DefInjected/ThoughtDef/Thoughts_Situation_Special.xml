@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimaScream.stages.0.description>ასეთი ტკივილი ჩემს თავში, როდესაც ხე მოკვდა. და ის კვლავ მეორდება...</AnimaScream.stages.0.description>
+  <AnimaScream.stages.0.label>ანიმა ყვირილი</AnimaScream.stages.0.label>
+  <DecreeUnmet.stages.0.description>ჩემი განკარგულება იგნორირებულია ძალიან დიდი ხნის განმავლობაში {0}.</DecreeUnmet.stages.0.description>
+  <DecreeUnmet.stages.0.label>განკარგულება იგნორირებულია</DecreeUnmet.stages.0.label>
+  <Joyfuzz.stages.0.description>რაც არ უნდა მოხდეს, ვგრძნობ, რომ რაღაც მიზეზით კარგად ვარ.</Joyfuzz.stages.0.description>
+  <Joyfuzz.stages.0.label>ჯოიფუზ</Joyfuzz.stages.0.label>
+  <PsychicEntropyOverloaded.stages.0.description>ჩემი თვალების უკან ელექტრო ტკივილია. ძნელია ფოკუსირება; ძნელი მოსაფიქრებელი.</PsychicEntropyOverloaded.stages.0.description>
+  <PsychicEntropyOverloaded.stages.0.label>მცირე ფსიქიკური აშლილობა</PsychicEntropyOverloaded.stages.0.label>
+  <PsychicEntropyOverloaded.stages.1.description>ჩემი გონება აურიეთ. თავბრუსხვევა, ბუნდოვანი, ვერ აზროვნებს, ყოველთვის მტკივა.</PsychicEntropyOverloaded.stages.1.description>
+  <PsychicEntropyOverloaded.stages.1.label>ძირითადი ფსიქიკური აშლილობა</PsychicEntropyOverloaded.stages.1.label>
+  <PsychicEntropyOverloaded.stages.2.description>ვტრიალებ, მტკივა, თავბრუ მეხვევა, ვფიქრობ, ვერ ვფიქრობ, ვერ ვფიქრობ...</PsychicEntropyOverloaded.stages.2.description>
+  <PsychicEntropyOverloaded.stages.2.label>სრული ფსიქიკური აშლილობა</PsychicEntropyOverloaded.stages.2.label>
+  <PsychicLove.stages.0.label>ფსიქიკური სიყვარული</PsychicLove.stages.0.label>
+</LanguageData>

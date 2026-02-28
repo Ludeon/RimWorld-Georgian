@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Floors.label>სართულები</Floors.label>
+  <Furniture.label>ავეჯი</Furniture.label>
+  <Joy.label>დასვენება</Joy.label>
+  <Misc.label>სხვადასხვა</Misc.label>
+  <Orders.label>ბრძანებებს</Orders.label>
+  <Power.label>ძალაუფლება</Power.label>
+  <Production.label>წარმოება</Production.label>
+  <Security.label>უსაფრთხოება</Security.label>
+  <Ship.label>გემი</Ship.label>
+  <Structure.label>სტრუქტურა</Structure.label>
+  <Temperature.label>ტემპერატურა</Temperature.label>
+  <Zone.label>ზონა</Zone.label>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AbandonedLandmark.description>მიტოვებული ბანაკი ღირსშესანიშნაობაზე.</AbandonedLandmark.description>
+  <AbandonedLandmark.label>მიტოვებული ღირსშესანიშნაობა</AbandonedLandmark.label>
+  <AsteroidBasic.label>ძირითადი ასტეროიდი</AsteroidBasic.label>
+  <AsteroidMiningSite.description>A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship.</AsteroidMiningSite.description>
+  <AsteroidMiningSite.label>ასტეროიდების მოპოვების ადგილი</AsteroidMiningSite.label>
+  <ClaimableSite.label>პრეტენზიული საიტი</ClaimableSite.label>
+  <ClaimableSpaceSite.label>პრეტენზიული კოსმოსური ადგილი</ClaimableSpaceSite.label>
+  <DestroyedSpaceSettlement.description>დანგრეული დასახლება.</DestroyedSpaceSettlement.description>
+  <DestroyedSpaceSettlement.label>დანგრეული დასახლება</DestroyedSpaceSettlement.label>
+  <Gravship.description>სამარხი ფრენის დროს.</Gravship.description>
+  <Gravship.label>სამარხი</Gravship.label>
+  <GravshipLaunch.description>საფლავის გაშვების ადგილი.</GravshipLaunch.description>
+  <GravshipLaunch.label>საფლავის გაშვება</GravshipLaunch.label>
+  <Mechhive.label>მეხივა</Mechhive.label>
+  <OrbitalItemStash.label>ორბიტალური ნივთის შენახვა</OrbitalItemStash.label>
+  <PassengerShuttle.description>სამგზავრო შატლი ფრენის დროს.</PassengerShuttle.description>
+  <PassengerShuttle.label>სამგზავრო შატლი</PassengerShuttle.label>
+  <Space.label>სივრცე</Space.label>
+  <SpaceSettlement.description>An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer.</SpaceSettlement.description>
+  <SpaceSettlement.label>ორბიტალური დასახლება</SpaceSettlement.label>
+  <SpaceSite.label>კოსმოსური საიტი</SpaceSite.label>
+</LanguageData>

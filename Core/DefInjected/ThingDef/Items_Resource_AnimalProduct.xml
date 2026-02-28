@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EggCassowaryFertilized.description>განაყოფიერებული კაზოვარის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ჩვილის კასრში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggCassowaryFertilized.description>
+  <EggCassowaryFertilized.label>კაზუარის კვერცხი (ფერტ.)</EggCassowaryFertilized.label>
+  <EggCassowaryUnfertilized.description>გაუნაყოფიერებელი კაზოვარის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggCassowaryUnfertilized.description>
+  <EggCassowaryUnfertilized.label>კასუარის კვერცხი (უფერ.)</EggCassowaryUnfertilized.label>
+  <EggChickenFertilized.description>განაყოფიერებული ქათმის კვერცხი. თუ ყველაფერი კარგად წავიდა, ის წიწილაში უნდა გამოიჩეკდეს. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggChickenFertilized.description>
+  <EggChickenFertilized.label>ქათმის კვერცხი (ფერტ.)</EggChickenFertilized.label>
+  <EggChickenUnfertilized.description>გაუნაყოფიერებელი ქათმის კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად, ბევრად უკეთესია მოხარშული.</EggChickenUnfertilized.description>
+  <EggChickenUnfertilized.label>ქათმის კვერცხი (უსაფრთხო.)</EggChickenUnfertilized.label>
+  <EggCobraFertilized.description>განაყოფიერებული კობრის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს პატარა კობრაში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggCobraFertilized.description>
+  <EggCobraFertilized.label>კობრის კვერცხი (ფერტ.)</EggCobraFertilized.label>
+  <EggCobraUnfertilized.description>გაუნაყოფიერებელი კობრის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggCobraUnfertilized.description>
+  <EggCobraUnfertilized.label>კობრის კვერცხი (უსაფრთხო.)</EggCobraUnfertilized.label>
+  <EggDuckFertilized.description>განაყოფიერებული იხვის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის იხვის ჭუკში უნდა გამოიჩეკდეს. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggDuckFertilized.description>
+  <EggDuckFertilized.label>იხვის კვერცხი (ფერტ.)</EggDuckFertilized.label>
+  <EggDuckUnfertilized.description>გაუნაყოფიერებელი იხვის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად, ბევრად უკეთესია მოხარშული.</EggDuckUnfertilized.description>
+  <EggDuckUnfertilized.label>იხვის კვერცხი (უსაფრთხო.)</EggDuckUnfertilized.label>
+  <EggEmuFertilized.description>განაყოფიერებული ემუ კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ბავშვის ემუზე. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggEmuFertilized.description>
+  <EggEmuFertilized.label>ემუ კვერცხი (ფერტ.)</EggEmuFertilized.label>
+  <EggEmuUnfertilized.description>გაუნაყოფიერებელი ემუ კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggEmuUnfertilized.description>
+  <EggEmuUnfertilized.label>ემუ კვერცხი (უსაფრთხო.)</EggEmuUnfertilized.label>
+  <EggGooseFertilized.description>განაყოფიერებული ბატის კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ბატში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggGooseFertilized.description>
+  <EggGooseFertilized.label>ბატის კვერცხი (ფერტ.)</EggGooseFertilized.label>
+  <EggGooseUnfertilized.description>გაუნაყოფიერებელი ბატის კვერცხუჯრედი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად, ბევრად უკეთესია მოხარშული.</EggGooseUnfertilized.description>
+  <EggGooseUnfertilized.label>ბატის კვერცხი (უსაფრთხო.)</EggGooseUnfertilized.label>
+  <EggIguanaFertilized.description>განაყოფიერებული იგუანას კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს პატარა იგუანაში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggIguanaFertilized.description>
+  <EggIguanaFertilized.label>იგუანას კვერცხი (ფერტ.)</EggIguanaFertilized.label>
+  <EggIguanaUnfertilized.description>გაუნაყოფიერებელი იგუანას კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggIguanaUnfertilized.description>
+  <EggIguanaUnfertilized.label>იგუანას კვერცხი (უსაფრთხო.)</EggIguanaUnfertilized.label>
+  <EggOstrichFertilized.description>განაყოფიერებული სირაქლემას კვერცხი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ჩვილ სირაქლემაში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggOstrichFertilized.description>
+  <EggOstrichFertilized.label>სირაქლემას კვერცხი (ფერტ.)</EggOstrichFertilized.label>
+  <EggOstrichUnfertilized.description>გაუნაყოფიერებელი სირაქლემას კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggOstrichUnfertilized.description>
+  <EggOstrichUnfertilized.label>სირაქლემას კვერცხი (უფერ.)</EggOstrichUnfertilized.label>
+  <EggTortoiseFertilized.description>განაყოფიერებული კუს კვერცხუჯრედი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს კუს ახალშობილში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggTortoiseFertilized.description>
+  <EggTortoiseFertilized.label>კუს კვერცხი (ფერტ.)</EggTortoiseFertilized.label>
+  <EggTortoiseUnfertilized.description>გაუნაყოფიერებელი კუს კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggTortoiseUnfertilized.description>
+  <EggTortoiseUnfertilized.label>კუს კვერცხი (უსაფრთხო.)</EggTortoiseUnfertilized.label>
+  <EggTurkeyFertilized.description>განაყოფიერებული ინდაურის კვერცხი. თუ ყველაფერი კარგად წავიდა, ის უნდა გამოიჩეკდეს ჩვილ ინდაურში. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggTurkeyFertilized.description>
+  <EggTurkeyFertilized.label>ინდაურის კვერცხი (ფერტ.)</EggTurkeyFertilized.label>
+  <EggTurkeyUnfertilized.description>გაუნაყოფიერებელი ინდაურის კვერცხი. მისი ჭამა შეიძლება უმი, მაგრამ ბევრად უკეთესია მოხარშული.</EggTurkeyUnfertilized.description>
+  <EggTurkeyUnfertilized.label>ინდაურის კვერცხი (უსაფრთხო.)</EggTurkeyUnfertilized.label>
+  <InsectJelly.description>ჟელე ინახება და საკვებად გამოიყენება დიდი ზომის მწერების მიერ. ის არის გლუვი, მდიდარი და აკმაყოფილებს მათ, ვინც მას მოიხმარს დასვენების საჭიროებებს. უნიკალური ბიოლოგიური თვისებების გამო, მას შეუძლია თითქმის ნებისმიერი არსების კვება და არასოდეს ლპება.</InsectJelly.description>
+  <InsectJelly.label>მწერების ჟელე</InsectJelly.label>
+  <Milk.description>რძე ცხოველისგან.</Milk.description>
+  <Milk.label>რძე</Milk.label>
+  <Skull.description>ადამიანის თავის ქალა.</Skull.description>
+  <Skull.label>თავის ქალა</Skull.label>
+</LanguageData>

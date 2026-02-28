@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MarriageName_AlwaysMans.description>წყვილებმა უნდა გაიზიარონ მამაკაცის სახელი.</MarriageName_AlwaysMans.description>
+  <MarriageName_AlwaysMans.label>ყოველთვის მამაკაცის</MarriageName_AlwaysMans.label>
+  <MarriageName_AlwaysWomans.description>წყვილებმა უნდა გაიზიარონ ქალის სახელი.</MarriageName_AlwaysWomans.description>
+  <MarriageName_AlwaysWomans.label>ყოველთვის ქალის</MarriageName_AlwaysWomans.label>
+  <MarriageName_KeepNames.description>ორივე პარტნიორი ინახავს სახელებს ქორწინებისთანავე.</MarriageName_KeepNames.description>
+  <MarriageName_KeepNames.label>შეინახეთ სახელები</MarriageName_KeepNames.label>
+  <MarriageName_Random.description>წყვილები შემთხვევით ირჩევენ, გაიზიარონ თუ არა სახელი და რომელი სახელი გააზიარონ.</MarriageName_Random.description>
+  <MarriageName_Random.label>შემთხვევითი</MarriageName_Random.label>
+  <MarriageName_UsuallyWomans.description>წყვილების უმეტესობა იზიარებს ქალის სახელს.</MarriageName_UsuallyWomans.description>
+  <MarriageName_UsuallyWomans.label>ჩვეულებრივ ქალის</MarriageName_UsuallyWomans.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Floor_Carpet.label>ხალიჩა</Floor_Carpet.label>
+  <Floor_Carpet_Fine.label>ჯარიმა ხალიჩა</Floor_Carpet_Fine.label>
+  <Floor_Flagstone.label>ფლაგმანი</Floor_Flagstone.label>
+  <Floor_Tile.label>ფილა</Floor_Tile.label>
+  <Floor_Tile_Fine.label>ჯარიმა ფილა</Floor_Tile_Fine.label>
+  <Floor_Tile_Metal.label>ლითონის ფილა</Floor_Tile_Metal.label>
+  <StandingLampColored.label>მდგარი ნათურა</StandingLampColored.label>
+</LanguageData>

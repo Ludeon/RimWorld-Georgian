@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Beauty.label>სილამაზე</Beauty.label>
+  <Beauty.scoreStages.0.label>საზიზღარი</Beauty.scoreStages.0.label>
+  <Beauty.scoreStages.1.label>მახინჯი</Beauty.scoreStages.1.label>
+  <Beauty.scoreStages.2.label>ნეიტრალური</Beauty.scoreStages.2.label>
+  <Beauty.scoreStages.3.label>ლამაზი</Beauty.scoreStages.3.label>
+  <Beauty.scoreStages.4.label>ლამაზი</Beauty.scoreStages.4.label>
+  <Beauty.scoreStages.5.label>ძალიან ლამაზი</Beauty.scoreStages.5.label>
+  <Beauty.scoreStages.6.label>უკიდურესად ლამაზი</Beauty.scoreStages.6.label>
+  <Beauty.scoreStages.7.label>დაუჯერებლად ლამაზი</Beauty.scoreStages.7.label>
+  <Cleanliness.label>სისუფთავე</Cleanliness.label>
+  <Cleanliness.scoreStages.0.label>ძალიან ბინძური</Cleanliness.scoreStages.0.label>
+  <Cleanliness.scoreStages.1.label>ბინძური</Cleanliness.scoreStages.1.label>
+  <Cleanliness.scoreStages.2.label>ოდნავ ბინძური</Cleanliness.scoreStages.2.label>
+  <Cleanliness.scoreStages.3.label>სუფთა</Cleanliness.scoreStages.3.label>
+  <Cleanliness.scoreStages.4.label>სტერილური</Cleanliness.scoreStages.4.label>
+  <FoodPoisonChance.label>საკვები მოწამვლის შანსი</FoodPoisonChance.label>
+  <GraveVisitingJoyGainFactor.label>საფლავის მონახულება დასვენების ფაქტორი</GraveVisitingJoyGainFactor.label>
+  <Impressiveness.label>შთამბეჭდავობა</Impressiveness.label>
+  <Impressiveness.scoreStages.0.label>საშინელი</Impressiveness.scoreStages.0.label>
+  <Impressiveness.scoreStages.1.label>მოსაწყენი</Impressiveness.scoreStages.1.label>
+  <Impressiveness.scoreStages.2.label>უღიმღამო</Impressiveness.scoreStages.2.label>
+  <Impressiveness.scoreStages.3.label>წესიერი</Impressiveness.scoreStages.3.label>
+  <Impressiveness.scoreStages.4.label>ოდნავ შთამბეჭდავი</Impressiveness.scoreStages.4.label>
+  <Impressiveness.scoreStages.5.label>გარკვეულწილად შთამბეჭდავი</Impressiveness.scoreStages.5.label>
+  <Impressiveness.scoreStages.6.label>ძალიან შთამბეჭდავი</Impressiveness.scoreStages.6.label>
+  <Impressiveness.scoreStages.7.label>უკიდურესად შთამბეჭდავი</Impressiveness.scoreStages.7.label>
+  <Impressiveness.scoreStages.8.label>დაუჯერებლად შთამბეჭდავი</Impressiveness.scoreStages.8.label>
+  <Impressiveness.scoreStages.9.label>საოცრად შთამბეჭდავი</Impressiveness.scoreStages.9.label>
+  <InfectionChanceFactor.label>ინფექციის შანსის ფაქტორი</InfectionChanceFactor.label>
+  <ReadingBonus.label>კითხვის ბონუსი</ReadingBonus.label>
+  <ResearchSpeedFactor.label>კვლევის სიჩქარის ფაქტორი</ResearchSpeedFactor.label>
+  <Space.label>სივრცე</Space.label>
+  <Space.scoreStages.0.label>შევიწროებული</Space.scoreStages.0.label>
+  <Space.scoreStages.1.label>საკმაოდ მჭიდრო</Space.scoreStages.1.label>
+  <Space.scoreStages.2.label>საშუალო ზომის</Space.scoreStages.2.label>
+  <Space.scoreStages.3.label>გარკვეულწილად ფართო</Space.scoreStages.3.label>
+  <Space.scoreStages.4.label>საკმაოდ ფართო</Space.scoreStages.4.label>
+  <Space.scoreStages.5.label>ძალიან ფართო</Space.scoreStages.5.label>
+  <Space.scoreStages.6.label>უკიდურესად ფართო</Space.scoreStages.6.label>
+  <SurgerySuccessChanceCleanlinessFactor.label>ოპერაციის წარმატების შანსი სისუფთავის ფაქტორი</SurgerySuccessChanceCleanlinessFactor.label>
+  <Wealth.label>სიმდიდრე</Wealth.label>
+  <Wealth.scoreStages.0.label>გაღატაკებული</Wealth.scoreStages.0.label>
+  <Wealth.scoreStages.1.label>გარკვეულწილად ღარიბი</Wealth.scoreStages.1.label>
+  <Wealth.scoreStages.2.label>უღიმღამო</Wealth.scoreStages.2.label>
+  <Wealth.scoreStages.3.label>გარკვეულწილად მდიდარი</Wealth.scoreStages.3.label>
+  <Wealth.scoreStages.4.label>მდიდარი</Wealth.scoreStages.4.label>
+  <Wealth.scoreStages.5.label>მდიდრული</Wealth.scoreStages.5.label>
+  <Wealth.scoreStages.6.label>ძალიან მდიდრული</Wealth.scoreStages.6.label>
+  <Wealth.scoreStages.7.label>უკიდურესად მდიდრული</Wealth.scoreStages.7.label>
+  <Wealth.scoreStages.8.label>დაუჯერებლად მდიდრული</Wealth.scoreStages.8.label>
+</LanguageData>

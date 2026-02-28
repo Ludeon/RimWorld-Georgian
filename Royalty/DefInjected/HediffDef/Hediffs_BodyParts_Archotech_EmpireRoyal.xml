@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicHarmonizer.description>დამონტაჟებული ფსიქიკური ჰარმონიზატორის იმპლანტი. აპროექტებს მომხმარებლის განწყობას სფერულ ფსიქიკურ ველში, აიძულებს სხვებს ახლომახლო იგრძნონ მათი ემოციების ბუნდოვანი, გამარტივებული ვერსია. ეს შეიძლება იყოს ძლიერი ინსტრუმენტი მაღალი მორალის შესანარჩუნებლად, მაგრამ თუ მომხმარებელი უბედური გახდება, ამან შეიძლება გამოიწვიოს კოლექტიური კატასტროფა.</PsychicHarmonizer.description>
+  <PsychicHarmonizer.label>ფსიქიკური ჰარმონიზატორი</PsychicHarmonizer.label>
+  <PsychicHarmonizer.labelNoun>ფსიქიკური ჰარმონიზატორი</PsychicHarmonizer.labelNoun>
+  <PsychicReader.description>დაინსტალირებული ფსიქიკური მკითხველის იმპლანტი. იძლევა გონების კითხვის შეზღუდულ უნარს, აუმჯობესებს მომხმარებლის უნარს მოლაპარაკებებსა და სოციალურ სიტუაციებში უპირატესობა მიიღოს. ეფექტი პროპორციულია მომხმარებლის ფსიქიკური მგრძნობელობის.</PsychicReader.description>
+  <PsychicReader.label>ფსიქიკური მკითხველი</PsychicReader.label>
+  <PsychicReader.labelNoun>ფსიქიკური მკითხველი</PsychicReader.labelNoun>
+  <PsychicSensitizer.description>დამონტაჟებული ფსიქიკური სენსიბილიზატორი იმპლანტი. ასტიმულირებს ტვინის იმ რეგიონებში ზრდას, რომლებიც დაკავშირებულია ფსიქიკურ ურთიერთქმედებებთან, რითაც ზრდის ფსიქიკურ მგრძნობელობას.</PsychicSensitizer.description>
+  <PsychicSensitizer.label>ფსიქიკური სენსიბილიზატორი</PsychicSensitizer.label>
+  <PsychicSensitizer.labelNoun>ფსიქიკური სენსიბილიზატორი</PsychicSensitizer.labelNoun>
+</LanguageData>

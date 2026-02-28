@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdvancedPsychicRituals.description>შეასრულეთ მოწინავე ფსიქიკური რიტუალები.</AdvancedPsychicRituals.description>
+  <AdvancedPsychicRituals.label>მოწინავე ფსიქიკური რიტუალები</AdvancedPsychicRituals.label>
+  <AtmosphericHeater.description>შექმენით ბიოფერიტზე მომუშავე გამათბობლები, რომლებიც წარმოქმნიან საკმარის სითბოს მთელი რეგიონის გასათბობად.</AtmosphericHeater.description>
+  <AtmosphericHeater.label>ატმოსფერული გამათბობელი</AtmosphericHeater.label>
+  <BasicPsychicRituals.description>შექმენით ფსიქიკური რიტუალური ადგილი და შეასრულეთ ფსიქიკური რიტუალები. გამოიყენეთ ბათილი პროვოკაციული რიტუალი ახალი არსებების აღმოსაჩენად.</BasicPsychicRituals.description>
+  <BasicPsychicRituals.label>ბათილი პროვოკაცია</BasicPsychicRituals.label>
+  <BioferriteExtraction.description>ამოიღეთ ბიოფერიტი პირდაპირ დატყვევებული ობიექტებიდან. გამოიყენეთ იგი იარაღისა და ტანსაცმლის დასამზადებლად ხელოსნობის ადგილზე ან ბიოფერიტის ფორმირებისთვის.</BioferriteExtraction.description>
+  <BioferriteExtraction.label>ბიოფერიტის მოპოვება</BioferriteExtraction.label>
+  <BioferriteGenerator.description>შექმენით დენის გენერატორები, რომლებიც წვავს ბიოფერიტს, როგორც საწვავს.</BioferriteGenerator.description>
+  <BioferriteGenerator.label>ბიოფერიტის გენერატორი</BioferriteGenerator.label>
+  <BioferriteHarvesting.description>შექმენით ბიოფერიტის კომბაინები, რომლებიც ავტომატურად ამოიღებენ ბიოფერიტს დატყვევებული ობიექტებიდან. აწარმოებს უფრო მეტ ბიოფერიტს, ვიდრე ხელით მოპოვება.</BioferriteHarvesting.description>
+  <BioferriteHarvesting.label>ბიოფერიტის მოსავლელი</BioferriteHarvesting.label>
+  <BioferriteIgnition.description>შექმენით მოწინავე იარაღი, რომელიც იყენებს ბიოფერიტს, როგორც საწვავის წყაროს.</BioferriteIgnition.description>
+  <BioferriteIgnition.label>ბიოფერიტის იარაღი</BioferriteIgnition.label>
+  <BioferriteShaping.description>ჩამოაყალიბეთ და ხელახლა ჩამოაყალიბეთ ბიოფერიტი სასარგებლო იარაღად, იარაღად, იატაკად და სხვა.</BioferriteShaping.description>
+  <BioferriteShaping.label>ბიოფერიტის ფორმირება</BioferriteShaping.label>
+  <BlissLobotomy.description>ჩაატარეთ ოპერაცია, რომელიც ლობოტომიზებს ადამიანს, ხდის მას უფრო ბედნიერს, ხოლო ინტელექტუალური და გამოცდილი შრომის უუნარობას.</BlissLobotomy.description>
+  <BlissLobotomy.label>ბლის ლობოტომია</BlissLobotomy.label>
+  <BloodRain.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც იწვევს ციდან სისხლის მსგავსი ფსიქოსთხის ჩამოვარდნას. ნებისმიერს, ვინც გარეთ დაიჭერს, მალე გაბრაზებული იქნება.</BloodRain.description>
+  <BloodRain.label>სისხლის წვიმა</BloodRain.label>
+  <Brainwipe.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც შლის ადამიანის ეპიზოდურ მოგონებებს. ტრავმული მოვლენები დავიწყებას მიიღებენ. რეზისტენტული პატიმრების დაქირავება უფრო ადვილი გახდება. იძლევა ურყევად ლოიალური პატიმრების დაქირავების საშუალებას.</Brainwipe.description>
+  <Brainwipe.label>ტვინში გაწელვა</Brainwipe.label>
+  <Chronophagy.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც იწვევს სამიზნის სწრაფ დაბერებას. რიტუალის გამომწვევი ამ პროცესში ახალგაზრდა გახდება. შედეგად, სამიზნე ტვინის დაზიანებას განიცდის, რაც შეიძლება სასიკვდილო იყოს ხანდაზმული სამიზნეებისთვის.</Chronophagy.description>
+  <Chronophagy.label>ქრონოფაგია</Chronophagy.label>
+  <DeadlifeDust.description>ხელნაკეთი მოწყობილობები, რომლებიც წარმოქმნიან მიკროსკოპული არქიტების ღრუბლებს. არქიტებს შეუძლიათ გვამების რეანიმაცია, რათა წარმოქმნან სასიკვდილო ჭურვები, რომლებიც მხოლოდ თქვენს მტრებს დაესხმიან თავს.</DeadlifeDust.description>
+  <DeadlifeDust.label>სასიკვდილო მტვერი</DeadlifeDust.label>
+  <DeathRefusal.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც უარს აძლევს ინდივიდს სიკვდილზე, რაც საშუალებას აძლევს მას ერთხელ აღდგეს სიკვდილის შემდეგ.</DeathRefusal.description>
+  <DeathRefusal.label>სიკვდილზე უარი</DeathRefusal.label>
+  <DisruptorFlares.description>შექმენით ბიოფერიტზე დაფუძნებული აფეთქების პაკეტები, რომლებიც გამოავლენენ უხილავ არსებებს და ანათებენ ტერიტორიას.</DisruptorFlares.description>
+  <DisruptorFlares.label>დამრღვევი ანთებები</DisruptorFlares.label>
+  <Electroharvester.description>შექმენით გენერატორი, რომელიც გამოიმუშავებს ელექტროენერგიას შემავალი ობიექტებიდან. ეს პროცესი ამძიმებს ერთეულებს, რაც ართულებს მათ შეკავებას.</Electroharvester.description>
+  <Electroharvester.label>ელექტრომოსაჭრელი</Electroharvester.label>
+  <EntityContainment.description>შექმენით ჰოლდინგის პლატფორმები და ინჰიბიტორები, რათა უკეთ შეიცავდეს ერთეულებს.</EntityContainment.description>
+  <EntityContainment.label>ერთეულის შეკავება</EntityContainment.label>
+  <FrenzyInducer.description>შექმენით ნამსხვრევებით მომუშავე სტრუქტურები, რომლებიც წარმოქმნიან საშინელ ფსიქიკურ ველს, რათა ახლომახლო ვინმემ უფრო სწრაფად იმოძრაოს და იმუშაოს. თუმცა, არასტაბილური ემოციური ენერგია ქმნის ძალადობისკენ მიდრეკილებას, აღიზიანებს ნებისმიერ ახლობელს.</FrenzyInducer.description>
+  <FrenzyInducer.label>სიგიჟის გამომწვევი</FrenzyInducer.label>
+  <GhoulEnhancements.description>შექმენით ბიოფერიტის პროთეზირება, რათა გაძლიერდეს ღორები.</GhoulEnhancements.description>
+  <GhoulEnhancements.label>ghoul გაფართოებები</GhoulEnhancements.label>
+  <GhoulInfusion.description>ჩაატარეთ ოპერაცია, რომელიც ცოცხალ ადამიანს აწვება არქოტექნიკის ნატეხს, გარდაქმნის მათ საშინელ ღორად. Ghouls ძლიერი melee მებრძოლები არიან, მაგრამ არ შეუძლიათ საქმის კეთება. ღორები გაგიჟდებიან, თუ საკმარისად უმი ხორცით არ იკვებებიან.</GhoulInfusion.description>
+  <GhoulInfusion.label>ღორის ინფუზია</GhoulInfusion.label>
+  <GhoulResurrection.description>მოახდინე შრატის სინთეზი, რომელსაც შეუძლია მკვდარი მოჩვენებების გაცოცხლება.</GhoulResurrection.description>
+  <GhoulResurrection.label>ghoul აღდგომა</GhoulResurrection.label>
+  <InsanityWeaponry.description>გადააკეთეთ არქოტექნიკის ნამსხვრევები შეზღუდული გამოყენების იარაღად, რომელიც შოკში, მანიპულირებს და ანადგურებს მტრებს არქოტექნოლოგიის გამოყენებით.</InsanityWeaponry.description>
+  <InsanityWeaponry.label>სიგიჟის იარაღი</InsanityWeaponry.label>
+  <JuggernautSerum.description>შრატის სინთეზი, რომელიც დროებით ზრდის მომხმარებლის ძალასა და სიჩქარეს და საშუალებას აძლევს მას უფრო სწრაფად გამოჯანმრთელდეს დაზიანებებისგან. თუმცა ეს მათ განწყობას ამცირებს.</JuggernautSerum.description>
+  <JuggernautSerum.label>ჯოგერნაუტის შრატი</JuggernautSerum.label>
+  <MetalbloodSerum.description>ლითონის სისხლის შრატების სინთეზირება, რომელიც მომხმარებელს უფრო გამძლეს ხდის დაზიანების მიმართ.</MetalbloodSerum.description>
+  <MetalbloodSerum.label>ლითონის სისხლის შრატი</MetalbloodSerum.label>
+  <MindNumbSerum.description>შრატის სინთეზი, რომელიც ასტაბილურებს ადამიანის განწყობას, ხელს უშლის ფსიქიკურ შესვენებებს.</MindNumbSerum.description>
+  <MindNumbSerum.label>გონება დაბუჟებული შრატი</MindNumbSerum.label>
+  <MutationWeaponry.description>გადააკეთეთ არქოტექნიკური ნამსხვრევები შეზღუდული გამოყენების იარაღად, რომლებიც ცოცხალ მიზნებს საშინელ არსებებად აქცევენ.</MutationWeaponry.description>
+  <MutationWeaponry.label>მუტაციური იარაღი</MutationWeaponry.label>
+  <NeurosisPulse.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც აიძულებს რეგიონში ყველას უფრო სწრაფად იმუშაოს, მაგრამ უფრო გაღიზიანებული გახდეს.</NeurosisPulse.description>
+  <NeurosisPulse.label>ნევროზის პულსი</NeurosisPulse.label>
+  <Philophagy.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც ართმევს გამოცდილებას მსხვერპლს და აძლევს მას გამომწვევს. პროცესი სამიზნის გონებას დაბნეულებს, ასუსტებს მათ უნარებს და იწვევს ტვინის დაზიანებას.</Philophagy.description>
+  <Philophagy.label>ფილოფაგია</Philophagy.label>
+  <PleasurePulse.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც რეგიონში ყველას ახარებს, მაგრამ ამცირებს მუშაობის სურვილს.</PleasurePulse.description>
+  <PleasurePulse.label>სიამოვნების პულსი</PleasurePulse.label>
+  <ProximityDetector.description>შექმენით მოწყობილობა, რომელსაც შეუძლია აღმოაჩინოს უხილავი არსებები.</ProximityDetector.description>
+  <ProximityDetector.label>სიახლოვის დეტექტორი</ProximityDetector.label>
+  <Psychophagy.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც ამცირებს სამიზნის ფსიქიკურ მგრძნობელობას და დროებით აძლიერებს რიტუალის გამომწვევის ფსიქიკურ მგრძნობელობას. სამიზნე განიცდის ტვინის დაზიანებას, როგორც გვერდითი ეფექტი.</Psychophagy.description>
+  <Psychophagy.label>ფსიქოფაგია</Psychophagy.label>
+  <RevenantInvisibility.description>შეცვალეთ მობრუნებული ხერხემალი ისე, რომ მისი იმპლანტაცია მოხდეს ადამიანში, რაც საშუალებას მისცემს მას გახდეს დროებით უხილავი.</RevenantInvisibility.description>
+  <RevenantInvisibility.label>გამობრუნებული უხილავობა</RevenantInvisibility.label>
+  <SerumSynthesis.description>ააშენეთ შრატის ლაბორატორია მაღალტექნოლოგიური შრატების სინთეზისთვის. შრატები იყენებენ არქოტექნოლოგიურ ძალას, რათა დროებითი ეფექტი მისცეს მომხმარებელზე.</SerumSynthesis.description>
+  <SerumSynthesis.label>შრატის სინთეზი</SerumSynthesis.label>
+  <SkipAbductionPlayer.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც იტაცებს შემთხვევით მტრულად განწყობილ ადამიანს მსოფლიოს ნებისმიერი ადგილიდან, აყენებს მათ მოკლევადიან კომაში დაჭერისთვის.</SkipAbductionPlayer.description>
+  <SkipAbductionPlayer.label>გატაცების გამოტოვება</SkipAbductionPlayer.label>
+  <SleepSuppressor.description>შექმენით ნამსხვრევებით მომუშავე სტრუქტურები, რომლებიც ასტიმულირებენ ახლომდებარე ადამიანებს დაღლილობის თავიდან ასაცილებლად. მოწყობილობა გააღიზიანებს ნებისმიერ ახლომდებარე ადამიანს.</SleepSuppressor.description>
+  <SleepSuppressor.label>ძილის დამთრგუნველი</SleepSuppressor.label>
+  <SummonAnimals.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც დახატავს ცხოველთა ნახირს.</SummonAnimals.description>
+  <SummonAnimals.label>ცხოველების დახატვა</SummonAnimals.label>
+  <SummonFleshbeastsPlayer.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც აიძულებს ხორცის მხეცებს გამოვიდნენ მიწიდან მტრების მახლობლად და თავს დაესხნენ ნებისმიერ მახლობლად.</SummonFleshbeastsPlayer.description>
+  <SummonFleshbeastsPlayer.label>ხორცის მხეცების გამოძახება</SummonFleshbeastsPlayer.label>
+  <SummonPitGate.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც იწვევს მიწისქვეშა ხორცის მხეცებს მიწაში მასიური ხვრელის გახსნას. ხვრელს ხორცის მხეცებით სავსე გამოქვაბულამდე მივყავართ, რომელიც რესურსების შესასწავლად შეიძლება.</SummonPitGate.description>
+  <SummonPitGate.label>ორმოს კარიბჭის პროვოცირება</SummonPitGate.label>
+  <SummonShamblers.description>შეასრულეთ ფსიქიკური რიტუალი, რომელიც დახატავს ანიმაციური გვამების ურდოს. მტრულად განწყობის დროს გვამები პირდაპირ არ დაესხმებიან თქვენს კოლონიას. მათი დაჭერა შესაძლებელია შესასწავლად.</SummonShamblers.description>
+  <SummonShamblers.label>მიაპყროს shamblers</SummonShamblers.label>
+  <VoidSculptures.description>შექმენით სპეციალური სიცარიელე ქანდაკებები ბიოფერიტისგან ფსიქიკური რიტუალების ხარისხის გასაუმჯობესებლად.</VoidSculptures.description>
+  <VoidSculptures.label>ცარიელი ქანდაკებები</VoidSculptures.label>
+</LanguageData>

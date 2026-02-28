@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeleeWeapon_MonoSword.description>კრისტალურ-მეტალის გრძელი ხმალი, გაჟღენთილი მექანიტებით, რომლებიც ინარჩუნებენ მონომოლეკულურ ჭრის პირას. ის ადვილად ჭრის სქელ ჯავშანს და მისი მსუბუქი წონა იძლევა სწრაფ შეტევის საშუალებას.</MeleeWeapon_MonoSword.description>
+  <MeleeWeapon_MonoSword.label>მონოხმალი</MeleeWeapon_MonoSword.label>
+  <MeleeWeapon_PlasmaSword.description>ლითონის ბირთვიანი ხმალი საჭრელი პირით. პლაზმა გარშემორტყმულია ბირთვის გარშემო, რომელსაც ენერგეტიკული ველი უჭირავს. სამიზნეები იჭრება როგორც ლითონის ბირთვით, ასევე იწვება ან აალდება პლაზმური გარსით.</MeleeWeapon_PlasmaSword.description>
+  <MeleeWeapon_PlasmaSword.label>პლაზმური სიტყვა</MeleeWeapon_PlasmaSword.label>
+  <MeleeWeapon_Zeushammer.description>ჩაქუჩი ჩაშენებული EMP კონდენსატორით. შეჯახებისას ის აფეთქებს მიზანს EMP აფეთქებით გარდა ფიზიკური დაზიანებისა.</MeleeWeapon_Zeushammer.description>
+  <MeleeWeapon_Zeushammer.label>ზეუშამერი</MeleeWeapon_Zeushammer.label>
+</LanguageData>

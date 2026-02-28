@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Assassin20.description>[PAWN_nameDef] პროფესიონალი მკვლელი იყო. [PAWN_pronoun] იყო ცივი, გამოთვლილი და კარგი მოგება ჰქონდა. ამ ბიზნესში, თანაგრძნობის სრული ნაკლებობა იყო აქტივი.</Assassin20.description>
+  <Assassin20.title>მკვლელი</Assassin20.title>
+  <Assassin20.titleShort>მკვლელი</Assassin20.titleShort>
+  <Gigolo30.description>[PAWN_nameDef] გამოიყენებოდა [PAWN_possessive] სხეულისთვის ასობით კლიენტის მიერ რამდენიმე პლანეტის ბორდელებში. [PAWN_pronoun] მოიპოვა გარკვეული გონებრივი ნიშნები და განსაკუთრებული სახის ქუჩის ჭკუა.</Gigolo30.description>
+  <Gigolo30.title>ჟიგოლო</Gigolo30.title>
+  <Gigolo30.titleFemale>ჟიგოლო</Gigolo30.titleFemale>
+  <Gigolo30.titleShort>კურტიზანი</Gigolo30.titleShort>
+  <Gigolo30.titleShortFemale>კურტიზანი</Gigolo30.titleShortFemale>
+  <IllegalShipwright76.description>არსებობს კანონი, რომელიც ამბობს, რომ თქვენ არ გაქვთ უფლება ტერავატის დიაპაზონის გრეისერები სატვირთო სკივზე დააყენოთ. მით უმეტეს, თუ მათ დამალავთ საკომუნიკაციო ჭურჭლის ქვეშ უკეთესი ჩასაფრების პოტენციალის მისაღებად. [PAWN_nameDef]-მა აღმოაჩინა, რომ დიდი მოგების მიღებაა მათთვის, ვინც არ არის დაინტერესებული ამ კანონებით.</IllegalShipwright76.description>
+  <IllegalShipwright76.title>არალეგალური გემთმჭერი</IllegalShipwright76.title>
+  <IllegalShipwright76.titleShort>გემთმჭერი</IllegalShipwright76.titleShort>
+  <PitBrawler76.description>[PAWN_nameDef] ცხრა წლის იყო, როცა [PAWN_pronoun] [PAWN_possessive] პირველ ბრძოლაში მიიღო. [PAWN_pronoun] მოიგო, მაგრამ უფრო მნიშვნელოვანი იყო [PAWN_possessive] აუდიტორიის სიამოვნება. ორმოში ბრძოლა მომგებიანი კარიერა აღმოჩნდა მათთვის, ვისაც შეეძლო გადარჩენა. და ეს ძირითადად ლეგალური იყო.</PitBrawler76.description>
+  <PitBrawler76.title>ორმოს მეჩხუბარი</PitBrawler76.title>
+  <PitBrawler76.titleShort>კამათელი</PitBrawler76.titleShort>
+  <SpaceMarine16.description>[PAWN_nameDef] იყო მეომარი იმპერიული საზღვაო ძალებში. [PAWN_possessive] სამუშაო იყო მტრის ვარსკვლავთმცენარეებში მუშტებით დარტყმა, ეკიპაჟის გასროლა და გემის ხელუხლებლად დაჭერა. და [PAWN_pronoun] კარგად იყო ამაში.</SpaceMarine16.description>
+  <SpaceMarine16.title>კოსმოსური საზღვაო</SpaceMarine16.title>
+  <SpaceMarine16.titleShort>საზღვაო</SpaceMarine16.titleShort>
+  <SpacePirate55.description>მეკობრეობა ყველგან ჩნდება, როცა მთავრობები სუსტია და საზოგადოება გაშლილი. [PAWN_nameDef] იყო კაცობრიობის ამ უძველესი ნაწილის ნაწილი, რომელიც სძალავდა და ამსხვრევდა მშვიდობიან სავაჭრო გემებს მოგების მიზნით.</SpacePirate55.description>
+  <SpacePirate55.title>კოსმოსური მეკობრე</SpacePirate55.title>
+  <SpacePirate55.titleShort>მეკობრე</SpacePirate55.titleShort>
+</LanguageData>

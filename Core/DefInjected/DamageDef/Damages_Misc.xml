@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AcidBurn.label>მჟავა დამწვრობა</AcidBurn.label>
+  <Beam.label>სხივი</Beam.label>
+  <Bomb.label>ბომბი</Bomb.label>
+  <Decayed.label>გაფუჭებული ორგანო</Decayed.label>
+  <Deterioration.label>გაუარესება</Deterioration.label>
+  <Extinguish.label>ჩაქრობა</Extinguish.label>
+  <Mining.label>სამთო მოპოვება</Mining.label>
+  <Nerve.label>ნერვი</Nerve.label>
+  <NerveStun.label>ნერვის დაძაბვა</NerveStun.label>
+  <Rotting.label>დამპალი</Rotting.label>
+  <Smoke.label>კვამლი</Smoke.label>
+  <Thump.label>დარტყმა</Thump.label>
+  <Vaporize.label>ორთქლდება</Vaporize.label>
+</LanguageData>

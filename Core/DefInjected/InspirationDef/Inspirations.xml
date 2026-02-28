@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Frenzy_Go.baseInspectLine>შთაგონებული: გაგიჟდი</Frenzy_Go.baseInspectLine>
+  <Frenzy_Go.beginLetter>[PAWN_pronoun] უფრო სწრაფად გადავა მომდევნო 8 დღის განმავლობაში.</Frenzy_Go.beginLetter>
+  <Frenzy_Go.label>გაგიჟება</Frenzy_Go.label>
+  <Frenzy_Shoot.baseInspectLine>შთაგონებული: ისროლეთ სიგიჟე</Frenzy_Shoot.baseInspectLine>
+  <Frenzy_Shoot.beginLetter>[PAWN_pronoun] უფრო ზუსტად ისვრის მომდევნო 8 დღის განმავლობაში.</Frenzy_Shoot.beginLetter>
+  <Frenzy_Shoot.label>სროლა frenzy</Frenzy_Shoot.label>
+  <Frenzy_Work.baseInspectLine>შთაგონებული: სამუშაო სიგიჟე</Frenzy_Work.baseInspectLine>
+  <Frenzy_Work.beginLetter>[PAWN_pronoun] იმუშავებს უფრო სწრაფად მომდევნო 8 დღის განმავლობაში.</Frenzy_Work.beginLetter>
+  <Frenzy_Work.label>სამუშაო სიგიჟე</Frenzy_Work.label>
+  <Inspired_Creativity.baseInspectLine>შთაგონებული: შთაგონებული შემოქმედებითობა</Inspired_Creativity.baseInspectLine>
+  <Inspired_Creativity.beginLetter>[PAWN_pronoun]-ის მიერ შექმნილი შემდეგი ნივთი, ხელოვნების ნიმუში ან ავეჯი ჩვეულებრივზე ორი ხარისხის საფეხურით უკეთესი იქნება. ეს საშუალებას იძლევა ლეგენდარული ხარისხის ნივთიც შეიქმნას.\n\nინსპირაცია დასრულდება 8 დღის შემდეგ ან მაშინვე, როცა [PAWN_pronoun] რამეს შექმნის.</Inspired_Creativity.beginLetter>
+  <Inspired_Creativity.label>შთაგონებული კრეატიულობა</Inspired_Creativity.label>
+  <Inspired_Recruitment.baseInspectLine>შთაგონებული: შთაგონებული დაქირავება</Inspired_Recruitment.baseInspectLine>
+  <Inspired_Recruitment.beginLetter>[PAWN_pronoun] შემდეგ პატიმარს წარმატებით გადაიბირებს სირთულისა და წინააღმდეგობის მიუხედავად, თუ ის მტკიცედ ერთგული არ არის.\n\nინსპირაცია დასრულდება 8 დღის შემდეგ ან მაშინვე, როცა პატიმარი გადაიბირება.</Inspired_Recruitment.beginLetter>
+  <Inspired_Recruitment.label>შთაგონებული დაქირავება</Inspired_Recruitment.label>
+  <Inspired_Surgery.baseInspectLine>შთაგონებული: შთაგონებული ქირურგია</Inspired_Surgery.baseInspectLine>
+  <Inspired_Surgery.beginLetter>შემდეგ ჯერზე, როცა [PAWN_pronoun] ოპერაციას ჩაატარებს, მისი წარმატების შანსი გაორმაგდება. წარუმატებლობის მცირე მინიმალური შანსი მაინც რჩება.\n\nინსპირაცია დასრულდება 8 დღის შემდეგ ან მაშინვე, როცა ოპერაცია შესრულდება.</Inspired_Surgery.beginLetter>
+  <Inspired_Surgery.label>შთაგონებული ოპერაცია</Inspired_Surgery.label>
+  <Inspired_Taming.baseInspectLine>შთაგონებული: შთაგონებული მოთვინიერება</Inspired_Taming.baseInspectLine>
+  <Inspired_Taming.beginLetter>[PAWN_pronoun] შემდეგ ცხოველს სირთულის მიუხედავად წარმატებით მოიშინაურებს.\n\nინსპირაცია დასრულდება 8 დღის შემდეგ ან მაშინვე, როცა რომელიმე ცხოველი მოიშინაურდება.</Inspired_Taming.beginLetter>
+  <Inspired_Taming.label>შთაგონებული მოთვინიერება</Inspired_Taming.label>
+  <Inspired_Trade.baseInspectLine>შთაგონებული: შთაგონებული ვაჭრობა</Inspired_Trade.baseInspectLine>
+  <Inspired_Trade.beginLetter>[PAWN_pronoun] შემდეგ სავაჭრო გარიგებაზე მნიშვნელოვან ფასდაკლებას მიიღებს.\n\nინსპირაცია დასრულდება 8 დღის შემდეგ ან მაშინვე, როცა გარიგება დაიხურება.</Inspired_Trade.beginLetter>
+  <Inspired_Trade.label>შთაგონებული ვაჭრობა</Inspired_Trade.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AteCorpse.stages.0.description>მე უნდა მეჭამა მკვდარი არსების ხორცი ისე, რომ არც დაკეკლო და არც მოხარშულიყო.</AteCorpse.stages.0.description>
+  <AteCorpse.stages.0.label>გვამი შეჭამა</AteCorpse.stages.0.label>
+  <AteFineMeal.stages.0.description>ძალიან გემრიელი კერძი ვჭამე. კაი!</AteFineMeal.stages.0.description>
+  <AteFineMeal.stages.0.label>მშვენიერი კვება შეჭამა</AteFineMeal.stages.0.label>
+  <AteHumanlikeMeatAsIngredient.stages.0.description>მე ვჭამე სხვა ადამიანის ხორცისგან დამზადებული საჭმელი. ეს საშინელებაა.</AteHumanlikeMeatAsIngredient.stages.0.description>
+  <AteHumanlikeMeatAsIngredient.stages.0.label>მოხარშული კანიბალიზმი</AteHumanlikeMeatAsIngredient.stages.0.label>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.description>მე ვჭამე სხვა ადამიანის ხორცისგან დამზადებული საჭმელი. ასე სასიამოვნო. ფავა რომ მქონდეს და ლამაზი ჩიანტი.</AteHumanlikeMeatAsIngredientCannibal.stages.0.description>
+  <AteHumanlikeMeatAsIngredientCannibal.stages.0.label>მოხარშული კანიბალიზმი</AteHumanlikeMeatAsIngredientCannibal.stages.0.label>
+  <AteHumanlikeMeatDirect.stages.0.description>სხვა ადამიანის ხორცს ვჭამდი, უმი, ცხოველივით. ეს კოშმარია.</AteHumanlikeMeatDirect.stages.0.description>
+  <AteHumanlikeMeatDirect.stages.0.label>ნედლი კანიბალიზმი</AteHumanlikeMeatDirect.stages.0.label>
+  <AteHumanlikeMeatDirectCannibal.stages.0.description>სხვა ადამიანის ხორცს ვჭამდი, უმი, ცხოველივით. ისეთი... სუკულენტი იყო.</AteHumanlikeMeatDirectCannibal.stages.0.description>
+  <AteHumanlikeMeatDirectCannibal.stages.0.label>ნედლი კანიბალიზმი</AteHumanlikeMeatDirectCannibal.stages.0.label>
+  <AteInsectMeatAsIngredient.stages.0.description>მე ვჭამე ნაცრისფერი, ლორწოვანი მწერის ხორცისგან მომზადებული კერძი. სუნელი ნაწილობრივ ფარავდა გემოს, მაგრამ იქ იყო ჯირკვლები და სითხის ჯიბეები, რომელთა ამოცნობა არ შემიძლია.</AteInsectMeatAsIngredient.stages.0.description>
+  <AteInsectMeatAsIngredient.stages.0.label>ჭამდა მწერების მოხარშულ ხორცს</AteInsectMeatAsIngredient.stages.0.label>
+  <AteInsectMeatDirect.stages.0.description>მე ვჭამე ნაცრისფერი, ლორწოვანი მწერის ხორცი. ეს იყო, ალბათ, ყველაზე ამაზრზენი რამ, რაც კი ოდესმე გამისინჯავს.</AteInsectMeatDirect.stages.0.description>
+  <AteInsectMeatDirect.stages.0.label>ჭამდა მწერების ხორცს</AteInsectMeatDirect.stages.0.label>
+  <AteKibble.stages.0.description>მომიწია ცხოველის წიბოს ჭამა. თითქოს აღარ ვიქნები ადამიანი.</AteKibble.stages.0.description>
+  <AteKibble.stages.0.label>ჭამდა კიბო</AteKibble.stages.0.label>
+  <AteLavishMeal.stages.0.description>ეს მდიდრული კვება საოცარი იყო. ის კვებავდა ჩემს სხეულს და ჩემს სულს.</AteLavishMeal.stages.0.description>
+  <AteLavishMeal.stages.0.label>უხვად მიირთვა</AteLavishMeal.stages.0.label>
+  <AteRawFood.stages.0.description>უმი საკვების ჭამა მომიწია. ასეთი საკვები ჭამის წინ უნდა მოვამზადოთ. ჩვენ ცხოველები არ ვართ.</AteRawFood.stages.0.description>
+  <AteRawFood.stages.0.label>ჭამდა უმი საკვები</AteRawFood.stages.0.label>
+  <AteRottenFood.stages.0.description>რაღაც ამაზრზენი, გაფუჭებული საკვები ვჭამე. პირში დნებოდა - მაგრამ არა კარგი თვალსაზრისით.</AteRottenFood.stages.0.description>
+  <AteRottenFood.stages.0.label>შეჭამა დამპალი საკვები</AteRottenFood.stages.0.label>
+</LanguageData>

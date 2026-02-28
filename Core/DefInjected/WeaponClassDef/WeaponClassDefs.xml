@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LongShots.label>გრძელი დარტყმები</LongShots.label>
+  <Melee.label>ახლო ბრძოლა</Melee.label>
+  <MeleeBlunt.label>melee ბლაგვი</MeleeBlunt.label>
+  <MeleePiercer.label>melee პირსერი</MeleePiercer.label>
+  <Neolithic.label>ნეოლითური</Neolithic.label>
+  <Ranged.label>მერყეობდა</Ranged.label>
+  <RangedHeavy.label>მძიმე მერყეობდა</RangedHeavy.label>
+  <RangedLight.label>დიაპაზონი სინათლე</RangedLight.label>
+  <ShortShots.label>მოკლე კადრები</ShortShots.label>
+  <Ultratech.label>ულტრატექნიკური</Ultratech.label>
+</LanguageData>

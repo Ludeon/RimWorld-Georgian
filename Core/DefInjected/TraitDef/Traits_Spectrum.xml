@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Beauty.degreeDatas.0.description>[PAWN_nameDef] გამორჩეულად ლამაზია, სახის ეგზოტიკური, მაგრამ მაინც ნაცნობი სტრუქტურით და დამამშვიდებელი მზერით. ხალხი იზიდავს [PAWN_objective] მანამ, სანამ [PAWN_pronoun] [PAWN_possessive] პირის გახსნამდეც კი.</Beauty.degreeDatas.0.description>
+  <Beauty.degreeDatas.0.label>ლამაზი</Beauty.degreeDatas.0.label>
+  <Beauty.degreeDatas.1.description>[PAWN_nameDef]-ს აქვს ლამაზი სახე, რაც ადამიანებს უბიძგებს მოსწონდეს [PAWN_objective].</Beauty.degreeDatas.1.description>
+  <Beauty.degreeDatas.1.label>ლამაზი</Beauty.degreeDatas.1.label>
+  <Beauty.degreeDatas.2.description>[PAWN_nameDef] გარკვეულწილად მახინჯია. ეს დახვეწილად მოგერიებს სხვებს სოციალური ურთიერთობის დროს.</Beauty.degreeDatas.2.description>
+  <Beauty.degreeDatas.2.label>მახინჯი</Beauty.degreeDatas.2.label>
+  <Beauty.degreeDatas.3.description>[PAWN_nameDef] საოცრად მახინჯია. [PAWN_possessive] სახე ჰგავს ჯვარს უნიჭო ბავშვის ნახატს, ფორმალდეჰიდის ქილაში არასწორ ფორმირებულ ნაყოფსა და თანამედროვე ხელოვნების ნიმუშს შორის. სხვებმა უნდა გამოიჩინონ შეგნებული ძალისხმევა, რათა შეხედონ [PAWN_objective] საუბრის დროს.</Beauty.degreeDatas.3.description>
+  <Beauty.degreeDatas.3.label>საოცრად მახინჯი</Beauty.degreeDatas.3.label>
+  <DrugDesire.degreeDatas.0.description>[PAWN_nameDef] სრულიად მოხიბლულია სიამოვნების ქიმიური წყაროებით. რეკრეაციული ნარკოტიკების მოხმარება შექმნის კარგ განწყობას, ხოლო თავშეკავება გამოიწვევს იმედგაცრუებას დროთა განმავლობაში და, შესაძლოა, ნარკოტიკების მოხმარებას. [PAWN_pronoun] უგულებელყოფს დირექტივებს, რომ არ გამოიყენოს რეკრეაციული ნარკოტიკები და მოიხმარს ჩვეულებრივ ადამიანზე მეტს.</DrugDesire.degreeDatas.0.description>
+  <DrugDesire.degreeDatas.0.label>ქიმიური გატაცება</DrugDesire.degreeDatas.0.label>
+  <DrugDesire.degreeDatas.1.description>[PAWN_nameDef] უჩვეულო ინტერესი აქვს სიამოვნების ქიმიური წყაროების მიმართ. რეკრეაციული ნარკოტიკების მოხმარება შექმნის კარგ განწყობას, ხოლო თავშეკავება დროთა განმავლობაში გამოიწვევს იმედგაცრუების ზრდას და ნარკოტიკების შესაძლო გადაჭარბებას. [PAWN_pronoun] უგულებელყოფს დირექტივებს, რომ არ გამოიყენოს რეკრეაციული ნარკოტიკები და მოიხმარს ჩვეულებრივ ადამიანზე მეტს.</DrugDesire.degreeDatas.1.description>
+  <DrugDesire.degreeDatas.1.label>ქიმიური ინტერესი</DrugDesire.degreeDatas.1.label>
+  <DrugDesire.degreeDatas.2.description>[PAWN_nameDef] ეზიზღება ქიმიკატებით სიამოვნების მიღების იდეა. [PAWN_pronoun] მკაცრად ერიდება ალკოჰოლს და რეკრეაციულ ნარკოტიკებს.</DrugDesire.degreeDatas.2.description>
+  <DrugDesire.degreeDatas.2.label>ტეტოტალერი</DrugDesire.degreeDatas.2.label>
+  <Immunity.degreeDatas.0.description>[PAWN_nameDef]-ს აქვს ბუნებრივად ძლიერი იმუნური სისტემა. [PAWN_pronoun] მოიპოვებს იმუნიტეტს ბევრად უფრო სწრაფად, ვიდრე ნორმალური ადამიანი და შეძლებს გადაურჩოს დაავადებებს, რომლებიც მოკლავენ სხვებს.</Immunity.degreeDatas.0.description>
+  <Immunity.degreeDatas.0.label>სუპერიმუნური</Immunity.degreeDatas.0.label>
+  <Immunity.degreeDatas.1.description>[PAWN_nameDef]-ს აქვს საშინელი იმუნური სისტემა. [PAWN_pronoun] ჩვეულებრივზე უფრო ხშირად ავადდება, ხშირად ისეთი დაავადებებით, რომლებითაც კოლონიაში არავინ ყოფილა დაავადებული.</Immunity.degreeDatas.1.description>
+  <Immunity.degreeDatas.1.label>ავადმყოფურად</Immunity.degreeDatas.1.label>
+  <Industriousness.degreeDatas.0.description>[PAWN_nameDef]-ს უადვილებს სამუშაოს შესრულებას და კონცენტრირებას და აკეთებს საქმეებს ბევრად უფრო სწრაფად, ვიდრე ჩვეულებრივი ადამიანი.</Industriousness.degreeDatas.0.description>
+  <Industriousness.degreeDatas.0.label>შრომისმოყვარე</Industriousness.degreeDatas.0.label>
+  <Industriousness.degreeDatas.1.description>[PAWN_nameDef] ბუნებრივი შრომისმოყვარეა და უფრო სწრაფად დაასრულებს დავალებებს, ვიდრე უმეტესობა.</Industriousness.degreeDatas.1.description>
+  <Industriousness.degreeDatas.1.label>შრომისმოყვარე</Industriousness.degreeDatas.1.label>
+  <Industriousness.degreeDatas.2.description>[PAWN_nameDef] ცოტა ზარმაცია.</Industriousness.degreeDatas.2.description>
+  <Industriousness.degreeDatas.2.label>ზარმაცი</Industriousness.degreeDatas.2.label>
+  <Industriousness.degreeDatas.3.description>[PAWN_nameDef] უყვარს უსაქმურობა და სძულს ყველაფერი პროდუქტიული. [PAWN_pronoun] ნელა მოძრაობს და იშვიათად რჩება კონცენტრირებული დავალებაზე.</Industriousness.degreeDatas.3.description>
+  <Industriousness.degreeDatas.3.label>ზარმაცი</Industriousness.degreeDatas.3.label>
+  <NaturalMood.degreeDatas.0.description>[PAWN_nameDef] ბუნებრივად ოპტიმისტურია [PAWN_possessive] სიტუაციის მიმართ, თითქმის ყოველთვის, რაც არ უნდა იყოს.</NaturalMood.degreeDatas.0.description>
+  <NaturalMood.degreeDatas.0.label>სანგვინი</NaturalMood.degreeDatas.0.label>
+  <NaturalMood.degreeDatas.1.description>[PAWN_nameDef] ბუნებრივად ოპტიმისტურად არის განწყობილი ცხოვრების მიმართ. ძნელია [PAWN_objective] ჩამოგდება.</NaturalMood.degreeDatas.1.description>
+  <NaturalMood.degreeDatas.1.label>ოპტიმისტი</NaturalMood.degreeDatas.1.label>
+  <NaturalMood.degreeDatas.2.description>[PAWN_nameDef] ცხოვრების ცუდ მხარეზე მიდრეკილია.</NaturalMood.degreeDatas.2.description>
+  <NaturalMood.degreeDatas.2.label>პესიმისტი</NaturalMood.degreeDatas.2.label>
+  <NaturalMood.degreeDatas.3.description>[PAWN_nameDef] მუდმივად უკმაყოფილოა. [PAWN_pronoun]-ს უჭირს კარგი განწყობის შენარჩუნება მაშინაც კი, როცა ყველაფერი კარგადაა.</NaturalMood.degreeDatas.3.description>
+  <NaturalMood.degreeDatas.3.label>დეპრესიული</NaturalMood.degreeDatas.3.label>
+  <Nerves.degreeDatas.0.description>[PAWN_nameDef]-ის ანდერძი არის რკინის ფარი. [PAWN_pronoun] აგრძელებს სქელ და თხელ გზას, როცა სხვები დიდი ხნით ადრე გაფუჭდნენ.</Nerves.degreeDatas.0.description>
+  <Nerves.degreeDatas.0.label>რკინის ნებისყოფა</Nerves.degreeDatas.0.label>
+  <Nerves.degreeDatas.1.description>[PAWN_nameDef] ფსიქიკურად მკაცრია და არ იშლება იმ სტრესის ქვეშ, რომელიც აწუხებს ადამიანების უმეტესობას.</Nerves.degreeDatas.1.description>
+  <Nerves.degreeDatas.1.label>ურყევი</Nerves.degreeDatas.1.label>
+  <Nerves.degreeDatas.2.description>[PAWN_nameDef] მიდრეკილია გატეხოს წნევის ქვეშ.</Nerves.degreeDatas.2.description>
+  <Nerves.degreeDatas.2.label>ნერვული</Nerves.degreeDatas.2.label>
+  <Nerves.degreeDatas.3.description>[PAWN_nameDef] მუდამ თმაზეა ჩართული. [PAWN_pronoun] არის პირველი, ვინც არღვევს ნებისმიერ რთულ სიტუაციაში.</Nerves.degreeDatas.3.description>
+  <Nerves.degreeDatas.3.label>არასტაბილური</Nerves.degreeDatas.3.label>
+  <Neurotic.degreeDatas.0.description>[PAWN_nameDef]-ს უყვარს ნივთების კვადრატი. [PAWN_pronoun] უფრო მეტს იმუშავებს, ვიდრე უმეტესობა ამ მდგომარეობის მისაღწევად, მაგრამ [PAWN_possessive] ნერვებს შეუძლიათ უკეთესად აიღონ [PAWN_objective].</Neurotic.degreeDatas.0.description>
+  <Neurotic.degreeDatas.0.label>ნევროზული</Neurotic.degreeDatas.0.label>
+  <Neurotic.degreeDatas.1.description>[PAWN_nameDef] მუდმივად ნერვიულობს ყველაფერზე, რაც უნდა გაკეთდეს. [PAWN_pronoun] ძალიან ბევრს იმუშავებს ამ მდგომარეობის მისაღწევად, მაგრამ [PAWN_possessive] ნერვებს ადვილად შეუძლიათ [PAWN_objective].</Neurotic.degreeDatas.1.description>
+  <Neurotic.degreeDatas.1.label>ძალიან ნევროზული</Neurotic.degreeDatas.1.label>
+  <PsychicSensitivity.degreeDatas.0.description>[PAWN_nameDef]-ის გონება ფსიქიკურ ჩანგალს ჰგავს. [PAWN_pronoun] უკიდურესად მგრძნობიარეა ფსიქიკური ფენომენების მიმართ.</PsychicSensitivity.degreeDatas.0.description>
+  <PsychicSensitivity.degreeDatas.0.label>ფსიქიკურად ჰიპერმგრძნობიარე</PsychicSensitivity.degreeDatas.0.label>
+  <PsychicSensitivity.degreeDatas.1.description>[PAWN_nameDef]-ის გონება უჩვეულოდ მგრძნობიარეა ფსიქიკური ფენომენების მიმართ.</PsychicSensitivity.degreeDatas.1.description>
+  <PsychicSensitivity.degreeDatas.1.label>ფსიქიკურად მგრძნობიარე</PsychicSensitivity.degreeDatas.1.label>
+  <PsychicSensitivity.degreeDatas.2.description>[PAWN_nameDef]-ის გონება ფსიქიკურად არ შეესაბამება სხვებს. [PAWN_pronoun] არ არის ისეთივე გავლენას ფსიქიკური მოვლენები.</PsychicSensitivity.degreeDatas.2.description>
+  <PsychicSensitivity.degreeDatas.2.label>ფსიქიკურად მოსაწყენი</PsychicSensitivity.degreeDatas.2.label>
+  <PsychicSensitivity.degreeDatas.3.description>[PAWN_nameDef]-ის გონება მუშაობს ყველასგან განსხვავებულ ფსიქიკურ სიხშირეზე. [PAWN_pronoun] უბრალოდ არ მოქმედებს ფსიქიკური ფენომენებით.</PsychicSensitivity.degreeDatas.3.description>
+  <PsychicSensitivity.degreeDatas.3.label>ფსიქიკურად ყრუ</PsychicSensitivity.degreeDatas.3.label>
+  <ShootingAccuracy.degreeDatas.0.description>[PAWN_nameDef]-ს სროლისას მეტი დრო სჭირდება დამიზნებას. [PAWN_pronoun] ისვრის ნაკლებად ხშირად, ვიდრე სხვები, მაგრამ მეტი სიზუსტით.</ShootingAccuracy.degreeDatas.0.description>
+  <ShootingAccuracy.degreeDatas.0.label>ფრთხილი მსროლელი</ShootingAccuracy.degreeDatas.0.label>
+  <ShootingAccuracy.degreeDatas.1.description>პიუ! პიუ! პიუ! [PAWN_nameDef] უბრალოდ მოსწონს ჩახმახის აწევა. [PAWN_pronoun] ისვრის უფრო სწრაფად, ვიდრე სხვები, მაგრამ ნაკლებად ზუსტად.</ShootingAccuracy.degreeDatas.1.description>
+  <ShootingAccuracy.degreeDatas.1.label>გამომწვევი-ბედნიერი</ShootingAccuracy.degreeDatas.1.label>
+  <SpeedOffset.degreeDatas.0.description>[PAWN_nameDef] ყოველთვის ჩამორჩება ჯგუფს, როცა [PAWN_pronoun] სადმე მიდის.</SpeedOffset.degreeDatas.0.description>
+  <SpeedOffset.degreeDatas.0.label>შენელებული</SpeedOffset.degreeDatas.0.label>
+  <SpeedOffset.degreeDatas.1.description>[PAWN_nameDef]-ს უყვარს იქ, სადაც [PAWN_pronoun] მიდის. [PAWN_pronoun] უფრო სწრაფად დადის ვიდრე ადამიანების უმეტესობა.</SpeedOffset.degreeDatas.1.description>
+  <SpeedOffset.degreeDatas.1.label>სწრაფი მოსიარულე</SpeedOffset.degreeDatas.1.label>
+  <SpeedOffset.degreeDatas.2.description>[PAWN_nameDef] ყოველთვის მოძრაობს გადაუდებლობის გრძნობით - იმდენად, რომ სხვები ხშირად ვერ ახერხებენ.</SpeedOffset.degreeDatas.2.description>
+  <SpeedOffset.degreeDatas.2.label>სირბილი</SpeedOffset.degreeDatas.2.label>
+</LanguageData>

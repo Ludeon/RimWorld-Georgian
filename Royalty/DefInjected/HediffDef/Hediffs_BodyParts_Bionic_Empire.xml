@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AestheticNose.description>დამონტაჟებული ესთეტიკური ცხვირი. შეიძლება ჩამოყალიბდეს მომხმარებლის სასურველ ფორმაში, შეესაბამება სილამაზის გავრცელებულ სტანდარტებს და აძლიერებს ფიზიკურ შთაბეჭდილებებს.</AestheticNose.description>
+  <AestheticNose.label>ესთეტიკური ცხვირი</AestheticNose.label>
+  <AestheticNose.labelNoun>ესთეტიკური ცხვირი</AestheticNose.labelNoun>
+  <AestheticShaper.description>დაყენებული ესთეტიკური ფორმირებადი. ჰორმონალური და მექანიტის ზემოქმედების დახვეწილი პაკეტი აყალიბებს კუნთებსა და ცხიმს სხეულზე, ამატებს არაფუნქციურ ესთეტიკურ ქსოვილს, სადაც საჭიროა სასურველი გარეგნობის მისაღწევად. ამ იმპლანტის კონფიგურაცია შესაძლებელია, რათა ჩამოაყალიბოს სხეულის სხვადასხვა ფორმები მომხმარებლის გემოვნების მიხედვით - ან მათი პარტნიორის.</AestheticShaper.description>
+  <AestheticShaper.label>ესთეტიკური ფორმირებადი</AestheticShaper.label>
+  <AestheticShaper.labelNoun>ესთეტიკური ფორმირებადი</AestheticShaper.labelNoun>
+  <ArmorskinGland.description>დამონტაჟებული ჯავშანტექნიკის ჯირკვალი. გამოყოფს ქიმიკატებს და ნანომანქანებს, რომლებიც ამკვრივებენ კანს და ამატებენ მოქნილ კანქვეშა კერატინის ფირფიტებს სტრატეგიულ წერტილებში. ეს ხდის მომხმარებელს უფრო მდგრადი დაზიანების მიმართ მთელ სხეულზე. სამწუხაროდ, ეს ცვლილებები კანს ტყავისებრს ხდის, ნაოჭებით მთელ სხეულსა და სახეზე, რაც ზოგადად მახინჯად ითვლება.</ArmorskinGland.description>
+  <ArmorskinGland.label>ჯავშანტექნიკის ჯირკვალი</ArmorskinGland.label>
+  <ArmorskinGland.labelNoun>ჯავშანტექნიკის ჯირკვალი</ArmorskinGland.labelNoun>
+  <CircadianAssistant.description>დამონტაჟებული ცირკადული ასისტენტი. აწარმოებს ქიმიკატებს და ნანომანქანებს, რომლებიც ასუფთავებენ ტვინიდან ტოქსინების დაგროვებას.</CircadianAssistant.description>
+  <CircadianAssistant.label>ცირკადული ასისტენტი</CircadianAssistant.label>
+  <CircadianAssistant.labelNoun>ცირკადული ასისტენტი</CircadianAssistant.labelNoun>
+  <CircadianHalfCycler.description>დამონტაჟებული ცირკადული ნახევარციკლერი. იზოლირებს ტვინის ნახევარს და აძლევს საშუალებას მეორე ნახევარს დაიძინოს, სანამ მომხმარებელი გარეგნულად ფხიზლად რჩება. ტვინის ნახევრების მონაცვლეობით, მომხმარებელს არასოდეს სჭირდება ძილი. სამწუხაროდ, ორი ნახევარსფერო ჯობია ერთს – ნახევარ ტვინთან მუშაობა იწვევს ცნობიერების დაქვეითებას.</CircadianHalfCycler.description>
+  <CircadianHalfCycler.label>ცირკადული ნახევარციკლერი</CircadianHalfCycler.label>
+  <CircadianHalfCycler.labelNoun>ცირკადული ნახევარციკლერი</CircadianHalfCycler.labelNoun>
+  <Coagulator.description>დამონტაჟებული კოაგულატორის იმპლანტი. ათავისუფლებს კოაგულაციის ფაქტორებს სისხლის დაკარგვის საპასუხოდ, რაც მნიშვნელოვნად ამცირებს სისხლდენის სიხშირეს.</Coagulator.description>
+  <Coagulator.label>კოაგულატორი</Coagulator.label>
+  <Coagulator.labelNoun>კოაგულატორი</Coagulator.labelNoun>
+  <DetoxifierStomach.description>დამონტაჟებული სასტერილიზაციო კუჭი. საშუალებას აძლევს მომხმარებელს ჭამოს თითქმის ყველაფერი საკვების მოწამვლის გარეშე ფიქრის გარეშე.</DetoxifierStomach.description>
+  <DetoxifierStomach.label>კუჭის სტერილიზაცია</DetoxifierStomach.label>
+  <DetoxifierStomach.labelNoun>კუჭის სტერილიზება</DetoxifierStomach.labelNoun>
+  <GastroAnalyzer.description>დამონტაჟებული გასტროანალიზატორი. აძლიერებს ყნოსვას, ფოკუსირებულია საკვებთან დაკავშირებულ სურნელებზე. მრავალშრიანი ულტრა წვრილ შთანთქმის ბადე ამოიცნობს ნაერთებს ჰაერში. მიკროპროცესორი აფორმებს წაკითხვებს ყნოსვის ნერვულ სიგნალად, რათა ტვინში გაგზავნოს ნერვის კავშირის ინტერფეისის საშუალებით. შედეგი ის არის, რომ მომხმარებელს შეუძლია სურნელის სუნი, სიღრმის, სიმდიდრისა და სიზუსტის მქონე საკვების სუნი, რომელიც არ არის გაუმჯობესებული ადამიანებისთვის, რაც მათ საშუალებას აძლევს უფრო ეფექტურად მოამზადონ. მთელი მოწყობილობა საკმარისად პატარაა იმისათვის, რომ დამონტაჟდეს ცხვირში მომხმარებლის გარეგნობაზე ზემოქმედების გარეშე.</GastroAnalyzer.description>
+  <GastroAnalyzer.label>გასტრო-ანალიზატორი</GastroAnalyzer.label>
+  <GastroAnalyzer.labelNoun>გასტრო-ანალიზატორი</GastroAnalyzer.labelNoun>
+  <HealingEnhancer.description>დამონტაჟებული სამკურნალო გამაძლიერებელი იმპლანტი. ათავისუფლებს ნანომანქანებს და სამკურნალო ფაქტორებს, რომლებიც აჩქარებენ ჭრილობების შეხორცებას. ეს იმპლანტი ეხმარება მხოლოდ ფიზიკურ ჭრილობებს და არაფერს ებრძვის დაავადებას ან სხვა ჯანმრთელობის პრობლემებს.</HealingEnhancer.description>
+  <HealingEnhancer.label>სამკურნალო გამაძლიერებელი</HealingEnhancer.label>
+  <HealingEnhancer.labelNoun>სამკურნალო გამაძლიერებელი</HealingEnhancer.labelNoun>
+  <Immunoenhancer.description>დამონტაჟებული იმუნოგამაძლიერებელი. საანალიზო კომპიუტერი, რომელიც ამოწმებს სისხლძარღვს, კლასიფიცირებს პათოგენებს და სწრაფად აიძულებს სხეულის ბუნებრივ იმუნურ სისტემას რეაგირება მოახდინოს მათზე უფრო სწრაფად, ვიდრე ამას მარტო შეეძლო. ეს მნიშვნელოვნად აჩქარებს იმუნიტეტის ზრდას.</Immunoenhancer.description>
+  <Immunoenhancer.label>იმუნოგამაძლიერებელი</Immunoenhancer.label>
+  <Immunoenhancer.labelNoun>იმუნოგამაძლიერებელი</Immunoenhancer.labelNoun>
+  <LearningAssistant.description>დაინსტალირებული სასწავლო ასისტენტი. სენსორული ჩაწერის სისტემა, რომელიც იმეორებს მნიშვნელოვან გამოცდილებას ძილის დროს, აძლიერებს ახალი მოგონებების ფორმირებას.</LearningAssistant.description>
+  <LearningAssistant.label>სწავლის ასისტენტი</LearningAssistant.label>
+  <LearningAssistant.labelNoun>სწავლის ასისტენტი</LearningAssistant.labelNoun>
+  <LoveEnhancer.description>დაინსტალირებული სიყვარულის გამაძლიერებელი. ახდენს ფიზიკურ და ქიმიურ ცვლილებებს სხეულში, რაც აძლიერებს სიყვარულის გამოცდილებას ორივე პარტნიორისთვის - ფიზიკურად და ფსიქოლოგიურად. იმპლანტის ერთეულს შეუძლია ადაპტირება, რათა გააძლიეროს როგორც მამაკაცები, ასევე ქალები ჩანერგვისას.</LoveEnhancer.description>
+  <LoveEnhancer.label>სიყვარულის გამაძლიერებელი</LoveEnhancer.label>
+  <LoveEnhancer.labelNoun>სიყვარულის გამაძლიერებელი</LoveEnhancer.labelNoun>
+  <Neurocalculator.description>An installed neurocalculator. A non-intelligent microcomputer controlled by a visual/tactile neural interface. It assists with memory and calculation, like a calculator and notepad embedded in the brain.</Neurocalculator.description>
+  <Neurocalculator.label>ნეიროკალკულატორი</Neurocalculator.label>
+  <Neurocalculator.labelNoun>ნეიროკალკულატორი</Neurocalculator.labelNoun>
+  <NuclearStomach.description>დამონტაჟებული ბირთვული კუჭი. მიკრობირთვული რეაქტორი, რომელიც შერწყმულია კომპლექსურ ქიმიურ სინთეზთან, ცვლის ორგანიზმის მოთხოვნილებას საკვების ენერგიაზე. საკვები საჭიროა მხოლოდ ორგანიზმიდან დაკარგული ნივთიერების შესაცვლელად, რაც მნიშვნელოვნად ამცირებს მომხმარებლის მოთხოვნილებებს. ეს ხელოვნური კუჭი საკვებით მოწამვლას ვერ იღებს. თუმცა, რეაქტორის დასაცავად ცოტა ადგილია, ამიტომ რადიაცია ზრდის კიბოს რისკს.</NuclearStomach.description>
+  <NuclearStomach.label>ბირთვული კუჭი</NuclearStomach.label>
+  <NuclearStomach.labelNoun>ბირთვული კუჭი</NuclearStomach.labelNoun>
+  <ReprocessorStomach.description>დამონტაჟებული რეპროცესორი კუჭი. შეიცავს ქიმიური დამუშავების მოწინავე სისტემას, რომელიც არღვევს საკვებ ნივთიერებებს, რომლებსაც ორგანიზმი ჩვეულებრივ ვერ გამოიყენებს, რაც იწვევს ეფექტურობის გაზრდას.</ReprocessorStomach.description>
+  <ReprocessorStomach.label>რეპროცესორი კუჭი</ReprocessorStomach.label>
+  <ReprocessorStomach.labelNoun>რეპროცესორი კუჭი</ReprocessorStomach.labelNoun>
+  <StoneskinGland.description>დამონტაჟებული ქვის კანის ჯირკვალი. გამოყოფს ქიმიურ და ნანომანქანებს, რომლებიც გარდაქმნის მომხმარებლის კანს ჩაშენებულ ჯავშნად. მთელი ეპიდერმისი სქელდება და მყარდება, რათა გაუძლოს დამწვრობას, ხოლო გარე კერატინის ფირფიტები იქმნება ყველგან, სადაც შეუძლიათ - თავისა და სახის ჩათვლით. მიუხედავად იმისა, რომ ამ იმპლანტის გამოყენებით ვინმეს ფიზიკური ზიანის მიყენება ძალიან რთულია, ფირფიტები და მყარი კანი მნიშვნელოვნად ამცირებს მომხმარებლის ფიზიკურ მიმზიდველობას.</StoneskinGland.description>
+  <StoneskinGland.label>ქვის კანის ჯირკვალი</StoneskinGland.label>
+  <StoneskinGland.labelNoun>ქვის კანის ჯირკვალი</StoneskinGland.labelNoun>
+  <ToughskinGland.description>დამონტაჟებული ხისტი კანის ჯირკვალი. ათავისუფლებს ქიმიკატებს და ნანომანქანებს, რომლებიც ამკვრივებს კანს, რაც მას გარკვეულწილად გამძლეს ხდის დაზიანების მიმართ. მიუხედავად იმისა, რომ ის არ მატებს იმდენ დაცვას, როგორც კანის გამკვრივების სხვა ჯირკვლებს, ხისტი კანის ჯირკვალს აქვს უპირატესობა, რომ შესამჩნევად არ ცვლის მომხმარებლის გარეგნობას.</ToughskinGland.description>
+  <ToughskinGland.label>მკაცრი კანის ჯირკვალი</ToughskinGland.label>
+  <ToughskinGland.labelNoun>მკაცრი კანის ჯირკვალი</ToughskinGland.labelNoun>
+</LanguageData>

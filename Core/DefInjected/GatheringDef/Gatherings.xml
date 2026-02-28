@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MarriageCeremony.label>ქორწინების ცერემონია</MarriageCeremony.label>
+  <Party.label>წვეულება</Party.label>
+  <Party.letterText>{ORGANIZER_labelShort} მართავს წვეულებას! ყველა, ვინც მიდის, მოიპოვებს დასვენებას და სოციალურ ენერგიას და გრძელვადიანი პოზიტიური განწყობის ამაღლებას.</Party.letterText>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Proselytizing_Frequently.description>ვინც სიმართლე იცის, მოვალეა ყოველთვის გაავრცელოს იგი და განდევნოს სხვა რწმენა.</Proselytizing_Frequently.description>
+  <Proselytizing_Frequently.label>ხშირი</Proselytizing_Frequently.label>
+  <Proselytizing_Occasionally.description>ვინც სიმართლე იცის, უნდა ეცადოს სხვებს მიაწოდოს ის, როცა ეს მიზანშეწონილია.</Proselytizing_Occasionally.description>
+  <Proselytizing_Occasionally.label>შემთხვევითი</Proselytizing_Occasionally.label>
+  <Proselytizing_Sometimes.description>ვინც ჭეშმარიტება იცის, ნებისმიერ დროს უნდა მიაწოდოს ის სხვებს.</Proselytizing_Sometimes.description>
+  <Proselytizing_Sometimes.label>ხანდახან</Proselytizing_Sometimes.label>
+</LanguageData>

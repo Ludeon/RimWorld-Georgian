@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Hay.description>საკვები ნივთიერებებით მდიდარი ბალახები და ყლორტები, მოკრეფილი და შეკუმშული შესანახად. თივა კარგი ცხოველური საკვებია, მაგრამ ადამიანისთვის უვარგისია.</Hay.description>
+  <Hay.label>თივა</Hay.label>
+  <PsychoidLeaves.description>ფსიქოიდური მცენარის ნედლი მოჭრილი ფოთლები. შეიძლება დაიხვეწოს სხვადასხვა სახის მასტიმულირებელი წამლის ფსიქიტის სახით.</PsychoidLeaves.description>
+  <PsychoidLeaves.label>ფსიქოიდური ფოთლები</PsychoidLeaves.label>
+  <RawAgave.description>ნედლი აგავის ნაყოფი.</RawAgave.description>
+  <RawAgave.label>აგავას ნაყოფი</RawAgave.label>
+  <RawBerries.description>კენკრის ასორტი. სასიამოვნოა ჭამა, თუნდაც უმი.</RawBerries.description>
+  <RawBerries.label>კენკრა</RawBerries.label>
+  <RawCorn.description>ნედლი სიმინდი.</RawCorn.description>
+  <RawCorn.label>სიმინდი</RawCorn.label>
+  <RawFungus.description>ნედლი სოკო.</RawFungus.description>
+  <RawFungus.label>ნედლი სოკო</RawFungus.label>
+  <RawHops.description>ნედლი სვია. არომატიზატორი და შემანარჩუნებელი საშუალება, რომელიც აუცილებელია ლუდის დასამზადებლად.</RawHops.description>
+  <RawHops.label>სვია</RawHops.label>
+  <RawPotatoes.description>უმი კარტოფილი.</RawPotatoes.description>
+  <RawPotatoes.label>კარტოფილი</RawPotatoes.label>
+  <RawRice.description>ნედლი ბრინჯი.</RawRice.description>
+  <RawRice.label>ბრინჯი</RawRice.label>
+  <SmokeleafLeaves.description>კვამლის ფოთლების ნედლი მოჭრილი ფოთლები. შეიძლება დაიბრუნოს მოსაწევ სახსარში ხელოსნობის ადგილზე.</SmokeleafLeaves.description>
+  <SmokeleafLeaves.label>კვამლის ფოთლები</SmokeleafLeaves.label>
+</LanguageData>

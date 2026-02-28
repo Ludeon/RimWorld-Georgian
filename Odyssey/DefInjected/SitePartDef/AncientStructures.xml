@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OpportunitySite_AncientChemfuelRefinery.description>მიტოვებული სამრეწველო დანადგარი, რომელიც შეიცავს დიდი რაოდენობით ქიმიურ საწვავს. ის ასევე შეიძლება შეიცავდეს აქტიურ უსაფრთხოების სისტემებს.</OpportunitySite_AncientChemfuelRefinery.description>
+  <OpportunitySite_AncientChemfuelRefinery.label>უძველესი ქიმიური საწვავის ქარხანა</OpportunitySite_AncientChemfuelRefinery.label>
+  <OpportunitySite_AncientGarrison.description>დიდი ხნის მიტოვებული სამხედრო სტრუქტურა. ის შეიძლება კვლავ შეიცავდეს ძვირფას ნივთებს, ასევე აქტიურ უსაფრთხოების სისტემებს. გამოიჩინეთ სიფრთხილე ამ ნანგრევების შესწავლისას.</OpportunitySite_AncientGarrison.description>
+  <OpportunitySite_AncientGarrison.label>უძველესი გარნიზონი</OpportunitySite_AncientGarrison.label>
+  <OpportunitySite_AncientInfestedSettlement.description>ოდესღაც აყვავებული დასახლება, რომელიც ექვემდებარება მწერებს. ის შეიძლება კვლავ შეიცავდეს ღირებულ რესურსებს.</OpportunitySite_AncientInfestedSettlement.description>
+  <OpportunitySite_AncientInfestedSettlement.label>დაზიანებული დასახლება</OpportunitySite_AncientInfestedSettlement.label>
+  <OpportunitySite_AncientLaunchSite.description>გაშვების ბალიშების მიტოვებული კოლექცია, რომელიც გამოიყენება ორბიტალური პლატფორმების მიწოდებისთვის. იგი შეიცავს სამუშაო სატრანსპორტო ბალიშებს.</OpportunitySite_AncientLaunchSite.description>
+  <OpportunitySite_AncientLaunchSite.label>უძველესი გაშვების ადგილი</OpportunitySite_AncientLaunchSite.label>
+  <OpportunitySite_AncientWarehouse.description>მიტოვებული საწყობი. ის კვლავ შეიცავს ძვირფას ნივთებს. ის ასევე შეიძლება შეიცავდეს აქტიურ უსაფრთხოების სისტემებს.</OpportunitySite_AncientWarehouse.description>
+  <OpportunitySite_AncientWarehouse.label>უძველესი საწყობი</OpportunitySite_AncientWarehouse.label>
+</LanguageData>

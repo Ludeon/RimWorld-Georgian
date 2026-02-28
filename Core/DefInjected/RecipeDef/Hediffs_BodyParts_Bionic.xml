@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallBionicArm.description>დააინსტალირეთ ბიონიკური მკლავი.</InstallBionicArm.description>
+  <InstallBionicArm.jobString>ბიონური მკლავის დაყენება.</InstallBionicArm.jobString>
+  <InstallBionicArm.label>დააინსტალირეთ ბიონიკური მკლავი</InstallBionicArm.label>
+  <InstallBionicEar.description>დააინსტალირეთ ბიონიკური ყური.</InstallBionicEar.description>
+  <InstallBionicEar.jobString>ბიონური ყურის დაყენება.</InstallBionicEar.jobString>
+  <InstallBionicEar.label>დააინსტალირეთ ბიონიკური ყური</InstallBionicEar.label>
+  <InstallBionicEye.description>დააინსტალირეთ ბიონიკური თვალი.</InstallBionicEye.description>
+  <InstallBionicEye.jobString>ბიონიკური თვალის დაყენება.</InstallBionicEye.jobString>
+  <InstallBionicEye.label>დააინსტალირეთ ბიონიკური თვალი</InstallBionicEye.label>
+  <InstallBionicHeart.description>დააინსტალირეთ ბიონიკური გული.</InstallBionicHeart.description>
+  <InstallBionicHeart.jobString>ბიონური გულის დაყენება.</InstallBionicHeart.jobString>
+  <InstallBionicHeart.label>დააინსტალირეთ ბიონიკური გული</InstallBionicHeart.label>
+  <InstallBionicJaw.description>დააინსტალირეთ ბიონიკური ყბა.</InstallBionicJaw.description>
+  <InstallBionicJaw.jobString>ბიონიკური ყბის დაყენება.</InstallBionicJaw.jobString>
+  <InstallBionicJaw.label>დააინსტალირეთ ბიონიკური ყბა</InstallBionicJaw.label>
+  <InstallBionicLeg.description>დააინსტალირეთ ბიონიკური ფეხი.</InstallBionicLeg.description>
+  <InstallBionicLeg.jobString>ბიონიკური ფეხის დაყენება.</InstallBionicLeg.jobString>
+  <InstallBionicLeg.label>დააინსტალირეთ ბიონიკური ფეხი</InstallBionicLeg.label>
+  <InstallBionicSpine.description>დააინსტალირეთ ბიონური ხერხემალი.</InstallBionicSpine.description>
+  <InstallBionicSpine.jobString>ბიონური ხერხემლის დაყენება.</InstallBionicSpine.jobString>
+  <InstallBionicSpine.label>დააინსტალირეთ ბიონური ხერხემალი</InstallBionicSpine.label>
+  <InstallBionicStomach.description>დააინსტალირეთ ბიონიკური კუჭი.</InstallBionicStomach.description>
+  <InstallBionicStomach.jobString>ბიონიკური კუჭის დაყენება.</InstallBionicStomach.jobString>
+  <InstallBionicStomach.label>დააინსტალირეთ ბიონიკური კუჭი</InstallBionicStomach.label>
+  <InstallBionicTongue.description>დააინსტალირეთ ბიონიკური ენა.</InstallBionicTongue.description>
+  <InstallBionicTongue.jobString>ბიონური ენის დაყენება.</InstallBionicTongue.jobString>
+  <InstallBionicTongue.label>დააინსტალირეთ ბიონიკური ენა</InstallBionicTongue.label>
+  <InstallDeathAcidifier.description>დააინსტალირეთ სიკვდილის მჟავიანატორი.</InstallDeathAcidifier.description>
+  <InstallDeathAcidifier.jobString>სიკვდილის მჟავიანობის დაყენება.</InstallDeathAcidifier.jobString>
+  <InstallDeathAcidifier.label>დააინსტალირეთ სიკვდილის მჟავიანატორი</InstallDeathAcidifier.label>
+</LanguageData>

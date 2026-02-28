@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Plant_Agave.description>უდაბნოს მსხვილფოთლოვანი მცენარე საკვებად ვარგისი ყვავილებითა და ყუნწებით.</Plant_Agave.description>
+  <Plant_Agave.label>აგავა</Plant_Agave.label>
+  <Plant_PincushionCactus.description>მოკლე კაქტუსი. მას ასე ეწოდა, რადგან ის წააგავს პინკუშონს.</Plant_PincushionCactus.description>
+  <Plant_PincushionCactus.label>pincushion კაქტუსი</Plant_PincushionCactus.label>
+  <Plant_SaguaroCactus.description>დიდი კაქტუსი, რომელიც მშობლიურია დედამიწის არიდულ გარემოში. მიუხედავად იმისა, რომ ეს არ არის ხე, ის იძლევა მცირე რაოდენობით ბოჭკოვან მასალას, რომელიც შეიძლება გამოყენებულ იქნას ხის მსგავსად.</Plant_SaguaroCactus.description>
+  <Plant_SaguaroCactus.label>საგუაროს კაქტუსი</Plant_SaguaroCactus.label>
+  <Plant_TreeDrago.description>გამძლე უდაბნოს ხე, თავზე სქელი, წვეტიანი ფოთლებით.</Plant_TreeDrago.description>
+  <Plant_TreeDrago.label>დრაგოს ხე</Plant_TreeDrago.label>
+</LanguageData>

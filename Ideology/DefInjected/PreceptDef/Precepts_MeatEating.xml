@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MeatEating_Abhorrent.description>ნებისმიერი სახის ხორცის ჭამა ღრმა ბოროტებაა.</MeatEating_Abhorrent.description>
+  <MeatEating_Abhorrent.label>საზიზღარი</MeatEating_Abhorrent.label>
+  <MeatEating_Disapproved.description>თავიდან უნდა იქნას აცილებული ნებისმიერი სახის ხორცის ჭამა.</MeatEating_Disapproved.description>
+  <MeatEating_Disapproved.label>არ მოიწონა</MeatEating_Disapproved.label>
+  <MeatEating_Horrible.description>ნებისმიერი სახის ხორცის ჭამა საშინელი საქციელია.</MeatEating_Horrible.description>
+  <MeatEating_Horrible.label>საზარელი</MeatEating_Horrible.label>
+  <MeatEating_NonMeat_Abhorrent.description>ვინც ვეგეტარიანელია ღრმად მორალურად დეფიციტურია. ყველა კვებას უნდა ჰქონდეს ხორცი, კვერცხი, რძე ან სხვა ცხოველური პროდუქტი.</MeatEating_NonMeat_Abhorrent.description>
+  <MeatEating_NonMeat_Abhorrent.label>ვეგეტარიანელი ამაზრზენი</MeatEating_NonMeat_Abhorrent.label>
+  <MeatEating_NonMeat_Disapproved.description>ვეგეტარიანული საკვების ჭამა უსიამოვნოა. ყველა კვებას უნდა ჰქონდეს ხორცი, კვერცხი, რძე ან სხვა ცხოველური პროდუქტი.</MeatEating_NonMeat_Disapproved.description>
+  <MeatEating_NonMeat_Disapproved.label>ვეგეტარიანელი არ მოსწონდა</MeatEating_NonMeat_Disapproved.label>
+  <MeatEating_NonMeat_Horrible.description>ვეგეტარიანული საკვების ჭამა საშინელებაა. ყველა კვებას უნდა ჰქონდეს ხორცი, კვერცხი, რძე ან სხვა ცხოველური პროდუქტი.</MeatEating_NonMeat_Horrible.description>
+  <MeatEating_NonMeat_Horrible.label>სძულდა ვეგეტარიანელი</MeatEating_NonMeat_Horrible.label>
+</LanguageData>

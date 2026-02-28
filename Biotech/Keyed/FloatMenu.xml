@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <NotAMechanitor>მექანიტორი არაა</NotAMechanitor>
+  <NotEnoughBandwidth>არ არის საკმარისი გამტარობა</NotEnoughBandwidth>
+  <ControlMech>აიღეთ კონტროლი {0}-ზე</ControlMech>
+  <CannotControlMech>{0}-ის მართვა შეუძლებელია</CannotControlMech>
+  <CannotControlMechAlreadyControlled>უკვე აკონტროლებს {0}</CannotControlMechAlreadyControlled>
+  <CannotControlMechNotEnoughBandwidth>არ არის საკმარისი გამტარობა</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNeverControllable>არასოდეს კონტროლირებადი</CannotControlMechNeverControllable>
+  <CannotDisconnectMech>{0}-დან გათიშვა შეუძლებელია</CannotDisconnectMech>
+  <DisconnectMech>გათიშეთ {0}-დან</DisconnectMech>
+  <DisassembleMech>სამუდამოდ დაშალეთ {0}</DisassembleMech>
+  <CannotDisassembleMech>{0}-ის სამუდამოდ დაშლა შეუძლებელია</CannotDisassembleMech>
+  <MustBeOverseer>ზედამხედველი უნდა იყოს</MustBeOverseer>
+  <Extract>ამოღება</Extract>
+  <OutOfCommandRange>ბრძანების დიაპაზონის გარეთ</OutOfCommandRange>
+  <CannotGoOutOfRange>აქ წასვლა არ შეიძლება</CannotGoOutOfRange>
+  <WasteContainerFull>უნდა დაიცალა</WasteContainerFull>
+  <CannotRepairMech>{0} მექანიკის შეკეთება შეუძლებელია</CannotRepairMech>
+
+  <ExtractXenogermFrom>ამოიღეთ ქსენოგერმი {PAWN_nameDef}-დან</ExtractXenogermFrom>
+  <EnterBuilding>შეიყვანეთ {0_labelShort}</EnterBuilding>
+  <PawnHasNoGenes>{PAWN_nameDef}-ს არ აქვს გენები</PawnHasNoGenes>
+  <PawnHasNoNonArchiteGenes>{PAWN_nameDef}-ს არ აქვს ამოღებული გენები.</PawnHasNoNonArchiteGenes>
+  <InXenogerminationComa>ქსენოგერმინაციულ კომაში</InXenogerminationComa>
+  <Occupied>დაკავებული</Occupied>
+  <OccupantEjectedFromGrowthVat>{PAWN_nameDef} ამოღებული იქნა ზრდის ღუმელიდან</OccupantEjectedFromGrowthVat>
+  <TooOld>{PAWN_nameDef} უნდა იყოს {AGEYEARS} წელზე უმცროსი.</TooOld>
+  <PawnIsTooOld>{PAWN_nameDef} ძალიან ძველია.</PawnIsTooOld>
+  <PawnBiostarving>{PAWN_nameDef} განიცდის ბიოსშიმშილს.</PawnBiostarving>
+  <NoViablePawns>ხელმისაწვდომი ხალხი არ არის</NoViablePawns>
+  <NoExtractablePawns>მოპოვებადი ხალხი არ არის</NoExtractablePawns>
+  <NoImplantablePawns>არ არის იმპლანტირებული ხალხი</NoImplantablePawns>
+  <CannotEnterBuilding>{0_labelShort}-ის შეყვანა შეუძლებელია</CannotEnterBuilding>
+  <AssignedToOtherPawn>{0_labelShort} ენიჭება სხვა ადამიანს.</AssignedToOtherPawn>
+
+  <AbsorbXenogerm>შთანთქავს {PAWN_nameDef}-ის ქსენოგერმს</AbsorbXenogerm>
+  <CannotAbsorbXenogerm>ვერ შთანთქავს {PAWN_nameDef}-ის ქსენოგერმს</CannotAbsorbXenogerm>
+  <SameXenotype>{PAWN_nameDef} უკვე არის {PAWN_xenotype}</SameXenotype>
+  <XenogermLossShockPresent>{PAWN_nameDef} განიცდის ქსენოგერმის დაკარგვის შოკს</XenogermLossShockPresent>
+  <CarryToSpecificThing>გადაიტანეთ {0_labelShort}-ზე</CarryToSpecificThing>
+  <NoCasketOrBed>არ არის მიუწვდომელი, დაჯავშნული საწოლი ან სასიკვდილო ყუთი უსაფრთხო ტემპერატურაზე.</NoCasketOrBed>
+  <TemporaryFactionMember>{PAWN_nameDef} არის ფრაქციის დროებითი წევრი.</TemporaryFactionMember>
+
+  <SubcoreScannerNotInit>სკანერი არ არის ინიცირებული</SubcoreScannerNotInit>
+  <SubcoreScannerRequiresIngredients>ინგრედიენტების მოლოდინში</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerOccupied>დაკავებული</SubcoreScannerOccupied>
+  <EnterSubcoreScanner>შეიყვანეთ {0}</EnterSubcoreScanner>
+
+  <BabyCareBreastfeed>ძუძუთი კვება {BABY_labelShort}</BabyCareBreastfeed>
+  <BabyCareBreastfeedUnable>არ შეიძლება {BABY_labelShort} ძუძუთი კვება</BabyCareBreastfeedUnable>
+  <AlreadyBreastfeeding>უკვე ძუძუთი კვებავს {BABY_labelShort}</AlreadyBreastfeeding>
+  <NoBabyFood>არ არის ბავშვის საკვები საკვები</NoBabyFood>
+
+  <CannotInteractBabyPlayFull>თამაში სჭირდება სრულად</CannotInteractBabyPlayFull>
+
+  <BloodfeedOn>იკვებეთ {PAWN_nameDef}-ზე</BloodfeedOn>
+  <CannotBloodfeedOn>ვერ იკვებება {PAWN_nameDef}-ით</CannotBloodfeedOn>
+  <CannotFeedOnWouldKill>არ არის საკმარისი სისხლი.</CannotFeedOnWouldKill>
+
+  
+  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort}-ს არ აქვს საკმარისი რძე</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort}-ს ახლა არ შეუძლია ძუძუთი კვება</BreastfeedFailReason_MomInMentalState>
+  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort} ზედმეტად სავსეა საწოვისთვის</BreastfeedFailReason_BabyTooFull>
+  <BreastfeedFailReason_BabyForbiddenToMom>{BABY_labelShort} აკრძალულია {MOM_labelShort}-ზე</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToHauler>{BABY_labelShort} აკრძალულია {HAULER_labelShort}-ზე</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort} აკრძალულია {HAULER_labelShort}-ზე</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort}-ს შეუძლია {BABY_labelShort} ძუძუთი კვება დახმარების გარეშე</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} ვერ გადადის {BABY_labelShort}-დან {MOM_labelShort}-მდე</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} ვერ აღწევს {BABY_labelShort}-ს</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>მეძუძური {BABY_factionPawnsPlural} არ არის მინიჭებული {BABY_labelShort}-ზე</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} არ არის მინიჭებული ბავშვის მოვლისთვის</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} არის კონტეინერში</BreastfeedFailReason_MomInsideContainer>
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} ტარდება</BreastfeedFailReason_MomBeingCarried>
+
+  <OrderImplantationIntoPawn>შეუკვეთეთ იმპლანტაცია {PAWN_nameDef}-ში</OrderImplantationIntoPawn>
+  <AcceptXenogerm>მიიღეთ {0_xenotype} ქსენოგერმი</AcceptXenogerm>
+
+  <CarryToRechargerOrdered>გადაიტანეთ {PAWN_labelShort} დამტენზე</CarryToRechargerOrdered>
+  <CannotCarryToRecharger>არ შეიძლება {PAWN_labelShort}-ის გადატანა დამტენზე</CannotCarryToRecharger>
+  <CannotCarryToRechargerNoneAvailable>არ არის ხელმისაწვდომი დამტენი</CannotCarryToRechargerNoneAvailable>
+
+  <NotAllowedHemogen>ჰემოგენის პაკეტები გამორთულია საკვების შეზღუდვით.</NotAllowedHemogen>
+
+  <EjectGenepackFromGeneBank>გენის პაკეტის ამოღება გენების ბანკიდან</EjectGenepackFromGeneBank>
+
+  <ResultingMetTooLow>შედეგად მეტაბოლიზმი ძალიან დაბალი იქნება</ResultingMetTooLow>
+
+  <RomanceOnCooldown>ძალიან ცოტა ხნის წინ სცადა რომანტიკა</RomanceOnCooldown>
+
+  <CarryToSafePlace>მიიყვანეთ უსაფრთხო ადგილას</CarryToSafePlace>
+  <CannotCarryToSafePlace>უსაფრთხო ადგილას გადასვლა შეუძლებელია</CannotCarryToSafePlace>
+  <NoBetterSafePlace>არ არის უფრო უსაფრთხო მდებარეობა, ვიდრე მიმდინარე მდებარეობა</NoBetterSafePlace>
+  <AlreadyCarryingToSafePlace>უკვე მიდის უსაფრთხო ადგილას</AlreadyCarryingToSafePlace>
+
+</LanguageData>

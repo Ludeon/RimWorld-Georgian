@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AutoRepair.label>ავტო შეკეთება</AutoRepair.label>
+  <ControlGroup.label>საკონტროლო ჯგუფი</ControlGroup.label>
+  <DraftMech.label>პროექტი</DraftMech.label>
+  <Energy.label>ენერგია</Energy.label>
+  <Overseer.label>ზედამხედველი</Overseer.label>
+  <WorkMode.label>სამუშაო რეჟიმი</WorkMode.label>
+</LanguageData>

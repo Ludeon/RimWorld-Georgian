@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlocksGranite.description>მყარი გრანიტის ბლოკები. გრანიტი ძალიან მძიმე ქვაა.</BlocksGranite.description>
+  <BlocksGranite.label>გრანიტის ბლოკები</BlocksGranite.label>
+  <BlocksLimestone.description>მყარი კირქვის ბლოკები.</BlocksLimestone.description>
+  <BlocksLimestone.label>კირქვის ბლოკები</BlocksLimestone.label>
+  <BlocksMarble.description>მყარი მარმარილოს ბლოკები. მარმარილო არის რბილი, ლამაზი ქვა, ცნობილია იმით, რომ ადვილად გამოძერწავს.</BlocksMarble.description>
+  <BlocksMarble.label>მარმარილოს ბლოკები</BlocksMarble.label>
+  <BlocksSandstone.description>მყარი ქვიშაქვის ბლოკები. ქვიშაქვა შედარებით რბილი ქვაა და ადვილად იშლება.</BlocksSandstone.description>
+  <BlocksSandstone.label>ქვიშაქვის ბლოკები</BlocksSandstone.label>
+  <BlocksSlate.description>მყარი ფიქალის ბლოკები. მოსაწყენი კლდე, რომელიც ადვილად იშლება.</BlocksSlate.description>
+  <BlocksSlate.label>ფიქალის ბლოკები</BlocksSlate.label>
+  <ChunkGranite.label>გრანიტის ნაჭერი</ChunkGranite.label>
+  <ChunkLimestone.label>კირქვის ნატეხი</ChunkLimestone.label>
+  <ChunkMarble.label>მარმარილოს ნაჭერი</ChunkMarble.label>
+  <ChunkSandstone.label>ქვიშაქვის ნატეხი</ChunkSandstone.label>
+  <ChunkSlagSteel.description>ფოლადის წიდის ნაჭერი. მიუხედავად იმისა, რომ ის უსარგებლოა მისი ამჟამინდელი ფორმით, მისი დნობა შესაძლებელია ფოლადის აღსადგენად.</ChunkSlagSteel.description>
+  <ChunkSlagSteel.label>ფოლადის წიდის ნაჭერი</ChunkSlagSteel.label>
+  <ChunkSlate.label>ფიქალის ნაჭერი</ChunkSlate.label>
+  <Granite.description>ძალიან მძიმე ცეცხლოვანი კლდე.</Granite.description>
+  <Granite.label>გრანიტი</Granite.label>
+  <Limestone.description>უძველესი ზღვის ჭურვების დატკეპნილი ნარჩენებისგან წარმოქმნილი დანალექი კლდე.</Limestone.description>
+  <Limestone.label>კირქვა</Limestone.label>
+  <Marble.description>რბილი მეტამორფული კლდე.</Marble.description>
+  <Marble.label>მარმარილო</Marble.label>
+  <Sandstone.description>დანალექი კლდე, რომელიც შედგება ერთმანეთთან შეკუმშული ქვიშის ნაწილაკებისგან.</Sandstone.description>
+  <Sandstone.label>ქვიშაქვა</Sandstone.label>
+  <Slate.description>მუქი ფერის მეტამორფული კლდე. მისი მშვენიერი ფენები ასახავს ფიფქული დეკოლტეს.</Slate.description>
+  <Slate.label>ფიქალი</Slate.label>
+  <SmoothedGranite.description>ძალიან მძიმე ცეცხლოვანი კლდე. მბზინავი ზედაპირი ივსება შავი, თეთრი და ვარდისფერი ლაქების მოზაიკით.</SmoothedGranite.description>
+  <SmoothedGranite.label>გათლილი გრანიტი</SmoothedGranite.label>
+  <SmoothedLimestone.description>უძველესი ზღვის ჭურვების დატკეპნილი ნარჩენებისგან წარმოქმნილი დანალექი კლდე. ის ანათებს გლუვ თეთრად, შიგნით შეჩერებული მინარევების მსუბუქი ნიმუშებით.</SmoothedLimestone.description>
+  <SmoothedLimestone.label>გათლილი კირქვა</SmoothedLimestone.label>
+  <SmoothedMarble.description>რბილი მეტამორფული კლდე. ეს ნახევრად გამჭვირვალე კლდე თითქმის ანათებს საკუთარი შინაგანი შუქით.</SmoothedMarble.description>
+  <SmoothedMarble.label>გათლილი მარმარილო</SmoothedMarble.label>
+  <SmoothedSandstone.description>დანალექი კლდე, რომელიც შედგება ერთმანეთთან შეკუმშული ქვიშის ნაწილაკებისგან. ქვიშის ფენები გაპრიალებულია ბრტყელ, გლუვ ზედაპირზე.</SmoothedSandstone.description>
+  <SmoothedSandstone.label>გათლილი ქვიშაქვა</SmoothedSandstone.label>
+  <SmoothedSlate.description>მუქი ფერის მეტამორფული კლდე. მისი მშვენიერი ფენები ასახავს ფიფქული დეკოლტეს. გაპრიალებული ზედაპირის მეშვეობით აშკარად ჩანს შიდა ფენები.</SmoothedSlate.description>
+  <SmoothedSlate.label>გათლილი ფიქალი</SmoothedSlate.label>
+</LanguageData>

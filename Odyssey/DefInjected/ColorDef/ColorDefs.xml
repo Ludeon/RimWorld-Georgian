@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UniqueWeapon_Black.label>შავი</UniqueWeapon_Black.label>
+  <UniqueWeapon_Cream.label>კრემი</UniqueWeapon_Cream.label>
+  <UniqueWeapon_DarkBrown.label>მუქი ყავისფერი</UniqueWeapon_DarkBrown.label>
+  <UniqueWeapon_EMP.label>ელექტრო ლურჯი</UniqueWeapon_EMP.label>
+  <UniqueWeapon_Fire.label>ცეცხლი ფორთოხალი</UniqueWeapon_Fire.label>
+  <UniqueWeapon_Gold.label>ოქროს</UniqueWeapon_Gold.label>
+  <UniqueWeapon_Gray.label>ნაცრისფერი</UniqueWeapon_Gray.label>
+  <UniqueWeapon_Green.label>მწვანე</UniqueWeapon_Green.label>
+  <UniqueWeapon_IceBlue.label>ყინულის ლურჯი</UniqueWeapon_IceBlue.label>
+  <UniqueWeapon_Jade.label>ნეფრიტი</UniqueWeapon_Jade.label>
+  <UniqueWeapon_Limestone.label>კირქვა</UniqueWeapon_Limestone.label>
+  <UniqueWeapon_MutedBlue.label>მდუმარე ლურჯი</UniqueWeapon_MutedBlue.label>
+  <UniqueWeapon_MutedGreen.label>მდუმარე მწვანე</UniqueWeapon_MutedGreen.label>
+  <UniqueWeapon_MutedPurple.label>მდუმარე იასამნისფერი</UniqueWeapon_MutedPurple.label>
+  <UniqueWeapon_MutedRed.label>მდუმარე წითელი</UniqueWeapon_MutedRed.label>
+  <UniqueWeapon_Purple.label>მეწამული</UniqueWeapon_Purple.label>
+  <UniqueWeapon_Red.label>წითელი</UniqueWeapon_Red.label>
+  <UniqueWeapon_Sandstone.label>ქვიშაქვა</UniqueWeapon_Sandstone.label>
+  <UniqueWeapon_Tox.label>ტოქსიკური მწვანე</UniqueWeapon_Tox.label>
+  <UniqueWeapon_White.label>თეთრი</UniqueWeapon_White.label>
+</LanguageData>

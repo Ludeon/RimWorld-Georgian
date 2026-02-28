@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttemptRecruit.description>მცველები შეეცდებიან პატიმრის გადაბირებას. თუ პატიმარს მაინც გაუწევს წინააღმდეგობა, მესაზღვრეები ელაპარაკებიან მათ, რომ შეამცირონ ეს.</AttemptRecruit.description>
+  <AttemptRecruit.label>რეკრუტირება</AttemptRecruit.label>
+  <Execution.description>ზედამხედველი პატიმარს ადგილზე დახვრიტეს ჭრით. ამან შეიძლება გავლენა მოახდინოს სხვა პატიმრებისა და კოლონისტების განწყობაზე.</Execution.description>
+  <Execution.label>შეასრულოს</Execution.label>
+  <MaintainOnly.description>უბრალოდ კვებავთ პატიმარს და უზრუნველყავით მათი ძირითადი საჭიროებები, სხვა ურთიერთობის მცდელობის გარეშე.</MaintainOnly.description>
+  <MaintainOnly.label>შენარჩუნება მხოლოდ</MaintainOnly.label>
+  <ReduceResistance.description>თუ პატიმარს მაინც გაუწევს წინააღმდეგობა, მესაზღვრეები ელაპარაკებიან მათ, რომ შეამცირონ ეს. რეკრუტირების მცდელობა არ განხორციელდება.</ReduceResistance.description>
+  <ReduceResistance.label>მხოლოდ წინააღმდეგობის შემცირება</ReduceResistance.label>
+  <Release.description>მცველი გაათავისუფლებს პატიმარს.</Release.description>
+  <Release.label>გათავისუფლება</Release.label>
+</LanguageData>

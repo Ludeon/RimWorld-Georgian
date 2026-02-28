@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AlcoholAddiction.description>ალკოჰოლზე ქიმიური დამოკიდებულება. ალკოჰოლის ხანგრძლივმა არსებობამ უჯრედულ დონეზე ნევროლოგიური შეგუება გამოიწვია, ამიტომ ტვინი ნარკოტიკის გარეშე ვეღარ ფუნქციონირებს ნორმალურად.
+ალკოჰოლის რეგულარული დოზების გარეშე მოხსნის სიმპტომები დაიწყება. თუმცა, ხანგრძლივი თავშეკავება ტვინს თანდათან ნორმალურ მდგომარეობას დაუბრუნებს და დამოკიდებულება გაქრება.</AlcoholAddiction.description>
+  <AlcoholAddiction.label>ალკოჰოლური დამოკიდებულება</AlcoholAddiction.label>
+  <AlcoholAddiction.stages.1.label>გაყვანა</AlcoholAddiction.stages.1.label>
+  <AlcoholHigh.description>ალკოჰოლი სისხლში. ეს აბედნიერებს ადამიანებს, მაგრამ ამცირებს შესაძლებლობებს.</AlcoholHigh.description>
+  <AlcoholHigh.label>ალკოჰოლი</AlcoholHigh.label>
+  <AlcoholHigh.labelNoun>სიმთვრალე</AlcoholHigh.labelNoun>
+  <AlcoholHigh.stages.0.label>თბილი</AlcoholHigh.stages.0.label>
+  <AlcoholHigh.stages.1.label>წვრილმანი</AlcoholHigh.stages.1.label>
+  <AlcoholHigh.stages.2.label>მთვრალი</AlcoholHigh.stages.2.label>
+  <AlcoholHigh.stages.3.label>ჩაქუჩებული</AlcoholHigh.stages.3.label>
+  <AlcoholHigh.stages.4.label>დაბნელება</AlcoholHigh.stages.4.label>
+  <AlcoholTolerance.description>გაზრდილი ტოლერანტობა ალკოჰოლის მიმართ. რაც უფრო მკაცრია ეს ტოლერანტობა, მით მეტი ალკოჰოლი სჭირდება იგივე ეფექტის მისაღწევად.</AlcoholTolerance.description>
+  <AlcoholTolerance.label>ალკოჰოლის ტოლერანტობა</AlcoholTolerance.label>
+  <Hangover.description>ალკოჰოლური ინტოქსიკაციის უსიამოვნო დაგვიანებული ეფექტი.</Hangover.description>
+  <Hangover.label>ნაბახუსევი</Hangover.label>
+  <Hangover.labelNoun>ნაბახუსევი</Hangover.labelNoun>
+  <Hangover.stages.0.label>უმნიშვნელო</Hangover.stages.0.label>
+  <Hangover.stages.1.label>ძლიერი</Hangover.stages.1.label>
+  <Hangover.stages.2.label>ცემა</Hangover.stages.2.label>
+</LanguageData>

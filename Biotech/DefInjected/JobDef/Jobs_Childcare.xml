@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BabyPlay.reportString>თამაშობს TargetA-სთან.</BabyPlay.reportString>
+  <BabySuckle.reportString>იკვებება TargetA-დან.</BabySuckle.reportString>
+  <BottleFeedBaby.reportString>მიირთმევს TargetB TargetA-ს.</BottleFeedBaby.reportString>
+  <Breastfeed.reportString>ძუძუთი კვება სამიზნეA.</Breastfeed.reportString>
+  <BreastfeedCarryToMom.reportString>TargetA-ს გადატანა TargetB-მდე.</BreastfeedCarryToMom.reportString>
+  <BringBabyToSafety.reportString>TargetA სადმე უსაფრთხოდ დაყენება.</BringBabyToSafety.reportString>
+  <BringBabyToSafetyUnforced.reportString>TargetA სადმე უსაფრთხოდ დაყენება.</BringBabyToSafetyUnforced.reportString>
+  <CarryToMomAfterBirth.reportString>TargetA-ს გადატანა TargetB-მდე.</CarryToMomAfterBirth.reportString>
+  <FertilizeOvum.reportString>განაყოფიერება TargetA.</FertilizeOvum.reportString>
+</LanguageData>

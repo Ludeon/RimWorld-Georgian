@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <GravshipLaunch.description>ხარისხის ფაქტორები განსაზღვრავს ძრავის გაგრილების ხანგრძლივობას და ავარიის შანსს დაშვებისას.</GravshipLaunch.description>
+  <GravshipLaunch.extraOutcomeDescriptions.0.description>ამჟამინდელი ხარისხით, გემი ვერ შეძლებს ხელახლა გაშვებას {0_time}-ის განმავლობაში დაშვების შემდეგ.</GravshipLaunch.extraOutcomeDescriptions.0.description>
+  <GravshipLaunch.extraOutcomeDescriptions.1.description>გარდა ამისა, არის {0_percentage} შანსი, რომ მოხდეს მცირე ინციდენტი საფლავის დაშვებისას.</GravshipLaunch.extraOutcomeDescriptions.1.description>
+</LanguageData>

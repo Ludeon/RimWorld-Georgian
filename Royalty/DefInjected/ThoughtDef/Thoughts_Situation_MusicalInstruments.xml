@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ListeningToHarp.stages.0.description>არფა ისეთი დამამშვიდებელია.</ListeningToHarp.stages.0.description>
+  <ListeningToHarp.stages.0.label>არფის მოსმენა</ListeningToHarp.stages.0.label>
+  <ListeningToHarpsichord.stages.0.description>კლავესინის სირთულე ჩემს გონებას ასრულებს.</ListeningToHarpsichord.stages.0.description>
+  <ListeningToHarpsichord.stages.0.label>კლავესინის მოსმენა</ListeningToHarpsichord.stages.0.label>
+  <ListeningToPiano.stages.0.description>ფორტეპიანოს დიაპაზონი მაგრძნობინებს მელანქოლიურს, აღელვებულს და ახირებულს. რა ხმაა.</ListeningToPiano.stages.0.description>
+  <ListeningToPiano.stages.0.label>ფორტეპიანოს მოსმენა</ListeningToPiano.stages.0.label>
+</LanguageData>

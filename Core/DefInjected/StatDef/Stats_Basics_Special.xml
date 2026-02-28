@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CleaningTimeFactor.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენი დრო სჭირდება ამ ზედაპირიდან ჭუჭყის გაწმენდას.</CleaningTimeFactor.description>
+  <CleaningTimeFactor.label>დასუფთავების დროის მულტიპლიკატორი</CleaningTimeFactor.label>
+  <ConstructionSpeedFactor.description>შენობების აგების სიჩქარე, როცა ეს მასალა გამოიყენება, ამ მნიშვნელობით მრავლდება.\n\nზოგი მასალა, მაგალითად ქვა, ნელა შენდება, ზოგი კი, მაგალითად ხე, სწრაფად.</ConstructionSpeedFactor.description>
+  <ConstructionSpeedFactor.label>მშენებლობის სიჩქარე</ConstructionSpeedFactor.label>
+  <FilthMultiplier.description>რამდენად მგრძნობიარეა ეს ზედაპირი სიბინძურისთვის. თუ ეს 100%-ზე ნაკლებია, აქ დეპონირებული ჭუჭყის ნაწილი გაქრება კონტაქტის დროს. ეს ეხება მხოლოდ ორგანულ სიბინძურეს.</FilthMultiplier.description>
+  <FilthMultiplier.label>სიბინძურის გამრავლება</FilthMultiplier.label>
+  <MedicalPotency.description>რამდენად ეფექტურია ეს ჭრილობებისა და დაავადებების მკურნალობისას ან ოპერაციის ჩატარებისას.\n\nმაღალი სამედიცინო ძალა აუმჯობესებს მკურნალობის ხარისხს და ოპერაციის წარმატების შანსსაც ზრდის.</MedicalPotency.description>
+  <MedicalPotency.label>სამედიცინო პოტენციალი</MedicalPotency.label>
+  <MedicalQualityMax.description>მკურნალობის მაქსიმალური ხარისხი, რომლის მიღწევაც ამ ნივთის გამოყენებით არის შესაძლებელი.\n\nმაღალი ხარისხი ექიმებს საშუალებას აძლევს უკეთ და საიმედოდ უმკურნალონ ჭრილობებს.</MedicalQualityMax.description>
+  <MedicalQualityMax.label>სამედიცინო ტენდენცია ხარისხის მაქსიმუმ</MedicalQualityMax.label>
+  <MeditationFocusStrength.description>რამდენ დამატებით psyfocus-ს იღებს ადამიანი ამ ობიექტზე მედიტაციისას, საკუთარი საბაზისო სიჩქარის გარდა.\n\nზოგ ობიექტზე ეს მაჩვენებელი მხოლოდ გარკვეული პირობების შესრულებისას მოქმედებს.</MeditationFocusStrength.description>
+  <MeditationFocusStrength.label>მედიტაციის ფსიფოკუსის ბონუსი</MeditationFocusStrength.label>
+  <PsychicEntropyMaxOffset.description>ოფსეტური გამოყენებულია მომხმარებლის ნერვული სითბოს ლიმიტზე.</PsychicEntropyMaxOffset.description>
+  <PsychicEntropyMaxOffset.label>ნერვული სითბოს ლიმიტის კომპენსირება</PsychicEntropyMaxOffset.label>
+  <PsychicEntropyRecoveryRateOffset.description>ოფსეტური გამოყენებულია მომხმარებლის ნერვული სითბოს აღდგენის სიჩქარეზე.</PsychicEntropyRecoveryRateOffset.description>
+  <PsychicEntropyRecoveryRateOffset.label>ნერვული სითბოს აღდგენის სიჩქარის კომპენსირება</PsychicEntropyRecoveryRateOffset.label>
+  <PsychicSensitivityFactor.description>ფაქტორი, რომელიც გამოიყენება მომხმარებლის ფსიქიკურ მგრძნობელობაზე.</PsychicSensitivityFactor.description>
+  <PsychicSensitivityFactor.label>ფსიქიკური მგრძნობელობის ფაქტორი</PsychicSensitivityFactor.label>
+  <PsychicSensitivityOffset.description>ოფსეტი გამოიყენება მომხმარებლის ფსიქიკურ მგრძნობელობაზე.</PsychicSensitivityOffset.description>
+  <PsychicSensitivityOffset.label>ფსიქიკური მგრძნობელობის კომპენსირება</PsychicSensitivityOffset.label>
+</LanguageData>

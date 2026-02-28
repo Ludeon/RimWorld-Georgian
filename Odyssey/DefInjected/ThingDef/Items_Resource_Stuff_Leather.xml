@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Leather_AlphaThrumbo.description>The furry pelt of an alpha thrumbo. It is extraordinarily durable and luxurious - one can almost feel a psychic echo of the animal's ancient story through the gossamer fur.\n\nIt is used for the highest-quality crafts for its insulation and strength.</Leather_AlphaThrumbo.description>
+  <Leather_AlphaThrumbo.label>თრომბომანი</Leather_AlphaThrumbo.label>
+  <Leather_Armadillo.description>გარუჯული, გამხმარი, გახეხილი არმადილოს კანი. ეს მკაცრია, მაგრამ უზრუნველყოფს მცირე დაცვას ელემენტებისგან.</Leather_Armadillo.description>
+  <Leather_Armadillo.label>არმადილოს ტყავი</Leather_Armadillo.label>
+  <Leather_Hippo.description>გარუჯული, გამხმარი, გახეხილი ჰიპოს კანი. მიუხედავად იმისა, რომ ძალიან გამძლეა, ის უზრუნველყოფს მცირე დაცვას ექსტრემალური ამინდისგან.</Leather_Hippo.description>
+  <Leather_Hippo.label>ჰიპოს ტყავი</Leather_Hippo.label>
+  <Leather_Mastodon.description>გარუჯული, გამხმარი, გახეხილი მასტოდონის კანი. ეს არის მკაცრი და შესანიშნავი იზოლატორი სიცივის წინააღმდეგ.</Leather_Mastodon.description>
+  <Leather_Mastodon.label>მასტოდონის ტყავი</Leather_Mastodon.label>
+  <Leather_Mink.description>გარუჯული, გამხმარი, გახეხილი წაულასის კანი. რბილი, დახვეწილი და დახვეწილად მდიდრული, წაულასი გამოიყენება პრემიუმ ზამთრის ტანსაცმელსა და მაღალხარისხიან ავეჯში, რაც იმას ნიშნავს, რომ მას მაღალი ფასი აქვს.</Leather_Mink.description>
+  <Leather_Mink.label>წაულასი ბეწვი</Leather_Mink.label>
+  <Leather_Sealskin.description>სხვადასხვა ქინძისთავების გარუჯული კანი, როგორიცაა სელაპები, ზღვის ლომები და ვალუსები. ეს არ არის განსაკუთრებით მკაცრი, მაგრამ ძალიან კარგად არის იზოლირებული. სელის ტყავი შეხებით მდიდრულად რბილია, მაღალი ფასი აქვს.</Leather_Sealskin.description>
+  <Leather_Sealskin.label>სელის ტყავი</Leather_Sealskin.label>
+</LanguageData>

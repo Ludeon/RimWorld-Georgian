@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <LetterLabelLostRoyalTitle>{TITLE} ტიტული დაკარგულია: {PAWN_labelShort}</LetterLabelLostRoyalTitle>
+  <LetterLabelGainedRoyalTitle>მოპოვებული {TITLE} სათაური: {PAWN_labelShort}</LetterLabelGainedRoyalTitle>
+
+  <PermitPointsAwarded>მინიჭებული სანებართვო ქულები: {0}.</PermitPointsAwarded>
+
+  <LetterRoyalTitleApparelQualityRequirement>ეს სათაური მოითხოვს {1} ხარისხის ან უკეთესი სამოსს.</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelRequirement>ეს სათაური მოითხოვს {PAWN_possessive} სათაურის შესაბამის ტანსაცმელს:</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleExpectation>{PAWN_possessive}-ის მოლოდინები არასოდეს იქნება {1}-ზე ნაკლები.</LetterRoyalTitleExpectation>
+  
+  <LetterRoyalTitleConceitedTrait>იმის გამო, რომ {PAWN_labelShort} არის {1}, {PAWN_pronoun} მოითხოვს ამ ტიტულის პრივილეგიების სრულ პატივისცემას. {PAWN_pronoun}-მა შეიძლება უარი თქვას გარკვეული ტიპის სამუშაოების შესრულებაზე, დაბალი კლასის საკვების მიღებაზე და გამოსცეს განკარგულებები.</LetterRoyalTitleConceitedTrait>
+
+  <LetterGainedRoyalTitle>{PAWN_labelShort}-მა მიიღო {TITLE}-ის ტიტული {FACTION_name}-ისგან!</LetterGainedRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} აღარ ფლობს {TITLE}-ის ტიტულს {FACTION_name}-ით.</LetterLostRoyalTitle>
+  <LetterLabelRewardsForNewTitle>ტიტულის ჯილდოები</LetterLabelRewardsForNewTitle>
+  <LetterRewardsForNewTitle>{PAWN_labelShort}-ის {TITLE}-ის ტიტულის მიღწევის საპატივცემულოდ, {FACTION_name}-მა გაუგზავნა {PAWN_objective}-ს შემდეგი ჯილდო(ები):</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitleDeliveryBase>ჯილდოები მოვიდა თქვენს კოლონიაში სატრანსპორტო რგოლებით.</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryDirect>ჯილდოები გადაეცა პირდაპირ {PAWN_labelShort}-ის ინვენტარს.</LetterRewardsForNewTitleDeliveryDirect>
+
+  <LetterRoyalTitlePermits>{PAWN_pronoun}-ს აქვს შემდეგი ნებართვები:</LetterRoyalTitlePermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun}-მა დაკარგა ეს ნებართვები:</LetterRoyalTitleLostPermits>
+
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun}-ს არ სურს ამ ტიპის სამუშაოების შესრულება:\n{1}</LetterRoyalTitleDisabledWorkTag>
+
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun}-ს ახლა შეუძლია გამოიყენოს ეს დასვენება:</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>ეს სათაური კრძალავს ამ დასვენების გამოყენებას:</LetterRoyalTitleDisabledJoyKind>
+
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun}-ს უფლება აქვს გამოიყენოს ეს იმპლანტანტები:{1}</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun}-ს აღარ აქვს უფლება გამოიყენოს ეს იმპლანტები:{1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantGracePeriod>დიპლომატიური შედეგების თავიდან აცილების მიზნით, იმპლანტანტები უნდა იქნას ამოღებული ხუთდღიანი საშეღავათო პერიოდის განმავლობაში.</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun}-ს ახლა შეუძლია ტახტიდან გამოსვლა. თუ ის კარგად წავა, მსმენელები შთაგონებულები იქნებიან. თუ ის ცუდად წავა, მეტყველება სოციალურ ზიანს აყენებს. შედეგი დამოკიდებულია {PAWN_labelShort}-ის სოციალურ შესაძლებლობებზე.</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleThroneroomRequirements>ეს სათაური მოითხოვს ტახტის დარბაზს, რომელიც აკმაყოფილებს შემდეგ მოთხოვნებს: {1}</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>ეს სათაური მოითხოვს საძინებელს, რომელიც აკმაყოფილებს შემდეგ მოთხოვნებს: {1}</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleFoodRequirements>ეს სათაური ამბობს, რომ {PAWN_pronoun}-მა უნდა მიირთვას მხოლოდ ეს საკვები: {1}</LetterRoyalTitleFoodRequirements>
+
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} მიიღებს შემდეგ ნივთებს სატრანსპორტო პოდის საშუალებით: {1}</LetterRoyalTitleRewardGranted>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort}-მა მოიპოვა {1} {FACTION_royalFavorLabel} {FACTION_name}-დან.</PeaceTalksRoyalFavorGain>
+
+  
+  <LetterRoyalTitleHeir>თუ {PAWN_pronoun} მოკვდება, ეს ტიტული გადაეცემა {HEIR_nameFull}-ს.</LetterRoyalTitleHeir>
+  <LetterRoyalTitleNoHeir>თუ {PAWN_pronoun} მოკვდება, ამ ტიტულს ვერავინ დაიმკვიდრებს.</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} არის {FACTION_name}-ის წევრი.</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleChangingHeir>ახალი მემკვიდრის არჩევა შესაძლებელია {FACTION_name}-თან დაკავშირებით კომისიის კონსოლის მეშვეობით.</LetterRoyalTitleChangingHeir>
+  <LetterTitleHeirLostLabel>მემკვიდრე დაკარგული</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLost>{HEIR_nameFull} გარდაიცვალა და {HOLDER_labelShort}-ს არ დაუტოვა მემკვიდრე {FACTION_name}-ისგან მიღებული ტიტულისთვის. თქვენ შეგიძლიათ დაუკავშირდეთ {FACTION_name}-ს კომისიის კონსოლის მეშვეობით, რათა დანიშნოთ ახალი მემკვიდრე.</LetterTitleHeirLost>
+  <LetterRoyalTitleCantBeInherited>{TITLE}-ის ტიტული არ შეიძლება მემკვიდრეობით გადავიდეს.</LetterRoyalTitleCantBeInherited>
+
+
+  <LetterTitleInheritance>ტიტული მემკვიდრეობა</LetterTitleInheritance>
+  <LetterTitleInheritance_Base>მას შემდეგ, რაც {PAWN_nameFull} გარდაიცვალა, {PAWN_possessive} ტიტულები გადაეცემა {PAWN_possessive} მემკვიდრეებს.</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_AsReplacement>{PAWN_possessive} {TITLE} ტიტული მემკვიდრეობით მიიღო {HEIR_nameFull}-მა, {FACTION_name}-ის მემკვიდრეობის კანონების მიხედვით. ის ჩაანაცვლებს {HEIR_possessive} {REPLACEDTITLE} ტიტულს მინიჭების ცერემონიის დასრულების შემდეგ.</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_NoEffectHigherTitle>{PAWN_possessive} {TITLE} ტიტული მემკვიდრეობით მიიღებდა {HEIR_nameFull}-ს {FACTION_name}-ის მემკვიდრეობის კანონების მიხედვით, მაგრამ {HEIR_pronoun}-ს უკვე ჰქონდა {HIGHERTITLE} სათაური.</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_WasInherited>{PAWN_possessive} {TITLE} ტიტული {HEIR_nameFull}-ს გადაეცემა მინიჭების ცერემონიის დასრულების შემდეგ, {FACTION_name}-ის მემკვიდრეობის კანონების მიხედვით.</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoHeirFound>{PAWN_possessive} {TITLE} ტიტული არავის მიუღია მემკვიდრეობით, ვინაიდან {PAWN_pronoun}-ს ამ ტიტულისთვის დანიშნული მემკვიდრე არ ჰყავდა.</LetterTitleInheritance_NoHeirFound>
+
+  
+  <LetterLawViolationDetectedLabel>კანონის დამრღვევი: {PAWN_labelShort}</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name}-მ აღმოაჩინა {PAWN_labelShort}-ის მიერ აკრძალული ნივთის გამოყენება: {CULPRIT} (აღმოჩენის შანსი {CHANCE}).
+
+{FACTION_name}-ის კანონის მიხედვით, მხოლოდ {TITLE} ტიტულის მქონე პირებს შეუძლიათ {CULPRIT}-ის გამოყენება.
+
+ჯარიმის სახით, თქვენი ფრაქციის ურთიერთობა შემცირდა {GOODWILL}-ით.</LetterLawViolationDetectedForbiddenThingUse>
+
+  
+  <WildDecree>ველური განკარგულება</WildDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} გამოსცემს განკარგულებას</LetterLabelRandomDecree>
+  <LetterDecreeMentalBreak>{0_nameIndef}-მა, {0_possessive} სტრესის განთავისუფლების მცდელობისას, გამოსცა ველური სამეფო განკარგულება და ახლა მოითხოვს მის შესრულებას.
+ \nთუ დროულად არ განხორციელდება, {0_nameIndef} გახდება ძალიან უბედური.</LetterDecreeMentalBreak>
+  <LetterRandomDecree>{0_nameIndef}-მა, {0_bestRoyalTitleIndef}-ის {0_possessive} ტიტულის დასადასტურებლად, გამოსცა განკარგულება და ახლა მოითხოვს მის შესრულებას.
+ \nთუ დროულად არ განხორციელდება, {0_nameIndef} ძალიან უბედური გახდება.</LetterRandomDecree>
+  <LetterDecree_Quest>განკარგულება სახელწოდებით "{0}".</LetterDecree_Quest>
+  
+  
+  <LentColonistDied>{PAWN_nameDef} მისესხეს {FACTION}-ს. ისინი მალე დააბრუნებენ {PAWN_nameDef}-ის სხეულს.</LentColonistDied>  
+
+  
+  <LetterLabelPsylinkLevelGained>Psylink მოიპოვა</LetterLabelPsylinkLevelGained>
+  <LetterPsylinkLevelGained_First>{USER_labelShort}-მა მოიპოვა {USER_possessive} ფსილინკის პირველი დონე! {USER_pronoun} ახლა ფსიქიკასტერია.\n\nფსიქიკური ძალების გამოსაყენებლად, {USER_labelShort}-მა ფსიქოკუსი უნდა შექმნას მედიტაციით. ამ მედიტაციის ეფექტურობა იზრდება, თუ ადამიანს შეუძლია ფოკუსირება კონკრეტულ ობიექტზე მედიტაციის დროს.\n\nსხვადასხვა ადამიანს შეუძლია ფოკუსირება სხვადასხვა ობიექტზე. ეს დამოკიდებულია პიროვნების ისტორიებზე, თვისებებზე და ტიტულებზე. მაგალითად:\n\n- სამეფო ტიტულების მქონე ფსიქოსტერები მედიტაციას ახდენენ თავიანთ ტახტზე.\n- ფსიქოპათიები, რომლებსაც ტომობრივი ბავშვობა აქვთ, მედიტაციას ახდენენ ანიმა ხეებზე და ბუნების სალოცავებზე.\n- ასკეტი ფსიქოსტრები ცარიელ კედლებზე მედიტაციას ახდენენ.\n- ფსიქოპათიური ფსიქოპათიები მედიტირებენ საფლავებზე, იდეალურად შეგიძლიათ ნახოთ ვინმეს სიყვარულის ტიპები. მათი საინფორმაციო ბარათის დათვალიერებით „i“ ღილაკით.</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort}-მა მოიპოვა ფსილინკის ახალი დონე! {USER_pronoun}-ს შეუძლია გამოიყენოს ამ უმაღლესი დონის ფსიქიკური ძალები, მაგრამ {USER_pronoun}-მა ჯერ უნდა ისწავლოს ისინი.</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_PsycastLearned>ახალი ფსილინკის დონის მოპოვებისთანავე, {USER_labelShort} ავტომატურად ისწავლა ეს ფსიქიკური ძალები: {2}</LetterPsylinkLevelGained_PsycastLearned>
+  
+  
+  <LetterPsychicInspiration>{CASTER_nameIndef}-ის ფსიქიკური წინადადების წყალობით, {PAWN_nameIndef}-მა მიიღო შთაგონება!</LetterPsychicInspiration>
+
+  <LetterLabelBestowingCeremonyExpired>დაჯილდოების ცერემონიას ვადა ამოეწურა</LetterLabelBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} არ გამოცხადდა დაჯილდოების ცერემონიაზე. ცერემონია გაუქმდა.</LetterTextBestowingCeremonyExpired>
+
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite}-ის სათაური შეიცვალა</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite}-მა ახალი ტიტული მოიპოვა მას შემდეგ, რაც დაჯილდოების ცერემონია დაინიშნა. იმისათვის, რომ მინიჭება დაემთხვეს ახალ ტიტულს, მალე დაინიშნება სხვა ცერემონია.\n\nახალი მინიჭების ცერემონია მოიცავს ფსილინკის ჯილდოს ყველა ტიტულისთვის, რომელიც ჯერ არ იყო მინიჭებული.</LetterTextBestowingCeremonyTitleUpdated>
+  
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort}-მა მიიღო {1} პატივი {FACTION_name}-ისგან პატივისცემის ნიშნად, {3} მაყურებლის შეკრებისთვის.</LetterPartBestowingExtraHonor>
+  <LetterPartNoExtraHonor>{PAWN_labelShort}-ს ზედმეტი პატივი არ მიუღია, რადგან ბევრი მაყურებელი არ იყო.</LetterPartNoExtraHonor>
+  <LetterPartMoodBonus>ცერემონიის ყველა მაყურებელმა მიიღო განწყობის ბონუსი.</LetterPartMoodBonus>
+
+  <LetterTextHonorAward_BanditCamp>ვის უნდა მივაწეროთ {0} ბანდიტური ბანაკის დამარცხებისთვის?</LetterTextHonorAward_BanditCamp>
+
+  
+  <LetterLabelShuttleCrashed>შატლი ჩამოვარდა</LetterLabelShuttleCrashed>
+  <LetterTextShuttleCrashed>ახლომახლო შატლი ჩამოვარდა</LetterTextShuttleCrashed>
+
+  
+  <LetterLabelWandererJoinsAbasia>სატრანსპორტო პოდის ავარია: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>{0_title}, სახელად {0_nameDef}, ეჯახება მახლობლად სატრანსპორტო ყუთში.\n\n{0_nameDef} დაავადებულია {1_label}-ით და ვერ შეძლებს სიარული.\n\n{0_pronoun} ბუნებრივად გამოჯანმრთელდება მრავალი დღის შემდეგ. ასევე არსებობს იღბლიანი სწრაფი გამოჯანმრთელების შანსი. {1_label} ასევე შეიძლება განიკურნოს სპეციალური ოპერაციით, რომელიც მოითხოვს დიდი რაოდენობით ბრჭყვიალა სამყაროს წამალს.\n\n{0_pronoun} მზად არის წვლილი შეიტანოს {0_pronoun}-ის გამოჯანმრთელების შემდეგ, მაგრამ არ დატოვებს ნებაყოფლობით. თუ არ გსურთ {0_nameDef}, შეგიძლიათ განდევნოთ {0_objective}, გაყიდოთ {0_objective} მონობაში ან დატოვოთ {0_objective} მოკვდეს. თუმცა, თქვენს სხვა კოლონისტებს შეიძლება ეს შემაშფოთებელი აღმოჩნდეს.</LetterTextWandererJoinsAbasia>
+
+</LanguageData>

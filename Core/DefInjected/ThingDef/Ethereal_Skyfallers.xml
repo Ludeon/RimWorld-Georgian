@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CrashedShipPartIncoming.label>ჩამოვარდნილი გემის ნაწილი (შემომავალი)</CrashedShipPartIncoming.label>
+  <DropPodIncoming.label>ჩაშვება (შემომავალი)</DropPodIncoming.label>
+  <DropPodLeaving.label>ჩაშვება (გასვლა)</DropPodLeaving.label>
+  <FlyerArrival.label>მფრინავი არსება</FlyerArrival.label>
+  <FlyerLeaving.label>მფრინავი არსება</FlyerLeaving.label>
+  <MeteoriteIncoming.label>მეტეორიტი (შემომავალი)</MeteoriteIncoming.label>
+  <ShipChunkIncoming.label>გემის ნაჭერი (შემომავალი)</ShipChunkIncoming.label>
+  <ShuttleCrashing.label>შატლი (ავარია)</ShuttleCrashing.label>
+</LanguageData>

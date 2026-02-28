@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalProductsSellImprovement.description>როდესაც ეს ადამიანი ყიდის ხორცს, ტყავს ან მატყლს, ფასები ამ პროცენტით უმჯობესდება.</AnimalProductsSellImprovement.description>
+  <AnimalProductsSellImprovement.label>ცხოველური პროდუქტების ფასების გაუმჯობესება</AnimalProductsSellImprovement.label>
+  <SlaveSuppressionFallRate.description>ტემპი, რომლითაც ეცემა მონების ჩახშობა.</SlaveSuppressionFallRate.description>
+  <SlaveSuppressionFallRate.label>მონების ჩახშობის დაცემის მაჩვენებელი</SlaveSuppressionFallRate.label>
+</LanguageData>

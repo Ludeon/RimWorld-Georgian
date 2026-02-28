@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FleshmassNeuralLump.description>ხორცის მასის ნერვული ქსოვილისა და ბოჭკოების გროვა. თქვენ შეგიძლიათ გააანალიზოთ ის, რომ იპოვოთ გზა, რომ მოკლათ ხორცის გული.</FleshmassNeuralLump.description>
+  <FleshmassNeuralLump.label>ხორცის ნერვული სიმსივნე</FleshmassNeuralLump.label>
+  <GoldenCube.description>A cube that fits snugly in the hand. Golden in color, it is always invitingly warm to the touch, like a trusted pet or a hug from a good friend. Those that look closely are rewarded for their attention by the delightful way light plays across its welcoming surface.\n\nThe cube seems impervious to most damage.</GoldenCube.description>
+  <GoldenCube.label>ოქროს კუბი</GoldenCube.label>
+  <GrayFleshSample.description>ადამიანის ხორცის ეს ზოლი შეღებილია მუქი და ფაფუკი შავი მასალით. მეტალის ძაფის პაწაწინა ძაფები ეშვება მთელს მანძილზე, ჩახლართული ვერცხლისფერი მძივებით. მისი ფორმა ვარაუდობს, რომ ის ვიღაცის სხეულს არაბუნებრივი გათხევადების პროცესში ჩამოშორდა.</GrayFleshSample.description>
+  <GrayFleshSample.label>ნაცრისფერი ხორცის ნიმუში</GrayFleshSample.label>
+  <Meat_Twisted.description>დაგრეხილი კუნთისა და გრილის ნაჭრები, გაბერილი სიმსივნური წარმონაქმნებით. ხორცის ეს უცნაური ნატეხები საშინელი არსებიდან უნდა მოდიოდეს.</Meat_Twisted.description>
+  <Meat_Twisted.label>გრეხილი ხორცი</Meat_Twisted.label>
+  <MonolithFragment.description>სიცარიელე მონოლითის გატეხილი ფრაგმენტი. მისი შესწავლა შესაძლებელია, რომ მეტი გაიგოთ სიცარიელე ფენომენების შესახებ.</MonolithFragment.description>
+  <MonolithFragment.label>მონოლითის ფრაგმენტი</MonolithFragment.label>
+  <RevenantFleshChunk.description>ტყავისებური, გამომშრალი ხორცის ზოლი, რომელიც აჭრელდა, როდესაც მას ზიანი მიაყენეს. ქსოვილიდან გამოდის მუქი, ცხიმიანი სითხე.</RevenantFleshChunk.description>
+  <RevenantFleshChunk.label>გამობრუნებული ხორცის ნაჭერი</RevenantFleshChunk.label>
+  <RevenantSpine.description>An articulated spine-like object from a dead revenant. It is a chaotic mesh of sharpened metal spokes, twisted into a warped cage. The material appears to be rough-cast black iron smeared in a dark, slippery fluid. Anyone who peers too closely inside its jagged form is left with a skull-splitting headache.\n\nYou can destroy the spine to permanently kill the revenant.\n\nAlternatively, you can secure it on a holding platform and wait for the revenant to re-emerge, so you can study the captured entity.</RevenantSpine.description>
+  <RevenantSpine.label>გამობრუნებული ხერხემალი</RevenantSpine.label>
+  <Shard.description>ბნელი არქოტექნოლოგიის გასუფთავებული ფრაგმენტი. თავდაპირველად შექმნილი ჰიპერინტელექტუალური არქოტექნიკური გონების მიერ, ეს ნატეხი შეფუთულია ტექნოლოგიით, რომელიც ადამიანის გააზრებას აღემატება. მას შეუძლია ფსიქიკური ნაკადების მანიპულირება, არქოტექნიკური გავლენის გამოწვევა და უფრო ეზოთერული შედეგები. მიუხედავად იმისა, რომ ის თავისთავად უსარგებლოა, ის შეიძლება ჩაშენდეს მოწყობილობებში, რომლებიც გამოიყენებენ მის ძალას ეგზოტიკური ეფექტების წარმოებისთვის.</Shard.description>
+  <Shard.label>ნატეხი</Shard.label>
+</LanguageData>

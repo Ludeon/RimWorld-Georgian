@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Animal_Flu.description>გრიპის ვირუსით გამოწვეული ინფექციური დაავადება. ეს შტამი ადაპტირებულია არაადამიანური სახეობების დასაინფიცირებლად.</Animal_Flu.description>
+  <Animal_Flu.label>გრიპი</Animal_Flu.label>
+  <Animal_Flu.stages.0.label>მცირეწლოვანი</Animal_Flu.stages.0.label>
+  <Animal_Flu.stages.1.label>მაიორი</Animal_Flu.stages.1.label>
+  <Animal_Flu.stages.2.label>უკიდურესი</Animal_Flu.stages.2.label>
+  <Animal_Plague.description>ბაქტერიებით გამოწვეული ინფექციური დაავადება. ეს შტამი ადაპტირებულია არაადამიანური სახეობების დასაინფიცირებლად.</Animal_Plague.description>
+  <Animal_Plague.label>ჭირი</Animal_Plague.label>
+  <Animal_Plague.stages.0.label>მცირეწლოვანი</Animal_Plague.stages.0.label>
+  <Animal_Plague.stages.1.label>მაიორი</Animal_Plague.stages.1.label>
+  <Animal_Plague.stages.2.label>უკიდურესი</Animal_Plague.stages.2.label>
+  <Animal_Plague.stages.3.label>უკიდურესი</Animal_Plague.stages.3.label>
+  <FibrousMechanites.description>ნახევრად თანმიმდევრული მექანიტები, რომლებიც ავითარებენ ფიბროზულ კავშირებს კუნთოვან ქსოვილში. ისინი აძლიერებენ მსხვერპლის ძალას, მაგრამ ასევე იწვევენ ძლიერ ტკივილს. ეს, ალბათ, სიძლიერის გამაძლიერებელი მექანიტების მუტაციური შტამია.</FibrousMechanites.description>
+  <FibrousMechanites.label>ბოჭკოვანი მექანიტები</FibrousMechanites.label>
+  <FibrousMechanites.stages.0.label>მსუბუქი ტკივილი</FibrousMechanites.stages.0.label>
+  <FibrousMechanites.stages.1.label>ინტენსიური ტკივილი</FibrousMechanites.stages.1.label>
+  <Flu.description>გრიპის ვირუსით გამოწვეული ინფექციური დაავადება.</Flu.description>
+  <Flu.label>გრიპი</Flu.label>
+  <Flu.stages.0.label>მცირეწლოვანი</Flu.stages.0.label>
+  <Flu.stages.1.label>მაიორი</Flu.stages.1.label>
+  <Flu.stages.2.label>უკიდურესი</Flu.stages.2.label>
+  <GutWorms.description>პარაზიტული ჭიები ნაწლავში. ისინი იწვევენ ღებინებას. ისინი ასევე მოიხმარენ მსხვერპლის საკვებს, რაც აძლიერებს შიმშილს.</GutWorms.description>
+  <GutWorms.label>ნაწლავის ჭიები</GutWorms.label>
+  <LungRot.description>ბაქტერიული დაავადება, რომელიც ფილტვებს აზიანებს. მსუბუქ შემთხვევებში მხოლოდ მცირე გაღიზიანებას იწვევს, მაგრამ თუ უყურადღებოდ დარჩა, ბაქტერიები სულ უფრო მეტ სითხეს აგროვებენ ფილტვებში და საბოლოოდ სიკვდილამდე მიჰყავთ.
+სათანადო მკურნალობის შემთხვევაში ორგანიზმის იმუნური სისტემა საბოლოოდ თავადაც გაუმკლავდება ფილტვის ლპობას.</LungRot.description>
+  <LungRot.label>ფილტვის ლპობა</LungRot.label>
+  <LungRot.stages.0.label>მცირეწლოვანი</LungRot.stages.0.label>
+  <LungRot.stages.1.label>მაიორი</LungRot.stages.1.label>
+  <LungRot.stages.2.label>უკიდურესი</LungRot.stages.2.label>
+  <LungRotExposure.description>გრძელვადიანი ზემოქმედება ლპობის სუნის გაზზე. ლპობის სუნის ზემოქმედებას არ აქვს პირდაპირი გავლენა ჯანმრთელობაზე. თუმცა, სერიოზული ლპობის სუნის ზემოქმედებას აქვს შანსი გამოიწვიოს მტკივნეული ბაქტერიული ინფექცია, რომელიც ცნობილია როგორც ფილტვის ლპობა. როდესაც არ ექვემდებარება ლპობის სუნის გაზს, ლპობის სუნის ექსპოზიცია ნელ-ნელა მცირდება.</LungRotExposure.description>
+  <LungRotExposure.label>rot stink ექსპოზიცია</LungRotExposure.label>
+  <LungRotExposure.stages.1.label>მცირეწლოვანი</LungRotExposure.stages.1.label>
+  <LungRotExposure.stages.2.label>მაიორი</LungRotExposure.stages.2.label>
+  <LungRotExposure.stages.3.label>სერიოზული</LungRotExposure.stages.3.label>
+  <Malaria.description>ინფექციური დაავადება, რომელიც გამოწვეულია კოღოს მიერ გადატანილი პარაზიტით.</Malaria.description>
+  <Malaria.label>მალარია</Malaria.label>
+  <Malaria.stages.0.label>მცირეწლოვანი</Malaria.stages.0.label>
+  <Malaria.stages.1.label>მაიორი</Malaria.stages.1.label>
+  <Malaria.stages.2.label>უკიდურესი</Malaria.stages.2.label>
+  <MuscleParasites.description>პარაზიტული არსებები კუნთებში. ეს იწვევს სისუსტეს და კოორდინაციის ნაკლებობას.</MuscleParasites.description>
+  <MuscleParasites.label>კუნთების პარაზიტები</MuscleParasites.label>
+  <Plague.description>ბაქტერიებით გამოწვეული ინფექციური დაავადება.</Plague.description>
+  <Plague.label>ჭირი</Plague.label>
+  <Plague.stages.0.label>მცირეწლოვანი</Plague.stages.0.label>
+  <Plague.stages.1.label>მაიორი</Plague.stages.1.label>
+  <Plague.stages.2.label>უკიდურესი</Plague.stages.2.label>
+  <Plague.stages.3.label>უკიდურესი</Plague.stages.3.label>
+  <ScariaInfection.description>სკარია ბაქტერიით გამოწვეული ინფექცია. თუ მკურნალობა არ მოხდა, ინფექცია საბოლოოდ მიიყვანს მასპინძელს გაბრაზებულ რისხვაში.</ScariaInfection.description>
+  <ScariaInfection.label>სკარია ინფექცია</ScariaInfection.label>
+  <ScariaInfection.labelNoun>სკარია ინფექცია</ScariaInfection.labelNoun>
+  <ScariaInfection.stages.0.label>მცირეწლოვანი</ScariaInfection.stages.0.label>
+  <ScariaInfection.stages.1.label>მაიორი</ScariaInfection.stages.1.label>
+  <ScariaInfection.stages.2.label>უკიდურესი</ScariaInfection.stages.2.label>
+  <SensoryMechanites.description>ნახევრად თანმიმდევრული მექანიტები, რომლებიც ბინადრობენ ნერვულ სისტემაში. ისინი აძლიერებენ მსხვერპლის გრძნობებს, მაგრამ ასევე იწვევენ ძლიერ ტკივილს. ეს, ალბათ, გრძნობის გამაძლიერებელი მექანიტების მუტაციური შტამია.</SensoryMechanites.description>
+  <SensoryMechanites.label>სენსორული მექანიტები</SensoryMechanites.label>
+  <SensoryMechanites.stages.0.label>მსუბუქი ტკივილი</SensoryMechanites.stages.0.label>
+  <SensoryMechanites.stages.1.label>ინტენსიური ტკივილი</SensoryMechanites.stages.1.label>
+  <SleepingSickness.description>ინფექციური დაავადება, რომელიც გამოწვეულია მწერებით გამოწვეული პარაზიტით. ძილის დაავადება არ არის ისეთი სასიკვდილო, როგორც ზოგიერთი სხვა დაავადება, მაგრამ პროგრესირებს ნელა. ორგანიზმს დიდი დრო სჭირდება ინფექციის მოსაშორებლად.</SleepingSickness.description>
+  <SleepingSickness.label>საძილე ავადმყოფობა</SleepingSickness.label>
+  <SleepingSickness.stages.0.label>მცირეწლოვანი</SleepingSickness.stages.0.label>
+  <SleepingSickness.stages.1.label>მცირეწლოვანი</SleepingSickness.stages.1.label>
+  <SleepingSickness.stages.2.label>მაიორი</SleepingSickness.stages.2.label>
+  <SleepingSickness.stages.3.label>უკიდურესი</SleepingSickness.stages.3.label>
+  <SleepingSickness.stages.4.label>უკიდურესი</SleepingSickness.stages.4.label>
+  <WoundInfection.description>ჭრილობაში განვითარებული ბაქტერიული ინფექცია. მკურნალობის გარეშე ბაქტერიები გამრავლდებიან, ადგილობრივ ქსოვილს მოკლავენ და საბოლოოდ სისხლის მოწამვლასა და სიკვდილს გამოიწვევენ.
+ადამიანთა ომების მთელი ისტორიის განმავლობაში ინფექციებს ხშირად უფრო მეტი სიცოცხლე წაუღიათ, ვიდრე თვითონ ჭრილობებს.</WoundInfection.description>
+  <WoundInfection.label>ინფექცია</WoundInfection.label>
+  <WoundInfection.labelNoun>ინფექცია</WoundInfection.labelNoun>
+  <WoundInfection.stages.0.label>მცირეწლოვანი</WoundInfection.stages.0.label>
+  <WoundInfection.stages.1.label>მაიორი</WoundInfection.stages.1.label>
+  <WoundInfection.stages.2.label>უკიდურესი</WoundInfection.stages.2.label>
+  <WoundInfection.stages.3.label>უკიდურესი</WoundInfection.stages.3.label>
+</LanguageData>

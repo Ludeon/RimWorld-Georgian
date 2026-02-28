@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KillsEntities.description>იმ ერთეულების რაოდენობა, რომლებიც მე მოვკალი.</KillsEntities.description>
+  <KillsEntities.label>კლავს (ერთეულებს)</KillsEntities.label>
+  <PawnsDownedEntities.description>იმ ერთეულების რაოდენობა, რომლებიც მე ჩამოვაგდე.</PawnsDownedEntities.description>
+  <PawnsDownedEntities.label>ჩამოგდებული მტრები (ობიექტები)</PawnsDownedEntities.label>
+</LanguageData>

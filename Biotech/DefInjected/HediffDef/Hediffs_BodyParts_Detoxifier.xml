@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <DetoxifierKidney.description>დამონტაჟებული თირკმელი დეტოქსიკატორი. ნანოფილტრების სერიის გამოყენებით, მას შეუძლია სწრაფად ამოიღოს ტოქსინების ფართო სპექტრი სისხლიდან, რაც მას ეფექტური გახდის გარემოს ტოქსინების, შხამებისა და ინექციური შხამების წინააღმდეგ.</DetoxifierKidney.description>
+  <DetoxifierKidney.label>დეტოქსიკაციის თირკმელი</DetoxifierKidney.label>
+  <DetoxifierKidney.labelNoun>დეტოქსიკაციის თირკმელი</DetoxifierKidney.labelNoun>
+  <DetoxifierLung.description>An installed detoxifier lung. Prevents lung rot in this lung and negates the irritation of acidic smog.\n\nNote that the detoxifier lung does not prevent the irritating effect of tox gas.</DetoxifierLung.description>
+  <DetoxifierLung.label>ფილტვის დეტოქსიკატორი</DetoxifierLung.label>
+  <DetoxifierLung.labelNoun>ფილტვის დეტოქსიკაციის საშუალება</DetoxifierLung.labelNoun>
+</LanguageData>

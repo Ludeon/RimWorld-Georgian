@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttendedConcert.stages.0.description>ვისიამოვნე ამ შესრულების მოსმენით.</AttendedConcert.stages.0.description>
+  <AttendedConcert.stages.0.label>კონცერტს დაესწრო</AttendedConcert.stages.0.label>
+  <AttendedParty.stages.0.description>იმ წვეულებაზე კარგი დრო გავატარე.</AttendedParty.stages.0.description>
+  <AttendedParty.stages.0.label>დაესწრო წვეულებას</AttendedParty.stages.0.label>
+  <AttendedWedding.stages.0.description>მშვენიერი იყო ორი ადამიანის შეკრება ასეთი მომავლის ასაშენებლად.</AttendedWedding.stages.0.description>
+  <AttendedWedding.stages.0.label>დაესწრო ქორწილს</AttendedWedding.stages.0.label>
+  <EncouragingSpeech.stages.0.description>ამ გამოსვლამ მაგრძნობინა, რომ წინ გვაქვს მყარი გზა.</EncouragingSpeech.stages.0.description>
+  <EncouragingSpeech.stages.0.label>გამამხნევებელი მეტყველება</EncouragingSpeech.stages.0.label>
+  <GotMarried.stages.0.description>გავთხოვდი! ძალიან მშვენიერია ერთად ახალი ცხოვრების დაწყება!</GotMarried.stages.0.description>
+  <GotMarried.stages.0.label>დაქორწინდა {0}ზე</GotMarried.stages.0.label>
+  <HeldConcert.stages.0.description>მათ შემიყვარეს. მათ მართლა მიყვარდა.</HeldConcert.stages.0.description>
+  <HeldConcert.stages.0.label>კონცერტი გაიმართა</HeldConcert.stages.0.label>
+  <InspirationalSpeech.stages.0.description>ეს გამოსვლა ემოციურად და ინტელექტუალურად მოძრაობდა. მიზანმიმართულად ვარ სავსე.</InspirationalSpeech.stages.0.description>
+  <InspirationalSpeech.stages.0.label>შთამაგონებელი გამოსვლა</InspirationalSpeech.stages.0.label>
+  <TerribleSpeech.stages.0.description>ეს გამოსვლა იყო სასტიკი. ამან მიმახვედრა, რამდენად მცირე იმედი გვაქვს რეალურად.</TerribleSpeech.stages.0.description>
+  <TerribleSpeech.stages.0.label>საშინელი გამოსვლა</TerribleSpeech.stages.0.label>
+  <UninspiringSpeech.stages.0.description>ეს გამოსვლა უფრო უხერხული იყო, ვიდრე შთამაგონებელი. თუ სწორედ ამას ვუსმენთ, ვღელავ.</UninspiringSpeech.stages.0.description>
+  <UninspiringSpeech.stages.0.label>არაინსპირაციული მეტყველება</UninspiringSpeech.stages.0.label>
+</LanguageData>

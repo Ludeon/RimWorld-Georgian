@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HungerMaker.description>შიმშილი იზრდება შეკრული იარაღის ფსიქიკური გავლენით.</HungerMaker.description>
+  <HungerMaker.label>ფსიქიკური შიმშილი</HungerMaker.label>
+  <NeuralHeatRecoveryGain.description>ნერვული სითბოს გაფრქვევა უმჯობესდება შეკრული იარაღის ფსიქიკური გავლენით.</NeuralHeatRecoveryGain.description>
+  <NeuralHeatRecoveryGain.label>დამხმარე ნერვული გაგრილება</NeuralHeatRecoveryGain.label>
+  <NoPain.description>ტკივილს გამორთული აქვს გამოყენებული იარაღის ფსიქიკური ზემოქმედება.</NoPain.description>
+  <NoPain.label>ფსიქიკური უმტკივნეულობა</NoPain.label>
+  <SpeedBoost.description>მოძრაობა აჩქარებს გამოყენებული იარაღის ფსიქიკური ზემოქმედებით.</SpeedBoost.description>
+  <SpeedBoost.label>ფსიქიკური სიჩქარე</SpeedBoost.label>
+</LanguageData>

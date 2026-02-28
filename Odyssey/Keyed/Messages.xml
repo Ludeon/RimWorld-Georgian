@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <MessageMustBePlacedOnSubstructure>უნდა განთავსდეს საფლავის ქვეკონსტრუქციაზე.</MessageMustBePlacedOnSubstructure>
+  <MessageMustBePlacedInRangeOfGravEngineOrExtender>უნდა განთავსდეს გრავი ძრავის ან გრავი ველის გაფართოების რადიუსში.</MessageMustBePlacedInRangeOfGravEngineOrExtender>
+  <MessageCannotPlaceUnderRockRoof>არ შეიძლება მოთავსდეს კლდის ან მთის სახურავების ქვეშ.</MessageCannotPlaceUnderRockRoof>
+  <MessageStabilizerDeactivated>{ACTIVATOR_labelShort}-მა დაასრულა {SUBJECT_definite}-ის გატეხვა.</MessageStabilizerDeactivated>
+  <MessageCannotPlaceOverSubstructure>არ შეიძლება განთავსდეს საფლავის ქვეკონსტრუქციაზე.</MessageCannotPlaceOverSubstructure>
+  <MessageSubstructureBlocked>საფლავის ქვეკონსტრუქცია დაბლოკილია.</MessageSubstructureBlocked>
+  <MessageMustBePlacedInRangeOfGravEngine>უნდა განთავსდეს გრავი ძრავის დიაპაზონში.</MessageMustBePlacedInRangeOfGravEngine>
+
+  
+  <MessagePlantDiedOfRot_ExposedToVacuum>{0} გარდაიცვალა ვაკუუმის ზემოქმედებისგან.</MessagePlantDiedOfRot_ExposedToVacuum>
+
+  
+  <AncientSmokeVentStartUp>უძველესი კვამლის ხვრელები გააქტიურდა, ცას ბნელა.</AncientSmokeVentStartUp>
+  <AncientSmokeVentShutdown>უძველესი კვამლის ხვრელები ჩერდება.</AncientSmokeVentShutdown>
+  <AncientToxVentStartUp>უძველესი ტოქსიკური ხვრელები გააქტიურდა, რამაც გამოიწვია ტოქსიკური გამონაბოლქვი.</AncientToxVentStartUp>
+  <AncientToxVentShutdown>უძველესი ტოქსიკური ხვრელები ჩერდება.</AncientToxVentShutdown>
+  <AncientHeatVentStartUp>უძველესი სითბოს გამწოვი გააქტიურდა, რაც ამაღლებს ტემპერატურას.</AncientHeatVentStartUp>
+  <AncientHeatVentShutdown>უძველესი სითბოს გამწოვი ჩერდება.</AncientHeatVentShutdown>
+  
+  <CannotPlaceFishingZone>უნდა მოათავსოთ თევზის შემცველ ზედაპირულ წყალზე.</CannotPlaceFishingZone>
+  
+  <MessageTrapSprung>{TRAP_indefinite} ამოქმედდა.</MessageTrapSprung>
+
+  <GravshipReadyToLaunch>{0} მზად არის ხელახლა გასაშვებად.</GravshipReadyToLaunch>
+
+  <MessageOrbitalSignalDetected>ორბიტალურმა სკანერმა იპოვა სიგნალი და ადგენს მის საწყისს</MessageOrbitalSignalDetected>
+  <OrbitalScannerCompletesIn>სრულდება {0}-ში</OrbitalScannerCompletesIn>
+
+  <MessageTraderGaveQuest>{TRADER_nameDef}-თან საუბრისას {NEGOTIATOR_nameDef}-მა შეიტყო ახალი ქვესტი: {0}</MessageTraderGaveQuest>
+  <MessageBookGaveQuest>{BOOK_labelNoParenthesis}-ის კითხვისას {READER_nameDef}-მა აღმოაჩინა ქვესტი: {0}</MessageBookGaveQuest>
+
+  <MessageConfirmLandingAreaFirst>გასაგრძელებლად დაადასტურეთ გრავიტაციის სადესანტო ზონა.</MessageConfirmLandingAreaFirst>
+  <MessageNoLandingSiteSelected>ჯერ აირჩიეთ სადესანტო ადგილი.</MessageNoLandingSiteSelected>
+  
+  <CannotStoreThingOnTarget>{THING_labelShort} {TARGET_indefinite}-ზე შენახვა შეუძლებელია</CannotStoreThingOnTarget>
+
+</LanguageData>

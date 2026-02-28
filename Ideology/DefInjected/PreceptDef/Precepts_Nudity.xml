@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.description>ქალებმა უნდა დაიფარონ საზარდული, მაგრამ შეიძლება არ დაფარონ სხვა არაფერი. მისაღებია სასარგებლო ნივთები, როგორიცაა ფარის ქამრები ან ნახტომი, ისევე როგორც სახიფათო ტემპერატურის დროს ტანსაცმლის ტარება.</Nudity_Female_CoveringAnythingButGroinDisapproved.description>
+  <Nudity_Female_CoveringAnythingButGroinDisapproved.label>შარვალი მაქსიმუმ</Nudity_Female_CoveringAnythingButGroinDisapproved.label>
+  <Nudity_Female_Mandatory.description>ქალები ყოველთვის შიშველი უნდა იყვნენ. მისაღებია სასარგებლო ნივთები, როგორიცაა ფარის ქამრები ან ნახტომი, ისევე როგორც სახიფათო ტემპერატურის დროს ტანსაცმლის ტარება.</Nudity_Female_Mandatory.description>
+  <Nudity_Female_Mandatory.label>სრულიად შიშველი</Nudity_Female_Mandatory.label>
+  <Nudity_Female_NoRules.description>ქალს შეუძლია გამოაჩინოს ან დაიფაროს სხეულის ნებისმიერი ნაწილი.</Nudity_Female_NoRules.description>
+  <Nudity_Female_NoRules.label>არანაირი წესები</Nudity_Female_NoRules.label>
+  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>ქალებმა უნდა დაიფარონ მთელი სხეული, მათ შორის თმა და სახე.</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>მთლიანად დაფარული</Nudity_Female_UncoveredGroinChestHairOrFaceDisapproved.label>
+  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>ქალებმა უნდა დაიფარონ მთელი სხეული და თმა. სახე შეიძლება იყოს დაფარული, ან არა.</Nudity_Female_UncoveredGroinChestOrHairDisapproved.description>
+  <Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>შარვალი, პერანგი და ქუდი</Nudity_Female_UncoveredGroinChestOrHairDisapproved.label>
+  <Nudity_Female_UncoveredGroinDisapproved.description>ქალებმა უნდა დაიფარონ საზარდული. სხეულის დანარჩენი ნაწილი შეიძლება იყოს დაფარული, ან არა.</Nudity_Female_UncoveredGroinDisapproved.description>
+  <Nudity_Female_UncoveredGroinDisapproved.label>შარვალი</Nudity_Female_UncoveredGroinDisapproved.label>
+  <Nudity_Female_UncoveredGroinOrChestDisapproved.description>ქალებმა უნდა დაიფარონ საზარდული და მკერდი. სხეულის დანარჩენი ნაწილი შეიძლება იყოს დაფარული, ან არა.</Nudity_Female_UncoveredGroinOrChestDisapproved.description>
+  <Nudity_Female_UncoveredGroinOrChestDisapproved.label>შარვალი და პერანგი</Nudity_Female_UncoveredGroinOrChestDisapproved.label>
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.description>მამაკაცებმა უნდა დაიფარონ საზარდული, მაგრამ შეიძლება არ დაფარონ სხვა არაფერი. მისაღებია სასარგებლო ნივთები, როგორიცაა ფარის ქამრები ან ნახტომი, ისევე როგორც სახიფათო ტემპერატურის დროს ტანსაცმლის ტარება.</Nudity_Male_CoveringAnythingButGroinDisapproved.description>
+  <Nudity_Male_CoveringAnythingButGroinDisapproved.label>შარვალი მაქსიმუმ</Nudity_Male_CoveringAnythingButGroinDisapproved.label>
+  <Nudity_Male_Mandatory.description>მამაკაცები ყოველთვის შიშველი უნდა იყვნენ. მისაღებია სასარგებლო ნივთები, როგორიცაა ფარის ქამრები ან ნახტომი, ისევე როგორც სახიფათო ტემპერატურის დროს ტანსაცმლის ტარება.</Nudity_Male_Mandatory.description>
+  <Nudity_Male_Mandatory.label>სრულიად შიშველი</Nudity_Male_Mandatory.label>
+  <Nudity_Male_NoRules.description>მამაკაცს შეუძლია გამოაჩინოს ან დაფაროს თავისი სხეულის ნებისმიერი ნაწილი.</Nudity_Male_NoRules.description>
+  <Nudity_Male_NoRules.label>არანაირი წესები</Nudity_Male_NoRules.label>
+  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>მამაკაცებმა უნდა დაიფარონ მთელი სხეული, მათ შორის თმა და სახე.</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.description>
+  <Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>მთლიანად დაფარული</Nudity_Male_UncoveredGroinChestHairOrFaceDisapproved.label>
+  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>მამაკაცებმა უნდა დაიფარონ მთელი სხეული და თმა. სახე შეიძლება იყოს დაფარული, ან არა.</Nudity_Male_UncoveredGroinChestOrHairDisapproved.description>
+  <Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>შარვალი, პერანგი და ქუდი</Nudity_Male_UncoveredGroinChestOrHairDisapproved.label>
+  <Nudity_Male_UncoveredGroinDisapproved.description>მამაკაცებმა უნდა დაიფარონ საზარდულის ნაწილი. სხეულის დანარჩენი ნაწილი შეიძლება იყოს დაფარული, ან არა.</Nudity_Male_UncoveredGroinDisapproved.description>
+  <Nudity_Male_UncoveredGroinDisapproved.label>შარვალი</Nudity_Male_UncoveredGroinDisapproved.label>
+  <Nudity_Male_UncoveredGroinOrChestDisapproved.description>მამაკაცებმა უნდა დაიფარონ საზარდული და მკერდი. სხეულის დანარჩენი ნაწილი შეიძლება იყოს დაფარული, ან არა.</Nudity_Male_UncoveredGroinOrChestDisapproved.description>
+  <Nudity_Male_UncoveredGroinOrChestDisapproved.label>შარვალი და პერანგი</Nudity_Male_UncoveredGroinOrChestDisapproved.label>
+</LanguageData>

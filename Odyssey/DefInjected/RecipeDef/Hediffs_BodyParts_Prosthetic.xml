@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallBloodWarmer.description>დააინსტალირეთ სისხლის გამათბობელი.</InstallBloodWarmer.description>
+  <InstallBloodWarmer.jobString>სისხლის გამათბობლის დაყენება.</InstallBloodWarmer.jobString>
+  <InstallBloodWarmer.label>დააინსტალირეთ სისხლის გამათბობელი</InstallBloodWarmer.label>
+  <InstallPilotAssistant.description>დააინსტალირეთ პილოტის ასისტენტი.</InstallPilotAssistant.description>
+  <InstallPilotAssistant.jobString>პილოტის ასისტენტის დაყენება.</InstallPilotAssistant.jobString>
+  <InstallPilotAssistant.label>პილოტის ასისტენტის დაყენება</InstallPilotAssistant.label>
+  <InstallVacskinGland.description>დააინსტალირეთ ვაქცინის ჯირკვალი.</InstallVacskinGland.description>
+  <InstallVacskinGland.jobString>ვაქცინის ჯირკვლის დაყენება.</InstallVacskinGland.jobString>
+  <InstallVacskinGland.label>ვაკსკინგის ჯირკვლის დაყენება</InstallVacskinGland.label>
+  <RemovePilotAssistant.description>ამოიღეთ პილოტის ასისტენტი.</RemovePilotAssistant.description>
+  <RemovePilotAssistant.jobString>პილოტის ასისტენტის მოხსნა.</RemovePilotAssistant.jobString>
+  <RemovePilotAssistant.label>ამოიღეთ პილოტის ასისტენტი</RemovePilotAssistant.label>
+  <RemoveVacskinGland.description>ამოიღეთ ვაქცინის ჯირკვალი.</RemoveVacskinGland.description>
+  <RemoveVacskinGland.jobString>ვაქცინის ჯირკვლის მოცილება.</RemoveVacskinGland.jobString>
+  <RemoveVacskinGland.label>ამოიღეთ ვაქცინის ჯირკვალი</RemoveVacskinGland.label>
+</LanguageData>

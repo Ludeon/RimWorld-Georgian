@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Category.label>კატეგორია</Category.label>
+  <HitPointsPercentage.label>დარტყმის ქულების პროცენტი</HitPointsPercentage.label>
+  <MarketValue.label>საბაზრო ღირებულება</MarketValue.label>
+  <Mass.label>მასა</Mass.label>
+  <Name.label>სახელი</Name.label>
+  <None.label>არცერთი</None.label>
+  <Quality.label>ხარისხიანი</Quality.label>
+</LanguageData>

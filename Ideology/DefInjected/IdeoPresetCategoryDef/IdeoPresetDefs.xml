@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Classic.description>კლასიკური RimWorld იდეოლიგიური სისტემის გარეშე. კარგია თქვენი პირველი თამაშებისთვის, ან როცა არ ცდილობთ რაიმე კონკრეტულის გაკეთებას. იდეოლოგიის გაფართოების მთელი შინაარსი აქტიური რჩება.</Classic.description>
+  <Classic.label>კლასიკური</Classic.label>
+  <Custom.description>შეცვალეთ ახალი იდეოლიგია და აკონტროლეთ ყველა დეტალი. ამას შეიძლება გარკვეული დრო დასჭირდეს.</Custom.description>
+  <Custom.label>საბაჟო</Custom.label>
+  <Fluid.description>დაიწყეთ მარტივი იდეოლიგიით და განავითარეთ იგი დროთა განმავლობაში.</Fluid.description>
+  <Fluid.label>სითხე</Fluid.label>
+  <Intense.description>უკიდურესად დამღუპველი შეხედულებები, რომლებიც თამაშს ძალიან განსხვავდებიან კლასიკური RimWorld-ისგან. ეს მატებს მნიშვნელოვან სირთულეს.</Intense.description>
+  <Intense.label>ინტენსიური</Intense.label>
+  <Mild.description>კლასიკური მსგავსი თამაში მცირე ვარიაციებით.</Mild.description>
+  <Mild.label>რბილი</Mild.label>
+  <Strong.description>ძლიერი რწმენა, რომელიც მხარს უჭერს სათამაშო სტილს, რომელიც მნიშვნელოვნად განსხვავდება კლასიკური RimWorld-ისგან.</Strong.description>
+  <Strong.label>ძლიერი</Strong.label>
+</LanguageData>

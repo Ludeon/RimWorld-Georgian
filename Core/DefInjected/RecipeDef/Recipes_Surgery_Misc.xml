@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Anesthetize.description>უგონო მდგომარეობაში მყოფი არსება ზოგადი ანესთეზიის შეყვანით.</Anesthetize.description>
+  <Anesthetize.jobString>ანესთეზიას უკეთებს.</Anesthetize.jobString>
+  <Anesthetize.label>ანესთეზირება</Anesthetize.label>
+  <Euthanize.description>ევთანაზია არსება ჭრით.</Euthanize.description>
+  <Euthanize.jobString>ევთანიზაცია ჭრით.</Euthanize.jobString>
+  <Euthanize.label>ევთანაზია ჭრით</Euthanize.label>
+  <RemoveBodyPart.description>ამოიღეთ სხეულის ნაწილი.</RemoveBodyPart.description>
+  <RemoveBodyPart.jobString>სხეულის ნაწილის მოცილება.</RemoveBodyPart.jobString>
+  <RemoveBodyPart.label>ნაწილის ამოღება</RemoveBodyPart.label>
+</LanguageData>

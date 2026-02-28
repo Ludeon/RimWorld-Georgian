@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Darklight_Preferred_BlindingLight.stages.0.description>ვერ ვიტან ამ საშინელ სინათლეს. ჩემი გრძნობები გადატვირთულია!</Darklight_Preferred_BlindingLight.stages.0.description>
+  <Darklight_Preferred_BlindingLight.stages.0.label>დამაბრმავებელი შუქი</Darklight_Preferred_BlindingLight.stages.0.label>
+  <Darklight_Preferred_Darklight.stages.0.description>ეს მკრთალი შუქი იდეალურია. თავს კონცენტრირებულად და ენერგიულად ვგრძნობ.</Darklight_Preferred_Darklight.stages.0.description>
+  <Darklight_Preferred_Darklight.stages.0.label>მუქი შუქი</Darklight_Preferred_Darklight.stages.0.label>
+  <Darklight_Preferred_IndoorLight.stages.0.description>ეს შიდა შუქი ძალიან კაშკაშაა. მირჩევნია რაღაც უფრო დაბნელებული.</Darklight_Preferred_IndoorLight.stages.0.description>
+  <Darklight_Preferred_IndoorLight.stages.0.label>შიდა შუქი</Darklight_Preferred_IndoorLight.stages.0.label>
+  <Eclipse_Beautiful.stages.0.description>წამიერი მოსვენება მაქვს დამაბრმავებელი მზისგან.</Eclipse_Beautiful.stages.0.description>
+  <Eclipse_Beautiful.stages.0.label>ლამაზი დაბნელება</Eclipse_Beautiful.stages.0.label>
+</LanguageData>

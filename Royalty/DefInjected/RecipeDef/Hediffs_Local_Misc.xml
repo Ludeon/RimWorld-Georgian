@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CureAbasia.description>ეს სპეციალური სამედიცინო ოპერაცია იყენებს მექანიტების დიდ დოზას ტვინის ქსოვილის გასაჯერებლად და ნერვული აქტივობის კოორდინირებული რესტრუქტურიზაციის შესასრულებლად ტვინის დაზიანების გარეშე. ის სამუდამოდ კურნავს პაციენტის აბაზიით გამოწვეულ დამბლას, მაგრამ მოიხმარს დიდი რაოდენობით ბრჭყვიალა სამყაროს წამალს.</CureAbasia.description>
+  <CureAbasia.jobString>აბასიის საწინააღმდეგო მექანიტების შეყვანა.</CureAbasia.jobString>
+  <CureAbasia.label>ანტი-აბაზიური მექანიტის ინფუზია</CureAbasia.label>
+  <CureBloodRot.description>ეს სპეციალური სამედიცინო ოპერაცია კურნავს სისხლის ლპობას ბაქტერიოფაგების მექანიტების მასიური ინფუზიით.</CureBloodRot.description>
+  <CureBloodRot.jobString>სისხლის ლპობის განკურნება.</CureBloodRot.jobString>
+  <CureBloodRot.label>კურნავს სისხლის ლპობას</CureBloodRot.label>
+</LanguageData>

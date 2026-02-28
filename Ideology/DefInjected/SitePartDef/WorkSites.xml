@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <WorkSite_Farming.label>ფერმერული სამუშაო ადგილი</WorkSite_Farming.label>
+  <WorkSite_Hunting.label>სანადირო სამუშაო ადგილი</WorkSite_Hunting.label>
+  <WorkSite_Logging.label>ხე-ტყის სამუშაო ადგილი</WorkSite_Logging.label>
+  <WorkSite_Mining.label>{THING_label} სამთო სამუშაო ადგილი</WorkSite_Mining.label>
+</LanguageData>

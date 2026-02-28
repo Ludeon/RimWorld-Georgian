@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ClimateAdjuster.description>კლიმატის მარეგულირებელი.</ClimateAdjuster.description>
+  <ClimateAdjuster.label>კლიმატის მარეგულირებელი</ClimateAdjuster.label>
+  <EMIDynamo.description>EMI დინამო.</EMIDynamo.description>
+  <EMIDynamo.label>EMI დინამო</EMIDynamo.label>
+  <PsychicDroner.description>ფსიქიკური დრონერი.</PsychicDroner.description>
+  <PsychicDroner.label>ფსიქიკური დრონერი</PsychicDroner.label>
+  <PsychicSuppressor.description>ფსიქიკური დამთრგუნველი.</PsychicSuppressor.description>
+  <PsychicSuppressor.label>ფსიქიკური დამთრგუნველი</PsychicSuppressor.label>
+  <SmokeSpewer.description>კვამლის მფრქვეველი.</SmokeSpewer.description>
+  <SmokeSpewer.label>კვამლის ჭურვი</SmokeSpewer.label>
+  <SunBlocker.description>მზის ბლოკირების აპარატი, რომელიც ცას გაუმჭვირვალე აქცევს.</SunBlocker.description>
+  <SunBlocker.label>მზის ბლოკატორი</SunBlocker.label>
+  <ToxicSpewer.description>ტოქსიკური სპევერი.</ToxicSpewer.description>
+  <ToxicSpewer.label>ტოქსიკური შუერი</ToxicSpewer.label>
+  <WeatherController.description>ამინდის კონტროლერი.</WeatherController.description>
+  <WeatherController.label>ამინდის კონტროლერი</WeatherController.label>
+</LanguageData>

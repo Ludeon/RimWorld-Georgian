@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Lovin_FreeApproved.description>სიყვარულის ფიზიკური აქტი კეთილშობილური საქმეა, არ აქვს მნიშვნელობა ვინ ვისთან აკეთებს ამას.</Lovin_FreeApproved.description>
+  <Lovin_FreeApproved.label>უფასო და დამტკიცებული</Lovin_FreeApproved.label>
+  <Lovin_Horrible.description>ვნების ფიზიკური აქტი საზიზღარია, თუმცა ქორწინებაში ეს აუცილებელია.</Lovin_Horrible.description>
+  <Lovin_Horrible.label>საზარელი</Lovin_Horrible.label>
+  <Lovin_Prohibited.description>ვნების ფიზიკური აქტი ყოველთვის საზიზღარი, ამაზრზენი და არასწორია.</Lovin_Prohibited.description>
+  <Lovin_Prohibited.label>აკრძალულია</Lovin_Prohibited.label>
+  <Lovin_SpouseOnly_Mild.description>მიუხედავად იმისა, რომ ქორწინების გარეთ სხვასთან შეყვარება გასაგებია, ეს არ არის კარგი.</Lovin_SpouseOnly_Mild.description>
+  <Lovin_SpouseOnly_Mild.label>მხოლოდ მეუღლე (რბილი)</Lovin_SpouseOnly_Mild.label>
+  <Lovin_SpouseOnly_Moderate.description>ქორწინების გარეთ სხვასთან სიყვარული არასწორია.</Lovin_SpouseOnly_Moderate.description>
+  <Lovin_SpouseOnly_Moderate.label>მხოლოდ მეუღლე (ზომიერი)</Lovin_SpouseOnly_Moderate.label>
+  <Lovin_SpouseOnly_Strict.description>ქორწინების გარეთ სხვასთან სიყვარული ღრმად ამორალურია.</Lovin_SpouseOnly_Strict.description>
+  <Lovin_SpouseOnly_Strict.label>მხოლოდ მეუღლე (მკაცრი)</Lovin_SpouseOnly_Strict.label>
+</LanguageData>

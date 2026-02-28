@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Controls.label>აკონტროლებს</Controls.label>
+  <FuelStorage.label>საწვავის ავზი</FuelStorage.label>
+  <PowerCell.label>დენის უჯრედი</PowerCell.label>
+  <SignalJammer.label>სიგნალის ჩამკეტი</SignalJammer.label>
+  <Thruster.label>მამოძრავებელი</Thruster.label>
+</LanguageData>

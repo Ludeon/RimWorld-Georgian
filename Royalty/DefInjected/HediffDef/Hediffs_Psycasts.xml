@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EntropyLink.description>ფსიქიკური კავშირი სხვა ინდივიდთან. ერთის მიერ გამოწვეული ნერვული სითბოს მომატება ან დაკარგვა თანაბრად განაწილდება ორივეს შორის.</EntropyLink.description>
+  <EntropyLink.label>ენტროპიის ბმული</EntropyLink.label>
+  <Joyfuzz.description>ფსიქიკურად გამოწვეული სითბოს, კომფორტისა და მიღების გრძნობები. ეს აუმჯობესებს განწყობას, მაგრამ უარყოფითი სტიმულაციის ნაკლებობა იწვევს ზომიერ სისულელეს და ამცირებს ცნობიერებას.</Joyfuzz.description>
+  <Joyfuzz.label>ჯოიფუზ</Joyfuzz.label>
+  <PsychicAnesthesia.description>ფსიქიკურად გამოწვეული ტკივილის უგრძნობლობა.</PsychicAnesthesia.description>
+  <PsychicAnesthesia.label>ფსიქიკური ანესთეზია</PsychicAnesthesia.label>
+  <PsychicBlindness.description>ფსიქიკურად გამოწვეული ნაწილობრივი სიბრმავე.</PsychicBlindness.description>
+  <PsychicBlindness.label>ფსიქიკური სიბრმავე</PsychicBlindness.label>
+  <PsychicBreakdown.description>გონების ღრმა ფსიქიკური დესტაბილიზაცია. ფსიქიკური აშლილობა გრძელდება დღეების განმავლობაში, რაც იწვევს სხვადასხვა სახის ფსიქიკურ აშლილობას. დროთა განმავლობაში ის თავისთავად წყდება.</PsychicBreakdown.description>
+  <PsychicBreakdown.label>ფსიქიკური აშლილობა</PsychicBreakdown.label>
+  <PsychicBreakdown.stages.0.label>მცირეწლოვანი</PsychicBreakdown.stages.0.label>
+  <PsychicBreakdown.stages.1.label>მაიორი</PsychicBreakdown.stages.1.label>
+  <PsychicBreakdown.stages.2.label>სულ</PsychicBreakdown.stages.2.label>
+  <PsychicBurden.description>ფსიქიკურად გამოწვეული გადაადგილების სირთულე.</PsychicBurden.description>
+  <PsychicBurden.label>ფსიქიკური ტვირთი</PsychicBurden.label>
+  <PsychicEntropy.description>Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which builds up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage.</PsychicEntropy.description>
+  <PsychicEntropy.label>ნერვული სითბო</PsychicEntropy.label>
+  <PsychicEntropy.stages.0.label>უსაფრთხო</PsychicEntropy.stages.0.label>
+  <PsychicEntropy.stages.1.label>გადატვირთული</PsychicEntropy.stages.1.label>
+  <PsychicEntropy.stages.2.label>ძალიან გადატვირთული</PsychicEntropy.stages.2.label>
+  <PsychicEntropy.stages.3.label>უკიდურესი</PsychicEntropy.stages.3.label>
+  <PsychicEntropy.stages.4.label>აბსოლუტური</PsychicEntropy.stages.4.label>
+  <PsychicFocus.description>ფსიქიკურად გამოწვეული გონებრივი ფოკუსირება, მხედველობის, სმენის და მოძრაობის შესაძლებლობების გაზრდა.</PsychicFocus.description>
+  <PsychicFocus.label>ფსიქიკური აქცენტი</PsychicFocus.label>
+  <PsychicLove.description>ფსიქიკურად გამოწვეული თაყვანისცემა. ეს ზრდის ინდივიდის აზრს სხვის შესახებ, ხოლო უფროსებს შორის ზრდის რომანტიული წინსვლისა და ქორწინების წინადადებების ალბათობას, ამასთან ამცირებს დაშლის შანსს.</PsychicLove.description>
+  <PsychicLove.label>ფსიქიკური სიყვარული</PsychicLove.label>
+  <PsychicVertigo.description>ფსიქიკურად გამოწვეული სივრცითი ორიენტაციის დაკარგვა. ეს გამოიწვევს ხორციანი არსებების ღებინებას.</PsychicVertigo.description>
+  <PsychicVertigo.label>ფსიქიკური თავბრუსხვევა</PsychicVertigo.label>
+</LanguageData>

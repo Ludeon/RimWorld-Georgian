@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BestStockpile.label>საუკეთესო მარაგში გადატანა</BestStockpile.label>
+  <DropOnFloor.label>იატაკზე დაცემა</DropOnFloor.label>
+  <SpecificStockpile.label>გადადით {0}-მდე</SpecificStockpile.label>
+</LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalJaw.label>ყბა</AnimalJaw.label>
+  <Antenna.label>ანტენა</Antenna.label>
+  <Beak.label>წვერი</Beak.label>
+  <Body.label>სხეული</Body.label>
+  <Elytra.label>ელიტრა</Elytra.label>
+  <FrontClaw.label>წინა კლანჭი</FrontClaw.label>
+  <HeadClaw.label>თავის კლანჭა</HeadClaw.label>
+  <HeadWithEarHoles.label>ხელმძღვანელი</HeadWithEarHoles.label>
+  <Hoof.label>ჩლიქი</Hoof.label>
+  <Horn.label>რქა</Horn.label>
+  <Hump.label>კეხი</Hump.label>
+  <InsectHead.label>ხელმძღვანელი</InsectHead.label>
+  <InsectHeart.label>გული</InsectHeart.label>
+  <InsectLeg.label>ფეხი</InsectLeg.label>
+  <InsectMouth.label>პირი</InsectMouth.label>
+  <InsectNostril.label>ნესტო</InsectNostril.label>
+  <Jowl.label>ხმაური</Jowl.label>
+  <Paw.label>თათი</Paw.label>
+  <Plastron.label>პლასტრონს</Plastron.label>
+  <Pronotum.label>პრონოტუმი</Pronotum.label>
+  <RearClaw.label>უკანა კლანჭი</RearClaw.label>
+  <Shell.label>ჭურვი</Shell.label>
+  <SnakeBody.label>სხეული</SnakeBody.label>
+  <SnakeHead.label>ხელმძღვანელი</SnakeHead.label>
+  <SnakeMouth.label>პირი</SnakeMouth.label>
+  <Tail.label>კუდი</Tail.label>
+  <Trunk.label>მაგისტრალური</Trunk.label>
+  <TurtleBeak.label>წვერი</TurtleBeak.label>
+  <TurtleShell.label>ჭურვი</TurtleShell.label>
+  <Tusk.label>ტუსკი</Tusk.label>
+</LanguageData>

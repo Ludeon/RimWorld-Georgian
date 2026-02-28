@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <SmokeleafAddiction.description>სმოუქლიფზე ქიმიური დამოკიდებულება. ხანგრძლივმა მოხმარებამ უჯრედულ დონეზე ნევროლოგიური ადაპტაციები გამოიწვია, ამიტომ ტვინი ნარკოტიკის გარეშე ვეღარ ფუნქციონირებს ნორმალურად.</SmokeleafAddiction.description>
+  <SmokeleafAddiction.label>კვამლის ფოთოლზე დამოკიდებულება</SmokeleafAddiction.label>
+  <SmokeleafAddiction.stages.1.label>გაყვანა</SmokeleafAddiction.stages.1.label>
+  <SmokeleafHigh.description>Smokeleaf-ის აქტიური ქიმიური ნივთიერება სისხლში. წარმოქმნის ბუნდოვანი კეთილდღეობის რბილ განცდას.</SmokeleafHigh.description>
+  <SmokeleafHigh.label>ჩაქოლეს კვამლის ფოთოლზე</SmokeleafHigh.label>
+  <SmokeleafHigh.labelNoun>კვამლის ფოთოლი მაღალი</SmokeleafHigh.labelNoun>
+  <SmokeleafTolerance.description>გაზრდილი ტოლერანტობა კვამლის ფოთლის მიმართ. რაც უფრო მკაცრია ეს ტოლერანტობა, მით მეტი კვამლის ფოთოლი სჭირდება იგივე ეფექტის მისაღებად.</SmokeleafTolerance.description>
+  <SmokeleafTolerance.label>კვამლის ფოთლის ტოლერანტობა</SmokeleafTolerance.label>
+</LanguageData>

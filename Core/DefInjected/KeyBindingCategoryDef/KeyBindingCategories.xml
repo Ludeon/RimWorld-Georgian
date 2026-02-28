@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Architect.description>ზოგადი გამოყენების კონტროლი არქიტექტურის რეჟიმის მენიუსთვის.</Architect.description>
+  <Architect.label>არქიტექტორი</Architect.label>
+  <DebugMenu.description>მართვის საშუალებები გამოიყენება გამართვის მენიუში. აქტიურია მხოლოდ განვითარების რეჟიმში.</DebugMenu.description>
+  <DebugMenu.label>გამართვის მენიუ</DebugMenu.label>
+  <Development.description>კონტროლი დეველოპერებისთვის და მოდერებისთვის. აქტიურია მხოლოდ განვითარების რეჟიმში.</Development.description>
+  <Development.label>დეველოპერის ინსტრუმენტები</Development.label>
+  <Game.description>კოლონიის რეჟიმის კონტროლი, რომელიც გამოიყენება უმეტეს სიტუაციებში.</Game.description>
+  <Game.label>თამაშში გლობალური</Game.label>
+  <GameMapCamera.description>კონტროლი კამერისთვის.</GameMapCamera.description>
+  <GameMapCamera.label>კამერა</GameMapCamera.label>
+  <MainTabs.description>ძირითადი ჩანართების კონტროლი.</MainTabs.description>
+  <MainTabs.label>ძირითადი ჩანართები</MainTabs.label>
+  <Modifiers.description>მართვის საშუალებები გამოიყენება სხვა მოქმედებების შესაცვლელად.</Modifiers.description>
+  <Modifiers.label>მოდიფიკატორები</Modifiers.label>
+  <SelectionMisc.description>ზოგადი კონტროლი, რომელიც ხელახლა გამოიყენება მრავალი ნივთისა და ობიექტის მიერ მთელი თამაშის განმავლობაში.</SelectionMisc.description>
+  <SelectionMisc.label>სხვადასხვა</SelectionMisc.label>
+  <SelectionSpecial.description>სპეციალური კონტროლი დაცულია კონკრეტული ფუნქციებისთვის კონკრეტულ ობიექტებზე.</SelectionSpecial.description>
+  <SelectionSpecial.label>განსაკუთრებული</SelectionSpecial.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SculptureGrand.description>უზარმაზარი სკულპტურა, რომლის ზომებიც დომინირებს ოთახში.</SculptureGrand.description>
+  <SculptureGrand.label>გრანდიოზული ქანდაკება</SculptureGrand.label>
+  <SculptureLarge.description>ადამიანის ზომის ნაჭერი მხატვრულ ფორმაში გამოძერწილი.</SculptureLarge.description>
+  <SculptureLarge.label>დიდი ქანდაკება</SculptureLarge.label>
+  <SculptureSmall.description>მხატვრულ ფორმაში გამოძერწილი ტორსის ზომის ნაჭერი.</SculptureSmall.description>
+  <SculptureSmall.label>პატარა ქანდაკება</SculptureSmall.label>
+  <Snowman.description>დიდი თოვლის ბურთების ნაკრები დაგროვილი და პიროვნების მსგავსი ფორმის მქონე. ხალხი ამ დაცინვის მიზნით აკეთებს.</Snowman.description>
+  <Snowman.label>თოვლის კაცი</Snowman.label>
+</LanguageData>

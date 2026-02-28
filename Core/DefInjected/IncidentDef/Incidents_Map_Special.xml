@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <GameEndedWanderersJoin.label>მოხეტიალეები უერთდებიან</GameEndedWanderersJoin.label>
+  <GameEndedWanderersJoin.letterLabel>მოხეტიალეები შეუერთდებიან</GameEndedWanderersJoin.letterLabel>
+  <GameEndedWanderersJoin.letterText>რამდენიმე მოხეტიალე კოლონიის ნარჩენებს გადააწყდა და დარჩენა გადაწყვიტა.\n\nშესაძლოა მათ შეძლონ ამ ისტორიის გაგრძელება.</GameEndedWanderersJoin.letterText>
+  <OrbitalTraderArrival.label>ორბიტალური ტრეიდერის ჩამოსვლა</OrbitalTraderArrival.label>
+  <RaidFriendly.label>მეგობრული დარბევა</RaidFriendly.label>
+  <ShipChunkDrop.label>გემის ნაჭრის ვარდნა</ShipChunkDrop.label>
+  <StrangerInBlackJoin.label>კაცი შავებში</StrangerInBlackJoin.label>
+  <StrangerInBlackJoin.letterLabel>კაცი შავებში</StrangerInBlackJoin.letterLabel>
+  <StrangerInBlackJoin.letterText>უსიამოვნების შეგრძნებით, იდუმალი [PAWN_kind] მოვიდა.\n\nშეძლებს კი [PAWN_pronoun] აქაურობის წესრიგში მოყვანას?</StrangerInBlackJoin.letterText>
+  <TraderCaravanArrival.label>სავაჭრო ქარავნის ჩამოსვლა</TraderCaravanArrival.label>
+  <TravelerGroup.label>მოგზაურთა ჯგუფი</TravelerGroup.label>
+  <VisitorGroup.label>ვიზიტორთა ჯგუფი</VisitorGroup.label>
+</LanguageData>

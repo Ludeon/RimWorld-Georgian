@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Marsh.label>ჭაობი</Marsh.label>
+  <WaterDeep.label>ღრმა წყალი</WaterDeep.label>
+  <WaterMovingChestDeep.label>მკერდის სიღრმეში მოძრავი წყალი</WaterMovingChestDeep.label>
+  <WaterMovingShallow.label>არაღრმა მოძრავი წყალი</WaterMovingShallow.label>
+  <WaterOceanDeep.label>ღრმა ოკეანის წყალი</WaterOceanDeep.label>
+  <WaterOceanShallow.label>არაღრმა ოკეანის წყალი</WaterOceanShallow.label>
+  <WaterShallow.label>არაღრმა წყალი</WaterShallow.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HunterDroneTrap.description>მიძინებული მონადირე დრონი, რომელიც აქტიურდება, როცა საფრთხეს აღმოაჩენს. მონადირე დრონი იხურება მიზანთან და აფეთქდება. ვინაიდან ის მიმდებარე რელიეფშია დამალული, არ შეიძლება სხვა ხაფანგების მიმდებარედ განთავსება.</HunterDroneTrap.description>
+  <HunterDroneTrap.label>მონადირის ხაფანგი</HunterDroneTrap.label>
+  <WaspDroneTrap.description>რამდენიმე მიძინებული ვოსფის დრონი. ისინი აქტიურდებიან, როდესაც ისინი აღმოაჩენენ საფრთხეებს, მათ მიზანში პარალიზური ბიოტოქსინის ინექციით.</WaspDroneTrap.description>
+  <WaspDroneTrap.label>ვოსპის ხაფანგი</WaspDroneTrap.label>
+</LanguageData>

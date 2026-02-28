@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HarvestedOrgan_Abhorrent.stages.0.description>ვიღაცის ორგანო უნდა ამეღო. ეს არის ყველაფრის საზიზღარი დარღვევა, რაც მჯერა.</HarvestedOrgan_Abhorrent.stages.0.description>
+  <HarvestedOrgan_Abhorrent.stages.0.label>დაკრეფილი ორგანო</HarvestedOrgan_Abhorrent.stages.0.label>
+  <HarvestedOrgan_Horrible.stages.0.description>ვიღაცის ორგანო უნდა ამეღო. ეს საშინელი შეურაცხყოფაა ჩემი რწმენის წინააღმდეგ.</HarvestedOrgan_Horrible.stages.0.description>
+  <HarvestedOrgan_Horrible.stages.0.label>დაკრეფილი ორგანო</HarvestedOrgan_Horrible.stages.0.label>
+  <HarvestedOrgan_Know_Abhorrent.stages.0.label>დაკრეფილი ორგანო</HarvestedOrgan_Know_Abhorrent.stages.0.label>
+  <HarvestedOrgan_Know_Abhorrent_Mood.stages.0.description>ვიღაცამ ჩვენი თანამემამულეს სხეულის ნაწილები წაართვა. საშინელებაა.</HarvestedOrgan_Know_Abhorrent_Mood.stages.0.description>
+  <HarvestedOrgan_Know_Abhorrent_Mood.stages.0.label>ამოღებულია ორგანო</HarvestedOrgan_Know_Abhorrent_Mood.stages.0.label>
+  <HarvestedOrgan_Know_Horrible.stages.0.label>დაკრეფილი ორგანო</HarvestedOrgan_Know_Horrible.stages.0.label>
+  <HarvestedOrgan_Know_Horrible_Mood.stages.0.description>ვიღაცამ ჩვენი თანამემამულეს სხეულის ნაწილები წაართვა. საშინელებაა.</HarvestedOrgan_Know_Horrible_Mood.stages.0.description>
+  <HarvestedOrgan_Know_Horrible_Mood.stages.0.label>ამოღებულია ორგანო</HarvestedOrgan_Know_Horrible_Mood.stages.0.label>
+  <InstalledOrgan_Abhorrent.stages.0.description>ვიღაცას ორგანო უნდა ჩამეყენებინა. ეს არის ყველაფრის საზიზღარი დარღვევა, რაც მჯერა.</InstalledOrgan_Abhorrent.stages.0.description>
+  <InstalledOrgan_Abhorrent.stages.0.label>დამონტაჟებული ორგანო</InstalledOrgan_Abhorrent.stages.0.label>
+  <InstalledOrgan_Know_Abhorrent.stages.0.label>დამონტაჟებული ორგანო</InstalledOrgan_Know_Abhorrent.stages.0.label>
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.0.description>ვიღაცამ ორგანო დაამონტაჟა. სხეული წმინდა უნდა იყოს!</InstalledOrgan_Know_Abhorrent_Mood.stages.0.description>
+  <InstalledOrgan_Know_Abhorrent_Mood.stages.0.label>დამონტაჟებული ორგანო</InstalledOrgan_Know_Abhorrent_Mood.stages.0.label>
+  <SoldOrgan_Disapproved.stages.0.description>ვიღაცის ორგანო უნდა მიყიდო. მე არ ვამტკიცებ ასეთ გარიგებებს.</SoldOrgan_Disapproved.stages.0.description>
+  <SoldOrgan_Disapproved.stages.0.label>გაიყიდა ორგანო</SoldOrgan_Disapproved.stages.0.label>
+  <SoldOrgan_Know_Disapproved.stages.0.label>გაიყიდა ორგანო</SoldOrgan_Know_Disapproved.stages.0.label>
+  <SoldOrgan_Know_Horrible_Mood.stages.0.description>ვიღაცამ ორგანო გაყიდა. საშინელებაა ადამიანის ნაწილებით ვაჭრობა, როგორც მანქანა.</SoldOrgan_Know_Horrible_Mood.stages.0.description>
+  <SoldOrgan_Know_Horrible_Mood.stages.0.label>გაიყიდა ორგანო</SoldOrgan_Know_Horrible_Mood.stages.0.label>
+  <TradedOrgan_Abhorrent.stages.0.description>ვიღაცის ორგანოს ვაჭრობა მომიწია. ეს არის ყველაფრის საზიზღარი დარღვევა, რაც მჯერა.</TradedOrgan_Abhorrent.stages.0.description>
+  <TradedOrgan_Abhorrent.stages.0.label>სავაჭრო ორგანო</TradedOrgan_Abhorrent.stages.0.label>
+  <TradedOrgan_Know_Abhorrent.stages.0.label>სავაჭრო ორგანო</TradedOrgan_Know_Abhorrent.stages.0.label>
+  <TradedOrgan_Know_Abhorrent_Mood.stages.0.description>ვიღაც ორგანოებით ვაჭრობდა! რა ამაზრზენი, ამაზრზენი საქციელია.</TradedOrgan_Know_Abhorrent_Mood.stages.0.description>
+  <TradedOrgan_Know_Abhorrent_Mood.stages.0.label>ორგანოებით ვაჭრობდა</TradedOrgan_Know_Abhorrent_Mood.stages.0.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AttackedBuilding.label>თავს დაესხა შენობას</AttackedBuilding.label>
+  <DebugGoodwill.label>გამართვის ღონისძიება</DebugGoodwill.label>
+  <LaborersMissedShuttle.label>მუშებმა შატლი გამოტოვეს</LaborersMissedShuttle.label>
+  <ReachNaturalGoodwill.label>ბუნებრივი კეთილგანწყობისკენ გადასვლის ტენდენცია</ReachNaturalGoodwill.label>
+  <RitualDone.label>შესრულებული რიტუალი</RitualDone.label>
+  <ShuttleDestroyed.label>შატლი განადგურებულია</ShuttleDestroyed.label>
+  <UsedForbiddenThing.label>იყენებდა აკრძალულ ნივთს</UsedForbiddenThing.label>
+  <UsedHarmfulAbility.label>გამოიყენა მავნე უნარი</UsedHarmfulAbility.label>
+</LanguageData>

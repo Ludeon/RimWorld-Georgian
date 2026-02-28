@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <Tool>ინსტრუმენტი</Tool>
+  <DamageLower>დაზიანება</DamageLower>
+  <SecondsPerAttackLower>წამი თავდასხმაზე</SecondsPerAttackLower>
+
+  <StatsReport_BaseValue>საბაზისო ღირებულება</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>შესაბამისი თვისებები</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>შესაბამისი მექანიზმი</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>შესაბამისი ჯანმრთელობის პირობები</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>ცხოვრების ეტაპი</StatsReport_LifeStage>
+  <StatsReport_ShamblerCrawling>შამბლერი მცოცავი</StatsReport_ShamblerCrawling>
+  <StatsReport_Material>მასალა</StatsReport_Material>
+  <StatsReport_CharacterQuality>პერსონაჟის ხარისხი</StatsReport_CharacterQuality>
+  <StatsReport_Skills>უნარები</StatsReport_Skills>
+  <StatsReport_OtherStats>პოსტპროცესი - სხვა სტატისტიკა</StatsReport_OtherStats>
+  <StatsReport_Health>ჯანმრთელობა</StatsReport_Health>
+  <HealthFactorPercentImpact>{0} მნიშვნელობა</HealthFactorPercentImpact>
+  <HealthOffsetScale>{0} გავლენა</HealthOffsetScale>
+  <HealthFactorMaxImpact>{0} მაქს</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>თუ ქვემოთ {0}</HealthFactorAllowedDefect>
+  <StatsReport_PostProcessed>პროცესის შემდგომი მრუდი</StatsReport_PostProcessed>
+  <StatsReport_ShootingExampleDistances>მზარდი დისტანციებზე დარტყმის შანსი არის</StatsReport_ShootingExampleDistances>
+  <StatsReport_FinalValue>საბოლოო ღირებულება</StatsReport_FinalValue>
+  <StatsReport_MaxValue>მაქსიმალური ღირებულება</StatsReport_MaxValue>
+  <StatsReport_MultiplierFor>მულტიპლიკატორი {0}-ისთვის</StatsReport_MultiplierFor>
+  <StatsReport_MarketValueFromStuffsAndWork>მასალები და შრომა</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>ხარისხის მულტიპლიკატორი</StatsReport_QualityMultiplier>
+  <StatsReport_QualityOffset>ხარისხის ოფსეტური</StatsReport_QualityOffset>
+  <StatsReport_MaxGain>მაქსიმალური მოგება</StatsReport_MaxGain>
+  <StatsReport_AgeMultiplier>მულტიპლიკატორი {0} ასაკისთვის</StatsReport_AgeMultiplier>
+  <StatsReport_AgeOffset>ოფსეტი {0} ასაკისთვის</StatsReport_AgeOffset>
+  <StatsReport_HealthMultiplier>მულტიპლიკატორი ჯანმრთელობისთვის {0}</StatsReport_HealthMultiplier>
+  <StatsReport_ReloadMarketValue>გადატვირთვის ღირებულება ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadRemainingChargesMultipler>მამრავლი დარჩენილი {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_MoodMultiplier>მულტიპლიკატორი განწყობისთვის {0}</StatsReport_MoodMultiplier>
+  <StatsReport_LightMultiplier>მულტიპლიკატორი სინათლის {0}-ისთვის</StatsReport_LightMultiplier>
+  <StatsReport_DifficultyMultiplier>მულტიპლიკატორი {0} სირთულისთვის</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>საწოლში</StatsReport_InBed>
+  <StatsReport_Facilities>ობიექტები</StatsReport_Facilities>
+  <StatsReport_BodySize>მულტიპლიკატორი სხეულის ზომის {0}</StatsReport_BodySize>
+  <StatsReport_HasHediffExplanation>დაზიანებული</StatsReport_HasHediffExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = Melee დაზიანება * Melee დარტყმის შანსი / Cooldown წამებში</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>მელეის დაზიანება</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>გამოყენების დრო</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Melee მოხვდა შანსი</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} ს</StatsReport_CooldownFormat>
+  <StatsReport_BlockedByFences>გადაკეტილია ღობეებით</StatsReport_BlockedByFences>
+  <StatsReport_RoamInterval>როუმ ინტერვალი</StatsReport_RoamInterval>
+  <StatsReport_CaravanRideableAge>ქარავანში გასასვლელი ასაკი</StatsReport_CaravanRideableAge>
+  <StatsReport_LifeExpectancy>სიცოცხლის ხანგრძლივობა</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>მულტიპლიკატორი სხეულის დაკარგული ნაწილებისთვის</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>აღჭურვილობა და ინვენტარი</StatsReport_GearAndInventoryMass>
+  <StatsReport_WornByCorpse>მულტიპლიკატორი გვამისთვის ნახმარი</StatsReport_WornByCorpse>
+  <AverageOfAllAttacks>ყველა შეტევის საშუალოდ</AverageOfAllAttacks>
+  <StatsReport_ScenarioFactor>სცენარი</StatsReport_ScenarioFactor>
+  <StatsReport_IngredientsMass>ინგრედიენტები</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>სამუდამოდ გამორთულია.</StatsReport_PermanentlyDisabled>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_AddedBodyPartsMass>სხეულის ნაწილები დაემატა</StatsReport_AddedBodyPartsMass>
+  <StatsReport_StuffEffectMultiplier>მატერიალური ეფექტის მულტიპლიკატორი</StatsReport_StuffEffectMultiplier>
+  <StatsReport_Resting>დასვენება</StatsReport_Resting>
+  <StatsReport_JoyKind>დასვენების ტიპი</StatsReport_JoyKind>
+  <StatsReport_WorkToUninstall>მუშაობა წაშლაზე</StatsReport_WorkToUninstall>
+  <StatsReport_Fence>ღობე</StatsReport_Fence>
+  <StatsReport_PlantGrowth>მულტიპლიკატორი {0} ზრდისთვის</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth_Wild>მასშტაბური, რადგან ველური</StatsReport_PlantGrowth_Wild>
+  <StatsReport_NotFlesh>არა ხორცი</StatsReport_NotFlesh>
+  <StatsReport_NotFresh>არა ახალი</StatsReport_NotFresh>
+  <StatsReport_WildMan>ველური კაცი</StatsReport_WildMan>
+  <StatsReport_NonToolAttack>შეტევა</StatsReport_NonToolAttack>
+  <StatsReport_Ideoligion>იდეოლოგია</StatsReport_Ideoligion>
+  <StatsReport_Malnutrition>მულტიპლიკატორი malnutrition {0}</StatsReport_Malnutrition>
+  <StatsReport_OptimalRoom>ოპტიმალური ოთახი</StatsReport_OptimalRoom>
+
+  <StatReport_PossibleOffsets>შესაძლო კომპენსაციები</StatReport_PossibleOffsets>
+  <StatsReport_RoomImpressiveness>ოთახის შთამბეჭდავი</StatsReport_RoomImpressiveness>
+  <StatsReport_Lit>განათებული</StatsReport_Lit>
+  <StatsReport_GraveFull>შეიცავს {0}</StatsReport_GraveFull>
+  <StatsReport_GraveFullAbstract>შეიცავს ადამიანის გვამს</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>მედიტატორი დაკავშირებულია შიგნიდან გვამთან</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_FromQuality>ხარისხიდან</StatsReport_FromQuality>
+  <StatsReport_NearbyArtificialStructures>მიმდებარე ხელოვნური ნაგებობები</StatsReport_NearbyArtificialStructures>
+  <StatsReport_SatisfiesTitle>აკმაყოფილებს მომხმარებლის სათაურის მოთხოვნებს</StatsReport_SatisfiesTitle>
+
+  <Stat_Age_Label>ასაკი</Stat_Age_Label>
+  <Stat_RecreationType_Desc>დასვენების სხვადასხვა წყარო აკმაყოფილებს სხვადასხვა ტიპის დასვენებას. კოლონისტებს მოსწყინდებათ ერთიდაიგივე დასვენების ტიპის განმეორებით კეთება, ამიტომ მნიშვნელოვანია სხვადასხვა სახის დასვენების წყაროების მიწოდება სხვადასხვა ტიპის დასვენებით.</Stat_RecreationType_Desc>
+  <Stat_JoyKind_AllTypes>ყველა სახის დასვენება</Stat_JoyKind_AllTypes>
+  <Stat_MineableThing_Name>დანაღმული ნივთი</Stat_MineableThing_Name>
+  <Stat_MineableThing_Desc>ნივთი, რომელიც მიიღება ამის მაინინგის დროს.</Stat_MineableThing_Desc>
+  <Stat_MiningYield_Name>სამთო მოსავლიანობა</Stat_MiningYield_Name>
+  <Stat_MiningYield_Desc>მაინინგის დროს მიღებული ნივთების მაქსიმალური რაოდენობა. რეალური მოსავლიანობა დარეგულირდება მაინერის მაინინგის უნარით.</Stat_MiningYield_Desc>
+  <Stat_SourceSpecies_Name>წყაროს სახეობები</Stat_SourceSpecies_Name>
+  <Stat_SourceSpecies_Desc>არსების სახეობა, საიდანაც ეს იყო აღებული.</Stat_SourceSpecies_Desc>
+  <Stat_Stuff_Name>მასალა</Stat_Stuff_Name>
+  <Stat_Stuff_Desc>ნივთები, საიდანაც მზადდება ეს ნივთი. ეს გავლენას ახდენს ბევრ სხვა სტატისტიკაზე, მათ შორის იარაღის დაზიანებაზე, ტანსაცმლის ჯავშანტექნიკაზე და იზოლაციაზე, ნივთებისა და შენობების დარტყმის წერტილებზე, სილამაზეზე, საბაზრო ღირებულებაზე და ბევრ სხვაზე.</Stat_Stuff_Desc>
+  <Stat_Weapon_Name>იარაღი</Stat_Weapon_Name>
+  <Stat_Weapon_Desc>იარაღი, რომელსაც იყენებს ეს კოშკი.</Stat_Weapon_Desc>
+  <Stat_HitPoints_Desc>რამდენი ზიანი შეიძლება მიაყენოს საგანს განადგურებამდე.</Stat_HitPoints_Desc>
+  <Stat_Thing_WorkToUninstall_Desc>სამუშაოს მოცულობა, რომელიც საჭიროა ამის დეინსტალაციისთვის.</Stat_Thing_WorkToUninstall_Desc>
+  <Stat_Thing_Fence_Desc>არის თუ არა ეს შენობა გალავნის ტიპი. ღობეები ბლოკავს ამ ცხოველებს</Stat_Thing_Fence_Desc>
+  <Stat_Thing_CreatedAt_Desc>რომელი საშუალებები შეიძლება გამოყენებულ იქნას მის წარმოებისთვის.</Stat_Thing_CreatedAt_Desc>
+  <Stat_Thing_Damage_Desc>ზიანის ოდენობა, რომელსაც ეს იარაღი მოაქვს.\n\nშეიძლება განადგურდეს ან შემცირდეს სამიზნის ჯავშნით.</Stat_Thing_Damage_Desc>
+  <Stat_Thing_Drug_MedicineXpGainFactor_Desc>მულტიპლიკატორი იმ გამოცდილების ოდენობაზე, რომელსაც იძენენ ექიმები, როდესაც იყენებენ ამას პაციენტის მოვლისთვის.</Stat_Thing_Drug_MedicineXpGainFactor_Desc>
+  <Stat_Thing_Plant_Attributes_Desc>ამ მცენარის თვისებები.</Stat_Thing_Plant_Attributes_Desc>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Name>ტანსაცმელი (სიშიშვლისთვის)</Stat_Thing_Apparel_CountsAsClothingNudity_Name>
+  <Stat_Thing_Apparel_CountsAsClothingNudity_Desc>ჩათვლიან თუ არა ნუდისტები ამ ნივთს ტანსაცმლად. თუ არა, ნუდისტებს ამის ტარება არასოდეს შეაწუხებთ.</Stat_Thing_Apparel_CountsAsClothingNudity_Desc>
+  <Stat_Thing_Apparel_Gender>სქესი</Stat_Thing_Apparel_Gender>
+  <Stat_Thing_Apparel_Gender_Desc>გარკვეულ ტანსაცმელს ზოგადად უპირატესობას ანიჭებს ერთი სქესი. ნებისმიერი სხვა შეიძლება იყოს უკმაყოფილო მისი ტარება.</Stat_Thing_Apparel_Gender_Desc>
+  <Stat_Thing_Apparel_Covers_Desc>სხეულის რომელ ნაწილებს ფარავს ეს.\n\nჯავშანი არ იცავს სხეულის ნაწილებს, რომლებსაც არ ფარავს.</Stat_Thing_Apparel_Covers_Desc>
+  <Stat_Thing_Apparel_Layer_Desc>ტანსაცმლის რომელ ფენებს ავსებს ეს.\n\nსხეულის მოცემული ნაწილისთვის, თითოეულ ფენაში მხოლოდ ერთი ტანსაცმლის ტარება შეიძლება.</Stat_Thing_Apparel_Layer_Desc>
+  <Stat_Thing_Plant_FertilityRequirement_Desc>ნიადაგის მინიმალური ნაყოფიერება, რომელსაც ეს მცენარე სჭირდება ზრდისთვის.</Stat_Thing_Plant_FertilityRequirement_Desc>
+  <Stat_Thing_Plant_FertilitySensitivity_Desc>რამდენად მგრძნობიარეა ეს მცენარე ნიადაგის ნაყოფიერების მიმართ.\n\nდაბალი მგრძნობელობა ნიშნავს, რომ მცენარე დაახლოებით იგივე სიჩქარით გაიზრდება მდიდარ თუ ღარიბ ნიადაგში. მაღალი მგრძნობელობა ნიშნავს, რომ მცენარე ნელა იზრდება ღარიბ ნიადაგში, მაგრამ უფრო სწრაფად მდიდარ ნიადაგში.</Stat_Thing_Plant_FertilitySensitivity_Desc>
+  <Stat_Thing_Plant_LightRequirement_Desc>სინათლის რაოდენობა, რომელსაც ეს მცენარე სჭირდება ზრდისთვის.</Stat_Thing_Plant_LightRequirement_Desc>
+  <Stat_Thing_Plant_LifeSpan_Desc>მცენარის სიცოცხლის ხანგრძლივობა.\n\nმცენარეები ბუნებრივად კვდებიან მას შემდეგ, რაც მიაღწევენ გარკვეულ ასაკს, თუნდაც მოსავალი არ მოხდეს.</Stat_Thing_Plant_LifeSpan_Desc>
+  <Stat_Thing_Plant_HarvestYield_Desc>პროდუქტის რაოდენობას ეს მცენარე გამოიღებს მოსავლის აღებისას.</Stat_Thing_Plant_HarvestYield_Desc>
+  <Stat_Thing_Plant_MinGrowthTemperature_Desc>მინიმალური ტემპერატურა ამ მცენარეს შეუძლია გადარჩეს.\n\nამაზე დაბალი ტემპერატურა დროთა განმავლობაში ზიანს აყენებს.</Stat_Thing_Plant_MinGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MaxGrowthTemperature_Desc>მაქსიმალური ტემპერატურა, რომელსაც შეუძლია ამ მცენარის გადარჩენა.\n\nამაზე მაღალი ტემპერატურა დროთა განმავლობაში ზიანს აყენებს.</Stat_Thing_Plant_MaxGrowthTemperature_Desc>
+  <Stat_Thing_Plant_MinGrowingSkillToSow_Desc>მინიმალური უნარი, რომელიც საჭიროა ფერმერისთვის ამ მცენარის დასათესად.</Stat_Thing_Plant_MinGrowingSkillToSow_Desc>
+  <Stat_Race_Diet_Desc>რა სახის საკვები შეუძლია ამ არსებას ჭამოს.\n\nშეიძლება ჭამა: {0}</Stat_Race_Diet_Desc>
+  <Stat_Race_LeatherType_Desc>ტყავის ტიპს გამოიღებს ეს არსება დახოცვისას.</Stat_Race_LeatherType_Desc>
+  <Stat_Race_Animal_TameFailedRevengeChance_Desc>შანსი იმისა, რომ ეს არსება თავს დაესხმება, როცა მომთვინიერებელი მის მოთვინიერებას შეეცდება და ვერ ახერხებს.</Stat_Race_Animal_TameFailedRevengeChance_Desc>
+  <Stat_Race_Trainability_Desc>ამ არსების ზოგადი გონებრივი უნარი ვარჯიშისთვის. ეს არის დაზვერვისა და ყურადღების კომბინაცია. ის განსაზღვრავს, თუ რა სახის ამოცანების შესრულება შეიძლება ამ არსებას.</Stat_Race_Trainability_Desc>
+  <Stat_Race_LifeExpectancy_Desc>ამ არსების სიცოცხლის საშუალო ხანგრძლივობა.</Stat_Race_LifeExpectancy_Desc>
+  <Stat_Race_BlockedByFences_Desc>გადაკეტილია თუ არა ეს არსება ღობეებით და ბარიკადებით.</Stat_Race_BlockedByFences_Desc>
+  <Stat_Race_RoamInterval_Desc>რამდენად ხშირად შეეცდება მოთვინიერებული ცხოველი გაძვრას და რუკიდან გასვლას.\n\nცხოველები მხოლოდ იმ შემთხვევაში ტრიალებენ, თუ მათ აქვთ პირდაპირი გზა რუკის კიდემდე. ამის თავიდან ასაცილებლად შეგიძლიათ გამოიყენოთ ღობეები, ბარიკადები, კედლები და კარები.\n\nცხოველებზე მომუშავე პირებს შეუძლიათ როუმინგის ცხოველები თოკით გააბატონონ და დააბრუნონ ისინი კალამთან.</Stat_Race_RoamInterval_Desc>
+  <Stat_Thing_Ingestible_Joy_Desc>ამის მიღების რეკრეაციული ღირებულება. უფრო მაღალი რიცხვი დააკმაყოფილებს დასვენების საჭიროებას.</Stat_Thing_Ingestible_Joy_Desc>
+  <Stat_Mass_Desc>ამ არსების წონა და მათი აღჭურვილობა.</Stat_Mass_Desc>
+  <Stat_Mass_Base>ბაზის მასა</Stat_Mass_Base>
+  <Stat_Mass_Equipment>მასა აღჭურვილობისგან</Stat_Mass_Equipment>
+  <Stat_Mass_Total>საერთო მასა</Stat_Mass_Total>
+  <Stat_Race_BodySize_Desc>ამ არსების სხეულის ზომა საშუალო ზრდასრულ ადამიანთან შედარებით.</Stat_Race_BodySize_Desc>
+  <Stat_Race_Growth_Desc>რამდენად ახლოსაა ეს არსება სრულწლოვანებასთან.\n\nზრდის სჭირდება კვება. მშიერი ცხოველი გაიზრდება უფრო ნელი ტემპით, ვიდრე კარგად ნაკვები.</Stat_Race_Growth_Desc>
+  <Stat_Thing_Weapon_MeleeWarmupTime_Desc>რამდენი დრო გადის ამ იარაღით შეტევის დაწყებასა და მის დარტყმას შორის.</Stat_Thing_Weapon_MeleeWarmupTime_Desc>
+  <Stat_Thing_Weapon_RangedWarmupTime_Desc>რამდენი დრო გადის დისტანციური შეტევის დამიზნების დაწყებასა და გასროლას შორის.</Stat_Thing_Weapon_RangedWarmupTime_Desc>
+  <Stat_Thing_Weapon_BurstShotCount_Desc>ამ იარაღის გასროლების რაოდენობა თითოეულ აფეთქებაში.</Stat_Thing_Weapon_BurstShotCount_Desc>
+  <Stat_Thing_Weapon_BurstShotFireRate_Desc>ამ იარაღის სროლის სიჩქარე ყოველი აფეთქების დროს.</Stat_Thing_Weapon_BurstShotFireRate_Desc>
+  <Stat_Thing_Weapon_Range_Desc>ამ იარაღის მაქსიმალური დიაპაზონი.</Stat_Thing_Weapon_Range_Desc>
+  <Stat_Thing_Weapon_Range_Multiplier>დიაპაზონის მულტიპლიკატორი</Stat_Thing_Weapon_Range_Multiplier>
+  <Stat_Thing_Weapon_Range_Clamped>შემცირდა {ORIGINAL}-დან {CAP}-მდე ამინდის გამო.</Stat_Thing_Weapon_Range_Clamped>
+  <Stat_Thing_Weapon_WarmupTime_Multiplier>დამიზნების დროის მულტიპლიკატორი</Stat_Thing_Weapon_WarmupTime_Multiplier>
+  <Stat_Thing_Weapon_MissRadius_Desc>შემთხვევითი გავრცელების რადიუსი ამ იარაღის მიერ გასროლილ სროლებზე.\n\nმაღალი მნიშვნელობები აიძულებს ჭურვებს შემთხვევით ფანტავენ სამიზნის გარშემო.</Stat_Thing_Weapon_MissRadius_Desc>
+  <Stat_Thing_Weapon_DirectHitChance_Desc>შანსი იმისა, რომ გასროლა პირდაპირ მოხვდეს მიზანში, თუ არ იქნა შეჩერებული, აცილებული ან შეჩერებული.</Stat_Thing_Weapon_DirectHitChance_Desc>
+  <Stat_Thing_MoodChange_Desc>სხეულის ამ ნაწილის გავლენა მფლობელის განწყობაზე.</Stat_Thing_MoodChange_Desc>
+  <Stat_Recipe_Skill_Desc>მთავარი უნარი, რომელიც გამოიყენება ამ რეცეპტის შესრულებისას.\n\nის განსაზღვრავს შედეგის ხარისხს და სწავლობს ამ რეცეპტის შესრულებისას.</Stat_Recipe_Skill_Desc>
+  <Stat_Recipe_Ingredients_Desc>ამ რეცეპტის შესასრულებლად საჭირო ინგრედიენტები.</Stat_Recipe_Ingredients_Desc>
+  <Stat_Recipe_SkillRequirements_Desc>ამ რეცეპტის შესასრულებლად საჭირო უნარები.</Stat_Recipe_SkillRequirements_Desc>
+  <Stat_Recipe_Products_Desc>ამ რეცეპტით წარმოებული პროდუქტები.</Stat_Recipe_Products_Desc>
+  <Stat_Recipe_WorkSpeedStat_Desc>რომელი სიმბოლოს სტატისტიკა არეგულირებს ამ რეცეპტის მუშაობის სიჩქარეს.\n\nრაც უფრო მაღალია მუშაკის სტატისტიკა, მით უფრო სწრაფად შესრულდება სამუშაო.</Stat_Recipe_WorkSpeedStat_Desc>
+  <Stat_Recipe_EfficiencyStat_Desc>რომელი სტატისტიკა არეგულირებს გამომუშავების ხარისხს ან რაოდენობას.\n\nრაც უფრო მაღალია მუშაკის სტატისტიკა, მით უფრო მაღალი იქნება ხარისხი ან მოსავლიანობა.</Stat_Recipe_EfficiencyStat_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_Desc>მულტიპლიკატორი იმის შესახებ, რომ ეს ოპერაცია წარმატებული იქნება. უფრო რთულ ოპერაციებს აქვთ დაბალი მულტიპლიკატორი.\n\nოპერაციის წარმატების რეალურ შანსზე ასევე მოქმედებს ექიმი, საშუალებები და გამოყენებული წამალი.</Stat_Thing_Surgery_SuccessChanceFactor_Desc>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail>არ შეიძლება ჩავარდნა</Stat_Thing_Surgery_SuccessChanceFactor_CantFail>
+  <Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>ამ ოპერაციის ჩატარება პაციენტისთვის უსაფრთხოა.</Stat_Thing_Surgery_SuccessChanceFactor_CantFail_Desc>
+  <Stat_Thing_Surgery_DeathOnFailChance_Desc>ამ ოპერაციის წარუმატებლობის შემთხვევაში პაციენტის სიკვდილის შანსი.</Stat_Thing_Surgery_DeathOnFailChance_Desc>
+  <Stat_Hediff_TotalBleedFactor_Name>მთლიანი სისხლდენის ფაქტორი</Stat_Hediff_TotalBleedFactor_Name>
+  <Stat_Hediff_TotalBleedFactor_Desc>მულტიპლიკატორი გამოიყენება სისხლის დაკარგვის საერთო მაჩვენებელზე.</Stat_Hediff_TotalBleedFactor_Desc>
+  <Stat_Hediff_NaturalHealingFactor_Name>ბუნებრივი სამკურნალო ფაქტორი</Stat_Hediff_NaturalHealingFactor_Name>
+  <Stat_Hediff_NaturalHealingFactor_Desc>მულტიპლიკატორი გამოიყენება ბუნებრივი ჭრილობის შეხორცების საერთო მაჩვენებელზე.</Stat_Hediff_NaturalHealingFactor_Desc>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Name>საკვები მოწამვლის შანსის ფაქტორი</Stat_Hediff_FoodPoisoningChanceFactor_Name>
+  <Stat_Hediff_FoodPoisoningChanceFactor_Desc>მულტიპლიკატორი გამოიყენება საკვებით მოწამვლის შანსზე.</Stat_Hediff_FoodPoisoningChanceFactor_Desc>
+  <Stat_Hediff_BleedingRate_Desc>ეს მდგომარეობა იწვევს სისხლის დაკარგვას.</Stat_Hediff_BleedingRate_Desc>
+  <Stat_Hediff_Pain_Desc>ამ მდგომარეობით გამოწვეული ტკივილის რაოდენობა.</Stat_Hediff_Pain_Desc>
+  <Stat_Hediff_PartEfficiency_Desc>ეფექტურობის კომპენსაცია გამოიყენება სხეულის ნაწილებზე, რომლებიც გავლენას ახდენს ამით.</Stat_Hediff_PartEfficiency_Desc>
+  <Stat_Hediff_PartEfficiencyAbsolute_Desc>რამდენად ეფექტურად ფუნქციონირებს ეს სხეულის ბუნებრივ ნაწილთან შედარებით.</Stat_Hediff_PartEfficiencyAbsolute_Desc>
+  <Stat_Hediff_Affects_Desc>ეს გავლენას ახდენს გონებრივ შესაძლებლობებზე.</Stat_Hediff_Affects_Desc>
+  <Stat_Hediff_HungerRateOffset_Name>შიმშილის კოეფიციენტი</Stat_Hediff_HungerRateOffset_Name>
+  <Stat_Hediff_HungerRateFactor_Desc>მულტიპლიკატორი იმ ტემპზე, რომლითაც საკვების საჭიროება ამოიწურება.</Stat_Hediff_HungerRateFactor_Desc>
+  <Stat_Hediff_HungerRateOffset_Desc>ოფსეტური ტემპი, რომლითაც საკვების საჭიროება ამოიწურება.</Stat_Hediff_HungerRateOffset_Desc>
+  <Stat_Hediff_TirednessOffset_Name>ძილის დაცემის მაჩვენებელი</Stat_Hediff_TirednessOffset_Name>
+  <Stat_Hediff_TirednessOffset_Desc>ოფსეტური, რომელიც გამოიყენება არსების ძილის მოთხოვნილების დაცემის სიჩქარეზე.</Stat_Hediff_TirednessOffset_Desc>
+  <Stat_Hediff_TirednessFactor_Desc>მულტიპლიკატორი, რომელიც გამოიყენება იმ ტემპზე, რომლითაც ეცემა არსების ძილის მოთხოვნილება.</Stat_Hediff_TirednessFactor_Desc>
+  <Stat_Hediff_PreventsInfection_Desc>ხელს უშლის თუ არა ეს ინფექციებს.</Stat_Hediff_PreventsInfection_Desc>
+  <Stat_Thing_Terrain_Supports_Desc>რასაც ეს რელიეფი მხარს უჭერს.</Stat_Thing_Terrain_Supports_Desc>
+  <Stat_Thing_TerrainRequirement_Desc>მისი განთავსება შესაძლებელია მხოლოდ ამ ტიპის რელიეფზე.</Stat_Thing_TerrainRequirement_Desc>
+  <Stat_Thing_Terrain_Fine_Name>შესაფერისი</Stat_Thing_Terrain_Fine_Name>
+  <Stat_Thing_Terrain_Fine_Value>შესაფერისი</Stat_Thing_Terrain_Fine_Value>
+  <Stat_Thing_Terrain_Fine_Desc>ეს სართული ითვლება მშვენივრად და შესაფერისად ჰონორარს.</Stat_Thing_Terrain_Fine_Desc>
+  <Stat_Thing_PowerConsumption_Desc>სიმძლავრის რაოდენობას ეს შენობა გამოიმუშავებს ელექტრო ქსელიდან.</Stat_Thing_PowerConsumption_Desc>
+  <Stat_Thing_ReloadChargesRemaining_Name>დარჩა {CHARGENOUN_plural}</Stat_Thing_ReloadChargesRemaining_Name>
+  <Stat_Thing_ReloadChargesRemaining_Desc>ამ ობიექტზე დარჩენილი {CHARGENOUN_plural}-ის რაოდენობა. თუ ისინი ამოიწურება, სპეციალური უნარი აღარ იქნება გამოყენებული.</Stat_Thing_ReloadChargesRemaining_Desc>
+  <Stat_Thing_ReloadMaxCharges_Name>{CHARGENOUN_plural}</Stat_Thing_ReloadMaxCharges_Name>
+  <Stat_Thing_ReloadMaxCharges_Desc>ამ ობიექტს აქვს {CHARGENOUN_plural}-ის მაქსიმალური რაოდენობა.</Stat_Thing_ReloadMaxCharges_Desc>
+  <Stat_Thing_ReloadRefill_Name>{CHARGENOUN} გადატვირთვის ღირებულება</Stat_Thing_ReloadRefill_Name>
+  <Stat_Thing_ReloadRefill_Desc>ამ ობიექტის სრულად გადასატვირთად საჭირო ელემენტების რაოდენობა.\n\nამ ობიექტის ხელახლა ჩატვირთვა შესაძლებელია, სანამ ის დაცარიელდება, მაგრამ ღირებულება იგივეა, რაც ცარიელი იყო.</Stat_Thing_ReloadRefill_Desc>
+  <Stat_Thing_ReloadPerCharge_Name>გადატვირთვის ღირებულება {CHARGENOUN}-ზე</Stat_Thing_ReloadPerCharge_Name>
+  <Stat_Thing_ReloadPerCharge_Desc>ერთი {CHARGENOUN}-ის გადატვირთვისთვის საჭირო ნივთების რაოდენობა. რამდენიმე {CHARGENOUN_plural} შეიძლება გადატვირთოთ ერთდროულად.</Stat_Thing_ReloadPerCharge_Desc>
+  <Stat_Thing_ReloadDestroyOnEmpty_Name>გაქრება გამონაბოლქვზე</Stat_Thing_ReloadDestroyOnEmpty_Name>
+  <Stat_Thing_ReloadDestroyOnEmpty_Desc>ეს ელემენტი გაქრება მისი ბოლო {CHARGENOUN} გამოყენებისას.</Stat_Thing_ReloadDestroyOnEmpty_Desc>
+  <Stat_Thing_BodyPartEfficiency_Desc>სხეულის ამ ნაწილის საერთო ეფექტურობა.</Stat_Thing_BodyPartEfficiency_Desc>
+  <Stat_Thing_InstallSites>საიტების დაყენება</Stat_Thing_InstallSites>
+  <Stat_Thing_InstallSites_Desc>სხეულის უბნები, სადაც შესაძლებელია მისი დაყენება.</Stat_Thing_InstallSites_Desc>
+  <Stat_Thing_ReplacesParts>ცვლის ნაწილებს</Stat_Thing_ReplacesParts>
+  <Stat_Thing_ReplacesParts_Desc>სხეულის ნაწილები, რომლებიც ინსტალაციის დროს იცვლება ამით.</Stat_Thing_ReplacesParts_Desc>
+  <Stat_Thing_Biocoded_Name>ბიოკოდირება</Stat_Thing_Biocoded_Name>
+  <Stat_Thing_Biocoded_Desc>ეს ელემენტი დაშიფრულია მხოლოდ კონკრეტული ინდივიდის ბიო-ხელმოწერის მისაღებად.</Stat_Thing_Biocoded_Desc>
+  <Stat_Pawn_RequiredApparel_Name>საჭირო ტანსაცმელი</Stat_Pawn_RequiredApparel_Name>
+  <Stat_Thing_Plant_GrowthRate>ზრდის ტემპი</Stat_Thing_Plant_GrowthRate>
+  <Stat_Thing_Plant_GrowthRate_Desc>მცენარის ზრდის ტემპი.\n\nზრდის სიჩქარეზე გავლენას ახდენს ნიადაგის ნაყოფიერება, ტემპერატურა, სინათლე და გარემო პირობები.</Stat_Thing_Plant_GrowthRate_Desc>
+  <Stat_Thing_Plant_Age>ასაკი</Stat_Thing_Plant_Age>
+  <Stat_Thing_Plant_AgeDesc>რამდენი ხანია ეს ცოცხალია.</Stat_Thing_Plant_AgeDesc>
+  <Stat_Thing_Plant_Lifespan>სიცოცხლის ხანგრძლივობა</Stat_Thing_Plant_Lifespan>
+  <Stat_Building_Paintable>შეღებვადი</Stat_Building_Paintable>
+  <Stat_Building_PaintableDesc>შესაძლებელია თუ არა ამის დახატვა საღებავის გამოყენებით.</Stat_Building_PaintableDesc>
+  <Stat_Building_PaintColor>საღებავის ფერი</Stat_Building_PaintColor>
+  <Stat_Building_PaintColorDesc>ამ შენობის ფერად შეღებილი იყო.</Stat_Building_PaintColorDesc>
+  <Stat_Building_ResourcesToMake>გასაკეთებელი რესურსები</Stat_Building_ResourcesToMake>
+  <Stat_Building_ResourcesToMakeDesc>ამის ასაშენებლად საჭირო რესურსები.</Stat_Building_ResourcesToMakeDesc>
+  <Stat_Thing_TurretDesc>ამ არსებაზე დამაგრებული იარაღი.</Stat_Thing_TurretDesc>
+  <Stat_Thing_Ingredients>ამის გასაკეთებლად საჭირო ინგრედიენტები.</Stat_Thing_Ingredients>
+  <Stat_Building_OptimalRoom_Desc>ამ შენობაში მუშაობა უფრო ნელი იქნება, თუ ის ამ ტიპის ოთახში არ არის.</Stat_Building_OptimalRoom_Desc>
+
+  
+  <Stat_Thing_Drug_Chemical_Desc>აქტიური ქიმიკატი ამაში.\n\nზოგიერთ შემთხვევაში, ერთი და იგივე ქიმიკატი წარმოდგენილია მრავალ სხვადასხვა წამალში. ეს განსხვავებული ნარკოტიკები დააკმაყოფილებს ერთსა და იმავე დამოკიდებულებას სხვადასხვა გზით.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Category_Desc>კატეგორიას მიეკუთვნება ეს პრეპარატი.</Stat_Thing_Drug_Category_Desc>
+  <Stat_Thing_Drug_HighGainPerDose_Desc>მაღალი მიღწევის ინტენსივობა ამ პრეპარატის ერთ დოზაზე.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <Stat_Thing_Drug_HighFallPerDay_Desc>რამდენად იშლება ეს წამლის მაღალი დონე ყოველდღიურად.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>რამდენ ხანს გაგრძელდება ამ პრეპარატის მაღალი მაჩვენებელი თითო დოზაზე.\n\nეს გამოითვლება მიღებული მაღალი დოზით და დაცემის მაღალი სიხშირით.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>რამდენად გაიზრდება მომხმარებლის ტოლერანტობა ქიმიური ნივთიერების მიმართ ამ პრეპარატის ყოველი დოზით.\n\nეს შეიძლება განსხვავდებოდეს ერთი და იმავე ქიმიური ნივთიერების სხვადასხვა ფორმისთვის.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>რამდენად დაეცემა მომხმარებლის ტოლერანტობა ქიმიკატების მიმართ დღეში.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>მინიმალური ტოლერანტობა, რომელიც საჭიროა ამ ნარკოტიკზე ახლად დამოკიდებულებისთვის.\n\nთუ მომხმარებელი ამ ტოლერანტობის დონეს ქვემოთაა, ის ვერ გახდება ახალდამოკიდებული დოზის მიღების შემდეგ.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>ზრდასრული ადამიანი გახდება დამოკიდებული მხოლოდ იმ შემთხვევაში, თუ ის მიიღებს ნარკოტიკს ამაზე უფრო ხშირად.\n\nეს გამოითვლება წამლის მინიმალური ტოლერანტობის მიხედვით, დოზაზე ტოლერანტობის მომატებისა და ტოლერანტობის დაქვეითების სიჩქარის მიხედვით. ზოგიერთ წამალს არ აქვს უსაფრთხო ინტერვალი. ასეთ წამლებს შეუძლიათ დამოკიდებულნი იყვნენ ნებისმიერ დოზაზე, თუნდაც პირველზე.\n\nგაითვალისწინეთ, რომ უსაფრთხო დოზების ინტერვალი დამოკიდებულია ადამიანის სხეულის ზომაზე.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_RandomODChance_Desc>ამ პრეპარატის მიღებისას შემთხვევითი დოზის გადაჭარბების შანსი. შემთხვევითი დოზის გადაჭარბება შეიძლება მოხდეს ნებისმიერ დოზაზე, იქნება ეს ახალი მომხმარებლის პირველი მცდელობა თუ გამოცდილი ნარკომანის მეასე დარტყმა.</Stat_Thing_Drug_RandomODChance_Desc>
+  <Stat_Thing_Drug_Addictiveness_Desc>დამოკიდებულების შანსი ამ წამლის თითოეულ დოზაზე.\n\nთუ წამალს აქვს მინიმალური ტოლერანტობა ნარკომანიის მიმართ, ტოლერანტობა უნდა იყოს აღემატება ამ დონეს. თუ არ არის მინიმალური ტოლერანტობა, ნებისმიერმა დოზამ შეიძლება გამოიწვიოს დამოკიდებულება.</Stat_Thing_Drug_Addictiveness_Desc>
+  <Stat_Thing_Drug_AddictionSeverityInitial_Desc>ამ წამლით გამოწვეული ახალი დამოკიდებულებები იწყება ამ სიმძიმის დონეზე.\n\nნარკოტიკის მეტი მიღება გაზრდის დამოკიდებულების სიმძიმეს, ხოლო დრო შეამცირებს მას.</Stat_Thing_Drug_AddictionSeverityInitial_Desc>
+  <Stat_Thing_Drug_AddictionRecoveryTime_Desc>რამდენი ხანი სჭირდება ამ წამალზე თავდაპირველი დამოკიდებულების გამოჯანმრთელებას.\n\nეს გამოითვლება დამოკიდებულების ახალი სიმძიმის მიხედვით, გაყოფილი დამოკიდებულების გამოჯანმრთელების სიჩქარეზე. დამოკიდებულებას, რომელიც იკვებება, უფრო მეტხანს დასჭირდება.</Stat_Thing_Drug_AddictionRecoveryTime_Desc>
+  <Stat_Thing_Drug_AddictionSeverityPerDose_Desc>რამდენი სიმძიმე ემატება არსებულ დამოკიდებულებას ამ წამლის თითოეულ დოზაზე.\n\nდამოკიდებულების სიმძიმე არ შეიძლება 100%-ზე მეტი იყოს.</Stat_Thing_Drug_AddictionSeverityPerDose_Desc>
+  <Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>რამდენად ხშირად ესაჭიროება ნარკომანს ამ წამლის დოზის მიღება დამოკიდებულების გამოსაკვებად და მოხსნის თავიდან ასაცილებლად.\n\nეს გამოითვლება დამოკიდებულების მოთხოვნილების დაცემის და საჭიროების შევსების მიხედვით.</Stat_Thing_Drug_AddictionNeedDoseInterval_Desc>
+  <Stat_Thing_Drug_AddictionNeedOffset_Desc>რამდენად ავსებს ამ წამლის ყოველი დოზა ნარკოტიკის მოთხოვნილებას.</Stat_Thing_Drug_AddictionNeedOffset_Desc>
+  <Stat_Thing_Drug_AddictionNeedFallRate_Desc>რამდენად სწრაფად დაეცემა ნარკომანის მოთხოვნილება ქიმიკატზე.</Stat_Thing_Drug_AddictionNeedFallRate_Desc>
+  <Stat_Thing_Drug_AddictionCost_Desc>ნარკოტიკების საბაზრო ღირებულება, რომელიც უნდა იქნას მოხმარებული დღეში, რათა ხელი შეუწყოს ამ წამალზე დამოკიდებულების მოხსნის გარეშე.\n\nეს მნიშვნელობა გამოითვლება ნარკომანის ქიმიური საჭიროებიდან დოზეზე, საჭიროების დაცემის მაჩვენებელიდან და ამ წამლის საბაზრო ღირებულებიდან.\n\nგაითვალისწინეთ, რომ შეიძლება არსებობდეს იგივე ქიმიური ნივთიერების მიღების სხვა გზები სხვადასხვა ხარჯებით.</Stat_Thing_Drug_AddictionCost_Desc>
+
+  <Stat_Thing_StyleLabel>სტილი</Stat_Thing_StyleLabel>
+  <Stat_Thing_StyleDesc>ობიექტის სტილი განსაზღვრავს მის გარეგნობას. ამას არ აქვს გეიმპლეის ეფექტი. სტილები ხშირად ქმნიან მშენებლობის განსხვავებულ მეთოდებს, რომლებიც გამოიყენება სხვადასხვა რწმენისა და კულტურის მქონე ადამიანების მიერ.</Stat_Thing_StyleDesc>
+
+  <Stat_Animal_GestationTime>გესტაციის დრო</Stat_Animal_GestationTime>
+  <Stat_Animal_GestationTimeDesc>დრო სჭირდება ამ სახეობას შთამომავლობის ან კვერცხების დაორსულებას.</Stat_Animal_GestationTimeDesc>
+  <Stat_Animal_LitterSize>ნაგვის ზომა</Stat_Animal_LitterSize>
+  <Stat_Animal_LitterSizeDesc>შთამომავლების რაოდენობას, რომელსაც ეს არსება ქმნის ერთ ნაგავზე. თუ ეს არის დიაპაზონი, ნებისმიერ კონკრეტულ ნარჩენს ექნება შთამომავლების შემთხვევითი რაოდენობა ამ დიაპაზონში.</Stat_Animal_LitterSizeDesc>
+  <Stat_Animal_AdultMeatAmount>ზრდასრული ხორცის რაოდენობა</Stat_Animal_AdultMeatAmount>
+  <Stat_Animal_AdultMeatAmountDesc>ხორცის ძირითადი რაოდენობა მიღებულია ამ სახეობის ზრდასრული წევრის დაკვლით. რეალურ მოსავალზე გავლენას ახდენს სხვა ფაქტორები, როგორიცაა სხეულის დაზიანება და ჯალათის უნარი.</Stat_Animal_AdultMeatAmountDesc>
+  <Stat_Animal_GrowthTime>ზრდის დრო</Stat_Animal_GrowthTime>
+  <Stat_Animal_GrowthTimeDesc>რამდენი დრო სჭირდება ჩვეულებრივ ამ არსებას სრულწლოვანებამდე მისასვლელად. ეს დრო უფრო გრძელი იქნება, თუ არსება შიმშილობს.</Stat_Animal_GrowthTimeDesc>
+  <Stat_Animal_MeatPerDayDuringGrowth>ხორცი დღეში ზრდის პერიოდში</Stat_Animal_MeatPerDayDuringGrowth>
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>ეს არსება ამ რაოდენობის ხორცს იძენს ყოველი გაზრდილი დღით, სრულწლოვანებამდე.\n\nეს მნიშვნელობა გამოითვლება ხორცის რაოდენობისა და ზრდის დროიდან.</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <Stat_Animal_GrassToMaintain>ბალახი შესანარჩუნებლად</Stat_Animal_GrassToMaintain>
+  <Stat_Animal_GrassToMaintainDesc>ბალახოვანი მცენარეების ტიპიური რაოდენობა, რომელიც ამ არსებას სჭირდება თავისი დიეტური მოთხოვნილებების დასაკმაყოფილებლად. ეს ეფუძნება ნორმალურ ბალახს ტიპიური ზრდის ტემპებით და უგულებელყოფს ზამთარს.</Stat_Animal_GrassToMaintainDesc>
+  <Stat_Animal_EggType>კვერცხის ტიპი</Stat_Animal_EggType>
+  <Stat_Animal_EggTypeDesc>კვერცხის ტიპს ეს არსება დებს.</Stat_Animal_EggTypeDesc>
+  <Stat_Animal_EggsPerYear>კვერცხები წელიწადში</Stat_Animal_EggsPerYear>
+  <Stat_Animal_EggsPerYearDesc>კვერცხების რაოდენობას ეს არსება დადებს წელიწადში. ზოგიერთ არსებას სჭირდება განაყოფიერება კვერცხების დასადებად. კვერცხის დადება უფრო ნელი იქნება, თუ არსება შიმშილობს.</Stat_Animal_EggsPerYearDesc>
+  <Stat_Animal_EggNutrition>კვერცხის კვება</Stat_Animal_EggNutrition>
+  <Stat_Animal_EggNutritionDesc>კვების რაოდენობა ამ არსების მიერ დადებულ ერთ კვერცხში.</Stat_Animal_EggNutritionDesc>
+  <Stat_Animal_EggNutritionYearly>კვერცხის კვება წელიწადში</Stat_Animal_EggNutritionYearly>
+  <Stat_Animal_EggNutritionYearlyDesc>ყოველწლიურად ამ არსების მიერ დადებული კვერცხებით წარმოქმნილი საკვების რაოდენობა.\n\nეს მნიშვნელობა გამოითვლება წელიწადში კვერცხებიდან და კვერცხის კვებით.</Stat_Animal_EggNutritionYearlyDesc>
+  <Stat_Animal_EggMarketValue>კვერცხის საბაზრო ღირებულება</Stat_Animal_EggMarketValue>
+  <Stat_Animal_EggMarketValueDesc>ერთი დადებული კვერცხის საბაზრო ღირებულება.</Stat_Animal_EggMarketValueDesc>
+  <Stat_Animal_EggMarketValueYearly>კვერცხის ღირებულება წელიწადში</Stat_Animal_EggMarketValueYearly>
+  <Stat_Animal_EggMarketValueYearlyDesc>კვერცხების საერთო ღირებულება ჩვეულებრივ დადებული წლის განმავლობაში.\n\nეს გამოითვლება კვერცხების წელიწადში და კვერცხის საბაზრო ღირებულებიდან.</Stat_Animal_EggMarketValueYearlyDesc>
+  <Stat_Animal_MilkType>რძის ტიპი</Stat_Animal_MilkType>
+  <Stat_Animal_MilkTypeDesc>რძის ტიპი, რომელსაც ეს არსება აწარმოებს.</Stat_Animal_MilkTypeDesc>
+  <Stat_Animal_MilkAmount>რძის რაოდენობა</Stat_Animal_MilkAmount>
+  <Stat_Animal_MilkAmountDesc>რძის რაოდენობას, რომელსაც ეს არსება გამოიმუშავებს ყოველ ჯერზე, როცა წველიან.</Stat_Animal_MilkAmountDesc>
+  <Stat_Animal_MilkGrowthTime>რძის შუალედი</Stat_Animal_MilkGrowthTime>
+  <Stat_Animal_MilkGrowthTimeDesc>დრო სჭირდება ამ არსებას რძეს შორის.</Stat_Animal_MilkGrowthTimeDesc>
+  <Stat_Animal_MilkPerYear>რძე წელიწადში</Stat_Animal_MilkPerYear>
+  <Stat_Animal_MilkPerYearDesc>ამ ცხოველის მიერ ერთი წლის განმავლობაში გამომუშავებული რძის რაოდენობა.\n\nეს გამოითვლება რძის რაოდენობისა და რძის ინტერვალიდან.</Stat_Animal_MilkPerYearDesc>
+  <Stat_Animal_MilkValue>რძის საბაზრო ღირებულება</Stat_Animal_MilkValue>
+  <Stat_Animal_MilkValueDesc>ამ არსების რძის ერთი ერთეულის ღირებულება.</Stat_Animal_MilkValueDesc>
+  <Stat_Animal_MilkValuePerYear>რძის ღირებულება წელიწადში</Stat_Animal_MilkValuePerYear>
+  <Stat_Animal_MilkValuePerYearDesc>ამ არსების ერთი წლის რძის საბაზრო ღირებულება, თუ ვივარაუდებთ, რომ ის არასოდეს შიმშილობს და მყისიერად იწველება ყოველი რძის ინტერვალის ბოლოს.\n\nეს გამოითვლება წლიური რძისა და რძის საბაზრო ღირებულებიდან.</Stat_Animal_MilkValuePerYearDesc>
+  <Stat_Animal_WoolType>შალის ტიპი</Stat_Animal_WoolType>
+  <Stat_Animal_WoolTypeDesc>ამ არსების მიერ წარმოებული მატყლის ტიპი.</Stat_Animal_WoolTypeDesc>
+  <Stat_Animal_WoolAmount>შალის რაოდენობა</Stat_Animal_WoolAmount>
+  <Stat_Animal_WoolAmountDesc>მატყლის რაოდენობა, რომელსაც გამოყოფს ეს არსება ყოველ ჯერზე, როცა ის იჭრება.</Stat_Animal_WoolAmountDesc>
+  <Stat_Animal_WoolGrowthTime>მატყლის ჭრის ინტერვალი</Stat_Animal_WoolGrowthTime>
+  <Stat_Animal_WoolGrowthTimeDesc>ამ არსებამდე გაპარსვის შემდგომი დრო შეიძლება კვლავ მოიჭრას.</Stat_Animal_WoolGrowthTimeDesc>
+  <Stat_Animal_WoolPerYear>მატყლის რაოდენობა წელიწადში</Stat_Animal_WoolPerYear>
+  <Stat_Animal_WoolPerYearDesc>ამ არსების მიერ წარმოებული მატყლის რაოდენობა წელიწადში.\n\nეს გამოითვლება მატყლის რაოდენობისა და მატყლის ჭრის ინტერვალიდან.</Stat_Animal_WoolPerYearDesc>
+  <Stat_Animal_WoolValue>მატყლის საბაზრო ღირებულება</Stat_Animal_WoolValue>
+  <Stat_Animal_WoolValueDesc>ამ არსების მატყლის ერთი ერთეულის საბაზრო ღირებულება.</Stat_Animal_WoolValueDesc>
+  <Stat_Animal_WoolValuePerYear>მატყლის ღირებულება წელიწადში</Stat_Animal_WoolValuePerYear>
+  <Stat_Animal_WoolValuePerYearDesc>ამ არსების ერთი წლის მატყლის საბაზრო ღირებულება.\n\nეს გამოითვლება მატყლის ოდენობის წელიწადში და მატყლის საბაზრო ღირებულებიდან.</Stat_Animal_WoolValuePerYearDesc>
+
+  <Stat_Studiable_Desc>მთლიანი შესაძლო შესწავლის რამდენი გაქვთ ჩატარებული ამ ობიექტზე.</Stat_Studiable_Desc>
+
+  <Stat_Source_Label>წყარო</Stat_Source_Label>
+  <Stat_Source_OfficialExpansionReport>ეს შინაარსი მოვიდა ოფიციალური გაფართოებიდან</Stat_Source_OfficialExpansionReport>
+  <Stat_Source_ModReport>ეს შინაარსი მოვიდა მოდიდან</Stat_Source_ModReport>
+
+  <ContainedBookBeauty>შეიცავდა წიგნის სილამაზეს</ContainedBookBeauty>
+  <Stat_TrapDamageHitCount>{0} ჰიტები</Stat_TrapDamageHitCount>
+
+  <Stat_Thing_HackingProgress>პროგრესი, რომელიც მიღწეულია ამ ობიექტის გატეხვის მიმართულებით.</Stat_Thing_HackingProgress>
+
+  <StatsReport_TerrainSpeedMultiplier>მულტიპლიკატორი {0} რელიეფისთვის</StatsReport_TerrainSpeedMultiplier>
+
+  <StatsReport_Trainable>{0} გაწვრთნილი</StatsReport_Trainable>
+  <StatsReport_AvailableTraining>ხელმისაწვდომი ტრენინგი</StatsReport_AvailableTraining>
+  <StatsReport_AvailableTraining_Desc>ამოცანები, რომელთა შესრულებაშიც ამ არსებას შეუძლია გაწვრთნა. ხელმისაწვდომი ვარჯიში დამოკიდებულია არსების ვარჯიშად, სხეულის ზომაზე და სახეობაზე.</StatsReport_AvailableTraining_Desc>
+  
+</LanguageData>

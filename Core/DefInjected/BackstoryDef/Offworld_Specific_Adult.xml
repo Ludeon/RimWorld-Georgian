@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Castaway57.description>[PAWN_nameDef] დაუსახლებელ ცხოველურ სამყაროზე ხომალდის ჩამოვარდნას ერთადერთი გადარჩენილი გადაურჩა. გადარჩენამდე მრავალი წლის განმავლობაში [PAWN_pronoun] თავს იმით ირჩენდა, რასაც იპოვიდა.
+
+[PAWN_possessive] გადარჩენის უნარები მეტად გამძაფრდა, მაგრამ ამდენი ხნით მარტოობამ [PAWN_possessive] საუბრის უნარებს ძლიერ დაარტყა.</Castaway57.description>
+  <Castaway57.title>მიჯაჭვული</Castaway57.title>
+  <Castaway57.titleShort>მიჯაჭვული</Castaway57.titleShort>
+  <CaveworldIlluminator95.description>გვირაბების მაცხოვრებლებს შორის, ვისაც [PAWN_nameDef]-ის მსგავსი ძლიერი მხედველობა აქვს, პატივს სცემენ როგორც ბრძენებს. [PAWN_pronoun] მიიყვანდა გზას, მონიშნავდა ლაქებს ბიოლუმინესცენტური სოკოთი და აფრთხილებდა სხვებს მოსალოდნელი საფრთხის შესახებ.</CaveworldIlluminator95.description>
+  <CaveworldIlluminator95.title>გამოქვაბულის სამყაროს გამნათებელი</CaveworldIlluminator95.title>
+  <CaveworldIlluminator95.titleShort>გამნათებელი</CaveworldIlluminator95.titleShort>
+  <ColonySettler53.description>[PAWN_nameDef] ახალი კოლონიური სამყაროს დამსახლებელი იყო.
+
+ასეთი ცხოვრება ხელსაქმის ბევრ საბაზისო საქმეში უნივერსალურ უნარებს მოითხოვს.</ColonySettler53.description>
+  <ColonySettler53.title>კოლონიაში მცხოვრები</ColonySettler53.title>
+  <ColonySettler53.titleShort>დასახლებული</ColonySettler53.titleShort>
+  <DeepSpaceMiner3.description>[PAWN_nameDef]-მა შეასრულა ღრმა კოსმოსური აპარატის ასტეროიდებიდან ლითონის ამოღება. [PAWN_pronoun] ყოველდღიურად იყენებდა [PAWN_possessive] პრაქტიკულ ინდუსტრიულ უნარებს - და არც ბარში იყო ცუდი.</DeepSpaceMiner3.description>
+  <DeepSpaceMiner3.title>ღრმა კოსმოსური მაღაროელი</DeepSpaceMiner3.title>
+  <DeepSpaceMiner3.titleShort>მაღაროელი</DeepSpaceMiner3.titleShort>
+  <FactoryWorker58.description>[PAWN_nameDef] ასრულებდა მწირ, არაკვალიფიციურ სამუშაოს სამრეწველო ქარხანაში. [PAWN_possessive] სამუშაო ასევე მოიცავდა ჯორებისა და ცხენების მოვლას, რომლებიც საქონელს გადაჰქონდათ.</FactoryWorker58.description>
+  <FactoryWorker58.title>ქარხნის მუშაკი</FactoryWorker58.title>
+  <FactoryWorker58.titleShort>მუშაკი</FactoryWorker58.titleShort>
+  <HumanComputer83.description>[PAWN_nameDef]-ს ჰქონდა შესანიშნავი მეხსიერება და ნიჭი [PAWN_possessive] თავში რთული გამოთვლების შესასრულებლად. ინდუსტრიული სამყაროს დიქტატორმა გადაწყვიტა გამოეყენებინა [PAWN_nameDef], რათა თვალყური ადევნოდა [PAWN_possessive] სახელმწიფოს ფინანსებსა და ხარჯებს.</HumanComputer83.description>
+  <HumanComputer83.title>ადამიანის კომპიუტერი</HumanComputer83.title>
+  <HumanComputer83.titleShort>კომპიუტერი</HumanComputer83.titleShort>
+  <JoywireArtist8.description>[PAWN_nameDef] ურბსამყაროს ლაბორატორიაში მუშაობდა და მომხმარებლის სიამოვნების მაქსიმალიზებისთვის უახლეს ჯოივაირ პროგრამულ უზრუნველყოფას ქმნიდა.
+
+როცა ადგილობრივმა მთავრობამ ჯოივაირის წარმოებაზე მკაცრი შეზღუდვები დააწესა, [PAWN_pronoun]-მა [PAWN_possessive] პროდუქტების შავ ბაზარზე გაყიდვა დაიწყო.</JoywireArtist8.description>
+  <JoywireArtist8.title>joywire მხატვარი</JoywireArtist8.title>
+  <JoywireArtist8.titleShort>ჯოივაირერი</JoywireArtist8.titleShort>
+  <MafiaBoss17.description>[PAWN_nameDef] ურბსამყაროს კრიმინალური სინდიკატის მაღალი რანგის წევრი იყო.
+
+[PAWN_pronoun] მოსყიდავდა ჩინოვნიკებს, [PAWN_possessive] დაქვემდებარებულების ერთგულებას ინარჩუნებდა და ვადაგადაცილებულ გადახდებს — საჭიროების შემთხვევაში ნებისმიერი გზით — ამოიღებდა.</MafiaBoss17.description>
+  <MafiaBoss17.title>მაფიის ბოსი</MafiaBoss17.title>
+  <MafiaBoss17.titleShort>ბოსი</MafiaBoss17.titleShort>
+  <PsychiatricPatient94.description>[PAWN_nameDef]-მა [PAWN_possessive] ზრდასრული ცხოვრების დიდი ნაწილი საგიჟეთში გაატარა. [PAWN_possessive] ინდუსტრიულ მშობლიურ სამყაროში ფსიქიკური დაავადებები ცუდად ესმოდათ და [PAWN_pronoun]-ს უფრო ცხოველივით ექცეოდნენ, ვიდრე ადამიანივით.
+
+მიუხედავად იმისა, რომ ბოლოს [PAWN_pronoun] გამოჯანმრთელდა და გაათავისუფლეს, ამ გამოცდილებამ [PAWN_possessive] ბევრი საბაზისო ცხოვრებისეული უნარი დაასუსტა.</PsychiatricPatient94.description>
+  <PsychiatricPatient94.title>ფსიქიატრიული პაციენტი</PsychiatricPatient94.title>
+  <PsychiatricPatient94.titleShort>პაციენტი</PsychiatricPatient94.titleShort>
+  <Sheriff52.description>[PAWN_nameDef] იყო სამართალდამცველი იზოლირებულ ინდუსტრიულ ქალაქში. [PAWN_pronoun] ეხებოდა წვრილმან დანაშაულს, დავის გადაწყვეტას და ხანდახან მთვრალ სალონში სროლას.</Sheriff52.description>
+  <Sheriff52.title>შერიფი</Sheriff52.title>
+  <Sheriff52.titleShort>შერიფი</Sheriff52.titleShort>
+  <SpaceTactician28.description>[PAWN_nameDef] შეუერთდა კოსმოსურ ფლოტს არასტაბილურ სისტემაში, სავსეა ფართომასშტაბიანი პლანეტათაშორისი ომებით. [PAWN_pronoun] აღმოჩნდა, რომ ჰქონდა მკვეთრი გონება ბრძოლისთვის და დახელოვნებული გახდა საბრძოლო ნაწილების მეთაურობაში დიდი ეფექტით.</SpaceTactician28.description>
+  <SpaceTactician28.title>კოსმოსური ტაქტიკოსი</SpaceTactician28.title>
+  <SpaceTactician28.titleShort>ტაქტიკოსი</SpaceTactician28.titleShort>
+  <StarshipJanitor33.description>სანამ სხვა მგზავრები გადიან ვარსკვლავურ სისტემებს შორის წლებს კრიპტოძილის სარკოფაგებში, [PAWN_nameDef] პერიოდულად უნდა გამოფხიზლებულიყო ინსპექტირების ჩასატარებლად, სანავიგაციო სისტემების შესამოწმებლად და მექანოიდების ზეთის გადასატანად.</StarshipJanitor33.description>
+  <StarshipJanitor33.title>ვარსკვლავური ხომალდის დამლაგებელი</StarshipJanitor33.title>
+  <StarshipJanitor33.titleShort>დამლაგებელი</StarshipJanitor33.titleShort>
+  <Taxonomist0.description>[PAWN_nameDef] იმოგზაურა ვარსკვლავურ სისტემებს შორის, სწავლობდა და კლასიფიცირებდა მცენარეთა და ცხოველთა სამყაროს [PAWN_pronoun], სრული კატალოგის შექმნის იმედით.</Taxonomist0.description>
+  <Taxonomist0.title>ტაქსონომისტი</Taxonomist0.title>
+  <Taxonomist0.titleShort>ტაქსონომისტი</Taxonomist0.titleShort>
+  <UrbworldDrone32.description>[PAWN_nameDef] მუშაობდა როგორც უგუნური სამშენებლო დრონი უზარმაზარ ქალაქურ სამყაროზე. მიუხედავად იმისა, რომ [PAWN_pronoun] ახლა გათავისუფლდა იმ სასტიკი სოციალური ექსპერიმენტებისგან, რომლებსაც [PAWN_pronoun] დაექვემდებარა, [PAWN_pronoun] რჩება შემოქმედებითი აზროვნებისა და ლიდერობის უნარის გარეშე.</UrbworldDrone32.description>
+  <UrbworldDrone32.title>Urbworld დრონი</UrbworldDrone32.title>
+  <UrbworldDrone32.titleShort>დრონი</UrbworldDrone32.titleShort>
+  <UrbworldEntrepreneur14.description>ურბსამყაროებში უმეტესობა იტანჯება. მაგრამ კორპორაციები ვიღაცამ ხომ უნდა მართოს.
+
+[PAWN_nameDef]-მა საქმის უნარები აითვისა — ქრთამით საქმის მოგვარება და ტექნიკური ანალიზი. [PAWN_pronoun] ნამდვილი სოციოინტელექტუალური მანქანაა.</UrbworldEntrepreneur14.description>
+  <UrbworldEntrepreneur14.title>urbworld მეწარმე</UrbworldEntrepreneur14.title>
+  <UrbworldEntrepreneur14.titleShort>მეწარმე</UrbworldEntrepreneur14.titleShort>
+  <UrbworldRebel56.description>ადამიანების უმეტესობამ [PAWN_nameDef]-ის სამყაროში უარი თქვა თავის ინდივიდუალობაზე, რათა გაერთიანდნენ ონლაინ hivemind-ში. [PAWN_nameDef] შეუერთდა მეამბოხე ფრაქციას, რომელმაც მთლიანად უარყო ტექნოლოგია.</UrbworldRebel56.description>
+  <UrbworldRebel56.title>urbworld მეამბოხე</UrbworldRebel56.title>
+  <UrbworldRebel56.titleShort>მეამბოხე</UrbworldRebel56.titleShort>
+</LanguageData>

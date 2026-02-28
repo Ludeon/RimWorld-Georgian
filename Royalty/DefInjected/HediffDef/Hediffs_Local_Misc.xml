@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Abasia.description>მდგომარეობა, რომლის დროსაც ადამიანს არ შეუძლია სიარული საავტომობილო ქერქის ჩარევით. საკმარისი დროის გასვლის შემდეგ, პაციენტები ბუნებრივად გამოჯანმრთელდებიან, როდესაც ტვინი ახლდება, მაგრამ პროცესი ნელია. ასევე არსებობს იღბლიანი ადრეული გამოჯანმრთელების შანსი. ამ დაავადების სრულად განკურნება შესაძლებელია სპეციალური პროცედურით, მაგრამ პროცედურა მოითხოვს დიდი რაოდენობით ბრჭყვიალა მსოფლიო მედიცინას.</Abasia.description>
+  <Abasia.label>პარალიზური აბაზია</Abasia.label>
+  <BloodRot.description>A slow-growing bacterial disease. The bacteria have little effect on the victim during their growing phase, but upon reaching saturation levels will induce a toxin storm that leads to immediate death.\n\nThe body's immune system will clear blood rot eventually, so the standard treatment is to use normal medicine to suppress it until that happens. Glitterworld doctors can use a massive mechanite dose to clear the infection immediately, but it is expensive.</BloodRot.description>
+  <BloodRot.label>სისხლის ლპობა</BloodRot.label>
+  <BloodRot.stages.0.label>მცირეწლოვანი</BloodRot.stages.0.label>
+  <BloodRot.stages.1.label>მაიორი</BloodRot.stages.1.label>
+  <BloodRot.stages.2.label>უკიდურესი</BloodRot.stages.2.label>
+</LanguageData>

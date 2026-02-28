@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TreeCutting_Disapproved.description>ხის მოჭრა საზიზღარი საქმეა.</TreeCutting_Disapproved.description>
+  <TreeCutting_Disapproved.label>არ მოიწონა</TreeCutting_Disapproved.label>
+  <TreeCutting_Horrible.description>ხის მოჭრა საშინელი საქციელია.</TreeCutting_Horrible.description>
+  <TreeCutting_Horrible.label>საზარელი</TreeCutting_Horrible.label>
+  <TreeCutting_Prohibited.description>ხის მოჭრით ტყის შელახვა ღრმად ამაზრზენი ქმედებაა და არასოდეს უნდა გაკეთდეს.</TreeCutting_Prohibited.description>
+  <TreeCutting_Prohibited.label>აკრძალულია</TreeCutting_Prohibited.label>
+</LanguageData>

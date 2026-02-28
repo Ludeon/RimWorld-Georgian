@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallArchotechArm.description>დააინსტალირეთ არქოტექნიკური მკლავი.</InstallArchotechArm.description>
+  <InstallArchotechArm.jobString>არქოტექნიკის მკლავის დაყენება.</InstallArchotechArm.jobString>
+  <InstallArchotechArm.label>დააინსტალირეთ არქოტექნიკის მკლავი</InstallArchotechArm.label>
+  <InstallArchotechEye.description>დააინსტალირეთ არქოტექნიკური თვალი.</InstallArchotechEye.description>
+  <InstallArchotechEye.jobString>არქოტექნიკური თვალის დაყენება.</InstallArchotechEye.jobString>
+  <InstallArchotechEye.label>დააინსტალირეთ არქოტექნიკური თვალი</InstallArchotechEye.label>
+  <InstallArchotechLeg.description>დააინსტალირეთ არქოტექნიკური ფეხი.</InstallArchotechLeg.description>
+  <InstallArchotechLeg.jobString>არქოტექნიკის ფეხის დაყენება.</InstallArchotechLeg.jobString>
+  <InstallArchotechLeg.label>დააინსტალირეთ არქოტექნიკის ფეხი</InstallArchotechLeg.label>
+</LanguageData>

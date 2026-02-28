@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MineableDestroyed_Disapproved.stages.0.description>მე დავანგრია ბუნებრივი კედელი. არასწორია სამყაროს ამგვარად შეშინება.</MineableDestroyed_Disapproved.stages.0.description>
+  <MineableDestroyed_Disapproved.stages.0.label>დანგრეული ბუნებრივი კედელი</MineableDestroyed_Disapproved.stages.0.label>
+  <MineableDestroyed_Horrible.stages.0.description>მე დავანგრია ბუნებრივი კედელი. ეს იყო ბუნების საშინელი დარღვევა.</MineableDestroyed_Horrible.stages.0.description>
+  <MineableDestroyed_Horrible.stages.0.label>დანგრეული ბუნებრივი კედელი</MineableDestroyed_Horrible.stages.0.label>
+  <MineableDestroyed_Prohibited.stages.0.description>მე დავანგრია ბუნებრივი კედელი. რა საშინელი შეურაცხყოფაა ბუნების მიმართ.</MineableDestroyed_Prohibited.stages.0.description>
+  <MineableDestroyed_Prohibited.stages.0.label>დანგრეული ბუნებრივი კედელი</MineableDestroyed_Prohibited.stages.0.label>
+  <Mined_Disapproved.stages.0.description>ხვრელის მოპოვება მომიწია. მე არ ვეთანხმები დედამიწის ამ გზით ზიანის მიყენებას.</Mined_Disapproved.stages.0.description>
+  <Mined_Disapproved.stages.0.label>დანაღმული</Mined_Disapproved.stages.0.label>
+  <Mined_Horrible.stages.0.description>ხვრელის მოპოვება მომიწია. ეს იყო შეურაცხყოფა დედამიწის წინააღმდეგ.</Mined_Horrible.stages.0.description>
+  <Mined_Horrible.stages.0.label>დანაღმული</Mined_Horrible.stages.0.label>
+  <Mined_Know_Disapproved.stages.0.label>დანაღმული</Mined_Know_Disapproved.stages.0.label>
+  <Mined_Know_Disapproved_Mood.stages.0.description>ვიღაცამ სუფთა დედამიწაზე ხვრელი მოხსნა. არასწორია სამყაროს ამგვარად შეშინება.</Mined_Know_Disapproved_Mood.stages.0.description>
+  <Mined_Know_Disapproved_Mood.stages.0.label>დანაღმული</Mined_Know_Disapproved_Mood.stages.0.label>
+  <Mined_Know_Horrible.stages.0.label>დანაღმული</Mined_Know_Horrible.stages.0.label>
+  <Mined_Know_Horrible_Mood.stages.0.description>ვიღაცამ სუფთა დედამიწაზე ხვრელი მოხსნა. ეს იყო ბუნების საშინელი დარღვევა.</Mined_Know_Horrible_Mood.stages.0.description>
+  <Mined_Know_Horrible_Mood.stages.0.label>დანაღმული</Mined_Know_Horrible_Mood.stages.0.label>
+  <Mined_Know_Prohibited.stages.0.label>დანაღმული</Mined_Know_Prohibited.stages.0.label>
+  <Mined_Know_Prohibited_Mood.stages.0.description>სუფთა დედამიწაზე ხვრელი მოვიპოვეთ. რა საშინელი შეურაცხყოფაა ბუნების მიმართ.</Mined_Know_Prohibited_Mood.stages.0.description>
+  <Mined_Know_Prohibited_Mood.stages.0.label>დანაღმული</Mined_Know_Prohibited_Mood.stages.0.label>
+</LanguageData>

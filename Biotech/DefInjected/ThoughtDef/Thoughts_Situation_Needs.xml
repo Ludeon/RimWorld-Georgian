@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <NeedLearning.stages.0.description>ამდენი ხანი გავიდა რაც ახალი არაფერი ვისწავლე. დავიღალე ერთფეროვნებით!</NeedLearning.stages.0.description>
+  <NeedLearning.stages.0.label>სწავლა-შიმშილი</NeedLearning.stages.0.label>
+  <NeedLearning.stages.1.description>მინდა მეტი ვისწავლო ყველა სახის შესახებ. ეს ადგილი მოსაწყენია!</NeedLearning.stages.1.description>
+  <NeedLearning.stages.1.label>სწავლა-მოკლებული</NeedLearning.stages.1.label>
+  <NeedLearning.stages.2.description>მე მჭირდება მეტი შესაძლებლობა სწავლისთვის და მეტი დრო სწავლისთვის.</NeedLearning.stages.2.description>
+  <NeedLearning.stages.2.label>სწავლა შეუსრულებელი</NeedLearning.stages.2.label>
+  <NeedLearning.stages.3.description>ცოტა ხნის წინ ბევრი რამ ვისწავლე! მოუთმენლად ველოდები მეტის შესწავლას.</NeedLearning.stages.3.description>
+  <NeedLearning.stages.3.label>სწავლა კმაყოფილი</NeedLearning.stages.3.label>
+  <NeedLearning.stages.4.description>იმდენი ვისწავლე! მე მიყვარს ყველა ეს ახალი გამოცდილება.</NeedLearning.stages.4.description>
+  <NeedLearning.stages.4.label>სწავლა სრულად კმაყოფილი</NeedLearning.stages.4.label>
+  <NeedPlay.stages.0.description>ითამაშეთ. თან. მე. ახლავე!</NeedPlay.stages.0.description>
+  <NeedPlay.stages.0.label>უიმედოდ სურს თამაში</NeedPlay.stages.0.label>
+  <NeedPlay.stages.1.description>რატომ არავინ თამაშობს ჩემთან?</NeedPlay.stages.1.description>
+  <NeedPlay.stages.1.label>ძალიან სურს თამაში</NeedPlay.stages.1.label>
+  <NeedPlay.stages.2.description>ეს ადგილი მოსაწყენია.</NeedPlay.stages.2.description>
+  <NeedPlay.stages.2.label>თამაში სურს</NeedPlay.stages.2.label>
+  <NeedPlay.stages.3.description>ძალიან ვხალისობ.</NeedPlay.stages.3.description>
+  <NeedPlay.stages.3.label>გართობა</NeedPlay.stages.3.label>
+  <NeedPlay.stages.4.description>ძალიან ვხალისობ!</NeedPlay.stages.4.description>
+  <NeedPlay.stages.4.label>ძალიან გასართობი</NeedPlay.stages.4.label>
+</LanguageData>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <ActivityMultipleDangerous>საშიში აქტივობის დონეები</ActivityMultipleDangerous>
+  <ActivityDangerousDesc>ეს პირები არიან სახიფათოდ მაღალ აქტივობაზე</ActivityDangerousDesc>  
+  <ActivityDangerousDescAppended>როდესაც ერთეული მიაღწევს აქტივობის 100%-ს, ის გახდება საშიში.\n\nგაგზავნეთ თქვენი უფროსი ამ ერთეულების აღსაკვეთად, ან ჩართეთ ავტომატური ჩახშობა სუბიექტის აქტივობის პანელის გამოყენებით.</ActivityDangerousDescAppended>
+
+  <NeedAnomalyProject>საჭიროა ანომალიური პროექტი</NeedAnomalyProject>
+  <NeedAnomalyProjectDesc>თქვენ გაქვთ საკვლევად მონიშნული ერთეული, მაგრამ არ გაქვთ არჩეული შესაბამისი ანომალიის კვლევის პროექტი:</NeedAnomalyProjectDesc>
+  <NeedAnomalyProjectDescLine>საჭიროა {NAME} ანომალიის კვლევის პროექტი</NeedAnomalyProjectDescLine>
+  <NeedAnomalyProjectDescAppended>გახსენით კვლევის მენიუ და აირჩიეთ პროექტი ანომალიის ჩანართზე.\n\nშეგიძლიათ ერთდროულად აირჩიოთ ძირითადი და გაფართოებული კვლევის პროექტი.\n\n(დააწკაპუნეთ კვლევის მენიუს გასახსნელად.)</NeedAnomalyProjectDescAppended>
+
+  <CreepJoinerTimeout>სტუმარმა დააიგნორა</CreepJoinerTimeout>
+  <CreepJoinerTimeoutDesc>შემდეგი ვიზიტორები თავს იგნორებულად გრძნობენ და სულ უფრო ნერვიულობენ</CreepJoinerTimeoutDesc>
+  <CreepJoinerTimeoutDescAppended>აირჩიეთ კოლონისტი და დააწკაპუნეთ მაუსის მარჯვენა ღილაკით ვიზიტორზე.\n\nიმოქმედეთ სწრაფად... მათ არ მოსწონთ უგულებელყოფა.</CreepJoinerTimeoutDescAppended>
+
+  <Alert_UndercaveUnstable>მიწისქვეშა არამდგრადი</Alert_UndercaveUnstable>
+  <Alert_UndercaveUnstableDesc>მიწისქვეშა გამოქვაბული არასტაბილური გახდა და მალე ჩამოინგრევა.\n\nგაიყვანეთ თქვენი კოლონისტები, სანამ გვიან არ არის.</Alert_UndercaveUnstableDesc>
+
+  <Alert_CultistPsychicRitual>კულტისტური ფსიქიკური რიტუალი</Alert_CultistPsychicRitual>
+  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef} {INVOKER_nameDef} დაიწყო {RITUAL_definite} რიტუალის შესრულება. თუ არ შეწყვეტთ {INVOKER_objective}-ს, შედეგები შეიძლება იყოს საშინელი.</Alert_CultistPsychicRitualDesc>
+
+  <AlertMeatHunger>გოლური შიმშილი</AlertMeatHunger>
+  <AlertMeatHungerDesc>ამ ღორებს შიმშილი უხდებათ უმი ხორცს</AlertMeatHungerDesc>
+  <AlertMeatHungerDescAppended>მათ შეუძლიათ შეტევა, თუ მალე არ იკვებებიან. მიეცი მათ ხორცი.</AlertMeatHungerDescAppended>
+  
+  <AlertEmergingPitGate>ორმოს კარიბჭის გახსნა</AlertEmergingPitGate>
+  <AlertEmergingPitGateDesc>მიწა თავისთავად იშლება. ორმოს კარიბჭე მალე ჩამოყალიბდება.</AlertEmergingPitGateDesc>
+
+  <Alert_InsufficientContainment>არასაკმარისი შეკავება</Alert_InsufficientContainment>
+  <Alert_InsufficientContainmentDesc>შემდეგი ობიექტები ინახება ოთახებში, რომლებიც არ აკმაყოფილებენ შეკავების მინიმალურ ძალას</Alert_InsufficientContainmentDesc>
+  <Alert_InsufficientContainmentDescAppended>მალე გაქცევენ. ააშენეთ უფრო ძლიერი კედლები, კარები ან სხვა დამჭერი მოწყობილობები მათ შესანარჩუნებლად.</Alert_InsufficientContainmentDescAppended>
+
+  <AlertHoldingPlatform>საჭიროა ჩატარების პლატფორმები</AlertHoldingPlatform>
+  <AlertHoldingPlatformDesc>შექმენით ჰოლდინგის პლატფორმები ან მოათავსეთ დასაჭერი ადგილები დატყვევებული პირების შესანახად და შესასწავლად.</AlertHoldingPlatformDesc>
+
+  <AlertCubeWithdrawal>კუბის გაყვანა</AlertCubeWithdrawal>
+  <AlertCubeWithdrawalDesc>შემდეგი ადამიანები განიცდიან კუბის ამოღებას</AlertCubeWithdrawalDesc>
+  <AlertCubeWithdrawalDescAppended>მათი კანი ქავილს და გონება ჩქარობს, ოქროს კუბთან სიახლოვის სურვილით. მათი სიმპტომები გაუარესდება მანამ, სანამ არ შეძლებენ კუბთან თამაშს.\n\nდარწმუნდით, რომ მათ აქვთ თავისუფალი დრო და მიაღწიონ ოქროს კუბს.</AlertCubeWithdrawalDescAppended>
+
+  <AlertDigestion>შემჭამელი საჭმლის მონელება</AlertDigestion>
+  <AlertDigestionDesc>შემდეგი ადამიანები ან არსებები იჭრება მჭამელის მიერ</AlertDigestionDesc>
+  <AlertDigestionDescAppended>მოკალი მჭამელი, რომ გაათავისუფლოს ისინი, სანამ გვიან არ არის.</AlertDigestionDescAppended>
+  
+  <AlertInhibitorBlocked>ინჰიბიტორი დაბლოკილია</AlertInhibitorBlocked>
+  <AlertInhibitorBlockedDesc>თქვენი ერთ-ერთი ელექტრო ინჰიბიტორი არ ფუნქციონირებს, რადგან ის დაბლოკილია სხვა შენობის მიერ.\n\nგაასუფთავეთ სივრცე ელექტრო ინჰიბიტორის წინ.</AlertInhibitorBlockedDesc>
+
+  <EntityNeedsTreatment>საჭიროა სუბიექტის მკურნალობა</EntityNeedsTreatment>
+  <EntityNeedsTreatmentDesc>ამ პირებს ესაჭიროებათ სამედიცინო მკურნალობა. ამის გარეშე ისინი შეიძლება ტყვეობაში დაიღუპნენ.\n{0}\n\nგააგზავნეთ ექიმი მათ სამკურნალოდ.</EntityNeedsTreatmentDesc>
+
+  <AlertGhoulHypothermia>ღორის ჰიპოთერმია</AlertGhoulHypothermia>
+  <AlertGhoulHypothermiaDesc>ეს მოჩვენებები განიცდიან ჰიპოთერმიას:\n{0}\n\nმიიტანეთ ისინი უფრო თბილ ტემპერატურაზე.</AlertGhoulHypothermiaDesc>
+  
+  <AlertGrayFleshSample>ნაცრისფერი ხორცი</AlertGrayFleshSample>
+  <AlertGrayFleshSampleDesc>თქვენ აღმოაჩინეთ ხორციანი ქსოვილის ზოლი. გააანალიზეთ ის, რომ გაიგოთ მეტი ბიოხელმოწერის შესახებ.</AlertGrayFleshSampleDesc>
+  <AlertNeuralLump>ნერვული სიმსივნე</AlertNeuralLump>
+  <AlertNeuralLumpDesc>ხორცის ნერვის შეკვრამ ჩამოაგდო ნერვული სიმსივნე. გააანალიზეთ ის, რომ ისწავლოთ ხორცის გულის მოკვლა.</AlertNeuralLumpDesc>
+  <AlertRevenantFlesh>გამობრუნებული ხორცი</AlertRevenantFlesh>
+  <AlertRevenantFleshDesc>დაჭრილმა შურისძიებამ თავისი ნაჭერი დატოვა. გააანალიზეთ ის, რომ გაიგოთ, როგორ თვალყური ადევნოთ გამობრუნებულს.</AlertRevenantFleshDesc>
+
+</LanguageData>

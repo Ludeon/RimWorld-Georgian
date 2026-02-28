@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CentipedeBlaster.description>დაადგინეთ სენტიპედის მექანოიდი, რომელიც შეიარაღებულია მძიმე მუხტის აფეთქებით.</CentipedeBlaster.description>
+  <CentipedeBlaster.label>gestate centipede blaster</CentipedeBlaster.label>
+  <Lancer.description>დაადგინეთ ლანსერ მექანოიდი.</Lancer.description>
+  <Lancer.label>gestate lancer</Lancer.label>
+  <Legionary.description>დაადგინეთ ლეგიონერი მექანოიდი.</Legionary.description>
+  <Legionary.label>გესტანტი ლეგიონერი</Legionary.label>
+  <Pikeman.description>დაადგინეთ პიკემენის მექანოიდი.</Pikeman.description>
+  <Pikeman.label>გესტატი პიკემენი</Pikeman.label>
+  <Scorcher.description>დაადგინეთ მცხუნვარე მექანოიდი.</Scorcher.description>
+  <Scorcher.label>gestate scorcher</Scorcher.label>
+  <Scyther.description>დაადგინეთ სკიტერ მექანოიდი.</Scyther.description>
+  <Scyther.label>gestate scyther</Scyther.label>
+  <Tesseron.description>დაადგინეთ ტესერონის მექანოიდი.</Tesseron.description>
+  <Tesseron.label>გესტატის ტესერონი</Tesseron.label>
+</LanguageData>

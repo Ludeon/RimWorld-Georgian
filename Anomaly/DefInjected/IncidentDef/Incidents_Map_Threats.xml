@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChimeraAssault.label>ქიმერას თავდასხმა</ChimeraAssault.label>
+  <DevourerAssault.label>შთანთქმის თავდასხმა</DevourerAssault.label>
+  <DevourerAssault.letterLabel>შთანთქმის შეტევა</DevourerAssault.letterLabel>
+  <DevourerAssault.letterText>A swarm of huge gape-mawed monsters are attacking!\n\nThese creatures' jaws are massive enough to swallow a human whole. Keep your distance!</DevourerAssault.letterText>
+  <FleshbeastAttack.label>ხორცის მხეცის შეტევა</FleshbeastAttack.label>
+  <FleshbeastAttack.letterLabel>ხორცის მხეცის შეტევა</FleshbeastAttack.letterLabel>
+  <FleshbeastAttack.letterText>მიწა თითქოს გზას უთმობს. ქვემოდან ისმის ხორცის ხრაშუნის და ძვლების გაბზარვის ხმები.</FleshbeastAttack.letterText>
+  <FrenziedAnimals.label>გაბრაზებული ცხოველები</FrenziedAnimals.label>
+  <GhoulAttack.label>Ghoul უტევს</GhoulAttack.label>
+  <GhoulAttack.letterLabel>Ghoul უტევს</GhoulAttack.letterLabel>
+  <GhoulAttack.letterText>A vicious humanoid ghoul is attacking!\n\nIt is intent on inhuman savagery and it cannot feel pain. Prepare to defend.</GhoulAttack.letterText>
+  <GorehulkAssault.label>გორჰულკის თავდასხმა</GorehulkAssault.label>
+  <GorehulkAssault.letterLabel>გორჰულკის თავდასხმა</GorehulkAssault.letterLabel>
+  <GorehulkAssault.letterText>ამაზრზენი, ადამიანის მსგავსი სისაძაგლეების ჯგუფი თავს ესხმის! მათ სხეულებს აფუჭებს სქელი კერატინის წვერები, რომლებიც მათ შეუძლიათ შორიდან გაშვება. თუმცა, მათ ხორციან ფორმებს შეუძლიათ მცირე ზიანი მიაყენონ ახლო მანძილზე.</GorehulkAssault.letterText>
+  <HateChanters.label>სიძულვილის მგალობლები</HateChanters.label>
+  <PsychicRitualSiege.label>ფსიქიკური რიტუალური ალყა</PsychicRitualSiege.label>
+  <Revenant.label>გამობრუნებული</Revenant.label>
+  <ShamblerAssault.label>დამლაგებელი თავდასხმა</ShamblerAssault.label>
+  <ShamblerSwarm.label>შამბლერის ხროვა</ShamblerSwarm.label>
+  <ShamblerSwarmAnimals.label>შამბლერის ხროვა</ShamblerSwarmAnimals.label>
+  <SightstealerArrival.label>მტაცებლის ჩამოსვლა</SightstealerArrival.label>
+  <SightstealerSwarm.label>მხედველობის მძარცველები</SightstealerSwarm.label>
+  <SightstealerSwarm.letterLabel>შორეული ყვირილი</SightstealerSwarm.letterLabel>
+  <SightstealerSwarm.letterText>Your colonists hear inhuman shrieks in the distance.\n\nSomething is out there.</SightstealerSwarm.letterText>
+  <SmallShamblerSwarm.label>შამბლერის ხროვა</SmallShamblerSwarm.label>
+  <SmallShamblerSwarm.letterLabel>შამბლერები უახლოვდებიან</SmallShamblerSwarm.letterLabel>
+  <SmallShamblerSwarm.letterText>A small group of {0} shambling corpses is approaching. The inhuman force that animates them is fading, so they will collapse within a day.\n\nIf you can capture one, you can study it for anomaly knowledge. Otherwise, they might not notice you if you leave them alone.</SmallShamblerSwarm.letterText>
+</LanguageData>

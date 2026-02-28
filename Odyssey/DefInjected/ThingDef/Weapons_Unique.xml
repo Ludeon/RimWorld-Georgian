@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bow_Great_Unique.description>დიდი მშვილდი მორგებული ნაწილებით.</Bow_Great_Unique.description>
+  <Bow_Great_Unique.label>უნიკალური დიდი მშვილდი</Bow_Great_Unique.label>
+  <Gun_AssaultRifle_Unique.description>თავდასხმის თოფი მორგებული ნაწილებით.</Gun_AssaultRifle_Unique.description>
+  <Gun_AssaultRifle_Unique.label>უნიკალური თავდასხმის თოფი</Gun_AssaultRifle_Unique.label>
+  <Gun_BeamRepeater_Unique.description>სხივის გამეორება მორგებული ნაწილებით.</Gun_BeamRepeater_Unique.description>
+  <Gun_BeamRepeater_Unique.label>უნიკალური სხივის გამეორება</Gun_BeamRepeater_Unique.label>
+  <Gun_BoltActionRifle_Unique.description>ჭანჭიკიანი თოფი მორგებული ნაწილებით.</Gun_BoltActionRifle_Unique.description>
+  <Gun_BoltActionRifle_Unique.label>უნიკალური ხრახნიანი თოფი</Gun_BoltActionRifle_Unique.label>
+  <Gun_ChainShotgun_Unique.description>ჯაჭვის თოფი მორგებული ნაწილებით.</Gun_ChainShotgun_Unique.description>
+  <Gun_ChainShotgun_Unique.label>უნიკალური ჯაჭვის თოფი</Gun_ChainShotgun_Unique.label>
+  <Gun_ChargeLance_Unique.description>დამუხტვის ლანჩი მორგებული ნაწილებით.</Gun_ChargeLance_Unique.description>
+  <Gun_ChargeLance_Unique.label>უნიკალური დამუხტვის შუბი</Gun_ChargeLance_Unique.label>
+  <Gun_ChargeRifle_Unique.description>დამუხტვის თოფი მორგებული ნაწილებით.</Gun_ChargeRifle_Unique.description>
+  <Gun_ChargeRifle_Unique.label>უნიკალური დამუხტვის თოფი</Gun_ChargeRifle_Unique.label>
+  <Gun_HeavySMG_Unique.description>მძიმე SMG მორგებული ნაწილებით.</Gun_HeavySMG_Unique.description>
+  <Gun_HeavySMG_Unique.label>უნიკალური მძიმე SMG</Gun_HeavySMG_Unique.label>
+  <Gun_HellcatRifle_Unique.description>Hellcat-ის თოფი მორგებული ნაწილებით.</Gun_HellcatRifle_Unique.description>
+  <Gun_HellcatRifle_Unique.label>უნიკალური ჯოჯოხეთის თოფი</Gun_HellcatRifle_Unique.label>
+  <Gun_LMG_Unique.description>LMG მორგებული ნაწილებით.</Gun_LMG_Unique.description>
+  <Gun_LMG_Unique.label>უნიკალური LMG</Gun_LMG_Unique.label>
+  <Gun_Minigun_Unique.description>მინი თოფი მორგებული ნაწილებით.</Gun_Minigun_Unique.description>
+  <Gun_Minigun_Unique.label>უნიკალური მინიგუნი</Gun_Minigun_Unique.label>
+  <Gun_Revolver_Unique.description>რევოლვერი მორგებული ნაწილებით.</Gun_Revolver_Unique.description>
+  <Gun_Revolver_Unique.label>უნიკალური რევოლვერი</Gun_Revolver_Unique.label>
+  <Gun_SniperRifle_Unique.description>სნაიპერული შაშხანა მორგებული ნაწილებით.</Gun_SniperRifle_Unique.description>
+  <Gun_SniperRifle_Unique.label>უნიკალური სნაიპერული თოფი</Gun_SniperRifle_Unique.label>
+</LanguageData>

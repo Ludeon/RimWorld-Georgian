@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TimeAsColonistOrColonyAnimal.description>თქვენი საზოგადოებისადმი ლოიალურად გატარებული დრო.</TimeAsColonistOrColonyAnimal.description>
+  <TimeAsColonistOrColonyAnimal.label>დრო, როგორც კოლონისტი</TimeAsColonistOrColonyAnimal.label>
+  <TimeAsPrisoner.description>სულ პატიმარში გატარებული დრო.</TimeAsPrisoner.description>
+  <TimeAsPrisoner.label>დრო, როგორც პატიმარი</TimeAsPrisoner.label>
+  <TimeAsQuestLodger.description>თქვენი საზოგადოების მიერ ქვესტში გატარებული დრო.</TimeAsQuestLodger.description>
+  <TimeAsQuestLodger.label>მასპინძლობდა დრო</TimeAsQuestLodger.label>
+  <TimeCleaning.description>დასუფთავების მთლიანი დრო.</TimeCleaning.description>
+  <TimeCleaning.label>დროის გაწმენდა</TimeCleaning.label>
+  <TimeConstructing.description>შენობების მშენებლობასა და დეკონსტრუქციაზე დახარჯული დრო.</TimeConstructing.description>
+  <TimeConstructing.label>დროის მშენებლობა</TimeConstructing.label>
+  <TimeDowned.description>მთლიანი გატარებული დრო ჩამოგდებულია.</TimeDowned.description>
+  <TimeDowned.label>დრო დაეცა</TimeDowned.label>
+  <TimeDrafted.description>შედგენისას გატარებული დრო.</TimeDrafted.description>
+  <TimeDrafted.label>შედგენილი დრო</TimeDrafted.label>
+  <TimeFirefighting.description>ხანძრის ჩაქრობაზე დახარჯული მთლიანი დრო.</TimeFirefighting.description>
+  <TimeFirefighting.label>ხანძრის ჩაქრობა დროში</TimeFirefighting.label>
+  <TimeGettingFood.description>საკვების პოვნასა და ჭამაზე დახარჯული სულ დრო.</TimeGettingFood.description>
+  <TimeGettingFood.label>საკვების პოვნისა და ჭამის დრო</TimeGettingFood.label>
+  <TimeGettingJoy.description>სულ გასართობზე დახარჯული დრო.</TimeGettingJoy.description>
+  <TimeGettingJoy.label>გართობაზე დახარჯული დრო</TimeGettingJoy.label>
+  <TimeHandlingAnimals.description>ცხოველებთან მოპყრობის მთლიანი დრო.</TimeHandlingAnimals.description>
+  <TimeHandlingAnimals.label>ცხოველებთან დროის მართვა</TimeHandlingAnimals.label>
+  <TimeHauling.description>ნივთების გადაზიდვაზე დახარჯული სულ დრო.</TimeHauling.description>
+  <TimeHauling.label>დროის გაყვანა</TimeHauling.label>
+  <TimeHunting.description>ნადირობის საერთო დრო.</TimeHunting.description>
+  <TimeHunting.label>დროზე ნადირობა</TimeHunting.label>
+  <TimeInBed.description>სულ საწოლში გატარებული დრო.</TimeInBed.description>
+  <TimeInBed.label>დრო საწოლში</TimeInBed.label>
+  <TimeInBedForMedicalReasons.description>სამედიცინო მიზეზების გამო საწოლში გატარებული დრო: მკურნალობის მოლოდინში, დაზიანებებისგან გამოჯანმრთელება ან ოპერაცია.</TimeInBedForMedicalReasons.description>
+  <TimeInBedForMedicalReasons.label>დრო საწოლში სამედიცინო მიზეზების გამო</TimeInBedForMedicalReasons.label>
+  <TimeInMentalState.description>სულ არანორმალურ ფსიქიკურ მდგომარეობაში გატარებული დრო.</TimeInMentalState.description>
+  <TimeInMentalState.label>დრო ფსიქიკურ მდგომარეობაში</TimeInMentalState.label>
+  <TimeMining.description>მაინინგზე დახარჯული დრო.</TimeMining.description>
+  <TimeMining.label>დროის მაინინგი</TimeMining.label>
+  <TimeOnFire.description>სულ ცეცხლზე გატარებული დრო.</TimeOnFire.description>
+  <TimeOnFire.label>ცეცხლის დრო</TimeOnFire.label>
+  <TimeRepairing.description>შეკეთებაზე დახარჯული მთლიანი დრო.</TimeRepairing.description>
+  <TimeRepairing.label>დროის შეკეთება</TimeRepairing.label>
+  <TimeResearching.description>კვლევაზე დახარჯული სულ დრო.</TimeResearching.description>
+  <TimeResearching.label>დროის კვლევა</TimeResearching.label>
+  <TimeSowingAndHarvesting.description>მცენარეების თესვის, მოსავლისა და მოჭრის მთლიანი დრო.</TimeSowingAndHarvesting.description>
+  <TimeSowingAndHarvesting.label>თესვისა და მოსავლის აღების დრო</TimeSowingAndHarvesting.label>
+  <TimeTreatingAndFeeding.description>პაციენტების მკურნალობასა და კვებაზე დახარჯული მთლიანი დრო.</TimeTreatingAndFeeding.description>
+  <TimeTreatingAndFeeding.label>მკურნალობისა და კვების დრო</TimeTreatingAndFeeding.label>
+  <TimeUnderRoof.description>სახურავის ქვეშ გატარებული სულ დრო.</TimeUnderRoof.description>
+  <TimeUnderRoof.label>დრო სახურავის ქვეშ</TimeUnderRoof.label>
+  <TimeWardening.description>ჯამურად დახარჯული დრო.</TimeWardening.description>
+  <TimeWardening.label>დროის დაცვა</TimeWardening.label>
+</LanguageData>

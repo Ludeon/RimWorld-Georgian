@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ArtificialBrain.label>ხელოვნური ტვინი</ArtificialBrain.label>
+  <Blade.label>დანა</Blade.label>
+  <FluidReprocessor.label>სითხის რეპროცესორი</FluidReprocessor.label>
+  <HearingSensor.label>ხმის სენსორი</HearingSensor.label>
+  <MechanicalArm.label>მკლავი</MechanicalArm.label>
+  <MechanicalCentipedeBodyFifthRing.label>სხეულის მეხუთე ბეჭედი</MechanicalCentipedeBodyFifthRing.label>
+  <MechanicalCentipedeBodyFirstRing.label>სხეულის პირველი ბეჭედი</MechanicalCentipedeBodyFirstRing.label>
+  <MechanicalCentipedeBodyFourthRing.label>სხეულის მეოთხე ბეჭედი</MechanicalCentipedeBodyFourthRing.label>
+  <MechanicalCentipedeBodySecondRing.label>სხეულის მეორე ბეჭედი</MechanicalCentipedeBodySecondRing.label>
+  <MechanicalCentipedeBodySixthRing.label>სხეულის მეექვსე ბეჭედი</MechanicalCentipedeBodySixthRing.label>
+  <MechanicalCentipedeBodyThirdRing.label>სხეულის მესამე ბეჭედი</MechanicalCentipedeBodyThirdRing.label>
+  <MechanicalFinger.label>თითი</MechanicalFinger.label>
+  <MechanicalFoot.label>ფეხი</MechanicalFoot.label>
+  <MechanicalHand.label>ხელი</MechanicalHand.label>
+  <MechanicalHead.label>ხელმძღვანელი</MechanicalHead.label>
+  <MechanicalLeg.label>ფეხი</MechanicalLeg.label>
+  <MechanicalNeck.label>კისერი</MechanicalNeck.label>
+  <MechanicalShoulder.label>მხრის</MechanicalShoulder.label>
+  <MechanicalThorax.label>გულმკერდის</MechanicalThorax.label>
+  <Reactor.label>რეაქტორი</Reactor.label>
+  <SightSensor.label>ვიზუალური სენსორი</SightSensor.label>
+  <SmellSensor.label>ქიმიური ანალიზატორი</SmellSensor.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalSlaughter_Disapproved.description>ცხოველის დაკვლა მახინჯი საქმეა.</AnimalSlaughter_Disapproved.description>
+  <AnimalSlaughter_Disapproved.label>არ მოიწონა</AnimalSlaughter_Disapproved.label>
+  <AnimalSlaughter_Horrible.description>ცხოველის დაკვლა საშინელებაა.</AnimalSlaughter_Horrible.description>
+  <AnimalSlaughter_Horrible.label>საზარელი</AnimalSlaughter_Horrible.label>
+  <AnimalSlaughter_Prohibited.description>ცხოველების დაკვლა აბსოლუტურად აკრძალულია.</AnimalSlaughter_Prohibited.description>
+  <AnimalSlaughter_Prohibited.label>აკრძალულია</AnimalSlaughter_Prohibited.label>
+</LanguageData>

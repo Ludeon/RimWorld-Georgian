@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Heatstroke.description>სხეულის ფუნქციონირების განზოგადებული დარღვევა, რომელიც გამოწვეულია სითბოს და მზის გადაჭარბებული ზემოქმედებით. მსხვერპლი ხდება თავბრუსხვევა, სუსტი და დაბნეული. გამოჯანმრთელება სწრაფია ერთხელ გრილ ადგილას, მაგრამ თუ სითბოს ზემოქმედება გაგრძელდება, სითბური ინსულტი სიკვდილამდე უარესდება.</Heatstroke.description>
+  <Heatstroke.label>სითბოს დარტყმა</Heatstroke.label>
+  <Heatstroke.stages.0.label>საწყისი</Heatstroke.stages.0.label>
+  <Heatstroke.stages.1.label>საწყისი</Heatstroke.stages.1.label>
+  <Heatstroke.stages.2.label>მცირეწლოვანი</Heatstroke.stages.2.label>
+  <Heatstroke.stages.3.label>სერიოზული</Heatstroke.stages.3.label>
+  <Heatstroke.stages.4.label>უკიდურესი</Heatstroke.stages.4.label>
+  <Hypothermia.description>სხეულის სახიფათო დაბალი ტემპერატურა. თუ ხელახლა არ გახურდება, ჰიპოთერმია უარესდება და მთავრდება სიკვდილით. გამოჯანმრთელება სწრაფია, როგორც კი დაზარალებული ხელახლა გათბება. მოერიდეთ ჰიპოთერმიას ცივ გარემოში თბილი ტანსაცმლის ტარებით.</Hypothermia.description>
+  <Hypothermia.label>ჰიპოთერმია</Hypothermia.label>
+  <Hypothermia.stages.0.label>კანკალებდა</Hypothermia.stages.0.label>
+  <Hypothermia.stages.1.label>კანკალებდა</Hypothermia.stages.1.label>
+  <Hypothermia.stages.2.label>მცირეწლოვანი</Hypothermia.stages.2.label>
+  <Hypothermia.stages.3.label>სერიოზული</Hypothermia.stages.3.label>
+  <Hypothermia.stages.4.label>უკიდურესი</Hypothermia.stages.4.label>
+  <HypothermicSlowdown.description>განსაკუთრებული ბიოლოგიური მდგომარეობა, რომელსაც ზოგიერთი არსება იყენებს უკიდურესი სიცივის გადასარჩენად. იმის ნაცვლად, რომ ცდილობდეს თბილი დარჩეს, არსების სხეულის ქიმიური შემადგენლობა ადაპტირდება, რათა თავიდან აიცილოს შიდა გაყინვა, მიუხედავად ძალიან დაბალი ტემპერატურისა. სხეულის ფუნქციები შენელებულია და შესაძლებლობები მცირდება, მაგრამ სიცივე მუდმივ ზიანს არ აყენებს. ზოგიერთი ბიოლოგი მას ჰიბერნაციის გაღვიძებულ ფორმას უწოდებს.</HypothermicSlowdown.description>
+  <HypothermicSlowdown.label>ჰიპოთერმული შენელება</HypothermicSlowdown.label>
+  <HypothermicSlowdown.stages.0.label>მცირეწლოვანი</HypothermicSlowdown.stages.0.label>
+  <HypothermicSlowdown.stages.1.label>მცირეწლოვანი</HypothermicSlowdown.stages.1.label>
+  <HypothermicSlowdown.stages.2.label>ზომიერი</HypothermicSlowdown.stages.2.label>
+  <HypothermicSlowdown.stages.3.label>სერიოზული</HypothermicSlowdown.stages.3.label>
+  <HypothermicSlowdown.stages.4.label>უკიდურესი</HypothermicSlowdown.stages.4.label>
+</LanguageData>

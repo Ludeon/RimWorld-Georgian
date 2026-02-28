@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BasicRecharger.description>აქ დატენვა შეუძლიათ მსუბუქ მექანოიდებს. დატენვის დროს, ეს დამტენი აწარმოებს ტოქსიკურ ნარჩენებს და ინახავს მათ შიგნით. გადამზიდავებმა დროდადრო უნდა ამოიღონ ნარჩენების პაკეტები.</BasicRecharger.description>
+  <BasicRecharger.label>მექანიკური დამტენი</BasicRecharger.label>
+  <StandardRecharger.description>საშუალო, მძიმე და ულტრამძიმე მექანოიდებს შეუძლიათ გადატვირთვა აქ. დატენვის დროს, ეს დამტენი აწარმოებს ტოქსიკურ ნარჩენებს და ინახავს მათ შიგნით. გადამზიდავებმა დროდადრო უნდა ამოიღონ ნარჩენების პაკეტები.</StandardRecharger.description>
+  <StandardRecharger.label>დიდი მექანიკური დამტენი</StandardRecharger.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Convert_Failure.label>წარუმატებელი კონვერტაცია</Convert_Failure.label>
+  <Convert_Success.label>წარმატებული კონვერტაცია</Convert_Success.label>
+  <ConvertIdeoAttempt.label>კონვერტაციის იდეოლიგიის მცდელობა</ConvertIdeoAttempt.label>
+  <Counsel_Failure.label>წარუმატებელი რჩევა</Counsel_Failure.label>
+  <Counsel_Success.label>წარმატებული რჩევა</Counsel_Success.label>
+  <PreachHealth.label>ჯანმრთელობას უქადაგებდა</PreachHealth.label>
+  <Reassure.label>დარწმუნება</Reassure.label>
+  <Trial_Accuse.label>ბრალდება</Trial_Accuse.label>
+  <Trial_Defend.label>დაიცავი</Trial_Defend.label>
+  <WorkDrive.label>სამუშაო დრაივი</WorkDrive.label>
+</LanguageData>

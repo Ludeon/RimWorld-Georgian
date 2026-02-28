@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BondedAnimalLost.stages.0.description>ასეთი ნაზი, უნიკალური ცხოველია. ეს სამყარო ბოროტია!</BondedAnimalLost.stages.0.description>
+  <BondedAnimalLost.stages.0.label>შეკრული ცხოველი {0} დაკარგული</BondedAnimalLost.stages.0.label>
+  <BondedAnimalReleased.stages.0.description>ასეთი ნაზი, უნიკალური ცხოველია. რატომ უნდა წასულიყო?</BondedAnimalReleased.stages.0.description>
+  <BondedAnimalReleased.stages.0.label>შეკრული ცხოველი {0} გაათავისუფლეს</BondedAnimalReleased.stages.0.label>
+  <ColonistLost.stages.0.description>ჩვენ უბრალოდ დავკარგეთ ვიღაც ჩვენი კოლონიიდან ტრაგიკულად.</ColonistLost.stages.0.description>
+  <ColonistLost.stages.0.label>კოლონისტი დაკარგა</ColonistLost.stages.0.label>
+  <MyAuntLost.stages.0.description>მამიდა დაიკარგა. იმედი მაქვს, ის ერთ დღეს დაგვიბრუნდება.</MyAuntLost.stages.0.description>
+  <MyAuntLost.stages.0.label>მამიდა {0} დაკარგა</MyAuntLost.stages.0.label>
+  <MyBrotherLost.stages.0.description>ჩემი ძმა დაიკარგა. იმედი მაქვს, ის ოდესმე დაგვიბრუნდება.</MyBrotherLost.stages.0.description>
+  <MyBrotherLost.stages.0.label>ჩემი ძმა {0} დაკარგა</MyBrotherLost.stages.0.label>
+  <MyCousinLost.stages.0.description>ჩემი ბიძაშვილი დაიკარგა.</MyCousinLost.stages.0.description>
+  <MyCousinLost.stages.0.label>ჩემი ბიძაშვილი {0} დაკარგა</MyCousinLost.stages.0.label>
+  <MyDaughterLost.stages.0.description>ჩემი ქალიშვილი დაიკარგა. იმედი მაქვს, ის ერთ დღეს დაგვიბრუნდება.</MyDaughterLost.stages.0.description>
+  <MyDaughterLost.stages.0.label>ჩემი ქალიშვილი {0} დაკარგა</MyDaughterLost.stages.0.label>
+  <MyFatherLost.stages.0.description>მამაჩემი დაიკარგა. იმედი მაქვს, ის ოდესმე დაგვიბრუნდება.</MyFatherLost.stages.0.description>
+  <MyFatherLost.stages.0.label>მამაჩემი {0} დაკარგა</MyFatherLost.stages.0.label>
+  <MyFianceeLost.stages.0.description>ჩემი საცოლე დაიკარგა. იმედი მაქვს, ის ერთ დღეს დაგვიბრუნდება.</MyFianceeLost.stages.0.description>
+  <MyFianceeLost.stages.0.label>ჩემი საცოლე {0} დაკარგა</MyFianceeLost.stages.0.label>
+  <MyFianceLost.stages.0.description>ჩემი საქმრო დაიკარგა. იმედი მაქვს, ის ოდესმე დაგვიბრუნდება.</MyFianceLost.stages.0.description>
+  <MyFianceLost.stages.0.label>ჩემი საქმრო {0} დაკარგა</MyFianceLost.stages.0.label>
+  <MyGrandchildLost.stages.0.description>ჩემი შვილიშვილი დაიკარგა. იმედია ოდესმე დაგვიბრუნდებიან.</MyGrandchildLost.stages.0.description>
+  <MyGrandchildLost.stages.0.label>ჩემი შვილიშვილი {0} დაკარგა</MyGrandchildLost.stages.0.label>
+  <MyGrandparentLost.stages.0.description>ჩემი ბებია და ბაბუა დაიკარგა.</MyGrandparentLost.stages.0.description>
+  <MyGrandparentLost.stages.0.label>ჩემი ბებია და ბაბუა {0} დაკარგა</MyGrandparentLost.stages.0.label>
+  <MyHalfSiblingLost.stages.0.description>ჩემი ნახევარძმა დაიკარგა.</MyHalfSiblingLost.stages.0.description>
+  <MyHalfSiblingLost.stages.0.label>ჩემი ნახევარძმა {0} დაკარგა</MyHalfSiblingLost.stages.0.label>
+  <MyHusbandLost.stages.0.description>ჩემი ქმარი დაიკარგა. იმედი მაქვს, ის ოდესმე დაგვიბრუნდება.</MyHusbandLost.stages.0.description>
+  <MyHusbandLost.stages.0.label>ჩემი ქმარი {0} დაკარგა</MyHusbandLost.stages.0.label>
+  <MyKinLost.stages.0.description>ჩემი ნათესავი დაიკარგა.</MyKinLost.stages.0.description>
+  <MyKinLost.stages.0.label>ჩემი ნათესავი {0} დაკარგა</MyKinLost.stages.0.label>
+  <MyLoverLost.stages.0.description>ჩემი შეყვარებული დაიკარგა. იმედი მაქვს, ის ოდესმე დაგვიბრუნდება.</MyLoverLost.stages.0.description>
+  <MyLoverLost.stages.0.label>ჩემი საყვარელი {0} დაკარგა</MyLoverLost.stages.0.label>
+  <MyMotherLost.stages.0.description>დედაჩემი დაიკარგა. იმედი მაქვს, ის ერთ დღეს დაგვიბრუნდება.</MyMotherLost.stages.0.description>
+  <MyMotherLost.stages.0.label>დედაჩემი {0} დაკარგა</MyMotherLost.stages.0.label>
+  <MyNephewLost.stages.0.description>ჩემი ძმისშვილი დაიკარგა. იმედი მაქვს, ის ოდესმე დაგვიბრუნდება.</MyNephewLost.stages.0.description>
+  <MyNephewLost.stages.0.label>ჩემი ძმისშვილი {0} დაკარგა</MyNephewLost.stages.0.label>
+  <MyNieceLost.stages.0.description>ჩემი დისშვილი დაიკარგა. იმედი მაქვს, ის ერთ დღეს დაგვიბრუნდება.</MyNieceLost.stages.0.description>
+  <MyNieceLost.stages.0.label>ჩემი დისშვილი {0} დაკარგა</MyNieceLost.stages.0.label>
+  <MySisterLost.stages.0.description>ჩემი და დაიკარგა. იმედი მაქვს, ის ერთ დღეს დაგვიბრუნდება.</MySisterLost.stages.0.description>
+  <MySisterLost.stages.0.label>ჩემი და {0} დაკარგა</MySisterLost.stages.0.label>
+  <MySonLost.stages.0.description>ჩემი შვილი დაიკარგა. იმედი მაქვს, ის ოდესმე დაგვიბრუნდება.</MySonLost.stages.0.description>
+  <MySonLost.stages.0.label>ჩემი შვილი {0} დაკარგა</MySonLost.stages.0.label>
+  <MyUncleLost.stages.0.description>ბიძაჩემი დაიკარგა. იმედი მაქვს, ის ოდესმე დაგვიბრუნდება.</MyUncleLost.stages.0.description>
+  <MyUncleLost.stages.0.label>ბიძაჩემი {0} დაკარგა</MyUncleLost.stages.0.label>
+  <MyWifeLost.stages.0.description>ჩემი ცოლი დაიკარგა. იმედი მაქვს, ის ერთ დღეს დაგვიბრუნდება.</MyWifeLost.stages.0.description>
+  <MyWifeLost.stages.0.label>ჩემი მეუღლე {0} დაკარგა</MyWifeLost.stages.0.label>
+  <PawnWithBadOpinionLost.stages.0.description>ემსახურება მათ სწორად. ყოველ შემთხვევაში, ამ სამყაროში არის სამართალი.</PawnWithBadOpinionLost.stages.0.description>
+  <PawnWithBadOpinionLost.stages.0.label>ჩემმა კონკურენტმა {0} წააგო</PawnWithBadOpinionLost.stages.0.label>
+  <PawnWithGoodOpinionLost.stages.0.description>ასეთი მშვენიერი ადამიანი, დაკარგული. სამყარო ყოველდღე ბნელდება.</PawnWithGoodOpinionLost.stages.0.description>
+  <PawnWithGoodOpinionLost.stages.0.label>ჩემი მეგობარი {0} დაკარგა</PawnWithGoodOpinionLost.stages.0.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MoodOffsetDepressive.stages.0.description>ბუნებრივი სასჯელი "დეპრესიული" თვისებისგან.</MoodOffsetDepressive.stages.0.description>
+  <MoodOffsetDepressive.stages.0.label>დეპრესიული</MoodOffsetDepressive.stages.0.label>
+  <MoodOffsetOptimist.stages.0.description>ბუნებრივი ბონუსი "ოპტიმისტური" თვისებისგან.</MoodOffsetOptimist.stages.0.description>
+  <MoodOffsetOptimist.stages.0.label>ოპტიმისტი</MoodOffsetOptimist.stages.0.label>
+  <MoodOffsetPessimist.stages.0.description>ბუნებრივი სასჯელი "პესიმისტური" თვისებისგან.</MoodOffsetPessimist.stages.0.description>
+  <MoodOffsetPessimist.stages.0.label>პესიმისტი</MoodOffsetPessimist.stages.0.label>
+  <MoodOffsetSanguine.stages.0.description>ბუნებრივი ბონუსი "სანგიური" თვისებისგან.</MoodOffsetSanguine.stages.0.description>
+  <MoodOffsetSanguine.stages.0.label>სანგვინი</MoodOffsetSanguine.stages.0.label>
+  <MoodOffsetTorturedArtist.stages.0.description>ბუნებრივი სასჯელი "ნატანჯული მხატვრის" თვისებისგან.</MoodOffsetTorturedArtist.stages.0.description>
+  <MoodOffsetTorturedArtist.stages.0.label>ნაწამები მხატვარი</MoodOffsetTorturedArtist.stages.0.label>
+</LanguageData>

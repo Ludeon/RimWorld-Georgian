@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AnimalsLearningFactor.description>ცხოველთა უნარების სწავლის მაჩვენებლის მულტიპლიკატორი.</AnimalsLearningFactor.description>
+  <AnimalsLearningFactor.label>ცხოველების სწავლის ფაქტორი</AnimalsLearningFactor.label>
+  <BedHungerRateFactor.label>საწოლის შიმშილის მაჩვენებლის მულტიპლიკატორი</BedHungerRateFactor.label>
+  <CaravanRidingSpeedFactor.description>მულტიპლიკატორი გამოიყენება ადამიანის მოძრაობის სიჩქარეზე, როდესაც ისინი ამ ცხოველს ქარავანის ნაწილად ატარებენ. ცხოველების გატარება მხოლოდ ქარავანშია შესაძლებელი.</CaravanRidingSpeedFactor.description>
+  <CaravanRidingSpeedFactor.label>ქარავანში სიარულის სიჩქარე</CaravanRidingSpeedFactor.label>
+  <CarryingCapacity.description>რამდენ ნივთს შეუძლია ამ არსებას ხელებით, პირით ან სხვა მანიპულატორებით ტარება.\n\nეს არ ეხება იმ ტვირთს, რომელსაც შორ მანძილზე გადააქვს ქარავანში.</CarryingCapacity.description>
+  <CarryingCapacity.label>ტარების მოცულობა</CarryingCapacity.label>
+  <ComfyTemperatureMax.description>ამ ტემპერატურაზე მაღლა პერსონაჟები თავს ცუდად იგრძნობენ.\n\nთუ ტემპერატურა მნიშვნელოვნად მაღალია, ისინი მიიღებენ სითბურ დარტყმას და საბოლოოდ შეიძლება დაიღუპონ.</ComfyTemperatureMax.description>
+  <ComfyTemperatureMax.label>მაქსიმალური კომფორტული ტემპერატურა</ComfyTemperatureMax.label>
+  <ComfyTemperatureMin.description>ამ ტემპერატურაზე დაბლა პერსონაჟები თავს ცუდად იგრძნობენ.\n\nთუ ტემპერატურა მნიშვნელოვნად დაბალია, ისინი მიიღებენ ჰიპოთერმიასა და მოყინვას და საბოლოოდ შეიძლება დაიღუპონ.</ComfyTemperatureMin.description>
+  <ComfyTemperatureMin.label>მინ კომფორტული ტემპერატურა</ComfyTemperatureMin.label>
+  <CrawlSpeed.description>უჯრედებში ცოცვის სიჩქარე წამში.</CrawlSpeed.description>
+  <CrawlSpeed.label>სეირნობის სიჩქარე</CrawlSpeed.label>
+  <EatingSpeed.description>კვების სიჩქარის მულტიპლიკატორი.</EatingSpeed.description>
+  <EatingSpeed.label>ჭამის სიჩქარე</EatingSpeed.label>
+  <EMPResistance.description>ამ მექანოიდს აქვს სპეციალური დამცავი და დარტყმა-გაფანტული ძაფები, რომლებიც ამცირებს EMP დაზიანების ეფექტს ამ პროცენტით. ეს ამცირებს EMP-ით გამოწვეულ სტუნების ხანგრძლივობას.</EMPResistance.description>
+  <EMPResistance.label>EMP წინააღმდეგობა</EMPResistance.label>
+  <FilthRate.description>რამდენ სიბინძურეს წარმოქმნის ეს არსება.\n\nსაუკეთესოა ასეთი ცხოველები გარეთ, ან ჩალის საფარზე გყავდეთ, სადაც მათი სიბინძურე პრობლემას არ შექმნის.</FilthRate.description>
+  <FilthRate.label>ჭუჭყის მაჩვენებელი</FilthRate.label>
+  <FlightCooldown.description>დასვენების დრო საჭიროა ამ არსების ხელახლა ფრენამდე.</FlightCooldown.description>
+  <FlightCooldown.label>ფრენის გაგრილება</FlightCooldown.label>
+  <ForagedNutritionPerDay.description>საკვების რაოდენობას ეს ადამიანი ავტომატურად მოიპოვებს დღეში ქარავანით მგზავრობისას.</ForagedNutritionPerDay.description>
+  <ForagedNutritionPerDay.label>საკვების რაოდენობა</ForagedNutritionPerDay.label>
+  <GlobalLearningFactor.description>სწავლის მაჩვენებლის მულტიპლიკატორი ყველა უნარისთვის.</GlobalLearningFactor.description>
+  <GlobalLearningFactor.label>გლობალური სწავლის ფაქტორი</GlobalLearningFactor.label>
+  <ImmunityGainSpeed.description>რამდენად სწრაფად იძენს ეს პერსონაჟი დაავადებების წინააღმდეგ იმუნიტეტს.\n\nთუ ეს მეტისმეტად ნელია, პერსონაჟი იმუნიტეტის გამომუშავებამდე შეიძლება დაავადებამ მოკლას.</ImmunityGainSpeed.description>
+  <ImmunityGainSpeed.label>იმუნიტეტის მატების სიჩქარე</ImmunityGainSpeed.label>
+  <InjuryHealingFactor.description>მულტიპლიკატორი გამოიყენება ადამიანის დაზიანების შეხორცების სიჩქარეზე.</InjuryHealingFactor.description>
+  <InjuryHealingFactor.label>ტრავმის სამკურნალო ფაქტორი</InjuryHealingFactor.label>
+  <JoyFallRateFactor.description>სიჩქარის მულტიპლიკატორი, რომელიც ადამიანს სჭირდება დასვენებისთვის, ეცემა.</JoyFallRateFactor.description>
+  <JoyFallRateFactor.label>დასვენების დაცემის მაჩვენებელი</JoyFallRateFactor.label>
+  <LeatherAmount.description>ამ არსების დაკვლის დროს მიღებული ტყავი. ეს მნიშვნელობა მცირდება, თუ არსება არ დაიკლაკება სუფთად, ან თუ ის დაჭრეს მოკვლის დროს.</LeatherAmount.description>
+  <LeatherAmount.label>ტყავის რაოდენობა</LeatherAmount.label>
+  <LifespanFactor.description>სიცოცხლის ხანგრძლივობის ფაქტორი ცვლის არსების ეფექტურ ხანგრძლივობას ხანდაზმულობის დაავადებებამდე დროის შემცირებით ან გახანგრძლივებით. სიცოცხლის ხანგრძლივობის ფაქტორი 100%-ზე მეტი ანელებს დაავადების დაწყებას და ზრდის საერთო სიცოცხლის ხანგრძლივობას, ხოლო სიცოცხლის ხანგრძლივობის ფაქტორი 100%-ზე ნაკლები აჩქარებს დაავადების დაწყებას და ამცირებს სიცოცხლის ხანგრძლივობას.</LifespanFactor.description>
+  <LifespanFactor.label>სიცოცხლის ხანგრძლივობის ფაქტორი</LifespanFactor.label>
+  <MaxFlightTime.description>მაქსიმალური დრო ამ არსებას შეუძლია დარჩეს ფრენაში დაშვებამდე.</MaxFlightTime.description>
+  <MaxFlightTime.label>ფრენის მაქსიმალური დრო</MaxFlightTime.label>
+  <MaxNutrition.description>საკვების რაოდენობა, რომელიც საჭიროა ამ არსების კუჭის სრულად შესავსებად.</MaxNutrition.description>
+  <MaxNutrition.label>მაქსიმალური კვება</MaxNutrition.label>
+  <MeatAmount.description>ამ არსების დაკვლის დროს მიღებული ხორცის რაოდენობა. ეს მნიშვნელობა მცირდება, თუ არსება არ დაიკლაკება სუფთად, ან თუ ის დაჭრეს მოკვლის დროს.</MeatAmount.description>
+  <MeatAmount.label>ხორცის რაოდენობა</MeatAmount.label>
+  <MeditationFocusGain.description>ფსიფოკუსის რაოდენობას, რომელსაც ადამიანი იძენს მედიტაციის დროს, ფოკუსირებული ობიექტების ბონუსების იგნორირებას ახდენს.</MeditationFocusGain.description>
+  <MeditationFocusGain.label>მედიტაციის ფსიფოკუსის მომატება</MeditationFocusGain.label>
+  <MentalBreakThreshold.description>თუ ვინმეს განწყობა ამ ნიშნულზე დაბლაა, მას ფსიქიკური კრიზისის საფრთხე ემუქრება.\n\nკრიზისის სიმძიმე დამოკიდებულია იმაზე, რამდენად დაბლაა განწყობა ამ ზღვართან შედარებით.</MentalBreakThreshold.description>
+  <MentalBreakThreshold.label>გონებრივი შესვენების ბარიერი</MentalBreakThreshold.label>
+  <MinimumHandlingSkill.description>ამ არსების მოთვინიერება, გაწვრთნა ან ბრძანება შეუძლებელია ცხოველებში ამ უნარის მქონე ვინმეს მიერ.</MinimumHandlingSkill.description>
+  <MinimumHandlingSkill.label>მინიმალური მართვის უნარი</MinimumHandlingSkill.label>
+  <MoveSpeed.description>უჯრედებში მოძრაობის სიჩქარე წამში.</MoveSpeed.description>
+  <MoveSpeed.label>მოძრაობის სიჩქარე</MoveSpeed.label>
+  <PainShockThreshold.description>ტკივილის დონე, რომლითაც ეს არსება ქვეითდება ტკივილისგან.</PainShockThreshold.description>
+  <PainShockThreshold.label>ტკივილის შოკის ბარიერი</PainShockThreshold.label>
+  <PsychicEntropyMax.description>ნერვული სიცხის მაქსიმალური რაოდენობა, რომელსაც ინდივიდს შეუძლია უსაფრთხოდ გადაიტანოს.</PsychicEntropyMax.description>
+  <PsychicEntropyMax.label>ნერვული სითბოს ლიმიტი</PsychicEntropyMax.label>
+  <PsychicEntropyRecoveryRate.description>სიჩქარე, რომლითაც ეს ადამიანი ამცირებს ნერვულ სითბოს.</PsychicEntropyRecoveryRate.description>
+  <PsychicEntropyRecoveryRate.label>ნერვული სითბოს აღდგენის სიჩქარე</PsychicEntropyRecoveryRate.label>
+  <PsychicSensitivity.description>უფრო მგრძნობიარე ადამიანები უფრო მეტად განიცდიან ნეგატიურ ფსიქიკურ ეფექტებს და უფრო მეტ სარგებელს იღებენ პოზიტიურიდან. მაღალი ფსიქიკური მგრძნობელობა ასევე ზრდის ნერვული სითბოს ლიმიტს.</PsychicSensitivity.description>
+  <PsychicSensitivity.label>ფსიქიკური მგრძნობელობა</PsychicSensitivity.label>
+  <RestFallRateFactor.description>სიჩქარის მულტიპლიკატორი, რომელიც ადამიანს ძილის სჭირდება, ეცემა.</RestFallRateFactor.description>
+  <RestFallRateFactor.label>ძილის დაცემის მაჩვენებელი</RestFallRateFactor.label>
+  <RestRateMultiplier.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად სწრაფად ისვენებს არსება ძილის დროს.</RestRateMultiplier.description>
+  <RestRateMultiplier.label>დასვენების განაკვეთის მულტიპლიკატორი</RestRateMultiplier.label>
+  <ToxicEnvironmentResistance.description>რამდენად მდგრადია ეს არსება გარემო ტოქსინების ზემოქმედების მიმართ. ეს იცავს ტოქსიკური გამონაბოლქვისა და ლპობის სუნის ზემოქმედებისგან, მაგრამ არა შხამის ან ინექციური შხამის პირდაპირი შეტევებისგან.</ToxicEnvironmentResistance.description>
+  <ToxicEnvironmentResistance.label>ტოქსიკური გარემოს წინააღმდეგობა</ToxicEnvironmentResistance.label>
+  <ToxicResistance.description>რამდენად კარგად ეწინააღმდეგება ეს არსება ტოქსიკურ დაგროვებას.</ToxicResistance.description>
+  <ToxicResistance.label>ტოქსიკური წინააღმდეგობა</ToxicResistance.label>
+  <Wildness.description>ველური არსებების მოთვინიერება, გაწვრთნა და მართვა ბუნებრივად უფრო რთულია.</Wildness.description>
+  <Wildness.label>ველურობა</Wildness.label>
+</LanguageData>

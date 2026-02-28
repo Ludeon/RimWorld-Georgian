@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Interrogate.description>მცველები დაკითხავენ პატიმარს და დააკვირდებიან მათ რეაქციას, რათა დაადგინონ, არიან თუ არა ისინი, ვინც ამბობენ, რომ არიან. მატყუარას გამოვლენის შანსი იზრდება დამკვეთის სოციალური ურთიერთქმედების უნართან ერთად. ყოველთვის არის შანსი, რომ მატყუარა შეუმჩნეველი დარჩეს.</Interrogate.description>
+  <Interrogate.label>დაკითხვა</Interrogate.label>
+  <Study.description>მკვლევარები მათთან ურთიერთობენ ცოდნის მისაღებად.</Study.description>
+  <Study.label>სწავლა</Study.label>
+</LanguageData>

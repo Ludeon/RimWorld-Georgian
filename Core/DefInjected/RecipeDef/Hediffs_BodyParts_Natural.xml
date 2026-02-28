@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallNaturalHeart.description>დააინსტალირეთ ბიოლოგიური გული.</InstallNaturalHeart.description>
+  <InstallNaturalHeart.jobString>გულის დაყენება.</InstallNaturalHeart.jobString>
+  <InstallNaturalHeart.label>დააინსტალირეთ გული</InstallNaturalHeart.label>
+  <InstallNaturalKidney.description>დააინსტალირეთ ბიოლოგიური თირკმელი.</InstallNaturalKidney.description>
+  <InstallNaturalKidney.jobString>თირკმლის ინსტალაცია.</InstallNaturalKidney.jobString>
+  <InstallNaturalKidney.label>თირკმლის დაყენება</InstallNaturalKidney.label>
+  <InstallNaturalLiver.description>დააინსტალირეთ ბიოლოგიური ღვიძლი.</InstallNaturalLiver.description>
+  <InstallNaturalLiver.jobString>ღვიძლის დაყენება.</InstallNaturalLiver.jobString>
+  <InstallNaturalLiver.label>დააინსტალირეთ ღვიძლი</InstallNaturalLiver.label>
+  <InstallNaturalLung.description>დააინსტალირეთ ფილტვი.</InstallNaturalLung.description>
+  <InstallNaturalLung.jobString>ფილტვის დამონტაჟება.</InstallNaturalLung.jobString>
+  <InstallNaturalLung.label>ფილტვის დაყენება</InstallNaturalLung.label>
+</LanguageData>

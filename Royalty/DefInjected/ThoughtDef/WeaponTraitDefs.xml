@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BondedThoughtCalm.stages.0.description>{WEAPON}, ჩემი შეკრული იარაღი, დამამშვიდებელ აზრებს მეჩურჩულება.</BondedThoughtCalm.stages.0.description>
+  <BondedThoughtCalm.stages.0.label>{WEAPON}-ის მშვიდი ფიქრები</BondedThoughtCalm.stages.0.label>
+  <BondedThoughtKind.stages.0.description>{WEAPON}, ჩემი შეკრული იარაღი, კეთილ აზრებს მეჩურჩულება.</BondedThoughtKind.stages.0.description>
+  <BondedThoughtKind.stages.0.label>{WEAPON}-ის კეთილი აზრები</BondedThoughtKind.stages.0.label>
+  <BondedThoughtMuttering.stages.0.description>{WEAPON}, ჩემი შეკრული იარაღი, მიტრიალებს თავში. ზოგჯერ ძნელია იგნორირება.</BondedThoughtMuttering.stages.0.description>
+  <BondedThoughtMuttering.stages.0.label>{WEAPON} წუწუნებს</BondedThoughtMuttering.stages.0.label>
+  <BondedThoughtWailing.stages.0.description>{WEAPON}, ჩემი შეკრული იარაღი, გიჟურად ტირის ჩემს თავში. ვისურვებდი, რომ მისი იგნორირება შემეძლო.</BondedThoughtWailing.stages.0.description>
+  <BondedThoughtWailing.stages.0.label>{WEAPON}-ის ტირილი</BondedThoughtWailing.stages.0.label>
+  <JealousRage.stages.0.description>ჩემი შეკრული იარაღი {WEAPON} ეჭვიანია, მე სხვა იარაღს ვიყენებ. ვგრძნობ გაბრაზებას, რომელიც ის ყვირის ჩემს თავში.</JealousRage.stages.0.description>
+  <JealousRage.stages.0.label>{WEAPON}-ის ეჭვიანობა</JealousRage.stages.0.label>
+  <KillThirst_Weapon.stages.0.description>ჩემი შეკრული იარაღი {WEAPON} გაბრაზებულია, ამდენი ხანი გავიდა მოკვლის გარეშე. ვგრძნობ მის გაბრაზებას.</KillThirst_Weapon.stages.0.description>
+  <KillThirst_Weapon.stages.0.label>{WEAPON}-ის მოკვლის წყურვილი</KillThirst_Weapon.stages.0.label>
+  <OnKill_BadThought.stages.0.description>{WEAPON}-ის მწუხარება მისი მოკვლის გამო ჩემს გონებაზეც მოქმედებს.</OnKill_BadThought.stages.0.description>
+  <OnKill_BadThought.stages.0.label>{WEAPON}-ის მოკვლის სევდა</OnKill_BadThought.stages.0.label>
+  <OnKill_GoodThought.stages.0.description>{WEAPON} გახარებული იყო მისი მოკვლით და ამას მეც ვგრძნობ.</OnKill_GoodThought.stages.0.description>
+  <OnKill_GoodThought.stages.0.label>{WEAPON} კლავს ბედნიერებას</OnKill_GoodThought.stages.0.label>
+</LanguageData>

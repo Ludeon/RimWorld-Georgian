@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Archer25.description>[PAWN_nameDef] იბრძოდა [PAWN_possessive] ტომისთვის. [PAWN_pronoun] და სპეციალიზირებულია მშვილდის, პილას და სხვა დისტანციური იარაღის გამოყენებაში.</Archer25.description>
+  <Archer25.title>მშვილდოსანი</Archer25.title>
+  <Archer25.titleShort>მშვილდოსანი</Archer25.titleShort>
+  <Banished68.description>[PAWN_nameDef]-ის ტომი გააძევეს [PAWN_objective] სისხლიანი კამათის შემდეგ. [PAWN_pronoun] დიდხანს გადარჩა ველურ ბუნებაში მარტო.</Banished68.description>
+  <Banished68.title>განდევნილი</Banished68.title>
+  <Banished68.titleShort>განდევნილი</Banished68.titleShort>
+  <Brave88.description>[PAWN_nameDef] ფლობდა იკვას, ცულებს, ხელკეტებს და სხვა ახლო მანძილის იარაღს [PAWN_possessive] ტომისთვის ბრძოლებში.</Brave88.description>
+  <Brave88.title>მამაცი</Brave88.title>
+  <Brave88.titleShort>მამაცი</Brave88.titleShort>
+  <Butcher40.description>[PAWN_nameDef]-ის მთავარი საქმე სანადირო წვეულებაში იყო ცხოველების დაკვლა. [PAWN_pronoun] გახდა დანის ოსტატი, რომელსაც შეუძლია მოკლე დროში ამოეღო ყველა ღირებული ცალი კარკასიდან.</Butcher40.description>
+  <Butcher40.title>ჯალათი</Butcher40.title>
+  <Butcher40.titleShort>ჯალათი</Butcher40.titleShort>
+  <Carver1.description>[PAWN_nameDef] მოჩუქურთმებული ნამუშევრები [PAWN_possessive] ტომისთვის ხისგან, ქვისგან და ზოგჯერ სხვა ეგზოტიკური მასალებისგან. ნამუშევარი ხან იყიდებოდა, ხან კი ინახებოდა დასახლებების გასალამაზებლად და რიტუალების ფოკუსირებისთვის.</Carver1.description>
+  <Carver1.title>კარვერი</Carver1.title>
+  <Carver1.titleShort>კარვერი</Carver1.titleShort>
+  <CaveBuilder81.description>[PAWN_nameDef] სპეციალიზირებულია გამოქვაბულების კომპლექსის გათხრებისა და მშენებლობაში.</CaveBuilder81.description>
+  <CaveBuilder81.title>გამოქვაბულის მშენებელი</CaveBuilder81.title>
+  <CaveBuilder81.titleShort>გამოქვაბულის მშენებელი</CaveBuilder81.titleShort>
+  <Digger31.description>[PAWN_nameDef] მუშაობდა მაღაროებსა და გამოქვაბულებში, თხრიდა ადგილებს ნივთების შესანახად და საფრთხისგან დასამალად. [PAWN_possessive] ნამუშევარი არაერთხელ უზრუნველყოფდა [PAWN_possessive] მეგობრებს დამალვის ადგილებს.</Digger31.description>
+  <Digger31.title>თხრიან</Digger31.title>
+  <Digger31.titleShort>თხრიან</Digger31.titleShort>
+  <Digger66.description>[PAWN_nameDef] მოჩუქურთმებული საცხოვრებელი ფართები და მოპოვებული მინერალები ბორცვებისა და მთების მხრიდან. [PAWN_pronoun]-მა ისწავლა თავი ისე იგრძნო, როგორც სახლში, კლდის არჩევისას და გამოქვაბულის კედლებს.</Digger66.description>
+  <Digger66.title>თხრიან</Digger66.title>
+  <Digger66.titleShort>თხრიან</Digger66.titleShort>
+  <Excavator55.description>[PAWN_nameDef] მუშაობდა გათხრების ადგილებზე, ამოიღებდა ძვირფას ნივთებსა და მასალებს უძველესი დატკეპნილი ნანგრევებიდან. [PAWN_pronoun]-მა ისწავლა როგორ ამოიცნო ძვირფასი ნივთები მიწაში და გამოიყენოს სხვადასხვა გათხრების ხელსაწყოები.</Excavator55.description>
+  <Excavator55.title>ექსკავატორი</Excavator55.title>
+  <Excavator55.titleShort>ექსკავატორი</Excavator55.titleShort>
+  <Framer37.description>[PAWN_nameDef] პასუხისმგებელი იყო სტრუქტურების აშენებაზე [PAWN_possessive] თანამემამულე ტომებისთვის საცხოვრებლად. ეს მოიცავდა როგორც დროებით ნაგებობებს მომთაბარე მოგზაურობისთვის, ასევე მუდმივ დასახლებებს. სამუშაოს ნაწილი იყო სამშენებლო მასალების შეგროვება ადგილობრივი მცენარეული ცხოვრებიდან.</Framer37.description>
+  <Framer37.title>ფრეიმერი</Framer37.title>
+  <Framer37.titleShort>ფრეიმერი</Framer37.titleShort>
+  <Gatherer70.description>[PAWN_possessive] მცენარეების, ფესვებისა და კენკრის ცოდნის გამოყენებით, [PAWN_nameDef]-ს შეეძლო საკვების პოვნა ყველაზე უნაყოფო პეიზაჟებშიც კი. [PAWN_pronoun] შორს იყო ცხოველებისგან.</Gatherer70.description>
+  <Gatherer70.title>შემგროვებელი</Gatherer70.title>
+  <Gatherer70.titleShort>შემგროვებელი</Gatherer70.titleShort>
+  <Healer46.description>მას შემდეგ, რაც [PAWN_possessive] ტომის უფროსი მკურნალი მოკლეს რეიდის დროს, [PAWN_nameDef] აიღო როლი. [PAWN_pronoun] დახარჯა [PAWN_possessive] დღეები ახლომდებარე ტერიტორიიდან მწვანილისა და მინერალური ნაერთების მოსაძებნად, რათა გამოეყენებინა საოცრად ეფექტური საშუალებები.</Healer46.description>
+  <Healer46.title>მკურნალი</Healer46.title>
+  <Healer46.titleShort>მკურნალი</Healer46.titleShort>
+  <HearthTender66.description>სანამ დანარჩენები ნადირობდნენ და საკვებს ეძებდნენ, [PAWN_nameDef] სახლში რჩებოდა საჭმელად და მოუვლიდა ახალგაზრდებსა და ავადმყოფებს.</HearthTender66.description>
+  <HearthTender66.title>კერა ნაზი</HearthTender66.title>
+  <HearthTender66.titleShort>სატენდერო</HearthTender66.titleShort>
+  <Herder33.description>[PAWN_nameDef] აგროვებდა სხვადასხვა ცხოველებს, რათა დაეხმაროს [PAWN_possessive] ტომის გამოკვებასა და ჩაცმაში მოძრაობისას. [PAWN_nameDef]-მა ისწავლა როგორ დაამშვიდოს და მართოს მხეცები და როგორ ნადირობდეს [PAWN_possessive] საკუთარ კვებაზე ბილიკზე.</Herder33.description>
+  <Herder33.title>მწყემსი</Herder33.title>
+  <Herder33.titleShort>მწყემსი</Herder33.titleShort>
+  <Hunter74.description>[PAWN_nameDef] თვალს ადევნებდა, მახეს უგებდა და კლავდა ცხოველებს მათი ხორცისა და ტყავისთვის.\n\n[PAWN_nameDef] იყენებდა როგორც დისტანციურ, ისე ახლო ბრძოლის იარაღს. ხანდახან კი ნადირობდა ცხოველებთან ერთად.</Hunter74.description>
+  <Hunter74.title>მონადირე</Hunter74.title>
+  <Hunter74.titleShort>მონადირე</Hunter74.titleShort>
+  <Logger16.description>[PAWN_nameDef]-მა დაჭრა ხეები და ტომისკენ წაიღო მათი ხე. [PAWN_pronoun] ატარებდა [PAWN_possessive] ცულს მხატვრის დახვეწილობისა და დამუხტვის მუფალის ძალით.</Logger16.description>
+  <Logger16.title>ლოგერი</Logger16.title>
+  <Logger16.titleShort>ლოგერი</Logger16.titleShort>
+  <Loner61.description>[PAWN_nameDef]-ს არც ტომის საბჭო უყვარდა და არც წლიური დღესასწაულები. [PAWN_pronoun] ღია ველსა და ქვებს შორის გამავალი ქარის სტვენა ერჩივნა.\n\n[PAWN_pronoun] დროდადრო [PAWN_possessive] ტომს სტუმრობდა, მაგრამ უმეტესად საკუთარ თავზე ზრუნავდა, საკუთარი გადარჩენის უნარებით.</Loner61.description>
+  <Loner61.title>მარტოხელა</Loner61.title>
+  <Loner61.titleShort>მარტოხელა</Loner61.titleShort>
+  <LoreKeeper51.description>[PAWN_nameDef] იყო [PAWN_possessive] ტომის მცველთა ერთ-ერთი გრძელი ხაზი. ყოველ ღამე ცეცხლის გარშემო, [PAWN_pronoun] გადმოსცემდა უძველეს ცოდნას და სასარგებლო სიბრძნეს ისტორიების მეშვეობით.</LoreKeeper51.description>
+  <LoreKeeper51.title>ცნობისმოყვარე მეკარე</LoreKeeper51.title>
+  <LoreKeeper51.titleShort>მეკარე</LoreKeeper51.titleShort>
+  <Malingerer28.description>[PAWN_nameDef] ხშირად აჩვენა ავადმყოფობა, რათა თავიდან აიცილოს [PAWN_possessive] პასუხისმგებლობა. ავადმყოფთა ქოხში დასვენებისას [PAWN_pronoun] ბავშვებს ისტორიებს უყვებოდა.</Malingerer28.description>
+  <Malingerer28.title>მალინჯერერი</Malingerer28.title>
+  <Malingerer28.titleShort>მალინჯერერი</Malingerer28.titleShort>
+  <MuffaloShaman95.description>[PAWN_possessive] მშვიდი სიბრძნისა და დიდი ძალის გამო, [PAWN_nameDef] გახდა [PAWN_possessive] ტომის სულიერი მეგზური. [PAWN_pronoun] განსაკუთრებული კავშირი ჰქონდა მუფალოს დიდ სულთან.</MuffaloShaman95.description>
+  <MuffaloShaman95.title>მუფალო შამანი</MuffaloShaman95.title>
+  <MuffaloShaman95.titleShort>შამანი</MuffaloShaman95.titleShort>
+  <PlankCutter72.description>[PAWN_nameDef] დაეხმარა [PAWN_possessive] ტომს უზარმაზარი ხის ნაგებობების აშენებაში ხეების მტკიცე ფიცრებად დაჭრით. [PAWN_nameDef]-მა შეიმუშავა კარგად იმის გაგება, თუ როგორ იზრდება და იშლება ხე.</PlankCutter72.description>
+  <PlankCutter72.title>ფიცრის საჭრელი</PlankCutter72.title>
+  <PlankCutter72.titleShort>ფიცრის საჭრელი</PlankCutter72.titleShort>
+  <Scout59.description>მას შემდეგ, რაც [PAWN_possessive] ტომმა დაამყარა კონტაქტი ადგილობრივ გარეუბნებთან, [PAWN_nameDef] კონტრაქტი გაუფორმა [PAWN_possessive] სერვისებს მეგზურად. უძველეს ტექნოლოგიასთან ხშირი კონტაქტმა [PAWN_objective] კომფორტული გახადა დაკარგული მანქანებით.</Scout59.description>
+  <Scout59.title>მზვერავი</Scout59.title>
+  <Scout59.titleShort>მზვერავი</Scout59.titleShort>
+  <StewKeeper95.description>[PAWN_nameDef] ამზადებდა კერძებს მცენარეებისა და ცხოველებისგან, რომლებიც შემოჰქონდათ [PAWN_possessive] ტომის შემგროვებლების, ფერმერების და მონადირეების მიერ. [PAWN_pronoun] უნდა დარწმუნდეს, რომ ის იყო კალორიული, გრძელვადიანი და ჯანსაღი. [PAWN_pronoun] ხშირად ამუშავებდა და ზოგჯერ აგროვებდა მცენარეებს [PAWN_objective]თვითონ.</StewKeeper95.description>
+  <StewKeeper95.title>ჩაშუშულის მცველი</StewKeeper95.title>
+  <StewKeeper95.titleShort>ჩაშუშული</StewKeeper95.titleShort>
+  <Tamer79.description>[PAWN_nameDef]-ის როლი [PAWN_possessive] ტომში იყო დაკავშირება ბუნებრივ სამყაროსთან - განსაკუთრებით ცხოველთა სამყაროსთან. გარდა სულიერი როლის შესრულებისა, [PAWN_ნაცვალსახელი] ასევე ათვინიერებდა გარეულ მხეცებს და ზრუნავდა მათზე, როცა ისინი ტომს ემსახურებოდნენ.</Tamer79.description>
+  <Tamer79.title>მომთვინიერებელი</Tamer79.title>
+  <Tamer79.titleShort>მომთვინიერებელი</Tamer79.titleShort>
+  <TreehouseBuilder86.description>[PAWN_nameDef] ააშენა სახლები ხეებს შორის და ზოგჯერ შეჩერებული იყო იმისთვის, რომ [PAWN_possessive] ადამიანები იყენებდნენ მოგზაურობისას ან საკვების ძებნას. [PAWN_nameDef]-მა ისწავლა, თუ როგორ უნდა მოძებნოს და გამოიყენოს ველური მცენარეები და როგორ ებრძოლოს გარეულ ცხოველებს.</TreehouseBuilder86.description>
+  <TreehouseBuilder86.title>ხის სახლის მშენებელი</TreehouseBuilder86.title>
+  <TreehouseBuilder86.titleShort>ხის სახლის მშენებელი</TreehouseBuilder86.titleShort>
+  <VengefulHunter32.description>ახლო მეგობრის ცხოველთა თავდასხმის შედეგად გარდაცვალების შემდეგ, [PAWN_nameDef] ნადირობდა პასუხისმგებელ მხეცზე. [PAWN_pronoun] თვალყურს ადევნებდა მას ახლომდებარე სოფელში, მაგრამ იპოვა ერთ-ერთი სოფლის მცხოვრები, რომელსაც მისი ტყავი ეცვა.</VengefulHunter32.description>
+  <VengefulHunter32.title>შურისმაძიებელი მონადირე</VengefulHunter32.title>
+  <VengefulHunter32.titleShort>შურისმაძიებელი</VengefulHunter32.titleShort>
+  <Warrior94.description>[PAWN_nameDef] საშინელი მეომარი იყო, რომელიც ფლობდა მრავალ იარაღს. [PAWN_pronoun] მონაწილეობდა მრავალ ბრძოლაში.</Warrior94.description>
+  <Warrior94.title>მეომარი</Warrior94.title>
+  <Warrior94.titleShort>მეომარი</Warrior94.titleShort>
+  <Weaver63.description>[PAWN_nameDef] ექსპერტი იყო მატყლის, მცენარეული ბოჭკოების და ბუნებრივი საღებავების დამუშავებაში [PAWN_possessive] ნათესავებისთვის ლამაზ ტანსაცმელში. [PAWN_possessive] ხელნაკეთი ნივთებით ხშირად ვაჭრობდნენ სხვა დასახლებებთან.</Weaver63.description>
+  <Weaver63.title>ქსოვა</Weaver63.title>
+  <Weaver63.titleShort>ქსოვა</Weaver63.titleShort>
+</LanguageData>

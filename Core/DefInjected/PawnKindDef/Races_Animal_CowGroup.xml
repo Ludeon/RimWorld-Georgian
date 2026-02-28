@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bison.label>ბიზონი</Bison.label>
+  <Bison.lifeStages.0.label>ბიზონის ხბო</Bison.lifeStages.0.label>
+  <Boomalope.label>ბუმალოპი</Boomalope.label>
+  <Boomalope.lifeStages.0.label>ბუმალოპის ხბო</Boomalope.lifeStages.0.label>
+  <Caribou.label>კარიბუ</Caribou.label>
+  <Caribou.lifeStages.0.label>კარიბუ ხბო</Caribou.lifeStages.0.label>
+  <Cow.label>ძროხა</Cow.label>
+  <Cow.labelMale>ხარი</Cow.labelMale>
+  <Cow.lifeStages.0.label>ხბო</Cow.lifeStages.0.label>
+  <Donkey.label>ვირი</Donkey.label>
+  <Donkey.lifeStages.0.label>ვირის ქლიავი</Donkey.lifeStages.0.label>
+  <Dromedary.label>დრომედარი</Dromedary.label>
+  <Dromedary.lifeStages.0.label>dromedary ხბო</Dromedary.lifeStages.0.label>
+  <Elephant.label>სპილო</Elephant.label>
+  <Elephant.lifeStages.0.label>სპილოს ხბო</Elephant.lifeStages.0.label>
+  <Elk.label>ელკა</Elk.label>
+  <Elk.lifeStages.0.label>ელკის ხბო</Elk.lifeStages.0.label>
+  <Goat.label>თხა</Goat.label>
+  <Goat.labelFemale>თხის ჯიხვი</Goat.labelFemale>
+  <Goat.lifeStages.0.label>თხის ჩვილი</Goat.lifeStages.0.label>
+  <Horse.label>ცხენი</Horse.label>
+  <Horse.labelFemale>კვერნა</Horse.labelFemale>
+  <Horse.labelMale>ცხენოსანი</Horse.labelMale>
+  <Horse.lifeStages.0.label>ქამარი</Horse.lifeStages.0.label>
+  <Muffalo.label>მუფალო</Muffalo.label>
+  <Muffalo.lifeStages.0.label>მუფალოს ხბო</Muffalo.lifeStages.0.label>
+  <Rhinoceros.label>მარტორქა</Rhinoceros.label>
+  <Yak.label>იაკ</Yak.label>
+  <Yak.labelMale>იაკ</Yak.labelMale>
+  <Yak.lifeStages.0.label>იაკის ხბო</Yak.lifeStages.0.label>
+</LanguageData>

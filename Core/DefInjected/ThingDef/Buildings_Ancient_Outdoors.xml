@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientAirConditioner.description>უძველესი კონდიცირების მანქანა. მისი შინაგანი ნაწილი დიდი ხნის წინ გაანადგურეს და რაც არ იყო გაძარცული, მას შემდეგ დაჟანგდა.</AncientAirConditioner.description>
+  <AncientAirConditioner.label>უძველესი კონდიციონერი</AncientAirConditioner.label>
+  <AncientAPC.description>უძველესი ჯავშანტრანსპორტიორის ნაშთები, რომელიც განადგურდა რაიმე სახის მძიმე იარაღით. ყველა სასარგებლო კომპონენტი დიდი ხნის წინ გაძარცვეს ან გაფუჭდა.</AncientAPC.description>
+  <AncientAPC.label>უძველესი დანგრეული APC</AncientAPC.label>
+  <AncientATM.description>უძველესი ბანკომატი. დამტვრეული და დაჟანგებულია, ახლა სრულიად უსარგებლოა.
+როგორ აღმოჩნდა აქ, თქმა ძნელია.</AncientATM.description>
+  <AncientATM.label>უძველესი ბანკომატი</AncientATM.label>
+  <AncientDropshipEngine.description>უძველესი dropship ძრავა. ის სავარაუდოდ სამხედრო ჯარის გადამზიდავიდან ჩამოვიდა. მისი დელიკატური შინაგანი ნაწილი უსარგებლოდ არის დაჟანგული, ხოლო ძვირფასი ნაწილები დიდი ხნის წინ გაძარცვეს.</AncientDropshipEngine.description>
+  <AncientDropshipEngine.label>უძველესი dropship ძრავა</AncientDropshipEngine.label>
+  <AncientFence.description>ბეტონის პანელებით შეერთებული რკინაბეტონის ბოძებისგან დამზადებული უძველესი ღობე.</AncientFence.description>
+  <AncientFence.label>უძველესი გალავანი</AncientFence.label>
+  <AncientGiantWheel.description>გიგანტური ბორბალი, რომელიც მრავალი საუკუნის წინ ჩამოხტა დიდი ავტომობილიდან. რეზინი დაიშალა და ლითონი დაგრეხილი და დაჟანგულია.</AncientGiantWheel.description>
+  <AncientGiantWheel.label>უძველესი გიგანტური ბორბალი</AncientGiantWheel.label>
+  <AncientHydrant.description>უძველესი ჰიდრანტი. ძლიერ დაჟანგებულია და ახლა სრულიად უსარგებლოა.
+როგორ აღმოჩნდა აქ, თქმა ძნელია.</AncientHydrant.description>
+  <AncientHydrant.label>უძველესი ჰიდრანტი</AncientHydrant.label>
+  <AncientJetEngine.description>უძველესი რეაქტიული ძრავა, სავარაუდოდ დიდი თვითმფრინავიდან მოწყვეტილი. მისი დელიკატური შინაგანი ნაწილი უსარგებლოდ არის დაჟანგული, ხოლო ძვირფასი ნაწილები დიდი ხნის წინ გაძარცვეს.</AncientJetEngine.description>
+  <AncientJetEngine.label>უძველესი რეაქტიული ძრავა</AncientJetEngine.label>
+  <AncientLargeContainer.description>გადამზიდავი კონტეინერი უძველესი სატვირთო მანქანისგან. ის უკვე დიდი ხანია უსარგებლობაში გადაიზარდა.</AncientLargeContainer.description>
+  <AncientLargeContainer.label>უძველესი კონტეინერი</AncientLargeContainer.label>
+  <AncientLargeCrate.description>დიდი ყუთი, რომელიც საუკუნეების წინ იყო მიტოვებული. ძალიან დაჟანგულია რაიმეს შესანახად.</AncientLargeCrate.description>
+  <AncientLargeCrate.label>უძველესი დიდი ყუთი</AncientLargeCrate.label>
+  <AncientLargeRustedEngineBlock.description>დიდი, უძველესი ძრავის ბლოკი რაიმე გიგანტური მანქანის ან ენერგიის წყაროდან. ის დაჟანგულია და ყველა სასარგებლო კომპონენტი გაქრა. ვერანაირი რემონტი ვერ გადაარჩენს ამას.</AncientLargeRustedEngineBlock.description>
+  <AncientLargeRustedEngineBlock.label>უძველესი მაკროძრავის ბლოკი</AncientLargeRustedEngineBlock.label>
+  <AncientLongCrate.description>გრძელი, ცარიელი ყუთი, რომელიც საუკუნეების წინ იყო მიტოვებული. ძალიან დაჟანგულია რაიმეს შესანახად.</AncientLongCrate.description>
+  <AncientLongCrate.label>უძველესი გრძელი ყუთი</AncientLongCrate.label>
+  <AncientMegaCannonBarrel.description>ლულა შორეული ქვემეხიდან საარტილერიო ან გემსაწინააღმდეგო გამოყენებისთვის. როცა ახალი იყო, საშინლად ძლიერი უნდა ყოფილიყო. ახლა ის რემონტს სცილდება და ყველა სასარგებლო კომპონენტი გაძარცულია.</AncientMegaCannonBarrel.description>
+  <AncientMegaCannonBarrel.label>უძველესი მეგა-ქვემეხის ლულა</AncientMegaCannonBarrel.label>
+  <AncientMegaCannonTripod.description>სამონტაჟო პლატფორმა, რომელსაც ოდესღაც ეჭირა ერთგვარი ქვემეხი. ის მრავალი წელია გატეხილია და ყველა სასარგებლო კომპონენტი დიდი ხნის წინ გაძარცვეს.</AncientMegaCannonTripod.description>
+  <AncientMegaCannonTripod.label>უძველესი მეგა-ქვემეხის პლატფორმა</AncientMegaCannonTripod.label>
+  <AncientMiniWarwalkerRemains.description>უძველესი ქვემასშტაბიანი ომის პრინტერის დამსხვრეული ნაშთები. დანგრევისას ის ნაწილებიც არ იყო დანგრეული, დიდი ხნის წინ გაძარცვეს.</AncientMiniWarwalkerRemains.description>
+  <AncientMiniWarwalkerRemains.label>უძველესი ომის პრინტერის ნაშთები</AncientMiniWarwalkerRemains.label>
+  <AncientPipelineSection.description>მონაკვეთი უძველესი მილსადენიდან. მას ოდესღაც ძვირფასი სითხე გადაჰქონდა დიდ დისტანციებზე. ახლა ის გაძარცვეს და უსარგებლოდ გაფუჭდა.</AncientPipelineSection.description>
+  <AncientPipelineSection.label>უძველესი მილსადენის მონაკვეთი</AncientPipelineSection.label>
+  <AncientPipes.description>დაჟანგული ძველი მილების თაიგული. ძნელი სათქმელია, როგორ დასრულდა ისინი აქ.</AncientPipes.description>
+  <AncientPipes.label>უძველესი მილები</AncientPipes.label>
+  <AncientPodCar.description>უძველესი პოდ მანქანა, რომელსაც ერთ დროს შეეძლო ავტომატური ფრენა. მისი ძვირფასი ნაწილები დიდი ხნის წინ გაძარცვეს, დანარჩენი კი ძლიერ გაფუჭებულია.</AncientPodCar.description>
+  <AncientPodCar.label>უძველესი ჯიშის მანქანა</AncientPodCar.label>
+  <AncientPostbox.description>უძველესი საფოსტო ყუთი, დამტვრეული და უსარგებლოდ გაფუჭებული. როგორც ჩანს, გაურკვეველი მიზეზით აქ დიდი ხნის წინ გადმოიტანეს.</AncientPostbox.description>
+  <AncientPostbox.label>უძველესი საფოსტო ყუთი</AncientPostbox.label>
+  <AncientRazorWire.description>უძველესი საპარსის მავთულის ნაჭერი. ის მრავალი წელია უარესდება და საფრთხეს აღარ წარმოადგენს.</AncientRazorWire.description>
+  <AncientRazorWire.label>უძველესი საპარსის მავთული</AncientRazorWire.label>
+  <AncientRustedCar.description>უძველესი, გატეხილი მანქანა. ყველაფერი, რაც არ არის დაჟანგული, დიდი ხნის წინ გაძარცვეს.</AncientRustedCar.description>
+  <AncientRustedCar.label>უძველესი მანქანა</AncientRustedCar.label>
+  <AncientRustedCarFrame.description>უძველესი, ჟანგიანი მანქანის ჩარჩო. სხეულის ჭურვი დიდი ხანია ჟანგიანია და არაფრის გამო.</AncientRustedCarFrame.description>
+  <AncientRustedCarFrame.label>უძველესი მანქანის ჩარჩო</AncientRustedCarFrame.label>
+  <AncientRustedDropship.description>უძველესი წვეთოვანი ხომალდის ნაშთები. ძვირფასი ნაწილები დიდი ხნის წინ გაძარცვეს, დანარჩენი კი უსარგებლოდ გახდა.</AncientRustedDropship.description>
+  <AncientRustedDropship.label>უძველესი წვეთოვანი ხომალდი</AncientRustedDropship.label>
+  <AncientRustedEngineBlock.description>უძველესი ძრავის ბლოკი, რომელიც დაჟანგულია. ვერანაირი რემონტი ვერ გადაარჩენს ამას.</AncientRustedEngineBlock.description>
+  <AncientRustedEngineBlock.label>უძველესი ძრავის ბლოკი</AncientRustedEngineBlock.label>
+  <AncientRustedJeep.description>უძველესი, გატეხილი ჯარის გადამზიდავი. ყველაფერი, რაც არ არის დაჟანგული, დიდი ხნის წინ გაძარცვეს.</AncientRustedJeep.description>
+  <AncientRustedJeep.label>უძველესი ჯარის გადამზიდავი</AncientRustedJeep.label>
+  <AncientRustedTruck.description>უძველესი, გატეხილი სატვირთო მანქანა. ყველაფერი სასარგებლო ან დაჟანგდა ან დიდი ხნის წინ გაძარცვეს.</AncientRustedTruck.description>
+  <AncientRustedTruck.label>უძველესი სატვირთო მანქანა</AncientRustedTruck.label>
+  <AncientShipBeacon.description>უძველესი, გატეხილი გემის სანავიგაციო შუქურა. ყველა სასარგებლო კომპონენტი დიდი ხნის წინ გაძარცვეს.</AncientShipBeacon.description>
+  <AncientShipBeacon.label>უძველესი ნავი შუქურა</AncientShipBeacon.label>
+  <AncientShoppingCart.description>უძველესი, დაჟანგული საყიდლების კალათა. ზუსტად როგორ მოხვდა აქ არის საიდუმლო, მაგრამ ისტორია გრძელი და ალბათ საკმაოდ სევდიანია.</AncientShoppingCart.description>
+  <AncientShoppingCart.label>უძველესი საყიდლების კალათა</AncientShoppingCart.label>
+  <AncientSmallCrate.description>პატარა, ცარიელი ყუთი, რომელიც საუკუნეების წინ იყო მიტოვებული. ძალიან დაჟანგულია რაიმეს შესანახად.</AncientSmallCrate.description>
+  <AncientSmallCrate.label>უძველესი პატარა ყუთი</AncientSmallCrate.label>
+  <AncientTank.description>უძველესი ტანკის ნაშთები, რომელიც განადგურდა რაიმე სახის მძიმე იარაღით. ყველა სასარგებლო კომპონენტი დიდი ხნის წინ გაძარცვეს ან გაფუჭდა.</AncientTank.description>
+  <AncientTank.label>უძველესი დანგრეული ტანკი</AncientTank.label>
+  <AncientTankTrap.description>თავდაცვითი გამაგრება მანქანების შესაჩერებლად. ის მრავალი წლის განმავლობაში უარესდება.</AncientTankTrap.description>
+  <AncientTankTrap.label>უძველესი სატანკო ხაფანგი</AncientTankTrap.label>
+  <AncientToilet.description>უძველესი ტუალეტი. დიდი ხნის წინ დამტვრეული, ახლა სრულიად უსარგებლოა.</AncientToilet.description>
+  <AncientToilet.label>უძველესი ტუალეტი</AncientToilet.label>
+  <AncientVendingMachine.description>უძველესი გამყიდველი მანქანა. ის საუკუნეების წინ გაანადგურეს და მძარცველთა თაობებმა მიიღეს ყველა შესაძლო სასარგებლო ნაწილი. როგორ დასრულდა ეს აქ არის საიდუმლო.</AncientVendingMachine.description>
+  <AncientVendingMachine.label>უძველესი გამყიდველი მანქანა</AncientVendingMachine.label>
+  <AncientWarspiderRemains.description>უძველესი საშუალო ზომის მეომრის დანგრეული ნაშთები. არაერთხელ აკრეფილია და გასაძარცველი ღირებული არაფერი დარჩა.</AncientWarspiderRemains.description>
+  <AncientWarspiderRemains.label>უძველესი მეომრების ნაშთები</AncientWarspiderRemains.label>
+  <AncientWarwalkerClaw.description>უძველესი საშუალო ზომის მეომარის თავდასხმის კლანჭები. ეს იარაღი სპეციალიზირებულია მძიმე პლასტელიანი ჯავშანტექნიკის გატეხვაში ახლო მანძილიდან. მისი ღირებული კომპონენტები დიდი ხნის წინ გაძარცვეს.</AncientWarwalkerClaw.description>
+  <AncientWarwalkerClaw.label>უძველესი მეომარი კლანჭი</AncientWarwalkerClaw.label>
+  <AncientWarwalkerFoot.description>უძველესი მეომრის მასიური ფეხი. როგორც ჩანს, იგი მფლობელს რაიმე სახის მძიმე იარაღმა მოაშორა. ყველა სასარგებლო კომპონენტი დიდი ხნის წინ გაძარცვეს ან გაფუჭდა.</AncientWarwalkerFoot.description>
+  <AncientWarwalkerFoot.label>უძველესი მეომარი ფეხით</AncientWarwalkerFoot.label>
+  <AncientWarwalkerLeg.description>დიდი ხნის წინ აქ დავარდნილი საშუალო მასშტაბის მეომარის დამსხვრეული ფეხი. ის მძარცველებმა სუფთად აირჩიეს და არცერთი ღირებული კომპონენტი არ დარჩა.</AncientWarwalkerLeg.description>
+  <AncientWarwalkerLeg.label>უძველესი მეომარი ფეხი</AncientWarwalkerLeg.label>
+  <AncientWarwalkerShell.description>Warwalker-ის ჯავშანტექნიკის უმეტესი ნაწილი. როგორც ჩანს, ის რაღაც კოლოსალურმა იარაღმა სისტემამ გაანადგურა. ყველა ძვირფასი ნაწილი გაძარცვეს, დანარჩენი კი ძლიერ გაფუჭებულია.</AncientWarwalkerShell.description>
+  <AncientWarwalkerShell.label>უძველესი Warwalker ჭურვი</AncientWarwalkerShell.label>
+  <AncientWarwalkerTorso.description>შუა მასშტაბის მეომარის ტანი, რომელიც აქ ძველ დროში დაეცა. ძვირფასი ნაწილები დიდი ხნის წინ გაძარცვეს.</AncientWarwalkerTorso.description>
+  <AncientWarwalkerTorso.label>უძველესი მეომარი ტანი</AncientWarwalkerTorso.label>
+  <AncientWashingMachine.description>უძველესი სარეცხი მანქანა. დამტვრეული და დაჟანგებულია, ახლა სრულიად უსარგებლოა.
+როგორ აღმოჩნდა აქ, თქმა ძნელია.</AncientWashingMachine.description>
+  <AncientWashingMachine.label>უძველესი სარეცხი მანქანა</AncientWashingMachine.label>
+  <AncientWheel.description>უძველესი ბორბალი რაიმე სახის მანქანიდან. რეზინი გაფუჭდა და ლითონი დაგრეხილი და დაჟანგულია.</AncientWheel.description>
+  <AncientWheel.label>უძველესი ბორბალი</AncientWheel.label>
+  <ChunkMechanoidSlag.description>დამსხვრეული მექანოიდის ნაშთები. მიუხედავად იმისა, რომ მისი ამჟამინდელი ფორმით გამოუსადეგარია, მისი დნობა შესაძლებელია ფოლადის აღსადგენად.</ChunkMechanoidSlag.description>
+  <ChunkMechanoidSlag.label>მექანიკური წიდის ნატეხი</ChunkMechanoidSlag.label>
+</LanguageData>

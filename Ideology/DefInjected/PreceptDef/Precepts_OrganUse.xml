@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <OrganUse_Abhorrent.description>ნებისმიერი მოსავლის აღება, ვაჭრობა ან ბუნებრივი ორგანოების დაყენება საზიზღარი ბოროტებაა.</OrganUse_Abhorrent.description>
+  <OrganUse_Abhorrent.label>სრულიად საზიზღარი</OrganUse_Abhorrent.label>
+  <OrganUse_Acceptable.description>ნორმალურია ორგანოების მოსავლის აღება, ყიდვა, დამონტაჟება ან გაყიდვა.</OrganUse_Acceptable.description>
+  <OrganUse_Acceptable.label>მისაღები</OrganUse_Acceptable.label>
+  <OrganUse_HorribleNoSell.description>ორგანოების აღება საშინელებაა. ნებისმიერი ბუნებრივი ორგანოს გაყიდვა საკმაოდ ცუდია. თუმცა, მათი ყიდვა და ინსტალაცია კარგია.</OrganUse_HorribleNoSell.description>
+  <OrganUse_HorribleNoSell.label>არ არის მოსავალი ან გაყიდვა</OrganUse_HorribleNoSell.label>
+  <OrganUse_HorribleSellOK.description>ორგანოების აღება საშინელებაა. თუმცა, მათი ყიდვა, ინსტალაცია ან გაყიდვა ნორმალურია.</OrganUse_HorribleSellOK.description>
+  <OrganUse_HorribleSellOK.label>მოსავალი არ არის</OrganUse_HorribleSellOK.label>
+</LanguageData>

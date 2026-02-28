@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <Gravship>გრავხომალდი</Gravship>
+  <CannotLaunchNoEngine>გრავი ძრავის გარეშე</CannotLaunchNoEngine>
+  <CannotLaunchNotEnoughFuel>არ არის საკმარისი საწვავი</CannotLaunchNotEnoughFuel>
+  <CannotLaunchDestination>ამ დანიშნულების ადგილის მიღწევა შეუძლებელია</CannotLaunchDestination>
+  <CannotLandOnSameTile>ერთსა და იმავე ფილაზე დაშვება შეუძლებელია</CannotLandOnSameTile>
+  <ConnectedSubstructure>დაკავშირებული სუბსტრუქტურა</ConnectedSubstructure>
+  <SubstructureBlueprintsCount>განთავსებულია ქვესტრუქტურის გეგმები</SubstructureBlueprintsCount>
+  <CannotLaunchDisconnected>არ არის დაკავშირებული გრავ ძრავთან</CannotLaunchDisconnected>
+  <CannotLaunchNoSubstructure>არანაირი სუბსტრუქტურა</CannotLaunchNoSubstructure>
+  <CannotLaunchNoThrusters>არ არის განბლოკილი მოქმედი მამოძრავებელი</CannotLaunchNoThrusters>
+  <CannotLaunchOnCooldown>ძრავის გაგრილება: {0}</CannotLaunchOnCooldown>
+  <ChooseWhereToLand>აირჩიეთ სად დაეშვა</ChooseWhereToLand>
+  <GravEngineNotInspected>გაგზავნეთ კოლონისტი ამის შესამოწმებლად.</GravEngineNotInspected>
+  <ChooseWhoShouldInspect>აირჩიეთ ვინ უნდა შეამოწმოს {0_definite}</ChooseWhoShouldInspect>
+  <CannotPilotGravship>საფლავის გაშვება შეუძლებელია</CannotPilotGravship>
+  <PilotGravship>გაშვება gravship</PilotGravship>
+  <FuelAmount>{0} {1_label}</FuelAmount>
+  <GravshipName>საფლავის სახელი</GravshipName>
+  <GravshipRange>საფლავის დიაპაზონი</GravshipRange>
+  <StoredChemfuel>შენახული ქიმიური საწვავი</StoredChemfuel>
+  <ThrusterBlocked>თრუსტერი დაბლოკილია</ThrusterBlocked>
+  <FuelConsumption>საწვავის მოხმარება</FuelConsumption>
+  <FuelPerTile>{0} ქიმიური საწვავი თითო ფილაზე</FuelPerTile>
+  <RequiresSignalJammer>მძიმე იარაღის სისტემები: მიახლოებისთვის საჭიროა სიგნალის ჩამკეტი</RequiresSignalJammer>
+  <GravshipLandingSite>{0} სადესანტო ადგილი</GravshipLandingSite>
+  <ConfirmLandingArea>დაადასტურეთ სადესანტო ადგილი</ConfirmLandingArea>
+  <GravshipBlockedBy>დაბლოკილია {0_label}-ის მიერ</GravshipBlockedBy>
+  <GravshipBlockedByFog>გამოუცნობ უბანში განთავსება შეუძლებელია</GravshipBlockedByFog>
+  <GravshipBlockedByRoof>გადაკეტილია სახურავით</GravshipBlockedByRoof>
+  <GravshipOutOfBounds>რუკის საზღვრებს გარეთ განთავსება შეუძლებელია</GravshipOutOfBounds>
+  <GravshipInNoBuildArea>რუკის კიდესთან ახლოს განთავსება შეუძლებელია</GravshipInNoBuildArea>
+  <GravshipInBlockedArea>დაბლოკილ ადგილას განთავსება შეუძლებელია</GravshipInBlockedArea>
+  <GravshipBlockedByTerrain>{0_label}-ზე განთავსება შეუძლებელია</GravshipBlockedByTerrain>
+  <GravshipMustBeConnectedToLand>უნდა იყოს დაკავშირებული მყარ მიწასთან</GravshipMustBeConnectedToLand>
+  <ConfirmLandingToContinue>დაადასტურეთ სადესანტო ზონა გასაგრძელებლად</ConfirmLandingToContinue>
+  <RitualTargetPilotConsole>მოქმედი საპილოტე კონსოლი</RitualTargetPilotConsole>
+  <GravshipOutcomeChanceLetterExtra>გემის გაშვების საფუძველზე, იყო {0_percentage} უარყოფითი შედეგის შანსი.</GravshipOutcomeChanceLetterExtra>
+  <ThrustersBrokeDown>დაზარალდა შემდეგი მამოძრავებელი საშუალებები</ThrustersBrokeDown>
+  <NoPathToGravship>საფლავისკენ მიმავალი გზა არ არის</NoPathToGravship>
+  <NoPathToPilotConsole>არ არის გზა საპილოტე კონსოლამდე</NoPathToPilotConsole>
+  <PilotConsoleInaccessible>საპილოტე კონსოლი არ არის ხელმისაწვდომი საფლავიდან</PilotConsoleInaccessible>
+  <LaunchDate>გაშვების თარიღი</LaunchDate>
+  <WarningThrusterBlocked>გაფრთხილება: {0} დაიბლოკება {1}-ით.</WarningThrusterBlocked>
+  <WarningThrusterInside>გაფრთხილება: {0} დაიბლოკება შენობაში ყოფნის გამო.</WarningThrusterInside>
+  <GravFacilityMaxSimultaneousConnections>მაქს თითო სამარხზე</GravFacilityMaxSimultaneousConnections>
+  <ShieldNotConnectedToGravship>არ არის დაკავშირებული საფლავთან</ShieldNotConnectedToGravship>
+  <GravshipLaunchInterrupted>Gravship-ის გაშვება შეჩერებულია</GravshipLaunchInterrupted>
+  <NotConnectedToGravEngine>არ არის დაკავშირებული გრავ ძრავთან.</NotConnectedToGravEngine>
+  <ThrusterNotFunctional>არა ფუნქციონალური</ThrusterNotFunctional>
+  <ThrusterNotConnected>არ არის დაკავშირებული გრავ ძრავთან</ThrusterNotConnected>
+  <ThrusterBlockedBy>დაბლოკილია {0_label}-ის მიერ</ThrusterBlockedBy>
+  <MustBeOutside>გარეთ უნდა იყოს</MustBeOutside>
+  <BlockedBySubstructure>დაბლოკილია სუბსტრუქტურით</BlockedBySubstructure>
+  <FailedToBoardGravship>{PAWN_nameDef} ვერ ჯდება {1}</FailedToBoardGravship>
+  <FailedToLeaveGravship>{PAWN_nameDef} ვერ გამოდის {1}</FailedToLeaveGravship>
+  <ViewRange>დიაპაზონის ნახვა</ViewRange>
+  <ViewRangeDesc>იხილეთ საგრაფოს ამჟამინდელი დიაპაზონი მსოფლიო რუკაზე.</ViewRangeDesc>
+
+  
+  <Landmark>ორიენტირი</Landmark>
+  <AnimalHabitat>{ANIMALKIND_label} ჰაბიტატი</AnimalHabitat>
+  <PlantGrove>{0} კორომი</PlantGrove>
+  <WildPlants>{0}</WildPlants>
+  <MineralRich>{MINERAL_label} მდიდარი</MineralRich>
+  <MineralRichDescription>ამ ზონაში ჩვეულებრივზე მეტი {MINERAL_label} საბადოა.</MineralRichDescription>
+
+  
+  <CaveEntranceLetter>გამოქვაბულის შესასვლელი</CaveEntranceLetter>
+  <CaveEntranceLetterText>gravcore ენერგიის ხელმოწერა მოდის ახლომდებარე გამოქვაბულების ქსელიდან. შესასვლელს მწერების სკვები იცავს.\n\nგამოიკვლიეთ გამოქვაბულების ქსელი გრავიურის საპოვნელად.</CaveEntranceLetterText>
+  <InsectAmbushLetter>მწერების ჩასაფრება</InsectAmbushLetter>
+  <InsectAmbushLetterText>მწერები გვირაბებს აწვებიან მიწის ქვემოდან. მოემზადე!</InsectAmbushLetterText>
+  <LetterLabelInsectQueenWarning>ჩახლეჩილი ჭიკჭიკი</LetterLabelInsectQueenWarning>
+  <LetterInsectQueenWarning>ახლომდებარე კედლის მიღმა {PAWN_nameDef}-ს შეუძლია მოისმინოს ჩახლეჩილი პულსაციები, რომელსაც თან ახლავს დაბალი ღრიალი ხმაური. კედლის უკან რაღაც მასიური დევს.</LetterInsectQueenWarning>
+  
+  
+  <ShowVacuumOverlayToggleButton>ვაკუუმის გადაფარვის გადართვა. ეს აჩვენებს, თუ რომელ უბნებს აქვს ვაკუუმი და ამოიცნობს გაჟონვას.\n\nსწორი აღჭურვილობის გარეშე, ვაკუუმის ზემოქმედება შეიძლება სასიკვდილო იყოს.</ShowVacuumOverlayToggleButton>
+  <Vacuum>ვაკუუმი</Vacuum>
+  
+  
+  <CannotSelectOrbitReason>არ არის აღმოჩენილი ორბიტალური მდებარეობები.</CannotSelectOrbitReason>
+  <DyingBecauseExposedToVacuum>კვდება ვაკუუმის ზემოქმედებისგან</DyingBecauseExposedToVacuum>
+  <TracesOfPreciousResource>ვაკსტონი {RESOURCE_label}-ის კვალით</TracesOfPreciousResource>
+  <TransportPodDestinationRequiresSignalJammer>საჭიროებს სიგნალის ჩამკეტს</TransportPodDestinationRequiresSignalJammer>
+  <CannotFunctionInVacuum>ვაკუუმში ვერ ფუნქციონირებს.</CannotFunctionInVacuum>
+  <GravshipOnTileInspectString>გრავხომალდი</GravshipOnTileInspectString>
+  
+  
+  <HackableDoorLocked>გატეხვა გასახსნელად.</HackableDoorLocked>
+  
+  
+  <Fish>თევზი</Fish>
+  <Fishing>თევზაობა</Fishing>
+  <CannotFish>თევზაობა არ შეიძლება</CannotFish>
+  <FishingSpotBlocked>დაბლოკილი</FishingSpotBlocked>
+  <FishingSpotFrozen>გაყინული</FishingSpotFrozen>
+  <FishingSpotUnderTargetPopulation>თევზის მინიმალური პოპულაციის ქვემოთ</FishingSpotUnderTargetPopulation>
+  <FishingSpotOverTargetResourceCount>შენახული თევზი აღემატება თევზჭერის ზონის პარამეტრებს</FishingSpotOverTargetResourceCount>
+  <TabFishing>თევზაობა</TabFishing>
+  <FishPopulation>თევზის პოპულაცია</FishPopulation>
+  <FishPopulationDecline>მოსახლეობის შემცირება</FishPopulationDecline>
+  <FishPopulation_VeryLow>ძალიან დაბალი</FishPopulation_VeryLow>
+  <FishPopulation_Low>დაბალი</FishPopulation_Low> 
+  <FishPopulation_Moderate>ზომიერი</FishPopulation_Moderate>
+  <FishPopulation_Healthy>ჯანსაღი</FishPopulation_Healthy>
+
+  
+  <Sand>ქარიანი ქვიშა</Sand>
+  <SandNone>არავითარი ქვიშა</SandNone>
+  <SandDusting>მტვრიანი</SandDusting>
+  <SandThin>თხელი</SandThin>
+  <SandMedium>საშუალო</SandMedium>
+  <SandThick>სქელი</SandThick>
+  <Sand_Label>ქარიანი ქვიშა</Sand_Label>
+  <JobClearingSand>გაწმენდის ქვიშა.</JobClearingSand>
+  <ClearingSandGerund>გაწმენდის ქვიშა</ClearingSandGerund>
+
+  
+  <StockpileMedicine>მედიკამენტების მარაგი</StockpileMedicine>
+  <StockpileChemfuel>ქიმიური საწვავის მარაგი</StockpileChemfuel>
+  <StockpileComponent>კომპონენტის მარაგი</StockpileComponent>
+  <StockpileWeapons>იარაღის მარაგი</StockpileWeapons>
+  <StockpileDrugs>ნარკოტიკების მარაგი</StockpileDrugs>
+  
+  
+  <SwapOutfit>აღჭურვა outfit</SwapOutfit>
+  <SwapOutfitGizmo>სამოსის აღჭურვა...</SwapOutfitGizmo>
+  <SwapOutfitDesc>უბრძანე კოლონისტს, ჩაიცვას ყველა ტანსაცმელი სტენდზე. კოლონისტი დადებს ნებისმიერ გამოუყენებელ ტანსაცმელს სტენდზე.</SwapOutfitDesc>
+  <CannotSwapOutfit>არ შეუძლია ტანსაცმლის აღჭურვა</CannotSwapOutfit>
+  <OutfitStandEmpty>ეკიპირების სტენდი ცარიელია</OutfitStandEmpty>
+  <EjectApparelTooltip>ამოიღეთ ეს ტანსაცმლის სადგამიდან.</EjectApparelTooltip>
+  
+  
+  <LetterAncientGravEngineDiscoveredLabel>უძველესი გრავი ძრავა</LetterAncientGravEngineDiscoveredLabel>
+  <LetterAncientGravEngineDiscovered>თქვენ აღმოაჩინეთ უძველესი გრავი ძრავა. გაანადგურეთ იგი გრავკორის მისაღებად.</LetterAncientGravEngineDiscovered>
+
+  <PlayerPawnsArriveMethod_Gravship>გრავხომალდი</PlayerPawnsArriveMethod_Gravship>
+
+  
+  <ShowExpandingLandmarksToggleButton>ღირშესანიშნაობებისთვის გაფართოებული ხატების ჩვენების გადართვა.</ShowExpandingLandmarksToggleButton>
+
+  
+  <CerebrexCoreDialog>სანამ {PAWN_nameDef} დადგება ცერებრექსის ბირთვი - ტვინის მსგავსი მასიური ნეირონული ბადე, რომელიც მართავს მექანოიდებს მთელს პლანეტაზე.\n\nგანადგურებული სტაბილიზატორებით, {PAWN_nameDef}-ს ახლა შეუძლია მასზე წვდომა პირდაპირ... მაგრამ რა უნდა გააკეთოს {PAWN_pronoun}-მა ამ სიმძლავრესთან?</CerebrexCoreDialog>
+  <CerebrexCoreOption_Destroy>გაანადგურე ბირთვი</CerebrexCoreOption_Destroy>
+  <CerebrexCoreOption_Scavenge>გაწმენდის ტექნოლოგია</CerebrexCoreOption_Scavenge>
+  <CerebrexCoreOption_Postpone>გადავადება</CerebrexCoreOption_Postpone>
+  <StabilizersRemaining>დარჩენილია სტაბილიზატორები</StabilizersRemaining>
+  <ProducingMechanoids>გესტაციური მექანიზმები.</ProducingMechanoids>
+
+  <OdysseyDestroyedCredits>{PAWN_nameDef} იწყებს ცერებრექსის ბირთვის შიგნით თხელი თმით თხელი ცერებრალური ბადის რღვევას. ბადე ტრიალებს და კვნესის, თითქოს ცოცხალია. ელექტრული რკალი ეშვება გისოსებს შორის - შემდეგ მყისიერად ყველაფერი ბნელდება და უსიცოცხლო ხდება.\n\nმექანოიდური ღრიალი ჩერდება. აქ და მთელ პლანეტაზე, მექანოიდები იწყებენ სამუდამოდ დეაქტივაციას, აღარ ექვემდებარება მეხივის კონტროლს.\n\nმექანოიდური საფრთხე დასრულდა. მაგრამ შენი ამბავი გრძელდება...</OdysseyDestroyedCredits>
+  <OdysseyScavengedCredits>{PAWN_nameDef} იწყებს მუშაობას ბირთვში ჩაფლული დამუშავების კვანძის გასათავისუფლებლად. გისოსების ჩარჩო კრუნჩხავს, ​​თითქოს აგონიაშია. როდესაც {PAWN_nameDef} ათავისუფლებს კვანძს, ბადე იწყებს გამოსწორებას, ასწორებს დაზიანებას. ბირთვი აღადგენს თავის თავდაცვას და იხურება.\n\nკვანძის გადაბრუნებისას, {PAWN_nameDef} უკან იხევს, როდესაც ის სიცოცხლის ნაპერწკალს აჩენს და დროში პულსირებს ბირთვთან. {PAWN_possessive} ხელში {PAWN_nameDef}-ს უჭირავს უთქმელი ძალის იარაღი.\n\nისტორია გრძელდება...</OdysseyScavengedCredits>
+
+  <CoreNotInteractableStabilizersRemaining>დარჩა {0} სტაბილიზატორები</CoreNotInteractableStabilizersRemaining>
+  <CoreNotInteractableDeactivated>გამორთული</CoreNotInteractableDeactivated>
+
+  <CaravanShuttleFuel>შატლის საწვავი</CaravanShuttleFuel>
+
+  <OrbitalScannerScanning>ორბიტალური სიგნალების პასიურად სკანირება.</OrbitalScannerScanning>
+  <OrbitalScannerLocating>ორბიტალური სიგნალის განთავსება</OrbitalScannerLocating>
+
+  <WeaponTraits>მახასიათებლები</WeaponTraits>
+  <UniqueWeapon>უნიკალური იარაღი</UniqueWeapon>
+
+  <ConfirmLoseGravship>ქარავანის რეფორმა მიატოვებს თქვენს მტაცებლობას. დარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?\n\nგადასასვლელად თქვენი სატვირთო გემით, აირჩიეთ საპილოტე კონსოლი, შემდეგ აირჩიეთ „გაშვება“.</ConfirmLoseGravship>
+  <ConfirmLoseShuttle>ქარავნის რეფორმირება მიატოვებს თქვენს შატლს. დარწმუნებული ხართ, რომ გსურთ გააგრძელოთ?\n\nთქვენი შატლით გასასვლელად აირჩიეთ შატლი და შემდეგ აირჩიეთ „გაშვება“.</ConfirmLoseShuttle>
+
+  <BookHasQuest>აღმოაჩინეთ ქვესტი</BookHasQuest>
+  <DiscoveredQuest>აღმოჩენილი</DiscoveredQuest>
+
+  <QuestDiscoveredFromOrbitalScanner>თქვენმა ორბიტალურმა სკანერმა აღმოაჩინა</QuestDiscoveredFromOrbitalScanner>
+  <QuestDiscoveredFromUplink>{HACKER_nameDef}-მა გატეხა ლინკი და აღმოაჩინა</QuestDiscoveredFromUplink>
+
+  
+  <AnimalAttackTarget>შეტევა</AnimalAttackTarget>
+  <AnimalAttackTargetDesc>უბრძანე ამ ცხოველს შეტევა კონკრეტულ სამიზნეზე.</AnimalAttackTargetDesc>
+  <AnimalsAttackTarget>ცხოველები თავს ესხმიან სამიზნეს</AnimalsAttackTarget>
+  <AnimalsAttackTargetDesc>მიმართეთ ყველა დაუფლებულ ცხოველს, რომ შეუტიონ კონკრეტულ სამიზნეს.</AnimalsAttackTargetDesc>
+  <CancelAttack>შეტევის გაუქმება</CancelAttack>
+  <CancelAttackDesc>გაასუფთავეთ ამ ცხოველის ამჟამინდელი სამიზნე.</CancelAttackDesc>
+  <NoMaster>ამ ცხოველს პატრონი არ ჰყავს</NoMaster>
+  <MasterNotSpawned>ამ ცხოველის პატრონი ამ რუკაზე არ არის</MasterNotSpawned>
+  <MessageNotInRangeOfMaster>არა ოსტატის დიაპაზონში.</MessageNotInRangeOfMaster>
+  <MessageAnimalForagedFood>{ANIMAL_nameDef}-მა იპოვა {FOOD_label} საკვების მოძიებისას.</MessageAnimalForagedFood>
+  <ForageTrained>საკვების გაწვრთნილი</ForageTrained>
+  <ForageEnabled>მიეცით საკვების მოძიება</ForageEnabled>
+  <DigEnabled>დაუშვით თხრა</DigEnabled>
+
+  <HatchUnlocked>გახსნილი.</HatchUnlocked>
+
+  <GravshipShieldTip>ხანმოკლე იმპულსის მომგერიებელი ზედაპირი, რომელიც ბლოკავს ჭურვებს. მუშაობს ჩვეულებრივი გასროლისა და ნაღმტყორცნების წინააღმდეგ. ის მყისიერად ითიშება, თუ EMP მოხვდება.</GravshipShieldTip>
+
+</LanguageData>

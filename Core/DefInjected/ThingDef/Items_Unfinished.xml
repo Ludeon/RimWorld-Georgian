@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MinifiedThing.label>შემცირებული ნივთი</MinifiedThing.label>
+  <MinifiedTree.label>მინიფიცირებული ხე</MinifiedTree.label>
+  <UnfinishedApparel.description>ტანსაცმლის დაუმთავრებელი ნაჭერი.</UnfinishedApparel.description>
+  <UnfinishedApparel.label>დაუმთავრებელი ტანსაცმელი</UnfinishedApparel.label>
+  <UnfinishedArmor.description>უბრალო ჯავშნის დაუმთავრებელი ნაჭერი.</UnfinishedArmor.description>
+  <UnfinishedArmor.label>დაუმთავრებელი მარტივი ჯავშანი</UnfinishedArmor.label>
+  <UnfinishedBelt.description>ქამრის დაუმთავრებელი ნაჭერი.</UnfinishedBelt.description>
+  <UnfinishedBelt.label>დაუმთავრებელი ქამარი</UnfinishedBelt.label>
+  <UnfinishedComponent.description>დაუმთავრებელი კომპონენტი.</UnfinishedComponent.description>
+  <UnfinishedComponent.label>დაუმთავრებელი კომპონენტი</UnfinishedComponent.label>
+  <UnfinishedGun.description>რაიმე სახის დაუმთავრებელი იარაღი.</UnfinishedGun.description>
+  <UnfinishedGun.label>დაუმთავრებელი იარაღი</UnfinishedGun.label>
+  <UnfinishedHealthItemBionic.description>დაუმთავრებელი ბიონიკი.</UnfinishedHealthItemBionic.description>
+  <UnfinishedHealthItemBionic.label>დაუმთავრებელი ბიონიკი</UnfinishedHealthItemBionic.label>
+  <UnfinishedHealthItemProsthetic.description>დაუმთავრებელი პროთეზი.</UnfinishedHealthItemProsthetic.description>
+  <UnfinishedHealthItemProsthetic.label>დაუმთავრებელი პროთეზი</UnfinishedHealthItemProsthetic.label>
+  <UnfinishedMask.description>დაუმთავრებელი ნიღაბი.</UnfinishedMask.description>
+  <UnfinishedMask.label>დაუმთავრებელი ნიღაბი</UnfinishedMask.label>
+  <UnfinishedMetallicTechArmor.description>ლითონის ჯავშნის დაუმთავრებელი ნაჭერი.</UnfinishedMetallicTechArmor.description>
+  <UnfinishedMetallicTechArmor.label>დაუმთავრებელი ლითონის ჯავშანი</UnfinishedMetallicTechArmor.label>
+  <UnfinishedPack.description>შეფუთვის დაუმთავრებელი ნაჭერი.</UnfinishedPack.description>
+  <UnfinishedPack.label>დაუმთავრებელი შეკვრა</UnfinishedPack.label>
+  <UnfinishedSculpture.description>დაუმთავრებელი ქანდაკება.</UnfinishedSculpture.description>
+  <UnfinishedSculpture.label>დაუმთავრებელი ქანდაკება</UnfinishedSculpture.label>
+  <UnfinishedTechArmor.description>მაღალტექნოლოგიური ჯავშნის დაუმთავრებელი ნაწილი.</UnfinishedTechArmor.description>
+  <UnfinishedTechArmor.label>დაუმთავრებელი მოწინავე ჯავშანი</UnfinishedTechArmor.label>
+  <UnfinishedWeapon.description>დაუმთავრებელი იარაღი.</UnfinishedWeapon.description>
+  <UnfinishedWeapon.label>დაუმთავრებელი იარაღი</UnfinishedWeapon.label>
+</LanguageData>

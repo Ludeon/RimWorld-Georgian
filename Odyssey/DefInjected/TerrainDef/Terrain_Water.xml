@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HotSpring.label>ცხელი წყაროს წყალი</HotSpring.label>
+  <ToxicWaterDeep.label>ტოქსიკური ღრმა წყალი</ToxicWaterDeep.label>
+  <ToxicWaterMovingChestDeep.label>გულმკერდის სიღრმეში მოძრავი ტოქსიკური წყალი</ToxicWaterMovingChestDeep.label>
+  <ToxicWaterMovingShallow.label>ტოქსიკური ზედაპირული მოძრავი წყალი</ToxicWaterMovingShallow.label>
+  <ToxicWaterOceanDeep.label>ტოქსიკური ღრმა ოკეანის წყალი</ToxicWaterOceanDeep.label>
+  <ToxicWaterOceanShallow.label>ტოქსიკური ზედაპირული ოკეანის წყალი</ToxicWaterOceanShallow.label>
+  <ToxicWaterShallow.label>ტოქსიკური ზედაპირული წყალი</ToxicWaterShallow.label>
+</LanguageData>

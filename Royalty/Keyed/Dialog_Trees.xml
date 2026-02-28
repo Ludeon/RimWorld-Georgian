@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <RequestChangeRoyalHeir>შეცვალეთ {HOLDER_labelShort}-ის {TITLE} ტიტულის მემკვიდრე {HEIR_labelShort}-დან</RequestChangeRoyalHeir>
+  <RequestSetRoyalHeir>დანიშნეთ {HOLDER_labelShort}-ის {TITLE} ტიტულის მემკვიდრე</RequestSetRoyalHeir>
+  <RequestChangeRoyalHeirAlreadyInProgress>უკვე მიმდინარეობს {PAWN_labelShort}-ისთვის</RequestChangeRoyalHeirAlreadyInProgress>
+  
+</LanguageData>

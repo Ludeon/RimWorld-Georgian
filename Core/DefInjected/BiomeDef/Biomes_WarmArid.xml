@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AridShrubland.description>მშრალი რეგიონი, მაგრამ არა საკმარისად მშრალი, რომ გახდეს ნამდვილი უდაბნო. ბალახებითა და ბუჩქებით გაშლილი ვაკეები გზას უთმობს ხეების გაფანტულ კორომებს. მცენარეები გამძლეა და ცხოველთა ზომიერი სიმკვრივეა, მაგრამ სახნავი ნიადაგი ძნელად საპოვნელია.</AridShrubland.description>
+  <AridShrubland.label>მშრალი ბუჩქნარი</AridShrubland.label>
+  <Desert.description>ძალიან მშრალი ტერიტორია, რომელიც მხარს უჭერს მცირე სიცოცხლეს. სახნავი მიწა ძალიან ცოტაა, ცხოველთა ცხოვრება კი ძალიან მწირია. უდაბნოები შეიძლება იყოს ცხელი ან საკმაოდ ცივი.</Desert.description>
+  <Desert.label>უდაბნო</Desert.label>
+  <ExtremeDesert.description>უკიდურესად ცხელი, მშრალი ტერიტორია, რომელიც მოკლებულია თითქმის მთელ სიცოცხლეს. მწვავე სიცხე და სახნავი მიწების თითქმის სრული ნაკლებობა ძალიან ართულებს აქ გადარჩენას.</ExtremeDesert.description>
+  <ExtremeDesert.label>უკიდურესი უდაბნო</ExtremeDesert.label>
+</LanguageData>

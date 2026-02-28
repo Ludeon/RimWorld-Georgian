@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Cloth.description>ორგანული ბოჭკოებისგან ნაქსოვი ქსოვილი.</Cloth.description>
+  <Cloth.label>ქსოვილი</Cloth.label>
+  <DevilstrandCloth.description>ეშმაკის სოკოსგან მოპოვებული მიკრობოჭკოებისგან დაწნული ქსოვილი. ის ძალიან გამძლეა, კარგია იზოლაციაში და განსაკუთრებულად კარგად იცავს ცეცხლს.</DevilstrandCloth.description>
+  <DevilstrandCloth.label>ეშმაკი</DevilstrandCloth.label>
+  <Gold.description>მათგან ყველაზე მაცდუნებელი ლითონი. მიუხედავად იმისა, რომ ის ზედმეტად რბილია პრაქტიკული გამოყენებისთვის, ის საოცრად ლამაზია და არასოდეს აფერხებს. მილიონობით ადამიანი დაიღუპა ოქროს გაუთავებელი წყურვილის გამოკვების მცდელობისას.</Gold.description>
+  <Gold.label>ოქროს</Gold.label>
+  <Hyperweave.description>ნანო-ბოჭკოვანი ნაქსოვი ფურცლებზე მოლეკულა-მოლეკულა სპეციალიზებული წარმოების მექანიტების გამოყენებით. მიუხედავად იმისა, რომ ის თავისუფლად იხრება უმეტეს დროს, ის ძლიერდება დარტყმების შეწოვისას და დარტყმის დროს წარმოუდგენლად რთულია მისი გატეხვა. მისი წარმოების საიდუმლოებები ცნობილია მხოლოდ ყველაზე მოწინავე ბრჭყვიალა სამყაროს კულტურებისთვის.</Hyperweave.description>
+  <Hyperweave.label>ჰიპერქსოვა</Hyperweave.label>
+  <Jade.description>მძიმე, მწვანე ქვა. მისი სილამაზისა და იშვიათობის გამო ნეფრიტი ხშირად გამოიყენება ორნამენტებისა და დეკორაციისთვის. მისი სიმტკიცე და სიმკვრივე ასევე ხდის მას კარგ მასალას ბლაგვი იარაღისთვის.</Jade.description>
+  <Jade.label>ნეფრიტი</Jade.label>
+  <Plasteel.description>გაფართოებული spacer ტექნიკური სტრუქტურული მასალა. პლასტელი ძალიან ძლიერია მისი უნიკალური მოლეკულური სტრუქტურის გამო.</Plasteel.description>
+  <Plasteel.label>პლასტელი</Plasteel.label>
+  <Silver.description>ეს ლითონი ძირითადად გამოიყენება როგორც სასაქონლო ვალუტა. მისი გამოყენება შესაძლებელია დეკორაციის დასამზადებლადაც.</Silver.description>
+  <Silver.label>ვერცხლი</Silver.label>
+  <Steel.description>რკინის ნახშირბადის ლითონის შენადნობი, რომელიც გამოიყენება კონსტრუქციების, იარაღისა და მანქანების უზარმაზარი მრავალფეროვნების შესაქმნელად.</Steel.description>
+  <Steel.label>ფოლადი</Steel.label>
+  <Synthread.description>Spacer-tech სინთეტიკური ქსოვილი განკუთვნილია ჩვეულებრივი ტანსაცმლის დასამზადებლად. ეს არის რბილი, მსუბუქი, ძლიერი და კარგად იზოლირებული.</Synthread.description>
+  <Synthread.label>სინთრედი</Synthread.label>
+  <Uranium.description>მუქი, მძიმე მეტალი. მიუხედავად იმისა, რომ ის ყველაზე ცნობილია, როგორც ბირთვული მოწყობილობების საწვავი, მისი უკიდურესი სიმკვრივე და სიმტკიცე ასევე კარგს ხდის მას გარკვეული იარაღის, ჯავშნისა და საბრძოლო მასალის დასამზადებლად.</Uranium.description>
+  <Uranium.label>ურანი</Uranium.label>
+  <WoodLog.description>ხეები ან სხვა ბოჭკოვანი მცენარეები. სასარგებლოა კონსტრუქციებისა და იარაღის ასაშენებლად. ის კარგი საწვავია კოცონებისა და გენერატორებისთვის და შეიძლება დახვეწოს ქიმიურ საწვავად. ხის ნაჭერი შეიძლება გამოყენებულ იქნას როგორც იარაღი ან ფეხი.</WoodLog.description>
+  <WoodLog.label>ხის</WoodLog.label>
+  <WoolAlpaca.description>ალპაკას საოცრად რბილი მატყლი. თბილია, კარგად იცავს სიცხისგან და ძვირი ღირს.</WoolAlpaca.description>
+  <WoolAlpaca.label>ალპაკას მატყლი</WoolAlpaca.label>
+  <WoolBison.description>ბიზონის სქელი და უხეში ბამბა. საკმაოდ თბილი.</WoolBison.description>
+  <WoolBison.label>ბიზონის ბამბა</WoolBison.label>
+  <WoolMegasloth.description>მიუხედავად იმისა, რომ გარკვეულწილად უხეშია, მეგასლოტი მატყლის გრძელი ბოჭკოები მას ძალიან მტკიცეს ხდის. გამორჩეულად თბილია.</WoolMegasloth.description>
+  <WoolMegasloth.label>მეგასლოტის ბამბა</WoolMegasloth.label>
+  <WoolMuffalo.description>რბილი, მსუბუქი და უზრუნველყოფს ძალიან კარგ იზოლაციას. მუფალოს მატყლის ტანსაცმელს შეუძლია სხეულის სითბოს შენარჩუნება ძალიან ცივ პირობებშიც კი.</WoolMuffalo.description>
+  <WoolMuffalo.label>მუფალოს მატყლი</WoolMuffalo.label>
+  <WoolSheep.description>ცხვრის მატყლი. ის უზრუნველყოფს კარგ იზოლაციას.</WoolSheep.description>
+  <WoolSheep.label>ცხვრის მატყლი</WoolSheep.label>
+</LanguageData>

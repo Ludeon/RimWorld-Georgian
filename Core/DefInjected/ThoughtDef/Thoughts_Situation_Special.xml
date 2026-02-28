@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <Aurora.stages.0.description>ხედი საოცარია.</Aurora.stages.0.description>
+  <Aurora.stages.0.label>ლამაზი ავრორა</Aurora.stages.0.label>
+  <ColonistLeftUnburied.stages.0.description>ერთი ჩვენგანი გარდაიცვალა და მათ უბრალოდ ღია ცის ქვეშ ვტოვებთ. არავინ არ უნდა დარჩეს ასე. ხალხი იმსახურებს ღირსეულ დაკრძალვას.</ColonistLeftUnburied.stages.0.description>
+  <ColonistLeftUnburied.stages.0.label>კოლონისტი დაუმარხავად დარჩა</ColonistLeftUnburied.stages.0.label>
+  <DoingPassionateWork.stages.0.description>მე მსიამოვნებს ჩემი სამუშაო.</DoingPassionateWork.stages.0.description>
+  <DoingPassionateWork.stages.0.label>მცირე გატაცება ჩემი საქმისადმი</DoingPassionateWork.stages.0.label>
+  <DoingPassionateWork.stages.1.description>მე მიყვარს ჩემი საქმე. შემეძლო ამის გაკეთება მთელი დღე, ყოველდღე.</DoingPassionateWork.stages.1.description>
+  <DoingPassionateWork.stages.1.label>მწველი ვნება ჩემი საქმისადმი</DoingPassionateWork.stages.1.label>
+  <Joywire.stages.0.description>საოცარი შეგრძნებაა.</Joywire.stages.0.description>
+  <Joywire.stages.0.label>ჯოივაირი</Joywire.stages.0.label>
+  <MissingTongue.stages.0.description>ენა მენატრება. ძალიან სამარცხვინოა ლაპარაკის არქონა!</MissingTongue.stages.0.description>
+  <MissingTongue.stages.0.label>ენა აკლია</MissingTongue.stages.0.label>
+  <Naked.stages.0.description>შიშველი ვარ. ეს დამამცირებელია.</Naked.stages.0.description>
+  <Naked.stages.0.label>შიშველი</Naked.stages.0.label>
+  <Pain.stages.0.description>უი... ეს მტკივა.</Pain.stages.0.description>
+  <Pain.stages.0.label>უმნიშვნელო ტკივილი</Pain.stages.0.label>
+  <Pain.stages.1.description>უჰჰ... როდის დასრულდება?</Pain.stages.1.description>
+  <Pain.stages.1.label>სერიოზული ტკივილი</Pain.stages.1.label>
+  <Pain.stages.2.description>გააჩერე... გააჩერე... გააჩერე...</Pain.stages.2.description>
+  <Pain.stages.2.label>ინტენსიური ტკივილი</Pain.stages.2.label>
+  <Pain.stages.3.description>აააააა!</Pain.stages.3.description>
+  <Pain.stages.3.label>გონების გამანადგურებელი ტკივილი</Pain.stages.3.label>
+  <PsychicDrone.stages.0.description>ეს თითქოს დამამშვიდებელი ხმაა ჩემს თავში, მამშვიდებს, ნერვებს მიშლის.</PsychicDrone.stages.0.description>
+  <PsychicDrone.stages.0.label>ფსიქიკური ამშვიდებს</PsychicDrone.stages.0.label>
+  <PsychicDrone.stages.1.description>ეს ნაკაწრს ჰგავს ჩემს გონებაში. ხმა, ჩურჩული. მხოლოდ რამდენიმე სიტყვის გარჩევა შემიძლია და არ მომწონს.</PsychicDrone.stages.1.description>
+  <PsychicDrone.stages.1.label>დაბალი ფსიქიკური დრონი</PsychicDrone.stages.1.label>
+  <PsychicDrone.stages.2.description>ვგრძნობ, რომ ვიღაც ყოველთვის მხედველობიდან მელაპარაკება. ხმა იცვლება, მაგრამ შეტყობინება არა. მე უნდა ვატკინო ხალხი. დაანებე თავი!</PsychicDrone.stages.2.description>
+  <PsychicDrone.stages.2.label>ზომიერი ფსიქიკური დრონი</PsychicDrone.stages.2.label>
+  <PsychicDrone.stages.3.description>ხმა აუტანლად მაღალია. ძნელია კონცენტრირება. მე თვითონ ვლაპარაკობ მასზე, ვყვირი მასზე. მაგრამ ის მხოლოდ ყვირილს აგრძელებს!</PsychicDrone.stages.3.description>
+  <PsychicDrone.stages.3.label>მაღალი ფსიქიკური დრონი</PsychicDrone.stages.3.label>
+  <PsychicDrone.stages.4.description>გული მიფეთქავს და ოფლი მევსება. ერთადერთი, რაზეც ვფიქრობ, არის ტკივილი და ტანჯვა და ყველა ეს მტერი ჩემს ირგვლივ. ისინი ჩემი კოშმარია, ჩემი კოშმარი, ჩემი კოშმარი...</PsychicDrone.stages.4.description>
+  <PsychicDrone.stages.4.label>ექსტრემალური ფსიქიკური დრონი</PsychicDrone.stages.4.label>
+  <PsychicEmanatorSoothe.stages.0.description>ფსიქიკური ემანატორი მაძლევს თავს უცნაურად, მაგრამ ასევე ძალიან მოდუნებულად.</PsychicEmanatorSoothe.stages.0.description>
+  <PsychicEmanatorSoothe.stages.0.label>ფსიქიკური ემანატორი ამშვიდებს</PsychicEmanatorSoothe.stages.0.label>
+  <RotStink.stages.0.description>დამპალი სურნელი შემოიჭრება ნესტოებში და კანზე მეწებება. ეს მაწუხებს.</RotStink.stages.0.description>
+  <RotStink.stages.0.label>ლპობის სუნი</RotStink.stages.0.label>
+  <RotStink.stages.1.description>ლპობის სუნი ისეთი სქელია, თითქმის ვგრძნობ, რომ მასში ვზივარ. ძლივს ვსუნთქავ ამ სიბინძურეში!</RotStink.stages.1.description>
+  <RotStink.stages.1.label>საშინელი ლპობის სუნი</RotStink.stages.1.label>
+  <RotStinkLingering.stages.0.description>ეს ლპობა საშინელება იყო - და ისეთი შეგრძნება მაქვს, თითქოს ისევ ჩემზეა.</RotStinkLingering.stages.0.description>
+  <RotStinkLingering.stages.0.label>ლპობა სუნიანი</RotStinkLingering.stages.0.label>
+  <SharedBed.stages.0.description>საწოლი უნდა გავანაწილო ვინმესთან, ვინც განსაკუთრებით არ მინდა.</SharedBed.stages.0.description>
+  <SharedBed.stages.0.label>საზიარო საწოლი</SharedBed.stages.0.label>
+  <ToxicFallout.stages.0.description>ავად ყვითელი ტოქსიკური ფანტელები თოვლივით მიტრიალებს ირგვლივ. ჰაერი წვავს ჩემს კანს, ყელს და ფილტვებს ყველგან, სადაც ის ეხება.</ToxicFallout.stages.0.description>
+  <ToxicFallout.stages.0.label>ტოქსიკური გამონადენი</ToxicFallout.stages.0.label>
+</LanguageData>

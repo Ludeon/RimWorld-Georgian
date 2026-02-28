@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Aggression_Aggressive.description>ამ გენის მატარებლები სწრაფად ბრაზდებიან. მათ ორჯერ მეტი შანსი აქვთ წამოიწყონ სოციალური ჩხუბი. როდესაც მათ აქვთ გონებრივი შესვენებები, ისინი ორჯერ უფრო ხშირად აირჩევენ შესვენების აგრესიულ სახეს.</Aggression_Aggressive.description>
+  <Aggression_Aggressive.label>აგრესიული</Aggression_Aggressive.label>
+  <Aggression_DeadCalm.description>ამ გენის მატარებლები თავს მშვიდად გრძნობენ ყველა სიტუაციაში და აქვთ ძალიან მშვიდი ქცევა. ისინი არასოდეს დაიწყებენ სოციალურ ჩხუბს და არ ექნებათ აგრესიული გონებრივი შესვენებები.</Aggression_DeadCalm.description>
+  <Aggression_DeadCalm.label>მკვდარი სიმშვიდე</Aggression_DeadCalm.label>
+  <Aggression_HyperAggressive.description>ამ გენის მატარებლები არიან ჰორმონალურად მაღალი სიმტკიცის და ძალიან აგრესიული. მათ სამჯერ მეტი შანსი აქვთ წამოიწყონ სოციალური ჩხუბი. ნებისმიერი გონებრივი შესვენება იქნება აგრესიული ტიპის.</Aggression_HyperAggressive.description>
+  <Aggression_HyperAggressive.label>ჰიპერ აგრესიული</Aggression_HyperAggressive.label>
+  <Beauty_Beautiful.description>ამ გენის მატარებლებს აქვთ საოცრად ზუსტი და სიმეტრიული სახეები. მათი თვისებები გამორჩეული და ძლიერია გადაჭარბების გარეშე და მათი კანი თითქმის სრულყოფილია. ისინი ზოგადად ლამაზად გამოიყურებიან.</Beauty_Beautiful.description>
+  <Beauty_Beautiful.label>ძალიან მიმზიდველი</Beauty_Beautiful.label>
+  <Beauty_Pretty.description>ამ გენის მატარებლებს აქვთ უჩვეულოდ სიმეტრიული, დაბალანსებული სახის ნაკვთები და ზედმეტად გამჭვირვალე კანი, რაც მათ სასიამოვნო გარეგნობას ანიჭებს.</Beauty_Pretty.description>
+  <Beauty_Pretty.label>მიმზიდველი</Beauty_Pretty.label>
+  <Beauty_Ugly.description>ამ გენის მატარებლებს აქვთ გაზვიადებული სახის ნაკვთები და ცუდი კანი, რომელიც ზოგადად მახინჯად ითვლება.</Beauty_Ugly.description>
+  <Beauty_Ugly.label>არამიმზიდველი</Beauty_Ugly.label>
+  <Beauty_VeryUgly.description>ამ გენის მატარებლებს აქვთ უხერხული, ასიმეტრიული სახის სტრუქტურა და ლაქებიანი კანი. მათი დათვალიერება რთულია.</Beauty_VeryUgly.description>
+  <Beauty_VeryUgly.label>ძალიან არამიმზიდველი</Beauty_VeryUgly.label>
+  <Delicate.description>ამ გენის მატარებლები უფრო დიდ დაზიანებებს იღებენ, ვიდრე სხვები იმავე დაზიანებისგან. მათ აქვთ თხელი, მტვრევადი ძვლები და ნაკლებად შემაკავშირებელი მოლეკულები სახსრებსა და ხორცში.</Delicate.description>
+  <Delicate.label>დელიკატური</Delicate.label>
+  <Learning_Fast.description>ამ გენის მატარებლებს აქვთ შესანიშნავი მეხსიერება და სწრაფად აღიქვამენ ახალ იდეებს. ისინი სხვებზე სწრაფად სწავლობენ.</Learning_Fast.description>
+  <Learning_Fast.label>სწრაფი შესწავლა</Learning_Fast.label>
+  <Learning_Slow.description>ამ გენის მატარებლებს აქვთ გრძელვადიანი მეხსიერების დეფიციტი და სწრაფად არ ესმით ახალი იდეები. ისინი ნელა სწავლობენ ახალ უნარებსა და ცოდნას.</Learning_Slow.description>
+  <Learning_Slow.label>ნელი სწავლა</Learning_Slow.label>
+  <Libido_High.description>ამ გენის მატარებლები უფრო მეტად არიან ჩართულნი თავიანთ პარტნიორთან სიყვარულში.</Libido_High.description>
+  <Libido_High.label>მაღალი ლიბიდო</Libido_High.label>
+  <Libido_Low.description>ამ გენის მატარებლები ნაკლებად არიან შეყვარებულები თავიანთ პარტნიორთან.</Libido_Low.description>
+  <Libido_Low.label>დაბალი ლიბიდო</Libido_Low.label>
+  <LowSleep.description>ამ გენის მატარებლები სხვებზე ნაკლებად იღლებიან.</LowSleep.description>
+  <LowSleep.label>დაბალი ძილი</LowSleep.label>
+  <MaxTemp_LargeIncrease.description>ამ გენის მატარებლები უფრო კომფორტულები არიან თბილ ტემპერატურაზე.</MaxTemp_LargeIncrease.description>
+  <MaxTemp_LargeIncrease.label>სითბოს სუპერ ტოლერანტული</MaxTemp_LargeIncrease.label>
+  <MaxTemp_SmallDecrease.description>ამ გენის მატარებლები ოდნავ ნაკლებად კომფორტულები არიან თბილ ტემპერატურაზე.</MaxTemp_SmallDecrease.description>
+  <MaxTemp_SmallDecrease.label>სითბოს სისუსტე</MaxTemp_SmallDecrease.label>
+  <MaxTemp_SmallIncrease.description>ამ გენის მატარებლები ოდნავ უფრო კომფორტულად გრძნობენ თავს თბილ ტემპერატურაზე.</MaxTemp_SmallIncrease.description>
+  <MaxTemp_SmallIncrease.label>სითბოს ტოლერანტული</MaxTemp_SmallIncrease.label>
+  <MeleeDamage_Strong.description>ამ გენის მატარებლები უფრო მეტ ზიანს აყენებენ ახლო ბრძოლებში. ზედმეტად ძლიერი, სწრაფად შეკუმშვის კუნთოვანი ბოჭკოები მათ დარტყმას ზუსტ და ძლიერს ხდის.</MeleeDamage_Strong.description>
+  <MeleeDamage_Strong.label>ძლიერი melee დაზიანება</MeleeDamage_Strong.label>
+  <MeleeDamage_Weak.description>ამ გენის მატარებლები ნაკლებ ზიანს აყენებენ ახლო ბრძოლებში. სუსტი ჩქარი კუნთის ბოჭკოები მათ დარტყმებს კანკალს და სუსტს ხდის.</MeleeDamage_Weak.description>
+  <MeleeDamage_Weak.label>სუსტი melee დაზიანება</MeleeDamage_Weak.label>
+  <MinTemp_LargeDecrease.description>ამ გენის მატარებლები გაცილებით კომფორტულად გრძნობენ თავს ცივ ტემპერატურაზე.</MinTemp_LargeDecrease.description>
+  <MinTemp_LargeDecrease.label>სიცივის სუპერ ტოლერანტული</MinTemp_LargeDecrease.label>
+  <MinTemp_SmallDecrease.description>ამ გენის მატარებლები ოდნავ უფრო კომფორტულად გრძნობენ თავს ცივ ტემპერატურაზე.</MinTemp_SmallDecrease.description>
+  <MinTemp_SmallDecrease.label>სიცივის ტოლერანტული</MinTemp_SmallDecrease.label>
+  <MinTemp_SmallIncrease.description>ამ გენის მატარებლები ოდნავ ნაკლებად კომფორტულები არიან ცივ ტემპერატურაზე.</MinTemp_SmallIncrease.description>
+  <MinTemp_SmallIncrease.label>ცივი სისუსტე</MinTemp_SmallIncrease.label>
+  <Mood_Depressive.description>ამ გენის მატარებლები ძალიან მიდრეკილნი არიან უარყოფითი ემოციების მიმართ. ისინი ყველა სიტუაციაში დაინახავენ ცუდს და სხვებზე გაცილებით დაბალი განწყობა აქვთ.</Mood_Depressive.description>
+  <Mood_Depressive.label>ძალიან უბედური</Mood_Depressive.label>
+  <Mood_Optimist.description>ამ გენის მატარებლები მიდრეკილნი არიან ოპტიმისტური განცდებისკენ. მათ უფრო მაღალი განწყობა ექნებათ, ვიდრე სხვები.</Mood_Optimist.description>
+  <Mood_Optimist.label>ბედნიერი</Mood_Optimist.label>
+  <Mood_Pessimist.description>ამ გენის მატარებლები მიდრეკილნი არიან პესიმისტური აღქმისკენ. ისინი მიდრეკილნი იქნებიან საგნების უარყოფით ინტერპრეტაციას და სხვებთან შედარებით დაბალი განწყობა ექნებათ.</Mood_Pessimist.description>
+  <Mood_Pessimist.label>უბედური</Mood_Pessimist.label>
+  <Mood_Sanguine.description>ამ გენის მატარებლები ძალიან მიდრეკილნი არიან ოპტიმიზმისკენ და საერთოდ არ არიან მიდრეკილნი ნეგატიურად აზროვნებისკენ. მათ გაცილებით მაღალი განწყობა ექნებათ, ვიდრე სხვები.</Mood_Sanguine.description>
+  <Mood_Sanguine.label>ძალიან ბედნიერი</Mood_Sanguine.label>
+  <MoveSpeed_Quick.description>ამ გენის მატარებლები ჩვეულებრივზე უფრო სწრაფად მოძრაობენ.</MoveSpeed_Quick.description>
+  <MoveSpeed_Quick.label>სწრაფი მორბენალი</MoveSpeed_Quick.label>
+  <MoveSpeed_Slow.description>ამ გენის მატარებლები ჩვეულებრივზე ნელა მოძრაობენ.</MoveSpeed_Slow.description>
+  <MoveSpeed_Slow.label>ნელი მორბენალი</MoveSpeed_Slow.label>
+  <MoveSpeed_VeryQuick.description>ამ გენის მატარებლები ჩვეულებრივზე ბევრად სწრაფად მოძრაობენ.</MoveSpeed_VeryQuick.description>
+  <MoveSpeed_VeryQuick.label>ძალიან სწრაფი მორბენალი</MoveSpeed_VeryQuick.label>
+  <Neversleep.description>ამ გენის მატარებლებს აქვთ უნიკალური მეტაბოლური პროცესი, რომელიც საშუალებას აძლევს ნეირონების კლასტერებს დაიძინონ, სანამ ტვინის დანარჩენი ნაწილი ფხიზლად რჩება. მათ არასდროს სჭირდებათ ძილი.</Neversleep.description>
+  <Neversleep.label>არასოდეს დაიძინო</Neversleep.label>
+  <Pain_Extra.description>ამ გენის მატარებლები უფრო მეტ ტკივილს გრძნობენ, ვიდრე სხვები იმავე დაზიანებებით. ტვინის ტკივილის ცენტრში ნეირონების აქტივობა გაძლიერებულია, ამიტომ ტკივილი იგრძნობა ექსტრა ინტენსიური და ცეცხლოვანი. ეს შეიძლება იყოს დამცავი, მაგრამ მთლიანობაში ის უარყოფითად ითვლება და ართულებს რთული სიტუაციების გადალახვას.</Pain_Extra.description>
+  <Pain_Extra.label>დამატებითი ტკივილი</Pain_Extra.label>
+  <Pain_Reduced.description>ამ გენის მატარებლები გრძნობენ ტკივილს ნახევარზე მეტ ტკივილს, ვიდრე საბაზისო. შემცირებული ნეირონების აქტივობა თავის ტვინის ტკივილის ცენტრებში ხდის ტკივილს მოსაწყენ და სუსტს. ეს შეიძლება ზოგჯერ მომგებიანი იყოს, ზოგჯერ კი საშიში.</Pain_Reduced.description>
+  <Pain_Reduced.label>შემცირებული ტკივილი</Pain_Reduced.label>
+  <PsychicAbility_Deaf.description>ამ გენის მატარებლები ყრუ არიან ყოველგვარ ფსიქიკურ ენერგიაზე და ზეგავლენაზე საკუთარი გონების გარეთ. მათზე არ შეიძლება გავლენა იქონიოს ფსიქიკურმა ზემოქმედებამ და ვერც ოდესმე გამოიყენონ ფსიქიკური ძალა.</PsychicAbility_Deaf.description>
+  <PsychicAbility_Deaf.label>ფსიქიკურად ყრუ</PsychicAbility_Deaf.label>
+  <PsychicAbility_Dull.description>ამ გენის მატარებლები სხვებზე ნაკლებად ფსიქიკურად მგრძნობიარენი არიან.</PsychicAbility_Dull.description>
+  <PsychicAbility_Dull.label>ფსიქიკურად მოსაწყენი</PsychicAbility_Dull.label>
+  <PsychicAbility_Enhanced.description>ამ გენის მატარებლები საშუალოზე მეტად ფსიქიკურად მგრძნობიარენი არიან.</PsychicAbility_Enhanced.description>
+  <PsychicAbility_Enhanced.label>ფსიქიკურად მგრძნობიარე</PsychicAbility_Enhanced.label>
+  <PsychicAbility_Extreme.description>ამ გენის მატარებლები ბევრად უფრო მგრძნობიარენი არიან ფსიქიკურად, ვიდრე უმეტესობა.</PsychicAbility_Extreme.description>
+  <PsychicAbility_Extreme.label>სუპერ ფსიქიკურად მგრძნობიარე</PsychicAbility_Extreme.label>
+  <Robust.description>ამ გენის მატარებლები იმავე დაზიანებისგან სხვებზე ნაკლებ დაზიანებებს იღებენ. მათ აქვთ გასქელებული, გამკვრივებული ძვლები, თითქმის მყარი ნეკნები და გაძლიერებული შემაკავშირებელი ფაქტორები სახსრებსა და ხორცში.</Robust.description>
+  <Robust.label>მტკიცე</Robust.label>
+  <Sleepy.description>ამ გენის მატარებლები სხვებზე უფრო სწრაფად იღლებიან.</Sleepy.description>
+  <Sleepy.label>უძილო</Sleepy.label>
+  <ToxResist_Partial.description>Carriers of this gene are resistant to toxic buildup from any source. This includes pollution, toxic fallout, tox gas, and direct attacks with venom or injected poison. They'll gain half the amount of toxic buildup compared to others.\n\nCellular filters in the lung and skin reduce the dose of toxins entering the bloodstream.</ToxResist_Partial.description>
+  <ToxResist_Partial.label>ტოქსინების წინააღმდეგობა</ToxResist_Partial.label>
+  <ToxResist_Total.description>Carriers of this gene are totally immune to toxic buildup from all sources including polluted terrain, toxic fallout, tox gas, and direct attacks with venom or injected poison. They are also not bothered by acidic smog.\n\nThe carrier's biochemical pathways are modified to route around interference from nearly all known toxins. Along with enhancements to the kidneys and liver, this keeps carriers comfortable in even the most toxic of environments.</ToxResist_Total.description>
+  <ToxResist_Total.label>ტოქსიკური იმუნიტეტი</ToxResist_Total.label>
+  <UVSensitivity_Intense.description>ამ გენის მატარებლებს კანში აქვთ ბიოლოგიური ნაერთები, რომლებიც სახიფათოდ რეაგირებენ UV გამოსხივებაზე. ისინი ინტენსიურად მგრძნობიარენი არიან მზის სხივების მიმართ.</UVSensitivity_Intense.description>
+  <UVSensitivity_Intense.label>ინტენსიური UV მგრძნობელობა</UVSensitivity_Intense.label>
+  <UVSensitivity_Mild.description>ამ გენის მატარებლებს კანში აქვთ ბიოლოგიური ნაერთები, რომლებიც მტკივნეულად რეაგირებენ UV გამოსხივებაზე. ისინი უჩვეულოდ მგრძნობიარენი არიან მზის მიმართ.</UVSensitivity_Mild.description>
+  <UVSensitivity_Mild.label>მსუბუქი UV მგრძნობელობა</UVSensitivity_Mild.label>
+  <VerySleepy.description>ამ გენის მატარებლები ბევრად უფრო სწრაფად იღლებიან, ვიდრე სხვები.</VerySleepy.description>
+  <VerySleepy.label>ძალიან მძინარე</VerySleepy.label>
+</LanguageData>

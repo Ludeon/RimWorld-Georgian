@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ageless.description>ამ გენის მატარებლებს სისხლში აქვთ არქიტები, რომლებიც მუდმივად ცვლის დაბერების პროცესს. 13 წლიდან დაწყებული, მატარებლები ბიოლოგიურად უფრო ნელა იწყებენ დაბერებას. 18 წლისთვის დაბერების პროცესი მთლიანად ჩერდება.</Ageless.description>
+  <Ageless.label>უბერებელი</Ageless.label>
+  <ArchiteMetabolism.description>ამ გენის მატარებლებს უჯრედებში აქვთ სპეციალური არქიტები, რომლებიც ხელს უწყობენ და ოპტიმიზაციას უკეთებენ მეტაბოლიზმს. ეს აუმჯობესებს საერთო გენეტიკურ და მეტაბოლურ ხარისხს.</ArchiteMetabolism.description>
+  <ArchiteMetabolism.label>არქიტი მეტაბოლიზმი</ArchiteMetabolism.label>
+  <Deathless.description>ამ გენის მატარებლებს სისხლში აქვთ არქიტები, რომლებიც შეუნარჩუნებენ მათ სასიცოცხლო პროცესებს, რაც არ უნდა მოხდეს. სანამ ტვინი ხელუხლებელი რჩება, ამ გენის მატარებელი არასოდეს მოკვდება.</Deathless.description>
+  <Deathless.label>უკვდავი</Deathless.label>
+  <Deathrest.description>Carriers of this gene must periodically regenerate themselves in a special coma called deathrest. Deathrest takes days, but can confer substantial bonuses. Deathrest can be accelerated and its effects enhanced by the use of a variety of special buildings and technologies.\n\nThose who put off deathresting will suffer from deathrest exhaustion.</Deathrest.description>
+  <Deathrest.label>სიკვდილით დასჯა</Deathrest.label>
+  <DiseaseFree.description>ამ გენის მატარებლები ნორმალურად არ გადიან დაბერებას. ისინი არასოდეს იღებენ ასაკთან დაკავშირებულ ქრონიკულ დაავადებებს, როგორიცაა კიბო, ზურგის ცუდი მდგომარეობა, კატარაქტა ან დემენცია.</DiseaseFree.description>
+  <DiseaseFree.label>უბერებელი</DiseaseFree.label>
+  <FireTerror.description>ამ გენის მატარებლებს აქვთ ცეცხლის ძლიერი შიში. როდესაც ხანძარი ახლოვდება, არსებობს შანსი, რომ მათ ნებისმიერ დროს ჰქონდეთ ფსიქიკური აშლილობა.</FireTerror.description>
+  <FireTerror.label>პიროფობია</FireTerror.label>
+  <FireWeakness.description>მატარებლებს აქვთ მშრალი, თხელი კანი, რომელიც ადვილად იწვის ხანძრისგან და მათი იმუნური სისტემა ძალიან ცუდად რეაგირებს ამ სახის საფრთხეზე. ხანძრის შედეგად მიღებული ზიანი მრავლდება 4-ზე.</FireWeakness.description>
+  <FireWeakness.label>ცისფერი კანი</FireWeakness.label>
+  <HemogenDrain.description>მატარებლები კარგავენ დამატებით 8 ჰემოგენს დღეში ბიოლოგიური ენტროპიისგან.</HemogenDrain.description>
+  <HemogenDrain.label>ჰემოგენის გადინება</HemogenDrain.label>
+  <Hemogenic.description>Carriers of this gene have a reserve of biological strength powered by a resource called hemogen. The resource can be gained and spent in various ways, all of which are unlocked by other genes.\n\nCarriers lose 2 hemogen per day from biological entropy.</Hemogenic.description>
+  <Hemogenic.label>ჰემოგენური</Hemogenic.label>
+  <PerfectImmunity.description>ამ გენის მატარებლებს აქვთ არქიტით გაძლიერებული იმუნური სისტემა, რომელიც ინტელექტუალურად ანადგურებს დამპყრობლებს. ისინი სრულიად იმუნიტეტი არიან უმრავლესობის ნორმალური დაავადებების მიმართ.</PerfectImmunity.description>
+  <PerfectImmunity.label>სრულყოფილი იმუნიტეტი</PerfectImmunity.label>
+  <TotalHealing.description>ამ გენის მატარებლებს აქვთ სპეციალური ტიპის რეგენერატორული უჯრედი, რომელსაც შეუძლია მოშუშოს ძველი ჭრილობები და ქრონიკული დაავადებები, როგორიცაა ცუდი ზურგი.</TotalHealing.description>
+  <TotalHealing.label>უნაწიბურო</TotalHealing.label>
+</LanguageData>

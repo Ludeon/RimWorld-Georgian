@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Altar_Grand.description>გრანდიოზული პლატფორმა, რომელიც როლს ასრულებს იდეოლიგიურ რიტუალებში.</Altar_Grand.description>
+  <Altar_Grand.label>დიდი საკურთხეველი</Altar_Grand.label>
+  <Altar_Large.description>დიდი პლატფორმა, რომელიც როლს ასრულებს იდეოლიგიურ რიტუალებში.</Altar_Large.description>
+  <Altar_Large.label>დიდი საკურთხეველი</Altar_Large.label>
+  <Altar_Medium.description>საშუალო პლატფორმა, რომელიც როლს ასრულებს იდეოლიგიურ რიტუალებში.</Altar_Medium.description>
+  <Altar_Medium.label>საშუალო საკურთხეველი</Altar_Medium.label>
+  <Altar_Small.description>პატარა პლატფორმა, რომელიც როლს ასრულებს იდეოლიგიურ რიტუალებში.</Altar_Small.description>
+  <Altar_Small.label>პატარა საკურთხეველი</Altar_Small.label>
+  <BiosculpterPod.description>An immersion pod full of bioactive gel. It can perform a variety of biological alterations including age reversal and pleasure-giving.\n\nThe pod biotunes to its user at the end of a cycle. While biotuned, it cannot be used by anyone else, but cycles will complete 25% more quickly. Biotuning resets if the pod is unused for 80 days.\n\nThe pod consumes 200W of power while working, but only 50W on standby.</BiosculpterPod.description>
+  <BiosculpterPod.label>ბიოსკულპტერის ყდა</BiosculpterPod.label>
+  <Burnbong.description>ხის სტრუქტურა შეფუთული კვამლის ფოთლით. ის შეიძლება აანთოს რიტუალის დროს და რამდენიმე საათის განმავლობაში წარმოქმნას დიდი რაოდენობით კვამლის ფოთოლი, რის შემდეგაც ის ნადგურდება.</Burnbong.description>
+  <Burnbong.label>დამწვრობის</Burnbong.label>
+  <CannibalPlatter.description>იატაკის ფართობი, რომელიც დაფარულია წინასწარ დაჭრილი და მოწყობილი ადამიანის ხორცით, რომელიც მზად არის კანიბალების წვეულებისთვის.</CannibalPlatter.description>
+  <CannibalPlatter.label>კანიბალის თეფში</CannibalPlatter.label>
+  <ChristmasTree.description>ორნამენტებითა და განათებით მორთული სადღესასწაულო ხე, რომელიც ტრადიციულად საშობაო ზეიმების ნაწილია.</ChristmasTree.description>
+  <ChristmasTree.label>ნაძვის ხე</ChristmasTree.label>
+  <Darktorch.description>სპეციალურად დამუშავებული ხის ჩირაღდანი, რომელიც წარმოქმნის მკრთალ შუქს დიდ ფართობზე. ადამიანები, რომლებიც უპირატესობას ანიჭებენ სიბნელეს, საუკეთესოდ მუშაობენ ამ სინათლის წყაროსთან. შესაძლებელია ავტომატურად შევსება ხით. გამოიმუშავებს მცირე რაოდენობით სითბოს.</Darktorch.description>
+  <Darktorch.label>დარქტორჩი</Darktorch.label>
+  <DarktorchFungus.description>სპეციალურად დამუშავებული სოკოს ჩირაღდანი, რომელიც წარმოქმნის მკრთალ შუქს დიდ ფართობზე. ადამიანები, რომლებიც უპირატესობას ანიჭებენ სიბნელეს, საუკეთესოდ მუშაობენ ამ სინათლის წყაროსთან. შესაძლებელია ავტომატურად შევსება ნედლი სოკოთი. გამოიმუშავებს მცირე რაოდენობით სითბოს.</DarktorchFungus.description>
+  <DarktorchFungus.label>სოკო მუქი</DarktorchFungus.label>
+  <Effigy.description>ადამიანის ფორმის ხის უხეში ჩარჩო, რომელიც მზად არის დასაწვავად, როგორც რიტუალის ნაწილი.</Effigy.description>
+  <Effigy.label>ფიგურა</Effigy.label>
+  <Ideogram.description>მიწაზე დახატული და ლითონის კიდეებით გამაგრებული დიდი გამოსახულება. იგი გამოიყენება რიტუალების ფოკუსად.</Ideogram.description>
+  <Ideogram.label>იდეოგრამა</Ideogram.label>
+  <IncenseShrine.description>შეფუთული საკმევლის კონტეინერების კოლექცია. ის შეიძლება აალდეს და წარმოქმნას ძლიერი საკმევლის ეფექტი, როგორც რიტუალების აქცენტი. დამწვრობის შემდეგ ნადგურდება.</IncenseShrine.description>
+  <IncenseShrine.label>საკმევლის სალოცავი</IncenseShrine.label>
+  <NeuralSupercharger.description>ნეირონების სენსიბილიზირებელი მოწყობილობა, რომელსაც შეუძლია ყოველდღიურად ერთი ნერვული ზემუხტის მიწოდება. ნერვული ზეწოლის მქონე ადამიანი უფრო სწრაფად იფიქრებს და ისწავლის, მაგრამ ასევე მოიხმარს მეტ საკვებს. ეფექტი ქრება ერთ დღეში. ნერვული სუპერჩამტენები მოიხმარენ უამრავ ელექტროენერგიას.</NeuralSupercharger.description>
+  <NeuralSupercharger.label>ნერვული სუპერჩამტენი</NeuralSupercharger.label>
+  <Pyre.description>ხის კოშკი რიტუალური დაწვისთვის.</Pyre.description>
+  <Pyre.label>pyre</Pyre.label>
+  <RitualSpot.description>ადგილი გარკვეული სახის რიტუალების შესასრულებლად.</RitualSpot.description>
+  <RitualSpot.label>რიტუალური ადგილი</RitualSpot.label>
+  <SacrificialFlag.description>დროშა, რომელიც წარმოადგენს მტრებს, მზად არის დასაწვავად, როგორც რიტუალის ნაწილი.</SacrificialFlag.description>
+  <SacrificialFlag.label>სამსხვერპლო დროშა</SacrificialFlag.label>
+  <SleepAccelerator.description>საწოლის მოწყობილობა, რომელიც აჩქარებს მძინარეს ცირკადულ რიტმს. ეს აჩქარებს ძილს, მაგრამ მოიხმარს უამრავ ელექტროენერგიას და ასევე იწვევს შიმშილის გაზრდას. ის პირდაპირ უნდა განთავსდეს საწოლის თავსა და მისკენ. ერთსა და იმავე საწოლთან ერთზე მეტი ძილის ამაჩქარებლის განთავსება არანაირ გავლენას არ ახდენს.</SleepAccelerator.description>
+  <SleepAccelerator.label>ძილის ამაჩქარებელი</SleepAccelerator.label>
+</LanguageData>

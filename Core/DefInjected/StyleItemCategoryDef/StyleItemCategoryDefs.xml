@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cannibal.label>კანიბალი</Cannibal.label>
+  <Minimal.label>მინიმალური</Minimal.label>
+  <Misc.label>სხვადასხვა</Misc.label>
+  <Moustache.label>ულვაში</Moustache.label>
+  <Punk.label>პანკი</Punk.label>
+  <Royal.label>სამეფო</Royal.label>
+  <Rural.label>სოფლის</Rural.label>
+  <Soldier.label>ჯარისკაცი</Soldier.label>
+  <Tribal.label>ტომობრივი</Tribal.label>
+  <Urban.label>ქალაქური</Urban.label>
+</LanguageData>

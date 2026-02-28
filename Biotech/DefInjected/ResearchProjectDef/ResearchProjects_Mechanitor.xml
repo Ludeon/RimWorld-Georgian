@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BasicMechtech.description>ტექნოლოგია, რომელიც საჭიროა თქვენი მექანიტორისთვის საბაზისო დონის მექანოიდების შესაქმნელად და გასაკონტროლებლად.</BasicMechtech.description>
+  <BasicMechtech.label>ძირითადი ტექნიკა</BasicMechtech.label>
+  <HighMechtech.description>The technology needed for your mechanitor to create and control high-tier mechanoids.\n\nYou can get powerfocus chips by using a mechanitor to summon a war queen threat.</HighMechtech.description>
+  <HighMechtech.label>მაღალტექნოლოგიური</HighMechtech.label>
+  <StandardMechtech.description>The technology needed for your mechanitor to create and control standard-tier mechanoids.\n\nYou can get signal chips by using a mechanitor to summon a diabolus threat.</StandardMechtech.description>
+  <StandardMechtech.label>სტანდარტული ტექნიკით</StandardMechtech.label>
+  <UltraMechtech.description>The advanced technology needed for your mechanitor to create and control ultra-tier mechanoids, including large mechs and ultra-tier mechanitor gear.\n\nYou can get nano structuring chips by using a mechanitor to summon an apocriton threat.</UltraMechtech.description>
+  <UltraMechtech.label>ულტრა მექანიკა</UltraMechtech.label>
+  <WastepackAtomizer.description>შექმენით ნარჩენების პაკეტის ატომიზატორები, რომლებსაც შეუძლიათ უსაფრთხოდ გაანადგურონ ტოქსიკური ნარჩენების პაკეტები მოლეკულურ დონეზე მათი დაშლით.</WastepackAtomizer.description>
+  <WastepackAtomizer.label>ნარჩენების ატომიზატორი</WastepackAtomizer.label>
+</LanguageData>

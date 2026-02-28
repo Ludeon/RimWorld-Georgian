@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <LetterLabelMechsFeral>მეხს(ები) გაქცეული</LetterLabelMechsFeral>
+  <LetterMechsFeral>ზოგიერთი მექანიკა, რომელიც მოხეტიალე ზედამხედველის გარეშე, დაკავშირებულია უძველესი პლანეტის მექანიკური კონტროლის სიგნალებთან. ისინი შეუერთდნენ {0}-ს და გახდნენ მტრულად განწყობილი და, როგორც ჩანს, ცდილობენ თავი დააღწიონ რუკს.\n\nველური მექანოიდები არ შეიძლება აღდგეს გესტატორის დროს, როდესაც მოკვდებიან.\n\nჩართულია ეს მექანიზმები:\n\n{1}</LetterMechsFeral>
+  <LetterLabelMechlinkInstalled>დამონტაჟებულია Mechlink</LetterLabelMechlinkInstalled>
+  <LetterMechlinkInstalled>{PAWN_labelShort}-მა დააინსტალირა მეჩლინკი! {PAWN_pronoun} ახლა მექანიტორია და შეუძლია შექმნას და მართოს მექანოიდები.\n\nდასაწყებად გამოიკვლიეთ ძირითადი მეხსიერების ტექნოლოგია.\n\n(*SectionTitle)მექანიკოსების შექმნა:(/SectionTitle) თქვენს მექანიტორს შეუძლია შექმნას მექანიზმები წარმოების შენობაში, რომელსაც ეწოდება mech gestator.\n\nTle(*ection) გამტარუნარიანობა:(/SectionTitle) მექანიტორებს შეუძლიათ აკონტროლონ იმდენი მეხი, რამდენსაც მათი მთლიანი გამტარობა იძლევა. აირჩიეთ {PAWN_labelShort} და გადახედეთ {PAWN_possessive} „სიჩქარის“ წაკითხვას, რომ ნახოთ, რამდენ სიჩქარეს იყენებს ამჟამად {PAWN_pronoun} და რამდენი აქვს ხელმისაწვდომი {PAWN_pronoun}. გამტარუნარიანობა შეიძლება გაიზარდოს გარკვეული ტანსაცმლით და ზოლის კვანძების შენობების აგებით.\n\n(*SectionTitle)საკონტროლო ჯგუფების შესახებ:(/SectionTitle) მექანიტორები აკონტროლებენ მექანიზმებს ჯგუფებში. თითოეული საკონტროლო ჯგუფი შეიძლება დაყენდეს ერთ-ერთ ასეთ რეჟიმზე:\n\n- სამუშაო\n- Escort\n- დამუხტვა\n- უმოქმედო თვითდატენვა\n\nუფრო მეტის გასაგებად, თუ რას აკეთებს თითოეული რეჟიმი, აირჩიეთ სამუშაო რეჟიმის ხატულა {PAWN_labelShort}-ის ერთ-ერთ საკონტროლო ჯგუფზე და გადაიტანეთ მაუსის მაუსი სხვადასხვა სამუშაო შეკვეთებზე. საკონტროლო ჯგუფების მაქსიმალური რაოდენობა შეიძლება გაიზარდოს ტანსაცმლითა და იმპლანტებით.\n\n(*SectionTitle)საფრთხის გამოძახების შესახებ:(/SectionTitle) მექანიტორებს შეუძლიათ ძველი ლიდერების მეხსიერების სიგნალი შეტევაზე, რათა მათგან იშვიათი ნივთები მიიღონ. თქვენ უნდა გააკეთოთ ეს, რათა გააუმჯობესოთ თქვენი მექანიტორი გარკვეული ლიმიტების გასვლისას, მაგრამ სიფრთხილით მოვეკიდოთ საფრთხეს.</LetterMechlinkInstalled>
+
+  <MentalStateReason_Gene>ეს იმის გამო მოხდა</MentalStateReason_Gene>
+
+  <LetterLabelBossgroupSummoned>გამოიძახეს {0}</LetterLabelBossgroupSummoned>
+  <LetterBossgroupSummoned>თქვენი მექანიკური დიაპაზონის სიგნალებით მოზიდული, ულტრა მძიმე მექანიკა {0}-დან მალე ჩამოვა. მოემზადე.</LetterBossgroupSummoned>
+
+  <LetterLabelBossgroupArrived>{0} ჩამოვიდა</LetterLabelBossgroupArrived>
+  <LetterBossgroupArrived>{0}-ის ულტრა მძიმე მექანიზმი მოვიდა თქვენს აღმოსაფხვრელად, თანმხლებებთან ერთად.\n\n{1}\n\nთავდასხმის ჯგუფი შედგება შემდეგი {3}-ისგან:\n\n{4}\n\nისინი შეტევამდე ცოტა ხნით მოემზადებიან.</LetterBossgroupArrived>
+
+  <LetterLabelCommsConsoleSpawned>გამოძახება {LEADER_label} ხელმისაწვდომია</LetterLabelCommsConsoleSpawned>
+  <LetterCommsConsoleSpawned>მექანიტორს შეუძლია გამოიყენოს {PARENT_label} საშიში და მტრული {LEADER_label} მექანოიდის გამოსაძახებლად. მოემზადეთ, {LEADER_label} მექანოიდები ძალიან ძლიერია.\n\nთუ თქვენ დაამარცხებთ {LEADER_label}-ს, ის ჩამოაგდებს შემდეგ ელემენტებს:\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
+
+  <LetterLabelBossgroupCallerUnlocked>{LEADER_label}-ის გამოძახება შესაძლებელია</LetterLabelBossgroupCallerUnlocked>
+  <LetterBossgroupCallerUnlocked>ახლა შეგიძლიათ ააწყოთ {PARENT_label}, რომელიც მექანიტორს შეუძლია გამოიყენოს {LEADER_label}-ის გამოსაძახებლად. თუ დაამარცხებთ {LEADER_label}-ს, ის ჩამოაგდებს შემდეგ ელემენტებს:\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
+
+  <LetterLabelMechanitorCasketOpened>{PAWN_nameDef}-ის mechlink ხელმისაწვდომია</LetterLabelMechanitorCasketOpened>
+  <LetterMechanitorCasketOpened>თქვენ იპოვეთ უძველესი მექანიტორის ცხედარი!\n\nამოიღეთ {PAWN_possessive} მეჩლინკი კოლონისტის არჩევით და გვამზე მარჯვენა ღილაკით.</LetterMechanitorCasketOpened>
+  <LetterLabelMechanitorCasketFound>ნაპოვნია მექანიტორის ყუთი</LetterLabelMechanitorCasketFound>
+  <LetterMechanitorCasketFound>თქვენ აღმოაჩინეთ მექანიტორის კრიპტოძილის ყუთი!\n\nგახსენით, რომ იპოვოთ ისინი შიგნით.</LetterMechanitorCasketFound>
+  
+  
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>შენი ქარავანი დაიკარგა. მასთან ერთად დაიკარგნენ შემდეგი ადამიანები, ცხოველები და მექანოიდები</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>შემდეგი ადამიანები, ცხოველები და მექანოიდები მიტოვებულნი არიან</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+  
+
+  
+  <LetterLabelBecameChild>{0_nameDef} ბავშვი გახდა</LetterLabelBecameChild>
+  <LetterLabelBecameAdult>{0_nameDef} გახდა ზრდასრული</LetterLabelBecameAdult>
+  <LetterBecameChild>Baby {0_nameDef} გაიზარდა და გახდა ბავშვი! {0_pronoun} უკვე საკმაოდ ძველია შემდეგი სამუშაოს შესასრულებლად:</LetterBecameChild>
+  <LetterBecameChildChanges>ბავშვებს შეუძლიათ სხვადასხვა სახის სამუშაოს შესრულება. ასაკის მატებასთან ერთად, ისინი შეძლებენ მეტი ტიპის სამუშაოს შესრულებას.\n\nისინი ასევე ასრულებენ სხვადასხვა სახის გასართობ აქტივობებს.\n\nბავშვებს უნდა ატარონ ბავშვის ზომის სპეციალური ტანსაცმელი.</LetterBecameChildChanges>
+  <LetterChildLegalStatus>ტრადიციის მიხედვით {0_nameDef}, {0_parentage}, არის {0_legalStatus}, მაგრამ გამონაკლისის დაშვება შეიძლება... უნდა დარჩეს თუ არა {0_nameDef} {0_legalStatus}?</LetterChildLegalStatus>
+  <LetterChildFollowIdeo>{0_labelShort}-მა გადაწყვიტა გახდეს {1_name} იდეოლიგიის მიმდევარი.</LetterChildFollowIdeo>
+  <CannotChangeChildStatusReason>{0_nameDef}-ის მონის სტატუსი უკვე შეიცვალა {0_possessive} დაბადების დღის შემდეგ.</CannotChangeChildStatusReason>
+  <Enslave>დამონება</Enslave>
+  <Emancipate>განთავისუფლება</Emancipate>
+  <RemainX>რჩება {0}</RemainX>
+  <LetterLabelAdopted>{BABY_nameDef} მიღებულია</LetterLabelAdopted>
+  <LetterTextAdopted>{BABY_nameDef}, ბავშვი, იშვილა თქვენმა კოლონიამ. შეიძლება დაგჭირდეთ კოლონისტების მინიჭება „ბავშვზე ზრუნვის“ ტიპის სამუშაოსთვის, რათა იზრუნონ {BABY_objective}-ზე.</LetterTextAdopted>
+
+  <LetterLabelThirdTrimester>{0_nameDef}-ის ბავშვის მოსამზადებელი</LetterLabelThirdTrimester>
+  <LetterTextThirdTrimester>{0_nameDef} უნდა დაიბადოს 6 დღეზე ნაკლებ დროში. თქვენ შეგიძლიათ მოემზადოთ ბავშვისთვის:\n\n- ააწყვეთ სამშობიარო ოთახი სუფთა იატაკით და კარგი საწოლით.\n- მოამზადეთ გამოცდილი ექიმი.\n- სამუშაო ჩანართში დანიშნეთ მინიმუმ ერთი ადამიანი ბავშვის მოვლაზე\n- მოამზადეთ ბავშვის კვების წყარო. {0_nameDef}-ს შეუძლია ბავშვის ძუძუთი კვება, ან შეგიძლიათ აჭამოთ ბავშვის საკვები, რძე ან მწერების ჟელე.\n- ააწყვეთ საწოლი. მაღალი ხარისხის საწოლები გაახარებს ბავშვს.\n\nბავშვის საკვების დამზადება შეგიძლიათ ღუმელში ან კოცონზე.</LetterTextThirdTrimester>
+
+  <LetterVatBirth>{0} ღვეზელი დაბადება</LetterVatBirth>
+  <LetterVatHealthyBaby>{0_nameDef}-ისა და {1_nameDef}-ის ემბრიონმა ორსულობა დაასრულა ზრდის ღუმელში და გახდა ჯანმრთელი ბავშვი!</LetterVatHealthyBaby>
+  <LetterVatHealthyBabyNoParents>ემბრიონმა დაასრულა ორსულობა ზრდის ღუმელში და გახდა ჯანმრთელი ბავშვი!</LetterVatHealthyBabyNoParents>
+  <LetterVatInfantIllness>{0_nameDef}-ისა და {1_nameDef}-ის ემბრიონმა ორსულობა დაასრულა ზრდის ქვაბში და გახდა ბავშვი. სამწუხაროდ, ბავშვი ავად არის.</LetterVatInfantIllness>
+  <LetterVatInfantIllnessNoParents>ემბრიონმა ორსულობა დაასრულა ზრდის ქვაბში და გახდა ბავშვი. სამწუხაროდ, ბავშვი ავად არის.</LetterVatInfantIllnessNoParents>
+  <LetterVatStillborn>{0_nameDef}-ისა და {1_nameDef}-ის ემბრიონის ზრდის ღუმელში ჩამოყალიბებული ბავშვი მკვდარი დაიბადა.</LetterVatStillborn>
+  <LetterVatSillbornNoParents>ზრდის ქვაბში ჩამოყალიბებული ბავშვი მკვდარი დაიბადა.</LetterVatSillbornNoParents>
+  <LetterColonistPregnancyLaborLabel>{0_labelShort} მშობიარობაში!</LetterColonistPregnancyLaborLabel>
+  <LetterColonistPregnancyLabor>{0_labelShort} მშობიარობას აპირებს! მას მოუწევს შეკუმშვა ბავშვის გაჩენამდე რამდენიმე საათით ადრე. მშობიარობამ შეიძლება გაიაროს სხვადასხვა დონის სირთულისა და საშიშროების რამდენიმე ეტაპი.\n\nბავშვის შანსების გასაუმჯობესებლად შეკრიბეთ ექიმი და სხვები, რათა დაეხმარონ მშობიარობაში. აირჩიეთ {0_labelShort} და დააჭირეთ „შეიკრიბეთ დაბადებისთვის“ პროცედურის დასაწყებად.</LetterColonistPregnancyLabor>
+  <LetterPartColonistDiedAfterChildbirth>{0_labelShort} გარდაიცვალა მშობიარობის შემდეგ გართულებების გამო.</LetterPartColonistDiedAfterChildbirth>
+  <LetterPartSurrogacy>ბავშვი შეიქმნა ინ ვიტრო განაყოფიერების შედეგად და აქვს {0_labelShort} და {1_labelShort} გენეტიკური შემადგენლობა.</LetterPartSurrogacy>
+  <InbredBabyBorn>ბავშვს უჩნდება გენეტიკური დარღვევების ნიშნები შეჯვარების გამო.</InbredBabyBorn>
+
+  <BabyAlreadyNamed>{0_nameDef} უკვე დასახელებულია.</BabyAlreadyNamed>
+  <NameBaby>დაარქვით პატარას</NameBaby>
+  <Immediately>დაუყოვნებლივ</Immediately>
+  <Within>ვადაში</Within>
+  <LetterPartTempBabyName>ბავშვს დაარქვეს დროებითი სახელი {0_nameFull}.</LetterPartTempBabyName>
+  <LetterPartLiveBirthNameDeadline>მისი შეცვლა შეგიძლიათ {0}-მდე დაბადების შემდეგ.</LetterPartLiveBirthNameDeadline>
+  <LetterPartStillbirthNameDeadline>გსურთ ბავშვს სხვა სახელი დაარქვათ?</LetterPartStillbirthNameDeadline>
+  <LetterPartNameBabyAdopt>ბავშვს დროებითი სახელი {0_nameFull} დაარქვეს. თქვენ შეგიძლიათ შეცვალოთ ის, სანამ ბავშვი {1}-ზე ნაკლები ასაკისაა.</LetterPartNameBabyAdopt>
+
+  <BirthdayGrowthMoment>ზრდის მომენტი {PAWNNAME}-ისთვის</BirthdayGrowthMoment>
+  <BirthdayBiologicalGrowthMoment>{0_nameFull}-მა მიაღწია {1}-ის ბიოლოგიურ ასაკს და განიცადა ზრდის მომენტი!</BirthdayBiologicalGrowthMoment>
+  <BirthdayBiologicalAgeWorkTypes>{0_nameDef} უკვე საკმაოდ ძველია შემდეგი სამუშაოს შესასრულებლად</BirthdayBiologicalAgeWorkTypes>
+  <BirthdayPickPassion>აირჩიეთ 1 უნარი {0_nameDef}-ისთვის, რათა გაზარდოთ {0_possessive} ვნება</BirthdayPickPassion>
+  <BirthdayPickPassions>აირჩიეთ {1} უნარები {0_nameDef}-ისთვის, რათა გაზარდოთ {0_possessive} ვნება</BirthdayPickPassions>
+  <BirthdayPickTrait>აირჩიეთ თვისება {0_nameDef}-ისთვის მოსაპოვებლად</BirthdayPickTrait>
+  <BirthdayGrowthTier>როდესაც ეს ზრდის მომენტი მოხდა, {0_nameDef} იყო ზრდის დონეზე {1}. უფრო მაღალი ზრდის დონის ბავშვები იღებენ უფრო მეტ თვისებასა და ვნებათა არჩევანს და, მთლიანობაში, უფრო მეტ ვნებებს. სასწავლო მოთხოვნილების დაკმაყოფილება ეხმარება ბავშვს უფრო სწრაფად მოიპოვოს ზრდის დონეები. ზრდის დონეები გადატვირთულია ყოველი ზრდის მომენტის შემდეგ.</BirthdayGrowthTier>
+  <BirthdayChooseHowPawnWillGrow>გახსენით ეს წერილი, რათა აირჩიოთ როგორ გაიზრდება {0_nameDef}.</BirthdayChooseHowPawnWillGrow>
+
+  <BirthdayPassionArchive>ვნება გაიზარდა {0}-ის მიმართ.</BirthdayPassionArchive>
+  <BirthdayTraitArchive>მოიპოვა თვისება {0}.</BirthdayTraitArchive>
+  <BirthdayNoTraitChoice>არანაირი თვისება</BirthdayNoTraitChoice>
+  <BirthdayNoTraitChoiceTooltip>{0} არ იძენს თვისებას.</BirthdayNoTraitChoiceTooltip>
+
+  <BirthdayMakeChoices>გააკეთეთ არჩევანი დახურვისთვის</BirthdayMakeChoices>
+  <BirthdayNickname>{0}-მა მოიპოვა მეტსახელი {1}.</BirthdayNickname>
+  <SelectATrait>აირჩიეთ თვისება.</SelectATrait>
+  <SelectPassionSingular>აირჩიეთ გატაცება.</SelectPassionSingular>
+  <SelectPassionsPlural>აირჩიეთ {0} ვნებები.</SelectPassionsPlural>
+  <Later>შემდეგ</Later>
+  
+  <LetterLabelMechlinkAvailable>Mechlink ხელმისაწვდომია</LetterLabelMechlinkAvailable>
+  <LetterMechlinkAvailable>უნიკალური მეჩლინკის იმპლანტის შეძენის შესაძლებლობა ხელმისაწვდომი გახდა ქვესტი '{0}'-ის მეშვეობით.\n\nmechlink-ის დაყენება კოლონისტს მექანიტორად გადააქცევს. მექანიტორებს შეუძლიათ შექმნან, აკონტროლონ და მანიპულირონ მექანოიდები სამუშაოსა და საბრძოლო მოქმედებებში გამოსაყენებლად.</LetterMechlinkAvailable>
+
+  
+  <LetterLabelXenogermOrderedImplanted>შეკვეთილია ქსენოგერმის იმპლანტაცია</LetterLabelXenogermOrderedImplanted>
+  <LetterXenogermOrderedImplanted>თქვენ ბრძანეთ {PAWN_nameDef}-ში ქსენოგერმის იმპლანტაცია. ეს პროცედურა საჭიროებს სამედიცინო საწოლს და {MEDICINENEEDED} წამალს.{BEDINFO}{MEDICINEINFO}\n\nამ პროცედურის გაუქმება შეგიძლიათ {PAWN_nameDef}-ის ჯანმრთელობა -&gt; ოპერაციების ჩანართზე გადასვლით.</LetterXenogermOrderedImplanted>
+  <XenogermOrderedImplantedBedNeeded>\n\nთქვენ არ გაქვთ ხელმისაწვდომი სამედიცინო საწოლი {PAWN_nameDef}-ისთვის. განიხილეთ საწოლის სამედიცინო აღნიშვნა.</XenogermOrderedImplantedBedNeeded>
+  <XenogermOrderedImplantedMedicineNeeded>\n\nთქვენ არ გაქვთ საკმარისი წამალი ქსენოგერმის იმპლანტაციისთვის. იმპლანტაცია შეუძლებელია მანამ, სანამ არ მიიღებთ {MEDICINENEEDED} წამალს.</XenogermOrderedImplantedMedicineNeeded>
+  <LetterLabelInvoluntaryDeathrest>უნებლიე სიკვდილით დასჯა</LetterLabelInvoluntaryDeathrest>
+  <LetterLabelRegenerationComa>რეგენერაციული კომა</LetterLabelRegenerationComa>
+  <LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef}-ის უკვდავმა გენმა ხელი შეუშალა {PAWN_objective}-ს სიკვდილს. {HEDIFFINFO}</LetterTextInvoluntaryDeathrestOrComa>
+  <LetterTextDeathrest>ამის ნაცვლად, {PAWN_pronoun} ჩავარდა სასიკვდილოდ.</LetterTextDeathrest>
+  <LetterTextRegenerationComa>ამის ნაცვლად, {PAWN_pronoun} ჩავარდა რეგენერაციულ კომაში.</LetterTextRegenerationComa>
+  <DeathrestLostSkill>ტრავმული სიკვდილით გამოწვეული ნერვული შოკის გამო, {PAWN_nameDef}-მა დაკარგა {XPLOSS} XP {PAWN_possessive} {SKILL} უნარში.</DeathrestLostSkill>
+  <DeathrestLethalDamage>მიღებული ლეტალური დაზიანება.</DeathrestLethalDamage>
+
+  <LetterLabelSanguophageWaitingToReimplant>ქსენოგერმის იმპლანტაცია</LetterLabelSanguophageWaitingToReimplant>
+  <LetterTextSanguophageWaitingToReimplant>{PAWN_objective}-ისა და {PAWN_possessive}-ის თანამემამულე სანგუოფაგების აქ შეხვედრისთვის მადლობისთვის, {PAWN_nameDef} მზადაა გაუზიაროს {PAWN_possessive} ქსენოგერმის ასლი თქვენს ერთ-ერთ კოლონისტს. ეს თქვენს კოლონისტს სანგუოფაგად გადააქცევს.\n\nდასაღებად აირჩიეთ კოლონისტი და დააწკაპუნეთ მარჯვენა ღილაკით {PAWN_nameDef}-ზე.\n\nთუ არცერთ კოლონისტს არ მოუთხოვია ჯილდო {DURATION}-ში, სანგუოფაგები დატოვებენ.</LetterTextSanguophageWaitingToReimplant>
+
+  <LetterLabelGenesImplanted>გენები ხელახლა იმპლანტირებულია</LetterLabelGenesImplanted>
+  <LetterTextGenesImplanted>{CASTER_nameDef}-მა {CASTER_possessive} კსენოჯიბის ასლი გადაუნერგა {TARGET_nameDef}-ს, გადასცა ყველა კსენოგენი {TARGET_objective}-ს.
+
+{TARGET_nameDef} იქნება კსენოჯიბის კომაში შემდეგ {COMADURATION} განმავლობაში სხეულის ადაპტაციის დროს.
+
+{CASTER_nameDef} განიცდის გენების დაკარგვის შოკს შემდეგ {SHOCKDURATION} განმავლობაში. {CASTER_possessive} გენებს სჭირდება ხელახალი ზრდა. ეს პროცესი მოითხოვს დროს. თუ {CASTER_nameDef} ახლიდან გადანერგავს {CASTER_possessive} კსენოჯიბს გენების ხელახლა ზრდამდე, {CASTER_pronoun} მოკვდება.</LetterTextGenesImplanted>
+  
+  <RefugeePodCrashBaby>ბავშვი, სახელად {PAWN_nameDef} {PAWN_factionName}-დან ეჯახება სატრანსპორტო რგოლში.\n\nშეგიძლიათ აირჩიოთ {PAWN_objective}-ის მიღება „მიღება“ ბრძანებით ან უგულებელყოთ {PAWN_objective}.</RefugeePodCrashBaby>
+  <RefugeePodCrashBabyHasParent>{PAWN_nameDef}-ის გარდაცვლილი მშობლის ცხედარი ასევე მოთავსებულია სატრანსპორტო ყუთში.</RefugeePodCrashBabyHasParent>
+
+  <LetterPsychicBondCreated>ინსტინქტურად ეძებს მეწყვილეს, {BONDPAWN_nameDef}-მა დაამყარა ფსიქიკურად შეკრული რომანტიული ურთიერთობა {OTHERPAWN_nameDef}-თან. {OTHERPAWN_nameDef} ფსიქოლოგიურად ისარგებლებს {BONDPAWN_nameDef}-თან კავშირით, მაგრამ თუ ისინი განცალკევებულნი იქნებიან მსოფლიოს სხვადასხვა ფილებზე, ორივე განიცდის ფსიქიკურ სტრესს. თუ ერთი მოკვდება, მეორე სიგიჟემდე მიიყვანს.</LetterPsychicBondCreated>
+
+  <LetterPsychicBondCreatedLovinLabel>ფსიქიკური კავშირი</LetterPsychicBondCreatedLovinLabel>
+  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef}-მა ჩამოაყალიბა ფსიქიკურად შეკრული რომანტიული ურთიერთობა {OTHERPAWN_nameDef}-თან. {OTHERPAWN_nameDef} ფსიქოლოგიურად ისარგებლებს {BONDPAWN_nameDef}-თან კავშირით, მაგრამ თუ ისინი განცალკევებულნი იქნებიან მსოფლიოს სხვადასხვა ფილებზე, ორივე განიცდის ფსიქიკურ სტრესს. თუ ერთი მოკვდება, მეორე სიგიჟემდე მიიყვანს.</LetterPsychicBondCreatedLovinText>
+
+</LanguageData>

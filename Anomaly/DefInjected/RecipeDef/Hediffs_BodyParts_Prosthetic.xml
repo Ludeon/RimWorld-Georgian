@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallAdrenalHeart.description>დააინსტალირეთ თირკმელზედა ჯირკვლის გული.</InstallAdrenalHeart.description>
+  <InstallAdrenalHeart.jobString>თირკმელზედა ჯირკვლის გულის დაყენება.</InstallAdrenalHeart.jobString>
+  <InstallAdrenalHeart.label>თირკმელზედა ჯირკვლის გულის დაყენება</InstallAdrenalHeart.label>
+  <InstallCorrosiveHeart.description>დააინსტალირეთ კოროზიული გული.</InstallCorrosiveHeart.description>
+  <InstallCorrosiveHeart.jobString>კოროზიული გულის დაყენება.</InstallCorrosiveHeart.jobString>
+  <InstallCorrosiveHeart.label>დააინსტალირეთ კოროზიული გული</InstallCorrosiveHeart.label>
+  <InstallGhoulBarbs.description>დააინსტალირეთ ghoul barbs.</InstallGhoulBarbs.description>
+  <InstallGhoulBarbs.jobString>Ghoul barbs-ის დაყენება.</InstallGhoulBarbs.jobString>
+  <InstallGhoulBarbs.label>დააინსტალირეთ ghoul barbs</InstallGhoulBarbs.label>
+  <InstallGhoulPlating.description>დააინსტალირეთ ghoul plating.</InstallGhoulPlating.description>
+  <InstallGhoulPlating.jobString>ღორღის საფარის დაყენება.</InstallGhoulPlating.jobString>
+  <InstallGhoulPlating.label>დააინსტალირეთ ghoul plating</InstallGhoulPlating.label>
+  <InstallMetalbloodHeart.description>დააინსტალირეთ მეტალსისხლიანი გული.</InstallMetalbloodHeart.description>
+  <InstallMetalbloodHeart.jobString>ლითონის სისხლის გულის დაყენება.</InstallMetalbloodHeart.jobString>
+  <InstallMetalbloodHeart.label>დააინსტალირეთ მეტალსისხლიანი გული</InstallMetalbloodHeart.label>
+  <InstallRevenantVertebrae.description>დააინსტალირეთ მობრუნებული ხერხემლიანები.</InstallRevenantVertebrae.description>
+  <InstallRevenantVertebrae.jobString>მობრუნებული ხერხემლის დაყენება.</InstallRevenantVertebrae.jobString>
+  <InstallRevenantVertebrae.label>დააინსტალირეთ მობრუნებული ხერხემლიანები</InstallRevenantVertebrae.label>
+</LanguageData>

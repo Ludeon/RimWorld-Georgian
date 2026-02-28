@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Malnutrition.description>არანორმალურად დაბალი სხეულის ცხიმი და წონა, რაც ჩვეულებრივ გამოწვეულია საკვების ნაკლებობით. არასწორი კვება ყოველთვის ძალიან უსიამოვნოა, მაგრამ მისი საწყისი ეფექტი მსუბუქია. თუმცა, საკვების გარეშე, არასრულფასოვანი არსება იკარგება, კარგავს კუნთების მასას და შესაძლებლობებს. არასწორი კვება სიკვდილით მთავრდება. ხელახლა კვების შემდეგ, არასრულფასოვანი კვება ბუნებრივად აღდგება დროთა განმავლობაში. არასასიამოვნო არსებებს ჩვეულებრივზე დიდი მადა აქვთ.</Malnutrition.description>
+  <Malnutrition.label>არასწორი კვება</Malnutrition.label>
+  <Malnutrition.stages.0.label>ტრივიალური</Malnutrition.stages.0.label>
+  <Malnutrition.stages.1.label>მცირეწლოვანი</Malnutrition.stages.1.label>
+  <Malnutrition.stages.2.label>ზომიერი</Malnutrition.stages.2.label>
+  <Malnutrition.stages.3.label>მძიმე</Malnutrition.stages.3.label>
+  <Malnutrition.stages.4.label>უკიდურესი</Malnutrition.stages.4.label>
+</LanguageData>

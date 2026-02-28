@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Delinquent13.description>[PAWN_nameDef] ბავშვობის [PAWN_possessive] უმეტესი ნაწილი გისოსებს მიღმა გაატარა. წარუმატებელი გაქცევის მცდელობის შემდეგ, [PAWN_pronoun] დაჭერილი იქნა ჯარში.</Delinquent13.description>
+  <Delinquent13.title>დამნაშავის</Delinquent13.title>
+  <Delinquent13.titleShort>დამნაშავის</Delinquent13.titleShort>
+  <Machinist56.description>[PAWN_nameDef]-ს ჰქონდა ტექნიკის უნარი. [PAWN_pronoun]-მა შეავსო [PAWN_possessive] ოჯახის შემოსავალი შავი ბაზრის იარაღის შეკეთებით და შეცვლით.</Machinist56.description>
+  <Machinist56.title>მემანქანე</Machinist56.title>
+  <Machinist56.titleShort>მემანქანე</Machinist56.titleShort>
+  <MilitaryCadet46.description>[PAWN_nameDef] was levied from [PAWN_possessive] family at a young age to become a soldier. [PAWN_pronoun] lived in barracks with other military kids, learning about duty, weapons, pain, and victory.
+\nThe trainers sometimes let the kids escape the base to enjoy the wider world. They wanted soldiers who can think independently.</MilitaryCadet46.description>
+  <MilitaryCadet46.title>სამხედრო იუნკერი</MilitaryCadet46.title>
+  <MilitaryCadet46.titleShort>იუნკერი</MilitaryCadet46.titleShort>
+  <PoliticalCaptive7.description>[PAWN_nameDef] კონკურენტმა ოჯახმა გაიტაცა და გამოსასყიდად დააკავა. ტყვეობაში დროის გასატარებლად, [PAWN_pronoun] კითხულობდა წიგნებს და ვარჯიშობდა საბრძოლო ხელოვნებაში. [PAWN_nameDef]-ს ჰქონდა მცირე შესაძლებლობა, განევითარებინა [PAWN_possessive] სოციალური უნარები.</PoliticalCaptive7.description>
+  <PoliticalCaptive7.title>პოლიტიკური ტყვე</PoliticalCaptive7.title>
+  <PoliticalCaptive7.titleShort>ტყვედ</PoliticalCaptive7.titleShort>
+  <RichKid61.description>[PAWN_nameDef] წარმოიშვა მდიდარი და გავლენიანი სისხლის ხაზიდან. [PAWN_possessive] ძვირადღირებული განათლება მოიცავდა გაკვეთილებს დუელში, ლიდერობაზე და სამხედრო სტრატეგიაზე.</RichKid61.description>
+  <RichKid61.title>მდიდარი ბავშვი</RichKid61.title>
+  <RichKid61.titleShort>მდიდარი ბავშვი</RichKid61.titleShort>
+  <ShipBoy89.description>[PAWN_nameDef] was born to low-ranked servants on an ancient starship. The ship's machine persona was like a third parent to [PAWN_objective], and the parts crafting crew [PAWN_pronoun] worked for was like a second family.
+\n[PAWN_nameDef] rarely saw plants or animals, and still finds them unnerving to touch.</ShipBoy89.description>
+  <ShipBoy89.title>გემის ბიჭი</ShipBoy89.title>
+  <ShipBoy89.titleFemale>გემის გოგონა</ShipBoy89.titleFemale>
+  <ShipBoy89.titleShort>გემის ბიჭი</ShipBoy89.titleShort>
+  <ShipBoy89.titleShortFemale>გემის გოგონა</ShipBoy89.titleShortFemale>
+  <SoldiersKid55.description>[PAWN_nameDef] გაიზარდა უძველეს ვარსკვლავურ ხომალდზე, სადაც [PAWN_possessive] მშობლები იყვნენ განლაგებული. [PAWN_pronoun] ბორტზე მყოფი ჯარისკაცებისგან ისწავლა ცეცხლსასროლი იარაღის მუშაობისა და ტექნიკური საფუძვლები. [PAWN_nameDef] მიეჩვია მკაცრ რუტინას და ხშირ დისციპლინას.</SoldiersKid55.description>
+  <SoldiersKid55.title>ჯარისკაცის შვილი</SoldiersKid55.title>
+  <SoldiersKid55.titleShort>ჯარისკაცი ბავშვი</SoldiersKid55.titleShort>
+  <StreetRat81.description>[PAWN_nameDef] ეკუთვნოდა ქუჩის ქურდების ბანდას. [PAWN_possessive] დღეები იხარჯებოდა ჯიბეების კრეფაში, ტერიტორიის შესახებ დავების გადაწყვეტაში ან ყველა წამალზე, რასაც [PAWN_posedon] შეეძლო [PAWN_possessive] ხელში.</StreetRat81.description>
+  <StreetRat81.title>ქუჩის ვირთხა</StreetRat81.title>
+  <StreetRat81.titleShort>ქუჩის ვირთხა</StreetRat81.titleShort>
+</LanguageData>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChildSpy47.description>ბავშვებს ჩვეულებრივ უდანაშაულოებად მიიჩნევენ, რაც მათ შესანიშნავ ჯაშუშებად აქცევს. [PAWN_nameDef] შეღწევის ხელოვნებაში მაშინ გაწვრთნეს, როცა [PAWN_pronoun] ჯერ კიდევ პატარა ბავშვი იყო.
+
+ფარულად გატარებულმა წლებმა [PAWN_objective] სოციალური მანიპულაციისა და ტყუილის გამოცდილება მისცა, მაგრამ [PAWN_pronoun]-ს ნორმალური განათლება არასოდეს მიუღია.</ChildSpy47.description>
+  <ChildSpy47.title>ბავშვი ჯაშუში</ChildSpy47.title>
+  <ChildSpy47.titleShort>ჯაშუში</ChildSpy47.titleShort>
+  <ChildStar74.description>[PAWN_nameDef] ცნობილი იყო მთელს [PAWN_possessive] საშინაო სამყაროში, როგორც ბავშვი მსახიობი ფილმებსა და სატელევიზიო შოუებში. [PAWN_possessive] პოპულარობამ [PAWN_objective] დაუკავშირა სხვადასხვა სახის ადამიანებთან, მაგრამ ასევე აფერხებდა [PAWN_possessive] განათლების გზას.</ChildStar74.description>
+  <ChildStar74.title>ბავშვის ვარსკვლავი</ChildStar74.title>
+  <ChildStar74.titleShort>ვარსკვლავი</ChildStar74.titleShort>
+  <ComaChild93.description>ბავშვობაში მომხდარმა შემთხვევამ [PAWN_nameDef] კომაში ჩააგდო. [PAWN_pronoun] არ გაიღვიძა მანამ, სანამ [PAWN_pronoun] იყო [PAWN_possessive] გვიან მოზარდობაში. [PAWN_possessive] სხეული არასოდეს გამოჯანმრთელდა წლების განმავლობაში უმოქმედობისგან, მაგრამ ადამიანებს აქვთ მოწყალება [PAWN_objective], როდესაც ესმით [PAWN_possessive] ამბავი.</ComaChild93.description>
+  <ComaChild93.title>კომაში ბავშვი</ComaChild93.title>
+  <ComaChild93.titleShort>კომაში ბავშვი</ComaChild93.titleShort>
+  <CultChild3.description>[PAWN_nameDef] დაიბადა ძლიერ კულტში, რომელიც უარყოფდა განვითარებულ ტექნოლოგიას და სჯეროდა, რომ ყოველ ავადმყოფობას სულის წმინდა ხელოვნებით განწმენდა კურნავდა.
+
+გარე სამყაროს პირველად დანახვის შემდეგ [PAWN_pronoun]-მა გაქცევა გადაწყვიტა.</CultChild3.description>
+  <CultChild3.title>საკულტო ბავშვი</CultChild3.title>
+  <CultChild3.titleShort>საკულტო ბავშვი</CultChild3.titleShort>
+  <FrightenedChild43.description>[PAWN_nameDef] უამრავი ფობიითა და ნევროზით გაიზარდა. სხვა ბევრ რამესთან ერთად, [PAWN_pronoun]-ს ექიმებისა და საკვებით გავრცელებული პათოგენებისაც ეშინოდა.
+
+ამის გამო [PAWN_pronoun]-მა საჭმლის კეთებაც ისწავლა და საკუთარ თავზეც ზრუნავდა, მაგრამ [PAWN_possessive] ბევრი შიში ზრდასრულობაშიც თან გაჰყვა [PAWN_objective].</FrightenedChild43.description>
+  <FrightenedChild43.title>შეშინებული ბავშვი</FrightenedChild43.title>
+  <FrightenedChild43.titleShort>შეშინებული</FrightenedChild43.titleShort>
+  <MedicalAssistant12.description>[PAWN_nameDef] დაიბადა კატასტროფული ომის დროს, რომელშიც ორივე მხარე იყენებდა ცეცხლგამჩენ იარაღს. [PAWN_pronoun] გაიზარდა და ეხმარებოდა [PAWN_მფლობელ] მშობლებს ლაზარეთში, მკურნალობდა ბრძოლის ველებიდან საშინელი დამწვრობის კასკადს. [PAWN_pronoun] დარჩა ხანძრის შიშით.</MedicalAssistant12.description>
+  <MedicalAssistant12.title>სამედიცინო ასისტენტი</MedicalAssistant12.title>
+  <MedicalAssistant12.titleShort>მედიკოსი</MedicalAssistant12.titleShort>
+  <MusicalKid86.description>ბავშვობაში [PAWN_nameDef]-ს ჰქონდა მუსიკალური ინსტრუმენტების დაკვრისა და სიმღერის ნიჭი. [PAWN_pronoun] ჩაუტარდა საექსპერტო ტრენინგს და უყვარდა კონცერტებსა და კონცერტებზე შესრულება, თუმცა მდიდრულმა შექებამ [PAWN_pronoun] ცოტათი თვითშეპყრობილი გახადა [PAWN_objective].</MusicalKid86.description>
+  <MusicalKid86.title>მუსიკალური ბავშვი</MusicalKid86.title>
+  <MusicalKid86.titleShort>მუსიკოსი</MusicalKid86.titleShort>
+  <Mute34.description>[PAWN_nameDef] დიდად იმოქმედა ტრავმულმა მოვლენამ ადრეულ ასაკში [PAWN_possessive] ცხოვრებაში. მრავალი წლის განმავლობაში [PAWN_pronoun] უარს ამბობდა ხალხთან ლაპარაკზე და ამჯობინებდა ეთამაშა [PAWN_possessive] ოჯახის მრავალრიცხოვან შინაურ ცხოველებთან.</Mute34.description>
+  <Mute34.title>მუნჯი</Mute34.title>
+  <Mute34.titleShort>მუნჯი</Mute34.titleShort>
+  <OrganFarm67.description>[PAWN_nameDef] გაიზარდა არალეგალურ მიწისქვეშა ორგანოთა ფერმაში. [PAWN_possessive] სხეული გამოიყენებოდა ორგანული იმპლანტების გასაშენებლად დაჭრილი დაქირავებული მეომრებისთვის. მიუხედავად იმისა, რომ [PAWN_possessive] აღზრდამ [PAWN_objective] შეურაცხმყოფელი დატოვა, მან ასევე მისცა [PAWN_objective] ადამიანის ბიოლოგიის უნიკალური გაგება.</OrganFarm67.description>
+  <OrganFarm67.title>ორგანოთა ფერმა</OrganFarm67.title>
+  <OrganFarm67.titleShort>ორგანოთა ფერმა</OrganFarm67.titleShort>
+  <Pyromaniac18.description>ადრეული ასაკიდანვე [PAWN_nameDef]-ს ცეცხლის მიმართ ავადმყოფური გატაცება ჰქონდა. [PAWN_pronoun] ნაგვის გროვებს ცეცხლს უკიდებდა და ალით ისე ეტრიფებოდა, რომ ხშირად გაფანტულად საკუთარ თავსაც წვავდა.
+
+ერთ დღეს, ასანთით თამაშისას, [PAWN_pronoun]-მა დაუდევრობით [PAWN_possessive] სახლი გადაწვა.</Pyromaniac18.description>
+  <Pyromaniac18.title>პირომანი</Pyromaniac18.title>
+  <Pyromaniac18.titleShort>პირო</Pyromaniac18.titleShort>
+  <ShopKid36.description>[PAWN_nameDef]-ის დედა ხშირად ავად იყო და [PAWN_objective]-ს ევალებოდა მაღაზიის მართვა, რომელიც მათი შემოსავლის ერთადერთი წყარო იყო. [PAWN_pronoun]-მ ცოტა რამ შეიტყო ეგზოტიკური არტეფაქტების შესახებ, რომლებიც [PAWN_pronoun] გაყიდა და ბევრი რამ გარიგების ხელოვნების შესახებ.</ShopKid36.description>
+  <ShopKid36.title>მაღაზიის ბავშვი</ShopKid36.title>
+  <ShopKid36.titleShort>მაღაზიის პატრონი</ShopKid36.titleShort>
+  <SicklyChild55.description>ბავშვობაში [PAWN_nameDef] იშვიათი დაავადებით იტანჯებოდა. საავადმყოფოში კარანტინში მყოფს [PAWN_pronoun] ჰქონდა მინიმალური ადამიანური კონტაქტი და მცირე ფიზიკური ვარჯიში. თუმცა, საავადმყოფოს სტერილურ გარემოში [PAWN_pronoun] ძალიან კარგად იცნობდა მეცნიერებას და მედიცინას.</SicklyChild55.description>
+  <SicklyChild55.title>ავადმყოფი ბავშვი</SicklyChild55.title>
+  <SicklyChild55.titleShort>პაციენტი</SicklyChild55.titleShort>
+  <StoryWriter67.description>ბავშვობაში [PAWN_nameDef] კითხვაზე იყო დამოკიდებული. [PAWN_pronoun] მთელ დღეს ატარებდა [PAWN_possessive] ადგილობრივ ბიბლიოთეკაში [PAWN_possessive] ცხვირით წიგნში. როდესაც ბიუჯეტის შემცირებამ აიძულა ბიბლიოთეკა დაეხურა, [PAWN_nameDef] შეშფოთებული იყო. [PAWN_pronoun]-მა გადაწყვიტა შეავსო ხარვეზი და მის ნაცვლად დაწერა [PAWN_possessive] საკუთარი ისტორიები.</StoryWriter67.description>
+  <StoryWriter67.title>მოთხრობის ავტორი</StoryWriter67.title>
+  <StoryWriter67.titleShort>მწერალი</StoryWriter67.titleShort>
+  <VatgrownSoldier8.description>[PAWN_nameDef] არ შეიქმნა როგორც პიროვნება, არამედ როგორც განადგურების ინსტრუმენტი. ბიოიარაღის ობიექტში გაზრდილი და [PAWN_possessive] დაჩქარებული ზრდის დროს ბრძოლას ასწავლიდნენ, [PAWN_nameDef] კვლავ მიდრეკილია ყველა სახის ბრძოლისკენ და ზიზღი ადამიანებთან კონტაქტის მიმართ.</VatgrownSoldier8.description>
+  <VatgrownSoldier8.title>გაზრდილი ჯარისკაცი</VatgrownSoldier8.title>
+  <VatgrownSoldier8.titleShort>ვატზრდილი</VatgrownSoldier8.titleShort>
+  <WarRefugee51.description>ომი დაიწყო [PAWN_nameDef]-ის სახლში, როცა [PAWN_pronoun] ჯერ ჩვილი იყო. [PAWN_possessive] მშობლებმა [PAWN_objective] თან წაიყვანეს და ყველგან ეძებდნენ უსაფრთხოებას, სადაც კი შეეძლოთ. [PAWN_nameDef]-ის ყველაზე ადრეული მოგონებები საკუთარი თავის დაცვის სწავლებას უკავშირდება.
+
+ძალადობამ და ნგრევამ, რომელიც [PAWN_pronoun]-მა იხილა, [PAWN_objective] მთელი ცხოვრების მანძილზე დაატყვია.</WarRefugee51.description>
+  <WarRefugee51.title>ომის ლტოლვილი</WarRefugee51.title>
+  <WarRefugee51.titleShort>ლტოლვილი</WarRefugee51.titleShort>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Brain.label>ტვინი</Brain.label>
+  <Ear.label>ყური</Ear.label>
+  <Eye.label>თვალი</Eye.label>
+  <Foot.label>ფეხი</Foot.label>
+  <Head.label>ხელმძღვანელი</Head.label>
+  <Jaw.label>ყბა</Jaw.label>
+  <Leg.label>ფეხი</Leg.label>
+  <Neck.label>კისერი</Neck.label>
+  <Nose.label>ცხვირი</Nose.label>
+  <Ribcage.label>ნეკნი</Ribcage.label>
+  <Skull.label>თავის ქალა</Skull.label>
+  <Spine.label>ხერხემალი</Spine.label>
+  <Tongue.label>ენა</Tongue.label>
+</LanguageData>

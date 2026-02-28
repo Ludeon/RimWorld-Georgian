@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Apostasy_Abhorrent.description>ჩვენი იდეოლიგიის გაცნობის შემდეგ დატოვება არის უზნეობის სიღრმე.</Apostasy_Abhorrent.description>
+  <Apostasy_Abhorrent.label>საზიზღარი</Apostasy_Abhorrent.label>
+  <Apostasy_Disapproved.description>ჩვენი იდეოლიგიის გაცნობის შემდეგ დატოვება მიუთითებს ხასიათის ხარვეზებზე.</Apostasy_Disapproved.description>
+  <Apostasy_Disapproved.label>არ მოიწონა</Apostasy_Disapproved.label>
+  <Apostasy_Horrible.description>ჩვენი იდეოლიგიის გაცნობის შემდეგ დატოვება მიანიშნებს ღრმა მორალურ ხარვეზებზე.</Apostasy_Horrible.description>
+  <Apostasy_Horrible.label>საზარელი</Apostasy_Horrible.label>
+</LanguageData>

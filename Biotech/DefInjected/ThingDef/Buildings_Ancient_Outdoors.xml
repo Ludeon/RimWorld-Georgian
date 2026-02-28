@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientExostriderCannon.description>მასიური, უძველესი ეგზოსტრაიდერის მექანოიდის უკან დამაგრებული ენერგეტიკული ქვემეხის ნაშთები.</AncientExostriderCannon.description>
+  <AncientExostriderCannon.label>უძველესი ეგზოსტრაიდერის ქვემეხი</AncientExostriderCannon.label>
+  <AncientExostriderHead.description>მასიური, უძველესი ეგზოსტრაიდერის მექანოიდის თავის ნაშთები. ის აფეთქდა რაღაც მაღალი ენერგიის იარაღით.</AncientExostriderHead.description>
+  <AncientExostriderHead.label>უძველესი ეგზოსტრაიდერის თავი</AncientExostriderHead.label>
+  <AncientExostriderLeg.description>მასიური, უძველესი ეგზოსტრაიდერის მექანოიდის ფეხის ნაშთები.</AncientExostriderLeg.description>
+  <AncientExostriderLeg.label>უძველესი ეგზოსტრაიდერის ფეხი</AncientExostriderLeg.label>
+  <AncientExostriderRemains.description>The remains of a massive, ancient exostrider war mechanoid. Long ago, some high-energy weapon shattered the body and fused the parts into an almost-solid mass.\n\nIn its guts, it looks like there is a still-functional transponder. If you could extract the transponder, you could decrypt it to gather valuable information.\n\nThe mech's incendiary weapon cells are intact but unstable, and will likely detonate after you do some damage.</AncientExostriderRemains.description>
+  <AncientExostriderRemains.label>უძველესი ეგზოსტრიდერის შუა განყოფილება</AncientExostriderRemains.label>
+</LanguageData>

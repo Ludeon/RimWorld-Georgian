@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Fin.label>ფარფლი</Fin.label>
+  <FleshClub_Gorehulk.label>ხორცის კლუბი</FleshClub_Gorehulk.label>
+  <FleshmassNucleusCore.label>ბირთვი</FleshmassNucleusCore.label>
+  <MetalhorrorArm.label>მკლავი</MetalhorrorArm.label>
+  <MetalhorrorBlade.label>დანა</MetalhorrorBlade.label>
+  <MetalhorrorBrain.label>გონების ბირთვი</MetalhorrorBrain.label>
+  <MetalhorrorCore.label>ბირთვი</MetalhorrorCore.label>
+  <MetalhorrorEye.label>თვალი</MetalhorrorEye.label>
+  <MetalhorrorFoot.label>ფეხი</MetalhorrorFoot.label>
+  <MetalhorrorHead.label>ხელმძღვანელი</MetalhorrorHead.label>
+  <MetalhorrorLeg.label>ფეხი</MetalhorrorLeg.label>
+  <MetalhorrorNeck.label>კისერი</MetalhorrorNeck.label>
+  <MetalhorrorShoulder.label>მკლავი</MetalhorrorShoulder.label>
+  <MetalhorrorTorso.label>ტორსი</MetalhorrorTorso.label>
+  <MovingBody.label>სხეული</MovingBody.label>
+  <NociosphereCore.label>ბირთვი</NociosphereCore.label>
+  <NociosphereShell.label>ჭურვი</NociosphereShell.label>
+  <NoctolClaw.label>კლანჭა</NoctolClaw.label>
+  <ShellSection.label>ჭურვის განყოფილება</ShellSection.label>
+  <SpineLauncher_Gorehulk.label>ხერხემლის მტევანი</SpineLauncher_Gorehulk.label>
+</LanguageData>

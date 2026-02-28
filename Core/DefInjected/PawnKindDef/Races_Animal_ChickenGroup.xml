@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Chicken.label>ქათამი</Chicken.label>
+  <Chicken.labelFemale>ქათამი</Chicken.labelFemale>
+  <Chicken.labelMale>მამალი</Chicken.labelMale>
+  <Chicken.lifeStages.0.label>წიწილა</Chicken.lifeStages.0.label>
+  <Chicken.lifeStages.1.labelMale>მამალი</Chicken.lifeStages.1.labelMale>
+  <Duck.label>იხვი</Duck.label>
+  <Duck.lifeStages.0.label>იხვის ჭუკი</Duck.lifeStages.0.label>
+  <Goose.label>ბატი</Goose.label>
+  <Turkey.label>ინდაური</Turkey.label>
+</LanguageData>

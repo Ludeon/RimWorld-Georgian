@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BotchedMySurgery.stages.0.label>ჩამიშალა ოპერაცია</BotchedMySurgery.stages.0.label>
+  <BrokeUpWithMe.stages.0.label>დამშორდა</BrokeUpWithMe.stages.0.label>
+  <BrokeUpWithMeMood.stages.0.description>მე უბრალოდ ნაგვის ტვირთივით დამყარეს.</BrokeUpWithMeMood.stages.0.description>
+  <BrokeUpWithMeMood.stages.0.label>დაშორდა {0}-ს</BrokeUpWithMeMood.stages.0.label>
+  <CheatedOnMe.stages.0.label>მომატყუა</CheatedOnMe.stages.0.label>
+  <CheatedOnMeMood.stages.0.description>როგორ მომატყუა ვინმემ!</CheatedOnMeMood.stages.0.description>
+  <CheatedOnMeMood.stages.0.label>მოტყუებული {0}</CheatedOnMeMood.stages.0.label>
+  <Chitchat.stages.0.label>ჩიჩი</Chitchat.stages.0.label>
+  <CrashedTogether.stages.0.label>ერთად დაეჯახა</CrashedTogether.stages.0.label>
+  <DeepTalk.stages.0.label>ღრმა საუბარი</DeepTalk.stages.0.label>
+  <DivorcedMe.stages.0.label>გამშორდა</DivorcedMe.stages.0.label>
+  <DivorcedMeMood.stages.0.description>ჩვენ ავიღეთ ვალდებულება და მათ უბრალოდ დაშალეს იგი.</DivorcedMeMood.stages.0.description>
+  <DivorcedMeMood.stages.0.label>განქორწინდა {0}</DivorcedMeMood.stages.0.label>
+  <FailedRomanceAttemptOnMe.stages.0.label>ვერ დამიწყო რომანტიკა</FailedRomanceAttemptOnMe.stages.0.label>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>ვიღაც, რომელიც არ მომწონს, ცდილობდა ჩემთან რომანტიკულ ურთიერთობას.</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.description>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>მოუხდა უარი {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.0.label>
+  <ForcedMeToTakeDrugs.stages.0.label>აიძულა წამლის მიღება</ForcedMeToTakeDrugs.stages.0.label>
+  <ForcedMeToTakeDrugsMood.stages.0.description>მე ვარ ტეტოტალერი; მე არასოდეს ვიღებდი ნარკოტიკებს სურვილისამებრ. მაგრამ მე იძულებული ვიყავი! თავს უწმინდურად ვგრძნობ.</ForcedMeToTakeDrugsMood.stages.0.description>
+  <ForcedMeToTakeDrugsMood.stages.0.label>აიძულეს ნარკოტიკების მიღება</ForcedMeToTakeDrugsMood.stages.0.label>
+  <ForcedMeToTakeLuciferium.stages.0.label>მაიძულა ლუციფერიუმის მიღება</ForcedMeToTakeLuciferium.stages.0.label>
+  <ForcedMeToTakeLuciferiumMood.stages.0.description>მე ვარ სხეულის გამწმენდი; მე არასოდეს ვიღებდი ლუციფერიუმს სურვილისამებრ. მაგრამ მე იძულებული ვიყავი! თავს უწმინდურად ვგრძნობ.</ForcedMeToTakeLuciferiumMood.stages.0.description>
+  <ForcedMeToTakeLuciferiumMood.stages.0.label>აიძულეს ლუციფერიუმის მიღება</ForcedMeToTakeLuciferiumMood.stages.0.label>
+  <GotSomeLovin.stages.0.description>არაფერია ისეთი, როგორიც ფურცლებს შორის ტრიალია განწყობის ასამაღლებლად.</GotSomeLovin.stages.0.description>
+  <GotSomeLovin.stages.0.label>მივიღე სიყვარული</GotSomeLovin.stages.0.label>
+  <HadAngeringFight.stages.0.label>გაბრაზებული ბრძოლა</HadAngeringFight.stages.0.label>
+  <HadCatharticFight.stages.0.label>კათარზისული ბრძოლა</HadCatharticFight.stages.0.label>
+  <HarmedMe.stages.0.label>დამიშავა</HarmedMe.stages.0.label>
+  <HoneymoonPhase.stages.0.label>თაფლობის თვის ფაზა</HoneymoonPhase.stages.0.label>
+  <Insulted.stages.0.label>შეურაცხყოფილი</Insulted.stages.0.label>
+  <InsultedMood.stages.0.description>მე პირდაპირ შეურაცხყოფა მიაყენეს! რა საშინელი ადამიანია!</InsultedMood.stages.0.description>
+  <InsultedMood.stages.0.label>შეურაცხყოფილი</InsultedMood.stages.0.label>
+  <IRejectedTheirProposal.stages.0.label>მე უარვყავი მათი წინადადება</IRejectedTheirProposal.stages.0.label>
+  <KilledMyBondedAnimal.stages.0.label>მოკლა ჩემი შეკრული ცხოველი</KilledMyBondedAnimal.stages.0.label>
+  <KilledMyBrother.stages.0.label>მოკლა ჩემი ძმა</KilledMyBrother.stages.0.label>
+  <KilledMyDaughter.stages.0.label>მოკლა ჩემი ქალიშვილი</KilledMyDaughter.stages.0.label>
+  <KilledMyFather.stages.0.label>მოკლა მამაჩემი</KilledMyFather.stages.0.label>
+  <KilledMyFiance.stages.0.label>მოკლა ჩემი საქმრო</KilledMyFiance.stages.0.label>
+  <KilledMyFriend.stages.0.label>მოკლა ჩემი მეგობარი</KilledMyFriend.stages.0.label>
+  <KilledMyKin.stages.0.label>მოკლა ჩემი ნათესავი</KilledMyKin.stages.0.label>
+  <KilledMyLover.stages.0.label>მოკლა ჩემი შეყვარებული</KilledMyLover.stages.0.label>
+  <KilledMyMother.stages.0.label>მოკლა დედაჩემი</KilledMyMother.stages.0.label>
+  <KilledMyRival.stages.0.label>მოკლა ჩემი მეტოქე</KilledMyRival.stages.0.label>
+  <KilledMySister.stages.0.label>მოკლა ჩემი და</KilledMySister.stages.0.label>
+  <KilledMySon.stages.0.label>მოკლა ჩემი შვილი</KilledMySon.stages.0.label>
+  <KilledMySpouse.stages.0.label>მოკლა ჩემი მეუღლე</KilledMySpouse.stages.0.label>
+  <KindWords.stages.0.label>კეთილი სიტყვები</KindWords.stages.0.label>
+  <KindWordsMood.stages.0.description>მე მომცეს კეთილი სიტყვები! რა კარგი ადამიანია!</KindWordsMood.stages.0.description>
+  <KindWordsMood.stages.0.label>კეთილი სიტყვები</KindWordsMood.stages.0.label>
+  <RapportBuilt.stages.0.label>აშენდა ურთიერთობა</RapportBuilt.stages.0.label>
+  <RebuffedMyRomanceAttempt.stages.0.label>უარყო მე</RebuffedMyRomanceAttempt.stages.0.label>
+  <RebuffedMyRomanceAttemptMood.stages.0.description>ვცადე რომანტიკის შექმნა, მაგრამ ცივი მხარში მივიღე. თავს ცუდად გრძნობს კაცი.</RebuffedMyRomanceAttemptMood.stages.0.description>
+  <RebuffedMyRomanceAttemptMood.stages.0.label>უარყო {0}</RebuffedMyRomanceAttemptMood.stages.0.label>
+  <RecruitedMe.stages.0.label>გადამიყვანეს</RecruitedMe.stages.0.label>
+  <RejectedMyProposal.stages.0.label>უარყო ჩემი წინადადება</RejectedMyProposal.stages.0.label>
+  <RejectedMyProposalMood.stages.0.description>მე მეგონა, რომ დაქორწინებას ვაპირებდით. მაგრამ მე უბრალოდ დამესროლეს.</RejectedMyProposalMood.stages.0.description>
+  <RejectedMyProposalMood.stages.0.label>ჩემი წინადადება უარყო {0}</RejectedMyProposalMood.stages.0.label>
+  <RescuedMe.stages.0.label>გადამარჩინა</RescuedMe.stages.0.label>
+  <RescuedMeByOfferingHelp.stages.0.description>ვიღაცამ გადამარჩინა! კინაღამ მეგონა, რომ იქ დაბრუნება დავასრულე. ძალიან მადლობელი ვარ.</RescuedMeByOfferingHelp.stages.0.description>
+  <RescuedMeByOfferingHelp.stages.0.label>გადამარჩინა</RescuedMeByOfferingHelp.stages.0.label>
+  <Slighted.stages.0.label>შეუმჩნეველი</Slighted.stages.0.label>
+  <SoldMyBondedAnimal.stages.0.description>ჩემი განსაკუთრებული შეკრული ცხოველი აჩუქეს!</SoldMyBondedAnimal.stages.0.description>
+  <SoldMyBondedAnimal.stages.0.label>შეკრული ცხოველი გადაეცა</SoldMyBondedAnimal.stages.0.label>
+  <SoldMyBondedAnimalMood.stages.0.description>ჩემი განსაკუთრებული შეკრული ცხოველი აჩუქეს!</SoldMyBondedAnimalMood.stages.0.description>
+  <SoldMyBondedAnimalMood.stages.0.label>შეკრული ცხოველი გადაეცა</SoldMyBondedAnimalMood.stages.0.label>
+  <SoldMyLovedOne.stages.0.description>ვიღაც მე მიყვარს ვაჭარს ხორცის ნაჭერივით მიჰყიდეს!</SoldMyLovedOne.stages.0.description>
+  <SoldMyLovedOne.stages.0.label>საყვარელი ადამიანი გაიყიდა</SoldMyLovedOne.stages.0.label>
+</LanguageData>

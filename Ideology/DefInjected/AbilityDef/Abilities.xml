@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnimalCalm.description>გამოიყენეთ ცხოველებთან დაკავშირების უნიკალური მეთოდები შეშლილი მხეცის დასამშვიდებლად.</AnimalCalm.description>
+  <AnimalCalm.label>ცხოველური სიმშვიდე</AnimalCalm.label>
+  <BerserkTrance.description>კასტერი ივსება ბრაზით იდეოლოგიური წყენის გამო. ეს აძლიერებს სხეულს ნორმალურ საზღვრებს გასცდა, მაგრამ ასევე ნიშნავს კონტროლის დაკარგვას და ყველა ახლომდებარე მტერს შეუჩერებელი გაბრაზებით შეტევას. გაბრაზებული მდგომარეობა 3 საათს გასტანს.</BerserkTrance.description>
+  <BerserkTrance.label>გაბრაზებული ტრანსი</BerserkTrance.label>
+  <CombatCommand.description>შექმენით აურა, რომელიც აძლიერებს საბრძოლო უნარებს ყველა ახლო მახლობლად. ეფექტი გრძელდება 24 საათის განმავლობაში და რჩება ლიდერთან მთელი ხანგრძლივობით.</CombatCommand.description>
+  <CombatCommand.label>საბრძოლო ბრძანება</CombatCommand.label>
+  <ConversionRitual.description>Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram.</ConversionRitual.description>
+  <ConversionRitual.label>გარდასახვის რიტუალი</ConversionRitual.label>
+  <Convert.description>მცდელობა მოაქცია ვინმეს სპიკერის იდეოლიგია. ეს შეამცირებს სამიზნის დარწმუნებას საკუთარ რწმენაში. სიზუსტის შემცირება დამოკიდებულია მომხსენებლის მოლაპარაკების უნარზე.</Convert.description>
+  <Convert.label>გარდაქმნის</Convert.label>
+  <Counsel.description>მიეცით რჩევა ადამიანს, გააუქმოს სევდიანი მეხსიერების ეფექტი. წარმატების შანსი დამოკიდებულია მომხსენებლის სოციალურ უნარებზე და მათ ურთიერთობაზე მსმენელთან.</Counsel.description>
+  <Counsel.label>რჩევა</Counsel.label>
+  <FarmingCommand.description>შესთავაზეთ მითითებები მეურნეობის ტექნიკის შესახებ, აძლიერებს მეურნეობის შესაძლებლობებს ყველასთვის ახლოს. ეფექტი რჩება მიმაგრებული კასტერზე 24 საათის განმავლობაში.</FarmingCommand.description>
+  <FarmingCommand.label>მეურნეობის ბრძანება</FarmingCommand.label>
+  <ImmunityDrive.description>შესთავაზეთ მორალური მხარდაჭერა, რომელიც აძლიერებს სხეულს, აძლიერებს იმუნიტეტს ერთი დღის განმავლობაში.</ImmunityDrive.description>
+  <ImmunityDrive.label>იმუნიტეტის გაძლიერება</ImmunityDrive.label>
+  <LeaderSpeech.description>წამოიწყეთ ლიდერის გამოსვლა. თუ ეს კარგად წავიდა, მსმენელები მიიღებენ გაუმჯობესებულ განწყობას, სპიკერის პატივისცემას და, შესაძლოა, ახალ შთაგონებას. თუ ის ცუდად წავა, სოციალური ზიანი დადგება.</LeaderSpeech.description>
+  <LeaderSpeech.label>ლიდერის გამოსვლა</LeaderSpeech.label>
+  <MarksmanCommand.description>დაუძახეთ კადრებს და გააუმჯობესეთ სროლის უნარი ყველა ახლო მახლობლად. ეფექტი რჩება მიმაგრებული კასტერზე 24 საათის განმავლობაში.</MarksmanCommand.description>
+  <MarksmanCommand.label>მსროლელის ბრძანება</MarksmanCommand.label>
+  <MiningCommand.description>შესთავაზეთ ინსტრუქციები მაინინგის ტექნიკის შესახებ, გაზრდის მაინინგის სიჩქარეს ყველა ახლომახლოსთვის. ეფექტი რჩება მიმაგრებული კასტერზე 24 საათის განმავლობაში.</MiningCommand.description>
+  <MiningCommand.label>სამთო ბრძანება</MiningCommand.label>
+  <PreachHealth.description>უქადაგეთ მორალური ძალა ავადმყოფს ან დაჭრილს თქვენი იდეოლოგიის ცნებებით. ეს გააუმჯობესებს მათ ჭრილობების შეხორცების სიჩქარეს და იმუნიტეტს.</PreachHealth.description>
+  <PreachHealth.label>ჯანმრთელობის ქადაგება</PreachHealth.label>
+  <ProductionCommand.description>შესთავაზეთ ინსტრუქციები მშენებლობის ტექნიკის შესახებ, აძლიერებს სამშენებლო და ხელოსნობის შესაძლებლობებს ყველა ახლომახლოსთვის. ეფექტი რჩება მიმაგრებული კასტერზე 24 საათის განმავლობაში.</ProductionCommand.description>
+  <ProductionCommand.label>წარმოების ბრძანება</ProductionCommand.label>
+  <Reassure.description>გაზარდეთ სხვისი დარწმუნება საკუთარ რწმენაში. აღდგენილი დარწმუნება ემყარება სპიკერის მოლაპარაკების უნარს.</Reassure.description>
+  <Reassure.label>ამშვიდებს</Reassure.label>
+  <ResearchCommand.description>მიაწოდეთ წინადადებები და გონებრივი მხარდაჭერა, გაზარდეთ ყველა ახლომდებარე კვლევის სიჩქარე. ეფექტი რჩება მიმაგრებული კასტერზე 24 საათის განმავლობაში.</ResearchCommand.description>
+  <ResearchCommand.label>კვლევის ბრძანება</ResearchCommand.label>
+  <Trial.description>დაადანაშაულეთ ვინმეს საშინელი დანაშაული და დაიწყეთ სასამართლო პროცესი, სადაც ისინი ან გაასამართლებენ ან გაამართლებენ. თუ სამიზნე მსჯავრდებულია, მათ შეუძლიათ თავისუფლად დააპატიმრონ, დაისაჯონ ან გააძევეს სასჯელის გარეშე. მსჯავრდებულის შანსი დამოკიდებულია ბრალდებულისა და ბრალდებულის სოციალურ შესაძლებლობებზე.</Trial.description>
+  <Trial.label>სასამართლო პროცესი</Trial.label>
+  <WorkDrive.description>მოუწოდეთ ადამიანს გარკვეული დროით მეტი იმუშაოს.</WorkDrive.description>
+  <WorkDrive.label>სამუშაო დრაივი</WorkDrive.label>
+</LanguageData>

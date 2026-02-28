@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CataphractArmor.description>ხელნაკეთი კატაფრაქტური ჯავშანი, მძიმე ძალის მქონე ჯავშანი, რომელიც ანელებს მომხმარებელს, მაგრამ რომელსაც შეუძლია აღიქვას უკიდურესი სასჯელი. გაითვალისწინეთ, რომ მათ ასევე სჭირდებათ მოწინავე კომპონენტები.</CataphractArmor.description>
+  <CataphractArmor.label>კატაფრაქტიული ჯავშანი</CataphractArmor.label>
+  <Gunlink.description>შექმენით ტარებადი იარაღის ბმულები თქვენი ჯარისკაცების სროლის სიზუსტის გასაუმჯობესებლად.</Gunlink.description>
+  <Gunlink.label>gunlink</Gunlink.label>
+  <JumpPack.description>შექმენით ნახტომი პაკეტები ბრძოლის დროს საჰაერო თავდასხმების შესასრულებლად.</JumpPack.description>
+  <JumpPack.label>ნახტომი პაკეტები</JumpPack.label>
+  <NobleApparel.description>შეკერეთ კეთილშობილური სპეციფიური ტანსაცმელი, როგორიცაა ოფიციალური მაისურები და ზედა ქუდები.</NobleApparel.description>
+  <NobleApparel.label>კეთილშობილური სამოსი</NobleApparel.label>
+  <RoyalApparel.description>მკერავი უმაღლესი დონის სამეფო სამოსი, როგორც სამეფო სამოსი და გვირგვინები.</RoyalApparel.description>
+  <RoyalApparel.label>სამეფო ტანსაცმელი</RoyalApparel.label>
+</LanguageData>

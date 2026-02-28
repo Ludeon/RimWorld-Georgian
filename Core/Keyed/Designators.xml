@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  
+  <DesignatorCancel>გაუქმება</DesignatorCancel>
+  <DesignatorCancelDesc>გააუქმეთ დანიშნული შენობა, სამთო მოპოვება, ტრანსპორტირება, მოსავლის აღება და ყველა სხვა აღნიშვნა.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>დავჭრათ მცენარეები</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>აღნიშნავს მოსაჭრელ და განადგურებულ მცენარეებს. მცენარე მთლიანად მოიხსნება და ნებისმიერი საკვები ან რესურსი მოსავალს მიიღებს.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>დემონტაჟი</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>გაანადგურე ეს და დაიბრუნე მისი რესურსების ნაწილი.</DesignatorDeconstructDesc>
+
+  <DesignatorDeconstructConduit>მილსადენის დეკონსტრუქცია</DesignatorDeconstructConduit>
+  <DesignatorDeconstructConduitDesc>დეკონსტრუქცია დენის მილები და დაიბრუნოს მათი რესურსების ნაწილი.</DesignatorDeconstructConduitDesc>
+
+  <DesignatorUninstall>მოხსნა</DesignatorUninstall>
+  <DesignatorUninstallDesc>წაშალეთ ეს, რათა გადაიტანოთ, გაიყიდოთ ან სხვაგან დააინსტალიროთ.</DesignatorUninstallDesc>
+
+  <DesignatorExtractTree>ამონაწერი ხე</DesignatorExtractTree>
+  <DesignatorExtractTreeDesc>ამოიღეთ ეს ხე ცოცხლად შენარჩუნებისას, რათა ის სხვაგან გადარგოთ.</DesignatorExtractTreeDesc>
+
+  <DesignatorHarvest>მოკრეფა</DesignatorHarvest>
+  <DesignatorHarvestDesc>აღნიშნავს მცენარეებს, რომლებიც უნდა მოიკრიფოს მათი საკვების ან სხვა პროდუქტებისთვის.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>დაჭერით ხე</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>აღნიშნავს ხეებს, რომლებიც უნდა მოჭრილიყვნენ შეშისთვის.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>აიტანეთ ნივთები</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>მონიშნეთ კლდის ნატეხები და სხვა ნივთები, რომლებიც უნდა გადაიტანოთ ნაგავსაყრელ ადგილებში. არ არის საჭირო ისეთი ნივთებისთვის, როგორიცაა საკვები ან გვამები, რომლებიც ყოველთვის გადასატანია.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>შესაძლებელია მხოლოდ გადასატანი, მაგრამ არა ყოველთვის გადასატანი ნივთების დანიშვნა (როგორიცაა კლდის ნატეხები).</MustHaulHaulables>
+
+  <DesignatorHunt>ნადირობა</DesignatorHunt>
+  <DesignatorHuntDesc>მონიშნეთ ცხოველებზე, რომლებზეც თქვენი მონადირეები ნადირობენ.\n\nნადირობენ მხოლოდ მონადირეები, რომლებსაც შესაბამისი სროლის იარაღი აქვთ.</DesignatorHuntDesc>
+
+  <DesignatorMine>მოპოვება</DesignatorMine>
+  <DesignatorMineDesc>დანიშნეთ მოსაპოვებელი კლდის ადგილები.</DesignatorMineDesc>
+
+  <DesignatorMineVein>ჩემი ვენა</DesignatorMineVein>
+  <DesignatorMineVeinDesc>დანიშნეთ მოსაპოვებელი კლდის ტერიტორია. კოლონისტები გააგრძელებენ მოპოვებას მანამ, სანამ ერთი და იგივე ტიპის ყველა დაკავშირებული ქვა არ იქნება დანაღმული.</DesignatorMineVeinDesc>
+
+  <DesignatorSmoothSurface>გლუვი ზედაპირი</DesignatorSmoothSurface>
+  <DesignatorSmoothSurfaceDesc>დანიშნეთ უხეში ქვის რელიეფი და კედლები გასასწორებელი.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothWalls>გლუვი კედლები</DesignatorSmoothWalls>
+  <DesignatorSmoothWallsDesc>დანიშნეთ უხეში ქვის კედლები გასასწორებლად.</DesignatorSmoothWallsDesc>
+  <DesignatorSmoothFloors>გლუვი რელიეფი</DesignatorSmoothFloors>
+  <DesignatorSmoothFloorsDesc>დანიშნეთ უხეში ქვის რელიეფი, რომელიც უნდა იყოს გათლილი.</DesignatorSmoothFloorsDesc>
+
+  <DesignatorPlan>გეგმა</DesignatorPlan>
+  <DesignatorPlanDesc>ადგილების დაგეგმვის აღნიშვნები. ისინი არაფერს აკეთებენ გარდა იმისა, რომ დაგეხმაროთ მომავალი გაფართოებების დაგეგმვაში.\n\nდააწკაპუნეთ მარჯვენა ღილაკით ყველა დაგეგმვის ზონის დასამალად ან გასახსნელად.</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>ამოიღეთ გეგმები</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>ამოიღეთ დაგეგმვის აღნიშვნები.</DesignatorPlanRemoveDesc>
+
+  <DesignatorForbid>აკრძალვა</DesignatorForbid>
+  <DesignatorForbidDesc>მონიშნეთ ნივთები აკრძალულად. კოლონისტები ვერ შეძლებენ დანიშნულ ნივთებთან ურთიერთობას.</DesignatorForbidDesc>
+
+  <DesignatorUnforbid>დაშვება</DesignatorUnforbid>
+  <DesignatorUnforbidDesc>მონიშნეთ ნივთები, როგორც აკრძალული. კოლონისტებს შეეძლებათ ურთიერთქმედება დანიშნულ ნივთებთან.</DesignatorUnforbidDesc>
+
+  <DesignatorAreaHomeExpand>გააფართოვეთ სახლის ტერიტორია</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>კოლონისტები შეაკეთებენ შენობებს, გაასუფთავებენ იატაკებს და ჩააქრობენ ხანძარს მხოლოდ სახლის ტერიტორიაზე.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>გაასუფთავეთ სახლის ტერიტორია</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>შლის სახლის ტერიტორიას. კოლონისტები აქ აღარ გაასუფთავებენ, შეაკეთებენ ან ჩააქრობენ ხანძარს.</DesignatorAreaHomeClearDesc>
+
+  <DesignatorAreaBuildRoofExpand>სახურავის ფართობის აშენება</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>კოლონისტები ამ ტერიტორიაზე სახურავებს ააშენებენ.</DesignatorAreaBuildRoofExpandDesc>
+
+  <DesignatorAreaNoRoofExpand>ამოიღეთ სახურავის ფართობი</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>კოლონისტები მოხსნიან სახურავებს ამ მხარეში (გარდა ზედა მთის, რომლის მოხსნა შეუძლებელია).</DesignatorAreaNoRoofExpandDesc>
+
+  <DesignatorAreaIgnoreRoofExpand>სახურავის არეალის იგნორირება</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpandDesc>კოლონისტები უგულებელყოფენ სახურავებს ამ მხარეში.</DesignatorAreaIgnoreRoofExpandDesc>
+
+  <DesignatorAreaSnowClearExpand>თოვლის მოსაშორებელი ტერიტორია</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>შექმენით ტერიტორია, რომელიც კოლონისტები შეეცდებიან თოვლისგან თავის დაღწევას.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>მოწმენდილი თოვლის მოსაშორებელი ტერიტორია</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>აშორებს თოვლის მოსაშორებელ ადგილს. კოლონისტები აღარ შეეცდებიან ამ ტერიტორიის თოვლისგან დაცლას.</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>გააფართოვეთ დაშვებული ტერიტორია</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>გააფართოვეთ დაშვებული არეალი.\n\nნებადართული ტერიტორიები არის განსაზღვრული ტერიტორიები, რომლებიც შეგიძლიათ მივანიჭოთ კოლონისტებს. კოლონისტები არ მიიღებენ სამუშაოს ან შეასრულებენ თავიანთ საჭიროებებს დაშვებული ტერიტორიის გარეთ.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>გაასუფთავეთ ნებადართული ტერიტორია</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>გაასუფთავეთ უჯრედები დაშვებული ზონიდან.\n\nდაშვებული ზონა არის განსაზღვრული ტერიტორიები, რომლებიც შეგიძლიათ მივანიჭოთ კოლონისტებს. კოლონისტები არ მიიღებენ სამუშაოს ან შეასრულებენ თავიანთ საჭიროებებს დაშვებული ტერიტორიის გარეთ.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>არეების მართვა...</ManageAreas>
+  <ManageAutoSlaughter>მართეთ ავტომატური დაკვლა...</ManageAutoSlaughter>
+
+  <DesignatorGrowingZoneDesc>შექმენით ზონა, სადაც თქვენი კოლონისტები შეეცდებიან გაზარდონ გარკვეული სახის მცენარე.</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>შექმენით მარაგი, სადაც თქვენი კოლონისტები შეინახავენ რესურსებს.\nამ ხელსაწყოს ასევე შეუძლია გააფართოვოს არსებული მარაგი.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>შექმენით მარაგი, სადაც თქვენი კოლონისტები შეინახავენ უსარგებლო მასალას.\nამ ხელსაწყოს ასევე შეუძლია გააფართოვოს არსებული მარაგი.</DesignatorZoneCreateStorageDumpingDesc>
+
+  <DesignatorZoneDelete>ზონების შემცირება</DesignatorZoneDelete>
+  <DesignatorZoneDeleteSingular>შემცირების ზონა</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteDesc>ამოიღეთ ზონები, როგორიცაა მარაგის ზონები ან მზარდი ზონები.</DesignatorZoneDeleteDesc>
+
+  <DesignatorZoneExpand>ზონის გაფართოება</DesignatorZoneExpand>
+  
+  <DesignatorClaim>მოთხოვნა</DesignatorClaim>
+  <DesignatorClaimDesc>მოითხოვეთ კოლონიისთვის ნეიტრალური სტრუქტურები, მათ შორის უძველესი ნანგრევები და მიტოვებული ალყის ბაზები. პრეტენზიული სტრუქტურების შეკეთება და შენარჩუნება შესაძლებელია თქვენი კოლონისტების მიერ.</DesignatorClaimDesc>
+
+  <DesignatorRemoveFloor>იატაკის მოხსნა</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>ამოიღეთ იატაკები, რათა გამოაშკარავოთ რელიეფის ქვეშ.</DesignatorRemoveFloorDesc>
+
+  <DesignatorRemoveBridge>ხიდის ამოღება</DesignatorRemoveBridge>
+  <DesignatorRemoveBridgeDesc>ხიდების დეკონსტრუქცია ნაწილობრივი რესურსების დასაბრუნებლად.</DesignatorRemoveBridgeDesc>
+
+  <DesignatorStrip>გაძარცვა</DesignatorStrip>
+  <DesignatorStripDesc>გააცალეთ ტანსაცმელი გვამებს და დაჭრილებს.</DesignatorStripDesc>
+
+  <DesignatorOpen>გახსნა</DesignatorOpen>
+  <DesignatorOpenDesc>გახსენით კონტეინერები.</DesignatorOpenDesc>
+  
+  <DesignatorEjectFuel>საწვავის ამოღება</DesignatorEjectFuel>
+  <DesignatorEjectFuelDesc>გადმოყარეთ ყველა შემცველი საწვავი მიწაზე.</DesignatorEjectFuelDesc>
+
+  <DesignatorSlaughter>დაკვლა</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>მოთვინიერებული ცხოველი დაკალით.</DesignatorSlaughterDesc>
+
+  <DesignatorTame>მოშინაურება</DesignatorTame>
+  <DesignatorTameDesc>მოათვინიერე გარეული ცხოველი.</DesignatorTameDesc>
+  <CantTameScaria>სკარიით დაავადებული ცხოველების მოთვინიერება შეუძლებელია.</CantTameScaria>
+
+  <DesignatorReleaseAnimalToWild>გაშვება ველურში</DesignatorReleaseAnimalToWild>
+  <DesignatorReleaseAnimalToWildDesc>გაათავისუფლეთ ცხოველი ველურ ბუნებაში.</DesignatorReleaseAnimalToWildDesc>
+
+  <DesignatorStudy>შესწავლა</DesignatorStudy>
+  <DesignatorStudyDesc>შეისწავლეთ ეს ობიექტი, რომ მეტი გაიგოთ მის შესახებ.</DesignatorStudyDesc>
+
+  <DesignatorPaintBuilding>შენობის შეღებვა...</DesignatorPaintBuilding>
+  <DesignatorPaintBuildingDesc>დანიშნეთ კედლები და შენობები შესაღებად ტინქტორიის მცენარის საღებავით, რომელიც შეგიძლიათ გაიზარდოთ. მხოლოდ გარკვეული შენობების მოხატვაა შესაძლებელი.</DesignatorPaintBuildingDesc>
+  <DesignatorPaintFloor>იატაკის შეღებვა...</DesignatorPaintFloor>
+  <DesignatorPaintFloorDesc>დანიშნეთ იატაკი შესაღებად ტინქტორიის მცენარის საღებავით, რომელიც შეგიძლიათ გაიზარდოთ. მხოლოდ გარკვეული სართულების მოხატვაა შესაძლებელი.</DesignatorPaintFloorDesc>
+
+  <DesignatorRemovePaint>ამოიღეთ საღებავი</DesignatorRemovePaint>
+  <DesignatorRemovePaintDesc>მოაშორეთ საღებავი კედლებიდან, შენობებიდან და იატაკიდან.</DesignatorRemovePaintDesc>
+  <DesignatorRemoveFloorPaint>ამოიღეთ იატაკის საღებავი</DesignatorRemoveFloorPaint> 
+  <DesignatorRemoveFloorPaintDesc>ამოიღეთ საღებავი იატაკიდან.</DesignatorRemoveFloorPaintDesc> 
+  <Paint>შეღებვა</Paint>
+  <Color>ფერი</Color>
+
+  <DesignatorEyedropper>ფერის ამომრჩევი</DesignatorEyedropper>
+  <GrabExistingColor>აიღეთ არსებული ფერი</GrabExistingColor>
+  <DesignatorEyeDropperDesc_Paint>მიიღეთ ფერი არსებული შენობიდან.</DesignatorEyeDropperDesc_Paint>
+  <DesignatorEyeDropperDesc_Carpet>აიღეთ ფერი არსებული ხალიჩიდან.</DesignatorEyeDropperDesc_Carpet>
+  <SelectAPaintedBuilding>აირჩიეთ მოხატული შენობა.</SelectAPaintedBuilding>
+  <SelectColoredFloor>შეარჩიეთ ფერადი ხალიჩა.</SelectColoredFloor>
+  <Grab>წაღება</Grab>
+  <GrabbedColor>აიღო ფერი</GrabbedColor>
+
+  <DesignatorExpandPlan>გეგმის გაფართოება</DesignatorExpandPlan>
+  <NewPlan>ახალი გეგმა</NewPlan>
+  
+  <DesignatorPlanShrinkSingular>შემცირების გეგმა</DesignatorPlanShrinkSingular>
+  <DesignatorPlanShrinkDesc>ამოიღეთ გეგმები.</DesignatorPlanShrinkDesc>
+
+  
+  <UnchosenStuff>არჩეული მასალა</UnchosenStuff>
+  <TooCloseToMapEdge>ძალიან ახლოს არის რუკის კიდესთან.</TooCloseToMapEdge>
+  <OutOfBounds>საზღვრებს გარეთ.</OutOfBounds>
+  <CannotPlaceInUndiscovered>გამოუცნობ ადგილებში განთავსება შეუძლებელია.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>ურთიერთქმედების ადგილი დაბლოკილია {1_labelShort}-ის მიერ.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>ურთიერთქმედების ადგილი საზღვრებს გარეთაა.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>ურთიერთქმედების ადგილი დაიბლოკება {1_labelShort}-ის მიერ.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0} დაბლოკავს {1}-ის ურთიერთქმედების ადგილს.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>აქ რელიეფი უკვე {0}ა.</TerrainIsAlready>
+  <FoundationAlreadyExists>აქ უკვე არის საფუძველი.</FoundationAlreadyExists>
+  <TerrainUnremovable>აქ არსებული რელიეფის ამოღება შეუძლებელია.</TerrainUnremovable>
+  <SurfaceBeingSmoothed>ზედაპირი უკვე მონიშნულია გასწორებისთვის.</SurfaceBeingSmoothed>
+  <IdenticalThingExists>იგივე აქ უკვე არსებობს.</IdenticalThingExists>
+  <IdenticalBlueprintExists>იდენტური გეგმა აქ უკვე არსებობს.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>{0_label} ვერ აშენდება ამ რელიეფზე.</TerrainCannotSupport>
+  <TerrainCannotSupport_TerrainAffordance>{0_label} მოითხოვს რელიეფს, რომელიც მხარს უჭერს: {1_label}</TerrainCannotSupport_TerrainAffordance>
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (როდესაც დამზადებულია {2_label}-ისგან) საჭიროებს რელიეფს, რომელიც მხარს უჭერს: {1_label}</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <SpaceAlreadyOccupied>ფართი უკვე დაკავებულია.</SpaceAlreadyOccupied>
+  <SpaceBeingSmoothed>სივრცის გლუვი.</SpaceBeingSmoothed>
+  <TerrainMustBeRemovable>უნდა იყოს მიზანმიმართული მოსახსნელი იატაკი.</TerrainMustBeRemovable>
+  <MustBeOnMovingWater>წყლის ბორბალი უნდა იყოს მოძრავ წყალზე.</MustBeOnMovingWater>
+  <InteractionSpotWillOverlap>ურთიერთქმედების ადგილი გადაფარავს {1_labelShort}-ის ურთიერთქმედების ადგილს.</InteractionSpotWillOverlap>
+  <InteractionSpotOverlaps>ურთიერთქმედების ადგილი გადაფარავს {1_labelShort}-ის ურთიერთქმედების ადგილს.</InteractionSpotOverlaps>
+  <CannotPlaceMonumentOver>ძეგლის განთავსება შეუძლებელია: {0}-ზე.</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOnTerrain>შეუძლებელია: {0}-ზე აგება.</CannotPlaceMonumentOnTerrain>
+  <MonumentOverlapsBuilding>ძეგლის განთავსება შეუძლებელია: {0}-ზე.</MonumentOverlapsBuilding>
+  <MonumentAdjacentToBuilding>ძეგლის განთავსება შეუძლებელია: {0}-თან.</MonumentAdjacentToBuilding>
+  <CannotBePlantedHere>აქ დარგვა არ შეიძლება</CannotBePlantedHere>
+  
+  
+  <ExpandOrCreateZone>გააფართოვეთ {0} ან\nშექმენით ახალი {1}</ExpandOrCreateZone>
+  <CreateNewZone>შექმენით ახალი {0}</CreateNewZone>
+  
+  <ExpandOrCreatePlan>გააფართოვეთ {0} ან\nშექმენით ახალი გეგმა</ExpandOrCreatePlan>
+  <CreateNewPlan>შექმენით ახალი გეგმა</CreateNewPlan>
+  
+  
+  <TransmitsPower>გადასცემს ძალას</TransmitsPower>
+  <ConstructionNeeded>საჭიროა მშენებლობა</ConstructionNeeded>
+  <NoColonistWithSkillTip>არცერთ თქვენს {0}-ს არ აქვს ეს უნარი.</NoColonistWithSkillTip>
+  <SkillNeededForConstructing>საჭიროა {0}</SkillNeededForConstructing>
+  <NoColonistWithAllSkillsForConstructing>არცერთ თქვენს {0}-ს არ აქვს ყველა საჭირო უნარი.</NoColonistWithAllSkillsForConstructing>
+  <AllColonistsWithSkillHaveDisabledConstructingTip>ყველა თქვენი {0}, ვისაც აქვს ეს უნარი, არ არის მინიჭებული {1}-ზე.</AllColonistsWithSkillHaveDisabledConstructingTip>
+
+  <DesignatorExtractSkull>თავის ქალას ამონაწერი</DesignatorExtractSkull>
+  <DesignatorExtractSkullDesc>ამოიღეთ თავის ქალა გვამიდან.</DesignatorExtractSkullDesc>
+
+</LanguageData>

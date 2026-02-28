@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AwkwardExecution.stages.0.description>ეს სიკვდილით დასჯა უხერხული იყო. გამოფენილმა არაკომპეტენტურობამ მთელი საქმე გაამართლა.</AwkwardExecution.stages.0.description>
+  <AwkwardExecution.stages.0.label>უხერხული აღსრულება</AwkwardExecution.stages.0.label>
+  <BeautifulSkyLanterns.stages.0.description>მშვიდად ვგრძნობდი თავს, როცა ფარნები გადმოცვივდნენ.</BeautifulSkyLanterns.stages.0.description>
+  <BeautifulSkyLanterns.stages.0.label>ულამაზესი ცისლანტერნის ფესტივალი</BeautifulSkyLanterns.stages.0.label>
+  <BoringBlinding.stages.0.description>ამ დაბრმავებას აკლდა ვნება და ტექნიკა არ იყო შესანიშნავი.</BoringBlinding.stages.0.description>
+  <BoringBlinding.stages.0.label>მოსაწყენი დაბრმავება</BoringBlinding.stages.0.label>
+  <BoringDuel.stages.0.description>ეს დუელი უხერხული იყო. არანაირი აგრესიული ენერგია, უბრალოდ გადარჩენის მცდელობები.</BoringDuel.stages.0.description>
+  <BoringDuel.stages.0.label>მოსაწყენი დუელი</BoringDuel.stages.0.label>
+  <BoringFestival.stages.0.description>ეს ფესტივალი უხერხული იყო. ვისურვებდი, რომ წავსულიყავი.</BoringFestival.stages.0.description>
+  <BoringFestival.stages.0.label>მოსაწყენი ფესტივალი</BoringFestival.stages.0.label>
+  <BoringParty.stages.0.description>ეს წვეულება არ იყო კარგი. უინტერესო მუსიკა, ცუდი ცეკვა. ნეტავ არასდროს წავსულიყავი.</BoringParty.stages.0.description>
+  <BoringParty.stages.0.label>მოსაწყენი წვეულება</BoringParty.stages.0.label>
+  <BoringSacrifice.stages.0.description>ამ მსხვერპლს აკლდა ვნება და ტექნიკა არ იყო შესანიშნავი.</BoringSacrifice.stages.0.description>
+  <BoringSacrifice.stages.0.label>მოსაწყენი მსხვერპლი</BoringSacrifice.stages.0.label>
+  <BoringScarification.stages.0.description>ამ სკარიფიკაციას აკლდა ვნება და ტექნიკა არ იყო შესანიშნავი.</BoringScarification.stages.0.description>
+  <BoringScarification.stages.0.label>მოსაწყენი სკარფიკაცია</BoringScarification.stages.0.label>
+  <EffectiveConversion.stages.0.description>გარდასახვის რიტუალმა კარგად ჩაიარა. გამოსვლა ამაღელვებელი და სასიამოვნო მოსასმენი იყო.</EffectiveConversion.stages.0.description>
+  <EffectiveConversion.stages.0.label>ეფექტური კონვერტაცია</EffectiveConversion.stages.0.label>
+  <FunFestival.stages.0.description>გავერთე! ჩვენ უნდა დავდგეთ და დავისვენოთ.</FunFestival.stages.0.description>
+  <FunFestival.stages.0.label>მხიარული ფესტივალი</FunFestival.stages.0.label>
+  <FunParty.stages.0.description>ეს იყო მხიარული წვეულება. კარგი შესვენება ყოველდღიური ცხოვრებიდან.</FunParty.stages.0.description>
+  <FunParty.stages.0.label>მხიარული წვეულება</FunParty.stages.0.label>
+  <GoodDuel.stages.0.description>ეს დუელი კარგი იყო. მებრძოლებმა მართლაც გამოაჩინეს გული.</GoodDuel.stages.0.description>
+  <GoodDuel.stages.0.label>კარგი დუელი</GoodDuel.stages.0.label>
+  <GoodFuneral.stages.0.description>იმ დაკრძალვამ კარგად ჩაიარა - კარგი გზა გამოსამშვიდობებლად.</GoodFuneral.stages.0.description>
+  <GoodFuneral.stages.0.label>კარგი დაკრძალვა</GoodFuneral.stages.0.label>
+  <HeartwarmingFuneral.stages.0.description>იმ დაკრძალვამ მშვენივრად ჩაიარა - ბევრი კარგი მოგონება დაგვიტოვა და წინსვლის გზა დაგვანახა.</HeartwarmingFuneral.stages.0.description>
+  <HeartwarmingFuneral.stages.0.label>გულისამრევი დაკრძალვა</HeartwarmingFuneral.stages.0.label>
+  <LacklusterFuneral.stages.0.description>ეს დაკრძალვა ნამდვილად არ იყო შთაგონებული და ვერაფერი გადაწყვიტეს.</LacklusterFuneral.stages.0.description>
+  <LacklusterFuneral.stages.0.label>უნამუსო დაკრძალვა</LacklusterFuneral.stages.0.label>
+  <MasterfulConversion.stages.0.description>ოსტატური! ძველი რწმენები დარჩა დაშლილი და ჩვენი ჭეშმარიტი ცოდნა მიღებული იყო ეჭვის გარეშე.</MasterfulConversion.stages.0.description>
+  <MasterfulConversion.stages.0.label>ოსტატური გარდაქმნა</MasterfulConversion.stages.0.label>
+  <SatisfyingBlinding.stages.0.description>ეს დაბრმავება დამაკმაყოფილებელი იყო. ჭრილი ღრმა იყო და დამაკმაყოფილებელი სველი-წოვის ხმას გამოსცემდა.</SatisfyingBlinding.stages.0.description>
+  <SatisfyingBlinding.stages.0.label>დამაკმაყოფილებელი დაბრმავება</SatisfyingBlinding.stages.0.label>
+  <SatisfyingExecution.stages.0.description>ეს აღსრულება დამაკმაყოფილებელი იყო. ისეთი შეგრძნება იყო, თითქოს სამართლიანობა აღსრულდა.</SatisfyingExecution.stages.0.description>
+  <SatisfyingExecution.stages.0.label>დამაკმაყოფილებელი შესრულება</SatisfyingExecution.stages.0.label>
+  <SatisfyingSacrifice.stages.0.description>ეს მსხვერპლი დამაკმაყოფილებელი იყო - კარგად შესრულებული და სათანადოდ სისხლიანი.</SatisfyingSacrifice.stages.0.description>
+  <SatisfyingSacrifice.stages.0.label>დამაკმაყოფილებელი მსხვერპლი</SatisfyingSacrifice.stages.0.label>
+  <SatisfyingScarification.stages.0.description>ეს სკარფიკაცია დამაკმაყოფილებელი იყო - სუფთად გამოკვეთილი და სათანადოდ მტკივნეული გარეგნობა.</SatisfyingScarification.stages.0.description>
+  <SatisfyingScarification.stages.0.label>დამაკმაყოფილებელი სკარფიკაცია</SatisfyingScarification.stages.0.label>
+  <SpectacularBlinding.stages.0.description>ინტონირებული ხმები, საშინელი და საოცარი დანა, მტკივნეული კანკალი და ჭრა - ეს დამაბრმავებელი ცერემონია ამაღლებული იყო!</SpectacularBlinding.stages.0.description>
+  <SpectacularBlinding.stages.0.label>სანახაობრივი დაბრმავება</SpectacularBlinding.stages.0.label>
+  <SpectacularExecution.stages.0.description>ეს აღსრულება ელექტრიფიცირებული იყო! არასოდეს მიგრძვნია მართლმსაჯულების ასეთი განცდა.</SpectacularExecution.stages.0.description>
+  <SpectacularExecution.stages.0.label>სანახაობრივი შესრულება</SpectacularExecution.stages.0.label>
+  <SpectacularSacrifice.stages.0.description>სისხლი! გათავისუფლება! ამ მსხვერპლმა მაგრძნობინა, თითქოს სხვა სამყაროს ვუკავშირდებოდით.</SpectacularSacrifice.stages.0.description>
+  <SpectacularSacrifice.stages.0.label>სანახაობრივი მსხვერპლი</SpectacularSacrifice.stages.0.label>
+  <SpectacularScarification.stages.0.description>ხორცი დახვეული და ჯადოსნურ ფორმას დაემსგავსა დანის ქვეშ. ეს იყო ნამდვილი ტრანსფორმაცია ტანჯვის გზით!</SpectacularScarification.stages.0.description>
+  <SpectacularScarification.stages.0.label>სანახაობრივი სკარიფიკაცია</SpectacularScarification.stages.0.label>
+  <TerribleBlinding.stages.0.description>ეს დაბრმავება გაფუჭდა და გუნება-განწყობა გაქრა. რა უხერხული ცერემონიაა.</TerribleBlinding.stages.0.description>
+  <TerribleBlinding.stages.0.label>საშინელი დაბრმავება</TerribleBlinding.stages.0.label>
+  <TerribleDuel.stages.0.description>ეს დუელი იყო საშინელი. მე ჯერ კიდევ ვწუწუნებ მშიშარა სიმხდალეზე ფიქრით.</TerribleDuel.stages.0.description>
+  <TerribleDuel.stages.0.label>საშინელი დუელი</TerribleDuel.stages.0.label>
+  <TerribleFestival.stages.0.description>ეს დღესასწაული საშინელი იყო. უხერხულობის გამოფხიზლებისგან ჯერ კიდევ ვგიჟდები.</TerribleFestival.stages.0.description>
+  <TerribleFestival.stages.0.label>საშინელი ფესტივალი</TerribleFestival.stages.0.label>
+  <TerribleFuneral.stages.0.description>ეს დაკრძალვა შეურაცხმყოფელი იყო ყველა მონაწილესთვის.</TerribleFuneral.stages.0.description>
+  <TerribleFuneral.stages.0.label>სამარცხვინო დაკრძალვა</TerribleFuneral.stages.0.label>
+  <TerribleParty.stages.0.description>ეს წვეულება საშინელი იყო. ცუდი მუსიკა, უხერხული ცეკვა... უჰ.</TerribleParty.stages.0.description>
+  <TerribleParty.stages.0.label>საშინელი წვეულება</TerribleParty.stages.0.label>
+  <TerribleSacrifice.stages.0.description>ეს მსხვერპლშეწირვა გაფუჭდა და გუნება-განწყობა გაქრა. რა საშინელი, უხერხული სიკვდილია.</TerribleSacrifice.stages.0.description>
+  <TerribleSacrifice.stages.0.label>საშინელი მსხვერპლი</TerribleSacrifice.stages.0.label>
+  <TerribleScarification.stages.0.description>სკარიფიკაცია გაფუჭდა და გუნება-განწყობა გაქრა. რა უხერხული ცერემონიაა.</TerribleScarification.stages.0.description>
+  <TerribleScarification.stages.0.label>საშინელი სკარფიკაცია</TerribleScarification.stages.0.label>
+  <TerribleSkyLanterns.stages.0.description>მე მძულდა ამ ცისკრის გაკეთება და ისინი მაინც ნაგავს ჰგავდნენ.</TerribleSkyLanterns.stages.0.description>
+  <TerribleSkyLanterns.stages.0.label>ცათამბჯენის საშინელი ფესტივალი</TerribleSkyLanterns.stages.0.label>
+  <UnforgettableDuel.stages.0.description>გამბედაობა... სისხლი... სიკვდილი... ამას ვერასოდეს დავივიწყებდი.</UnforgettableDuel.stages.0.description>
+  <UnforgettableDuel.stages.0.label>დაუვიწყარი დუელი</UnforgettableDuel.stages.0.label>
+  <UnforgettableFestival.stages.0.description>ეს ფესტივალი იყო ის, რაც არასდროს დამავიწყდება.</UnforgettableFestival.stages.0.description>
+  <UnforgettableFestival.stages.0.label>დაუვიწყარი ფესტივალი</UnforgettableFestival.stages.0.label>
+  <UnforgettableParty.stages.0.description>ეს წვეულება საოცარი იყო! მუსიკა, განწყობა... ყველაფერი იდეალურად იყო.</UnforgettableParty.stages.0.description>
+  <UnforgettableParty.stages.0.label>დაუვიწყარი წვეულება</UnforgettableParty.stages.0.label>
+  <UnforgettableSkyLanterns.stages.0.description>მშენებლობის დროს ერთიანობის განცდა, გათავისუფლების მომენტი - თითქოს ჩემი უბედურება გაქრა იმ ციხის ფარებით.</UnforgettableSkyLanterns.stages.0.description>
+  <UnforgettableSkyLanterns.stages.0.label>ცათამბჯენის დაუვიწყარი ფესტივალი</UnforgettableSkyLanterns.stages.0.label>
+  <UnimpressiveSkyLanterns.stages.0.description>იმ ცისლანტერებმა ჩემზე შთაბეჭდილება არ მოახდინა. უბრალოდ დროისა და რესურსების დაკარგვა.</UnimpressiveSkyLanterns.stages.0.description>
+  <UnimpressiveSkyLanterns.stages.0.label>მოსაწყენი ცის ფარნები</UnimpressiveSkyLanterns.stages.0.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Heart.description>ბიოლოგიური ადამიანის გული. სისხლს სხეულის გარშემო ამოტუმბავს.</Heart.description>
+  <Heart.label>გული</Heart.label>
+  <Kidney.description>ადამიანის ბიოლოგიური თირკმელი. ფილტრავს და შლის ნარჩენ პროდუქტებს სისხლიდან.</Kidney.description>
+  <Kidney.label>თირკმლის</Kidney.label>
+  <Liver.description>ბიოლოგიური ადამიანის ღვიძლი. მნიშვნელოვან როლს ასრულებს მეტაბოლიზმში.</Liver.description>
+  <Liver.label>ღვიძლი</Liver.label>
+  <Lung.description>ადამიანის ბიოლოგიური ფილტვი. ამ წყვილი ქმნის ადამიანის სასუნთქი სისტემის ბირთვს.</Lung.description>
+  <Lung.label>ფილტვის</Lung.label>
+</LanguageData>

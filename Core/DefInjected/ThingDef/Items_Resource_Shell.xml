@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_Shell_AntigrainWarhead.label>ანტიმარცვლოვანი ქობინი</Bullet_Shell_AntigrainWarhead.label>
+  <Bullet_Shell_EMP.label>EMP ჭურვი</Bullet_Shell_EMP.label>
+  <Bullet_Shell_Firefoam.label>ცეცხლგამძლე ჭურვი</Bullet_Shell_Firefoam.label>
+  <Bullet_Shell_HighExplosive.label>მაღალი ფეთქებადი ჭურვი</Bullet_Shell_HighExplosive.label>
+  <Bullet_Shell_Incendiary.label>ცეცხლგამჩენი ჭურვი</Bullet_Shell_Incendiary.label>
+  <Bullet_Shell_Smoke.label>კვამლის ჭურვი</Bullet_Shell_Smoke.label>
+  <Shell_AntigrainWarhead.description>ულტრატექნოლოგიური ქობინი, რომელიც იკვებება ანტიმატერიის მარცვლით. როგორც წესი, გამოიყენება კოსმოსური ხომალდის ან ბრჭყვიალა მსოფლიო ომის მანქანების მიერ, ის ქმნის უზარმაზარ აფეთქებას და იწყებს ცეცხლს სამიზნის გარშემო. შესაძლებელია ნაღმტყორცნებიდან სროლა ან ხაფანგად დაყენება. ფეთქდება დაზიანებისას.</Shell_AntigrainWarhead.description>
+  <Shell_AntigrainWarhead.label>ანტიმარცვლოვანი ქობინი</Shell_AntigrainWarhead.label>
+  <Shell_EMP.description>ბატარეებითა და ანტენებით სავსე ჭურვი, აფეთქებისას ელექტრომაგნიტური პულსის წარმოქმნისთვის. ელექტრომაგნიტური იმპულსები დროებით გამორთავს ელექტრო მოწყობილობებს და მექანოიდებს. შესაძლებელია ნაღმტყორცნებიდან სროლა ან ხაფანგად დაყენება. ფეთქდება დაზიანებისას.</Shell_EMP.description>
+  <Shell_EMP.label>EMP ჭურვი</Shell_EMP.label>
+  <Shell_Firefoam.description>ზეწოლის ქვეშ მყოფი გარსი, სავსე ცეცხლგამძლე ქაფით. შესაძლებელია ნაღმტყორცნებიდან სროლა ან ხაფანგად დაყენება. ფეთქდება დაზიანებისას.</Shell_Firefoam.description>
+  <Shell_Firefoam.label>ცეცხლგამძლე ჭურვი</Shell_Firefoam.label>
+  <Shell_HighExplosive.description>მაღალი ასაფეთქებელი ნივთიერებებით სავსე ჭურვი. შესაძლებელია ნაღმტყორცნებიდან სროლა ან ხაფანგად დაყენება. ფეთქდება დაზიანებისას.</Shell_HighExplosive.description>
+  <Shell_HighExplosive.label>მაღალი ფეთქებადი ჭურვი</Shell_HighExplosive.label>
+  <Shell_Incendiary.description>აალებადი გელით და მცირე ფეთქებადი მუხტით სავსე ჭურვი. აფეთქებისას იწყებს ცეცხლს. შესაძლებელია ნაღმტყორცნებიდან სროლა ან ხაფანგად დაყენება. ფეთქდება დაზიანებისას.</Shell_Incendiary.description>
+  <Shell_Incendiary.label>ცეცხლგამჩენი ჭურვი</Shell_Incendiary.label>
+  <Shell_Smoke.description>ჭურვი, რომელიც აფეთქებისას წარმოქმნის კვამლის ღრუბელს, ფარავს შემომავალ გასროლებს და ხელს უშლის კოშკების ჩაკეტვას. შესაძლებელია ნაღმტყორცნებიდან სროლა ან ხაფანგად დაყენება. ფეთქდება დაზიანებისას.</Shell_Smoke.description>
+  <Shell_Smoke.label>კვამლის ჭურვი</Shell_Smoke.label>
+</LanguageData>

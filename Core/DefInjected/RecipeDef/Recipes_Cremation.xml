@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <BurnApparel.description>დაწვით არასასურველი ტანსაცმელი, რომ მთლიანად გაანადგუროთ იგი.</BurnApparel.description>
+  <BurnApparel.jobString>იწვის ტანსაცმელი.</BurnApparel.jobString>
+  <BurnApparel.label>დაწვა ტანსაცმელი</BurnApparel.label>
+  <BurnDrugs.description>დაწვა არასასურველი წამლები, რათა მთლიანად გაანადგუროს ისინი.</BurnDrugs.description>
+  <BurnDrugs.jobString>დამწვარი წამლები.</BurnDrugs.jobString>
+  <BurnDrugs.label>დამწვრობის წამლები</BurnDrugs.label>
+  <BurnWeapon.description>დაწვით არასასურველი იარაღი, რომ მთლიანად გაანადგუროთ იგი.</BurnWeapon.description>
+  <BurnWeapon.jobString>დამწვარი იარაღი.</BurnWeapon.jobString>
+  <BurnWeapon.label>დამწვარი იარაღი</BurnWeapon.label>
+  <CremateCorpse.description>კრემეთ გვამი, რომ მთლიანად გაანადგუროთ იგი.</CremateCorpse.description>
+  <CremateCorpse.jobString>წვავს.</CremateCorpse.jobString>
+  <CremateCorpse.label>გვამის კრემაცია</CremateCorpse.label>
+</LanguageData>

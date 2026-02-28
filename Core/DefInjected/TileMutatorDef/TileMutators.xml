@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Caves.description>მცირე გამოქვაბულების ქსელები გვხვდება კლდეებში.</Caves.description>
+  <Caves.label>გამოქვაბულები</Caves.label>
+  <Coast.description>ეს ფილა ესაზღვრება სანაპიროს.</Coast.description>
+  <Coast.label>სანაპირო</Coast.label>
+  <Mountain.description>ამ კრამიტის ერთ მხარეს მთა ავსებს.</Mountain.description>
+  <Mountain.label>მთა</Mountain.label>
+  <River.description>აქ მტკნარი წყლის ნაკადი მიედინება.</River.description>
+  <River.label>მდინარე</River.label>
+  <UndergroundCave.label>მიწისქვეშა გამოქვაბული</UndergroundCave.label>
+</LanguageData>

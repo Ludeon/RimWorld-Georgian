@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SpouseCount_Female_MaxOne.description>ქალებს შეიძლება ჰყავდეთ მხოლოდ ერთი მეუღლე.</SpouseCount_Female_MaxOne.description>
+  <SpouseCount_Female_MaxOne.label>მხოლოდ ერთი</SpouseCount_Female_MaxOne.label>
+  <SpouseCount_Male_MaxOne.description>მამაკაცებს შეიძლება ჰყავდეთ მხოლოდ ერთი მეუღლე.</SpouseCount_Male_MaxOne.description>
+  <SpouseCount_Male_MaxOne.label>მხოლოდ ერთი</SpouseCount_Male_MaxOne.label>
+</LanguageData>

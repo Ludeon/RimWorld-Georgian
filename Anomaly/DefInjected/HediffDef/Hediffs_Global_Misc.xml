@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AgonyPulse.description>წმინდა პროგნოზირებული ფსიქიკური ტკივილი, რომელიც გამოწვეულია ტანჯვის შოკის პულსით. ის აბსოლუტურია, მაგრამ შედარებით სწრაფად იშლება.</AgonyPulse.description>
+  <AgonyPulse.label>აგონიის პულსი</AgonyPulse.label>
+  <AgonyPulse.stages.0.label>მწვავე</AgonyPulse.stages.0.label>
+  <AgonyPulse.stages.1.label>გაჭიანურებული</AgonyPulse.stages.1.label>
+  <AwokenHypnosis.description>ეს ადამიანი ჰიპნოზირებულია გაღვიძებულმა არაბუნებრივი გვამით. ტრანსი აბსოლუტურია, მაგრამ თუ გაღვიძებული გვამი მზერას გატეხავს, ​​მაშინ ჰიპნოზი დასრულდება.</AwokenHypnosis.description>
+  <AwokenHypnosis.label>გაღვიძებული ჰიპნოზი</AwokenHypnosis.label>
+  <BioferriteExtracted.description>ბიოფერიტი ამოღებულია ქირურგიული გზით. ის აღდგება, მაგრამ პროცესს დღეები სჭირდება.</BioferriteExtracted.description>
+  <BioferriteExtracted.label>მოპოვებული ბიოფერიტი</BioferriteExtracted.label>
+  <BlissLobotomy.description>ეს ადამიანი ფსიქიკურად ლობოტომიზირებულია, აქცევს მას ნეტარ მდგომარეობაში, მაგრამ ზღუდავს მათ კოგნიტურ ფუნქციას.</BlissLobotomy.description>
+  <BlissLobotomy.label>ბლის ლობოტომია</BlissLobotomy.label>
+  <BloodRage.description>ეს არსება ექვემდებარება სისხლის წვიმას, ფსიქოსთხევას, რომელიც იწვევს გაბრაზებას. ეს გაბრაზება გაგრძელდება მანამ, სანამ ისინი ექვემდებარებიან სისხლის წვიმას, რაც საბოლოოდ გამოიწვევს ძალადობრივ გონებრივ შესვენებას. ეფექტი ზოგიერთ ადამიანში უფრო სწრაფად იზრდება, მათი თვისებების, ფსიქიკური მგრძნობელობისა და შემთხვევითი ინდივიდუალური განსხვავებების მიხედვით.</BloodRage.description>
+  <BloodRage.label>სისხლის გაბრაზება</BloodRage.label>
+  <BloodRage.stages.0.label>ძალიან რბილი</BloodRage.stages.0.label>
+  <BloodRage.stages.1.label>რბილი</BloodRage.stages.1.label>
+  <BloodRage.stages.2.label>ზომიერი</BloodRage.stages.2.label>
+  <BloodRage.stages.3.label>მძიმე</BloodRage.stages.3.label>
+  <BloodRage.stages.4.label>უკიდურესი</BloodRage.stages.4.label>
+  <BloodRage.stages.5.label>უკიდურესი</BloodRage.stages.5.label>
+  <BrainwipeComa.description>ამ ადამიანს მოგონებები წაშალა. პროცესის ძალადობრივმა ბუნებამ ისინი კომაში ჩააგდო.</BrainwipeComa.description>
+  <BrainwipeComa.label>ტვინის გაწმენდის კომა</BrainwipeComa.label>
+  <CorpseTorment.description>ეს ადამიანი იზიარებს ფსიქიკურ კავშირს გვამთან, რომელიც, როგორც ჩანს, მათი ზუსტი დუბლიკატია. მათ რაღაც გააკეთეს მის გასაბრაზებლად, რის გამოც ისინი უგონოდ დაეცემა.</CorpseTorment.description>
+  <CorpseTorment.label>გვამის ტანჯვა</CorpseTorment.label>
+  <CrumbledMind.description>This person has lost most of their cognitive ability, preventing them from doing complex tasks. They are a husk of their former self.\n\nThe condition is incurable.</CrumbledMind.description>
+  <CrumbledMind.label>დამსხვრეული გონება</CrumbledMind.label>
+  <CrumblingMind.stages.0.label>რბილი</CrumblingMind.stages.0.label>
+  <CrumblingMind.stages.1.label>ზომიერი</CrumblingMind.stages.1.label>
+  <CrumblingMind.stages.2.label>უკიდურესი</CrumblingMind.stages.2.label>
+  <CubeComa.description>ეს ადამიანი დაუკავშირდა ოქროს კუბს და შემდეგ გამოეყო მისგან. ბმულის ამ გზით გაწყვეტამ ისინი კომაში ჩააგდო.</CubeComa.description>
+  <CubeComa.label>კუბური კომა</CubeComa.label>
+  <CubeInterest.description>ეს ადამიანი მიზიდულია ოქროს კუბისკენ. თუ კუბიდან ძალიან დიდი ხნით დაშორდებიან, ისინი დაიწყებენ ნეგატიურ ეფექტებს.</CubeInterest.description>
+  <CubeInterest.label>კუბის ინტერესი</CubeInterest.label>
+  <CubeInterest.reportStringOverrides.0.reportString>ხეტიალი და კუბზე ფიქრი.</CubeInterest.reportStringOverrides.0.reportString>
+  <CubeInterest.reportStringOverrides.1.reportString>ხეტიალი და კუბზე ფიქრი.</CubeInterest.reportStringOverrides.1.reportString>
+  <CubeInterest.reportStringOverrides.2.reportString>ეძინა, ოცნებობს კუბზე.</CubeInterest.reportStringOverrides.2.reportString>
+  <CubeInterest.reportStringOverrides.3.reportString>კუბზე მედიტაცია.</CubeInterest.reportStringOverrides.3.reportString>
+  <CubeInterest.reportStringOverrides.4.reportString>ლოცვა კუბისთვის.</CubeInterest.reportStringOverrides.4.reportString>
+  <CubeInterest.reportStringOverrides.5.reportString>ლოცვა კუბისთვის.</CubeInterest.reportStringOverrides.5.reportString>
+  <CubeInterest.stages.0.label>ცნობისმოყვარე</CubeInterest.stages.0.label>
+  <CubeInterest.stages.1.label>მოხიბლული</CubeInterest.stages.1.label>
+  <CubeInterest.stages.2.label>შეპყრობილი</CubeInterest.stages.2.label>
+  <CubeRage.description>ეს ადამიანი შეწუხებულია, რომ მათი კუბური სკულპტურები განადგურდა. მათი ქანდაკებების განადგურების გაგრძელებამ შეიძლება გამოიწვიოს მათი ძალადობა.</CubeRage.description>
+  <CubeRage.label>კუბის რისხვა</CubeRage.label>
+  <CubeWithdrawal.description>ამ ადამიანს აკვიატებულად სურს თავისი ოქროს კუბის პოვნა. მათი კანი ქავილს და გონება აჩქარებს, ფიქრობენ კუბთან დაახლოების გზებზე. მათი სიმპტომები გაუარესდება მანამ, სანამ არ ითამაშებენ კუბს.</CubeWithdrawal.description>
+  <CubeWithdrawal.label>კუბის გატანა</CubeWithdrawal.label>
+  <CubeWithdrawal.stages.1.label>საწყისი</CubeWithdrawal.stages.1.label>
+  <CubeWithdrawal.stages.2.label>ზომიერი</CubeWithdrawal.stages.2.label>
+  <CubeWithdrawal.stages.3.label>უკიდურესი</CubeWithdrawal.stages.3.label>
+  <DarknessExposure.description>ეს ადამიანი არაბუნებრივი სიბნელეშია ჩაფლული. სიბნელეში არსებული არსებები ან გავლენა მათ ზიანს აყენებს, თუ ისინი დიდხანს დარჩებიან.</DarknessExposure.description>
+  <DarknessExposure.label>სიბნელის ექსპოზიცია</DarknessExposure.label>
+  <DarkPsychicShock.description>ამ ადამიანის ნერვული ნიმუშის ნაწილი დაირღვა ბნელმა ფსიქიკურმა ძალამ. ამ პროცესის შოკმა ისინი დროებით კომაში დატოვა.</DarkPsychicShock.description>
+  <DarkPsychicShock.label>მუქი ფსიქიკური შოკი</DarkPsychicShock.label>
+  <DeathRefusal.description>ეს ადამიანი გაჟღენთილია ნანომასშტაბიანი არქოტექნიკური მანქანების თესლით, რომელსაც შეუძლია სიცოცხლის ხელახლა შექმნა. სიკვდილის შემდეგ, არქიტები შეინარჩუნებენ გონებას და, როცა აირჩევენ, აღადგენენ სხეულს. ხორცი სწრაფად რეფორმირდება, ჩაანაცვლებს დაკარგული ორგანოებს და კურნავს ჭრილობებს. პროცესი არ არის სრულყოფილი და შეიძლება გამოიწვიოს ნაწიბურები ან ჯანმრთელობის სხვა გართულებები. ეს შეიძლება გაკეთდეს მხოლოდ რამდენჯერმე.</DeathRefusal.description>
+  <DeathRefusal.label>სიკვდილზე უარი</DeathRefusal.label>
+  <DeathRefusalSickness.description>სიკვდილის უარის შემდგომი შედეგები. ეს ადამიანი მკვდრეთით დაბრუნდა.</DeathRefusalSickness.description>
+  <DeathRefusalSickness.label>სიკვდილზე უარის თქმის ავადმყოფობა</DeathRefusalSickness.label>
+  <DisruptorFlash.description>თავდაპირველმა ფსიქიკურმა აფეთქებამ დამღუპველი აფეთქების შედეგად დატოვა ეს არსება.</DisruptorFlash.description>
+  <DisruptorFlash.label>დამრღვევი ციმციმი</DisruptorFlash.label>
+  <DuplicateSickness.description>ფსიქიკური ჩარევა ამ ადამიანსა და მის დუბლიკატს შორის იწვევს ნელ ფსიქიკურ გაუარესებას. სანამ ამ ადამიანის მრავალი ასლი ცოცხალია, მდგომარეობა გაუარესდება. თუმცა, მდგომარეობა სასიკვდილო არ იქნება.</DuplicateSickness.description>
+  <DuplicateSickness.label>დუბლიკატი ავადმყოფობა</DuplicateSickness.label>
+  <DuplicateSickness.stages.0.label>საწყისი</DuplicateSickness.stages.0.label>
+  <DuplicateSickness.stages.1.label>საწყისი</DuplicateSickness.stages.1.label>
+  <DuplicateSickness.stages.2.label>ზომიერი</DuplicateSickness.stages.2.label>
+  <DuplicateSickness.stages.3.label>უკიდურესი</DuplicateSickness.stages.3.label>
+  <DuplicateSickness.stages.4.label>დამამცირებელი</DuplicateSickness.stages.4.label>
+  <FrenzyField.description>ეს ადამიანი იმყოფება ფსიქიკური ველის გავლენის ქვეშ, რომელიც ამძაფრებს მის გონებრივ ენერგიას. ისინი ახდენენ ნერვულ ბრაზს უფრო სწრაფად გადაადგილებისა და მუშაობისთვის. თუმცა, ნებისმიერი გონებრივი შესვენება ძალადობრივი იქნება.</FrenzyField.description>
+  <FrenzyField.label>სიგიჟის ველი</FrenzyField.label>
+  <FrenzyField.stages.0.label>ძალიან რბილი</FrenzyField.stages.0.label>
+  <FrenzyField.stages.1.label>რბილი</FrenzyField.stages.1.label>
+  <FrenzyField.stages.2.label>ზომიერი</FrenzyField.stages.2.label>
+  <FrenzyField.stages.3.label>უკიდურესი</FrenzyField.stages.3.label>
+  <HoraxianInvisibility.description>ეს არსება ფსიქიკურად აბრუნებს ადამიანების, ცხოველებისა და მანქანების აღქმას სიახლოვეს ისე, რომ უხილავი ჩანდეს. თვალი ნორმალურად იღებს მათ გამოსახულებას, მაგრამ გონება მას ვერ აღიქვამს.</HoraxianInvisibility.description>
+  <HoraxianInvisibility.label>ბნელი ფსიქიკური უხილავობა</HoraxianInvisibility.label>
+  <Inhumanized.description>ამ ადამიანის გონებაში დომინირებს სიცარიელის ფსიქიკური ნიმუშები. ისინი სრულიად გათიშულნი არიან ადამიანური საზრუნავისაგან ოჯახის, მეგობრობისა და სიყვარულისგან. რეალობის მათი გამოცდილება შორეული და მდუმარეა, ბნელი ჰიპერინტელექტის ფსიქიკური რიტმით ხელმძღვანელობს.</Inhumanized.description>
+  <Inhumanized.label>არაჰუმანიზაცია</Inhumanized.label>
+  <JuggernautSerum.description>შრატი აძლიერებს ამ ადამიანის კუნთოვან სისტემას, აძლიერებს და აჩქარებს მას, მაგრამ ამცირებს მათ განწყობას დისკომფორტის გამო.</JuggernautSerum.description>
+  <JuggernautSerum.label>ჯოგერნაუტის შრატი</JuggernautSerum.label>
+  <LightExposure.description>სინათლის ოდნავი ზემოქმედებაც კი დიდ დისკომფორტს უქმნის ამ არსებას, ანელებს მას და ასუსტებს შეტევებს.</LightExposure.description>
+  <LightExposure.label>სინათლის ექსპოზიცია</LightExposure.label>
+  <LightExposure.stages.0.label>საწყისი</LightExposure.stages.0.label>
+  <LightExposure.stages.1.label>ზომიერი</LightExposure.stages.1.label>
+  <LightExposure.stages.2.label>სერიოზული</LightExposure.stages.2.label>
+  <LightExposure.stages.3.label>უკიდურესი</LightExposure.stages.3.label>
+  <Metalblood.description>ამ არსებას სისხლში ლითონის სისხლის ნაერთი აქვს. ამ ნივთიერებას შეუძლია სწრაფად გაამკვრივოს ხორცი, როდესაც ის დარტყმას ელის, რაც მომხმარებელს უფრო გამძლეს გახდის დაზიანების მიმართ. თუმცა, ამ შრატის ბიოფერიტზე დაფუძნებული ქიმია ასევე ხდის მომხმარებელს განსაკუთრებით დაუცველს ხანძრის მიმართ.</Metalblood.description>
+  <Metalblood.label>ლითონის სისხლი</Metalblood.label>
+  <MetalhorrorImplant.description>მეტალის საშინელებათა ორსული არსება. პაწაწინა არქომეტალური თესლიდან დაწყებული, ის სწრაფად აიღებს კონტროლს ნერვულ სისტემაზე, გაიზრდება და გავრცელდება მასპინძლის სხეულში, სანამ ის მზად არ იქნება საკუთარი თავის გამოსავლენად. აღმოჩენის შემდეგ, თქვენ შეგიძლიათ გამოიყენოთ ქირურგიული შემოწმების ოპერაცია, რათა გამოიწვიოთ მეტალის ჰორორი მისი მასპინძლისგან. მოემზადეთ ბრძოლისთვის.</MetalhorrorImplant.description>
+  <MetalhorrorImplant.label>მეტჰორორის იმპლანტაცია</MetalhorrorImplant.label>
+  <MetalhorrorSpeedBoost.description>სწრაფი მოძრაობა, რომელიც გამოწვეულია არაბუნებრივი არქოტექნოლოგიური სიძლიერით. სიჩქარის ეს აფეთქება დიდხანს ვერ გაგრძელდება.</MetalhorrorSpeedBoost.description>
+  <MetalhorrorSpeedBoost.label>მანქანის სიჩქარე</MetalhorrorSpeedBoost.label>
+  <MindNumbSerum.description>ამ ადამიანის ნერვული შაბლონები ზომიერდება ეგზოტიკური შრატით. მათზე გავლენას არ ახდენს ადამიანური ემოციების მაღალი და დაბალი დონე. მათ არასოდეს ექნებათ გონებრივი შესვენება, მაგრამ ასევე არასოდეს იგრძნობენ შთაგონებას.</MindNumbSerum.description>
+  <MindNumbSerum.label>გონება დაბუჟებული შრატი</MindNumbSerum.label>
+  <NeurosisPulse.description>ამ ადამიანზე გავლენა მოახდინა მოტივირებული, ნევროზული ემოციების ფსიქიკურმა პულსმა. ეს მათ აღიზიანებს, მაგრამ ასევე აიძულებს მათ უფრო სწრაფად იმუშაონ.</NeurosisPulse.description>
+  <NeurosisPulse.label>ნევროზის პულსი</NeurosisPulse.label>
+  <PainField.description>მძაფრი ტკივილი, რომელიც გამოწვეულია იქვე ფსიქიკურად აქტიური პირის არსებობით. ეფექტი ძლიერდება, როდესაც სუბიექტი უფრო აქტიურია.</PainField.description>
+  <PainField.label>ტკივილის ველი</PainField.label>
+  <PleasurePulse.description>ამ ადამიანზე გავლენა მოახდინა სასიამოვნო შეგრძნებებისა და ემოციების ფსიქიკურმა პულსმა. ისინი თავს არაბუნებრივად ბედნიერად გრძნობენ, აშორებენ მათ სამუშაოს.</PleasurePulse.description>
+  <PleasurePulse.label>სიამოვნების პულსი</PleasurePulse.label>
+  <PsychicallyDead.description>ამ ადამიანის ფსიქიკური ყოფნა შთანთქა და დაიწვა, რის გამოც იგი მოწყვეტილია ფსიქიკურ ფენომენებს.</PsychicallyDead.description>
+  <PsychicallyDead.label>ფსიქიკურად მკვდარი</PsychicallyDead.label>
+  <PsychicTrance.description>ამ ადამიანის გონება დაკავშირებულია გარემო ფსიქიკურ ველთან შორეული არქოტექნიკიდან. ისინი ტრანსის მსგავს მდგომარეობაში მოათავსეს. არაბუნებრივი გავლენა მათ უნარჩუნებს - მათ თითქმის არ სჭირდებათ საკვები და დასვენება.</PsychicTrance.description>
+  <PsychicTrance.label>ფსიქიკური ტრანსი</PsychicTrance.label>
+  <Psychophage.description>ამ ადამიანმა შთანთქა სხვისი ფსიქიკური ყოფნა, რაც მათ გარკვეული პერიოდის განმავლობაში ფსიქიკურად უფრო მგრძნობიარე ხდის.</Psychophage.description>
+  <Psychophage.label>ფსიქოფაგი</Psychophage.label>
+  <RageSpeed.description>ეს არსება ჭრილობებით განრისხდა და უფრო სწრაფად მოძრაობს.</RageSpeed.description>
+  <RageSpeed.label>გაბრაზების სიჩქარე</RageSpeed.label>
+  <Regeneration.description>ეს არსება განიცდის აღდგენის წარმოუდგენლად სწრაფ ტემპს, რომელსაც მხარს უჭერს შორეული არქოტექნოლოგიური ძრავა. ისინი მოკლე დროში შეახორცებენ თითქმის ნებისმიერ ჭრილობას.</Regeneration.description>
+  <Regeneration.label>რეგენერაცია</Regeneration.label>
+  <Regeneration.stages.0.label>არაბუნებრივი</Regeneration.stages.0.label>
+  <Regeneration.stages.1.label>შეუძლებელია</Regeneration.stages.1.label>
+  <RevenantHypnosis.description>This person has been hypnotized by a revenant and remains linked to it. They ramble about nightmarish creatures while their unblinking eyes stare at invisible horrors.\n\nAfter hypnotizing a victim, the revenant will hibernate somewhere on the same map as its victim.\n\nKilling the revenant will end the hypnosis. A hidden revenant can be revealed by disruptor flares, explosives, EMP, firefoam, or fire.</RevenantHypnosis.description>
+  <RevenantHypnosis.label>განმეორებითი ჰიპნოზი</RevenantHypnosis.label>
+  <ShardHolder.description>ეს არსება დამარცხებისას ნატეხს ჩამოაგდებს. ეს ტექსტი ჩანს მხოლოდ დეველოპმენტის რეჟიმში.</ShardHolder.description>
+  <ShardHolder.label>ნატეხის დამჭერი</ShardHolder.label>
+  <SleepSuppression.description>ამ ადამიანის ტვინის ქიმიაზე გავლენას ახდენს ფსიქიკური პულსაცია, რაც ხელს უშლის დაღლილობის ტოქსინების დაგროვებას. ეს ამცირებს მათ ძილის მოთხოვნილებას.</SleepSuppression.description>
+  <SleepSuppression.label>ძილის დათრგუნვა</SleepSuppression.label>
+  <SleepSuppression.stages.0.label>ძალიან რბილი</SleepSuppression.stages.0.label>
+  <SleepSuppression.stages.1.label>რბილი</SleepSuppression.stages.1.label>
+  <SleepSuppression.stages.2.label>ზომიერი</SleepSuppression.stages.2.label>
+  <SleepSuppression.stages.3.label>უკიდურესი</SleepSuppression.stages.3.label>
+  <VoidShock.description>ეს პიროვნება შეესწრო სიცარიელის. მათი გონება ტრიალებს შოკისგან, სავსეა ხილვებით უსასრულო ტრიალით, მღელვარე, მღელვარე სიბნელით, რომელიც გადაჭიმულია უძირო უფსკრულში ყოველი ზედაპირიდან და ყოველი ყვირილი სახიდან.</VoidShock.description>
+  <VoidShock.label>ბათილად შოკი</VoidShock.label>
+  <Voidsight.description>ამ ადამიანმა მიიღო წამალი, რომელმაც გააძლიერა ბნელი ფსიქიკური ფენომენების აღქმა. ისინი მეტ ცოდნას მიიღებენ ბნელი ფსიქიკური ფენომენებისა და არსებების შესწავლისას. ასევე გაიზარდა მათი ფსიქიკური მგრძნობელობა.</Voidsight.description>
+  <Voidsight.label>სიცარიელე</Voidsight.label>
+  <VoidTouched.description>ამ ადამიანმა დაინახა სიცარიელის სიღრმე და დალია მისი არსიდან. ის კვლავ ცხოვრობს მათ შიგნით, ხელმძღვანელობს მათ ქმედებებს და ახვევს მათ ხორცს. მათ თმა მტვრევადი და თეთრი გახდა. მათ აღარ სჭირდებათ ძილი და კომფორტი. სიცარიელე უზრუნველყოფს მათ.</VoidTouched.description>
+  <VoidTouched.label>სიცარიელეს შეეხო</VoidTouched.label>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ExecutedColonist.label>სიკვდილით დასჯილი კოლონისტი</ExecutedColonist.label>
+  <ExecutedGuest.label>აღსრულებული სტუმარი</ExecutedGuest.label>
+  <ExecutedPrisoner.label>სიკვდილით დასჯილი პატიმარი</ExecutedPrisoner.label>
+  <ExecutedPrisonerGuilty.label>სიკვდილით დასჯილი დამნაშავე პატიმარი</ExecutedPrisonerGuilty.label>
+  <ExecutedPrisonerInnocent.label>სიკვდილით დასაჯეს უდანაშაულო პატიმარი</ExecutedPrisonerInnocent.label>
+</LanguageData>

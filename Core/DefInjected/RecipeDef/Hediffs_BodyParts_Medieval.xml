@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InstallDenture.description>დააინსტალირეთ პროთეზი.</InstallDenture.description>
+  <InstallDenture.jobString>პროთეზის დაყენება.</InstallDenture.jobString>
+  <InstallDenture.label>პროთეზის დაყენება</InstallDenture.label>
+  <InstallPegLeg.description>დააინსტალირეთ სამაგრი ფეხი.</InstallPegLeg.description>
+  <InstallPegLeg.jobString>სამაგრი ფეხის დაყენება.</InstallPegLeg.jobString>
+  <InstallPegLeg.label>დააინსტალირეთ სამაგრი ფეხი</InstallPegLeg.label>
+  <InstallWoodenFoot.description>დააინსტალირეთ ხის ფეხი.</InstallWoodenFoot.description>
+  <InstallWoodenFoot.jobString>ხის ფეხის დაყენება.</InstallWoodenFoot.jobString>
+  <InstallWoodenFoot.label>დააინსტალირეთ ხის ფეხი</InstallWoodenFoot.label>
+  <InstallWoodenHand.description>დააინსტალირეთ ხის ხელი.</InstallWoodenHand.description>
+  <InstallWoodenHand.jobString>ხის ხელის დაყენება.</InstallWoodenHand.jobString>
+  <InstallWoodenHand.label>დააინსტალირეთ ხის ხელი</InstallWoodenHand.label>
+</LanguageData>

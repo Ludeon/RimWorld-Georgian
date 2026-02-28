@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlindFog.description>მძიმე ნისლი, რომელიც ამცირებს სროლის იარაღის სიზუსტეს, ასევე მათ მაქსიმალურ დიაპაზონს.</BlindFog.description>
+  <BlindFog.label>ბრმა ნისლი</BlindFog.label>
+  <BlindFog.letterLabel>ბრმა ნისლი</BlindFog.letterLabel>
+  <BlindFog.letterText>ჩნდება სქელი ნისლი, რომელიც მკვეთრად ამცირებს მხედველობას. სროლის იარაღი ნაკლებად ზუსტი იქნება და მათი მაქსიმალური დიაპაზონი შემცირდება.</BlindFog.letterText>
+  <Blizzard.description>თოვლი ამცირებს სროლის იარაღის სიზუსტეს, აქრობს ცეცხლს და ანელებს ადამიანებს.</Blizzard.description>
+  <Blizzard.label>ქარბუქი</Blizzard.label>
+  <Orbit.description>ორბიტაზე ამინდი არ არის.</Orbit.description>
+  <Orbit.label>ორბიტა</Orbit.label>
+  <Overcast.description>სქელი ღრუბლები ფარავს ცას, ამცირებს სინათლის დონეს.</Overcast.description>
+  <Overcast.label>მოღრუბლული</Overcast.label>
+  <Sandstorm.description>ქვიშის ქარიშხალი ამცირებს სროლის იარაღის სიზუსტეს, ანელებს ადამიანებს და ქვიშას ყველგან იღებს.</Sandstorm.description>
+  <Sandstorm.label>ქვიშის ქარიშხალი</Sandstorm.label>
+  <TorrentialRain.description>კოკისპირული წვიმა წყალდიდობას იწვევს. ის ასევე ამცირებს სროლის იარაღის სიზუსტეს, აქრობს ცეცხლს და ანელებს ადამიანებს.</TorrentialRain.description>
+  <TorrentialRain.label>კოკისპირული წვიმა</TorrentialRain.label>
+  <TorrentialRain.letterLabel>კოკისპირული წვიმა</TorrentialRain.letterLabel>
+  <TorrentialRain.letterText>ციდან იწყება ძლიერი წვიმა. ეს გამოიწვევს დროებით წყალდიდობას წყლის ობიექტების გარშემო. ააშენეთ ბარიერები, რათა თავიდან აიცილოთ წყალდიდობის გავრცელება.</TorrentialRain.letterText>
+  <ToxRain.description>ტოქსიური წვიმა აავადებს არსებებს ტოქსიკური დაგროვებით. ის ასევე ამცირებს სროლის იარაღის სიზუსტეს, აქრობს ცეცხლს და ანელებს ადამიანებს.</ToxRain.description>
+  <ToxRain.label>ტოქსიური წვიმა</ToxRain.label>
+  <ToxRain.letterLabel>ტოქსიური წვიმა</ToxRain.letterLabel>
+  <ToxRain.letterText>ციდან ტოქსიკური წვიმა დაიწყო. ის ნელ-ნელა დაავადდება ყველას, ვისაც შეეხება. შეინახეთ თქვენი კოლონისტები სახურავის ქვეშ.</ToxRain.letterText>
+  <Windy.description>ძლიერი ქარი მოძრაობის სიჩქარეს ამცირებს.</Windy.description>
+  <Windy.label>ქარიანი</Windy.label>
+</LanguageData>

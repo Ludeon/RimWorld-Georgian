@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <AccuracyLong.description>იარაღის სიზუსტე 40 უჯრედის ან უფრო დიდ მანძილზე.\n\nრეალურ გასროლაზე მოხვედრის შანსზე სხვა ფაქტორებიც მოქმედებს.</AccuracyLong.description>
+  <AccuracyLong.label>სიზუსტე (გრძელი)</AccuracyLong.label>
+  <AccuracyMedium.description>იარაღის სიზუსტე 25 უჯრედის მანძილზე.\n\nრეალურ გასროლაზე მოხვედრის შანსზე სხვა ფაქტორებიც მოქმედებს.</AccuracyMedium.description>
+  <AccuracyMedium.label>სიზუსტე (საშუალო)</AccuracyMedium.label>
+  <AccuracyShort.description>იარაღის სიზუსტე 12 უჯრედის მანძილზე.\n\nრეალურ გასროლაზე მოხვედრის შანსზე სხვა ფაქტორებიც მოქმედებს.</AccuracyShort.description>
+  <AccuracyShort.label>სიზუსტე (მოკლე)</AccuracyShort.label>
+  <AccuracyTouch.description>იარაღის სიზუსტე 3 უჯრედზე ან უფრო ახლო მანძილზე.\n\nრეალურ გასროლაზე მოხვედრის შანსზე სხვა ფაქტორებიც მოქმედებს.</AccuracyTouch.description>
+  <AccuracyTouch.label>სიზუსტე (დაახლოება)</AccuracyTouch.label>
+  <RangedWeapon_ArmorPenetrationMultiplier.description>მულტიპლიკატორი გამოიყენება ჯავშნის შეღწევაზე.</RangedWeapon_ArmorPenetrationMultiplier.description>
+  <RangedWeapon_ArmorPenetrationMultiplier.label>ჯავშნის შეღწევადობის მულტიპლიკატორი</RangedWeapon_ArmorPenetrationMultiplier.label>
+  <RangedWeapon_Cooldown.description>რამდენი დრო სჭირდება აღდგენას ამ იარაღის გასროლის შემდეგ.</RangedWeapon_Cooldown.description>
+  <RangedWeapon_Cooldown.label>მერყეობდა გაგრილება</RangedWeapon_Cooldown.label>
+  <RangedWeapon_DamageMultiplier.description>მულტიპლიკატორი გამოიყენება ამ იარაღის დაზიანებაზე.</RangedWeapon_DamageMultiplier.description>
+  <RangedWeapon_DamageMultiplier.label>დაზიანების მულტიპლიკატორი</RangedWeapon_DamageMultiplier.label>
+  <RangedWeapon_RangeMultiplier.description>მულტიპლიკატორი გამოიყენება ამ იარაღის დიაპაზონზე.</RangedWeapon_RangeMultiplier.description>
+  <RangedWeapon_RangeMultiplier.label>დიაპაზონის მულტიპლიკატორი</RangedWeapon_RangeMultiplier.label>
+  <RangedWeapon_WarmupMultiplier.description>მულტიპლიკატორი გამოიყენება ამ იარაღის დამიზნების დროზე.</RangedWeapon_WarmupMultiplier.description>
+  <RangedWeapon_WarmupMultiplier.label>დამიზნების დროის მულტიპლიკატორი</RangedWeapon_WarmupMultiplier.label>
+</LanguageData>

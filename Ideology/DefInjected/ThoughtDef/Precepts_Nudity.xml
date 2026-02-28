@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.description>კანის დახშობა არასწორია. მხოლოდ საზარდული უნდა დაიფაროს.</AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.label>ტანსაცმლის ტარება (არასაფეხურიანი)</AnyBodyPartButGroinCovered_Disapproved_Male.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.description>კანის დამალვა არასწორია, მაგრამ მაინც გავაკეთე. მხოლოდ საზარდული უნდა დაიფაროს.</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.description>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.label>ეცვა ტანსაცმელი (არა-ღრმა)</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.0.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.0.label>ტანსაცმლის ტარება (არასაფეხურიანი)</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Male.stages.0.description>მე არ ვამტკიცებ საკუთარი თავის დაფარვას, მაგრამ აქ ვაკეთებ ამას.</AnyBodyPartCovered_Disapproved_Male.stages.0.description>
+  <AnyBodyPartCovered_Disapproved_Male.stages.0.label>ტანსაცმლის ტარება</AnyBodyPartCovered_Disapproved_Male.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.0.description>ჩემი ხორცი დავმალე. არასწორი იყო.</AnyBodyPartCovered_Disapproved_Memory.stages.0.description>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.0.label>ტანსაცმელი ეცვა</AnyBodyPartCovered_Disapproved_Memory.stages.0.label>
+  <AnyBodyPartCovered_Disapproved_Social_Male.stages.0.label>ტანსაცმლის ტარება</AnyBodyPartCovered_Disapproved_Social_Male.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.description>სამყაროსთვის საკუთარი თავის ჩვენება არასწორია. მთლიანად დაფარული უნდა ვიყო.</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.description>
+  <GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.label>აღმოაჩინა სხეულის რომელიმე ნაწილი</GroinChestHairOrFaceUncovered_Disapproved_Male.stages.0.label>
+  <GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.0.label>აღმოაჩინა სხეულის რომელიმე ნაწილი</GroinChestHairOrFaceUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.0.description>არასწორია საკუთარი თავის ასე წარმოჩენა. მხოლოდ სახე შეიძლება ჩანდეს.</GroinChestOrHairUncovered_Disapproved_Male.stages.0.description>
+  <GroinChestOrHairUncovered_Disapproved_Male.stages.0.label>uncovered groin/chest/hair</GroinChestOrHairUncovered_Disapproved_Male.stages.0.label>
+  <GroinChestOrHairUncovered_Disapproved_Social_Male.stages.0.label>აღმოაჩინა სხეულის რომელიმე ნაწილი</GroinChestOrHairUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Male.stages.0.description>არ მიყვარს ჩემი ინტიმური ნაწილების ან მკერდის ჩვენება.</GroinOrChestUncovered_Disapproved_Male.stages.0.description>
+  <GroinOrChestUncovered_Disapproved_Male.stages.0.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Male.stages.0.label>
+  <GroinOrChestUncovered_Disapproved_Social_Male.stages.0.label>uncovered groin/chest</GroinOrChestUncovered_Disapproved_Social_Male.stages.0.label>
+  <GroinUncovered_Disapproved_Male.stages.0.description>მე არ უნდა მქონდეს ჩემი ინტიმური ნაწილები ჩამოკიდებული.</GroinUncovered_Disapproved_Male.stages.0.description>
+  <GroinUncovered_Disapproved_Male.stages.0.label>დაუფარავი საზარდულის</GroinUncovered_Disapproved_Male.stages.0.label>
+  <GroinUncovered_Disapproved_Social_Male.stages.0.label>დაუფარავი საზარდულის</GroinUncovered_Disapproved_Social_Male.stages.0.label>
+</LanguageData>

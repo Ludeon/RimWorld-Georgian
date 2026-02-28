@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Ambush.label>ჩასაფრება</Ambush.label>
+  <Ambush.letterLabel>ქარავანი ჩასაფრებული</Ambush.letterLabel>
+  <Ambush.letterText>{0} ჩასაფრებულია {1}-დან {2}-დან!</Ambush.letterText>
+  <CaravanDemand.label>გადახდის მოთხოვნა</CaravanDemand.label>
+  <CaravanMeeting.label>საქარავნო შეხვედრა</CaravanMeeting.label>
+  <ManhunterAmbush.label>კაცობრიობის ჩასაფრება</ManhunterAmbush.label>
+  <ManhunterAmbush.letterLabel>ჩასაფრებული ქარავანი (ადამიანის მონადირეები)</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterText>{0} ჩასაფრებულია სკარიით ინფიცირებული ადამიანის ნადირობა {1}!</ManhunterAmbush.letterText>
+</LanguageData>

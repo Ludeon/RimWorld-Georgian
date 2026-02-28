@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CallLaborerGang.description>დაურეკეთ 8 მუშათა ჯგუფს, რათა დაგეხმაროთ 4 დღის განმავლობაში. ამ მუშებს შეუძლიათ მხოლოდ ზოგადი შრომითი დავალებების შესრულება. თქვენ შეგიძლიათ აკონტროლოთ ისინი, თითქოს ისინი თქვენივე კოლონისტები იყვნენ. თქვენ უნდა შეინახოთ ისინი უსაფრთხოდ.</CallLaborerGang.description>
+  <CallLaborerGang.label>დაურეკეთ მშრომელთა ბანდას</CallLaborerGang.label>
+  <CallLaborerTeam.description>დაურეკეთ 4 მუშაკთა ჯგუფს, რათა დაგეხმაროთ 4 დღის განმავლობაში. ამ მუშებს შეუძლიათ მხოლოდ ზოგადი შრომითი დავალებების შესრულება. თქვენ შეგიძლიათ აკონტროლოთ ისინი, თითქოს ისინი თქვენივე კოლონისტები იყვნენ. თქვენ უნდა შეინახოთ ისინი უსაფრთხოდ.</CallLaborerTeam.description>
+  <CallLaborerTeam.label>გამოიძახეთ მუშათა გუნდი</CallLaborerTeam.label>
+  <CallMilitaryAidGrand.description>დარეკეთ 4 მძიმე კატაფრაქტის ჯგუფს, რათა დაგეხმაროთ ბრძოლაში.</CallMilitaryAidGrand.description>
+  <CallMilitaryAidGrand.label>მოვუწოდებთ კატაფრატის რაზმს</CallMilitaryAidGrand.label>
+  <CallMilitaryAidLarge.description>დაურეკეთ 4 პროფესიონალ იანიჩართა ჯგუფს, რათა დაგეხმაროთ ბრძოლაში.</CallMilitaryAidLarge.description>
+  <CallMilitaryAidLarge.label>გამოიძახეთ იანიჩართა რაზმი</CallMilitaryAidLarge.label>
+  <CallMilitaryAidSmall.description>დაურეკეთ 4 მსუბუქი ჯარისკაცის ჯგუფს, რათა დაგეხმაროთ ბრძოლაში.</CallMilitaryAidSmall.description>
+  <CallMilitaryAidSmall.label>გამოიძახეთ ჯარისკაცების რაზმი</CallMilitaryAidSmall.label>
+  <CallOrbitalSalvo.description>გამოიძახეთ აეროდრონის დარტყმები სამიზნე პოზიციის გარშემო.</CallOrbitalSalvo.description>
+  <CallOrbitalSalvo.label>დარეკეთ აეროდრონის სალვო</CallOrbitalSalvo.label>
+  <CallOrbitalStrike.description>გამოიძახეთ ერთჯერადი აეროდრონის დარტყმა სამიზნე პოზიციაზე.</CallOrbitalStrike.description>
+  <CallOrbitalStrike.label>გამოიძახეთ აეროდრონის დარტყმა</CallOrbitalStrike.label>
+  <CallTransportShuttle.description>გამოიძახეთ შატლი საკუთარი სარგებლობისთვის. ის გადაიტანს კოლონისტებს, ნივთებს და ცხოველებს ყველგან, სადაც გსურთ, 70 მსოფლიო ფილაში.</CallTransportShuttle.description>
+  <CallTransportShuttle.label>დარეკეთ სატრანსპორტო შატლს</CallTransportShuttle.label>
+  <FoodDrop.description>მოითხოვეთ წვეთი 20 შეფუთული გადარჩენის კვება.</FoodDrop.description>
+  <FoodDrop.label>საკვების წვეთი</FoodDrop.label>
+  <GlitterMedDrop.description>მოითხოვეთ 5 წვეთი ბრჭყვიალა სამყაროს წამალი.</GlitterMedDrop.description>
+  <GlitterMedDrop.label>ბრჭყვიალა მედ წვეთი</GlitterMedDrop.label>
+  <SilverDrop.description>მოითხოვეთ 500 ვერცხლის წვეთი.</SilverDrop.description>
+  <SilverDrop.label>ვერცხლის წვეთი</SilverDrop.label>
+  <SteelDrop.description>მოვუწოდებთ წვეთი 250 ფოლადი.</SteelDrop.description>
+  <SteelDrop.label>ფოლადის წვეთი</SteelDrop.label>
+  <TradeCaravan.label>ქარავნებით ვაჭრობა</TradeCaravan.label>
+  <TradeOrbital.label>ორბიტალურ ტრეიდერებთან ვაჭრობა</TradeOrbital.label>
+  <TradeSettlement.label>დასახლებებთან ვაჭრობა</TradeSettlement.label>
+</LanguageData>

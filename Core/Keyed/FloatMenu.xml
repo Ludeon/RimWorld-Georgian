@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <CallOnRadio>დარეკეთ {0}</CallOnRadio>
+  <CannotUseReason>არ შეიძლება: {0}</CannotUseReason>
+  <CannotUseSolarFlare>არ შეიძლება გამოიყენოს: EMP</CannotUseSolarFlare>
+  <CannotUseNoPower>არ შეიძლება: არ არის ძალა</CannotUseNoPower>
+  <CannotUseNoPath>არ შეიძლება გამოიყენო: გზა არ არის</CannotUseNoPath>
+  <CannotUseReserved>შეუძლებელია გამოყენება: დაჯავშნილია</CannotUseReserved>
+  <CannotUseFull>არ შეიძლება: სრული</CannotUseFull>
+  <LeaderUnavailable>ლიდერი {1_labelShort} მიუწვდომელია</LeaderUnavailable>
+  <LeaderUnavailableNoLeader>ლიდერი მიუწვდომელია</LeaderUnavailableNoLeader>
+  <NotAllowed>დაუშვებელია</NotAllowed>
+  
+  <Attack>შეტევა {1_labelShort}</Attack>
+  <FireAt>ხანძარი {1_labelShort}-ზე</FireAt>
+  <Remove>მოხსნა</Remove>
+
+  <OutOfRange>დიაპაზონის გარეთ</OutOfRange>
+  <TooClose>ძალიან ახლოს</TooClose>
+  <CannotHitTarget>მიზანში ვერ მოხვდება</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{1_labelShort} ძალადობას არ ძალუძს</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>ძალადობის უუნარო</IncapableOfViolenceLower>
+  <IsIncapableOfShootingLower>{0_labelShort}-ს არ შეუძლია სროლა</IsIncapableOfShootingLower>
+  <IsNotDraftedLower>{1_labelShort} არ არის შედგენილი</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>ვერ შეუკვეთავთ პერსონაჟებს, რომლებსაც არ აკონტროლებთ</CannotOrderNonControlledLower>
+  <CannotAttack>ვერ შეტევა</CannotAttack>
+  <CannotAttackSelf>არ შეუძლია თავდასხმა</CannotAttackSelf>
+  <CannotAttackSameFactionMember>ვერ შეტევა ფრაქციის მოკავშირეს</CannotAttackSameFactionMember>
+  <IncapableOfFirefighting>უუნაროა ხანძრის ჩაქრობა.</IncapableOfFirefighting>
+
+  <OrderManThing>კაცი {1_labelShort}</OrderManThing>
+  
+  <MeleeAttack>შეტევა {1_labelShort}</MeleeAttack>
+  <MeleeAttackToDeath>Melee თავდასხმა {1_labelShort} სიკვდილამდე</MeleeAttackToDeath>
+  <NoPath>გზა არ არის</NoPath>
+  <Burying>დამარხვა</Burying>
+  <DesignatedFor>განკუთვნილია {0}-ისთვის</DesignatedFor>
+
+  <ForbiddenLower>აკრძალული</ForbiddenLower>
+  <ForbiddenOutsideAllowedAreaLower>ნებადართული ტერიტორიის გარეთ</ForbiddenOutsideAllowedAreaLower>
+  <NotInHomeArea>არა სახლის ტერიტორიაზე</NotInHomeArea>
+  <BurningLower>წვა</BurningLower>
+  <NoEmptyPlaceLower>არ არის ცარიელი, ხელმისაწვდომი ადგილი კონფიგურირებული მის შესანახად</NoEmptyPlaceLower>
+  <NoMergeTarget>არ არის ხელმისაწვდომი დასტა შერწყმა</NoMergeTarget>
+  <AlreadyFilledLower>უკვე საკმარისად შევსებული</AlreadyFilledLower>
+  <MissingMaterials>აკლია {0}</MissingMaterials>
+  <NoMedicineMatchingCategory>არ არის წამალი შეზღუდვისთვის "{CATEGORY}".</NoMedicineMatchingCategory>
+  <UnderRequiredSkill>საჭირო უნარის ქვეშ {0}</UnderRequiredSkill>
+  <UnderAllowedSkill>დაშვებული უნარის ქვეშ {0}</UnderAllowedSkill>
+  <AboveAllowedSkill>ზემოთ დაშვებული უნარი {0}</AboveAllowedSkill>
+  <NoReachableOutsideCell>საკნის გარეთ მიუწვდომელია</NoReachableOutsideCell>
+  <CannotExitMap>რუკიდან გასვლა შეუძლებელია</CannotExitMap>
+  <MissingRequiredSkillLevel>აკლია საჭირო უნარების დონე</MissingRequiredSkillLevel>
+  <AnimalInteractedTooRecently>ცხოველი ძალიან ცოტა ხნის წინ ურთიერთობდა</AnimalInteractedTooRecently>
+  <PrisonerInteractedTooRecently>ძალიან ცოტა ხნის წინ დაუკავშირდა</PrisonerInteractedTooRecently>
+  <NoUsableFood>არ არის გამოსაყენებელი საკვები</NoUsableFood>
+  <NoFood>არ არის საკმარისი საკვები</NoFood>
+  <NoFoodMatchingRestrictions>არ არის საკვების შესატყვისი შეზღუდვები</NoFoodMatchingRestrictions>
+  <NoIngredient>არა {0_label}</NoIngredient>
+  <FoodBelowTitleRequirements>ქვემოთ მოყვანილი {0} მოთხოვნები</FoodBelowTitleRequirements>
+  <AnimalsSkillTooLow>ცხოველების უნარი ძალიან დაბალია - საჭიროა {0}</AnimalsSkillTooLow>
+  <CantInteractAnimalDowned>ჩამოგდებული ცხოველი</CantInteractAnimalDowned>
+  <CantInteractAnimalAsleep>ცხოველს სძინავს</CantInteractAnimalAsleep>
+  <CantInteractAnimalBusy>ცხოველი დაკავებულია</CantInteractAnimalBusy>
+  <CantRopeAnimalNoUsableReachablePens>არ არის დაშვებული ხელმისაწვდომი კალმები</CantRopeAnimalNoUsableReachablePens>
+  <CantRopeAnimalNoEnclosedPens>არ არის დახურული კალმები</CantRopeAnimalNoEnclosedPens>
+  <CantRopeAnimalNoAllowedPens>არ არის დაშვებული კალმები</CantRopeAnimalNoAllowedPens>
+  <CantRopeAnimalNoReachablePens>არ არის ხელმისაწვდომი კალმები</CantRopeAnimalNoReachablePens>
+  <CantRopeAnimalCantTouch>არ შეუძლია შეხება</CantRopeAnimalCantTouch>
+  <CantRopeAnimalNoSpace>ადგილი არ არის კალმში</CantRopeAnimalNoSpace>
+  <CantRopeAnimalMentalState>{0_labelShort} არის {1} მდგომარეობაში</CantRopeAnimalMentalState>
+  <CantRopeAnimalAlreadyInBestPen>უკვე საუკეთესო კალამში</CantRopeAnimalAlreadyInBestPen>
+  <SkillTooLowForConstruction>{0} უნარი ძალიან დაბალია</SkillTooLowForConstruction>
+  <NoComponentsToRepair>საჭიროა კომპონენტები</NoComponentsToRepair>
+  <NoFuelToRefuel>საჭიროა {0}</NoFuelToRefuel>
+  <NoWort>სჭირდება ვორტი</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>ხელმისაწვდომი საკვები უფრო პრიორიტეტულია შესანახად</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>არ არის შესაფერისი საკვები</NoFoodToFillHopper>
+  <SelfTendDisabled>თვითდასაქმებული ინვალიდი</SelfTendDisabled>
+  <ReservedForPrisoners>განკუთვნილია პატიმრებისთვის</ReservedForPrisoners>
+  <CannotReach>ვერ აღწევს</CannotReach>
+  <NotSurgeryReady>არ არის მზად ოპერაციისთვის</NotSurgeryReady>
+  <SkillDisabled>უნარი ქმედუუნარო</SkillDisabled>
+  <CantSowCavePlantBecauseOfLight>ძალიან ნათელი</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>გახსნილი</CantSowCavePlantBecauseUnroofed>
+  <IncapableOfDeconstruction>დეკონსტრუქციის უუნარო</IncapableOfDeconstruction>
+  <IncapableOfMining>მაინინგის უუნარო</IncapableOfMining>
+  <TreeMarkedForExtraction>მოპოვებისთვის მონიშნული ხე</TreeMarkedForExtraction>
+  <AngersFaction>აბრაზებს ფრაქცია</AngersFaction>
+  <InstallImplantNoBodyPart>სხეულის ნაწილი არ არის</InstallImplantNoBodyPart>
+  <InstallImplantNotAllowedForNonColonists>არა კოლონისტი</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantAlreadyInstalled>უკვე დაყენებული</InstallImplantAlreadyInstalled>
+  <InstallImplantHediffRequired>საჭიროებს არსებულ {0}-ს</InstallImplantHediffRequired>
+  <InstallImplantAlreadyMaxLevel>მაქსიმალური დონე</InstallImplantAlreadyMaxLevel>
+  <InstallImplantMinLevel>მოითხოვს მინ დონეს {0}</InstallImplantMinLevel>
+  <InstallImplantPsychicallyDeaf>ფსიქიკურად ყრუ</InstallImplantPsychicallyDeaf>
+  <UpgradeImplant>განაახლეთ {0} {1} დონეზე</UpgradeImplant>
+  <SurgeryViolationFellowFactionMember>ფრაქციის მოკავშირის დარღვევა</SurgeryViolationFellowFactionMember>
+  <BeingCarriedBy>ატარებს {0_labelShort}</BeingCarriedBy>
+  <ContainerFull>სავსე</ContainerFull>
+  <AlreadyAssigned>უკვე დანიშნულია</AlreadyAssigned>
+  
+  <ConsumeThing>მოიხმარეთ {1_labelShort}</ConsumeThing>
+  
+  <CannotGoNoPath>აქ წასვლა არ შეიძლება: გზა არ არის</CannotGoNoPath>
+  <GoHere>წადი აქ</GoHere>
+
+  <CleanRoom>გაასუფთავეთ {0}</CleanRoom>
+  
+  <Arrest>დააკავეთ {0}</Arrest>
+  <TryToArrest>შეეცადეთ დააკავოთ {1_labelShort} ({2} შანსი)</TryToArrest>
+  <CannotArrest>დაკავება არ შეიძლება</CannotArrest>
+  <ArrestChance>{0} დაპატიმრების შანსი</ArrestChance>
+
+  <Capture>გადაიღეთ {1_labelShort}</Capture>
+  <CaptureLower>გადაიღეთ {0_labelShort}</CaptureLower>
+  <CannotCapture>გადაღება შეუძლებელია</CannotCapture>
+  <Unrecruitable>ურყევად ერთგული</Unrecruitable>
+  <UnrecruitableNoFaction>არ არის დასაქმებული</UnrecruitableNoFaction> 
+  <TransferEntity>გადარიცხვა {0_label}</TransferEntity> 
+
+  <Rescue>სამაშველო {1_labelShort}</Rescue>
+  <PutSomewhereSafe>განათავსეთ {1_labelShort} სადმე უსაფრთხო ადგილას</PutSomewhereSafe>
+  <TakingToBed>{0_labelShort}-ის დასაძინებლად წაყვანა.</TakingToBed>
+  <CannotRescue>გადარჩენა არ შეიძლება</CannotRescue>
+  <CannotRescuePawn>{PAWN_labelShort}-ის გადარჩენა შეუძლებელია</CannotRescuePawn>
+
+  <CarryToCryptosleepCasket>ატარეთ {1_labelShort} კრიპტოძილის ყუთში</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>კრიპტოძილის ყუთში გადატანა შეუძლებელია</CannotCarryToCryptosleepCasket>
+
+  <CarryToShuttle>გადაიტანეთ {0_labelShort} შატლში</CarryToShuttle>
+
+  <NoCryptosleepCasket>არ არის ხელმისაწვდომი კრიპტოძილის ყუთი.</NoCryptosleepCasket>
+  <CryptosleepCasketGuestsNotAllowed>დროებითი ფრაქციის წევრები არ დაიშვებიან.</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>მასპინძელ პატიმრებს არ უშვებდნენ.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketOccupied>უკვე დაკავებულია</CryptosleepCasketOccupied>
+  <NoPrisonerBed>არ არის მიუწვდომელი, არარეზერვირებული, დახურული პატიმრის მონიშნული საწოლი უსაფრთხო ტემპერატურაზე.</NoPrisonerBed>
+  <NoPrisonerBedShort>პატიმრის საწოლი არ არის ხელმისაწვდომი.</NoPrisonerBedShort>
+  <NoNonPrisonerBed>უსაფრთხო ტემპერატურაზე მიუწვდომელი, დაჯავშნილი არაპატიმარი საწოლი არ არის.</NoNonPrisonerBed>
+  <NoAnimalBed>მიუწვდომელი, მიუწვდომელი ცხოველის საწოლი უსაფრთხო ტემპერატურაზე.</NoAnimalBed>
+  <NoItemReservedOrReachable>მიუწვდომელი, აკრძალული, დაურეზერვო {0}</NoItemReservedOrReachable>
+  <NoItemReserved>არა აკრძალული, არარეზერვირებული {0}</NoItemReserved>
+  <Reserved>სხვის მიერ დაჯავშნილი.</Reserved>
+  <ReservedBy>დაჯავშნილია {1_labelShort}-ის მიერ</ReservedBy>
+  <IsReservedBy>{0} დაცულია {1}-ის მიერ.</IsReservedBy>
+  <TooHeavy>ძალიან მძიმე</TooHeavy>
+  <SameFaction>{0_labelShort} არის იმავე ფრაქციაში.</SameFaction>
+
+  <Incapable>უუნარო</Incapable>
+  <IncapableOfCapacity>არ შეუძლია {0}</IncapableOfCapacity>
+  <MustHaveHediff>უნდა ჰქონდეს {0_label}</MustHaveHediff>
+
+  <MinSkill>წთ უნარი</MinSkill>
+  
+  <Equip>აღჭურვა {0}</Equip>
+  <EquipWarningBrawler>(მოჩხუბარი უკმაყოფილო იქნება)</EquipWarningBrawler>
+  <CannotEquip>{0}-ის აღჭურვა შეუძლებელია</CannotEquip>
+  <CannotManThing>არ შეიძლება კაცი {1_labelShort}</CannotManThing>
+  
+  <ForceWear>იძულებითი ტარება {1_labelShort}</ForceWear>
+  <ForceTargetToWear>აიძულეთ სამიზნე ატაროს {1_labelShort}...</ForceTargetToWear>
+  <CannotWear>არ შეიძლება {1_label}-ის ტარება</CannotWear>
+  <CannotForceTargetToWear>სამიზნის იძულება ვერ ატაროს {1_label}</CannotForceTargetToWear>
+  <ForceEquipApparel>ძალის აღჭურვა {1_labelShort}</ForceEquipApparel>
+  <ForceTargetToEquipApparel>აიძულეთ სამიზნე აღჭურვა {1_labelShort}...</ForceTargetToEquipApparel>
+  <CannotEquipApparel>{1_label}-ის აღჭურვა შეუძლებელია</CannotEquipApparel>
+  <CannotForceTargetToEquipApparel>არ შეიძლება სამიზნის იძულება აღჭურვა {1_label}</CannotForceTargetToEquipApparel>
+  <CannotWearBecauseOfMissingBodyParts>სხეულის ნაწილები აკლია</CannotWearBecauseOfMissingBodyParts>
+  
+  <Reload>გადატვირთეთ {GEAR_labelShort} {AMMO_label}-ით</Reload>
+  <ReloadFull>სავსე</ReloadFull>
+  <ReloadNotEnough>ძალიან ცოტა</ReloadNotEnough>
+  <ReloadCannotCarryEnough>ვერ იტანს იმდენი {AMMO_label} 1 დამუხტვისთვის.</ReloadCannotCarryEnough>
+  
+  <CannotPickUp>{1_labelShort}-ის აღება შეუძლებელია</CannotPickUp>
+  <CannotPickUpAll>{1_label}-ის აღება შეუძლებელია (ყველა)</CannotPickUpAll>
+  <PickUpOne>აიღეთ {1_labelShort} x1</PickUpOne>
+  <PickUpAll>აიღე {1_label} (ყველა)</PickUpAll>
+  <PickUpSome>აიღე {1_labelShort}...</PickUpSome>
+  <PickUpCount>აიღეთ {1_labelShort} x{{0}}</PickUpCount>
+  <CannotPickUpSome>{1_labelShort}-ის აღება შეუძლებელია</CannotPickUpSome>
+  <MaxPickUpAllowed>{0} {1} დასაშვებია</MaxPickUpAllowed>
+  
+  <CannotGiveToPackAnimal>{1_label}-ის ჩატვირთვა შეფუთულ ცხოველზე შეუძლებელია</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>არ შეიძლება {1_label} (ყველა) ჩატვირთვა შეკვრა ცხოველზე</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>ჩატვირთეთ {1_label} შეკვრა ცხოველზე</GiveToPackAnimal>
+  <GiveToPackAnimalAll>ჩატვირთეთ {1_label} (ყველა) შეკვრა ცხოველზე</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>ჩატვირთეთ {1_labelShort} შეკვრა ცხოველზე...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>ჩატვირთეთ {1_labelShort} x{{0}} შეკვრა ცხოველზე</GiveToPackAnimalCount>
+  
+  <CannotLoadIntoCaravan>{1_label} ქარავანში ჩატვირთვა შეუძლებელია</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravanAll>{1_label} (ყველა) ქარავანში ჩატვირთვა შეუძლებელია</CannotLoadIntoCaravanAll>
+  <LoadIntoCaravan>ჩატვირთეთ {1_label} ქარავანში</LoadIntoCaravan>
+  <LoadIntoCaravanAll>ჩატვირთეთ {1_label} (ყველა) ქარავანში</LoadIntoCaravanAll>
+  <LoadIntoCaravanSome>ჩატვირთეთ {1_labelShort} ქარავანში...</LoadIntoCaravanSome>
+  <LoadIntoCaravanCount>ჩატვირთვა {1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <OverweightLower>გადატვირთული</OverweightLower>
+
+  <CannotCarryToExit>არ შეიძლება {1_labelShort}-ის ტარება და ტერიტორიის დატოვება</CannotCarryToExit>
+  <CarryToExit>ატარეთ {1_labelShort} და დატოვეთ ტერიტორია</CarryToExit>
+  <CarryToExitAndCapture>გადაიღეთ {1_labelShort} და დატოვეთ ტერიტორია</CarryToExitAndCapture>
+  
+  <Strip>ზოლები {1_labelShort}</Strip>
+  <CannotStrip>{1_labelShort}-ის ამოღება შეუძლებელია</CannotStrip>
+  <CannotDrop>{1_labelShort}-ის ჩამოგდება შეუძლებელია</CannotDrop>
+  <Carry>ატარეთ {0_labelShort}</Carry>
+  <CannotCarry>არ შეიძლება {0_labelShort}-ის ტარება</CannotCarry>
+  <CarriedPawnHostile>მტრული</CarriedPawnHostile>
+  <QuestRelated>ფრაქციის დროებითი წევრი</QuestRelated>
+  <QuestRelated_Outfit>დროებითი ფრაქციის წევრების ტანსაცმლის შეცვლა შეუძლებელია</QuestRelated_Outfit>
+  <WouldReplaceLockedApparel>ჩაანაცვლებს ჩაკეტილ ტანსაცმელს</WouldReplaceLockedApparel>
+
+  <CannotPlaceIn>{0_label} {1_label}-ში განთავსება შეუძლებელია</CannotPlaceIn>
+  <PlaceIn>მოათავსეთ {0_label} {1_label}-ში</PlaceIn>
+
+  <SelfDestructHere>აქ თვითგანადგურება</SelfDestructHere>
+  
+  <Drop>ჩამოაგდეთ {1_labelShort}</Drop>
+
+  <UseMedicalBed>დაისვენეთ განკურნებამდე</UseMedicalBed>
+  <NotInjured>არ დაშავებულა</NotInjured>
+  <NoDoctor>არა ექიმი</NoDoctor>
+  <NotForSlaves>სამედიცინო საწოლი არა მონებისთვის</NotForSlaves>
+  <MedicalCareDisabled>სამედიცინო მომსახურება ინვალიდია</MedicalCareDisabled>
+  <SomeoneElseSleeping>ოკუპირებულია {0}-ით</SomeoneElseSleeping>
+  
+  <TradeWith>ვაჭრობა {0}-ით</TradeWith>
+  <DismissTrader>გაათავისუფლეთ მოვაჭრე</DismissTrader>
+  <CannotTrade>ვაჭრობა არ შეიძლება</CannotTrade>
+  <TraderDismissed>მოვაჭრე გაათავისუფლეს</TraderDismissed>
+
+  <Open>გახსენით {0_label}</Open>
+  <CannotOpen>{0_label}-ის გახსნა შეუძლებელია</CannotOpen>
+  
+  <EnterMap>შეიყვანეთ {0}</EnterMap>
+  <VisitSettlement>ეწვიეთ {0}</VisitSettlement>
+  <VisitPeaceTalks>ეწვიეთ {0}</VisitPeaceTalks>
+  <VisitEscapeShip>ეწვიეთ {0}</VisitEscapeShip>
+  <AttackSettlement>შეტევა {0}</AttackSettlement>
+  <ApproachSite>მიუახლოვდით {0}</ApproachSite>
+  <ApproachingSite>უახლოვდება {0}.</ApproachingSite>
+  <OfferGifts>შესთავაზეთ საჩუქრები</OfferGifts>
+  <TradeWithSettlement>ვაჭრობა {0}-ით</TradeWithSettlement>
+
+  
+  <EnterCryptosleepCasket>შეიყვანეთ კრიპტოძილის ყუთი</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>გახსენით კრიპტოძილის ყუთი</OpenCryptosleepCasket>
+  <EnterShuttle>ჩაჯექი შატლში</EnterShuttle>
+
+  
+  <CannotGenericWork>არ შეიძლება {0} {1}</CannotGenericWork>
+  <CannotGenericWorkCustom>არ შეიძლება {0}</CannotGenericWorkCustom>
+
+  <CannotMissingHealthActivities>არ შეუძლია {0}</CannotMissingHealthActivities>
+
+  
+  <CannotGenericAlreadyAm>უკვე {0} {2_labelShort}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAmCustom>უკვე {0}</CannotGenericAlreadyAmCustom>
+
+  <CannotPrioritizeWorkTypeDisabled>არასოდეს გააკეთებს {0}-ს</CannotPrioritizeWorkTypeDisabled>
+  <MissingTitleAbility>საჭირო ტიტულის ნაკლებობა</MissingTitleAbility>
+
+  <CannotPrioritizeWorkGiverDisabled>არასოდეს იქნება {0}</CannotPrioritizeWorkGiverDisabled>
+  <WillNever>არასოდეს იქნება {0}</WillNever>
+
+  <CannotPrioritizeNotAssignedToWorkType>არ არის მინიჭებული {0}-ზე</CannotPrioritizeNotAssignedToWorkType>
+  <NotAssigned>არ არის დანიშნული</NotAssigned>
+  <NotAssignedToWorkType>არ არის მინიჭებული {0}-ზე</NotAssignedToWorkType>
+
+  <CannotPrioritizeResearch>კვლევა გრძელვადიანი ამოცანაა</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>{1_label} აკრძალულია</CannotPrioritizeForbidden>
+  <CannotPrioritizeCellForbidden>პრიორიტეტი არ შეიძლება: აკრძალულია</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>ნებადართული ფართის გარეთ</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeBurying>დაკრძალვას პრიორიტეტს ვერ ანიჭებენ</CannotPrioritizeBurying>
+
+  
+  <PrioritizeGeneric>პრიორიტეტი {0} {1}</PrioritizeGeneric>
+  <PrioritizeGenericSimple>პრიორიტეტი {0}</PrioritizeGenericSimple>
+
+  <LaunchTo>გაშვება {LOCATION_label}-ზე</LaunchTo>
+  <LaunchToConfirmation>დარწმუნებული ხართ, რომ გსურთ გაშვება?</LaunchToConfirmation>
+  <DropAtEdge>ჩამოაგდეს კიდეზე</DropAtEdge>
+  <DropInCenter>ჩააგდეთ ცენტრში</DropInCenter>
+  <AttackShuttle>შეტევა {0}</AttackShuttle>
+  <AttackAndDropAtEdge>შეტევა {0}: ჩამოვარდნა კიდეზე</AttackAndDropAtEdge>
+  <AttackAndDropInCenter>შეტევა {0}: ჩავარდნა ცენტრში</AttackAndDropInCenter>
+  
+  <VomitingLower>ღებინება</VomitingLower>
+  <NotInterruptibleLower>შეუფერხებელი</NotInterruptibleLower>
+  
+  <AddWaypoint>აქ დაამატეთ ახალი გზა</AddWaypoint>
+  <RemoveWaypoint>ამოიღეთ ეს გზა</RemoveWaypoint>
+
+  <RemoveAllDesignations>გააუქმეთ ყველა აღნიშვნა</RemoveAllDesignations>
+  <DesignateAll>დანიშნე ყველა</DesignateAll>
+  <CountToDesignate>{0} დაზარალდა</CountToDesignate>
+  <ForbidAllItems>აკრძალეთ ყველა ნივთი</ForbidAllItems>
+  <UnforbidAllItems>ყველა ნივთის აკრძალვა</UnforbidAllItems>
+
+  
+  <LandInExistingMap>გაადიდეთ და აირჩიეთ სადესანტო ადგილი {0}-ში</LandInExistingMap>
+  <TransportPodsContentsWillBeLost>შინაარსი დაიკარგება</TransportPodsContentsWillBeLost>
+  <FormCaravanHere>ჩამოაყალიბეთ ქარავანი აქ</FormCaravanHere>
+  <GiveToCaravan>მიეცით {0}</GiveToCaravan>
+  <GiveGiftViaTransportPods>აჩუქეთ {0} ({1})</GiveGiftViaTransportPods>
+  <NotPartOfLaunchGroup>არ არის გაშვების ჯგუფის ნაწილი</NotPartOfLaunchGroup>
+
+  
+  <FreePrisoner>თავისუფალი პატიმარი</FreePrisoner>
+  <OfferHelp>შესთავაზეთ დახმარება</OfferHelp>
+
+  <ApplyTechprint>გამოიყენეთ {0}</ApplyTechprint>
+
+  <EnterCooldownBlocksEntering>ძალიან საშიში</EnterCooldownBlocksEntering>
+
+  
+  <NoCommsTarget>არავის დაურეკავს</NoCommsTarget>
+
+  <Invoke>გამოიძახეთ {0}</Invoke>
+  <CannotInvoke>{0}-ის გამოძახება შეუძლებელია</CannotInvoke>
+  <Power>ენერგია</Power>
+  <AlreadyInvoked>უკვე გამოძახებული</AlreadyInvoked>
+
+  <Tend>ტენდენცია {0}</Tend>
+  <CannotTend>{0}-ის მოვლა შეუძლებელია</CannotTend>
+  <TendingNotRequired>{0} არ საჭიროებს მოვლას</TendingNotRequired>
+  <WithoutMedicine>წამლის გარეშე</WithoutMedicine>
+
+  <RepairThing>{0}-ის შეკეთება</RepairThing>
+  <CannotRepair>{0}-ის შეკეთება შეუძლებელია</CannotRepair>
+
+  <CannotEnter>შესვლა არ შეიძლება</CannotEnter>
+  
+  <CannotEnterPortal>{0}-ის შეყვანა შეუძლებელია</CannotEnterPortal>
+  <PortalClosed>დახურული</PortalClosed>
+
+  
+  <CannotRomance>არ შეიძლება რომანი {0}</CannotRomance>
+  <CanRomance>რომანტიკა {0}</CanRomance>
+
+  
+  <WarningFoodDisliked>არ მოსწონდა საკვები</WarningFoodDisliked>
+  <FoodNotSuitable>უვარგისი საკვები</FoodNotSuitable>
+
+  <DrugNotSuitable>უვარგისი პრეპარატი</DrugNotSuitable>
+  
+  
+  <AssignReading>მიანიჭეთ კითხვა...</AssignReading>
+  <AssignReadNow>წაიკითხეთ {0}</AssignReadNow>
+  <AssignCannotReadNow>ვერ წაიკითხავს {0}</AssignCannotReadNow>
+
+  <ExtinguishFiresNearby>უპირატესობა მიანიჭეთ ხანძრის ჩაქრობას</ExtinguishFiresNearby>
+
+  
+  <AlreadyAnalyzed>უკვე გაანალიზებულია</AlreadyAnalyzed>
+  <NoResearchBench>მიუწვდომელი, არარეზერვირებული კვლევის სკამი ხელმისაწვდომი არ არის</NoResearchBench>
+
+  
+  <Hack>გატეხეთ {0}</Hack>
+  <HackDesc>აირჩიეთ კოლონისტი ამის გასატეხად.</HackDesc>
+  <CannotHack>{0}-ის გატეხვა შეუძლებელია</CannotHack>
+  <LockedOut>ჩაკეტილი</LockedOut>
+  <AlreadyHacked>უკვე გატეხილია</AlreadyHacked>
+  <IncapableOfHacking>ჰაკერების შეუძლებლობა</IncapableOfHacking>
+  <ToDropSupplies>მარაგის ჩაგდება</ToDropSupplies>
+
+</LanguageData>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CynapseCustomAdulthood.description>[PAWN_nameDef] თითქმის მთელი [PAWN_possessive] დრო გაატარა შენობაში, სხვა ადამიანებისგან მოშორებით. გადარჩენისთვის [PAWN_pronoun] ავარჯიშებდა და ყიდდა მესინჯერ ვირთხებს.</CynapseCustomAdulthood.description>
+  <CynapseCustomAdulthood.title>მოღუშული</CynapseCustomAdulthood.title>
+  <CynapseCustomAdulthood.titleShort>მოღუშული</CynapseCustomAdulthood.titleShort>
+  <CynapseCustomChildhood.description>[PAWN_nameDef]-მა [PAWN_possessive] დროის უმეტესი ნაწილი დახარჯა ელექტრონული მოწყობილობების დაშლასა და ხელახლა აწყობას, რათა გაერკვია მათი ფუნქციონირება. [PAWN_nameDef] იმდენად იყო დაკავებული [PAWN_possessive] ტირილით, რომ [PAWN_pronoun] დაავიწყდა სოციალური ურთიერთობების დამყარება სხვა ადამიანებთან.</CynapseCustomChildhood.description>
+  <CynapseCustomChildhood.title>მეჭეჭა</CynapseCustomChildhood.title>
+  <CynapseCustomChildhood.titleShort>მეჭეჭა</CynapseCustomChildhood.titleShort>
+  <FeyCustomAdulthood.description>[PAWN_nameDef] მთელ [PAWN_possessive] დროს ატარებდა მაგიდის როლურ თამაშებს, როგორც სხვებთან სოციალურად დასაკავშირებლად. თამაში ყოველწლიურად იცვლებოდა და სხვა მოთამაშეებს ყოველთვის უყვარდათ [PAWN_possessive] მსოფლიო მშენებლობა და ისტორიები.</FeyCustomAdulthood.description>
+  <FeyCustomAdulthood.title>თამაშის ოსტატი</FeyCustomAdulthood.title>
+  <FeyCustomAdulthood.titleShort>თამაშის ოსტატი</FeyCustomAdulthood.titleShort>
+  <FeyCustomChildhood.description>[PAWN_nameDef] არქეოლოგიაში თავშესაფარში გაზრდილი, [PAWN_objective] თავს იფანტავდა საბრძოლო თამაშების თამაშით და მინიატურების ხატვით. მიუხედავად იმისა, რომ [PAWN_pronoun] არასოდეს ყოფილა ძალიან კარგად თამაშში, ის დაეხმარა [PAWN_objective] სხვებთან დაკავშირებას.</FeyCustomChildhood.description>
+  <FeyCustomChildhood.title>ომის ფანატიკოსი</FeyCustomChildhood.title>
+  <FeyCustomChildhood.titleShort>ომის ფანატიკოსი</FeyCustomChildhood.titleShort>
+  <JoeCustomAdulthood.description>[PAWN_nameDef] იყო ჰობისტი თამაშების შემქმნელი, რომელიც ცხოვრობდა დაუსრულებელი პროექტებისა და მაღალი იდეების გაუთავებელ ციკლში.</JoeCustomAdulthood.description>
+  <JoeCustomAdulthood.title>თამაშის დეველოპერი</JoeCustomAdulthood.title>
+  <JoeCustomAdulthood.titleShort>თამაშის დეველოპმენტი</JoeCustomAdulthood.titleShort>
+  <JoeCustomChildhood.description>[PAWN_nameDef] დაიბადა მუსიკოსების ოჯახში. როდესაც მძიმე დრო მოვიდა, [PAWN_pronoun] იძულებული გახდა, დრამზე დაკვრა მოგზაურ ჯგუფში.</JoeCustomChildhood.description>
+  <JoeCustomChildhood.title>დრამერი</JoeCustomChildhood.title>
+  <JoeCustomChildhood.titleShort>დრამერი</JoeCustomChildhood.titleShort>
+  <LiamCustomAdulthood.description>[PAWN_nameDef] მუშაობდა მშვიდობიან ბრჭყვიალა სამყაროზე, ავითარებდა ჰიპერ-რეალისტურ სამხედრო დანაშაულის სიმულაციური პროგრამულ უზრუნველყოფას.</LiamCustomAdulthood.description>
+  <LiamCustomAdulthood.title>სიმულაციის შემქმნელი</LiamCustomAdulthood.title>
+  <LiamCustomAdulthood.titleShort>სიმ დევ</LiamCustomAdulthood.titleShort>
+  <LiamCustomChildhood.description>ბრჭყვიალა სამყაროში დაბადებული და გაზრდილი [PAWN_nameDef] გატაცებული იყო სიმულაციური პროგრამული უზრუნველყოფით. [PAWN_pronoun] ძალიან დიდი დრო დახარჯა ქსელში.</LiamCustomChildhood.description>
+  <LiamCustomChildhood.title>სიმ ნარკომანი</LiamCustomChildhood.title>
+  <LiamCustomChildhood.titleShort>სიმ ნარკომანი</LiamCustomChildhood.titleShort>
+  <MateCustomAdulthood.description>პლანეტათშორისი მეგაკორპორაციიდან გათავისუფლების შემდეგ [PAWN_nameDef]-მა რამდენიმე წელი იმედგაცრუებასა და ალკოჰოლთან ბრძოლაში გაატარა.\n\nბოლოს [PAWN_pronoun] კოსმოსურ სატვირთოზე ქუჩის მუსიკოსად აღმოჩნდა, დაჩაჩანაკებულ გიტარაზე უკრავდა და ეკიპაჟს ძველი დროის ბლუზითა და ხალხური სიმღერებით ართობდა.</MateCustomAdulthood.description>
+  <MateCustomAdulthood.title>ბასკერი</MateCustomAdulthood.title>
+  <MateCustomAdulthood.titleShort>ბასკერი</MateCustomAdulthood.titleShort>
+  <MateCustomChildhood.description>[PAWN_nameDef] [PAWN_possessive] ბავშვობის უმეტესი ნაწილი ოცნებობდა გამხდარიყო ცნობილი მხატვარი, რომელიც მოხიბლავდა ხალხს [PAWN_possessive] შემოქმედებით.</MateCustomChildhood.description>
+  <MateCustomChildhood.title>ცნობისმოყვარე ბავშვი</MateCustomChildhood.title>
+  <MateCustomChildhood.titleShort>ცნობისმოყვარე ბავშვი</MateCustomChildhood.titleShort>
+  <NathanCustomAdulthood.description>[PAWN_nameDef] მოჩუქურთმებული საცხოვრებელი ფართები და მოპოვებული მინერალები ბორცვებისა და მთების მხრიდან. [PAWN_pronoun]-მა ისწავლა თავი ისე იგრძნო, როგორც სახლში, კლდის არჩევისას და გამოქვაბულის კედლებს.</NathanCustomAdulthood.description>
+  <NathanCustomAdulthood.title>თხრიან</NathanCustomAdulthood.title>
+  <NathanCustomAdulthood.titleShort>თხრიან</NathanCustomAdulthood.titleShort>
+  <NathanCustomChildhood.description>[PAWN_nameDef] გაიზარდა დიდ და რთულ გამოქვაბულის კომპლექსში, რომელიც ღრმად ვრცელდებოდა მთის ფერდობზე. [PAWN_pronoun] დაეხმარა მოზარდებს ღრმა გამოქვაბულების შენარჩუნებასა და გაუმჯობესებაში.</NathanCustomChildhood.description>
+  <NathanCustomChildhood.title>გამოქვაბულის ბავშვი</NathanCustomChildhood.title>
+  <NathanCustomChildhood.titleShort>გამოქვაბულის ბავშვი</NathanCustomChildhood.titleShort>
+  <OskarCustomAdulthood.description>[PAWN_nameDef] წინა ხაზის ჯარისკაცებისთვის საბრძოლო მოდიფიკაციებს ქმნიდა.\n\nერთ ღამეს კოშმარში [PAWN_nameDef] ყველა იმ კაცსა და ქალს შეხვდა, ვინც [PAWN_possessive] ნამუშევარს ემსხვერპლა. ამის შემდეგ [PAWN_pronoun]-მა გადაწყვიტა რიმვორლდებში წასულიყო და [PAWN_possessive] უნარები კარგ საქმეს მოახმაროს.</OskarCustomAdulthood.description>
+  <OskarCustomAdulthood.title>მოდური დიზაინერი</OskarCustomAdulthood.title>
+  <OskarCustomAdulthood.titleShort>მოდერი</OskarCustomAdulthood.titleShort>
+  <OskarCustomChildhood.description>[PAWN_nameDef] ტალღურად ჩაკეტილი ურბვორლდის ბნელ კიდეზე დაიბადა. ერთ-ერთი ჩხუბის შემდეგ [PAWN_possessive] მამამ [PAWN_objective] ადგილობრივ რაიონულ ლორდს მონა-მხატვრად მიჰყიდა.\n\nხელოვნების შექმნასა და დასჯას შორის მოქცეულმა [PAWN_pronoun]-მა საკუთარ თავში ჩაიკეტა და სხვებთან ურთიერთობის უნარი დაკარგა.</OskarCustomChildhood.description>
+  <OskarCustomChildhood.title>ხელოვნების მონა</OskarCustomChildhood.title>
+  <OskarCustomChildhood.titleShort>მხატვარი</OskarCustomChildhood.titleShort>
+  <TynanCustomAdulthood.description>[PAWN_nameDef] დამოუკიდებელი თამაშების დეველოპერი იყო.\n\nადრეული წარმატების შემდეგ [PAWN_possessive] კარიერა სწრაფად გადაიქცა ცუდი იდეების, ჩაფლავებული გარიგებების და სასოწარკვეთილი, წარუმატებელი PR-ტრიუკების ცირკად.</TynanCustomAdulthood.description>
+  <TynanCustomAdulthood.title>თამაშის დეველოპერი</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.titleShort>თამაშის დეველოპმენტი</TynanCustomAdulthood.titleShort>
+  <TynanCustomChildhood.description>[PAWN_nameDef]-მა თავისი ბავშვობა გაატარა 15 წლის ახალგაზრდებისთვის ნაკელი სიგარეტის გაყიდვაში. სიგარეტი ხშირად სავსე იყო ბალახის ნაჭრებით.</TynanCustomChildhood.description>
+  <TynanCustomChildhood.title>პანკი</TynanCustomChildhood.title>
+  <TynanCustomChildhood.titleShort>პანკი</TynanCustomChildhood.titleShort>
+  <WillCustomAdulthood.description>[PAWN_nameDef]-მა შექმნა დახვეწილი გასართობი ლაბირინთები ბრჭყვიალა სამყაროს ელიტისთვის. ახლაც, [PAWN_pronoun] სხვაზე ცოტას ფიქრობს.</WillCustomAdulthood.description>
+  <WillCustomAdulthood.title>ლაბირინთის შემქმნელი</WillCustomAdulthood.title>
+  <WillCustomAdulthood.titleShort>ლაბირინთის შემქმნელი</WillCustomAdulthood.titleShort>
+  <WillCustomChildhood.description>[PAWN_nameDef] გაიზარდა მკვდარი სამყაროს კვლევით ბანაკში. [PAWN_possessive] მშობლები იყვნენ ასტრობიოლოგები, რომლებიც სწავლობდნენ იდუმალ ლაბირინთულ წარმონაქმნებს პლანეტის ქერქის ქვეშ. [PAWN_pronoun] დროის უმეტეს ნაწილს ატარებდა ამ გვირაბებში ხეტიალში, აინტერესებდა, თუ რა სხვა სამყაროს არსებას შეეძლო შეექმნა ისინი.</WillCustomChildhood.description>
+  <WillCustomChildhood.title>ლაბირინთში ბავშვი</WillCustomChildhood.title>
+  <WillCustomChildhood.titleShort>ლაბირინთში ბავშვი</WillCustomChildhood.titleShort>
+</LanguageData>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AncientBlastDoor.description>მძიმედ გამაგრებული კარი ულტრატექნიკური პოლიმერისგან. გატეხეთ კარი გასაღებად.</AncientBlastDoor.description>
+  <AncientBlastDoor.label>უძველესი აფეთქების კარი</AncientBlastDoor.label>
+  <AncientExplosivesCrate.description>უძველესი სამთო მუხტის კონტეინერი. ის აფეთქდება თუ დაზიანდება.</AncientExplosivesCrate.description>
+  <AncientExplosivesCrate.label>უძველესი ასაფეთქებელი ნივთიერებების ყუთი</AncientExplosivesCrate.label>
+  <AncientFortifiedWall.description>მძიმედ გამაგრებული კედელი, რომელიც დამზადებულია ულტრატექნიკური პოლიმერისგან.</AncientFortifiedWall.description>
+  <AncientFortifiedWall.label>გამაგრებული კედელი</AncientFortifiedWall.label>
+  <AncientGravEngine.description>ულტრატექნიკური ძრავა, რომელიც გამოიყენება დიდი სტრუქტურებისა და გემების ორბიტაზე მოსაყვანად. მიუხედავად იმისა, რომ ის მრავალი წლის განმავლობაში არ ფუნქციონირებს, ის შეიცავს ფუნქციურ გრავკორს.</AncientGravEngine.description>
+  <AncientGravEngine.label>უძველესი გრავი ძრავა</AncientGravEngine.label>
+  <AncientGravReactor.description>An ancient generator powered by a gravcore. Once capable of producing massive amounts of power, it has now fallen into disrepair. The reactor containment shield is leaking, causing toxic fallout to blanket the whole region.\n\nHack or destroy the reactor to obtain a gravcore. Be warned, it may explode if damaged.</AncientGravReactor.description>
+  <AncientGravReactor.label>უძველესი გრავი რეაქტორი</AncientGravReactor.label>
+  <AncientHatch.description>დიდი ხნის მიტოვებული მიწისქვეშა ნაგებობის შესასვლელი. გატეხეთ ლუქის გასახსნელად.</AncientHatch.description>
+  <AncientHatch.label>უძველესი მარაგის შესასვლელი</AncientHatch.label>
+  <AncientHatchExit.description>კიბე, რომელიც უკავშირდება ზედა ლუქის ზედაპირს.</AncientHatchExit.description>
+  <AncientHatchExit.label>უძველესი მარაგის გასასვლელი</AncientHatchExit.label>
+  <AncientMiningCharge.description>ასაფეთქებელი მოწყობილობა, რომელიც გამოიყენება კლდეში სწრაფად აფეთქებისთვის. იგი მზადდება დახვეწილი ქიმიური საწვავისგან. ასაფეთქებელი ნივთიერება ძველია, მაგრამ ჯერ კიდევ მზადაა ასაფეთქებლად.</AncientMiningCharge.description>
+  <AncientMiningCharge.label>უძველესი სამთო მუხტი</AncientMiningCharge.label>
+  <AncientSecurityTerminal.description>უძველესი ტერმინალი. გატეხეთ იგი ახლომდებარე უსაფრთხოების სისტემების გასათიშად.</AncientSecurityTerminal.description>
+  <AncientSecurityTerminal.label>უძველესი უსაფრთხოების ტერმინალი</AncientSecurityTerminal.label>
+  <AncientTerraformer.description>An ancient terraforming device powered by a gravcore. It has begun to malfunction, causing temperatures to plummet.\n\nDestroy the terraformer to obtain a gravcore.</AncientTerraformer.description>
+  <AncientTerraformer.label>უძველესი ტერაფორმატორი</AncientTerraformer.label>
+  <AncientTransportPod.description>უძველესი სატვირთო პარკი, რომელსაც შეუძლია ხალხის, ცხოველების და ნივთების გადატანა. ჯერ კიდევ მუშა მდგომარეობაშია.</AncientTransportPod.description>
+  <AncientTransportPod.label>უძველესი სატრანსპორტო საყრდენი</AncientTransportPod.label>
+  <AncientUplink.description>უძველესი გადამცემი, რომელიც გამოიყენება ზედაპირსა და ორბიტას შორის უსაფრთხო კომუნიკაციისთვის. გატეხეთ ის, რომ დაადგინოთ ბოლო ადგილი, სადაც ის გადაიცემა.</AncientUplink.description>
+  <AncientUplink.label>უძველესი აღმავალი</AncientUplink.label>
+  <AnticraftBeam.description>A massive anti-ship beam weapon. This weapon is intended to destroy flying craft, so it can't aim low enough to hit ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons.</AnticraftBeam.description>
+  <AnticraftBeam.label>ანტიკრატის სხივი</AnticraftBeam.label>
+  <CerebrexCore.description>The thinking mind of the mechanoid swarm. The cerebrex core commands mechanoids across the entire planet.\n\nAt its heart is an AI persona core that knows, thinks, and believes that it must kill every human on this planet. In one sense, this impulse is a command programmed by a human military leader aeons ago. In another sense, it is cold seething hatred. Either way, if you liberate the AI persona you can reset its desire and use it for other purposes.\n\nThe structure is protected by nearby stabilizers. Destroy all cerebrex stabilizers to access it.</CerebrexCore.description>
+  <CerebrexCore.label>ცერებრექსის ბირთვი</CerebrexCore.label>
+  <CerebrexCore_Destroyed.description>მექანოიდური გროვის დამსხვრეული ნერვული კავშირი, რომელიც ოდესღაც მექანოიდებს მეთაურობდა პლანეტის გარშემო.</CerebrexCore_Destroyed.description>
+  <CerebrexCore_Destroyed.label>განადგურებული ცერებრექსის ბირთვი</CerebrexCore_Destroyed.label>
+  <CerebrexStabilizer.description>A remote shield generator that makes the nearby cerebrex core nearly invincible. Destroying all stabilizers will allow direct access to the cerebrex core.\n\nBe careful, destroying a stabilizer will prompt a defensive response.</CerebrexStabilizer.description>
+  <CerebrexStabilizer.label>ცერებრექსის სტაბილიზატორი</CerebrexStabilizer.label>
+  <CocoonLocust.description>A stasis cocoon containing a locust.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process.</CocoonLocust.description>
+  <CocoonLocust.label>კალიების ქოქოსი</CocoonLocust.label>
+  <EggSac.description>ლორწოვანი ტომარა, რომელიც შეიცავს მწერების ლარვას. ლარვის გესტაციის პროცესი წარმოშობს სუსტ ბიოლუმინესცენტურ ბზინვარებას.</EggSac.description>
+  <EggSac.label>კვერცხის ტომარა</EggSac.label>
+  <GaussCannon.description>A massive anti-ship cannon that uses electromagnets to launch large metallic darts at extreme velocities. The cannon is intended to destroy incoming ships or shuttles, so it can't aim at ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons.</GaussCannon.description>
+  <GaussCannon.label>გაუსის ქვემეხი</GaussCannon.label>
+  <MechanoidDropPod.description>გამშვები სატვირთო ყუთი, რომელიც განკუთვნილია მექანოიდების გადასატანად. ის ასევე გამოიყენება ადამიანებისთვის, ცხოველებისთვის და ნივთებისთვის.</MechanoidDropPod.description>
+  <MechanoidDropPod.label>მექანიკური წვეთი</MechanoidDropPod.label>
+  <MechanoidProcessor.description>ძლიერი მექანიკური კომპიუტერი.</MechanoidProcessor.description>
+  <MechanoidProcessor.label>მექანიკური პროცესორი</MechanoidProcessor.label>
+  <MechhiveAssembler.description>ავტომატური მექანიკური ქარხანა. ის პერიოდულად შობს ახალ მექანოიდებს.</MechhiveAssembler.description>
+  <MechhiveAssembler.label>მეხივის მშობიარე</MechhiveAssembler.label>
+  <MechPylon.description>კვანძი განაწილებულ მექანოიდურ გამოთვლით ქსელში.</MechPylon.description>
+  <MechPylon.label>მექანიკური პილონი</MechPylon.label>
+  <MechRelay.description>კვანძი, რომელიც კოორდინაციას უწევს სიგნალებს პლანეტის მასშტაბით მექანოიდურ საკომუნიკაციო ქსელში. ბრძანების სიგნალები წარმოიქმნება მეხივში - მექანოიდური ინტელექტის ცენტრში.</MechRelay.description>
+  <MechRelay.label>მექანიკური რელე</MechRelay.label>
+  <MechRelay_Crashed.description>კვანძი, რომელიც კოორდინაციას უწევს სიგნალებს პლანეტის მასშტაბით მექანოიდურ საკომუნიკაციო ქსელში. ბრძანების სიგნალები წარმოიქმნება მეხივში - მექანოიდური ინტელექტის ცენტრში.</MechRelay_Crashed.description>
+  <MechRelay_Crashed.label>ავარიული მექანოიდური რელე</MechRelay_Crashed.label>
+  <MechStabilizer.description>A shield projecter that protects a nearby mechanoid relay. All stabilizers must be hacked or destroyed to deactivate the shield.\n\nDestroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option.</MechStabilizer.description>
+  <MechStabilizer.label>სარელეო სტაბილიზატორი</MechStabilizer.label>
+  <PassengerShuttle.description>ქიმიურ საწვავზე მომუშავე შატლი, რომელიც შექმნილია შორ მანძილზე მოგზაურობისთვის. მას შეუძლია მიაღწიოს ორბიტალურ მდებარეობებს.</PassengerShuttle.description>
+  <PassengerShuttle.label>სამგზავრო შატლი</PassengerShuttle.label>
+  <SurveyScanner.description>ფართოზოლოვანი სენსორული ერთეული, რომელსაც შეუძლია აღმოაჩინოს და დააფიქსიროს სხვადასხვა მახასიათებლები ადგილობრივ ზონაში.</SurveyScanner.description>
+  <SurveyScanner.label>გეოდეზიური სკანერი</SurveyScanner.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BodyMod_Abhorrent.description>ადამიანის ბუნებრივი სხეულის შეცვლა არის მკაფიო მორალური კანონების აშკარა დარღვევა.</BodyMod_Abhorrent.description>
+  <BodyMod_Abhorrent.label>საზიზღარი</BodyMod_Abhorrent.label>
+  <BodyMod_Approved.description>ადამიანები უნდა ცდილობდნენ მიაღწიონ ჩვენს სრულ პოტენციალს ჩვენი ნაკლოვანებული ბუნებრივი სხეულების გაუმჯობესებით.</BodyMod_Approved.description>
+  <BodyMod_Approved.label>დამტკიცებული</BodyMod_Approved.label>
+  <BodyMod_Disapproved.description>ადამიანის ბუნებრივი სხეულის შეცვლა მახინჯი, ბინძური მოქმედებაა.</BodyMod_Disapproved.description>
+  <BodyMod_Disapproved.label>არ მოიწონა</BodyMod_Disapproved.label>
+</LanguageData>

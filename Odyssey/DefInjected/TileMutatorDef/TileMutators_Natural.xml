@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Archipelago.description>რამდენიმე პატარა კუნძულის ქსელი, რომელიც მოფენილია სანაპიროზე.</Archipelago.description>
+  <Archipelago.label>არქიპელაგი</Archipelago.label>
+  <Basin.description>ბუნებრივი დეპრესია მთის ქედში, რომელშიც მიწისქვეშა წყლები კვებავს პატარა ტბას.</Basin.description>
+  <Basin.label>აუზი</Basin.label>
+  <Bay.description>დიდი ჩაღრმავება სანაპირო ზოლში, რომელიც უზრუნველყოფს თავშესაფარს ძლიერი სანაპირო ქარებისგან.</Bay.description>
+  <Bay.label>ყურე</Bay.label>
+  <CaveLakes.description>ამ მხარეში გამოქვაბულებში მცირე ზომის წყლის ობიექტების აღმოჩენაა შესაძლებელი.</CaveLakes.description>
+  <CaveLakes.label>გამოქვაბულის აუზები</CaveLakes.label>
+  <Cavern.description>სხვადასხვა გეოლოგიური პროცესების შედეგად წარმოქმნილი გამოქვაბულების ქსელი.</Cavern.description>
+  <Cavern.label>გამოქვაბული</Cavern.label>
+  <Chasm.description>გეოლოგიურმა მოძრაობამ ამ მთაზე ღრმა ბზარები გამოიწვია.</Chasm.description>
+  <Chasm.label>უფსკრული</Chasm.label>
+  <Cliffs.description>ციცაბო კლდეები აკრავს ამ ტერიტორიის სამ მხარეს.</Cliffs.description>
+  <Cliffs.label>კლდეები</Cliffs.label>
+  <CoastalAtoll.description>დიდი ლაგუნის მიმდებარე კუნძული. აქ ძალიან ცოტა მიწაა ასაშენებელი.</CoastalAtoll.description>
+  <CoastalAtoll.label>სანაპირო ატოლი</CoastalAtoll.label>
+  <CoastalIsland.description>დიდი კუნძული ნაპირთან ახლოს.</CoastalIsland.description>
+  <CoastalIsland.label>სანაპირო კუნძული</CoastalIsland.label>
+  <Crevasse.description>მყინვარული მოძრაობით შექმნილი მასიური განხეთქილება.</Crevasse.description>
+  <Crevasse.label>ნაპრალი</Crevasse.label>
+  <DryLake.description>ყოფილი ტბის ნაშთები.</DryLake.description>
+  <DryLake.label>მშრალი ტბა</DryLake.label>
+  <Dunes.description>ქვიშის უნაყოფო სივრცე. ეს ტერიტორია უკიდურესად არასასიამოვნოა.</Dunes.description>
+  <Dunes.label>დიუნები</Dunes.label>
+  <Fertile.description>ეს ტერიტორია ჩვეულებრივზე უფრო ნაყოფიერ ნიადაგს შეიცავს.</Fertile.description>
+  <Fertile.label>ნაყოფიერი</Fertile.label>
+  <Fjord.description>გრძელი, ვიწრო ზღვის შესასვლელი, რომელიც გარშემორტყმულია ციცაბო რელიეფით.</Fjord.description>
+  <Fjord.label>ფიორდი</Fjord.label>
+  <Headwater.description>მდინარის საწყისი წერტილი.</Headwater.description>
+  <Headwater.label>სათავე</Headwater.label>
+  <Hollow.description>პატარა ღია ტერიტორია, რომელიც გარშემორტყმულია კლდეებით.</Hollow.description>
+  <Hollow.label>ღრუ</Hollow.label>
+  <HotSprings.description>ცხელი წყლის წყარო, რომელიც თბება გეოთერმული აქტივობით.</HotSprings.description>
+  <HotSprings.label>ცხელი წყაროები</HotSprings.label>
+  <Iceberg.description>ყინულის მცურავი მასა, მოწყვეტილი უფრო დიდი ყინულის ფურცლიდან.</Iceberg.description>
+  <Iceberg.label>აისბერგი</Iceberg.label>
+  <IceCaves.description>მცირე გამოქვაბულების ქსელები გვხვდება ყინულში.</IceCaves.description>
+  <IceCaves.label>ყინულის გამოქვაბულები</IceCaves.label>
+  <IceDunes.description>მასიური მოძრავი ბორცვები, რომლებიც შექმნილია დატკეპნილი ქარის თოვლისგან.</IceDunes.description>
+  <IceDunes.label>ყინულის დიუნები</IceDunes.label>
+  <Lake.description>მტკნარი წყლის დიდი სხეული.</Lake.description>
+  <Lake.label>ტბა</Lake.label>
+  <Lakeshore.description>ეს ფილა ესაზღვრება ტბას.</Lakeshore.description>
+  <Lakeshore.label>ტბის სანაპიროზე</Lakeshore.label>
+  <LakeWithIsland.description>მტკნარი წყლის დიდი ნაწილი გარშემორტყმულია ერთ ან რამდენიმე კუნძულს.</LakeWithIsland.description>
+  <LakeWithIsland.label>ტბა კუნძულით</LakeWithIsland.label>
+  <LavaCaves.description>აქ შეგიძლიათ იპოვოთ ლავით სავსე გამოქვაბულების პატარა ქსელები.</LavaCaves.description>
+  <LavaCaves.label>ლავის გამოქვაბულები</LavaCaves.label>
+  <LavaFlow.description>მიმდებარე ლანდშაფტი რეგულარულად ატარებს დიდი რაოდენობით ლავას ამ მხარეში, რაც მას უკიდურესად არასასიამოვნო ხდის.</LavaFlow.description>
+  <LavaFlow.label>ლავის ნაკადი</LavaFlow.label>
+  <Marshy.description>ჭაობის ნაკვეთები არღვევს ამ ტერიტორიას.</Marshy.description>
+  <Marshy.label>ჭაობიანი</Marshy.label>
+  <MixedBiome.description>ეს ტერიტორია არის ორი განსხვავებული ბიომის საზღვარზე და აქვს ორივეს ელემენტები.</MixedBiome.description>
+  <MixedBiome.label>შერეული ბიომი</MixedBiome.label>
+  <Muddy.description>ეს ტერიტორია ჩვეულებრივზე უფრო ტალახიანია.</Muddy.description>
+  <Muddy.label>ტალახიანი</Muddy.label>
+  <Oasis.description>აყვავებული წყარო, რომელიც შეიცავს უხვი მცენარეულ სიცოცხლეს და წყალს.</Oasis.description>
+  <Oasis.label>ოაზისი</Oasis.label>
+  <Peninsula.description>ოკეანეებით გარშემორტყმული მიწის ნაკვეთი.</Peninsula.description>
+  <Peninsula.label>ნახევარკუნძული</Peninsula.label>
+  <Plateau.description>მცირე აწევა მკვეთრი კლდეებით და ბრტყელი ზევით.</Plateau.description>
+  <Plateau.label>პლატო</Plateau.label>
+  <Pond.description>მტკნარი წყლის პატარა სხეული.</Pond.description>
+  <Pond.label>აუზი</Pond.label>
+  <RiverConfluence.description>ორი მდინარის შერწყმა.</RiverConfluence.description>
+  <RiverConfluence.label>მდინარის შესართავი</RiverConfluence.label>
+  <RiverDelta.description>ოკეანეში შესვლისას მდინარე მრავალ ტოტებად იშლება.</RiverDelta.description>
+  <RiverDelta.label>დელტა</RiverDelta.label>
+  <RiverIsland.description>მდინარე ორად იყოფა და შემდეგ ისევ ერწყმის.</RiverIsland.description>
+  <RiverIsland.label>მდინარის კუნძული</RiverIsland.label>
+  <Sandy.description>ქვიშის დიდი ლაქები მიმოფანტულია მთელ ტერიტორიაზე.</Sandy.description>
+  <Sandy.label>ქვიშიანი</Sandy.label>
+  <TerraformingScar.description>უძველესი ტერაფორმირების მოწყობილობის არასწორად მორგებულმა აფეთქებამ დედამიწა სერპენტინის სპირალებად აქცია. ტერიტორია მას შემდეგ აღდგა, თუმცა დაგრეხილი და დეფორმირებული ბორცვები რჩება.</TerraformingScar.description>
+  <TerraformingScar.label>ტერაფორმირებადი ნაწიბური</TerraformingScar.label>
+  <ToxicLake.description>წყლის სხეული, რომელიც მოწამლულია მიწიდან გამოჟონილი ქიმიკატებით. წყალი გამოიწვევს ტოქსიკურ დაგროვებას.</ToxicLake.description>
+  <ToxicLake.label>ტოქსიკური ტბა</ToxicLake.label>
+  <Valley.description>მთაზე გამოკვეთილი ციცაბო ხეობა.</Valley.description>
+  <Valley.label>ხეობა</Valley.label>
+  <Wetland.description>ფართობზე დომინირებს დიდი ურთიერთდაკავშირებული წყლის გზები.</Wetland.description>
+  <Wetland.label>ჭარბტენიანი</Wetland.label>
+</LanguageData>

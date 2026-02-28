@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AssemblySpeedFactor.description>სიჩქარე, რომლითაც ადამიანები აქ აგროვებენ გენებს, მრავლდება ამ მნიშვნელობაზე.</AssemblySpeedFactor.description>
+  <AssemblySpeedFactor.label>მუშაობის სიჩქარის ფაქტორი</AssemblySpeedFactor.label>
+  <AssemblySpeedFactor.parts.1.customLabel>ოთახის სისუფთავე</AssemblySpeedFactor.parts.1.customLabel>
+  <BabyPlayGainFactor.description>რამდენად ეფექტურად შეიძლება ამ ობიექტის გამოყენება ბავშვის სათამაშო მოთხოვნილების დასაკმაყოფილებლად.</BabyPlayGainFactor.description>
+  <BabyPlayGainFactor.label>ბავშვის თამაშის ძალა</BabyPlayGainFactor.label>
+  <BirthRitualQualityOffset.description>ეს ცვლის მშობიარობის ხარისხს, როდესაც ის გამოიყენება დაბადების ადგილად. დაბადების ხარისხი გავლენას ახდენს ბავშვის ჯანმრთელი დაბადების შანსზე.</BirthRitualQualityOffset.description>
+  <BirthRitualQualityOffset.label>დაბადების ხარისხის ოფსეტური</BirthRitualQualityOffset.label>
+  <GeneticComplexityIncrease.description>გენის ასამბლერის მახლობლად მოთავსებისას, ეს შენობა ზრდის მაქსიმალურ გენეტიკურ სირთულეს, რომელიც შეიძლება ერთდროულად შეიკრიბოს.</GeneticComplexityIncrease.description>
+  <GeneticComplexityIncrease.label>გენეტიკური სირთულის ზრდა</GeneticComplexityIncrease.label>
+</LanguageData>

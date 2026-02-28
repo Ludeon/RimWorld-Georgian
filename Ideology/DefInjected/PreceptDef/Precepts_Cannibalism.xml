@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Cannibalism_Abhorrent.description>ადამიანის ხორცის ჭამა ღრმად ამაზრზენი და ამაზრზენი საქციელია.</Cannibalism_Abhorrent.description>
+  <Cannibalism_Abhorrent.label>საზიზღარი</Cannibalism_Abhorrent.label>
+  <Cannibalism_Acceptable.description>ადამიანის ხორცი არის მხოლოდ ხორცი, ისევე როგორც ნებისმიერი სხვა.</Cannibalism_Acceptable.description>
+  <Cannibalism_Acceptable.label>მისაღები</Cannibalism_Acceptable.label>
+  <Cannibalism_Disapproved.description>ადამიანის ხორცის ჭამა მახინჯი საქმეა.</Cannibalism_Disapproved.description>
+  <Cannibalism_Disapproved.label>არ მოიწონა</Cannibalism_Disapproved.label>
+  <Cannibalism_Horrible.description>ადამიანის ხორცის ჭამა საშინელებაა.</Cannibalism_Horrible.description>
+  <Cannibalism_Horrible.label>საზარელი</Cannibalism_Horrible.label>
+  <Cannibalism_Preferred.description>ადამიანის ხორცის მოხმარება ცხოვრების კეთილშობილური და აუცილებელი ნაწილია.</Cannibalism_Preferred.description>
+  <Cannibalism_Preferred.label>სასურველია</Cannibalism_Preferred.label>
+  <Cannibalism_RequiredRavenous.description>ადამიანური ხორცი არის მორალი. ამის გარეშე საჭმლის ჭამა წარმოუდგენელია.</Cannibalism_RequiredRavenous.description>
+  <Cannibalism_RequiredRavenous.label>საჭირო (აურზაური)</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredStrong.description>მნიშვნელოვანია ადამიანის ხორცის მოხმარება. ეს უნდა იყოს ყოველ კვებაში.</Cannibalism_RequiredStrong.description>
+  <Cannibalism_RequiredStrong.label>საჭირო (ძლიერი)</Cannibalism_RequiredStrong.label>
+</LanguageData>

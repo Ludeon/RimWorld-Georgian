@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <OverridesSomePrecepts>არღვევს ზოგიერთ მცნებას, რომლებიც დაკავშირებულია</OverridesSomePrecepts>
+  <AgreeableMemes>ეთანხმება მემებს</AgreeableMemes>
+  <DisagreeableMemes>კონფლიქტები მემებთან</DisagreeableMemes>
+
+  
+  <TabSlave>მონა</TabSlave>
+  <SlaveReleaseRelationGainsDesc>ფრაქციის კეთილგანწყობას მოიპოვებთ, თუ მონას გაათავისუფლებთ. ამაზე გავლენას ახდენს მონების ფიზიკური და გონებრივი ჯანმრთელობა.</SlaveReleaseRelationGainsDesc>
+  <SlaveReleasePotentialRelationGains>ურთიერთობები იძენს გათავისუფლებას</SlaveReleasePotentialRelationGains>
+  <SlaveRebellionMTBDays>მონათა აჯანყების ინტერვალი</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDaysDescription>დღეების საშუალო რაოდენობა მონათა აჯანყების მცდელობებს შორის. მხოლოდ გაღვიძების დრო ითვლება. ამაზე გავლენას ახდენს დათრგუნვა, განწყობა, ჯანმრთელობა, იარაღთან სიახლოვე, რუკაზე მონების რაოდენობა და რუკაზე კოლონისტების არსებობა.</SlaveRebellionMTBDaysDescription>
+
+  
+  <Suppression>ჩახშობა</Suppression>
+  <SuppressionDesc>დათრგუნვა არის შიშისა და კონტროლის ფსიქოლოგიური ეფექტი მონაზე. თუ ჩახშობა დაბალია, მონები უფრო მეტად აჯანყდებიან.</SuppressionDesc>
+  <SuppressionFallRate>ჩახშობის დაცემის მაჩვენებელი</SuppressionFallRate>
+  <SuppressionFallRateDesc>დათრგუნვა დროთა განმავლობაში ეცემა მისი ამჟამინდელი დონის მიხედვით:\n\n- {1}+ ჩახშობა: {0} დღეში\n- {4}-{3} ჩახშობა: {2} დღეში\n- {6}- ჩახშობა: {5} დღეში\n\nტანსაცმლის დაცემის სიჩქარეზეც შეიძლება გავლენა იქონიოს. ამ მონას დაცემის სიჩქარის გაანგარიშება არის</SuppressionFallRateDesc>
+  <CannotEmancipate>ემანსიპაცია არ შეუძლია</CannotEmancipate>
+  <CannotImprison>დაპატიმრება არ შეიძლება</CannotImprison>
+  <CurrentSuppression>მიმდინარე ჩახშობა</CurrentSuppression>
+  <Terror>ტერორი</Terror>
+  <TerrorDescription>ტერორი არის მონების დათრგუნვის საშუალება. ის იზრდება, როდესაც მონა დროს ატარებს საშინელებასთან, როგორიცაა საშინელებათა ქანდაკებები. მონაზე შეიძლება გავლენა იქონიოს მხოლოდ სამი ტერორის წყარომ ერთდროულად.\n\nსანამ ტერორი მაღალია, ჩახშობა უფრო ნელა ეცემა შემდეგნაირად.</TerrorDescription>
+  <TerrorCurrentThoughts>ბოლოდროინდელი საშინელი დაკვირვებები</TerrorCurrentThoughts>
+
+  <SuppressionBaseInterval>ბაზის ინტერვალი</SuppressionBaseInterval>
+  <SuppressionMovingCapacityFactor>მოძრავი სიმძლავრე</SuppressionMovingCapacityFactor>
+  <SuppressionFactor>ჩახშობა</SuppressionFactor>
+  <SuppressionMoodFactor>განწყობა</SuppressionMoodFactor>
+  <SuppressionSlaveCountFactor>მონების რაოდენობა</SuppressionSlaveCountFactor>
+  <SuppressionEscapeFactor>გაქცევის მარშრუტი</SuppressionEscapeFactor>
+  <SuppressionWeaponProximityFactor>იარაღის სიახლოვე</SuppressionWeaponProximityFactor>
+  <SuppressionFinalInterval>საბოლოო ინტერვალი</SuppressionFinalInterval>
+  <SuppressionUnattendedByColonists>დაუთვალიერებელი</SuppressionUnattendedByColonists>
+  <SuppressionRebellionAnySlave>ამ რუკაზე მოცემული {0} მონადან მინიმუმ ერთი აჯანყდება საშუალოდ ყოველ {1}-ში.</SuppressionRebellionAnySlave>
+
+  <WillLevel>ნება</WillLevel>
+  <WillLevelDesc>რამდენად აქვს გადაწყვეტილი პატიმარი არ დაემორჩილოს. როდესაც ეს მიაღწევს ნულს, ისინი შეიძლება დამონებულიყვნენ.</WillLevelDesc>
+  <WillFromPawnKind>{0} ბაზა იქნება</WillFromPawnKind>
+  <IdeoConversionTarget>სამიზნე იდეოლიგია</IdeoConversionTarget>
+  <IdeoConversionTargetDesc>იდეოლიგია, რომელშიც თქვენი მცველები შეეცდებიან გადაიყვანონ ეს პატიმარი.</IdeoConversionTargetDesc>
+
+  
+  <CertaintyChangePerDay>დღეში ცვლილება განწყობის გამო</CertaintyChangePerDay>
+  <MoodChangeRate>განაკვეთის შეცვლა განწყობის მიხედვით</MoodChangeRate>
+  <CertaintyInIdeo>{PAWN_nameDef}-ის დარწმუნება {IDEO_name}-ში</CertaintyInIdeo>
+  <RoleDesc>განსაკუთრებული სტატუსი აქვს ამ ადამიანს მათ იდეოლიგიაში. თუ თქვენ შეცვლით ან წაართმევთ ამ როლს, ისინი გახდებიან უბედურები.</RoleDesc>
+  <RoleAssignmentTip>როლების შეცვლა მოითხოვს როლის შეცვლის რიტუალს. აირჩიეთ ნებისმიერი რიტუალური ადგილი ან საკურთხეველი და დააჭირეთ ღილაკს "დაიწყეთ როლის შეცვლა".</RoleAssignmentTip>
+  <ConversionWeakerDueToTraitAgreements>კონვერტაციის მცდელობები უფრო სუსტი იქნება თვისების/მემის შეთანხმების გამო</ConversionWeakerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>კონვერტაციის მცდელობები უფრო ძლიერი იქნება თვისებების/მემების კონფლიქტის გამო</ConversionStrongerDueToTraitAgreements>
+
+  <Cut>ჭრა</Cut>
+  <CutBothEyes>მოჭრილი ორივე თვალი</CutBothEyes>
+
+</LanguageData>

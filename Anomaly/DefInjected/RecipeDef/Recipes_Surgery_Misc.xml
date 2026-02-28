@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BlissLobotomy.description>ამოიღეთ ადამიანის ტვინის ნაწილი, მოათავსეთ იგი ნეტარ მდგომარეობაში, ხოლო ინტელექტუალური და გამოცდილი შრომის უნარის გარეშე. ისინი ასევე უფრო ნელა ისწავლიან და ნაკლებად სავარაუდოა, რომ აჯანყდებიან ან ციხიდან გაქცევას ცდილობენ.</BlissLobotomy.description>
+  <BlissLobotomy.jobString>Lobotomizing TargetA.</BlissLobotomy.jobString>
+  <BlissLobotomy.label>ბლის ლობოტომია</BlissLobotomy.label>
+  <GhoulInfusion.description>Infuse a living person with an archotech shard to create a terrifying creature known as a ghoul. Ghouls are ferocious melee fighters and are incapable of work. They eat raw meat to survive but never sleep. Hungry ghouls are dangerous.\n\nGhouls created by this operation will be a part of your colony.</GhoulInfusion.description>
+  <GhoulInfusion.jobString>სამიზნე A.</GhoulInfusion.jobString>
+  <GhoulInfusion.label>ღორის ინფუზია</GhoulInfusion.label>
+  <SurgicalInspection.description>ინვაზიური ოპერაცია პაციენტში რაიმე ფარული პათოლოგიის აღმოსაჩენად.</SurgicalInspection.description>
+  <SurgicalInspection.jobString>ქირურგიული შემოწმება TargetA.</SurgicalInspection.jobString>
+  <SurgicalInspection.label>ქირურგიული შემოწმება</SurgicalInspection.label>
+</LanguageData>

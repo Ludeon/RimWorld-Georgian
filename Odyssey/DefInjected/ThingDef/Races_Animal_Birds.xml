@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bluebird.description>პატარა მომღერალი ფრინველი ცოცხალი ცისფერი ბუმბულით.</Bluebird.description>
+  <Bluebird.label>ლურჯი ჩიტი</Bluebird.label>
+  <Crow.description>ინტელექტუალური შავი ფრინველები რთული სოციალური სტრუქტურებით. მცირე მოთმინებით, ყვავები შეიძლება გაწვრთნონ რამდენიმე საკმაოდ რთული ამოცანის შესასრულებლად.</Crow.description>
+  <Crow.label>ყვავი</Crow.label>
+  <Flamingo.description>მოსიარულე ფრინველი, რომელიც ცნობილია თავისი ცოცხალი ვარდისფერი ბუმბულით. მათი გრძელი ფეხები კარგად არის ადაპტირებული არაღრმა წყლებში.</Flamingo.description>
+  <Flamingo.label>ფლამინგო</Flamingo.label>
+  <Heron.description>გრძელფეხება და გრძელყელიანი ფრინველები. ისინი ჭაობიან ჰაბიტატებში ცხოვრობენ.</Heron.description>
+  <Heron.label>ყანჩა</Heron.label>
+  <Macaw.description>თუთიყუში ცნობილია თავისი ინტელექტითა და ბრწყინვალე ბუმბულით.</Macaw.description>
+  <Macaw.label>მაკაო</Macaw.label>
+  <Peacock.description>დიდი ფრინველები ექსტრავაგანტული ქლიავით. მამალი ფარშევანგები იყენებენ კუდის ბუმბულებს შეყვარებულობის დახვეწილ ჩვენებებში.</Peacock.description>
+  <Peacock.label>ფარშევანგი</Peacock.label>
+  <Penguin.description>უფრენი ფრინველი, რომელსაც შეუძლია ცივ რეგიონებში გადარჩენა. მათი შავ-თეთრი ქლიავი და ცურვის სიარული მათ უტყუარს ხდის. ისინი სასიკვდილო მონადირეები არიან წყალში, მაგრამ ნელი და დაუცველი ხმელეთზე.</Penguin.description>
+  <Penguin.label>პინგვინი</Penguin.label>
+  <Quail.description>მიწაზე მცხოვრები პატარა მსუქანი ფრინველი გამორჩეული ბუმბულით.</Quail.description>
+  <Quail.label>მწყერი</Quail.label>
+  <Sparrow.description>პატარა ფრინველები, რომლებიც ხშირად მოგზაურობენ ფარაში. მათ შეუძლიათ განვითარდნენ სხვადასხვა გარემოში.</Sparrow.description>
+  <Sparrow.label>ბეღურა</Sparrow.label>
+  <Swan.description>დიდი მოხდენილი წყლის ფრინველი, რომელიც ცნობილია თავისი სილამაზითა და გასაოცარი სისასტიკით.</Swan.description>
+  <Swan.label>გედი</Swan.label>
+  <Vulture.description>გამწმენდები ძლიერი წვერით და განიერი ფრთებით. მათი ძლიერი კუჭის მჟავა საშუალებას აძლევს მათ მიირთვან დამპალი გვამები.</Vulture.description>
+  <Vulture.label>ულვა</Vulture.label>
+</LanguageData>

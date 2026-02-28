@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PrepareCaravan_CollectAnimals.reportString>მიჰყავს TargetA გასასვლელად.</PrepareCaravan_CollectAnimals.reportString>
+  <PrepareCaravan_GatherAnimals.reportString>მიჰყავს TargetA ქარავნის ადგილზე.</PrepareCaravan_GatherAnimals.reportString>
+  <PrepareCaravan_GatherDownedPawns.reportString>წასასვლელად ემზადება.</PrepareCaravan_GatherDownedPawns.reportString>
+  <PrepareCaravan_GatherItems.reportString>მარაგის შეგროვება.</PrepareCaravan_GatherItems.reportString>
+  <ReturnedCaravan_PenAnimals.reportString>TargetA-ს კალმისკენ მიბრუნება.</ReturnedCaravan_PenAnimals.reportString>
+</LanguageData>

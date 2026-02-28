@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AutonomousWeapons_Disapproved.description>მანქანას მოკვლის გადაწყვეტილების მიცემა მახინჯი საქმეა.</AutonomousWeapons_Disapproved.description>
+  <AutonomousWeapons_Disapproved.label>არ მოიწონა</AutonomousWeapons_Disapproved.label>
+  <AutonomousWeapons_Horrible.description>მანქანას მოკვლის გადაწყვეტილების მიცემა საშინელებაა.</AutonomousWeapons_Horrible.description>
+  <AutonomousWeapons_Horrible.label>საზარელი</AutonomousWeapons_Horrible.label>
+  <AutonomousWeapons_Prohibited.description>მანქანას მოკვლის გადაწყვეტილების მიცემა აბსოლუტურად არაადამიანური საქმეა.</AutonomousWeapons_Prohibited.description>
+  <AutonomousWeapons_Prohibited.label>აკრძალულია</AutonomousWeapons_Prohibited.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <ArrestSuccessChance.description>რამდენად ეფექტურია ეს ადამიანი ხალხის დაჭერაში. ეს გავლენას ახდენს იმაზე, რომ ეს ადამიანი შეძლებს ვინმეს დაპატიმრებას წინააღმდეგობის გარეშე.</ArrestSuccessChance.description>
+  <ArrestSuccessChance.label>დაკავების წარმატების შანსი</ArrestSuccessChance.label>
+  <BondAnimalChanceFactor.description>მულტიპლიკატორი ცხოველთან ურთიერთობისას დაკავშირების შანსზე.</BondAnimalChanceFactor.description>
+  <BondAnimalChanceFactor.label>ბონდის შანსის ფაქტორი</BondAnimalChanceFactor.label>
+  <DrugSellPriceImprovement.description>როდესაც ეს ადამიანი ყიდის არასამედიცინო პრეპარატებს, ფასები ამ პროცენტით უმჯობესდება.</DrugSellPriceImprovement.description>
+  <DrugSellPriceImprovement.label>წამლის გაყიდვის ფასის გაუმჯობესება</DrugSellPriceImprovement.label>
+  <NegotiationAbility.description>რამდენად ეფექტურია ეს ადამიანი როგორც მომლაპარაკებელი.\n\nეს გავლენას ახდენს პატიმრების გადაბირების სიჩქარეზე, საჩუქრებით ფრაქციებთან ურთიერთობის ცვლილებაზე და სამშვიდობო მოლაპარაკებების შედეგზე.</NegotiationAbility.description>
+  <NegotiationAbility.label>მოლაპარაკების უნარი</NegotiationAbility.label>
+  <PawnBeauty.description>რამდენად მიმზიდველია ეს ადამიანი ფიზიკურად. ეს გავლენას ახდენს სოციალურ ურთიერთობებზე.</PawnBeauty.description>
+  <PawnBeauty.label>სილამაზე</PawnBeauty.label>
+  <SocialImpact.description>მულტიპლიკატორი იმის შესახებ, თუ რამდენად გავლენას ახდენს სხვა ადამიანებზე ამ ადამიანის სოციალური ინტერაქცია.</SocialImpact.description>
+  <SocialImpact.label>სოციალური გავლენა</SocialImpact.label>
+  <TameAnimalChance.description>საბაზისო შანსი, რომ ეს ადამიანი ერთ მცდელობაზე ცხოველს წარმატებით მოიშინაურებს.\n\nრეალური შანსი ასევე დამოკიდებულია ცხოველის ველურობაზე.\nწარუმატებელმა მცდელობამ შეიძლება აგრესიული რეაქცია გამოიწვიოს.</TameAnimalChance.description>
+  <TameAnimalChance.label>ცხოველის მოთვინიერების შანსი</TameAnimalChance.label>
+  <TradePriceImprovement.description>როდესაც ეს ადამიანი მოქმედებს როგორც სავაჭრო მომლაპარაკებელი, ყიდვა-გაყიდვის ფასები გაუმჯობესებულია ამ პროცენტით.</TradePriceImprovement.description>
+  <TradePriceImprovement.label>სავაჭრო ფასების გაუმჯობესება</TradePriceImprovement.label>
+  <TrainAnimalChance.description>საბაზისო შანსი, რომ ეს ადამიანი ერთი მცდელობით ცხოველის გაწვრთნაში პროგრესს მიაღწევს.\n\nრეალური შანსი ასევე დამოკიდებულია ცხოველის ველურობაზე, მის განწყობასა და სხვა ფაქტორებზე.</TrainAnimalChance.description>
+  <TrainAnimalChance.label>მატარებელი ცხოველის შანსი</TrainAnimalChance.label>
+</LanguageData>

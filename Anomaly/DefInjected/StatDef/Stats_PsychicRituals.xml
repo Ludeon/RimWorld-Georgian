@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PsychicRitualQuality.description>რამდენად აუმჯობესებს ახლომდებარე შენობები აქ ჩატარებული ფსიქიკური რიტუალების ხარისხს.</PsychicRitualQuality.description>
+  <PsychicRitualQuality.label>ფსიქიკური რიტუალის ხარისხი</PsychicRitualQuality.label>
+  <PsychicRitualQualityOffset.description>ოფსეტური გამოიყენება ფსიქიკური რიტუალის ხარისხზე, როდესაც ეს ადამიანი მონაწილეობს. მთლიანი ხარისხის ოფსეტი იყოფა მონაწილეთა საერთო რაოდენობაზე.</PsychicRitualQualityOffset.description>
+  <PsychicRitualQualityOffset.label>ფსიქიკური რიტუალის ხარისხის კომპენსირება</PsychicRitualQualityOffset.label>
+</LanguageData>

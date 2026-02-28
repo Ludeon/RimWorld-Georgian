@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ChoppedStump_Polux.description>ღერო, რომელიც დარჩა პოლქსის ხის მოჭრის შემდეგ. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ ხეს იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</ChoppedStump_Polux.description>
+  <ChoppedStump_Polux.label>დაჭრილი polux stump</ChoppedStump_Polux.label>
+  <Plant_TreePolux.description>After generations of exposure, these trees have evolved to metabolize pollutants. By drawing pollutants from the ground through wide root networks, they slowly clean polluted terrain in their vicinity. However, they cannot do this if buildings are constructed over their roots.\n\nUnlike most methods of cleaning polluted terrain, polux trees do not create toxic wastepacks.</Plant_TreePolux.description>
+  <Plant_TreePolux.label>პოლუქსის ხე</Plant_TreePolux.label>
+  <PoluxSeed.description>პოლქსის ხის თესლი. მისი დარგვა შესაძლებელია ახალი პოლუქსის ხის შესაქმნელად, რომელიც შთანთქავს დაბინძურებას მიმდებარე რელიეფიდან.</PoluxSeed.description>
+  <PoluxSeed.label>პოლუქსის თესლი</PoluxSeed.label>
+  <SmashedStump_Polux.description>დაზიანებით განადგურებულია პოლუქსის ხის ნარჩენები. მახინჯია. ყუნწის ამოღება შესაძლებელია, მაგრამ ძალიან ცოტა გამოსაყენებელ ხეს იძლევა. გარეთ დატოვებული ღერო დროთა განმავლობაში გაუარესდება.</SmashedStump_Polux.description>
+  <SmashedStump_Polux.label>დამტვრეული polux stump</SmashedStump_Polux.label>
+</LanguageData>

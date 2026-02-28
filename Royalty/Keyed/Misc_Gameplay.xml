@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  
+  <ThroneMaxSatisfiedTitle>აკმაყოფილებს სათაურს</ThroneMaxSatisfiedTitle>
+  <ThroneRoomImpressivenessInfo>({0} შთამბეჭდავი)</ThroneRoomImpressivenessInfo>
+  <ThroneMustBePlacedInside>ტახტი უნდა განთავსდეს შენობაში.</ThroneMustBePlacedInside>
+  <MinimumRoyalTitleInspectString>მინიმალური სათაური ({FACTION_name}): {TITLE}</MinimumRoyalTitleInspectString>
+  <RequiresTradePermission>აქ ვაჭრობა მოითხოვს სათაურს: {0}</RequiresTradePermission>
+  <RequirementPersonalBedroom>პირადი საძინებელი (ნებადართულია პარტნიორი)</RequirementPersonalBedroom>
+  
+  
+  <PsycastNeurotrainerLabel>ფსიტრეინერი ({0})</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>გამოიყენეთ psytrainer {0} psycast-ის შესასწავლად</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>მექანიტების ერთჯერადი სუპერ დოზა, რომელიც ავარჯიშებს სპეციფიკურ ფსიქიკურ ძალას.\n\nდოზის შეყვანა ხდება თვალის ორბიტაზე. ტვინში გათავისუფლების შემდეგ, მექანიტები აყალიბებენ ცოდნას კონკრეტული უნარის შესახებ და საჭიროებისამებრ გადაიქცევიან ნერვულ ქსოვილში.\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>{USER_labelShort}-მა გამოიყენა ნეიროტრეინერი {1} სიმძლავრის შესასწავლად.</AbilityNeurotrainerUsed>
+  <PsycastNeurotrainerNoPsylink>მოითხოვს ფსილინკს</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort}-მა უკვე იცის {1}.</PsycastNeurotrainerAbilityAlreadyLearned>
+
+  <Reward_RoyalFavor>ვინც დათანხმდა ქვესტს, მიიღებს {1} {0_royalFavorLabel} {0_name}-ისგან</Reward_RoyalFavor>
+  <Reward_RoyalFavor_ChoosePawn>თქვენ შეგიძლიათ აირჩიოთ ერთ-ერთი მონაწილე {2}, რომ მიიღოთ {1} {0_royalFavorLabel} {0_name}-დან</Reward_RoyalFavor_ChoosePawn>
+  
+  
+  <NotUsable>გამოუყენებელი</NotUsable>
+  <Unpowered>გამოუვალი</Unpowered>
+  <TooCloseToOtherBeacon>ძალიან ახლოს სხვა შუქურთან</TooCloseToOtherBeacon>
+  
+  
+  <Psyfocus>ფსიქოფოკუსი</Psyfocus>
+  <PsyfocusLabelGizmo>ფსიქოფოკუსი</PsyfocusLabelGizmo>
+  <PsyfocusDesc>ფსიფოკუსი არის გონებრივი სტრუქტურის განსაკუთრებული ტიპი, რომელიც აუცილებელია ფსიქიკური ძალების გამოსაყენებლად. ფსიფოკუსი დროთა განმავლობაში იშლება და უნდა აშენდეს რეგულარული მედიტაციით. ყველა ფსიქოკუსის დაკარგვა აიძულებს ადამიანს ფსიქიკური ძალების გამოყენებას, მაგრამ სხვა შედეგები არ მოჰყვება.\n\nფსიფოკუსის უფრო მაღალი დონე იძლევა უფრო მაღალი დონის ძალას, მაგრამ ასევე ზრდის ფსიფოკუსის გაფანტვის სიჩქარეს.</PsyfocusDesc>
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoPsycasts>{0} დონემდე სიმძლავრეები.</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoFallRate>ფსიფოკუსი ეცემა {0} დღეში.</PsyfocusLevelInfoFallRate>
+  <UserMeditationFocusStrength>მედიტაციის ფოკუსის ძალა {LASTUSER_labelShort}-ისთვის</UserMeditationFocusStrength>
+  <MeditationFocusImpacted>ფოკუსის ეფექტი გავლენას ახდენს</MeditationFocusImpacted>
+  <MeditationFocusPerAnimusStoneAbstract>{1} ახლომდებარე ანიმუს ქვაზე (მაქსიმუმ {0})</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStone>{2} ახლომდებარე ანიმუს ქვაზე ({0} / {1})</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>ახლომდებარე animus ქვისთვის {2}, ბუნების სალოცავი {1} (მაქს {0})</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrine>ახლომდებარე ანიმუსის ქვა {3}, ბუნების სალოცავი {2} ({0} / {1})</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerSculptureAbstract>მაქსიმუმ {1} თითო ახლომდებარე ქანდაკებაზე დამოკიდებულია ხარისხზე (მაქს {0})</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculpture>მაქსიმუმ {2} თითო ახლომდებარე ქანდაკებაზე დამოკიდებულია ხარისხზე ({0} / {1})</MeditationFocusPerSculpture>
+  <MeditationFocusPerGraveAbstract>ახლომდებარე საფლავზე {1}, თუ ​​ცარიელია, {2} ადამიანის გვამისთვის ({0}-მდე)</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGrave>ახლომდებარე საფლავზე {2} თუ ცარიელია, {3} ადამიანის გვამისთვის ({0} / {1})</MeditationFocusPerGrave>
+  <MeditationFocusPerFlameAbstract>{1} თითო ახლომახლო ანთებულ ალი წყაროზე ({0}-მდე)</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlame>{2} თითო ახლომახლო ანთებული ალი წყაროსთვის ({0} / {1})</MeditationFocusPerFlame>
+  <PsyfocusPerDayOfMeditation>ფსიქოკუსის მომატების სიჩქარე: {0}/დ</PsyfocusPerDayOfMeditation>
+  <DesiredPsyfocus>სასურველი ფსიფოკუსი</DesiredPsyfocus>
+  <DesiredPsyfocusDesc>დააწკაპუნეთ სასურველი ფსიფოკუსის დასაყენებლად.</DesiredPsyfocusDesc>
+
+  <AbilitySpeechDisabledNoThroneAssigned>ტახტი არ დანიშნეს.</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>ტახტი მიუწვდომელია.</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneUndignified>ტახტი გამოუყენებელია, რადგან უღირსია.</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>უკვე სიტყვით გამოდის.</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <AbilitySpeechPossibleOutcomes>შედეგის შანსები</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechStatInfo>{ORGANIZER_labelShort}-ის {1} სტატისტიკა</AbilitySpeechStatInfo>
+  <AbilitySpeechTargetDescThrone>ღირსეული ტახტი</AbilitySpeechTargetDescThrone>
+  
+  <RitualDisabledNoAltar>არ არის ხელმისაწვდომი საკურთხეველი.</RitualDisabledNoAltar>
+  <RitualBestowingCeremony>დაჯილდოების ცერემონია</RitualBestowingCeremony>
+  <BestowingSpotUnavailable>არ არის შესაფერისი ადგილი გამცემთან ახლოს</BestowingSpotUnavailable>
+
+  <TotalMeditationToday>სრული მედიტაცია დღეს: {0} (პროგრესული მულტიპლიკატორი {1})</TotalMeditationToday>
+  <ProgressToNextSubplant>პროგრესი {0}</ProgressToNextSubplant>
+  <BeginLinkingRitualFloatMenu>დაიწყეთ რიტუალის დაკავშირება</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualNeedSubplants>აქ საჭიროა {0} {1} (აქვს {2})</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedFocus>საჭიროა {0} ფსილინკის ფოკუსის ტიპი</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualMaxPsylinkLevel>ფსილინკის მაქსიმალური დონე</BeginLinkingRitualMaxPsylinkLevel>
+  <BeginLinkingRitualNeedLinkSpot>დასაკავშირებლად საჭიროა თავისუფალი, მისაწვდომი ადგილი 3 უჯრედში</BeginLinkingRitualNeedLinkSpot>
+  <LetterLabelLinkingRitualCompleted>დაკავშირების რიტუალი დასრულდა</LetterLabelLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort}-მა დაასრულა {LINKABLE_labelShort}-თან დაკავშირების რიტუალი.\n\n{PAWN_pronoun}-ს ახლა აქვს განახლებული ფსილინკი, რომელიც ახალი ფსიქიკური ძალების გამოყენების საშუალებას იძლევა.</LetterTextLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompletedAnimaGrass>გარდა ამისა, {0} anima grass აღდგენილია.</LetterTextLinkingRitualCompletedAnimaGrass>
+
+  <LandHere>სახმელეთო ტრანსპორტი აქ</LandHere>
+  <MessageShuttleDestinationIsTooFar>დანიშნულების ადგილი საზღვრებს გარეთაა.</MessageShuttleDestinationIsTooFar>
+
+  <BeginCeremony>დაიწყეთ {0_labelShort}-ის მინიჭების ცერემონია</BeginCeremony>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>{PAWN_definite}-ის ტახტი არ აკმაყოფილებს {TITLE}-ის ტიტულის მოთხოვნებს.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>მჩუქებელს ეწყინება, რომ {PAWN_definite}-ის ტახტი არ აკმაყოფილებს {TITLE}-ის ტიტულის მოთხოვნებს. დაჯილდოების ცერემონია გაუქმდა.</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyLabel>დაჯილდოების ცერემონია</BestowingCeremonyLabel>
+  <BestowingOutcomeQualitySpecific>დაჯილდოების ცერემონიის სრული ხარისხი იყო {0}, რომელიც განისაზღვრება ამ ფაქტორებით</BestowingOutcomeQualitySpecific>
+  
+  <RitualTargetAnimaTreeNoPawnsToLink>ამჟამად არ არსებობს კოლონისტები, რომლებსაც შეუძლიათ ანიმა ხესთან დაკავშირება.</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>ბუნებრივი მედიტაციის ფოკუსის ტიპის კოლონისტები არ არიან.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>საჭიროა მინიმუმ {0} ანიმა ბალახი.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeInfo>ანიმა ხე</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeMustBeCapableOfNature>უნდა იყოს კოლონისტი ბუნებრივი მედიტაციის ფოკუსის ტიპით, რომელიც არის ფსილინკის მაქსიმალურ დონეზე ქვემოთ.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>არ უნდა იყოს ფსიქიკურად ყრუ.</RitualTargetAnimaTreeMustBePsychicallySensitive>
+
+  <AnimaLinkingExplanationBase>ანიმას დამაკავშირებელი ცერემონია უფრო მძლავრია მეტი მონაწილეთ. რაც უფრო მეტი ადამიანი მიიღებს მონაწილეობას, მით ნაკლები დრო დასჭირდება ცერემონიას და მით უფრო გაიზრდება ანიმა ბალახი.\n\n{0} დამატებით მონაწილეებთან ერთად, {1} ანიმა ბალახი აღდგება ცერემონიის ბოლოს.</AnimaLinkingExplanationBase>
+  <ShuttleRequiredItemsNotSatisfied>ყველა საჭირო ტვირთი ჯერ არ არის დატვირთული!</ShuttleRequiredItemsNotSatisfied>
+  <CannotLoadIntoShuttle>{0_labelShort} ვერ ჩაიტვირთება</CannotLoadIntoShuttle>
+
+  <AbilityNoEntropyToDump>არ არის სითბოს გადაყრა.</AbilityNoEntropyToDump>
+
+  <LevelNum>დონე {0}</LevelNum> 
+
+</LanguageData>

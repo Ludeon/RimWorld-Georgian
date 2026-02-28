@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Arrow_Great.label>დიდი მშვილდის ისარი</Arrow_Great.label>
+  <Arrow_Recurve.label>მობრუნებული მშვილდის ისარი</Arrow_Recurve.label>
+  <Arrow_Short.label>მოკლე ისარი</Arrow_Short.label>
+  <Bow_Great.description>ძლიერი მშვილდი. ისვრის მძიმე ისარს დიდ მანძილზე.</Bow_Great.description>
+  <Bow_Great.label>დიდი მშვილდი</Bow_Great.label>
+  <Bow_Recurve.description>მობრუნებული მშვილდი. მისი კონსტრუქცია იქცევა მოწესრიგებული ზამბარის მსგავსად, უფრო ეფექტურად ინახავს ენერგიას და უზრუნველყოფს უფრო სწრაფ გასროლას.</Bow_Recurve.description>
+  <Bow_Recurve.label>მობრუნებული მშვილდი</Bow_Recurve.label>
+  <Bow_Short.description>მარტივი მოკლე თვითმშვილდი, რომელიც დამზადებულია ერთი ნაჭერი ხისგან.</Bow_Short.description>
+  <Bow_Short.label>მოკლე მშვილდი</Bow_Short.label>
+  <Pila.description>პილა არის შუბები სასროლად. მათ სროლას დიდი დრო სჭირდება, მაგრამ ერთმა დარტყმამ შეიძლება დიდი ზიანი მიაყენოს. ეს იარაღი წარმოადგენს პილას შეკვრას და მისი გადაგდება შეიძლება ისევ და ისევ. Pila-ს მხოლობითი რიცხვია pilum.</Pila.description>
+  <Pila.label>პილა</Pila.label>
+  <Pilum_Thrown.label>პილუმი</Pilum_Thrown.label>
+</LanguageData>

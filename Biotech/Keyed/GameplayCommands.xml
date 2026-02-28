@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <CommandAutoRepair>ავტო-შეკეთება</CommandAutoRepair>
+  <CommandAutoRepairDesc>თუ აქტიურია, მექანიტორი ავტომატურად შეაკეთებს ამ მექანოიდს. მექანოიდის შეკეთება ენერგიას აცლის.</CommandAutoRepairDesc>
+
+  <CommandDisabledDeathresting>{0_labelShort} სასიკვდილოა.</CommandDisabledDeathresting>
+
+  <CommandCancelGrowth>გააუქმეთ ვატის ზრდა</CommandCancelGrowth>
+  <CommandCancelGrowthDesc>გააუქმეთ vatgrowth მიმდინარე ოკუპანტისთვის. ოკუპანტი გაძევებულია.</CommandCancelGrowthDesc>
+
+  <CommandSelectOverseer>აირჩიეთ ზედამხედველი</CommandSelectOverseer>
+  <CommandSelectOverseerDesc>აირჩიეთ მექანიტორი, რომელიც არის ამ მექანიზმის ზედამხედველი.</CommandSelectOverseerDesc>
+  <CommandSelectOverseerDisabledDesc>არავითარი ზედამხედველი.</CommandSelectOverseerDisabledDesc>
+
+  <CommandCancelExtraction>მოპოვების გაუქმება</CommandCancelExtraction>
+  <CommandCancelExtractionDesc>გააუქმეთ მოპოვების პროცესი. შემავალი პირი განდევნილი იქნება.</CommandCancelExtractionDesc>
+
+  <CommandCallBossgroup>მექანიკური მუქარის გამოძახება...</CommandCallBossgroup>
+  <CommandCallBossgroupDesc>მოიწვიეთ მტრის ლიდერი მექანოიდი ესკორტებთან ერთად.\n\nთუ თქვენ დაამარცხებთ ლიდერ მექანოიდს, ის ჩამოაგდებს სპეციალურ ჩიპს, რომელიც შეგიძლიათ გამოიყენოთ საკუთარი მექანოიდის ტექნოლოგიის გასაუმჯობესებლად.\n\nარსებობს ლიდერის მექანოიდის სამი ტიპი, თითოეული მოწვეული სხვადასხვა გზით, თითოეული ჩამოაგდებს სხვადასხვა ტიპის ჩიპს.</CommandCallBossgroupDesc>
+
+  <CommandAutoLoad>{0} ავტომატური ჩატვირთვის გადართვა</CommandAutoLoad>
+  <CommandAutoLoadDesc>თუ აქტიურია, კოლონისტები ავტომატურად ჩატვირთავენ მას {0}-ით.</CommandAutoLoadDesc>
+
+  <CommandEjectContents>შინაარსის ამოღება</CommandEjectContents>
+  <CommandEjectContentsDesc>ყველა შემცველი {0}-ის ამოღება მიწაზე.</CommandEjectContentsDesc>
+
+  <CommandSelectAllMechs>აირჩიეთ ყველა მექანიზმი</CommandSelectAllMechs>
+  <CommandSelectAllMechsDesc>აირჩიეთ ყველა მექანიზმი, რომელსაც აკონტროლებს ეს მექანიტორი.</CommandSelectAllMechsDesc>
+
+  <CommandToggleTurret>კოშკი ჩართულია</CommandToggleTurret>
+  <CommandToggleTurretDesc>ჩართეთ კოშკი, რომელსაც შეუძლია სურვილისამებრ სროლა.\n\nროდესაც გამორთულია, კოშკი ავტომატურად არ ისვრის. ეს სასარგებლოა მტრების შეპარვისას.</CommandToggleTurretDesc>
+
+  <CommandCancelSubcoreScan>სკანირების გაუქმება</CommandCancelSubcoreScan>
+  <CommandCancelSubcoreScanDesc>გააუქმეთ სკანირების პროცესი. შემავალი პირი განდევნილი იქნება.</CommandCancelSubcoreScanDesc>
+
+  <ForceXenogermImplantation>ძალისმიერი ქსენოგერმის იმპლანტაცია</ForceXenogermImplantation>
+  <ForceXenogermImplantationDesc>აიძულეთ ეს ადამიანი გადანერგოს თავისი ქსენოგენები სხვა ინდივიდში სპეციალური საინექციო ორგანოს გამოყენებით. თუ ამ ადამიანის გენები ამჟამად ხელახლა იზრდება, ის ამ პროცესში მოკვდება.\n\nიმპლანტაციისას, ქსენოგერმი გადაწერს სამიზნის ქსენოგენებს. ჩანასახის გენი ზემოქმედება არ დარჩება.</ForceXenogermImplantationDesc>
+</LanguageData>

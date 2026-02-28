@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <DesignatorMechControlGroup>მიანიჭეთ ჯგუფს</DesignatorMechControlGroup>
+  <DesignatorMechControlGroupDesc>მიანიჭეთ არჩეული მექანიზმ(ები) სხვა საკონტროლო ჯგუფს მათი ამჟამინდელი მექანიტორის ზედამხედველის ქვეშ.</DesignatorMechControlGroupDesc>
+  <MechCanBuildThis>თუმცა, {0}-ს შეუძლია ამის შექმნა.</MechCanBuildThis>
+
+  <DesignatorAdopt>შვილობა</DesignatorAdopt>
+  <DesignatorAdoptDesc>მიიღე ეს ბავშვი კოლონისტად. ბავშვი მყისიერად გახდება ერთ-ერთი თქვენი.</DesignatorAdoptDesc>
+  <ChooseMechColor>აირჩიეთ მექანიკური ფერი...</ChooseMechColor>
+
+  <DesignatorAreaPollutionClearExpand>დაბინძურების მოცილების ტერიტორია</DesignatorAreaPollutionClearExpand>
+  <DesignatorAreaPollutionClearExpandDesc>დანიშნეთ ტერიტორია, სადაც კოლონისტები ხელით გაასუფთავებენ დაბინძურებულ რელიეფს. რელიეფის გაწმენდა აშორებს დაბინძურებას მიწიდან და ათავსებს მას ტოქსიკურ ნარჩენებში, რომელთა გადატანა შესაძლებელია.</DesignatorAreaPollutionClearExpandDesc>
+  <DesignatorAreaPollutionClearClear>გაასუფთავეთ დაბინძურების მოცილების ადგილი</DesignatorAreaPollutionClearClear>
+  <DesignatorAreaPollutionClearClearDesc>აშორებს დაბინძურების მოცილების ადგილს. კოლონისტები ამ ტერიტორიის რელიეფიდან ხელით აღარ გამოიტანენ დაბინძურებას.</DesignatorAreaPollutionClearClearDesc>
+
+
+</LanguageData>

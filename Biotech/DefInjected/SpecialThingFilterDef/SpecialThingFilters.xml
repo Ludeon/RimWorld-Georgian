@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AllowCorpsesMechEnemy.description>დაუშვით მტრის მექანოიდების მკვდარი სხეულები.</AllowCorpsesMechEnemy.description>
+  <AllowCorpsesMechEnemy.label>დაუშვას მტრის მექანიკური გვამები</AllowCorpsesMechEnemy.label>
+  <AllowCorpsesMechFriendly.description>ნება მიეცით მეგობრული მექანოიდების მკვდარი სხეულები.</AllowCorpsesMechFriendly.description>
+  <AllowCorpsesMechFriendly.label>დაუშვას მეგობრული მექანიკური გვამები</AllowCorpsesMechFriendly.label>
+</LanguageData>

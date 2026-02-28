@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ApparelDesired_Soft_Subordinate.description>{GENDER} წევრები კმაყოფილი იქნებიან, როდესაც ჩაიცვამენ {APPAREL_indefinite}. {GENDER} წევრები ჩამოვლენ {APPAREL_indefinite}-ით, თუ ეს ხელს არ შეუშლის სხვა ტანსაცმელს.</ApparelDesired_Soft_Subordinate.description>
+  <ApparelDesired_Soft_Subordinate.label>მოდუნებული</ApparelDesired_Soft_Subordinate.label>
+  <ApparelDesired_Strong_Subordinate.description>{GENDER} წევრები კმაყოფილი იქნებიან, როდესაც ჩაიცვამენ {APPAREL_indefinite}. {GENDER} წევრები ჩამოვლენ {APPAREL_indefinite}-ით, თუ ის არ უშლის ხელს ჯავშანს.</ApparelDesired_Strong_Subordinate.description>
+  <ApparelDesired_Strong_Subordinate.label>ძლიერი</ApparelDesired_Strong_Subordinate.label>
+</LanguageData>

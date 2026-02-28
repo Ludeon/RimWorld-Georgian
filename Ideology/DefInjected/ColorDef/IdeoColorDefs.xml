@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Black.label>შავი</Black.label>
+  <Blue.label>ლურჯი</Blue.label>
+  <DarkBlue.label>მუქი ლურჯი</DarkBlue.label>
+  <DarkGreen.label>მუქი მწვანე</DarkGreen.label>
+  <DarkGrey.label>მუქი ნაცრისფერი</DarkGrey.label>
+  <DarkMauve.label>მუქი მეწამული</DarkMauve.label>
+  <DarkOlive.label>მუქი ზეთისხილი</DarkOlive.label>
+  <DarkOrange.label>მუქი ნარინჯისფერი</DarkOrange.label>
+  <DarkPink.label>მუქი ვარდისფერი</DarkPink.label>
+  <DarkPurple.label>მუქი მეწამული</DarkPurple.label>
+  <DarkRed.label>მუქი წითელი</DarkRed.label>
+  <DarkSapphire.label>მუქი საფირონი</DarkSapphire.label>
+  <DarkTeal.label>მუქი ჩაისფერი</DarkTeal.label>
+  <Green.label>მწვანე</Green.label>
+  <Grey.label>ნაცრისფერი</Grey.label>
+  <LightBlue.label>ღია ცისფერი</LightBlue.label>
+  <LightGreen.label>ღია მწვანე</LightGreen.label>
+  <LightGrey.label>ღია ნაცრისფერი</LightGrey.label>
+  <LightMauve.label>ღია მეწამული</LightMauve.label>
+  <LightOlive.label>ღია ზეთისხილი</LightOlive.label>
+  <LightOrange.label>ღია ნარინჯისფერი</LightOrange.label>
+  <LightPink.label>ღია ვარდისფერი</LightPink.label>
+  <LightPurple.label>ღია იასამნისფერი</LightPurple.label>
+  <LightRed.label>ღია წითელი</LightRed.label>
+  <LightSapphire.label>მსუბუქი საფირონი</LightSapphire.label>
+  <LightTeal.label>ღია ჩაისფერი</LightTeal.label>
+  <Mauve.label>მეწამული</Mauve.label>
+  <Olive.label>ზეთისხილის</Olive.label>
+  <Orange.label>ფორთოხალი</Orange.label>
+  <Pink.label>ვარდისფერი</Pink.label>
+  <Purple.label>მეწამული</Purple.label>
+  <Red.label>წითელი</Red.label>
+  <Sapphire.label>საფირონი</Sapphire.label>
+  <Teal.label>ჩაისფერი</Teal.label>
+</LanguageData>

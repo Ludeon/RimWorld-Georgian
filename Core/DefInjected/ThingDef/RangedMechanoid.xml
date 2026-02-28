@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bullet_ChargeBlasterHeavy.label>დამუხტვის ბლასტერი გასროლა</Bullet_ChargeBlasterHeavy.label>
+  <Bullet_InfernoCannon.label>ჯოჯოხეთის ქვემეხის ჭურვი</Bullet_InfernoCannon.label>
+  <Bullet_NeedleGun.label>ნემსის გასროლა</Bullet_NeedleGun.label>
+  <Gun_Needle.description>შორეული იარაღი, რომელსაც იყენებენ მექანოიდები. ნემსისმაგვარი ჭურვების მიხედვით დაარქვეს და დიდი სიზუსტით ისვრის ერთ გასროლას. მიუხედავად იმისა, რომ ის ნაკლებ ზიანს აყენებს, ვიდრე დამუხტვის იარაღი, მას შეუძლია მიაღწიოს ძალიან დიდ დისტანციებზე.</Gun_Needle.description>
+  <Gun_Needle.label>ნემსის იარაღი</Gun_Needle.label>
+</LanguageData>

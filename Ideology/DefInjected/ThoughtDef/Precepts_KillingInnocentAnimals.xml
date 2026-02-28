@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <KilledInnocentAnimal_Disapproved.stages.0.description>უდანაშაულო ცხოველის მოკვლა მომიწია. ეს არ იყო ის, რასაც მე ვამტკიცებდი.</KilledInnocentAnimal_Disapproved.stages.0.description>
+  <KilledInnocentAnimal_Disapproved.stages.0.label>მოკლეს უდანაშაულო {0}</KilledInnocentAnimal_Disapproved.stages.0.label>
+  <KilledInnocentAnimal_Horrible.stages.0.description>უდანაშაულო ცხოველის მოკვლა მომიწია. ეს თითქმის მკვლელობის იძულებით იყო.</KilledInnocentAnimal_Horrible.stages.0.description>
+  <KilledInnocentAnimal_Horrible.stages.0.label>მოკლეს უდანაშაულო {0}</KilledInnocentAnimal_Horrible.stages.0.label>
+  <KilledInnocentAnimal_Know_Abhorrent.stages.0.label>მოკლა უდანაშაულო ცხოველი</KilledInnocentAnimal_Know_Abhorrent.stages.0.label>
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.description>მოკლეს უდანაშაულო, საყვარელი ცხოველი! ეს არის მკვლელობა!</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.description>
+  <KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.label>მოკლეს უდანაშაულო ცხოველი</KilledInnocentAnimal_Know_Abhorrent_Mood.stages.0.label>
+  <KilledInnocentAnimal_Know_Disapproved.stages.0.label>მოკლა უდანაშაულო ცხოველი</KilledInnocentAnimal_Know_Disapproved.stages.0.label>
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.description>მოკლეს უდანაშაულო ცხოველი. მე ამას არ ვამტკიცებ.</KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.description>
+  <KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.label>მოკლეს უდანაშაულო ცხოველი</KilledInnocentAnimal_Know_Disapproved_Mood.stages.0.label>
+  <KilledInnocentAnimal_Know_Horrible.stages.0.label>მოკლა უდანაშაულო ცხოველი</KilledInnocentAnimal_Know_Horrible.stages.0.label>
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.0.description>მოკლეს უდანაშაულო ცხოველი. რა საშინელი, უგულო საქციელია სხვა არსების წინააღმდეგ.</KilledInnocentAnimal_Know_Horrible_Mood.stages.0.description>
+  <KilledInnocentAnimal_Know_Horrible_Mood.stages.0.label>მოკლეს უდანაშაულო ცხოველი</KilledInnocentAnimal_Know_Horrible_Mood.stages.0.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Charity_Essential.description>ჩვენ ყოველთვის უნდა ვიყოთ ქველმოქმედები გაჭირვებულთა მიმართ. ამაზე უარის თქმა არაადამიანური ქმედება იქნება, მიუხედავად გარემოებებისა.</Charity_Essential.description>
+  <Charity_Essential.label>არსებითი</Charity_Essential.label>
+  <Charity_Important.description>მნიშვნელოვანია ქველმოქმედება გაჭირვებულთათვის. დახმარებაზე უარის თქმა საშინელი საქციელია.</Charity_Important.description>
+  <Charity_Important.label>მნიშვნელოვანი</Charity_Important.label>
+  <Charity_Worthwhile.description>გაჭირვებულთა დახმარება კარგია. ეს აძლიერებს საზოგადოებას.</Charity_Worthwhile.description>
+  <Charity_Worthwhile.label>ღირებული</Charity_Worthwhile.label>
+</LanguageData>

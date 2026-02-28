@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ConfigPage_ConfigureStartingPawns.label>დამწყები ხალხი</ConfigPage_ConfigureStartingPawns.label>
+  <ForcedMap.label>იძულებითი რუკა</ForcedMap.label>
+  <PlanetLayerFixed.label>პლანეტის ფენის ტიპი</PlanetLayerFixed.label>
+  <PlayerFaction.label>მოთამაშის ფრაქცია</PlayerFaction.label>
+  <PlayerPawnsArriveMethod.label>ჩამოსვლის მეთოდი</PlayerPawnsArriveMethod.label>
+  <SurfaceLayerFixed.label>ზედაპირის ფენის ტიპი</SurfaceLayerFixed.label>
+</LanguageData>

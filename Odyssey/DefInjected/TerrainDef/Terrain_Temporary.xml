@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LavaShallow.label>ზედაპირული ლავა</LavaShallow.label>
+  <MarshFlood.label>ზედაპირული წყალდიდობის წყალი</MarshFlood.label>
+  <ShallowFloodwater.label>ზედაპირული წყალდიდობის წყალი</ShallowFloodwater.label>
+  <SpringFlood.label>ზედაპირული წყალდიდობის წყალი</SpringFlood.label>
+  <ThinIce.label>თხელი ყინული</ThinIce.label>
+  <ToxicFlood.label>ზედაპირული წყალდიდობის წყალი</ToxicFlood.label>
+</LanguageData>

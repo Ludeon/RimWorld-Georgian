@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <FineTileGranite.label>წვრილი გრანიტის ფილა</FineTileGranite.label>
+  <FineTileLimestone.label>წვრილი კირქვის ფილა</FineTileLimestone.label>
+  <FineTileMarble.label>თხელი მარმარილოს ფილა</FineTileMarble.label>
+  <FineTileSandstone.label>წვრილი ქვიშაქვის ფილა</FineTileSandstone.label>
+  <FineTileSlate.label>წვრილი ფიქალის ფილა</FineTileSlate.label>
+  <FineTileVacstone.label>წვრილი ვაკსტონის ფილა</FineTileVacstone.label>
+</LanguageData>

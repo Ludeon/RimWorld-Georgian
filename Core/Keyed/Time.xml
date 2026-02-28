@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <LetterDay>d</LetterDay>
+  <LetterHour>h</LetterHour>
+  <LetterMinute>m</LetterMinute>
+  <LetterSecond>s</LetterSecond>
+  <LetterYear>y</LetterYear>
+  <AM>AM</AM>
+  <PM>PM</PM>
+  <DaysLower>დღე</DaysLower>
+  <HoursLower>საათი</HoursLower>
+  <SecondsLower>წამი</SecondsLower>
+  <SeasonSpring>გაზაფხული</SeasonSpring>
+  <SeasonSummer>ზაფხული</SeasonSummer>
+  <SeasonFall>შემოდგომა</SeasonFall>
+  <SeasonWinter>ზამთარი</SeasonWinter>
+  <SeasonPermanentSummer>მუდმივი ზაფხული</SeasonPermanentSummer>
+  <SeasonPermanentWinter>მუდმივი ზამთარი</SeasonPermanentWinter>
+  <QuadrumAprimay>აპრიმაი</QuadrumAprimay>
+  <QuadrumJugust>იუგუსტი</QuadrumJugust>
+  <QuadrumSeptober>სეპტობერი</QuadrumSeptober>
+  <QuadrumDecembary>დეჩემბარი</QuadrumDecembary>
+  <QuadrumAprimay_Short>აპრ</QuadrumAprimay_Short>
+  <QuadrumJugust_Short>ჯუგ</QuadrumJugust_Short>
+  <QuadrumSeptober_Short>სეპ</QuadrumSeptober_Short>
+  <QuadrumDecembary_Short>დეკ</QuadrumDecembary_Short>
+  <Born>დაიბადა: {0}</Born>
+  <AgeChronological>ქრონოლოგიური ასაკი: {0} წელი, {1} ოთხკუთხედი, {2} დღე</AgeChronological>
+  <AgeBiological>ბიოლოგიური ასაკი: {0} წელი, {1} ოთხკუთხედი, {2} დღე</AgeBiological>
+  <Period1Year>1 წელი</Period1Year>
+  <PeriodYears>{0} წელი</PeriodYears>
+  <Period1Quadrum>1 კვადრატი</Period1Quadrum>
+  <PeriodQuadrums>{0} ოთხკუთხედები</PeriodQuadrums>
+  <Period1Day>1 დღე</Period1Day>
+  <PeriodDays>{0} დღე</PeriodDays>
+  <Period1Hour>1 საათი</Period1Hour>
+  <PeriodHours>{0} საათი</PeriodHours>
+  <Period1Second>1 წამი</Period1Second>
+  <PeriodSeconds>{0} წამი</PeriodSeconds>
+  <Started>დაწყებული</Started>
+  <Lasted>გაგრძელდა</Lasted>
+  <OccurredTimeAgo>მოხდა {0}-ის წინ</OccurredTimeAgo>
+  <TimeAgo>{0} წინ</TimeAgo>
+</LanguageData>

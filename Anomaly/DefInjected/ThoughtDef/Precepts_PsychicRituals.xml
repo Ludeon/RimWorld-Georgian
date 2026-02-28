@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <InvolvedInPsychicRitual_Abhorrent.stages.0.description>მე შევეხე ბინძურ ფსიქიკურ ძალას სივრცის ქვემოთ. მეზიზღება საკუთარი თავი.</InvolvedInPsychicRitual_Abhorrent.stages.0.description>
+  <InvolvedInPsychicRitual_Abhorrent.stages.0.label>ჩართულია ფსიქიკურ რიტუალში</InvolvedInPsychicRitual_Abhorrent.stages.0.label>
+  <InvolvedInPsychicRitual_Disapproved.stages.0.description>ეს რიტუალი არასწორი იყო. იქ არ უნდა ვყოფილიყავი.</InvolvedInPsychicRitual_Disapproved.stages.0.description>
+  <InvolvedInPsychicRitual_Disapproved.stages.0.label>ჩართულია ფსიქიკურ რიტუალში</InvolvedInPsychicRitual_Disapproved.stages.0.label>
+  <InvolvedInPsychicRitual_Exalted.stages.0.description>საოცარი გამოცდილება იყო ჩემზე უფრო დიდთან დაკავშირება.</InvolvedInPsychicRitual_Exalted.stages.0.description>
+  <InvolvedInPsychicRitual_Exalted.stages.0.label>ჩართულია ფსიქიკურ რიტუალში</InvolvedInPsychicRitual_Exalted.stages.0.label>
+  <InvolvedInPsychicRitual_Social_Abhorrent.stages.0.label>ჩართულია ფსიქიკურ რიტუალში</InvolvedInPsychicRitual_Social_Abhorrent.stages.0.label>
+  <InvolvedInPsychicRitual_Social_Disapproved.stages.0.label>ჩართულია ფსიქიკურ რიტუალში</InvolvedInPsychicRitual_Social_Disapproved.stages.0.label>
+  <InvolvedInPsychicRitual_Social_Exalted.stages.0.label>ჩართულია ფსიქიკურ რიტუალში</InvolvedInPsychicRitual_Social_Exalted.stages.0.label>
+  <NoPsychicRituals.stages.0.description>ამ რიტუალების გამოუყენებლობა ყველას გვიჩვენებს, თუ რამდენად არასწორი ვართ.</NoPsychicRituals.stages.0.description>
+  <NoPsychicRituals.stages.0.label>არანაირი ფსიქიკური რიტუალები</NoPsychicRituals.stages.0.label>
+  <PsychicRitualPerformed_Abhorrent.stages.0.description>ასეთი ბინძური რიტუალების გამოყენება გვიჩვენებს, რომ ჩვენ ყველაზე ძირეული არსებები ვართ. ძალიან დავიკელით თავი.</PsychicRitualPerformed_Abhorrent.stages.0.description>
+  <PsychicRitualPerformed_Abhorrent.stages.0.label>შესრულებული ფსიქიკური რიტუალი</PsychicRitualPerformed_Abhorrent.stages.0.label>
+  <PsychicRitualPerformed_Disapproved.stages.0.description>ჩვენ არ უნდა გამოვიყენოთ ასეთი ბნელი ძალები. უბრალოდ არ არის სწორი.</PsychicRitualPerformed_Disapproved.stages.0.description>
+  <PsychicRitualPerformed_Disapproved.stages.0.label>შესრულებული ფსიქიკური რიტუალი</PsychicRitualPerformed_Disapproved.stages.0.label>
+</LanguageData>

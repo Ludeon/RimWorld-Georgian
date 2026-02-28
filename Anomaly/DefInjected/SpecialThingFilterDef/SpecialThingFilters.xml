@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AllowAnomalyResearch.description>დაუშვით წიგნები, რომლებსაც აქვთ ინფორმაცია, რომელიც ხელს უწყობს ანომალიების კვლევას.</AllowAnomalyResearch.description>
+  <AllowAnomalyResearch.label>ანომალიის კვლევა</AllowAnomalyResearch.label>
+  <AllowCorpsesUnnatural.description>დაუშვით უცნაური და არაბუნებრივი მკვდარი სხეულები.</AllowCorpsesUnnatural.description>
+  <AllowCorpsesUnnatural.label>დაუშვას არაბუნებრივი გვამები</AllowCorpsesUnnatural.label>
+</LanguageData>

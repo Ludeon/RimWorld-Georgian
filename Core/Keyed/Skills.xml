@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+
+  <Level>დონე</Level>
+  <SkillLevel>უნარების დონე</SkillLevel>
+  <ProgressToNextLevel>გადადით შემდეგ ნასწავლ დონეზე</ProgressToNextLevel>
+  <Experience>გამოცდილება</Experience>
+  <Passion>ვნება</Passion>
+  <PassionNone>არანაირი ვნება</PassionNone>
+  <PassionMinor>ვნება</PassionMinor>
+  <PassionMajor>მწველი ვნება</PassionMajor>
+  <LearningSpeed>სწავლის სიჩქარე</LearningSpeed>
+  <LearnedMaxToday>ვისწავლე მაქსიმუმი დღეს ({0}/{1}, შემდგომი სწავლა გამრავლებული {2}-ზე)</LearnedMaxToday>
+  <ChildrenLearn>ბავშვები სწავლობენ უნარებს უფროსების მუშაობის ყურებით და გაკვეთილების მაგიდასთან გაკვეთილებით.</ChildrenLearn>
+  <EffectsAtLevel>ეფექტები {0} დონეზე</EffectsAtLevel>
+  <SkillMax>მაქს</SkillMax>
+  <LearnedLevel>ნასწავლი დონე</LearnedLevel>
+  <NegativeLevelAdjustedToZero>ნეგატიური დონე მორგებულია ნულამდე.</NegativeLevelAdjustedToZero>
+  <LevelCappedAtMax>დონე დახურულია {0}-ზე.</LevelCappedAtMax>
+  <GeneLabelWithDesc>{GENE_label} გენი</GeneLabelWithDesc>
+  <TraitLabelWithDesc>{TRAITLABEL} თვისება</TraitLabelWithDesc>
+
+  <Skill0>ძლივს გავიგე</Skill0>
+  <Skill1>სრულიად დამწყები</Skill1>
+  <Skill2>დამწყები</Skill2>
+  <Skill3>ძირითადი გაცნობა</Skill3>
+  <Skill4>გარკვეული ნაცნობობა</Skill4>
+  <Skill5>მნიშვნელოვანი ნაცნობობა</Skill5>
+  <Skill6>უნარიანი მოყვარული</Skill6>
+  <Skill7>სუსტი პროფესიონალი</Skill7>
+  <Skill8>დასაქმებადი პროფესიონალი</Skill8>
+  <Skill9>მყარი პროფესიონალი</Skill9>
+  <Skill10>გამოცდილი პროფესიონალი</Skill10>
+  <Skill11>ძალიან გამოცდილი პროფესიონალი</Skill11>
+  <Skill12>ექსპერტი</Skill12>
+  <Skill13>ძლიერი ექსპერტი</Skill13>
+  <Skill14>ოსტატი</Skill14>
+  <Skill15>ძლიერი ოსტატი</Skill15>
+  <Skill16>რეგიონში ცნობილი ოსტატი</Skill16>
+  <Skill17>რეგიონის წამყვანი ოსტატი</Skill17>
+  <Skill18>პლანეტაზე ცნობილი ოსტატი</Skill18>
+  <Skill19>პლანეტის წამყვანი ოსტატი</Skill19>
+  <Skill20>ლეგენდარული ოსტატი</Skill20>
+  
+</LanguageData>
